@@ -129,6 +129,14 @@
   }
 }
 
+/* Above-the-fold entrance: no observer needed, it is already in view. */
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(1.75rem);
+  }
+}
+
 @keyframes drop-in {
   from {
     opacity: 0;

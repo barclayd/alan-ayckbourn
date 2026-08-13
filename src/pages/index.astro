@@ -1,22 +1,264 @@
 ---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import PlayCard from '@/components/PlayCard.astro';
+import onStage from '@/content/archive/life/_images/stacks-image-19d2a2b-1200x262.png';
 import Base from '@/layouts/Base.astro';
+
+/* Only the play landing pages — `plays/woman-in-mind`, not its sub-sections. */
+const plays = (
+  await getCollection('archive', ({ id }) => /^plays\/[^/]+$/.test(id))
+)
+  .filter((p) => p.data.year !== undefined)
+  .sort((a, b) => (a.data.year ?? 0) - (b.data.year ?? 0));
+
+const pageCount = (await getCollection('archive')).length;
+
+/**
+ * The oeuvre, not the scrape: 92 plays over sixty-seven years is true whether
+ * or not we have finished pulling them down. Only the page count is derived,
+ * because that one *is* a fact about this archive.
+ * ponytail: two constants beat a wrong number derived from a partial scrape.
+ */
+const stats = [
+  { value: 92, label: 'Plays' },
+  { value: 67, label: 'Years' },
+  { value: pageCount, label: 'Pages in this archive' },
+];
+
+const decades = [
+  ...Map.groupBy(plays, (p) => Math.floor((p.data.year ?? 0) / 10) * 10),
+].sort(([a], [b]) => a - b);
+
+const waysIn = [
+  {
+    href: '/plays',
+    label: 'The Plays',
+    blurb:
+      'Every play, with its premieres, synopsis, staging notes and production history.',
+  },
+  {
+    href: '/life',
+    label: 'Life',
+    blurb:
+      'Biography, chronology, the people who shaped the work, and Ayckbourn in his own words.',
+  },
+  {
+    href: '/career',
+    label: 'Career',
+    blurb:
+      'Playwright, director, actor, artistic director — sixty years at the Stephen Joseph Theatre and beyond.',
+  },
+  {
+    href: '/encyclopaedia',
+    label: 'Encyclopaedia',
+    blurb: 'The A–Z: people, places, terms and productions, cross-referenced.',
+  },
+];
 ---
 
-<Base title="Alan Ayckbourn" chrome="landing">
-  <section class="mx-auto flex min-h-dvh max-w-4xl flex-col justify-center px-6">
-    <p
-      class="font-ui text-xs tracking-[0.25em] text-chrome-muted uppercase"
-    >
-      Playwright &middot; Director
-    </p>
-    <h1
-      class="mt-4 font-display text-6xl leading-[0.9] uppercase sm:text-8xl"
-    >
-      Sir Alan<br />Ayckbourn
-    </h1>
-    <p class="mt-8 max-w-prose text-chrome-muted">
-      92 plays across sixty-seven years. Scaffold in place &mdash; the archive
-      lands next.
-    </p>
+<Base
+  title="Alan Ayckbourn"
+  description="The archive of Sir Alan Ayckbourn: 92 plays across sixty-seven years, with premieres, production histories and research."
+>
+  <section
+    class="relative flex min-h-[min(88svh,46rem)] flex-col justify-center overflow-hidden bg-chrome px-4 py-24 text-chrome-ink sm:px-6"
+  >
+    <div class="mx-auto w-full max-w-6xl">
+      <p
+        class="animate-[rise-in_.7s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
+      >
+        Playwright &middot; Director &middot; Scarborough
+      </p>
+      {/* Sized to fill the measure at every width: 9 Anton caps run about
+          4.2× the font size, and 20.5vw holds that inside the 72rem shell. */}
+      <h1
+        class="mt-5 animate-[rise-in_.8s_var(--ease-stage)_.08s_both] font-display text-[clamp(3.2rem,20.5vw,17rem)] uppercase leading-[0.86]"
+      >
+        Sir Alan<br />Ayckbourn
+      </h1>
+      <p
+        class="mt-8 max-w-[46ch] animate-[rise-in_.8s_var(--ease-stage)_.16s_both] text-lg text-chrome-muted"
+      >
+        Ninety-two plays written in the round, in a seaside town, over
+        sixty-seven years. This is the archive of all of it.
+      </p>
+
+      <dl
+        class="mt-14 grid max-w-2xl grid-cols-3 gap-6 animate-[rise-in_.8s_var(--ease-stage)_.24s_both]"
+      >
+        {
+          stats.map(({ value, label }) => (
+            <div class="border-chrome-rule border-t pt-4">
+              {/* The final value is in the HTML; the script only animates
+                  towards it, so no-JS and reduced-motion both read true. */}
+              <dd
+                class="font-display text-4xl leading-none tabular-nums sm:text-6xl"
+                data-countup={value}
+              >
+                {value.toLocaleString('en-GB')}
+              </dd>
+              <dt
+                class="mt-2 font-ui text-[0.65rem] uppercase tracking-[0.18em] text-chrome-muted"
+              >
+                {label}
+              </dt>
+            </div>
+          ))
+        }
+      </dl>
+    </div>
+  </section>
+
+  <section class="border-rule border-b bg-surface-raised px-4 py-12 sm:px-6">
+    <div class="mx-auto max-w-6xl" data-reveal>
+      <h2
+        class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+      >
+        On stage now
+      </h2>
+      {/*
+        The archive's own current-production banner, kept as it was published.
+        A point-in-time snapshot: replaced when the What's On feed is scraped.
+      */}
+      <Image
+        src={onStage}
+        alt="How The Other Half Loves, a play by Alan Ayckbourn, at The Old Vic, 29 July to 19 September 2026."
+        widths={[600, 900, 1200]}
+        sizes="(min-width: 72rem) 68rem, 100vw"
+        class="mt-5 w-full rounded-sm"
+      />
+    </div>
+  </section>
+
+  <section class="px-4 py-24 sm:px-6">
+    <div class="mx-auto max-w-6xl">
+      <div class="flex flex-wrap items-baseline justify-between gap-4" data-reveal>
+        <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl">
+          Selected work
+        </h2>
+        <a
+          href="/plays"
+          class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-muted underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+        >
+          All 92 plays
+        </a>
+      </div>
+
+      <ul class="mt-10 grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5">
+        {
+          plays.map((play, i) => (
+            <li data-reveal style={`--reveal-delay: ${i * 0.06}s`}>
+              <PlayCard play={play} />
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="bg-chrome py-24 text-chrome-ink">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <div data-reveal>
+      <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl">
+        By decade
+      </h2>
+      <p class="mt-3 max-w-[46ch] font-ui text-sm text-chrome-muted">
+        Scarborough, 1959 to now. Scroll sideways.
+      </p>
+      </div>
+
+      {/* ponytail: scroll-snap is the scrubber — native inertia, native
+          keyboard, no JS. Add a drag shim only if testing demands it. */}
+      <ol
+        class="mt-10 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-4 [scrollbar-width:thin]"
+        tabindex="0"
+        aria-label="Plays by decade"
+      >
+      {
+        decades.map(([decade, entries]) => (
+          <li class="w-64 shrink-0 snap-start border-chrome-rule border-t pt-5">
+            <p class="font-display text-5xl leading-none text-chrome-accent">
+              {decade}s
+            </p>
+            <p class="mt-2 font-ui text-[0.65rem] uppercase tracking-[0.18em] text-chrome-muted">
+              {entries.length} {entries.length === 1 ? 'play' : 'plays'}
+            </p>
+            <ul class="mt-4 space-y-1.5">
+              {entries.map((p) => (
+                <li>
+                  <a
+                    href={`/${p.id}`}
+                    class="font-ui text-sm text-chrome-muted transition-colors hover:text-chrome-ink"
+                  >
+                    {p.data.title}
+                    <span class="tabular-nums"> {p.data.year}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </li>
+        ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  <section class="px-4 py-24 sm:px-6">
+    <div class="mx-auto max-w-6xl">
+      <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl" data-reveal>
+        Four ways in
+      </h2>
+      <ul class="mt-10 grid gap-px overflow-hidden rounded-sm bg-rule sm:grid-cols-2">
+        {
+          waysIn.map(({ href, label, blurb }, i) => (
+            <li data-reveal style={`--reveal-delay: ${i * 0.07}s`}>
+              <a
+                href={href}
+                class="group flex h-full flex-col bg-surface p-7 transition-colors hover:bg-surface-raised"
+              >
+                <span class="font-display text-2xl uppercase leading-none transition-colors group-hover:text-accent">
+                  {label}
+                </span>
+                <span class="mt-3 font-ui text-sm leading-relaxed text-muted">
+                  {blurb}
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
   </section>
 </Base>
+
+<script>
+  /* Count-up. The DOM already holds the real figure, so this only ever
+     animates towards a number that is correct without it. */
+  const targets = document.querySelectorAll<HTMLElement>('[data-countup]');
+
+  if (targets.length && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    const format = new Intl.NumberFormat('en-GB');
+
+    const run = (el: HTMLElement) => {
+      const to = Number(el.dataset.countup);
+      const started = performance.now();
+      const step = (now: number) => {
+        const t = Math.min((now - started) / 1400, 1);
+        // Same ease as --ease-stage: fast out of the gate, long settle.
+        el.textContent = format.format(Math.round(to * (1 - (1 - t) ** 3)));
+        if (t < 1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+    };
+
+    const io = new IntersectionObserver((entries) => {
+      for (const { target, isIntersecting } of entries) {
+        if (!isIntersecting) continue;
+        run(target as HTMLElement);
+        io.unobserve(target);
+      }
+    });
+    for (const el of targets) io.observe(el);
+  }
+</script>

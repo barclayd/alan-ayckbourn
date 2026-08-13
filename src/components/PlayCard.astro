@@ -1,0 +1,58 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+
+/**
+ * A play in the grid. Poster art where it exists; where it doesn't, the title
+ * set in the house display face on the same mat, so a grid of mostly-postered
+ * plays never looks half-finished next to the ones without art.
+ */
+type Props = { play: CollectionEntry<'archive'> };
+
+const { play } = Astro.props;
+const { title, year, poster, facts } = play.data;
+const venue = facts?.['World Premiere Venue'] ?? facts?.Venue;
+---
+
+<a
+  href={`/${play.id}`}
+  class="group block focus-visible:outline-offset-4"
+>
+  {/*
+    The mat. Posters run from 175×175 to 175×426 and none is wider than 175px,
+    so the mat is a fixed height rather than a shared aspect: every card lines
+    up on the same baseline and no artwork is cropped or upscaled past what the
+    original site ever published. It steps down on narrow screens, where the
+    columns are half the width and a 19rem mat is mostly empty. The poster cap
+    is the mat less its padding, in rem rather than 100% — a centred grid item
+    resolves a percentage max-height as indefinite and the tall posters escape.
+  */}
+  <div
+    class="grid h-[15rem] place-items-center rounded-sm bg-chrome-raised p-4 transition-transform duration-500 ease-stage group-hover:-translate-y-1.5 group-hover:rotate-[1.2deg] group-focus-visible:-translate-y-1.5 sm:h-[19rem]"
+  >
+    {
+      poster ? (
+        <Image
+          src={poster}
+          alt={`Poster artwork for ${title}`}
+          widths={[poster.width]}
+          sizes={`${poster.width}px`}
+          class="max-h-[13rem] max-w-full rounded-[1px] shadow-lg shadow-black/40 sm:max-h-[17rem]"
+        />
+      ) : (
+        <span class="text-balance px-2 text-center font-display text-2xl uppercase leading-[0.95] text-chrome-ink/80">
+          {title}
+        </span>
+      )
+    }
+  </div>
+
+  <h3
+    class="mt-3 font-display text-lg uppercase leading-tight transition-colors group-hover:text-accent"
+  >
+    {title}
+  </h3>
+  <p class="mt-0.5 font-ui text-xs tracking-wide text-muted">
+    {year}{venue && <> &middot; {venue.split(',')[0]}</>}
+  </p>
+</a>
