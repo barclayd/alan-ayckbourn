@@ -37,8 +37,40 @@ bun run dev
 | `bun run preview` | Serve the built output |
 | `bun run lint` / `lint:fix` | Biome |
 | `bun run types` | `astro sync` + `tsc --noEmit` |
-| `bun run scrape` | Extract content from the existing site (see PR 2) |
+| `bun run scrape` | Extract content from the existing site (see [Scraping](#scraping)) |
 | `bun run deploy` | Build and `wrangler deploy` |
+
+## Scraping
+
+The original site is RapidWeaver + Stacks 5 static HTML. `scripts/scrape.mjs` walks each
+subdomain's sitemap, strips the Stacks wrapper soup, and writes one Markdown file per page
+into `src/content/archive/<route>/index.md` — plus the page's images alongside it in
+`_images/`, so Astro optimises them as relative markdown images.
+
+```sh
+bun run scrape                                  # sample: 5 plays + Life + Career
+bun run scrape --all                            # every play subdomain
+bun run scrape --sites=biography,womaninmind    # named subdomains
+```
+
+Every fetch is cached under `.cache/scrape/` (gitignored) and rate-limited to ~5 req/s —
+this hits someone else's Apache box, so scrape once and iterate on the cache. Deleting the
+cache directory forces a re-fetch.
+
+Notes on the source site, which the scraper works around:
+
+- Only `www` has a valid TLS certificate; every subdomain is fetched over `http`.
+- URLs are meaningless (`/styled-22/page48/`), so routes and titles come from the site's
+  own anchor text. Filler segments (`page4`, `styled`) are dropped, and directories that
+  were never published get their slug from the link that points at them.
+- Play data sheets (premiere dates, venues, rights holders) are lifted out of the prose
+  into `facts` in the frontmatter.
+- The repeated copyright and sibling-navigation blocks are stripped from every body — the
+  credits appear once in the footer, the nav is derived from the content tree.
+
+Each run writes `scraped/report.json` — page counts, blocks dropped, and, importantly,
+`unresolvedLinks` and `uncrawledHosts`: internal links pointing at subdomains this run
+didn't cover. That list is the input to the full scrape.
 
 ## Theme model
 

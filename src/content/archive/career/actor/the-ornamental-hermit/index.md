@@ -1,0 +1,60 @@
+---
+title: "Actor"
+source: "http://careers.alanayckbourn.net/styled-3/page126/"
+order: 468
+---
+
+## The Ornamental Hermit (1957)
+
+### Production Details
+
+**Play:**  
+**Author:**
+
+**First performance:  
+Final performance:**  
+**Venue:**  
+**Staging:**
+
+**Director:  
+Stage Manager:** The Ornamental Hermit  
+Catherine Prynne
+
+1 August 1957  
+6 September 1957  
+The Library Theatre, Scarborough  
+Round
+
+Rodney Wood  
+Alan Ayckbourn   **Character**  
+Bensted  
+Michael Bridges  
+Violet  
+Emma Totteridge  
+Sue  
+Lewis Finbow  
+Jack Bensted **Actor**  
+Frank Mills  
+Clive Goodwin  
+Anne Taylor  
+Betty Cardno  
+Shirley Jacobs  
+Malcolm Rogers  
+Alan Ayckbourn
+
+### Quotes & Notes
+
+Alan Ayckbourn joined the Studio Theatre Ltd company at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, in 1957. He was recruited by the stage manager Rodney Wood as as assistant stage manager with occasional acting roles. For most of the plays in the 1957 season, Alan is credited as stage manager. He appeared in two plays, *An Inspector Calls* and *The Ornamental Hermit*.
+
+After the end of the 1957 summer season, Alan was employed at the Oxford Playhouse. In early 1958, Alan was asked whether he would return to Theatre in the Round at the Library Theatre and he rejoined the company for the summer season.
+
+The production was also performed as part of the Studio Theatre Club in London for one performance during September 1957, with Alan Ayckbourn performing with the original Scarborough company.
+
+**Review extract from The Guardian** (2 August 1957)  
+"In a production in which all the players pitch in with a will, there are particularly good showings from Clive Goodwin, Shirley Jacob, Alan Ayckbourn, and Malcolm Rogers."
+
+**Review extract from The Times** (16 September 1957)  
+"Mr Clive Goodwin was, however, natural, and acceptable as the young man and Mr Alan Ayckbourn at the end gave a lively account of a young country-bred poet of an engaging dishevelment."
+
+**Review extract from The Stage** (19 September 1957)  
+"Character parts which have the benefit of some assured writing are played accurately and amusingly by Anne Taylor, Alan Ayckbourn, Frank Mills and Malcolm Rogers."*All research for this page by Simon Murgatroyd.*
