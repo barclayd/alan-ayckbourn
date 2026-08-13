@@ -1,0 +1,7 @@
+pre-commit:
+  parallel: true
+  commands:
+    biome:
+      glob: '*.{astro,ts,tsx,mjs,js,css,json,jsonc}'
+      run: bunx biome check --write {staged_files}
+      stage_fixed: true

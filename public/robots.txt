@@ -1,0 +1,4 @@
+# This is an unofficial design concept, not the official Alan Ayckbourn website.
+# It must never compete with alanayckbourn.net in search results.
+User-agent: *
+Disallow: /

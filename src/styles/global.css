@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+/*
+ * Theme model (decided in PLAN.md):
+ *   Chrome — hero, nav, section landings — stays theatrically dark in BOTH
+ *   themes, so the art direction is never diluted. The toggle swaps only the
+ *   reading surface.
+ */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-display: "Anton", "Arial Narrow", sans-serif;
+  --font-body: "Newsreader", Georgia, serif;
+  --font-ui: "Inter", system-ui, sans-serif;
+
+  /* Chrome: fixed across both themes. */
+  --color-chrome: #0b0a09;
+  --color-chrome-raised: #171412;
+  --color-chrome-ink: #f5f0e6;
+  --color-chrome-muted: #a19a8e;
+  --color-chrome-rule: #2e2a26;
+  --color-chrome-accent: #e8564f;
+
+  /* Reading surface: flips with the theme via the vars below. */
+  --color-surface: var(--surface);
+  --color-surface-raised: var(--surface-raised);
+  --color-body: var(--body);
+  --color-muted: var(--muted);
+  --color-rule: var(--rule);
+  --color-accent: var(--accent);
+
+  --text-base: 1.1875rem; /* 19px reading size */
+
+  --ease-stage: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+:root {
+  --surface: #faf7f0;
+  --surface-raised: #f2ede2;
+  --body: #14110f;
+  --muted: #5c554c;
+  --rule: #ddd5c7;
+  --accent: #c1272d; /* 6.2:1 on paper */
+
+  color-scheme: light;
+}
+
+.dark {
+  --surface: #1a1714;
+  --surface-raised: #221e1a;
+  --body: #ede6da;
+  --muted: #a39a8d;
+  --rule: #35302a;
+  --accent: #e8564f; /* lifted for contrast on charcoal */
+
+  color-scheme: dark;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-surface);
+    color: var(--color-body);
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    line-height: 1.65;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Visible focus everywhere — the readership is older and keyboard use matters. */
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background-color: var(--color-accent);
+    color: #fff;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  /* !important is load-bearing here: this must beat any per-component
+     animation, whatever its specificity. Accessibility guarantee, not a smell. */
+  /* biome-ignore-start lint/complexity/noImportantStyles: reduced-motion reset must win the cascade */
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  /* biome-ignore-end lint/complexity/noImportantStyles: reduced-motion reset must win the cascade */
+}

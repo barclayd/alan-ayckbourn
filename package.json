@@ -1,0 +1,44 @@
+{
+  "name": "alan-ayckbourn",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "rm -rf dist && astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "check": "astro check",
+    "types": "astro sync && tsc --noEmit",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "scrape": "node scripts/scrape.mjs",
+    "deploy": "bun run build && wrangler deploy"
+  },
+  "dependencies": {
+    "astro": "7.1.6",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@biomejs/biome": "2.5.6",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.1.2",
+    "cheerio": "^1.1.2",
+    "lefthook": "^2.1.10",
+    "pagefind": "^1.4.0",
+    "tailwindcss": "^4.3.3",
+    "turndown": "^7.2.4",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.45.0"
+  },
+  "browserslist": [
+    "Chrome >= 111",
+    "Edge >= 111",
+    "Safari >= 16.4",
+    "iOS >= 16.4",
+    "Firefox >= 128",
+    "ChromeAndroid >= 111",
+    "not IE > 0"
+  ]
+}

@@ -1,0 +1,63 @@
+---
+import { Font } from 'astro:assets';
+import '@/styles/global.css';
+
+type Props = {
+  title: string;
+  description?: string;
+  /** Dark chrome runs edge to edge on landing pages; reading pages sit on paper. */
+  chrome?: 'landing' | 'reading';
+};
+
+const {
+  title,
+  description = 'The work of Sir Alan Ayckbourn: 92 plays across sixty-seven years.',
+  chrome = 'reading',
+} = Astro.props;
+
+const fullTitle =
+  title === 'Alan Ayckbourn' ? title : `${title} — Alan Ayckbourn`;
+---
+
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+
+    <Font cssVariable="--font-display" preload />
+    <Font cssVariable="--font-body" preload />
+    <Font cssVariable="--font-ui" />
+
+    <!-- Applied before first paint so the chosen theme never flashes. -->
+    <script is:inline>
+      (() => {
+        const stored = localStorage.getItem('theme');
+        const dark = stored
+          ? stored === 'dark'
+          : matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.classList.toggle('dark', dark);
+      })();
+    </script>
+  </head>
+  <body
+    class:list={[
+      'min-h-dvh antialiased',
+      chrome === 'landing' && 'bg-chrome text-chrome-ink',
+    ]}
+  >
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-50 focus:bg-accent focus:px-4 focus:py-2 focus:font-ui focus:text-white"
+    >
+      Skip to content
+    </a>
+    <main id="main">
+      <slot />
+    </main>
+  </body>
+</html>
