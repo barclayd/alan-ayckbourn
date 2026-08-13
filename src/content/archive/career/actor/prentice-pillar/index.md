@@ -1,0 +1,49 @@
+---
+title: "Actor"
+source: "http://careers.alanayckbourn.net/styled-3/page147/"
+order: 488
+---
+
+## 'Prentice Pillar (1960)
+
+### Production Details
+
+**Play:**  
+**Author:**
+
+**First performance:  
+Final performance:**  
+**Venue:**  
+**Staging:**
+
+**Director:** 'Prentice Pillar  
+Ruth Dixon
+
+15 June 1960  
+22 June 1960  
+The Library Theatre, Scarborough  
+Round
+
+Stephen Joseph   **Character**  
+Dick  
+Essie  
+Prentice  
+Martha  
+Master Mason  
+The Tub **Actor**  
+David Campton  
+Hazel Burt  
+Alan Ayckbourn  
+Anita Robinson  
+David Glover  
+Faynia Jeffery
+
+### Quotes & Notes
+
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+
+**Review extract from unknown publication** (June 1960)  
+"A sensitive performance was given by Alan Ayckbourn as the apprentice."
+
+**Review extract from unknown publication** (June 1960)  
+"Alan Ayckbourn and Hazel Ann Lee played the young lovers with great feeling."*All research for this page by Simon Murgatroyd.*

@@ -1,0 +1,352 @@
+{
+  "scrapedAt": "2026-08-13",
+  "hosts": [
+    "biography.alanayckbourn.net",
+    "careers.alanayckbourn.net",
+    "relativelyspeaking.alanayckbourn.net",
+    "absurdpersonsingular.alanayckbourn.net",
+    "thenormanconquests.alanayckbourn.net",
+    "womaninmind.alanayckbourn.net",
+    "familyalbum.alanayckbourn.net"
+  ],
+  "pages": 536,
+  "written": 536,
+  "images": 183,
+  "navBlocksDropped": 260,
+  "creditBlocksDropped": 265,
+  "untitled": [],
+  "unresolvedLinks": [
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page48/",
+      "to": "http://recordings.alanayckbourn.net/page0/page23/Media_Barker.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page66/",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page67/",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page/",
+      "to": "http://byjeeves.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page-39/",
+      "to": "http://interviews.alanayckbourn.net/page-6/page-7/page90.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page-42/",
+      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page-42/",
+      "to": "http://advocates.alanayckbourn.net/page/page-9/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-4/BiographyFacts.html",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-14/BiographyFAQNational.html",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-17/BiographyFAQDirecting.html",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
+      "to": "http://recordings.alanayckbourn.net/page43/Media_Chorus_Of.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
+      "to": "http://recordings.alanayckbourn.net/page37/Media_Revengers_Comedies.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
+      "to": "http://recordings.alanayckbourn.net/page34/Media_Intimate_Exchanges.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
+      "to": "http://recordings.alanayckbourn.net/page44/Media_Private_Fears.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
+      "to": "http://recordings.alanayckbourn.net/page42/Media_Life_Of_Riley.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
+      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
+      "to": "http://recordings.alanayckbourn.net/styled-3/styled/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/page29/Availability.html",
+      "to": "http://recordings.alanayckbourn.net/page8/RecordingsTelevision.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/page29/Availability.html",
+      "to": "http://recordings.alanayckbourn.net/styled-3/RecordingsFilms.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/page29/Availability.html",
+      "to": "http://recordings.alanayckbourn.net/page49/RecordingsRadio1.html"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
+      "to": "http://tablemanners.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
+      "to": "http://livingtogether.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
+      "to": "http://roundandroundthegarden.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
+      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-36/page-5/page-6/NationalTheatre.html",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/",
+      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-16/",
+      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page4.html",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page9/",
+      "to": "http://the7deadlyvirtues.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page9/",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page9/",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page10/",
+      "to": "http://howtheotherloves.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page10/",
+      "to": "http://chloewithlove.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page10/",
+      "to": "http://thekidderminsteraffair.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page11/",
+      "to": "http://chloewithlove.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page11/",
+      "to": "http://thekidderminsteraffair.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page12/",
+      "to": "http://the7deadlyvirtues.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page4/page12/",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-3/page-7/",
+      "to": "http://thesjt.alanayckbourn.net/page1/styled-45/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-3/page140/",
+      "to": "http://thesjt.alanayckbourn.net/page1/styled-45/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-2/page-105/NationalTheatre.html",
+      "to": "http://advocates.alanayckbourn.net/page/page-4/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-2/page-105/NationalTheatre.html",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-2/page-104/NationalTheatre.html",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/page-80/page-78/",
+      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled/BBC.html",
+      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+    },
+    {
+      "from": "http://womaninmind.alanayckbourn.net/page-2/",
+      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+    },
+    {
+      "from": "http://familyalbum.alanayckbourn.net/styled-2/",
+      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+    }
+  ],
+  "imagesWithoutAlt": 183,
+  "failures": [],
+  "uncrawledHosts": [
+    "abriefhistoryofwomen.alanayckbourn.net",
+    "absentfriends.alanayckbourn.net",
+    "achorusofdisapproval.alanayckbourn.net",
+    "acutintherates.alanayckbourn.net",
+    "alanayckbourn.net",
+    "alllies.alanayckbourn.net",
+    "annodomino.alanayckbourn.net",
+    "archiving.alanayckbourn.net",
+    "arrivalsanddepartures.alanayckbourn.net",
+    "asmallfamilybusiness.alanayckbourn.net",
+    "atriptoscarborough.alanayckbourn.net",
+    "awakingbeauty.alanayckbourn.net",
+    "awordfromoursponsor.alanayckbourn.net",
+    "backnumbers.alanayckbourn.net",
+    "bedroomfarce.alanayckbourn.net",
+    "betteroffdead.alanayckbourn.net",
+    "betweenthelines.alanayckbourn.net",
+    "biography.alanayckbourn.net",
+    "birthdayspastbirthdayspresent.alanayckbourn.net",
+    "bodylanguage.alanayckbourn.net",
+    "boymeetsgirl.alanayckbourn.net",
+    "callisto5.alanayckbourn.net",
+    "careers.alanayckbourn.net",
+    "cheapandcheerful.alanayckbourn.net",
+    "christmasvmastermind.alanayckbourn.net",
+    "comicpotential.alanayckbourn.net",
+    "communicatingdoors.alanayckbourn.net",
+    "confusions.alanayckbourn.net",
+    "constantcompanions.alanayckbourn.net",
+    "consumingpassions.alanayckbourn.net",
+    "countdown.alanayckbourn.net",
+    "dadstale.alanayckbourn.net",
+    "damselstrilogy.alanayckbourn.net",
+    "dearuncle.alanayckbourn.net",
+    "doublehitch.alanayckbourn.net",
+    "dracula.alanayckbourn.net",
+    "dreamsfromasummerhouse.alanayckbourn.net",
+    "drowningondryland.alanayckbourn.net",
+    "earthangel.alanayckbourn.net",
+    "encyclopedia.alanayckbourn.net",
+    "ernies.alanayckbourn.net",
+    "familycircles.alanayckbourn.net",
+    "farcicals.alanayckbourn.net",
+    "fatherofinvention.alanayckbourn.net",
+    "firstcourse.alanayckbourn.net",
+    "flatspin.alanayckbourn.net",
+    "followthelover.alanayckbourn.net",
+    "gameplan.alanayckbourn.net",
+    "gizmo.alanayckbourn.net",
+    "hauntingjulia.alanayckbourn.net",
+    "henceforward.alanayckbourn.net",
+    "heroswelcome.alanayckbourn.net",
+    "houseandgarden.alanayckbourn.net",
+    "howtheotherhalfloves.alanayckbourn.net",
+    "ifiwereyou.alanayckbourn.net",
+    "improbablefiction.alanayckbourn.net",
+    "incidentalmusic.alanayckbourn.net",
+    "insideoutside.alanayckbourn.net",
+    "intimateexchanges.alanayckbourn.net",
+    "invisiblefriends.alanayckbourn.net",
+    "itcouldbe.alanayckbourn.net",
+    "jeeves.alanayckbourn.net",
+    "jokingapart.alanayckbourn.net",
+    "justbetweenourselves.alanayckbourn.net",
+    "lifeandbeth.alanayckbourn.net",
+    "lifeofriley.alanayckbourn.net",
+    "loveafterall.alanayckbourn.net",
+    "loveundertaken.alanayckbourn.net",
+    "makingtracks.alanayckbourn.net",
+    "manofthemoment.alanayckbourn.net",
+    "memyselfandi.alanayckbourn.net",
+    "menonwomen.alanayckbourn.net",
+    "meresoupsongs.alanayckbourn.net",
+    "mirandasmagicmirror.alanayckbourn.net",
+    "missyesterday.alanayckbourn.net",
+    "mrasamazing.alanayckbourn.net",
+    "mrwhatnot.alanayckbourn.net",
+    "mysistersadie.alanayckbourn.net",
+    "myveryownstory.alanayckbourn.net",
+    "mywonderfulday.alanayckbourn.net",
+    "neighbourhoodwatch.alanayckbourn.net",
+    "noknowing.alanayckbourn.net",
+    "orvin.alanayckbourn.net",
+    "palos.alanayckbourn.net",
+    "plays.alanayckbourn.net",
+    "privatefears.alanayckbourn.net",
+    "publications.alanayckbourn.net",
+    "relativelyspeaking.alanayckbourn.net",
+    "research.alanayckbourn.net",
+    "roleplay.alanayckbourn.net",
+    "ronandjulie.alanayckbourn.net",
+    "roundelay.alanayckbourn.net",
+    "seasonsgreetings.alanayckbourn.net",
+    "secondhelping.alanayckbourn.net",
+    "servicenotincluded.alanayckbourn.net",
+    "sevendeadlyvirtues.alanayckbourn.net",
+    "showandtell.alanayckbourn.net",
+    "sisterlyfeelings.alanayckbourn.net",
+    "snakeinthegrass.alanayckbourn.net",
+    "standingroomonly.alanayckbourn.net",
+    "suburbanstrains.alanayckbourn.net",
+    "sugardaddies.alanayckbourn.net",
+    "surprises.alanayckbourn.net",
+    "takingsteps.alanayckbourn.net",
+    "tentimestable.alanayckbourn.net",
+    "the-girl-next-door.alanayckbourn.net",
+    "theboywhofell.alanayckbourn.net",
+    "thechampionofparibanou.alanayckbourn.net",
+    "thedivide.alanayckbourn.net",
+    "thefearsomethreesome.alanayckbourn.net",
+    "theforest.alanayckbourn.net",
+    "thegirlwholosthervoice.alanayckbourn.net",
+    "thejollies.alanayckbourn.net",
+    "thejubileeshow.alanayckbourn.net",
+    "thekaraoketheatrecompany.alanayckbourn.net",
+    "themusicaljigsawplay.alanayckbourn.net",
+    "thepartygame.alanayckbourn.net",
+    "theplays.alanayckbourn.net",
+    "theprincessandthemouse.alanayckbourn.net",
+    "therevengerscomedies.alanayckbourn.net",
+    "thesparrow.alanayckbourn.net",
+    "thesquarecat.alanayckbourn.net",
+    "thetenmagicbridges.alanayckbourn.net",
+    "thetrialofromeooscar.alanayckbourn.net",
+    "thewestwoods.alanayckbourn.net",
+    "thingswedoforlove.alanayckbourn.net",
+    "thisiswherewecamein.alanayckbourn.net",
+    "timeandtimeagain.alanayckbourn.net",
+    "timeofmylife.alanayckbourn.net",
+    "tonsofmoney.alanayckbourn.net",
+    "truthwillout.alanayckbourn.net",
+    "untitledfarce.alanayckbourn.net",
+    "virtualreality.alanayckbourn.net",
+    "wayupstream.alanayckbourn.net",
+    "welcometothefamily.alanayckbourn.net",
+    "whenever.alanayckbourn.net",
+    "wildestdreams.alanayckbourn.net",
+    "wolfatthedoor.alanayckbourn.net",
+    "writingabsurdpersonsingular.alanayckbourn.net",
+    "www.alanayckbourn.net"
+  ]
+}
