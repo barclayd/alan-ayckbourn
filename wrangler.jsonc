@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "alan-ayckbourn",
+  "compatibility_date": "2026-08-01",
+  // Pure static site: no Worker script, just assets on the CDN.
+  // A Worker route gets added in PR 8 for the contact form.
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

@@ -1,0 +1,30 @@
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# scraper HTTP cache — large, regenerable, never committed
+.cache/scrape/
+
+# logs
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# editors
+.idea/
+.vscode/
+
+# lock files from other package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# wrangler
+.wrangler/
+.dev.vars
