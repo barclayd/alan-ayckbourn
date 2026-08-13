@@ -10,12 +10,6 @@ Here the website present a few facts about the playwright with regard to his pla
 
 ### Alan Ayckbourn: Playwriting Facts
 
-<aside>
-
-**Playwright: Related Pages**
-
-</aside>
-
 ○ Alan Ayckbourn has written - as of 2026 - **92** full length plays.  
 ○ He has also written more than 25 other assorted revues, one act plays, adaptations, books and plays for children.  
 ○ Alan Ayckbourn began his professional play-writing career in 1959 at Theatre in the Round at the Library Theatre, Scarborough, with his first full-length play ***[The Square Cat](/plays/the-square-cat)***.  

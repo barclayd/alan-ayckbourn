@@ -1,5 +1,7 @@
 ---
 import { Font } from 'astro:assets';
+import SiteFooter from '@/components/SiteFooter.astro';
+import SiteHeader from '@/components/SiteHeader.astro';
 import '@/styles/global.css';
 
 type Props = {
@@ -33,7 +35,8 @@ const fullTitle =
     <Font cssVariable="--font-body" preload />
     <Font cssVariable="--font-ui" />
 
-    <!-- Applied before first paint so the chosen theme never flashes. -->
+    <!-- Applied before first paint so the chosen theme never flashes. `js` also
+         gates the reveal-on-scroll styles, so nothing is hidden without JS. -->
     <script is:inline>
       (() => {
         const stored = localStorage.getItem('theme');
@@ -41,12 +44,13 @@ const fullTitle =
           ? stored === 'dark'
           : matchMedia('(prefers-color-scheme: dark)').matches;
         document.documentElement.classList.toggle('dark', dark);
+        document.documentElement.classList.add('js');
       })();
     </script>
   </head>
   <body
     class:list={[
-      'min-h-dvh antialiased',
+      'flex min-h-dvh flex-col antialiased',
       chrome === 'landing' && 'bg-chrome text-chrome-ink',
     ]}
   >
@@ -56,8 +60,37 @@ const fullTitle =
     >
       Skip to content
     </a>
-    <main id="main">
+    <SiteHeader />
+    <main id="main" class="flex-1">
       <slot />
     </main>
+    <SiteFooter />
+
+    <!--
+      Reveal-on-scroll for anything marked [data-reveal]. Deliberately one
+      IntersectionObserver rather than CSS scroll-driven animations plus a
+      fallback: same result, one code path, works on every browser we support.
+      ponytail: if this ever needs scrub-linked motion, that's when view()
+      timelines earn their second code path.
+    -->
+    <script>
+      const revealed = document.querySelectorAll('[data-reveal]');
+
+      if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        for (const el of revealed) el.removeAttribute('data-reveal');
+      } else {
+        const io = new IntersectionObserver(
+          (entries) => {
+            for (const { target, isIntersecting } of entries) {
+              if (!isIntersecting) continue;
+              target.setAttribute('data-reveal', 'in');
+              io.unobserve(target);
+            }
+          },
+          { rootMargin: '0px 0px -12% 0px' },
+        );
+        for (const el of revealed) io.observe(el);
+      }
+    </script>
   </body>
 </html>

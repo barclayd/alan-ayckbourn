@@ -10,12 +10,6 @@ This page contains some frequently asked questions regarding Alan Ayckbourn and 
 
 ## Alan Ayckbourn & The National Theatre: Frequently Asked Questions
 
-<aside>
-
-**Ayckbourn & The National**
-
-</aside>
-
 **1)** When did Alan Ayckbourn first work with the National Theatre?  
 **2)** Which Ayckbourn plays have been produced at the National Theatre?  
 **3)** When did Alan Ayckbourn take a sabbatical from the Stephen Joseph Theatre to join the National Theatre?  

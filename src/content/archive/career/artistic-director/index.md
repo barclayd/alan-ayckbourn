@@ -8,12 +8,6 @@ Alan Ayckbourn was the Artistic Director of the Stephen Joseph Theatre, Scarboro
 
 An article commissioned to mark the 50th anniversary of Alan Ayckbourn being appointed Artistic Director of Theatre in the Round at the Library Theatre, Scarborough, in 1972 can also be found **[here](/career/artistic-director/artistic-director-50th-anniversary)**.
 
-<aside>
-
-**Alan Ayckbourn & The SJT**
-
-</aside>
-
 Alan Ayckbourn joined Theatre in the Round at the Library Theatre, Scarborough, in 1957 as an acting stage manager (a stage manager with occasional acting roles), two years after the company had been formed by Stephen Joseph. Encouraged by Stephen, Alan began writing professionally for the venue in 1959 and directing in 1961. He was with the company from 1957 until 1962, when Stephen Joseph founded the UK's first purpose built theatre-in-the-round venue at the Victoria Theatre, Stoke-on-Trent, of which Alan was a founding member. There he wrote, directed and acted at this venue until he left in 1965 to become a radio drama producer for the BBC, based in Leeds.
 
 Alan kept close links with the Scarborough venue though and despite working for the BBC began writing for Scarborough again in 1965 with the play *Meet My Father* - which retitled *Relatively Speaking* would become his first major success. Stephen Joseph died in 1967 and Alan, alongside several other people, was instrumental in keeping Theatre in the Round at the Library Theatre operating. In subsequent years, the venue operated only on a seasonal basis for the summer and a temporary post of Director Of Productions was appointed to oversee the theatre during each season. Alan held this post in both 1969 and 1970 with Caroline Smith taking over in 1971. In 1972, Alan was asked to take on the permanent position of Artistic Director of the company, a role which he held until 2009.

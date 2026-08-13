@@ -1,0 +1,113 @@
+---
+import ThemeToggle from './ThemeToggle.astro';
+
+const links = [
+  { href: '/plays', label: 'Plays' },
+  { href: '/life', label: 'Life' },
+  { href: '/career', label: 'Career' },
+  { href: '/encyclopaedia', label: 'Encyclopaedia' },
+];
+
+const path = Astro.url.pathname;
+const isCurrent = (href: string) =>
+  path === href || path.startsWith(`${href}/`);
+---
+
+<header
+  id="site-header"
+  class="sticky top-0 z-40 border-chrome-rule/70 border-b bg-chrome/85 text-chrome-ink backdrop-blur-md"
+>
+  <div class="mx-auto flex h-14 max-w-6xl items-center gap-4 px-4 sm:px-6">
+    <a
+      href="/"
+      class="font-display text-lg uppercase leading-none tracking-wide transition-colors hover:text-chrome-accent"
+    >
+      Ayckbourn
+    </a>
+
+    <nav aria-label="Sections" class="ml-auto hidden sm:block">
+      <ul class="flex items-center gap-7">
+        {
+          links.map(({ href, label }) => (
+            <li>
+              <a
+                href={href}
+                aria-current={isCurrent(href) ? 'page' : undefined}
+                class="group relative block py-2 font-ui text-[0.7rem] uppercase tracking-[0.2em] text-chrome-muted transition-colors hover:text-chrome-ink aria-[current=page]:text-chrome-ink"
+              >
+                {label}
+                {/* Underline draws in from the left; sits at full width when current. */}
+                <span
+                  aria-hidden="true"
+                  class="absolute inset-x-0 -bottom-px h-px origin-left scale-x-0 bg-chrome-accent transition-transform duration-300 ease-stage group-hover:scale-x-100 group-aria-[current=page]:scale-x-100"
+                />
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <div class="ml-auto flex items-center gap-1 sm:ml-0">
+      <a
+        href="/search"
+        aria-current={isCurrent('/search') ? 'page' : undefined}
+        aria-label="Search the archive"
+        class="grid size-9 place-items-center rounded-full text-chrome-muted transition-colors hover:text-chrome-ink aria-[current=page]:text-chrome-ink"
+      >
+        <svg
+          class="size-[1.15rem]"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.6"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <circle cx="10.6" cy="10.6" r="6.4"></circle>
+          <path d="m15.4 15.4 4.2 4.2"></path>
+        </svg>
+      </a>
+
+      <ThemeToggle />
+
+      {/* ponytail: <details> is the whole mobile menu — no JS, keyboard and AT
+          support for free. Swap for a dialog only if it needs to trap focus. */}
+      <details class="group sm:hidden">
+        <summary
+          class="grid size-9 cursor-pointer list-none place-items-center rounded-full text-chrome-muted [&::-webkit-details-marker]:hidden"
+          aria-label="Sections"
+        >
+          {/* Both bars share one grid cell so they are concentric — open, they
+              only need to unshift and rotate to meet as a cross. */}
+          <span
+            class="col-start-1 row-start-1 h-px w-4 -translate-y-[3px] bg-current transition-[translate,rotate] duration-300 ease-stage group-open:translate-y-0 group-open:rotate-45"
+          ></span>
+          <span
+            class="col-start-1 row-start-1 h-px w-4 translate-y-[3px] bg-current transition-[translate,rotate] duration-300 ease-stage group-open:translate-y-0 group-open:-rotate-45"
+          ></span>
+        </summary>
+        <nav
+          aria-label="Sections"
+          class="absolute inset-x-0 top-14 origin-top animate-[drop-in_.35s_var(--ease-stage)_both] border-chrome-rule/70 border-b bg-chrome"
+        >
+          <ul class="mx-auto max-w-6xl px-4 py-2">
+            {
+              links.map(({ href, label }) => (
+                <li class="border-chrome-rule/50 border-b last:border-0">
+                  <a
+                    href={href}
+                    aria-current={isCurrent(href) ? 'page' : undefined}
+                    class="block py-3.5 font-ui text-sm uppercase tracking-[0.18em] text-chrome-muted aria-[current=page]:text-chrome-accent"
+                  >
+                    {label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+      </details>
+    </div>
+  </div>
+</header>

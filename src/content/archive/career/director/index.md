@@ -10,12 +10,6 @@ Ask Alan what he thinks though and his answer might surprise.
 *"I always consider myself as a director who writes rather than a writer who directs, because directing takes up so much of my time.”  
 Alan Ayckbourn*
 
-<aside>
-
-**Director: Related Pages**
-
-</aside>
-
 Alan’s career as a director is often over-looked, yet his professional directing career spans more than six decades and in excess of 350 productions from Scarborough to New York.  
 That he considers himself a director first is understandable considering Alan’s formative directing experiences came when he was barely recognised for his writing, having had only three plays professionally produced and being better known as an actor.  
 In 1961, the founder of Scarborough’s **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** and Alan’s most significant mentor suggested he might consider directing.

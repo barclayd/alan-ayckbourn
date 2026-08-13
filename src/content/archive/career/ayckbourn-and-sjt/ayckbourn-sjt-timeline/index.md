@@ -6,12 +6,6 @@ order: 451
 
 This page offers a concise history of significant events pertaining to Alan Ayckbourn's working relationship with the Stephen Joseph Theatre, Scarborough.
 
-<aside>
-
-**Alan Ayckbourn & The SJT**
-
-</aside>
-
 - **1955:** **[Stephen Joseph](/life)** founds the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** in Scarborough, home to the Studio Theatre Ltd company - the first professional theatre-in-the-round company in the UK.
 - **1957:** Alan Ayckbourn joins Theatre in the Round at the Library Theatre as an **[Acting Stage Manager](/career/stage-manager)** (a stage manager with limited acting roles) for the summer season. He meets and becomes life-long friends with Stephen Joseph, his most influential mentor.
 - **1958:** Alan Ayckbourn returns to Theatre in the Round at the Library Theatre as a stage manager and actor. With the start of the winter season, he will become primarily an actor with the company.

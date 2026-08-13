@@ -10,12 +10,6 @@ This page offers an at-a-glance timeline to Alan Ayckbourn's relationship with t
 
 ## Alan Ayckbourn & The National Theatre Timeline
 
-<aside>
-
-**Ayckbourn & The National**
-
-</aside>
-
 **1973**  
 **○** Peter Hall, Artistic Director of the National Theatre, sees Alan Ayckbourn's play *Absurd Person Singular* in the West End.  
 **1974  
