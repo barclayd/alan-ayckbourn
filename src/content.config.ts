@@ -12,19 +12,22 @@ const archive = defineCollection({
     base: './src/content/archive',
     generateId: ({ entry }) => entry.replace(/\/?index\.md$/, ''),
   }),
-  schema: z.object({
-    title: z.string().min(1),
-    /** Original URL, kept so any page can be re-scraped or diffed. */
-    source: z.string().url(),
-    /** Position in the original site's own navigation. */
-    order: z.number().int(),
-    /** Slug of the play this page belongs to, for pages under `plays/`. */
-    play: z.string().optional(),
-    year: z.number().int().min(1950).max(2100).optional(),
-    poster: z.string().optional(),
-    /** `World Premiere`, `Venue`, `Cast`… label/value pairs from the data sheets. */
-    facts: z.record(z.string(), z.string()).optional(),
-  }),
+  /* `image()` resolves `./_images/…` against the entry, so posters go through
+     Astro's pipeline and arrive with intrinsic dimensions. */
+  schema: ({ image }) =>
+    z.object({
+      title: z.string().min(1),
+      /** Original URL, kept so any page can be re-scraped or diffed. */
+      source: z.string().url(),
+      /** Position in the original site's own navigation. */
+      order: z.number().int(),
+      /** Slug of the play this page belongs to, for pages under `plays/`. */
+      play: z.string().optional(),
+      year: z.number().int().min(1950).max(2100).optional(),
+      poster: image().optional(),
+      /** `World Premiere`, `Venue`, `Cast`… label/value pairs from the data sheets. */
+      facts: z.record(z.string(), z.string()).optional(),
+    }),
 });
 
 export const collections = { archive };
