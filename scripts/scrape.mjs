@@ -370,6 +370,15 @@ const BOILERPLATE =
 
 const plain = (s) => s.replace(/[\\*]/g, '').replace(/\s+/g, ' ').trim();
 
+/**
+ * A heading, or a paragraph that is nothing but a bold run — the pull-out boxes
+ * title themselves either way. Neither counts as the box's content, so a box
+ * left holding only these once its navigation is stripped is an empty box.
+ */
+const isLabel = (block) =>
+  block.type === 'h' ||
+  (block.type === 'p' && /^\*\*[^*]+\*\*$/.test(block.text.trim()));
+
 function dropNavBlocks(blocks, title) {
   const kept = [];
   let dropped = 0;
@@ -400,7 +409,7 @@ function dropNavBlocks(blocks, title) {
       const inner = dropNavBlocks(block.blocks, title);
       dropped += inner.dropped;
       credits += inner.credits;
-      if (!inner.blocks.some((b) => b.type !== 'h')) {
+      if (!inner.blocks.some((b) => !isLabel(b))) {
         dropped++;
         continue;
       }

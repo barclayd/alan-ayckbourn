@@ -8,12 +8,6 @@ This page contains some of the frequently asked questions about Alan Ayckbourn a
 
 ### Facts
 
-<aside>
-
-**Alan Ayckbourn & The SJT**
-
-</aside>
-
 ○ Alan Ayckbourn does not own or manage the Stephen Joseph Theatre (nor ever has). It is not Alan Ayckbourn's theatre (except in the sense it is the theatre he is most associated with).  
 ○ Since 1957, Alan Ayckbourn has - in various guises - been an employee of or employed by Studio Theatre Ltd (1957 - 1962) and Scarborough Theatre Trust (1964 - present day).  
 ○ Since his retirement as Artistic Director in 2009, he no longer has any involvement in the theatre on a day-to-day basis. He is employed as a guest director, but has no say in how the theatre is run.

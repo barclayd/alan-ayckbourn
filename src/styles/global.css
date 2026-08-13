@@ -84,9 +84,277 @@
   }
 }
 
+/*
+ * Motion
+ *
+ * Native cross-document view transitions: no client router, no JS, no
+ * re-hydration. Browsers without support just navigate normally.
+ * ponytail: Astro's <ClientRouter /> buys nothing here — every page is static.
+ */
+@view-transition {
+  navigation: auto;
+}
+
+/* Chrome persists across navigations instead of wiping with the page. */
+#site-header {
+  view-transition-name: site-header;
+}
+#site-footer {
+  view-transition-name: site-footer;
+}
+
+/* The curtain: the outgoing page dims, the incoming one rises into view. */
+::view-transition-old(root) {
+  animation: curtain-out 0.28s var(--ease-stage) both;
+}
+::view-transition-new(root) {
+  animation: curtain-in 0.45s var(--ease-stage) both;
+}
+
+@keyframes curtain-out {
+  to {
+    opacity: 0;
+    transform: scale(0.995);
+  }
+}
+
+@keyframes curtain-in {
+  from {
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(1.5rem);
+  }
+  to {
+    clip-path: inset(0 0 0 0);
+    transform: none;
+  }
+}
+
+@keyframes drop-in {
+  from {
+    opacity: 0;
+    transform: translateY(-0.5rem) scaleY(0.96);
+  }
+}
+
+/*
+ * Reveal-on-scroll. The `.js` gate is the point: without it, a failed or blocked
+ * script would leave every revealed section permanently invisible. Content is
+ * visible by default and only hidden once we know something can un-hide it.
+ * `--reveal-delay` staggers siblings.
+ */
+.js [data-reveal] {
+  opacity: 0;
+  transform: translateY(1.5rem);
+}
+
+.js [data-reveal="in"] {
+  opacity: 1;
+  transform: none;
+  transition:
+    opacity 0.7s var(--ease-stage) var(--reveal-delay, 0s),
+    transform 0.7s var(--ease-stage) var(--reveal-delay, 0s);
+}
+
+/*
+ * Reading surface typography. Hand-rolled rather than @tailwindcss/typography:
+ * the archive only ever produces h2–h3, p, em, strong, a, ul/ol, img and
+ * <aside>, and every colour would have had to be overridden anyway.
+ */
+@utility prose-archive {
+  max-width: 68ch;
+  font-size: var(--text-base);
+  line-height: 1.65;
+  text-wrap: pretty;
+
+  & > * + * {
+    margin-top: 1.25em;
+  }
+
+  /* Opening paragraph reads as a lead. */
+  & > p:first-child {
+    font-size: 1.2em;
+    line-height: 1.55;
+    color: var(--color-body);
+  }
+
+  & h2,
+  & h3 {
+    text-wrap: balance;
+    scroll-margin-top: 5rem;
+  }
+
+  & h2 {
+    margin-top: 2.5em;
+    font-family: var(--font-display);
+    font-size: 1.65em;
+    line-height: 1.05;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+  }
+
+  /* Accent rule above each h2 — the section marker from a theatre programme. */
+  & h2::before {
+    content: "";
+    display: block;
+    width: 2.5rem;
+    height: 2px;
+    margin-bottom: 0.6rem;
+    background-color: var(--color-accent);
+  }
+
+  & h3 {
+    margin-top: 2em;
+    font-family: var(--font-ui);
+    font-size: 0.78em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--color-muted);
+  }
+
+  & strong {
+    font-weight: 600;
+  }
+
+  /* The archive cross-references constantly — three links a paragraph is normal.
+     Accent on the text would read as a ransom note, so only the rule is accent. */
+  & a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: var(--color-accent);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+    transition:
+      color 0.2s var(--ease-stage),
+      text-decoration-thickness 0.2s var(--ease-stage);
+  }
+
+  & a:hover {
+    color: var(--color-accent);
+    text-decoration-thickness: 2px;
+  }
+
+  & ul,
+  & ol {
+    padding-left: 1.35em;
+  }
+
+  & ul {
+    list-style: disc;
+  }
+
+  & ol {
+    list-style: decimal;
+  }
+
+  & li::marker {
+    color: var(--color-accent);
+  }
+
+  & li + li {
+    margin-top: 0.4em;
+  }
+
+  /* Everything in the archive was published at 300px or less. Never upscale it —
+     `width: auto` holds each image at its own size inside the measure. */
+  & img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 0.12);
+    outline: 1px solid var(--color-rule);
+    outline-offset: -1px;
+  }
+
+  & figure > figcaption,
+  & img + em {
+    display: block;
+    margin-top: 0.6rem;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    color: var(--color-muted);
+  }
+
+  /* Captions: the archive writes them as a wholly italic paragraph under the
+     image, usually a credit ("© Tony Bartholomew"). */
+  & p:has(> img) + p:has(em) {
+    margin-top: 0.6rem;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
+  /* Pull-out boxes ("Behind The Scenes: …") from the original site. */
+  & aside {
+    margin-top: 2em;
+    border-left: 2px solid var(--color-accent);
+    background-color: var(--color-surface-raised);
+    padding: 1.25rem 1.35rem;
+    font-size: 0.94em;
+  }
+
+  & aside > * + * {
+    margin-top: 1em;
+  }
+
+  /* An aside that opens with a picture is the original site's right-hand image
+     column, not a pull-out box. It reads as a plain figure. */
+  & aside:has(> p:first-child > img:first-child) {
+    border-left: 0;
+    background-color: transparent;
+    padding: 0;
+  }
+
+  & aside h2,
+  & aside h3 {
+    margin-top: 1.6em;
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+
+  & aside > :is(h2, h3):first-child {
+    margin-top: 0;
+  }
+
+  & aside h2::before {
+    content: none;
+  }
+
+  /* The boxes title themselves with a bold opening run and a line break rather
+     than a heading ("Behind The Scenes: …"). Give it the same label treatment. */
+  & aside > p:first-child > strong:first-child {
+    display: block;
+    margin-bottom: 0.7rem;
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    line-height: 1.5;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
+  }
+
+  /* No wipe, no rise — a plain cross-fade. */
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none;
+  }
+
+  .js [data-reveal] {
+    opacity: 1;
+    transform: none;
   }
 
   /* !important is load-bearing here: this must beat any per-component

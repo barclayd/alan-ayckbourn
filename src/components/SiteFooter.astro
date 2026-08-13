@@ -1,0 +1,86 @@
+---
+/**
+ * The credits are the point of this footer, not the links. The original site
+ * repeats the research credit on all ~3,600 pages; the scraper strips it from
+ * every body so it can be said once, properly, here.
+ */
+const year = new Date().getFullYear();
+---
+
+<footer
+  id="site-footer"
+  class="border-chrome-rule/70 border-t bg-chrome font-ui text-chrome-muted"
+>
+  <div
+    class="mx-auto grid max-w-6xl gap-10 px-4 py-14 sm:grid-cols-2 sm:px-6 lg:grid-cols-[1.4fr_1fr_1fr]"
+  >
+    <div>
+      <p
+        class="font-display text-2xl uppercase leading-none tracking-wide text-chrome-ink"
+      >
+        Sir Alan Ayckbourn
+      </p>
+      <p class="mt-4 max-w-sm text-sm leading-relaxed">
+        All research and original material is by <strong
+          class="font-semibold text-chrome-ink">Simon Murgatroyd M.A.</strong
+        >, Alan Ayckbourn&rsquo;s archivist, and copyright of Haydonning Ltd.
+        Sixty years of scholarship — this archive exists because of it.
+      </p>
+    </div>
+
+    <nav aria-label="Archive">
+      <h2 class="text-[0.7rem] uppercase tracking-[0.2em] text-chrome-ink">
+        Archive
+      </h2>
+      <ul class="mt-4 space-y-2.5 text-sm">
+        <li><a href="/plays" class="hover:text-chrome-ink">The Plays</a></li>
+        <li><a href="/life" class="hover:text-chrome-ink">Life</a></li>
+        <li>
+          <a href="/career" class="hover:text-chrome-ink">Career &amp; Timeline</a>
+        </li>
+        <li>
+          <a href="/encyclopaedia" class="hover:text-chrome-ink">Encyclopaedia</a>
+        </li>
+        <li><a href="/search" class="hover:text-chrome-ink">Search</a></li>
+      </ul>
+    </nav>
+
+    <div>
+      <h2 class="text-[0.7rem] uppercase tracking-[0.2em] text-chrome-ink">
+        Elsewhere
+      </h2>
+      <ul class="mt-4 space-y-2.5 text-sm">
+        <li>
+          <a
+            href="https://www.alanayckbourn.net"
+            class="hover:text-chrome-ink"
+            rel="external"
+          >
+            The official website
+          </a>
+        </li>
+        <li>
+          <a href="https://www.sjt.uk.com" class="hover:text-chrome-ink">
+            Stephen Joseph Theatre
+          </a>
+        </li>
+        <li><a href="/contact" class="hover:text-chrome-ink">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="border-chrome-rule/70 border-t">
+    <div
+      class="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-6 text-xs leading-relaxed sm:flex-row sm:items-baseline sm:justify-between sm:px-6"
+    >
+      <p>
+        &copy; Haydonning Ltd, 1959&ndash;{year}, all rights reserved. Please do
+        not reproduce in any form without written consent of the copyright
+        holder.
+      </p>
+      <p class="text-chrome-muted/70">
+        An unofficial design concept. Not affiliated with Haydonning Ltd.
+      </p>
+    </div>
+  </div>
+</footer>

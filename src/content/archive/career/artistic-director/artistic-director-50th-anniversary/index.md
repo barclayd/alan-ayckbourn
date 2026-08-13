@@ -10,12 +10,6 @@ This article was written by the playwright's archivist, Simon Murgatroyd, to mar
 
 **Artistically Directed** by Simon Murgatrroyd
 
-<aside>
-
-**Alan Ayckbourn & The SJT**
-
-</aside>
-
 Earlier in 2022, the Stephen Joseph Theatre celebrated the 50th anniversary of Alan Ayckbourn’s play *Absurd Person Singular*. But that’s not the only 50th anniversary of note this year.
 
 For on 12 November 1972, Alan Ayckbourn was appointed the Artistic Director of Theatre in the Round at the Library Theatre - which would have an extraordinary bearing on both him and this company in the decades to follow.

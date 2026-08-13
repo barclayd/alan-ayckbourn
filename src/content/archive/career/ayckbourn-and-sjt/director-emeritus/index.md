@@ -6,12 +6,6 @@ order: 109
 
 In 2018, the Stephen Joseph Theatre named Alan Ayckbourn as its first Director Emeritus recognising his long association with the company.
 
-<aside>
-
-**Alan Ayckbourn & The SJT**
-
-</aside>
-
 It marked the first time such an appointment had been made by the Stephen Joseph Theatre and recognised Sir Alan's many achievements with the SJT as well as his commitment to the stage and regional theatre.
 
 The accolade was announced on 20 April 2018 at the Stephen Joseph Theatre and Sir Alan admitted it was something he was very proud to receive.
