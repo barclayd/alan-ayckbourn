@@ -37,4 +37,5 @@ order: 579
 *(Alan Ayckbourn, 1999)*
 
 **Review extract from the Scarborough Evening News** (6 July 1962)  
-"Alan Ayckbourn and Elizabeth Bell masterfully assume various guises, and there are delightful cameos from the rest of the cast."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn and Elizabeth Bell masterfully assume various guises, and there are delightful cameos from the rest of the cast."  
+*All research for this page by Simon Murgatroyd.*

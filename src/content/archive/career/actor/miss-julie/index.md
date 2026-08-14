@@ -29,4 +29,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 
 *Miss Julie* was presented as a double bill with Alan Plater's ***[The Rainbow Machine](/career/actor/the-rainbow-machine)***.
 
-\**Miss Julie* presents an interesting problem as the programme for the production does not feature Alan Ayckbourn playing the role of Jean, only crediting him as director. However, a production photograph has been identified as being of this production of *Miss Julie* with Alan Ayckbourn playing the role of Jean.*All research for this page by Simon Murgatroyd.*
+\**Miss Julie* presents an interesting problem as the programme for the production does not feature Alan Ayckbourn playing the role of Jean, only crediting him as director. However, a production photograph has been identified as being of this production of *Miss Julie* with Alan Ayckbourn playing the role of Jean.  
+*All research for this page by Simon Murgatroyd.*

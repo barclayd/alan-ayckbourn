@@ -18,7 +18,8 @@ order: 564
 
 **Character**  
 All actors played  
-various roles **Actor**  
+various roles  
+**Actor**  
 Alan Ayckbourn  
 David Jarrett  
 Rosamund Dickson  

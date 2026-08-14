@@ -4,7 +4,8 @@ source: "http://publications.alanayckbourn.net/styled-11/page/page19.html"
 order: 849
 ---
 
-Whilst the vast majority of Alan Ayckbourn's plays are currently in print and published by Samuel French (click **[here](/publications/buy-the-plays)**), there have been other publishers and publications of Alan Ayckbourn's plays. This page lists other, generally out-of-print, editions of his plays and collections.**○ Absent Friends**  
+Whilst the vast majority of Alan Ayckbourn's plays are currently in print and published by Samuel French (click **[here](/publications/buy-the-plays)**), there have been other publishers and publications of Alan Ayckbourn's plays. This page lists other, generally out-of-print, editions of his plays and collections.  
+**○ Absent Friends**  
 *Longman, 1996, ISBN 0582302420*
 
 **○ Absent Friends** (Japanese edition)  
@@ -170,7 +171,8 @@ Whilst the vast majority of Alan Ayckbourn's plays are currently in print and pu
 *Evans Plays, 1968, ISBN 0237494833*
 
 **○ Relatively Speaking** (North American edition)  
-*Samuel French Inc, 1968, ISBN 0573615020***○ The Revengers’ Comedies**  
+*Samuel French Inc, 1968, ISBN 0573615020*  
+**○ The Revengers’ Comedies**  
 *Faber, 1991, ISBN 057114358X*
 
 **○ Round and Round the Garden** (North American edition)  
@@ -326,4 +328,5 @@ Rowohlt, 1994, ISBN 9783499133916
 Orion Press, 1981
 
 **○ GamePlan / My Sister Sadie** (Japanese collection - Hardcover)  
-2003, ISBN 4907775318*All research for this page by Simon Murgatroyd.*
+2003, ISBN 4907775318  
+*All research for this page by Simon Murgatroyd.*

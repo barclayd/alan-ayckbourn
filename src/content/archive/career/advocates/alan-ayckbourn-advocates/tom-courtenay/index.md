@@ -9,4 +9,5 @@ order: 2317
 ### Quotes
 
 "Alan knows what works on an audience uncannily - not only from his experience but from instinct. He has got terrific technique, but he is also inspired and terribly touching too. There are things in the play about ladies and gentlemen that are as pertinent as anything anybody’s writing at the moment - better perhaps than some who are thought of more seriously."  
-*(1975)**Copyright: Tom Courtenay. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1975)*  
+*Copyright: Tom Courtenay. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

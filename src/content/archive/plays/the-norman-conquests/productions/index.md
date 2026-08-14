@@ -22,33 +22,23 @@ play: "the-norman-conquests"
 **Final performance:** 15 September 1973
 
 **Venue:** Theatre in the Round at the Library Theatre, Scarborough  
-**Staging:** Round**Director:**  
-**Design:**  
-**Costumes:**  
-**Stage Manager:**  
-**Deputy SM:**  
-**Assistant SM:**
+**Staging:** Round
 
-**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-TomAlan Ayckbourn  
-David Price  
-Christine Welch  
-David Price  
-Allan Took  
-Robert Benfield
+**Director:** Alan Ayckbourn  
+**Design:** David Price  
+**Costumes:** Christine Welch  
+**Stage Manager:** David Price  
+**Deputy SM:** Allan Took  
+**Assistant SM:** Robert Benfield  
+**Character** **Actor**  
+**Reg** Stanley Page  
+**Sarah** Alex Marshall  
+**Ruth** Janet Dale  
+**Norman** Christopher Godwin  
+**Annie** Rosalind Adams  
+**Tom** Ronald Herdman
 
-**Actor**  
-Stanley Page  
-Alex Marshall  
-Janet Dale  
-Christopher Godwin  
-Rosalind Adams  
-Ronald Herdman**Note:** The original titles for the plays are used above, these would later be altered in 1974. *Fancy Meeting Yo*u was retitled *Table Manners*, whilst *Make Yourself At Home* was retitled *Living Together*.
+**Note:** The original titles for the plays are used above, these would later be altered in 1974. *Fancy Meeting Yo*u was retitled *Table Manners*, whilst *Make Yourself At Home* was retitled *Living Together*.
 
 ### London Premiere (1974)
 
@@ -61,19 +51,15 @@ Ronald Herdman**Note:** The original titles for the plays are used above, these 
 
 **Director:** Eric Thompson  
 **Design:** Alan Pickford  
-**Lighting:** Nick Chelton**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-Tom**Actor**  
-Mark Kingston  
-Penelope Keith  
-Penelope Wilton  
-Tom Courtenay  
-Felicity Kendal  
-Michael Gambon
+**Lighting:** Nick Chelton
+
+**Character** **Actor**  
+**Reg** Mark Kingston  
+**Sarah** Penelope Keith  
+**Ruth** Penelope Wilton  
+**Norman** Tom Courtenay  
+**Annie** Felicity Kendal  
+**Tom** Michael Gambon
 
 ### London Transfer (1974)
 
@@ -86,19 +72,17 @@ Michael Gambon
 
 **Director:** Alan Ayckbourn (see Notes)  
 **Design:** Alan Pickford  
-**Lighting:** Nick Chelton**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-Tom**Actor**  
-Mark Kingston  
-Penelope Keith  
-Bridget Turner  
-Tom Courtenay  
-Felicity Kendal  
-Michael Gambon**Notes:** Penelope Wilton returned to the role of Ruth during a period when Bridget Turner was 'indisposed' during the production run.  
+**Lighting:** Nick Chelton
+
+**Character** **Actor**  
+**Reg** Mark Kingston  
+**Sarah** Penelope Keith  
+**Ruth** Bridget Turner  
+**Norman** Tom Courtenay  
+**Annie** Felicity Kendal  
+**Tom** Michael Gambon
+
+**Notes:** Penelope Wilton returned to the role of Ruth during a period when Bridget Turner was 'indisposed' during the production run.  
 Although Eric Thompson is credited as the director of the transfer in the programme, this was apparently not the case. Eric was unavailable due to *Absurd Person Singular* opening in North America, so Alan Ayckbourn was asked by the producer, Michael Codron, to direct the transfer and subsequent recasts.
 
 ### London Recast / Transfer (1975)
@@ -114,19 +98,17 @@ Although Eric Thompson is credited as the director of the transfer in the progra
 
 **Director:** Eric Thompson  
 **Design:** Alan Pickford  
-**Lighting:** Nick Chelton**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-Tom**Actor**  
-Ivor Danvers  
-Sheila Ballantine  
-Julia McKenzie  
-Ronald Pickup  
-Brigit Forsyth  
-Julian Holloway**Notes:** Although Eric Thompson is credited as the director of the transfer in the programme, this was apparently not the case. Eric was unavailable due to *Absurd Person Singular* opening in North America, so Alan Ayckbourn was asked by the producer, Michael Codron, to direct the transfer and subsequent recasts.
+**Lighting:** Nick Chelton
+
+**Character** **Actor**  
+**Reg** Ivor Danvers  
+**Sarah** Sheila Ballantine  
+**Ruth** Julia McKenzie  
+**Norman** Ronald Pickup  
+**Annie** Brigit Forsyth  
+**Tom** Julian Holloway
+
+**Notes:** Although Eric Thompson is credited as the director of the transfer in the programme, this was apparently not the case. Eric was unavailable due to *Absurd Person Singular* opening in North America, so Alan Ayckbourn was asked by the producer, Michael Codron, to direct the transfer and subsequent recasts.
 
 ### North American Premiere (1975)
 
@@ -137,19 +119,15 @@ Julian Holloway**Notes:** Although Eric Thompson is credited as the director of 
 **Director:** Eric Thompson  
 **Design:** Robert Randolph  
 **Lighting:** Robert Randolph  
-**Costumes:** Noel Taylor**Character**  
-Norman  
-Tom  
-Reg  
-Sarah  
-Annie  
-Ruth**Actor**  
-Richard Benjamin  
-Ken Howard  
-Barry Nelson  
-Estelle Parsons  
-Paula Prentiss  
-Carole Shelley
+**Costumes:** Noel Taylor
+
+**Character** **Actor**  
+**Norman** Richard Benjamin  
+**Tom** Ken Howard  
+**Reg** Barry Nelson  
+**Sarah** Estelle Parsons  
+**Annie** Paula Prentiss  
+**Ruth** Carole Shelley
 
 ### New York Premiere (1975)
 
@@ -160,19 +138,17 @@ Carole Shelley
 
 **Director:** Eric Thompson  
 **Design:** Robert Randolph  
-**Lighting:** Robert Randolph**Character**  
-Norman  
-Tom  
-Reg  
-Sarah  
-Annie  
-Ruth**Actor**  
-Richard Benjamin  
-Ken Howard  
-Barry Nelson  
-Estelle Parsons  
-Paula Prentiss  
-Carole Shelley**Note:** During the course of the run, Don Murray replaced Barry Nelson as Tom and Elaine Heyman replaced Carole Shelley as Ruth.
+**Lighting:** Robert Randolph
+
+**Character** **Actor**  
+**Norman** Richard Benjamin  
+**Tom** Ken Howard  
+**Reg** Barry Nelson  
+**Sarah** Estelle Parsons  
+**Annie** Paula Prentiss  
+**Ruth** Carole Shelley
+
+**Note:** During the course of the run, Don Murray replaced Barry Nelson as Tom and Elaine Heyman replaced Carole Shelley as Ruth.
 
 ### Revival (1993)
 
@@ -191,19 +167,15 @@ Carole Shelley**Note:** During the course of the run, Don Murray replaced Barry 
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Erica Jane Fletcher  
-**Assistant Stage Manager:** Emma Gordon**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-Tom**Actor**  
-Adrian McLoughlin  
-Jane Maud  
-Buffy Davis  
-Peter Lindford  
-Dariel Pertwee  
-Andrew Charleson
+**Assistant Stage Manager:** Emma Gordon
+
+**Character** **Actor**  
+**Reg** Adrian McLoughlin  
+**Sarah** Jane Maud  
+**Ruth** Buffy Davis  
+**Norman** Peter Lindford  
+**Annie** Dariel Pertwee  
+**Tom** Andrew Charleson
 
 ### London Revival (2008)
 
@@ -216,19 +188,15 @@ Andrew Charleson
 **Design:** Rob Howell  
 **Sound:** Simon Baker  
 **Lighting:** David Howe  
-**Music:** Gary Yershon**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-Tom**Actor**  
-Paul Ritter  
-Amanda Root  
-Amelia Bullmore  
-Stephen Mangan  
-Jessica Hynes  
-Ben Miles
+**Music:** Gary Yershon
+
+**Character** **Actor**  
+**Reg** Paul Ritter  
+**Sarah** Amanda Root  
+**Ruth** Amelia Bullmore  
+**Norman** Stephen Mangan  
+**Annie** Jessica Hynes  
+**Tom** Ben Miles
 
 ### New York Revival (2009)
 
@@ -242,19 +210,15 @@ Ben Miles
 **Design:** Rob Howell  
 **Sound:** Simon Baker  
 **Lighting:** David Howe  
-**Music:** Gary Yershon**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-Tom**Actor**  
-Paul Ritter  
-Amanda Root  
-Amelia Bullmore  
-Stephen Mangan  
-Jessica Hynes  
-Ben Miles
+**Music:** Gary Yershon
+
+**Character** **Actor**  
+**Reg** Paul Ritter  
+**Sarah** Amanda Root  
+**Ruth** Amelia Bullmore  
+**Norman** Stephen Mangan  
+**Annie** Jessica Hynes  
+**Tom** Ben Miles
 
 ### Revival (2017)
 
@@ -270,16 +234,14 @@ Ben Miles
 **Design:** Simon Higlett  
 **Sound:** George Dennis  
 **Lighting:** Johanna Town  
-**Music:** Olly Fox**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-Tom**Actor**  
-Jonathan Broadbent  
-Sarah Hadland  
-Hattie Ladbury  
-Trystan Gravelle  
-Jemima Cooper  
-John Hollingworth*All research for this page by Simon Murgatroyd.*
+**Music:** Olly Fox
+
+**Character** **Actor**  
+**Reg** Jonathan Broadbent  
+**Sarah** Sarah Hadland  
+**Ruth** Hattie Ladbury  
+**Norman** Trystan Gravelle  
+**Annie** Jemima Cooper  
+**Tom** John Hollingworth
+
+*All research for this page by Simon Murgatroyd.*

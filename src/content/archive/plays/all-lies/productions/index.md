@@ -24,13 +24,12 @@ play: "all-lies"
 **Casting:** Sarah Hughes CDC
 
 **Production Manager:** Alison Fowler  
-**Company Stage Manager:** Sue Volans**Character**  
-Sebastien  
-Posy  
-Sonia**Actor**  
-Luke Dayhill  
-Saskia Strallen  
-Rhiannon Neads
+**Company Stage Manager:** Sue Volans
+
+**Character** **Actor**  
+**Sebastien** Luke Dayhill  
+**Posy** Saskia Strallen  
+**Sonia** Rhiannon Neads
 
 ### World Premiere Transfer (2022)
 
@@ -47,10 +46,11 @@ Rhiannon Neads
 **Costume Supervisor:** Christine Wall  
 **Casting:** Sarah Hughes CDC
 
-**Company Stage Manager:** Rachel Stevens**Character**  
-Sebastien  
-Posy  
-Sonia**Actor**  
-Luke Dayhill  
-Saskia Strallen  
-Rhiannon Neads*All research for this page by Simon Murgatroyd.*
+**Company Stage Manager:** Rachel Stevens
+
+**Character** **Actor**  
+**Sebastien** Luke Dayhill  
+**Posy** Saskia Strallen  
+**Sonia** Rhiannon Neads
+
+*All research for this page by Simon Murgatroyd.*

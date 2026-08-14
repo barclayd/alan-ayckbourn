@@ -12,7 +12,8 @@ facts:
   Original Play: "The Forest"
   Author: "Ostrovsky"
   Translation: "Vera Liber"
-  Published: "Faber (out of print) The Forest Note: *The Forest* is Alan Ayckbourn's adaption of Ostrovsky's play *The Forest* for the National Theatre."
+  Published: "Faber (out of print)"
+  Note: "*The Forest* is Alan Ayckbourn's adaption of Ostrovsky's play *The Forest* for the National Theatre."
 ---
 
 

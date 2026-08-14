@@ -8,56 +8,37 @@ order: 434
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Peter Tinniswood  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Peter Tinniswood  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**13 July 1983  
-13 July 1983  
-3 August 1983
+**First performance:** 13 July 1983  
+**Opening night:** 13 July 1983  
+**Final performance:** 3 August 1983
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Francis Lynch  
+**Design:** Edward Lipscomb  
+**Music:** Paul Todd  
+**Stage Manager:** Baz Edmonds  
+**Stage Manager:** Eric Lumsden  
+**Deputy Stage Manager:** Jo Linfoot  
+**Assistant Stage Manager:** Mathew Claridge  
+**Assistant Stage Manager:** Anneke Harrison  
+**Assistant Stage Manager:** Kate Woodward
 
-**Stage Manager:**  
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Francis Lynch  
-Edward Lipscomb  
-Paul Todd
-
-Baz Edmonds  
-Eric Lumsden  
-Jo Linfoot  
-Mathew Claridge  
-Anneke Harrison  
-Kate Woodward**Character**  
-Ernest  
-Pamela  
-Graham  
-Sylvia  
-Rudyard**Actor**  
-Graeme Eton  
-Ruth Mayo  
-Robin Herford  
-Ursula Jones  
-Randal Herley
+**Character** **Actor**  
+**Ernest** Graeme Eton  
+**Pamela** Ruth Mayo  
+**Graham** Robin Herford  
+**Sylvia** Ursula Jones  
+**Rudyard** Randal Herley
 
 ### Notes
 
-○ *At The End Of The Day* was a sequel to the play ***[You Should See Us Now](/career/directing-career/you-should-see-us-now)***, which was premiered at the Stephen Joseph Theatre In The Round in 1981.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *At The End Of The Day* was a sequel to the play ***[You Should See Us Now](/career/directing-career/you-should-see-us-now)***, which was premiered at the Stephen Joseph Theatre In The Round in 1981.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

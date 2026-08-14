@@ -8,14 +8,15 @@ order: 672
 
 ### Production Details
 
-**Author:**
+**Author:** Arthur Swinson  
+**Broadcast:** 26 January 1967 @ 8.45pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Arthur Swinson
-
-26 January 1967 @ 8.45pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Roles unknown**Actor**  
+**Director:**  
+Alan Ayckbourn  
+**Character**  
+Roles unknown  
+**Actor**  
 Arthur Swinson  
 Amy Johnson  
 Jim Wiggins  
@@ -24,4 +25,5 @@ Tom Harrison
 Derrick Gilbert  
 Mavis Rogerson  
 Ruth Holden  
-John Linstrum*All research for this page by Simon Murgatroyd.*
+John Linstrum  
+*All research for this page by Simon Murgatroyd.*

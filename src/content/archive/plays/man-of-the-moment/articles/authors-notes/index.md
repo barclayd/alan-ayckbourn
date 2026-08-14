@@ -38,3 +38,5 @@ Putting a body of water anywhere is difficult and in the theatre it becomes doub
 So you have to make sure that the two don't meet. The first requirement is to make the thing waterproof. Water also weighs an awful lot, so most stage structures are not geared to carry that sort of weight.
 
 There are tricks you can learn about water, and displacement is one of them. The pool, although it looks quite deep, is relatively shallow. It's also up to the skill of the actors to convince us that's it very, very deep.
+
+C*opyright: Haydonning Ltd. Please do not reproduce without permission of the copyright holder.*

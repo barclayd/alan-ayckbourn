@@ -10,11 +10,10 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "Revue"
   Composer: "Paul Todd"
-  The Songs: "1. Friday the Thirteenth"
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
   Musical Director: "Paul Todd"
-  Stage Manager: "Amanda SaundersThe Company"
+  Stage Manager: "Amanda Saunders"
   Piano: "Paul Todd"
 ---
 
@@ -30,10 +29,13 @@ There is no plot to the piece, presenting as it does ten different views of love
 
 *Second Helping* offers ten different views of Love in its many forms. In *Friday the Thirteenth*, a bank clerk falls instantly in love with April, a new customer; a kind of one-act song. *Casual Conversation* - the real truth behind the lines in a normal 'chat-up'. *Passion* - a glimpse of a more physical kind of love coming from a nurse to her patient. *Jubilee Road* - Selina is at an awkward age, and don't her parents know it: she feels unloved, unwanted, and there's nothing she can do about it, except fantasise. *Collaboration* is the key to a healthy marriage; here the husband tells us all about it. *Fancy Meeting You* - two ex-lovers meet by accident, apparently, and briefly re-live their memories and the events that have happened since their split-up. *A Boy's Best Friend* - is his mother. *Showbiz Blues* - the story of a night-club pianist whose dream-lady, a singer called Anita, came and went. *Unlove Song* - man and wife desperate to separate, but not before they let us in on the faults of their other half. *Love Song* - is just that.
 
+**The Songs**  
+1. Friday the Thirteenth  
 2. Casual Conversation  
 3. Passion  
 4. Jubilee Road  
-5. Collaboration 6. Fancy Meeting You  
+5. Collaboration  
+6. Fancy Meeting You  
 7. A Boy's Best Friend  
 8. Showbiz Blues  
 9. Unlove Song  
@@ -44,6 +46,7 @@ There is no plot to the piece, presenting as it does ten different views of love
 **World Premiere:** 5 August 1980  
 **Venue:** Stephen Joseph Theatre In The Round, Scarborough
 
+**The Company**  
 David Bamber  
 Ronald Herdman  
 Tessa Peake-Jones  

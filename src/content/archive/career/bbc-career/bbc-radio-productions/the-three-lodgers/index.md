@@ -8,26 +8,22 @@ order: 663
 
 ### Production Details
 
-**Author:**
+**Author:** Norman Smithson  
+**Broadcast:** 26 September 1965  
+**Channel:** North of England Home Service
 
-**Broadcast:**  
-**Channel:**Norman Smithson
+**Director:**  
+Alan Ayckbourn
 
-26 September 1965  
-North of England Home Service**Director:**Alan Ayckbourn**Character**  
-Mr Riley  
-Mrs Wright  
-Mrs Harrison  
-Mr Burns  
-Mr Lewis  
-Sarah Ann**Actor**  
-Wilfred Pickles  
-Mary Quinn  
-Ann Aris  
-Peter King  
-Graham Rigby  
-Helen Cotterill
+**Character** **Actor**  
+**Mr Riley** Wilfred Pickles  
+**Mrs Wright** Mary Quinn  
+**Mrs Harrison** Ann Aris  
+**Mr Burns** Peter King  
+**Mr Lewis** Graham Rigby  
+**Sarah Ann** Helen Cotterill
 
 ### Notes
 
-○ *The Three Lodgers* was repeated on the BBC Home Service on 3 April 1967 as part of a series called *Five From The North* highlighting northern writers.*All research for this page by Simon Murgatroyd.*
+○ *The Three Lodgers* was repeated on the BBC Home Service on 3 April 1967 as part of a series called *Five From The North* highlighting northern writers.  
+*All research for this page by Simon Murgatroyd.*

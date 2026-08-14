@@ -40,4 +40,5 @@ Alan Ayckbourn's Archivist Simon Murgatroyd celebrates the 50th anniversary of t
 **InSights: What Inspired Alan Ayckbourn to Write The Norman Conquests?**  
 Posted: 19 August 2021
 
-Alan Ayckbourn's Archivist Simon Murgatroyd explores how an off-the-cuff comment led to the writing of the *The Norman Conquests*. *The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*
+Alan Ayckbourn's Archivist Simon Murgatroyd explores how an off-the-cuff comment led to the writing of the *The Norman Conquests*.  
+*The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*

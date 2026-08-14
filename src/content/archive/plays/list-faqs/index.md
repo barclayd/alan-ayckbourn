@@ -5,7 +5,8 @@ order: 2300
 play: "list-faqs"
 ---
 
-This page contains Frequently Asked Questions regarding the official play list and its compilation such as play titles, numbering, what is an isn't canon and other questions. For other FAQs regarding Alan Ayckbourn and his plays, visit the **[FAQs section](/life/ayckbourn-faqs)** in **[Life & Career](/life)**.**What is the official play-list / play canon?**  
+This page contains Frequently Asked Questions regarding the official play list and its compilation such as play titles, numbering, what is an isn't canon and other questions. For other FAQs regarding Alan Ayckbourn and his plays, visit the **[FAQs section](/life/ayckbourn-faqs)** in **[Life & Career](/life)**.  
+**What is the official play-list / play canon?**  
 The definitive play list are full-length plays by Alan Ayckbourn which he considered his official play canon. There are numerous other works (organised into other groupings) but there are not considered part of the official play canon.
 
 **How many plays are in the official play canon?**  

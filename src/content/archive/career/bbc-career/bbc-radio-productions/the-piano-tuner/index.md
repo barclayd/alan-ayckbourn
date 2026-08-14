@@ -8,24 +8,21 @@ order: 651
 
 ### Production Details
 
-**Author:**
+**Author:** Julia Jones  
+**Broadcast:** 3 March 1971 @ 8.15pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Julia Jones
+**Director:**  
+Alan Ayckbourn
 
-3 March 1971 @ 8.15pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Graham  
-Amy Kettle  
-Betty  
-Mr Masheter  
-Chauffeur**Actor**  
-Joe Dunlop  
-Joan Sims  
-Heather Stoney  
-Geoffrey Banks  
-Robert Peck
+**Character** **Actor**  
+**Graham** Joe Dunlop  
+**Amy Kettle** Joan Sims  
+**Betty** Heather Stoney  
+**Mr Masheter** Geoffrey Banks  
+**Chauffeur** Robert Peck
 
 ### Notes
 
-○ As far is known, *The Piano Tuner* was the last of Alan Ayckbourn's radio productions to be broadcast from the period when he worked as a Radio Drama Producer for the BBC between 1965 and 1970.*All research for this page by Simon Murgatroyd.*
+○ As far is known, *The Piano Tuner* was the last of Alan Ayckbourn's radio productions to be broadcast from the period when he worked as a Radio Drama Producer for the BBC between 1965 and 1970.  
+*All research for this page by Simon Murgatroyd.*

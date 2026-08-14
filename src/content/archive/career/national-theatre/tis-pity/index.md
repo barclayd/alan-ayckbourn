@@ -21,41 +21,28 @@ This page has production details regarding Alan Ayckbourn's production of *'Tis 
 **Costumes:** Sally Gardner  
 **Lighting:** Mick Hughes  
 **Music:** Paul Todd  
-**Fight Arranger:** Malcolm Ranson**Character**  
-Bonaventura  
-Giovanni  
-Vasques  
-Grimaldi  
-Florio  
-Donado  
-Soranzo  
-Putana  
-Annabella  
-Bergetto,  
-Poggio  
-Richardetto  
-Philotis  
-Hippolita  
-Officer  
-Servant to Cardinal  
-A Cardinal**Actor**  
-Richard Cordery  
-Rupert Graves  
-Clive Francis  
-Paul Stewart  
-Ron Pember  
-Roger Hammond  
-Michael Simkins  
-Bridget Turner  
-Suzan Sylvester  
-Russell Dixon  
-Jim Barclay  
-Struan Rodger  
-Georgie Glen  
-Polly Adams  
-Peter Dineen  
-Adrian Jubb  
-Nigel Bellairs **Ayckbourn & The National**
+**Fight Arranger:** Malcolm Ranson
+
+**Character** **Actor**  
+**Bonaventura** Richard Cordery  
+**Giovanni** Rupert Graves  
+**Vasques** Clive Francis  
+**Grimaldi** Paul Stewart  
+**Florio** Ron Pember  
+**Donado** Roger Hammond  
+**Soranzo** Michael Simkins  
+**Putana** Bridget Turner  
+**Annabella** Suzan Sylvester  
+**Bergetto,** Russell Dixon  
+**Poggio** Jim Barclay  
+**Richardetto** Struan Rodger  
+**Philotis** Georgie Glen  
+**Hippolita** Polly Adams  
+**Officer** Peter Dineen  
+**Servant to Cardinal** Adrian Jubb  
+**A Cardinal** Nigel Bellairs
+
+**Ayckbourn & The National**
 
 ### Notes
 

@@ -16,31 +16,20 @@ play: "henceforward"
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2011 (available)  
-**Digital:** 2011 (available)**Director**  
-**Music**  
-**Music**  
-**Sound Design**
+**Digital:** 2011 (available)
 
-**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain  
-Corinna  
-Mervyn  
-NAN 300FMartin Jarvis  
-Mark Holden  
-Michael Lopez  
-Mark Holden
-
-**Actor**  
-Jared Harris  
-Darren Richardson  
-Moira Quirk  
-Paula Jane Newman  
-Anne Heche  
-Jack Davenport  
-Herself
+**Director** Martin Jarvis  
+**Music** Mark Holden  
+**Music** Michael Lopez  
+**Sound Design** Mark Holden  
+**Character** **Actor**  
+**Jerome** Jared Harris  
+**Lupus** Darren Richardson  
+**Zoë** Moira Quirk  
+**Geain** Paula Jane Newman  
+**Corinna** Anne Heche  
+**Mervyn** Jack Davenport  
+**NAN 300F** Herself
 
 ### Radio (2012)
 
@@ -54,34 +43,22 @@ Herself
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Music**  
-**Music**  
-**Sound Design**
+**Digital:** Not available
 
-**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 9  
-Corinna  
-Mervyn  
-Geain, aged 13  
-Mrs Hope-Fitch  
-Technician  
-NAN 300FMartin Jarvis  
-Mark Holden  
-Michael Lopez  
-Mark Holden
+**Director** Martin Jarvis  
+**Music** Mark Holden  
+**Music** Michael Lopez  
+**Sound Design** Mark Holden  
+**Character** **Actor**  
+**Jerome** Jared Harris  
+**Lupus** Simon Templeman  
+**Zoë** Sophie Winkleman  
+**Geain, aged 9** Rosa Calcraft  
+**Corinna** Joanne Whalley  
+**Mervyn** Darren Richardson  
+**Geain, aged 13** Moira Quirk  
+**Mrs Hope-Fitch** Daisy Hydon  
+**Technician** Matthew Wolf  
+**NAN 300F** Herself
 
-**Actor**  
-Jared Harris  
-Simon Templeman  
-Sophie Winkleman  
-Rosa Calcraft  
-Joanne Whalley  
-Darren Richardson  
-Moira Quirk  
-Daisy Hydon  
-Matthew Wolf  
-Herself*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

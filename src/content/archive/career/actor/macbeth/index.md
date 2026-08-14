@@ -19,7 +19,8 @@ order: 327
 
 **USA Tour**  
 **Opening Night:**  
-**Venue:**  Macbeth  
+**Venue:**  
+Macbeth  
 William Shakespeare
 
 23 March 1956  
@@ -29,7 +30,8 @@ End-stage
 Edgar Matthews
 
 12 April 1956  
-Venue: John Hancock Hall, Boston **Note:** The cast is taken from The Haileyburian & ISC Chronicle  
+Venue: John Hancock Hall, Boston  
+**Note:** The cast is taken from The Haileyburian & ISC Chronicle  
 (June 1956) and only initials are given for the actor's names.
 
 **Character** **Actor**  
@@ -74,4 +76,5 @@ Alan Ayckbourn's second known acting role was while as a student at Haileybury w
 "The most satisfying acting was Ayckbourn's as Macduff. On the first evening his words were clearer than on the second, but on both occasions he gave a coherent and sympathetic performance. He was in control of his part in all his moods and situations and, in spite of the feather in his cap, there was nothing farinaceous about his portrayal of Macduff; rather we saw a vigorous and bony Scot, if anything of a haggis and hooch consistency, who had a bitter cast of mind in his inactive exile among the English but was deadly enough in battle."
 
 **Review extract from the Niagara Falls Evening Review** (April 1956)  
-"Macduff, bent on vengeance when he hears of his family' cold blooded assassination, dominated strongly with his his warlike 'Be this the whetstone of your sword, let grief convert to anger!' Played by Alan Ayckbourn, the scenes were climatic and gripping."*All research for this page by Simon Murgatroyd.*
+"Macduff, bent on vengeance when he hears of his family' cold blooded assassination, dominated strongly with his his warlike 'Be this the whetstone of your sword, let grief convert to anger!' Played by Alan Ayckbourn, the scenes were climatic and gripping."  
+*All research for this page by Simon Murgatroyd.*

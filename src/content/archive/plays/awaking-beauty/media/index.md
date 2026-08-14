@@ -30,4 +30,5 @@ play: "awaking-beauty"
 **Fifth Narrator** Ian McLarnon  
 **Sixth Narrator** Jon-Paul Hevey
 
-**Note:** Although *Awaking Beauty* was produced and published on CD, this was never made available commercially or to the public. It was recorded for archival purposes.*All research on this page by Simon Murgatroyd.*
+**Note:** Although *Awaking Beauty* was produced and published on CD, this was never made available commercially or to the public. It was recorded for archival purposes.  
+*All research on this page by Simon Murgatroyd.*

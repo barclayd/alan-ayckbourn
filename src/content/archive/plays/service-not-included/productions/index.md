@@ -23,39 +23,25 @@ play: "service-not-included"
 **Video:** Not available  
 **DVD:** Not availabe  
 **Blu-ray:** Not available  
-**Digital:** Not available**Character**  
-Jace  
-Hall Porter  
-Donald  
-Cathy  
-Assistant Manager  
-Hughie  
-Tony  
-Coombes  
-Mrs Coombes  
-Neil  
-Freda  
-Harris  
-Mrs Harris  
-Warwick  
-Mrs Warwick  
-Riley**Actor**  
-Alan Thompson  
-Alan Wilson  
-Colin Farrell  
-Irene Hamilton  
-Lawrence Davidson  
-George Moon  
-Patrick Dawson  
-Robert Russell  
-Maggie Rennie  
-Julian Curray  
-Ann Beach  
-Christopher Owen  
-Heather Stoney  
-Clive Morton  
-Fanny Rowe  
-Peter Boyes
+**Digital:** Not available
+
+**Character** **Actor**  
+**Jace** Alan Thompson  
+**Hall Porter** Alan Wilson  
+**Donald** Colin Farrell  
+**Cathy** Irene Hamilton  
+**Assistant Manager** Lawrence Davidson  
+**Hughie** George Moon  
+**Tony** Patrick Dawson  
+**Coombes** Robert Russell  
+**Mrs Coombes** Maggie Rennie  
+**Neil** Julian Curray  
+**Freda** Ann Beach  
+**Harris** Christopher Owen  
+**Mrs Harris** Heather Stoney  
+**Warwick** Clive Morton  
+**Mrs Warwick** Fanny Rowe  
+**Riley** Peter Boyes
 
 ### Reading (2011)
 
@@ -68,38 +54,26 @@ Peter Boyes
 Jaye Lewis
 
 **Participants**  
-Linda Connor; John Cotgrave; Edward Davies; Anni Kurmis; Mike Linham; Richard McArtney; David & Elaine McColl; Daniel Marques; Peter Nunan; Karyl Rey; Bernard Riley; Bev Rousset; Don Smith; Bal Sopal; Janet Stoneburner; John & Linda Sutton; Stephanie Tucker; Elizabeth Vokes; Sarah Wareing; Max Wenner; Hannah Williams**Character**  
-Jace  
-Hall Porter  
-Donald  
-Cathy  
-Assistant Manager  
-Hughie  
-Tony  
-Coombes  
-Mrs Coombes  
-Neil  
-Freda  
-Harris  
-Mrs Harris  
-Warwick  
-Mrs Warwick  
-Riley  
-Stage Directions**Actor**  
-Peter Nunan  
-Karyl Rey  
-Mike Linham  
-Bev Rousset  
-Linda Connor  
-Sarah Wareing  
-John Cotgrave  
-John Sutton  
-Elizabeth Vokes  
-Max Wenner  
-Anni Kurmis  
-Richard McArtney  
-Janet Stoneburner  
-Bernard Riley  
-Elaine McColl  
-Bal Sopal  
-Katherine Dunn-Mines**Note:** As part of the *Ayckbourn 2011* at the Stephen Joseph Theatre, Scarborough, a reading of the complete screenplay took place consisting of participants of the event alongside members of Dick & Lottie theatre company.*All research for this page by Simon Murgatroyd.*
+Linda Connor; John Cotgrave; Edward Davies; Anni Kurmis; Mike Linham; Richard McArtney; David & Elaine McColl; Daniel Marques; Peter Nunan; Karyl Rey; Bernard Riley; Bev Rousset; Don Smith; Bal Sopal; Janet Stoneburner; John & Linda Sutton; Stephanie Tucker; Elizabeth Vokes; Sarah Wareing; Max Wenner; Hannah Williams
+
+**Character** **Actor**  
+**Jace** Peter Nunan  
+**Hall Porter** Karyl Rey  
+**Donald** Mike Linham  
+**Cathy** Bev Rousset  
+**Assistant Manager** Linda Connor  
+**Hughie** Sarah Wareing  
+**Tony** John Cotgrave  
+**Coombes** John Sutton  
+**Mrs Coombes** Elizabeth Vokes  
+**Neil** Max Wenner  
+**Freda** Anni Kurmis  
+**Harris** Richard McArtney  
+**Mrs Harris** Janet Stoneburner  
+**Warwick** Bernard Riley  
+**Mrs Warwick** Elaine McColl  
+**Riley** Bal Sopal  
+**Stage Directions** Katherine Dunn-Mines
+
+**Note:** As part of the *Ayckbourn 2011* at the Stephen Joseph Theatre, Scarborough, a reading of the complete screenplay took place consisting of participants of the event alongside members of Dick & Lottie theatre company.  
+*All research for this page by Simon Murgatroyd.*

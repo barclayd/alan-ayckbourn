@@ -8,36 +8,27 @@ order: 666
 
 ### Production Details
 
-**Author:**
+**Author:** Don Haworth  
+**Broadcast:** 12 July 1969 @ 1.45pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Don Haworth
+**Director:**  
+Alan Ayckbourn
 
-12 July 1969 @ 1.45pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-George  
-Hetty  
-Uncle  
-Miss Wilson  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles**Actor**  
-Derrick Gilbert  
-Stephanie Turner  
-Kenneth Gilbert  
-Ruth Holden  
-Brian Miller  
-Mavis Rogerson  
-Graham Rigby  
-Vivienne Davies  
-Paul Webster  
-Ella Atkinson  
-Roy Barraclough
+**Character** **Actor**  
+**George** Derrick Gilbert  
+**Hetty** Stephanie Turner  
+**Uncle** Kenneth Gilbert  
+**Miss Wilson** Ruth Holden  
+**Other roles** Brian Miller  
+**Other roles** Mavis Rogerson  
+**Other roles** Graham Rigby  
+**Other roles** Vivienne Davies  
+**Other roles** Paul Webster  
+**Other roles** Ella Atkinson  
+**Other roles** Roy Barraclough
 
 ### Notes
 
-○ *A Time In Cloud Cuckoo Land* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *A Time In Cloud Cuckoo Land* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

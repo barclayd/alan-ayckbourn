@@ -9,4 +9,5 @@ order: 2359
 ### Quotes
 
 "Near the end there are moments when *Arrivals & Departures* might be Arthur Miller. Only, of course, funnier."  
-*(2013)**Copyright: Libby Purves. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2013)*  
+*Copyright: Libby Purves. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

@@ -45,10 +45,12 @@ For the BBC North television production *Mergers*, *Seventh Heaven*, *Something'
 4) A Man’s Gotta Do  
 5) Grab  
 6) Who’s Afraid  
-7) Mergers8) Just Married  
+7) Mergers  
+8) Just Married  
 9) Scheming Song  
 10) Saying Goodbye  
 11) Freedom Song  
 12) Something’s Going Round  
 13) Wedding Photos  
-14) Big Finish*All research for this page by Simon Murgatroyd.*
+14) Big Finish  
+*All research for this page by Simon Murgatroyd.*

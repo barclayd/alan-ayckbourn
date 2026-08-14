@@ -257,6 +257,34 @@ const NAV_STACKS =
   '.com_yourhead_stack_button_stack, .com_elixir_stacks_flatbutton2_stack, .flat_button_2_alignment';
 
 /**
+ * The two ways this site draws a row of columns, as [row, column] selectors.
+ * Stacks was upgraded partway through the archive's life and the older pages
+ * kept the older markup, so the same table appears under either.
+ */
+const COLUMN_STACKS = [
+  ['div.s3_row', '.s3_column'],
+  ['div.columns_stack', '.stacks_div'],
+];
+
+const BULLETED = /^[○◦•]/;
+
+/** "Broadcast: 1977" — a label and its value, already a whole row. */
+const SHEET_LINE = /^[○◦•\s]*[A-Z][A-Za-z'’ ]{1,28}:\s+\S/;
+
+/*
+ * A stop that closes a run and is followed by a capital: one sentence ending and
+ * the next beginning, or the number heading a list item. Either way the column is
+ * running prose or a numbered list rather than a row of cells — the Backnumbers
+ * and Second Helping song lists are twenty titles set in two columns to save
+ * paper, and zipping them printed "1. Open for Love" against "11. Jubilee Road".
+ *
+ * The character before the stop has to be one that ends a run, or the initials in
+ * the 1956 Macbeth programme ("A. LeQ. Herbert") read as three sentences and the
+ * whole cast list stops looking like a table.
+ */
+const PROSE = /[a-z0-9)'"’”][.!?][)'"’”]?\s+[A-Z(‘“'"]/;
+
+/**
  * A column's `<br>`-separated lines, each flagged if all of its text is bold.
  * Read before clean() rewrites them, so bold is still a style on a <span>.
  *
@@ -264,7 +292,7 @@ const NAV_STACKS =
  * row: that is what lets a three-column table pair its outer column against
  * the two inner ones.
  */
-function brLines($, column) {
+function brLines($, column, { blanks = false } = {}) {
   const lines = [{ text: '', bold: true }];
   const walk = (node, bold) => {
     for (const n of $(node).contents().toArray()) {
@@ -275,11 +303,19 @@ function brLines($, column) {
         }
       } else if (n.type === 'tag' && n.tagName === 'br') {
         lines.push({ text: '', bold: true });
+      } else if (n.type === 'tag' && /^h[1-6]$/.test(n.tagName)) {
+        /* A column heading is a block and a line of its own — the same boundary
+           `inlineNode` writes, so the rows counted here are the rows zipped. */
+        walk(n, true);
+        lines.push({ text: '', bold: true });
       } else if (n.type === 'tag' && n.tagName === 'dl') {
         /* One line per row, carrying the label column's text so an enclosing
-           test still sees a header where the table had one. */
+           test still sees a header where the table had one. Counted the same way
+           the table itself was, or the four-column tables come out as two
+           two-column ones: the halves disagree on how many rows they have. */
+        const nested = { blanks: $(n).attr('data-padded') !== undefined };
         const [labels, values] = ['dt', 'dd'].map((part) =>
-          brLines($, $(n).children(part).get(0)),
+          brLines($, $(n).children(part).get(0), nested),
         );
         const rows = Math.max(labels.length, values.length);
         for (let i = 0; i < rows; i++) {
@@ -303,9 +339,49 @@ function brLines($, column) {
     }
   };
   walk(column, false);
-  return lines
-    .map(({ text, bold }) => ({ text: text.replace(/\s+/g, ' ').trim(), bold }))
-    .filter((line) => line.text);
+  const all = lines.map(({ text, bold }) => ({
+    text: text.replace(/\s+/g, ' ').trim(),
+    bold,
+  }));
+  /* A blank line between two entries is alignment; one at either end is just
+     where the column's markup started and stopped, and counting those makes two
+     columns of the same table disagree on their length by one. */
+  return blanks
+    ? trimBlanks(all, (line) => line.text)
+    : all.filter((l) => l.text);
+}
+
+/** Drops the empty entries at both ends of a list, keeping the interior ones. */
+function trimBlanks(list, textOf) {
+  let start = 0;
+  let end = list.length;
+  while (start < end && !textOf(list[start])) {
+    start++;
+  }
+  while (end > start && !textOf(list[end - 1])) {
+    end--;
+  }
+  return list.slice(start, end);
+}
+
+/**
+ * Does this element's text already end at a line break? Read down the last
+ * child, since the break a previous pass added sits inside the wrapper, not
+ * beside it — and a second break would read as a paragraph split.
+ */
+function endsWithBreak($, el) {
+  const last = $(el)
+    .contents()
+    .toArray()
+    .filter((n) => n.type !== 'text' || n.data.trim())
+    .at(-1);
+  if (!last) {
+    return false;
+  }
+  if (last.type === 'tag' && last.tagName === 'br') {
+    return true;
+  }
+  return last.type === 'tag' && endsWithBreak($, last);
 }
 
 function clean($) {
@@ -314,6 +390,28 @@ function clean($) {
     .find('script, style, noscript, .contentSpacer, .clear, .clearer')
     .remove();
   content.find(NAV_STACKS).remove();
+
+  /*
+   * A div is a block, so the flattening at the end of this function has to leave
+   * a line break behind or the text either side of the boundary runs together:
+   * "Not available" followed by a "Director" stack came out as
+   * "Not available**Director**" on 466 pages.
+   *
+   * It happens here, before the column pairing below, so that the pairing counts
+   * the same lines `zipRows` will later split on. Marking the boundaries and
+   * unwrapping the wrappers are two passes over the same divs for that reason:
+   * pairing needs the wrappers still standing to find the columns.
+   */
+  for (const el of content.find('div').toArray().reverse()) {
+    const $el = $(el);
+    const hasNext = $el
+      .nextAll()
+      .toArray()
+      .some((n) => $(n).text().trim());
+    if (hasNext && $el.text().trim() && !endsWithBreak($, el)) {
+      $el.append('<br>');
+    }
+  }
 
   /*
    * Stacks' "two columns" is a layout stack, so flattening it prints the left
@@ -334,30 +432,87 @@ function clean($) {
      `div.s3_row` set it is chosen from. */
   for (let paired = true; paired; ) {
     paired = false;
-    for (const row of content.find('div.s3_row').toArray()) {
-      if ($(row).find('div.s3_row').length) {
-        continue;
+    for (const [rowSel, colSel] of COLUMN_STACKS) {
+      for (const row of content.find(rowSel).toArray()) {
+        if ($(row).find(rowSel).length) {
+          continue;
+        }
+        const cols = $(row).children(colSel).toArray();
+        if (cols.length !== 2) {
+          continue;
+        }
+        let [left, right] = cols.map((col) => brLines($, col));
+        /*
+         * The three "Plays Directed" tables align on their blank lines: the Play
+         * column carries a bold year above each group and the other three
+         * columns hold an empty line beside it, so the rows only match once the
+         * blanks are counted. 83 rows a column there, against 71 / 56 / 53 / 53
+         * with the blanks dropped — which is why they came out as four
+         * disconnected lists.
+         */
+        const blanks = cols.map((col) => brLines($, col, { blanks: true }));
+        /* Preferred over the blank-free reading whenever it holds, because the
+           blank lines are the alignment the archivist typed: two of these tables
+           pair correctly either way, and only the padded reading also lines them
+           up with the other half of the same four-column table. */
+        const padded = blanks[0].length === blanks[1].length;
+        if (padded) {
+          [left, right] = blanks;
+        }
+        if (left.length < 3 || left.length !== right.length) {
+          continue;
+        }
+        const labelled = left.every((line) => line.text.endsWith(':'));
+        const headed =
+          left[0].bold &&
+          right[0].bold &&
+          ![...left.slice(1), ...right.slice(1)].some((line) => line.bold);
+        /* Neither, and still a table: the credit sheets run "Director" against
+           its name, then "Character"/"Actor" heading a cast list, so the bold
+           falls in both columns at once and no single line is a header. Equal
+           line counts is the signal left, and it is a strong one — two columns
+           of unrelated prose match length by accident, so require every cell to
+           be short enough to be a cell. */
+        const tabular = [...left, ...right].every(
+          (line) => line.text.length <= 80,
+        );
+        /* A cell carrying one sentence after another is a paragraph, and a row of
+           paragraphs is a page layout: the chronology pages set "Notable Events"
+           beside "World Premieres", which reads as headed and balances, and
+           zipping them printed each year's events interleaved with its premieres.
+           Weighed by the column rather than by the cell, because a real table
+           does carry the odd sentence: one note in the 83-row directing tables
+           would otherwise disqualify all 83. Only the labelled sheets are exempt
+           — there a prose value is the point, and the label column says so. */
+        const prose = [left, right].some(
+          (col) =>
+            col.filter((line) => PROSE.test(line.text)).length * 2 > col.length,
+        );
+        /* A column of finished "Label: value" lines is a data sheet, not half a
+           table. One sits beside the cast list on every play's media page, and
+           pairing the two prints the sheet and the cast interleaved. */
+        const sheet = [left, right].some(
+          (col) =>
+            col.filter((line) => SHEET_LINE.test(line.text)).length * 2 >
+            col.length,
+        );
+        /* Two columns of the same bulleted list is a long list set in two
+           columns to save paper, not a table of pairs. */
+        const parallel = [left, right].every((col) =>
+          col.every((line) => BULLETED.test(line.text)),
+        );
+        const table = labelled || (!prose && (headed || tabular));
+        if (!table || sheet || parallel) {
+          continue;
+        }
+        row.tagName = 'dl';
+        cols[0].tagName = 'dt';
+        cols[1].tagName = 'dd';
+        if (padded) {
+          $(row).attr('data-padded', '');
+        }
+        paired = true;
       }
-      const cols = $(row).children('.s3_column').toArray();
-      if (cols.length !== 2) {
-        continue;
-      }
-      const [left, right] = cols.map((col) => brLines($, col));
-      if (left.length < 3 || left.length !== right.length) {
-        continue;
-      }
-      const labelled = left.every((line) => line.text.endsWith(':'));
-      const headed =
-        left[0].bold &&
-        right[0].bold &&
-        ![...left.slice(1), ...right.slice(1)].some((line) => line.bold);
-      if (!labelled && !headed) {
-        continue;
-      }
-      row.tagName = 'dl';
-      cols[0].tagName = 'dt';
-      cols[1].tagName = 'dd';
-      paired = true;
     }
   }
 
@@ -441,12 +596,16 @@ const escapeMd = (text) =>
  * names never did.
  */
 function zipRows($, node, links) {
-  const [labels, values] = ['dt', 'dd'].map((part) =>
-    inlineMd($, $(node).children(part).get(0), links)
+  /* A table whose columns line up on their blank lines, not on their content:
+     see the `padded` branch in clean(). Dropping the blanks there would shift
+     every row after the first gap. */
+  const padded = $(node).attr('data-padded') !== undefined;
+  const [labels, values] = ['dt', 'dd'].map((part) => {
+    const lines = inlineMd($, $(node).children(part).get(0), links)
       .split('<br>')
-      .map((line) => line.trim())
-      .filter(Boolean),
-  );
+      .map((line) => line.trim());
+    return padded ? trimBlanks(lines, (line) => line) : lines.filter(Boolean);
+  });
   /* clean() counted the rows in the DOM and a cell can still empty between
      there and here — an image that resolves to nothing, a link whose text was
      only whitespace. Walk the longer column so no cell is dropped. */
@@ -454,8 +613,9 @@ function zipRows($, node, links) {
     { length: Math.max(labels.length, values.length) },
     (_, i) => {
       const label = labels[i];
-      const bold =
-        !label || /^\*\*[^*]+\*\*$/.test(label) ? label : `**${label}**`;
+      /* Already bold, or already a zipped row of its own from a table nested in
+         this cell — either way it does not want another pair of asterisks. */
+      const bold = !label || label.includes('**') ? label : `**${label}**`;
       return [bold, values[i]].filter(Boolean).join(' ');
     },
   );
@@ -482,6 +642,17 @@ function inlineNode($, n, links) {
     case 'strong':
     case 'b':
       return emphasise(inlineMd($, n, links), '**');
+    /* A heading inside a table cell heads the column: the recordings tables put
+       an <h2>Title</h2> above the list rather than a bold first line. It is a
+       block, so it ends a line — otherwise it merges into the first entry and
+       the whole column pairs one row short. */
+    case 'h1':
+    case 'h2':
+    case 'h3':
+    case 'h4':
+    case 'h5':
+    case 'h6':
+      return `${emphasise(inlineMd($, n, links), '**')}<br>`;
     case 'a': {
       const t = inlineMd($, n, links).trim();
       const href = $(n).attr('href');
@@ -560,7 +731,10 @@ function blocksOf($, root, links) {
       blocks.push({
         type: 'p',
         sheet: true,
-        text: zipRows($, node, links).join('  \n'),
+        /* A padded table's blank rows hold its columns in step and are dropped
+           only here, at the end: the row above already names the group they
+           separate, and a nested table still needs them to align. */
+        text: zipRows($, node, links).filter(Boolean).join('  \n'),
       });
     } else if (tag === 'img') {
       flush();
@@ -613,8 +787,12 @@ const isNavBlock = (block) =>
  * repeated verbatim on every one of the ~3,640 pages. They belong in the
  * footer, once, prominently — not inline 3,640 times.
  */
+/* Haydonning is also Ayckbourn's own production company, so the bare name is a
+   value in the "Company" column of the recordings tables. Only the notice is
+   boilerplate, and every one of the 2,400 pairs the name with a © or a
+   "copyright of". */
 const BOILERPLATE =
-  /All research and original material|Haydonning Ltd|do not reproduce (any material|in any form)/i;
+  /All research and original material|(?:©|\(c\)|copyright(?::| of)?)\s*Haydonning Ltd|do not reproduce (any material|in any form)/i;
 
 /*
  * Directions to chrome that no longer exists: "To navigate, use the links in
@@ -1416,6 +1594,7 @@ if (process.argv[1].endsWith('scrape.mjs')) {
 
 export {
   blocksOf,
+  brLines,
   clean,
   dropEmptyLabels,
   extractFacts,

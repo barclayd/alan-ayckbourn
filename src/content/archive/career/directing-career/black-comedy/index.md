@@ -8,56 +8,37 @@ order: 438
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Peter Shaffer  
+**New Play:** No  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Peter Shaffer  
-No
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**24 June 1974  
-24 June 1974  
-10 August 1974
+**First performance:** 24 June 1974  
+**Opening night:** 24 June 1974  
+**Final performance:** 10 August 1974
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Costumes:**
+**Director:** Alan Ayckbourn  
+**Design:** Helga Wood  
+**Costumes:** Christine Welch  
+**Stage Manager:** David Millard  
+**Deputy Stage Manager:** Trevor John-Smith  
+**Assistant Stage Manager:** Helga Wood  
+**Assistant Stage Manager:** Kevin Wood
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Helga Wood  
-Christine Welch
-
-David Millard  
-Trevor John-Smith  
-Helga Wood  
-Kevin Wood**Character**  
-Brindsley Miller  
-Carol Melkett  
-Miss Furnival  
-Colonel Melkett  
-Harold Gorringe  
-Clea  
-Schuppanzigh  
-Georg Bamberger**Actor**  
-Stephen Mallatratt  
-Heather Stoney  
-Eileen O'Brien  
-Christopher Godwin  
-Ronald Herdman  
-Janet Dale  
-Stanley Page  
-Kevin Wood
+**Character** **Actor**  
+**Brindsley Miller** Stephen Mallatratt  
+**Carol Melkett** Heather Stoney  
+**Miss Furnival** Eileen O'Brien  
+**Colonel Melkett** Christopher Godwin  
+**Harold Gorringe** Ronald Herdman  
+**Clea** Janet Dale  
+**Schuppanzigh** Stanley Page  
+**Georg Bamberger** Kevin Wood
 
 ### Notes
 
-○ *Black Comedy* was presented in a double bill with ***[Albert](/career/directing-career/albert)***.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Black Comedy* was presented in a double bill with ***[Albert](/career/directing-career/albert)***.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

@@ -21,23 +21,17 @@ play: "neighbourhood-watch"
 
 **Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Clare Heath **Character**  
-Dorothy  
-Rod  
-Luther  
-Martin  
-Gareth  
-Amy  
-Magda  
-Hilda**Actor**  
-Eileen Battye  
-Terence Booth  
-Phil Cheadle  
-Matthew Cottle  
-Richard Derrington  
-Frances Grey  
-Amy Loughton  
-Alexandra Mathie
+**Assistant Stage Manager:** Clare Heath
+
+**Character** **Actor**  
+**Dorothy** Eileen Battye  
+**Rod** Terence Booth  
+**Luther** Phil Cheadle  
+**Martin** Matthew Cottle  
+**Gareth** Richard Derrington  
+**Amy** Frances Grey  
+**Magda** Amy Loughton  
+**Hilda** Alexandra Mathie
 
 ### New York Premiere (2011)
 
@@ -48,23 +42,17 @@ Alexandra Mathie
 
 **Director:** Alan Ayckbourn  
 **Design:** Pip Leckenby  
-**Lighting:** Mick Hughes **Character**  
-Dorothy  
-Rod  
-Luther  
-Martin  
-Gareth  
-Amy  
-Magda  
-Hilda**Actor**  
-Eileen Battye  
-Terence Booth  
-Phil Cheadle  
-Matthew Cottle  
-Richard Derrington  
-Frances Grey  
-Amy Loughton  
-Alexandra Mathie
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Dorothy** Eileen Battye  
+**Rod** Terence Booth  
+**Luther** Phil Cheadle  
+**Martin** Matthew Cottle  
+**Gareth** Richard Derrington  
+**Amy** Frances Grey  
+**Magda** Amy Loughton  
+**Hilda** Alexandra Mathie
 
 ### London Premiere (2012)
 
@@ -77,28 +65,19 @@ Alexandra Mathie
 **Director:** Alan Ayckbourn  
 **Associate Director:** Adam Sunderland  
 **Design:** Pip Leckenby  
-**Lighting:** Mick Hughes**Character**  
-Dorothy  
-Rod  
-Luther  
-Martin  
-Gareth  
-Amy  
-Magda  
-Hilda
+**Lighting:** Mick Hughes
 
-Understudy  
-Understudy  
-Understudy**Actor**  
-Eileen Battye  
-Terence Booth  
-Phil Cheadle  
-Matthew Cottle  
-Richard Derrington  
-Frances Grey  
-Amy Loughton  
-Alexandra Mathie
+**Character** **Actor**  
+**Dorothy** Eileen Battye  
+**Rod** Terence Booth  
+**Luther** Phil Cheadle  
+**Martin** Matthew Cottle  
+**Gareth** Richard Derrington  
+**Amy** Frances Grey  
+**Magda** Amy Loughton  
+**Hilda** Alexandra Mathie  
+**Understudy** Airlie Scott  
+**Understudy** Toby Spearpoint  
+**Understudy** Lauren Terry
 
-Airlie Scott  
-Toby Spearpoint  
-Lauren Terry*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

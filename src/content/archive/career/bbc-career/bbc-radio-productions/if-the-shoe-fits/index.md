@@ -8,34 +8,26 @@ order: 634
 
 ### Production Details
 
-**Author:**
+**Author:** Guy Compton with Pat Keen & David Mahlowe  
+**Broadcast:** 19 May 1965 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Guy Compton with Pat Keen & David Mahlowe
+**Director:**  
+Alan Ayckbourn
 
-19 May 1965 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Gordon Scobell  
-Mrs Boundy  
-Clarice Scobell  
-Bernard Scobell  
-Marlene Scobell  
-Michael Drew  
-Suzy Scobell  
-Freddie Scobell  
-Charlie Scobell  
-Gas-meter man**Actor**  
-David Mahlowe  
-Vivien Wood  
-Pat Keen  
-Bruce Bould  
-Margaret Swain  
-Ronald Harvi  
-Veronica Doran  
-Michael Treece  
-John Barlow  
-John Walton
+**Character** **Actor**  
+**Gordon Scobell** David Mahlowe  
+**Mrs Boundy** Vivien Wood  
+**Clarice Scobell** Pat Keen  
+**Bernard Scobell** Bruce Bould  
+**Marlene Scobell** Margaret Swain  
+**Michael Drew** Ronald Harvi  
+**Suzy Scobell** Veronica Doran  
+**Freddie Scobell** Michael Treece  
+**Charlie Scobell** John Barlow  
+**Gas-meter man** John Walton
 
 ### Notes
 
-○ *If The Shoe Fits* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *If The Shoe Fits* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

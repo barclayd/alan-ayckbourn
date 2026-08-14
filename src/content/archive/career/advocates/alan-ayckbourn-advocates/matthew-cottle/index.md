@@ -9,4 +9,5 @@ order: 2316
 ### Quotes
 
 "People do think that Ayckbourn plays can be slightly comfortable but there is always a darker edge to them. I love the fact that the audience starts laughing and then they stop when they realise that they are laughing at a person who is having a terrible time for some reason. He does that so beautifully. You're laughing and then the laugh catches in your throat."  
-(*2022*)*Copyright: Michael Codron. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+(*2022*)  
+*Copyright: Michael Codron. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

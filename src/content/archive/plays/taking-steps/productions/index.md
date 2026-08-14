@@ -20,19 +20,15 @@ play: "taking-steps"
 
 **Stage Manager:** Sean O’Neill  
 **Assistant Stage Manager:** Eric Lumsden  
-**Assistant Stage Manager:** Nina Edwards**Character**  
-Elizabeth  
-Roland, her husband  
-Mark, her brother  
-Tristram, a solicitor  
-Leslie, a builder  
-Kitty, Mark’s fiancée**Actor**  
-Alison Skilbeck  
-John Arthur  
-Robin Herford  
-Robin Bowerman  
-Jeffrey Robert  
-Lavinia Bertram
+**Assistant Stage Manager:** Nina Edwards
+
+**Character** **Actor**  
+**Elizabeth** Alison Skilbeck  
+**Roland, her husband** John Arthur  
+**Mark, her brother** Robin Herford  
+**Tristram, a solicitor** Robin Bowerman  
+**Leslie, a builder** Jeffrey Robert  
+**Kitty, Mark’s fiancée** Lavinia Bertram
 
 ### Revival (1980)
 
@@ -48,19 +44,15 @@ Lavinia Bertram
 **Stage Manager:** Simon Whitaker  
 **Deputy Stage Manager:** Eric Lumsden  
 **Assistant Stage Manager:** Sue Merry  
-**Assistant Stage Manager:** Abigail McKern**Character**  
-Elizabeth  
-Roland, her husband  
-Mark, her brother  
-Tristram, a solicitor  
-Leslie, a builder  
-Kitty, Mark’s fiancée**Actor**  
-Marcia Warren  
-Ronald Herdman  
-Robin Herford  
-Michael Simkins  
-Jeffrey Robert  
-Lavinia Bertram
+**Assistant Stage Manager:** Abigail McKern
+
+**Character** **Actor**  
+**Elizabeth** Marcia Warren  
+**Roland, her husband** Ronald Herdman  
+**Mark, her brother** Robin Herford  
+**Tristram, a solicitor** Michael Simkins  
+**Leslie, a builder** Jeffrey Robert  
+**Kitty, Mark’s fiancée** Lavinia Bertram
 
 ### London Premiere (1980)
 
@@ -72,19 +64,15 @@ Lavinia Bertram
 **Director:** Michael Rudman  
 **Design:** Alan Tagg  
 **Lighting:** Gerry Jenkinson  
-**Costumes:** Lindy Hemming**Character**  
-Elizabeth  
-Roland, her husband  
-Mark, her brother  
-Tristram, a solicitor  
-Leslie, a builder  
-Kitty, Mark’s fiancée**Actor**  
-Nicola Pagett  
-Dinsdale Landen  
-Paul Chapman  
-Michael Maloney  
-Richard Kane  
-Wendy Murray
+**Costumes:** Lindy Hemming
+
+**Character** **Actor**  
+**Elizabeth** Nicola Pagett  
+**Roland, her husband** Dinsdale Landen  
+**Mark, her brother** Paul Chapman  
+**Tristram, a solicitor** Michael Maloney  
+**Leslie, a builder** Richard Kane  
+**Kitty, Mark’s fiancée** Wendy Murray
 
 ### Revival (1990)
 
@@ -102,19 +90,15 @@ Wendy Murray
 **Stage Manager:** Joanne Rolfe  
 **Deputy Stage Manager:** Marina Kilby  
 **Deputy Stage Manager:** Jane Tynan  
-**Assistant Stage Manager:** Patricia Swales**Character**  
-Elizabeth  
-Roland, her husband  
-Mark, her brother  
-Tristram, a solicitor  
-Leslie, a builder  
-Kitty, Mark’s fiancée**Actor**  
-Elizabeth Bell  
-Michael Gambon  
-Rupert Vansittart  
-Adam Godley  
-Ken Stott  
-Claire Skinner
+**Assistant Stage Manager:** Patricia Swales
+
+**Character** **Actor**  
+**Elizabeth** Elizabeth Bell  
+**Roland, her husband** Michael Gambon  
+**Mark, her brother** Rupert Vansittart  
+**Tristram, a solicitor** Adam Godley  
+**Leslie, a builder** Ken Stott  
+**Kitty, Mark’s fiancée** Claire Skinner
 
 ### New York Premiere (1991)
 
@@ -125,19 +109,15 @@ Claire Skinner
 
 **Director:** Alan Strachan  
 **Design:** James Morgan  
-**Lighting:** Mary Jo Dondlinger**Character**  
-Elizabeth  
-Roland, her husband  
-Mark, her brother  
-Tristram, a solicitor  
-Leslie, a builder  
-Kitty, Mark’s fiancée**Actor**  
-Jane Summerhays  
-Christopher Benjamin  
-Jonathan Hogan  
-Spike McClure  
-Bill Buell  
-Pippa Pearthree
+**Lighting:** Mary Jo Dondlinger
+
+**Character** **Actor**  
+**Elizabeth** Jane Summerhays  
+**Roland, her husband** Christopher Benjamin  
+**Mark, her brother** Jonathan Hogan  
+**Tristram, a solicitor** Spike McClure  
+**Leslie, a builder** Bill Buell  
+**Kitty, Mark’s fiancée** Pippa Pearthree
 
 ### London Revival (2010)
 
@@ -148,19 +128,15 @@ Pippa Pearthree
 
 **Director:** Alan Ayckbourn  
 **Design:** Michael Holt  
-**Lighting:** Mick Hughes**Character**  
-Elizabeth  
-Roland, her husband  
-Mark, her brother  
-Tristram, a solicitor  
-Leslie, a builder  
-Kitty, Mark’s fiancée**Actor**  
-Anna Francolini  
-Michael Simkins  
-Stephen Beckett  
-Matthew Cottle  
-Adrian McLoughlin  
-Emily Pithon
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Elizabeth** Anna Francolini  
+**Roland, her husband** Michael Simkins  
+**Mark, her brother** Stephen Beckett  
+**Tristram, a solicitor** Matthew Cottle  
+**Leslie, a builder** Adrian McLoughlin  
+**Kitty, Mark’s fiancée** Emily Pithon
 
 ### Revival (2017)
 
@@ -177,16 +153,14 @@ Emily Pithon
 
 **Company Stage Manager:** Nikki Colclough  
 **Deputy Stage Manager:** Amy Bending  
-**Assistant Stage Manager:** Emma Lang**Character**  
-Elizabeth  
-Roland, her husband  
-Mark, her brother  
-Tristram, a solicitor  
-Leslie, a builder  
-Kitty, Mark’s fiancée**Actor**  
-Louise Shuttleworth  
-Russell Dixon  
-Laurence Pears  
-Antony Eden  
-Leigh Symonds  
-Laura Matthews*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Emma Lang
+
+**Character** **Actor**  
+**Elizabeth** Louise Shuttleworth  
+**Roland, her husband** Russell Dixon  
+**Mark, her brother** Laurence Pears  
+**Tristram, a solicitor** Antony Eden  
+**Leslie, a builder** Leigh Symonds  
+**Kitty, Mark’s fiancée** Laura Matthews
+
+*All research for this page by Simon Murgatroyd.*

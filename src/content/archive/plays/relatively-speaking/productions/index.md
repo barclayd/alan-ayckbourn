@@ -19,15 +19,15 @@ play: "relatively-speaking"
 **Director:** Stephen Joseph  
 **Lighting:** Clive Goodhead
 
-**Stage Manager:** Valerie Fletcher**Character**  
-Greg  
-Gina  
-Philip  
-Sheila**Actor**  
-Peter King  
-Joanna Tope  
-David Jarrett  
-Catherine Naish**Note:** In the original production of the play, Ginny was called Gina. This was altered for the West End production to Virginia (presumably shortened to Ginny in the play). The character is not credited as Ginny in a programme until Alan Ayckbourn's first production of the play in Leeds in 1970.
+**Stage Manager:** Valerie Fletcher
+
+**Character** **Actor**  
+**Greg** Peter King  
+**Gina** Joanna Tope  
+**Philip** David Jarrett  
+**Sheila** Catherine Naish
+
+**Note:** In the original production of the play, Ginny was called Gina. This was altered for the West End production to Virginia (presumably shortened to Ginny in the play). The character is not credited as Ginny in a programme until Alan Ayckbourn's first production of the play in Leeds in 1970.
 
 ### London Premiere (1967)
 
@@ -39,15 +39,13 @@ Catherine Naish**Note:** In the original production of the play, Ginny was calle
 
 **Director:** Nigel Patrick  
 **Design:** Hutchinson Scott  
-**Lighting:** Michael Northern**Character**  
-Greg  
-Virginia  
-Philip  
-Sheila**Actor**  
-Richard Briers  
-Jennifer Hilary  
-Michael Hordern  
-Celia Johnson
+**Lighting:** Michael Northern
+
+**Character** **Actor**  
+**Greg** Richard Briers  
+**Virginia** Jennifer Hilary  
+**Philip** Michael Hordern  
+**Sheila** Celia Johnson
 
 ### London Recast (1968)
 
@@ -59,15 +57,15 @@ Celia Johnson
 
 **Director:** Nigel Patrick  
 **Design:** Hutchinson Scott  
-**Lighting:** Michael Northern**Character**  
-Greg  
-Virginia  
-Philip  
-Sheila**Actor**  
-Philip Guard  
-Polly Adams  
-Colin Gordon  
-Judy Campbell**Note:** No dates are known for when the new company took over the play, but it seems likely it would have been either six months or nine months after the play originally opened. Given the play began making substantial losses in December 1967, it seems plausible this was when the new company took over the play.
+**Lighting:** Michael Northern
+
+**Character** **Actor**  
+**Greg** Philip Guard  
+**Virginia** Polly Adams  
+**Philip** Colin Gordon  
+**Sheila** Judy Campbell
+
+**Note:** No dates are known for when the new company took over the play, but it seems likely it would have been either six months or nine months after the play originally opened. Given the play began making substantial losses in December 1967, it seems plausible this was when the new company took over the play.
 
 ### Tour (1968)
 
@@ -78,15 +76,13 @@ Judy Campbell**Note:** No dates are known for when the new company took over the
 **Director:** Donald Sinden  
 **Design:** Hutchinson Scott  
 **Lighting:** Michael Northern  
-**Producers:** Peter Bridge / Peter Elliott**Character**  
-Greg  
-Virginia  
-Philip  
-Sheila**Actor**  
-John Carlisle  
-Anne Lawson  
-Raymond Francis  
-Evelyn Laye
+**Producers:** Peter Bridge / Peter Elliott
+
+**Character** **Actor**  
+**Greg** John Carlisle  
+**Virginia** Anne Lawson  
+**Philip** Raymond Francis  
+**Sheila** Evelyn Laye
 
 ### Revival (1970)
 
@@ -97,15 +93,15 @@ Evelyn Laye
 
 **Director:** Alan Ayckbourn  
 **Design:** Alan Ayckbourn  
-**Lighting:** Tony Braime**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Chris Ward  
-Sue Clarkson  
-Marion Walker  
-Bill Smith**Note:** It is unusual for this website to carry details of amateur productions of Alan Ayckbourn's plays. This production marked the first time Alan Ayckbourn directed *Relatively Speaking* - at the time he was a BBC Radio Drama Producer in Leeds and he was the President of Leeds Art Theatre.
+**Lighting:** Tony Braime
+
+**Character** **Actor**  
+**Greg** Chris Ward  
+**Ginny** Sue Clarkson  
+**Philip** Marion Walker  
+**Sheila** Bill Smith
+
+**Note:** It is unusual for this website to carry details of amateur productions of Alan Ayckbourn's plays. This production marked the first time Alan Ayckbourn directed *Relatively Speaking* - at the time he was a BBC Radio Drama Producer in Leeds and he was the President of Leeds Art Theatre.
 
 ### Tour (1974)
 
@@ -116,15 +112,15 @@ Bill Smith**Note:** It is unusual for this website to carry details of amateur p
 **Director (Gardner Centre):** John David  
 **Director (tour):** Roy Patrick  
 **Design:** Karen Mills  
-**Producer:** Cameron Macintosh**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Simon Williams  
-Lucy Williams  
-Moray Watson  
-Dora Bryan**Note:** This was the second major UK tour of *Relatively Speaking* and produced by Cameron Macintosh and George Borwick in association with Paul Elliott and Duncan C Weldon. It was built around Dora Bryan and began life at the Gardner Centre in Brighton (a three week run which featured Dora Bryan and Moray Watson but with Jeremy Nicholas and Madeleine Cannon as Greg & Ginny). The tour ran through 1974 and 1975 during which the company changed to include Robert Flemyng (Philip), Christopher Neame (Greg) and Phyllida Nash (Ginny). Bizarrely, Dora Bryan was given to performing short cabaret revues after the curtain call at some performances!
+**Producer:** Cameron Macintosh
+
+**Character** **Actor**  
+**Greg** Simon Williams  
+**Ginny** Lucy Williams  
+**Philip** Moray Watson  
+**Sheila** Dora Bryan
+
+**Note:** This was the second major UK tour of *Relatively Speaking* and produced by Cameron Macintosh and George Borwick in association with Paul Elliott and Duncan C Weldon. It was built around Dora Bryan and began life at the Gardner Centre in Brighton (a three week run which featured Dora Bryan and Moray Watson but with Jeremy Nicholas and Madeleine Cannon as Greg & Ginny). The tour ran through 1974 and 1975 during which the company changed to include Robert Flemyng (Philip), Christopher Neame (Greg) and Phyllida Nash (Ginny). Bizarrely, Dora Bryan was given to performing short cabaret revues after the curtain call at some performances!
 
 ### Revival (1977)
 
@@ -139,15 +135,13 @@ Dora Bryan**Note:** This was the second major UK tour of *Relatively Speaking* a
 
 **Stage Manager:** Janet Fox  
 **Deputy Stage Manager:** Christopher Gray  
-**Assistant Stage Manager:** Anne Hawkins**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Robin Herford  
-Diane Bull  
-Robert Austin  
-Alison Skilbeck
+**Assistant Stage Manager:** Anne Hawkins
+
+**Character** **Actor**  
+**Greg** Robin Herford  
+**Ginny** Diane Bull  
+**Philip** Robert Austin  
+**Sheila** Alison Skilbeck
 
 ### Tour (1982)
 
@@ -157,15 +151,13 @@ Alison Skilbeck
 
 **Director:** Salvin Stewart  
 **Design:** Julian Saxton  
-**Producer:** Bill Kenwright**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Colin Baker  
-Prunella Gee  
-Gerald Flood  
-Eleanor Summerfield
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Greg** Colin Baker  
+**Ginny** Prunella Gee  
+**Philip** Gerald Flood  
+**Sheila** Eleanor Summerfield
 
 ### New York Premiere (1984)
 
@@ -178,15 +170,13 @@ Eleanor Summerfield
 **Design:** Marc D. Malamud  
 **Company:** Artistic New Directions
 
-**Stage Manager:** Peter Kent**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-James Kirsch  
-Kristine Niven  
-Thomas Barbour  
-Kathleen Claypool
+**Stage Manager:** Peter Kent
+
+**Character** **Actor**  
+**Greg** James Kirsch  
+**Ginny** Kristine Niven  
+**Philip** Thomas Barbour  
+**Sheila** Kathleen Claypool
 
 ### Revival (1986)
 
@@ -196,15 +186,13 @@ Kathleen Claypool
 
 **Director:** Alan Strachan  
 **Design:** Glenn Willoughby  
-**Lighting:** Mick Hughes**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Michael Simkins  
-Felicity Dean  
-Michael Aldridge  
-Gwen Watford
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Greg** Michael Simkins  
+**Ginny** Felicity Dean  
+**Philip** Michael Aldridge  
+**Sheila** Gwen Watford
 
 ### Revival (2000)
 
@@ -215,15 +203,13 @@ Gwen Watford
 **Director:** Robin Herford  
 **Design:** Tim Shortfall  
 **Lighting:** Robin Carter  
-**Producer:** Bill Kenwright**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Nick Haverson  
-Eleanor Remain  
-Brian Protheroe  
-Susan Hampshire
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Greg** Nick Haverson  
+**Ginny** Eleanor Remain  
+**Philip** Brian Protheroe  
+**Sheila** Susan Hampshire
 
 ### Revival (2007)
 
@@ -239,15 +225,13 @@ Susan Hampshire
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Helen Williams**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Dominic Hecht  
-Katie Foster-Barnes  
-Philip York  
-Eileen Battye
+**Assistant Stage Manager:** Helen Williams
+
+**Character** **Actor**  
+**Greg** Dominic Hecht  
+**Ginny** Katie Foster-Barnes  
+**Philip** Philip York  
+**Sheila** Eileen Battye
 
 ### Revival (2012)
 
@@ -259,15 +243,13 @@ Eileen Battye
 **Director:** Lindsay Posner  
 **Design:** Peter McIntosh  
 **Lighting:** Howard Harrison  
-**Sound:** Matt McKenzie**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Max Bennett  
-Kara Tointon  
-Jonathan Coy  
-Felicity Kendal
+**Sound:** Matt McKenzie
+
+**Character** **Actor**  
+**Greg** Max Bennett  
+**Ginny** Kara Tointon  
+**Philip** Jonathan Coy  
+**Sheila** Felicity Kendal
 
 ### London Revival (2013)
 
@@ -279,15 +261,13 @@ Felicity Kendal
 **Director:** Lindsay Posner  
 **Design:** Peter McIntosh  
 **Lighting:** Howard Harrison  
-**Sound:** Matt McKenzie**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Max Bennett  
-Kara Tointon  
-Jonathan Coy  
-Felicity Kendal
+**Sound:** Matt McKenzie
+
+**Character** **Actor**  
+**Greg** Max Bennett  
+**Ginny** Kara Tointon  
+**Philip** Jonathan Coy  
+**Sheila** Felicity Kendal
 
 ### Tour (2016)
 
@@ -300,15 +280,13 @@ Felicity Kendal
 **Lighting:** Jason Taylor  
 **Sound:** Mike Walker  
 **Assistant Director:** C.P.Hallam  
-**Producer:** Bill Kenwright**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Antony Eden  
-Lindsey Campbell  
-Robert Powell  
-Liza Goddard
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Greg** Antony Eden  
+**Ginny** Lindsey Campbell  
+**Philip** Robert Powell  
+**Sheila** Liza Goddard
 
 ### Revival (2020)
 
@@ -320,15 +298,15 @@ Liza Goddard
 
 **Director:** Robin Herford  
 **Design:** Michael Holt  
-**Costumes:** Natalie Titchener**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Christopher Bonwell  
-Lianne Harvey  
-James Simmons  
-Rachel Fielding**Note:** The Mill At Sonning revival of *Relatively Speaking* was intended to transfer to the Jermyn Street Theatre, London, from 21 April to 16 May 2020. However, the Cover-19 pandemic crisis closed all theatre in the UK during March 2020. As a result, the original run at the Mill at Sonning was curtailed and the London transfer initially cancelled. The production was rescheduled and revived at The Mill at Sonning during 2021.
+**Costumes:** Natalie Titchener
+
+**Character** **Actor**  
+**Greg** Christopher Bonwell  
+**Ginny** Lianne Harvey  
+**Philip** James Simmons  
+**Sheila** Rachel Fielding
+
+**Note:** The Mill At Sonning revival of *Relatively Speaking* was intended to transfer to the Jermyn Street Theatre, London, from 21 April to 16 May 2020. However, the Cover-19 pandemic crisis closed all theatre in the UK during March 2020. As a result, the original run at the Mill at Sonning was curtailed and the London transfer initially cancelled. The production was rescheduled and revived at The Mill at Sonning during 2021.
 
 ### London Revival (2021)
 
@@ -339,15 +317,15 @@ Rachel Fielding**Note:** The Mill At Sonning revival of *Relatively Speaking* wa
 
 **Director:** Robin Herford  
 **Design:** Michael Holt  
-**Costumes:** Natalie Titchener**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Christopher Bonwell  
-Lianne Harvey  
-James Simmons  
-Rachel Fielding**Note:** This production of *Relatively Speaking* was intended to transfer to the Jermyn Street Theatre, London, from 21 April to 16 May 2020. However, the Cover-19 pandemic crisis closed all theatre in the UK during March 2020. As a result, the original run at the Mill at Sonning was curtailed and the London transfer postponed until 2021.
+**Costumes:** Natalie Titchener
+
+**Character** **Actor**  
+**Greg** Christopher Bonwell  
+**Ginny** Lianne Harvey  
+**Philip** James Simmons  
+**Sheila** Rachel Fielding
+
+**Note:** This production of *Relatively Speaking* was intended to transfer to the Jermyn Street Theatre, London, from 21 April to 16 May 2020. However, the Cover-19 pandemic crisis closed all theatre in the UK during March 2020. As a result, the original run at the Mill at Sonning was curtailed and the London transfer postponed until 2021.
 
 ### Revival / UK Tour (2023)
 
@@ -361,15 +339,13 @@ Rachel Fielding**Note:** This production of *Relatively Speaking* was intended t
 **Costumes:** Peter McIntosh  
 **Lighting:** Jason Taylor  
 **Sound:** Mike Walker  
-**Assistant Director:** Amy Wyatt Corner**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Antony Eden  
-Olivia le Anderson  
-Steven Pacey  
-Liza Goddard
+**Assistant Director:** Amy Wyatt Corner
+
+**Character** **Actor**  
+**Greg** Antony Eden  
+**Ginny** Olivia le Anderson  
+**Philip** Steven Pacey  
+**Sheila** Liza Goddard
 
 ### 60th Anniversary Rehearsed Reading (2025)
 
@@ -378,12 +354,12 @@ Liza Goddard
 **Staging:** Rehearsed reading
 
 **Director:** To be announced  
-**Stage Manager:** To be announced**Character**  
-Greg  
-Ginny  
-Philip  
-Sheila**Actor**  
-Hayden Wood  
-Georgina Burnell  
-Russell Richardson  
-Liza Goddard*All research for this page by Simon Murgatroyd.*
+**Stage Manager:** To be announced
+
+**Character** **Actor**  
+**Greg** Hayden Wood  
+**Ginny** Georgina Burnell  
+**Philip** Russell Richardson  
+**Sheila** Liza Goddard
+
+*All research for this page by Simon Murgatroyd.*

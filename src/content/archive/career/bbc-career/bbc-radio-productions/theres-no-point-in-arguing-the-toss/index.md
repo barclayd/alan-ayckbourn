@@ -8,15 +8,16 @@ order: 337
 
 ### Production Details
 
-**Author:**
+**Author:** Don Haworth  
+**Broadcast:** 6 April 1967 @ 8pm  
+**Channel:** Network 3
 
-**Broadcast:**  
-**Channel:**Don Haworth
-
-6 April 1967 @ 8pm  
-Network 3**Director:**Alan Ayckbourn**Character**  
+**Director:**  
+Alan Ayckbourn  
+**Character**  
 Fred  
-Other roles unknown**Actor**  
+Other roles unknown  
+**Actor**  
 James Bolam  
 Derrick Gilbert  
 David Mahlowe  
@@ -31,4 +32,5 @@ Ruth Holden
 ### Notes
 
 ○ *There's No Point Arguing The Toss* marked the playwriting debut of the acclaimed radio writer Don Haworth. It was nominated for the Prix Italia prize.  
-○ *There's No Point Arguing The Toss* was repeated on BBC Radio 3 on 23 January 1968.*All research for this page by Simon Murgatroyd.*
+○ *There's No Point Arguing The Toss* was repeated on BBC Radio 3 on 23 January 1968.  
+*All research for this page by Simon Murgatroyd.*

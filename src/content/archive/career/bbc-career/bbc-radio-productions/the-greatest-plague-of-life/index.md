@@ -8,23 +8,23 @@ order: 631
 
 ### Production Details
 
-**Author:**  
-**Adaptor:**
+**Author:** The Brothers Mayhew  
+**Adaptor:** Brian Morris  
+**Broadcast from:** 21 September 1970 @ 4.30pm  
+**Channel:** BBC Radio 4  
+**Episodes:** 6
 
-**Broadcast from:**  
-**Channel:**  
-**Episodes:**The Brothers Mayhew  
-Brian Morris
-
-21 September 1970 @ 4.30pm  
-BBC Radio 4  
-6**Director:**  
-**Music:**Alan Ayckbourn  
-Trevor Holroyd**Character**  
-Reader**Actor**  
+**Director:**  
+**Music:**  
+Alan Ayckbourn  
+Trevor Holroyd  
+**Character**  
+Reader  
+**Actor**  
 Daphne Oxenford
 
 ### Notes
 
 ○ *The Greatest Plague In Life* was a six-part serial with all episodes directed by Alan Ayckbourn.  
-○ This was an adaptation of the Victorian novel read for the radio.*All research for this page by Simon Murgatroyd.*
+○ This was an adaptation of the Victorian novel read for the radio.  
+*All research for this page by Simon Murgatroyd.*

@@ -8,64 +8,40 @@ order: 435
 
 ### Production Details
 
-**Book / Lyrics:**  
-**Music:**  
-**New Play:**
+**Book / Lyrics:** Mary Stewart-David  
+**Music:** Denis King  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre  
+**Location:** The McCarthy  
+**Staging:** End-stage
 
-**Venue:**  
-**Location:**  
-**Staging:**Mary Stewart-David  
-Denis King  
-Yes
-
-Stephen Joseph Theatre  
-The McCarthy  
-End-stage**First performance:**  
-**Opening night:**  
-**Final performance:**23 April 1998  
-29 April 1998  
-23 May 1998
+**First performance:** 23 April 1998  
+**Opening night:** 29 April 1998  
+**Final performance:** 23 May 1998
 
 ### Company Details
 
-**Director:**  
-**Musical Director:**  
-**Design:**  
-**Lighting:**  
-**Choreography:**
+**Director:** Alan Ayckbourn  
+**Musical Director:** Simon Cryer  
+**Design:** Michael Holt  
+**Lighting:** Paul Towson  
+**Choreography:** Sheila Carter  
+**Stage Manager:** Cath Booth  
+**Deputy Stage Manager:** Paul Anders  
+**Assistant Stage Manager:** Keith Tunstill
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Simon Cryer  
-Michael Holt  
-Paul Towson  
-Sheila Carter
-
-Cath Booth  
-Paul Anders  
-Keith Tunstill**Character**  
-Toby Brown  
-India Brown  
-Quentin  
-Perdita  
-Tiffany  
-Harry
-
-Piano  
-Percussion  
-Percussion**Actor**  
-Andrew Norris  
-Claire Carrie  
-Garth Bardsley  
-Teresa Gallagher  
-Tamzin Outhwaite  
-Golda Rosheuvel
-
-Simon Cryer  
-Lee Adams  
-Jonathan Robinson
+**Character** **Actor**  
+**Toby Brown** Andrew Norris  
+**India Brown** Claire Carrie  
+**Quentin** Garth Bardsley  
+**Perdita** Teresa Gallagher  
+**Tiffany** Tamzin Outhwaite  
+**Harry** Golda Rosheuvel  
+**Piano** Simon Cryer  
+**Percussion** Lee Adams  
+**Percussion** Jonathan Robinson
 
 ### Notes
 
-○ *Baby On Board* marked the first collaboration between Alan Ayckbourn and the composer Denis King. They would go on to frequently work together and work on several Ayckbourn musicals together including ***[Whenever](/plays/whenever)*** and ***[Awaking Beauty](/plays/awaking-beauty)***.*All research for this page by Simon Murgatroyd.*
+○ *Baby On Board* marked the first collaboration between Alan Ayckbourn and the composer Denis King. They would go on to frequently work together and work on several Ayckbourn musicals together including ***[Whenever](/plays/whenever)*** and ***[Awaking Beauty](/plays/awaking-beauty)***.  
+*All research for this page by Simon Murgatroyd.*

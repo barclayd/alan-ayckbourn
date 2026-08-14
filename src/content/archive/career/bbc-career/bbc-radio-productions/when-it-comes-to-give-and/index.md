@@ -8,34 +8,26 @@ order: 669
 
 ### Production Details
 
-**Author:**
+**Author:** Pam Tickell  
+**Broadcast:** 13 November 1968 @ 3pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Pam Tickell
+**Director:**  
+Alan Ayckbourn
 
-13 November 1968 @ 3pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Sarah  
-Bernard  
-Lucy  
-Arnold  
-Mick  
-Sam  
-Freddie  
-Dr Turner  
-Flo  
-Thornton**Actor**  
-Heather Stoney  
-David Valla  
-Dorothy Edwards  
-Kenneth Gilbert  
-Chris Canavan  
-Harry Markham  
-Roy Barraclough  
-Robert Peck  
-Pamela Dellar  
-John Linstrum
+**Character** **Actor**  
+**Sarah** Heather Stoney  
+**Bernard** David Valla  
+**Lucy** Dorothy Edwards  
+**Arnold** Kenneth Gilbert  
+**Mick** Chris Canavan  
+**Sam** Harry Markham  
+**Freddie** Roy Barraclough  
+**Dr Turner** Robert Peck  
+**Flo** Pamela Dellar  
+**Thornton** John Linstrum
 
 ### Notes
 
-○ *When It Comes To Give And Take* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *When It Comes To Give And Take* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

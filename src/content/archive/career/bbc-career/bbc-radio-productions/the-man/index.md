@@ -8,20 +8,18 @@ order: 644
 
 ### Production Details
 
-**Author:**
+**Author:** Mel Dinelli  
+**Broadcast:** 15 January 1968 @ 8.30pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Mel Dinelli
+**Director:**  
+Alan Ayckbourn
 
-15 January 1968 @ 8.30pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Mrs Gillis  
-Howard Wilton  
-Mr Armstrong  
-Ruth  
-Mr Franks**Actor**  
-Eileen Derbyshire  
-Colln Edwynn  
-Kenneth Gilbert  
-Sara Aimson  
-Geoffrey Banks*All research for this page by Simon Murgatroyd.*
+**Character** **Actor**  
+**Mrs Gillis** Eileen Derbyshire  
+**Howard Wilton** Colln Edwynn  
+**Mr Armstrong** Kenneth Gilbert  
+**Ruth** Sara Aimson  
+**Mr Franks** Geoffrey Banks
+
+*All research for this page by Simon Murgatroyd.*

@@ -10,14 +10,18 @@ facts:
   World Premiere Venue: "Etcetera Theatre Club, Wimbledon"
   Play Description: "Grey Play"
   Short Synopsis: "A musical revue written by the composer Paul Todd (with lyrics by Alan Ayckbourn) based around a relationship between two actors."
-  Songs: "(lyrics by Alan Ayckbourn)Act 1"
+  Songs: "(lyrics by Alan Ayckbourn)"
   World premiere: "23 April 1992"
   World premiere Venue: "Etcetera Theatre Club, Camden"
   Director: "Vivienne Cozens"
   Music and book: "Paul Todd"
   Lyrics: "Alan Ayckbourn"
   Design: "Nigel Winborne"
-  Lighting: "Jimmy KaganCharacter"
+  Lighting: "Jimmy Kagan"
+  Character: "Actor"
+  Jenny: "Janie Dee"
+  Stephen: "Stefan Bednarcyzk"
+  Roger: "Simon Green"
 ---
 
 **Published / Available to Stage:** No
@@ -46,6 +50,7 @@ In the middle is Stephen, the composer of the music who is both confidante and '
 **Synopsis by Paul Todd**  
 The story starts at their \[Jenny & Roger\] respective auditions. They are cast and meet to rehearse only to find that there is, as yet, no script. The script and the lyrics arrive throughout the show. They rehearse, open and tour. The actor and actress play Jenny and Roger as well as many attendant characters. Paralleling the pressure of their professional life a personal relationship may be developing, too, unlikely though it seems at one point.
 
+**Act 1**  
 1. Electric Women  
 2. Saying Goodbye  
 3. I Don't Want To Do It  
@@ -55,7 +60,8 @@ The story starts at their \[Jenny & Roger\] respective auditions. They are cast 
 7. Teaching The Children  
 8. Fancy Meeting You  
 9. Copytype  
-10. Much Good**Act 2**  
+10. Much Good  
+**Act 2**  
 1. Strangers On A Train  
 2. Good-Time Girl  
 3. The Wife-Swap Dance  
@@ -67,12 +73,7 @@ The story starts at their \[Jenny & Roger\] respective auditions. They are cast 
 
 ### Premiere Production Details (1992)
 
-Jenny  
-Stephen  
-Roger**Actor**  
-Janie Dee  
-Stefan Bednarcyzk  
-Simon Green**Choreography**  
+**Choreography**  
 The cast with Trudy Moffatt
 
 ### Further Reading

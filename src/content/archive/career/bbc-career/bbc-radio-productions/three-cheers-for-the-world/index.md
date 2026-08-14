@@ -8,26 +8,22 @@ order: 662
 
 ### Production Details
 
-**Author:**
+**Author:** Brian Morris  
+**Broadcast:** 31 January 1968 @ 3pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Brian Morris
+**Director:**  
+Alan Ayckbourn
 
-31 January 1968 @ 3pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Tim Smith  
-Mrs Smith  
-Girl  
-Webber  
-Woman  
-Earnest girl**Actor**  
-Alan Rothwell  
-Pamela Dellar  
-Stephanie Turner  
-Leonard Fenton  
-Pamela Craig  
-Diana Harker
+**Character** **Actor**  
+**Tim Smith** Alan Rothwell  
+**Mrs Smith** Pamela Dellar  
+**Girl** Stephanie Turner  
+**Webber** Leonard Fenton  
+**Woman** Pamela Craig  
+**Earnest girl** Diana Harker
 
 ### Notes
 
-○ *Three Cheers For The World* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Three Cheers For The World* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

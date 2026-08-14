@@ -19,10 +19,12 @@ If you have any enquiries about *A Round 50* or are enquiring about internationa
 **Title:** A Round 50  
 **Author:** Simon Murgatroyd  
 **Published:** 2005  
-**Price:** £10 (P&P included - UK only) **Pages:** 64 (Colour)  
+**Price:** £10 (P&P included - UK only)  
+**Pages:** 64 (Colour)  
 **Format:** Softcover, A4, glossy  
 **Publisher:** Stephen Joseph Theatre  
-**ISBN:** N/A   [![](./_images/stacks-image-98e0bbc-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+**ISBN:** N/A  
+[![](./_images/stacks-image-98e0bbc-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

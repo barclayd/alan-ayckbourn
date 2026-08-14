@@ -14,7 +14,11 @@ facts:
   World premiere: "23 July 2005"
   World premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Staging: "End-stage"
-  Directors: "Alan Ayckbourn & Cheryl GovanCharacter"
+  Directors: "Alan Ayckbourn & Cheryl Govan"
+  Character: "Actor"
+  Tia Maria Perkins: "Lauren Terry"
+  Mother: "Becky Hindley"
+  Father: "Giles New"
 ---
 
 **Production Availability**  
@@ -30,12 +34,7 @@ The plot concerns young Tia Maria Perkins, who has a dream that when she grows u
 
 ### Premiere Production Details (2005)
 
-Tia Maria Perkins  
-Mother  
-Father**Actor**  
-Lauren Terry  
-Becky Hindley  
-Giles NewAll other parts played by members of the SJT company.
+All other parts played by members of the SJT company.
 
 ### Further Reading
 

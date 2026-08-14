@@ -8,16 +8,17 @@ order: 618
 
 ### Production Details
 
-**Author:**
+**Author:** Ray H. Dunbobbin  
+**Broadcast:** 3 March 1966 @ 8.30pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Ray H. Dunbobbin
-
-3 March 1966 @ 8.30pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
+**Director:**  
+Alan Ayckbourn  
+**Character**  
 Friar Nugent  
 James Edward Scully  
-All other roles unknown**Actor**  
+All other roles unknown  
+**Actor**  
 Norman Rodway  
 Nicholas Johnson  
 Elizabeth Kelly  
@@ -44,4 +45,5 @@ John Willis
 
 ### Notes
 
-○ *Black Spot On The Mersey* was a drama about the life of Friar Nugent, "a great priest who bestrode the life of Liverpool like a colossus for more than fifty years."*All research for this page by Simon Murgatroyd.*
+○ *Black Spot On The Mersey* was a drama about the life of Friar Nugent, "a great priest who bestrode the life of Liverpool like a colossus for more than fifty years."  
+*All research for this page by Simon Murgatroyd.*

@@ -9,4 +9,5 @@ order: 2358
 ### Quotes
 
 "It's the energy that matters. I know it takes energy to write a novel. But a novelist can fall into a rhythm. Novels are quite long and plays are quite short and it's a question of capturing one particular thing. You can't get into a rhythm unless, like Ayckbourn, you have to write for your own company and your own theatre."  
-*(1984)**Copyright: Stephen Poliakoff. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1984)*  
+*Copyright: Stephen Poliakoff. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

@@ -21,14 +21,16 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 **Availability**  
 **Cassette:** 1978 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director**  
+**Digital:** Not available  
+**Director**  
 **Musical Director**
 
 **Actor**  
 Malcolm Hebden  
 Lavinia Bertram  
 Robin Murphy  
-Fiona MathiesonAlan Ayckbourn  
+Fiona Mathieson  
+Alan Ayckbourn  
 Paul Todd
 
 **Musicians**  
@@ -48,7 +50,8 @@ Paul Todd (piano / percussion)
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
+**Digital:** Not available  
+**Director**  
 **Musical Director**  
 **Design**  
 **Arrangements**  
@@ -58,7 +61,8 @@ Paul Todd (piano / percussion)
 Malcolm Hebden  
 Lavinia Bertram  
 Robin Murphy  
-Alison SkilbeckAlan Ayckbourn  
+Alison Skilbeck  
+Alan Ayckbourn  
 Paul Todd  
 David Millard  
 John Brown  
@@ -71,4 +75,6 @@ Ian Hodgson (drums)
 Eric Kershaw (guitar)  
 Ian Smith (synthesiser)  
 Peter Birkby (percussion)  
-John Brown (clarinet / saxophone)**Note:** This broadcast marked the television directing debut of Alan Ayckbourn.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+John Brown (clarinet / saxophone)  
+**Note:** This broadcast marked the television directing debut of Alan Ayckbourn.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

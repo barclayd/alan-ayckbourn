@@ -15,7 +15,8 @@ Mary's husband appears in Part Three. It's clear that things are not too loving 
 
 ### The Songs Of Me, Myself & I
 
-This is the song order for *Me, Myself & I* at the Stephen Joseph Theatre In The Round in 1981, when it consisted of three separate shows. The songs from the two-act version first performed at the National Theatre - and now the definitive version - are listed at the bottom of the page.**Me**  
+This is the song order for *Me, Myself & I* at the Stephen Joseph Theatre In The Round in 1981, when it consisted of three separate shows. The songs from the two-act version first performed at the National Theatre - and now the definitive version - are listed at the bottom of the page.  
+**Me**  
 1. Recitative  
 2. Me, Myself and I  
 3. Paper Baby Orphan  
@@ -25,7 +26,8 @@ This is the song order for *Me, Myself & I* at the Stephen Joseph Theatre In The
 7. Hindsight  
 8. Wife-Swap Dance  
 9. Have you ever Thought?  
-10. Me, Myself and I (Reprise)**I**  
+10. Me, Myself and I (Reprise)  
+**I**  
 1. Recitative  
 2. No More  
 3. Electric Woman  
@@ -36,7 +38,8 @@ This is the song order for *Me, Myself & I* at the Stephen Joseph Theatre In The
 8. Where?  
 9. Now and Again  
 10. Another Bite  
-11. Me, Myself and I (Reprise)**Myself**  
+11. Me, Myself and I (Reprise)  
+**Myself**  
 1. Recitative  
 2. Somebody New  
 3. Interview  
@@ -46,7 +49,8 @@ This is the song order for *Me, Myself & I* at the Stephen Joseph Theatre In The
 7. Nutshell  
 8. Children's Dreams  
 9. Open for Love  
-10. Me, Myself and I (Reprise)**Two Act Version (Act I)**  
+10. Me, Myself and I (Reprise)  
+**Two Act Version (Act I)**  
 1. Recitative I  
 2. Somebody New  
 3. Song Of My Childhood  
@@ -55,7 +59,8 @@ This is the song order for *Me, Myself & I* at the Stephen Joseph Theatre In The
 6. Unlikely  
 7. Wife Swap Dance  
 8. Open For Love  
-9. Me, Myself And I**Two Act Version (Act II)**  
+9. Me, Myself And I  
+**Two Act Version (Act II)**  
 1. Recitative II  
 2. No More  
 3. Electric Woman  
@@ -65,4 +70,5 @@ This is the song order for *Me, Myself & I* at the Stephen Joseph Theatre In The
 7. Where?  
 8. Have You Ever Thought?  
 9. Another Bite  
-10. Me, Myself And I (reprise)*All research for this page by Simon Murgatroyd.*
+10. Me, Myself And I (reprise)  
+*All research for this page by Simon Murgatroyd.*

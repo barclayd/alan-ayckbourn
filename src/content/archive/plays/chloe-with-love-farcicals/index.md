@@ -12,7 +12,7 @@ facts:
   New York Premiere Venue: "59E59 Theatres"
   Description: "One act / Short play"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/59836/farcicals/)"
-  Farcicals: "Short Synopsis: The *Farcicals* are two loosely connected one act farces featuring the same characters, but neither are dependent on the other to be seen. The *Farcicals* are *Chloë With Love* and *The Kidderminster Affair*."
+  Short Synopsis: "The *Farcicals* are two loosely connected one act farces featuring the same characters, but neither are dependent on the other to be seen. The *Farcicals* are *Chloë With Love* and *The Kidderminster Affair*."
 ---
 
 

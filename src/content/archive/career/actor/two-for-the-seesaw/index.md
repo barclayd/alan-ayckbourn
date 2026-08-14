@@ -30,4 +30,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 "Mr Ayckbourn's performance as Jerry, a lawyer on the divorce rebound, is as close-fitting as his drainpipes, employing the vast charms of articulate disillusionment (or perhaps self-realisation) which crash headlong into the less complicated but well-worn apartment of Gittel, a Jewish-American girl on the wrong side of 30."
 
 **Review extract from The Guardian** (26 September 1963)  
-"Mr Ayckbourn and Miss Stoney do wonderfully well to row us over the sea of words to the point where there is genuinely poignant concern in the audience for Gittel at the heart-wrenchingly sentimental conclusion."*All research for this page by Simon Murgatroyd.*
+"Mr Ayckbourn and Miss Stoney do wonderfully well to row us over the sea of words to the point where there is genuinely poignant concern in the audience for Gittel at the heart-wrenchingly sentimental conclusion."  
+*All research for this page by Simon Murgatroyd.*

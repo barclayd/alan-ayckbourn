@@ -51,6 +51,7 @@ Kevin Jenkins model box for the design of the set for scene 1 of the world premi
 **Copyright:** Kevin Jenkins  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

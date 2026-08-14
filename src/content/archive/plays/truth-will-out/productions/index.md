@@ -18,8 +18,10 @@ play: "truth-will-out"
 **Director:** Alan Ayckbourn  
 **Design:** Michael Holt  
 **Lighting:** Jason Taylor  
-**Sound:** Paul Stear (Associate)**Actors**  
-*Truth Will Out* did not confirm its casting before its cancellation.**Note:** *Truth Will Out* was planned to premiere during the summer 2020 season at the Stephen Joseph Theatre in repertory with Alan Ayckbourn's revival of *Just Between Ourselves*. However, the worldwide impact of the Covid-19 pandemic led to the UK closing its theatre during March 2020. As a result, on 23 March, it was announced the world premiere production of *Truth Will Out* would not be taking place as originally planned.
+**Sound:** Paul Stear (Associate)  
+**Actors**  
+*Truth Will Out* did not confirm its casting before its cancellation.  
+**Note:** *Truth Will Out* was planned to premiere during the summer 2020 season at the Stephen Joseph Theatre in repertory with Alan Ayckbourn's revival of *Just Between Ourselves*. However, the worldwide impact of the Covid-19 pandemic led to the UK closing its theatre during March 2020. As a result, on 23 March, it was announced the world premiere production of *Truth Will Out* would not be taking place as originally planned.
 
 ### World Premiere - Rehearsed Reading (2023)
 
@@ -46,4 +48,5 @@ play: "truth-will-out"
 **Tammy Shoehorn** Georgia Burnell  
 **Jim Tungsten** Alan Ayckbourn
 
-**Note:** *Truth Will Out* was scheduled to premiere at the Stephen Joseph Theatre during the summer 2020 season (see above), but was cancelled due to the global Covid-19 pandemic. On 17 September 2023, it was publicly performed for the first time in a rehearsed reading, directed by Alan Ayckbourn, as part of a fund-raising event for the Stephen Joseph Theatre.*All research for this page by Simon Murgatroyd.*
+**Note:** *Truth Will Out* was scheduled to premiere at the Stephen Joseph Theatre during the summer 2020 season (see above), but was cancelled due to the global Covid-19 pandemic. On 17 September 2023, it was publicly performed for the first time in a rehearsed reading, directed by Alan Ayckbourn, as part of a fund-raising event for the Stephen Joseph Theatre.  
+*All research for this page by Simon Murgatroyd.*

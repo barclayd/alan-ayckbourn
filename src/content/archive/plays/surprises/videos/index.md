@@ -12,4 +12,5 @@ play: "surprises"
 **Opening Up Surprises**  
 Posted: 22 August 2012
 
-A conversation with Alan Ayckbourn regarding the world premiere production of *Surprises*, recorded at Chichester Festival Theatre in 2012.  *The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*
+A conversation with Alan Ayckbourn regarding the world premiere production of *Surprises*, recorded at Chichester Festival Theatre in 2012.  
+*The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*

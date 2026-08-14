@@ -21,20 +21,16 @@ play: "the-jollies"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Shane Thom**Character**  
-Polly  
-Billy (32)  
-Jilly (8)  
-Jilly (33) / Mrs Amplespoon  
-Miss Delicio / The Traveller  
-Mr Magico / Bostock  
-PC Butts / Rambo  
-Billy (7)**Actor**  
-Charlie Hayes  
-Robert Wilfort  
-Jo Theaker  
-Becky Hindley  
-Regina Freedman  
-Adrian McLoughlin  
-Danny Scheinmann  
-Christopher Hicklin / Patrick Young*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Shane Thom
+
+**Character** **Actor**  
+**Polly** Charlie Hayes  
+**Billy (32)** Robert Wilfort  
+**Jilly (8)** Jo Theaker  
+**Jilly (33) / Mrs Amplespoon** Becky Hindley  
+**Miss Delicio / The Traveller** Regina Freedman  
+**Mr Magico / Bostock** Adrian McLoughlin  
+**PC Butts / Rambo** Danny Scheinmann  
+**Billy (7)** Christopher Hicklin / Patrick Young
+
+*All research for this page by Simon Murgatroyd.*

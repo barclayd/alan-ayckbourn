@@ -22,15 +22,15 @@ play: "the-kidderminster-affair-farcicals"
 
 **Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Annette Waldie  
-**Assistant Stage Manager:** Barry Thompson**Character**  
-Penny Bottlecamp  
-Lottie Bulbin  
-Teddy Bulbin, Lottie's husband  
-Reggie Bottlecamp, Penny's husband**Actor**  
-Elizabeth Boag  
-Sarah Stanley  
-Terence Booth  
-Kim Wall**Note:** The individual *Farcicals* plays initially opened separately in The Restaurant at the Stephen Joseph Theatre. When presented together (including the world premiere), they were performed in the end-stage McCarthy Theatre at the SJT.
+**Assistant Stage Manager:** Barry Thompson
+
+**Character** **Actor**  
+**Penny Bottlecamp** Elizabeth Boag  
+**Lottie Bulbin** Sarah Stanley  
+**Teddy Bulbin, Lottie's husband** Terence Booth  
+**Reggie Bottlecamp, Penny's husband** Kim Wall
+
+**Note:** The individual *Farcicals* plays initially opened separately in The Restaurant at the Stephen Joseph Theatre. When presented together (including the world premiere), they were performed in the end-stage McCarthy Theatre at the SJT.
 
 ### New York Premiere (2014)
 
@@ -44,18 +44,15 @@ Kim Wall**Note:** The individual *Farcicals* plays initially opened separately i
 **Costumes:** Julia Perry-Mook
 
 **Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Annette Waldie**Character**  
-Penny Bottlecamp  
-Lottie Bulbin  
-Teddy Bulbin, Lottie's husband  
-Reggie Bottlecamp, Penny's husband
+**Assistant Stage Manager:** Annette Waldie
 
-Understudy (2014 tour)  
-Understudy (2014 tour)**Actor**  
-Elizabeth Boag  
-Sarah Stanley  
-Bill Champion  
-Kim Wall
+**Character** **Actor**  
+**Penny Bottlecamp** Elizabeth Boag  
+**Lottie Bulbin** Sarah Stanley  
+**Teddy Bulbin, Lottie's husband** Bill Champion  
+**Reggie Bottlecamp, Penny's husband** Kim Wall  
+**Understudy (2014 tour)** Peter Halpin  
+**Understudy (2014 tour)** Lucy McCabe
 
-Peter Halpin  
-Lucy McCabe**Note:** *Farcicals* had a short UK tour beginning on 24 January 2014 at the Yvonne Arnaud Theatre, Guildford, before transferring to New York as part of the *Ayckbourn Ensemble* for the *Brits Off Broadway* festival at the 59E59 Theatres.*All research for this page by Simon Murgatroyd.*
+**Note:** *Farcicals* had a short UK tour beginning on 24 January 2014 at the Yvonne Arnaud Theatre, Guildford, before transferring to New York as part of the *Ayckbourn Ensemble* for the *Brits Off Broadway* festival at the 59E59 Theatres.  
+*All research for this page by Simon Murgatroyd.*

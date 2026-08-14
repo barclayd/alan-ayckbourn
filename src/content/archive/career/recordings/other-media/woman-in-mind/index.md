@@ -22,27 +22,18 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Susan  
-Bill  
-Andy  
-Lucy  
-Tony  
-Gerald  
-Muriel  
-RickPete Aitken
-
-**Actor**  
-Julia McKenzie  
-Jon Strickland  
-Jonathan Hyde  
-Tilly Gaunt  
-Robert Hands  
-Martin Jarvis  
-Marcia Warren  
-Jamie Glover
+**Director** Pete Aitken  
+**Character** **Actor**  
+**Susan** Julia McKenzie  
+**Bill** Jon Strickland  
+**Andy** Jonathan Hyde  
+**Lucy** Tilly Gaunt  
+**Tony** Robert Hands  
+**Gerald** Martin Jarvis  
+**Muriel** Marcia Warren  
+**Rick** Jamie Glover
 
 ### Radio (2014)
 
@@ -56,24 +47,17 @@ Jamie Glover
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Susan  
-Bill  
-Gerald  
-Muriel  
-Andy  
-Lucy  
-Tony  
-RickEmma Harding
+**Director** Emma Harding  
+**Character** **Actor**  
+**Susan** Lesley Sharp  
+**Bill** Ben Miles  
+**Gerald** Malcolm Sinclair  
+**Muriel** Carolyn Pickles  
+**Andy** Owen Teale  
+**Lucy** Emily Beecham  
+**Tony** John Norton  
+**Rick** Harry Jardine
 
-**Actor**  
-Lesley Sharp  
-Ben Miles  
-Malcolm Sinclair  
-Carolyn Pickles  
-Owen Teale  
-Emily Beecham  
-John Norton  
-Harry Jardine*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

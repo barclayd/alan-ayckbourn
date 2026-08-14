@@ -27,4 +27,5 @@ order: 2375
 
 "Others will be writing about Alan's achievements as both dramatist and director. I would like to throw my pennyworth of fried potatoes in about his lyrics. They are terrific. Alan's lyrics have real wit and style and, most importantly, they sing wonderfully.
 
-"Alan, have a wonderful night. I am livid that I can't be with you. Keep writing those lyrics. Musical theatre needs the occasional nod from the Emperor of Scarborough."*Copyright: Andrew Lloyd Webber. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"Alan, have a wonderful night. I am livid that I can't be with you. Keep writing those lyrics. Musical theatre needs the occasional nod from the Emperor of Scarborough."  
+*Copyright: Andrew Lloyd Webber. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

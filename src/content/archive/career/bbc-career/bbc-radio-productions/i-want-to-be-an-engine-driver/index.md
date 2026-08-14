@@ -8,30 +8,24 @@ order: 635
 
 ### Production Details
 
-**Author:**
+**Author:** John Pennington  
+**Broadcast:** 27 January 1965 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**John Pennington
+**Director:**  
+Alan Ayckbourn
 
-27 January 1965 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Syd  
-Maureen  
-Arnold  
-Charlie  
-First railwayman  
-Second railwayman  
-Mrs Fletch  
-Depot Superintendent**Actor**  
-Arthur Lowe  
-Helen Fraser  
-Brian Peck  
-Colin Edwynn  
-Harry Markham  
-Peter Schofield  
-Mary Quinn  
-Robert Wallace
+**Character** **Actor**  
+**Syd** Arthur Lowe  
+**Maureen** Helen Fraser  
+**Arnold** Brian Peck  
+**Charlie** Colin Edwynn  
+**First railwayman** Harry Markham  
+**Second railwayman** Peter Schofield  
+**Mrs Fletch** Mary Quinn  
+**Depot Superintendent** Robert Wallace
 
 ### Notes
 
-○ *I Want To Be An Engine Driver* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *I Want To Be An Engine Driver* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

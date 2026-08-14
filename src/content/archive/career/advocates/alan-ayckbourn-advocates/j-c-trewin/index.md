@@ -9,4 +9,5 @@ order: 2366
 ### Quotes
 
 "It is certainly not an act of cowardice (if the word is permissible in the context) to say that, on the present showing, I prefer Alan Ayckbourn's work to that of Coward."  
-*(1977)**Copyright: J.C. Trewin. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1977)*  
+*Copyright: J.C. Trewin. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

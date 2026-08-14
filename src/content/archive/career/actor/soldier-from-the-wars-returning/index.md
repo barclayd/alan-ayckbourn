@@ -32,4 +32,5 @@ During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at
 *(Alan Ayckbourn writing about David Campton in 2001)*
 
 **Review extract from The Stage** (18 August 1960)  
-"Derrick Gilbert… makes a comically pathetic soldier, looking for the fruits of victory helped by Faynia Jeffery's flirtatious barmaid and Alan Ayckbourn's happily gloomy barman."*All research for this page by Simon Murgatroyd.*
+"Derrick Gilbert… makes a comically pathetic soldier, looking for the fruits of victory helped by Faynia Jeffery's flirtatious barmaid and Alan Ayckbourn's happily gloomy barman."  
+*All research for this page by Simon Murgatroyd.*

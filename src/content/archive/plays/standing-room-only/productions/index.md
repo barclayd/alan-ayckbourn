@@ -82,4 +82,5 @@ play: "standing-room-only"
 **Paul** Darren Jeffries  
 **John** Joe Geddes
 
-**Note:** In 2019, Alan Ayckbourn gave permission for Dick & Lottie theatre company to give a one-off professional rehearsed reading of *Standing Room Only* to mark his 80th birthday, his 60th playwriting anniversary and the 15th anniversary of the company. It was preceded by a talk by Alan Ayckbourn's Archivist, Simon Murgatroyd.*All research for this page by Simon Murgatroyd.*
+**Note:** In 2019, Alan Ayckbourn gave permission for Dick & Lottie theatre company to give a one-off professional rehearsed reading of *Standing Room Only* to mark his 80th birthday, his 60th playwriting anniversary and the 15th anniversary of the company. It was preceded by a talk by Alan Ayckbourn's Archivist, Simon Murgatroyd.  
+*All research for this page by Simon Murgatroyd.*

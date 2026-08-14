@@ -17,25 +17,17 @@ play: "joking-apart"
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Anthea  
-Richard  
-Hugh  
-Louise  
-Sven  
-Olive  
-Melody / Mandy / Mo / DebbieCaroline Smith
-
-**Actor**  
-Fiona Walter  
-Jonathan Newth  
-Malcolm Hebden  
-Auriol Smith  
-Peter John  
-Ann Rye  
-Sheridan Ball
+**Director** Caroline Smith  
+**Character** **Actor**  
+**Anthea** Fiona Walter  
+**Richard** Jonathan Newth  
+**Hugh** Malcolm Hebden  
+**Louise** Auriol Smith  
+**Sven** Peter John  
+**Olive** Ann Rye  
+**Melody / Mandy / Mo / Debbie** Sheridan Ball
 
 ### Radio (1990)
 
@@ -49,26 +41,18 @@ Sheridan Ball
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Anthea  
-Richard  
-Hugh  
-Louise  
-Sven  
-Olive  
-Brian  
-Melody / Mandy / Mo / Debbie  
-ChildrenMichael Fox
+**Director** Michael Fox  
+**Character** **Actor**  
+**Anthea** Pam Ferris  
+**Richard** Malcolm Raeburn  
+**Hugh** Peter Linford  
+**Louise** Karen Drury  
+**Sven** Nigel Anthony  
+**Olive** Pam Buckle  
+**Brian** John Branwell  
+**Melody / Mandy / Mo / Debbie** Robyn Brunskill  
+**Children** Elizabeth Lindsay
 
-**Actor**  
-Pam Ferris  
-Malcolm Raeburn  
-Peter Linford  
-Karen Drury  
-Nigel Anthony  
-Pam Buckle  
-John Branwell  
-Robyn Brunskill  
-Elizabeth Lindsay*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

@@ -8,28 +8,23 @@ order: 640
 
 ### Production Details
 
-**Author:**
+**Author:** Willis Hall  
+**Broadcast:** 29 July 1968 @ 8.30pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Willis Hall
+**Director:**  
+Alan Ayckbourn
 
-29 July 1968 @ 8.30pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Corporal Johnstone  
-Sergeant Mitchem  
-Private Bamforth  
-Private Smith  
-Corporal Macleish  
-Private Whitaker  
-Private Evans**Actor**  
-John Hollis  
-Ewan Hooper  
-Barry Foster  
-Brian Miller  
-David Butler  
-Ronald Herdman  
-Peter King
+**Character** **Actor**  
+**Corporal Johnstone** John Hollis  
+**Sergeant Mitchem** Ewan Hooper  
+**Private Bamforth** Barry Foster  
+**Private Smith** Brian Miller  
+**Corporal Macleish** David Butler  
+**Private Whitaker** Ronald Herdman  
+**Private Evans** Peter King
 
 ### Notes
 
-○ The action of the play takes place in the Malayan jungle during the Japanese advance on Singapore, early in 1942.*All research for this page by Simon Murgatroyd.*
+○ The action of the play takes place in the Malayan jungle during the Japanese advance on Singapore, early in 1942.  
+*All research for this page by Simon Murgatroyd.*

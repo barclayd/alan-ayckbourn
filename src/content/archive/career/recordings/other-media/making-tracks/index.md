@@ -21,28 +21,19 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 **Availability**  
 **Cassette:** 1981 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Musical Director**
+**Digital:** Not available
 
-**Character**  
-Rog, a sound engineer  
-Sandy, a singer  
-Lennie, a keyboard player  
-Chris, a drummer  
-Gus, a guitarist  
-Stan, an impresario  
-Wolfe, a business man  
-Lace, a good friend  
-Mrs Witts, a mother Alan Ayckbourn  
-Paul Todd
+**Director** Alan Ayckbourn  
+**Musical Director** Paul Todd  
+**Character** **Actor**  
+**Rog, a sound engineer** Peter Ackerman  
+**Sandy, a singer** Lavinia Bertram  
+**Lennie, a keyboard player** Dave Newton  
+**Chris, a drummer** Paul Todd  
+**Gus, a guitarist** Iain Hawkins  
+**Stan, an impresario** Roger Llewellyn  
+**Wolfe, a business man** Robin Bowerman  
+**Lace, a good friend** Gillian Bevan  
+**Mrs Witts, a mother** Susan Uebel
 
-**Actor**  
-Peter Ackerman  
-Lavinia Bertram  
-Dave Newton  
-Paul Todd  
-Iain Hawkins  
-Roger Llewellyn  
-Robin Bowerman  
-Gillian Bevan  
-Susan Uebel*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

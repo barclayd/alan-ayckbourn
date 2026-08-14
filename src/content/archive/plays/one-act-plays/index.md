@@ -110,4 +110,5 @@ The Play Index lists every produced Ayckbourn play and work chronologically with
 **2025**  
 ○ [Earth Angel](/plays/earth-angel)  
 **2026**  
-◦ [The Trial of Romeo Oscar](/plays/the-trial-of-romeo-oscar) *All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+◦ [The Trial of Romeo Oscar](/plays/the-trial-of-romeo-oscar)  
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

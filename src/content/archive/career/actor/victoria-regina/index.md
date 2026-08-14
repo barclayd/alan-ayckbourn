@@ -48,4 +48,5 @@ order: 560
 "As Albert, Alan Ayckbourn has to create a character who is more legend than history. So gently he brings Albert up in stature, from the meek German Prince to the great figure and mid that lay behind the work of Queen Victoria."
 
 **Review extract from the Stone Guardian** (15 February 1962)  
-"Alan Ayckbourn mastered the German accent to be a perfect Prince Albert."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn mastered the German accent to be a perfect Prince Albert."  
+*All research for this page by Simon Murgatroyd.*

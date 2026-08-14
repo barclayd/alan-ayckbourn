@@ -23,27 +23,19 @@ play: "tons-of-money-evans-and-valentine"
 **Deputy Stage Manager:** David Emmett-Miller  
 **Deputy Stage Manager:** Jo Linfoot  
 **Assistant Stage Manager:** Paul Quinn  
-**Assistant Stage Manager:** Kathryn-Anne Woodward**Character**  
-Sprules  
-Simpson  
-Miss Benita Mullett  
-Louise Allington  
-Aubrey Henry  
-Giles  
-James Chesterman  
-Jean Everard  
-Henery  
-George Maitland**Actor**  
-Russell Dixon  
-Heather Stoney  
-Angela Rooks  
-Caroline Goodall  
-Robin Herford  
-Randal Herley  
-Geoffrey Banks  
-Lesley Meade  
-Nicholas Lumley  
-John Peters
+**Assistant Stage Manager:** Kathryn-Anne Woodward
+
+**Character** **Actor**  
+**Sprules** Russell Dixon  
+**Simpson** Heather Stoney  
+**Miss Benita Mullett** Angela Rooks  
+**Louise Allington** Caroline Goodall  
+**Aubrey Henry** Robin Herford  
+**Giles** Randal Herley  
+**James Chesterman** Geoffrey Banks  
+**Jean Everard** Lesley Meade  
+**Henery** Nicholas Lumley  
+**George Maitland** John Peters
 
 ### London Premiere (1986)
 
@@ -56,24 +48,18 @@ John Peters
 **Design:** Alan Tagg  
 **Lighting:** Mick Hughes  
 **Music:** Paul Todd  
-**Costumes:** Susan Yelland**Character**  
-Sprules  
-Simpson  
-Miss Benita Mullett  
-Louise Allington  
-Aubrey Henry  
-Giles  
-James Chesterman  
-Jean Everard  
-Henery  
-George Maitland**Actor**  
-Michael Gambon  
-Diane Bull  
-Barbara Hicks  
-Polly Adams  
-Simon Cadell  
-James Hayes  
-Russell Dixon  
-Marcia Warren  
-John Arthur  
-Michael Simkins*All research for this page by Simon Murgatroyd.*
+**Costumes:** Susan Yelland
+
+**Character** **Actor**  
+**Sprules** Michael Gambon  
+**Simpson** Diane Bull  
+**Miss Benita Mullett** Barbara Hicks  
+**Louise Allington** Polly Adams  
+**Aubrey Henry** Simon Cadell  
+**Giles** James Hayes  
+**James Chesterman** Russell Dixon  
+**Jean Everard** Marcia Warren  
+**Henery** John Arthur  
+**George Maitland** Michael Simkins
+
+*All research for this page by Simon Murgatroyd.*

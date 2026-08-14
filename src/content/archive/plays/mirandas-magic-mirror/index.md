@@ -17,6 +17,9 @@ facts:
   World premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
+  Character: "Actor"
+  Miranda: "Laura Doddington"
+  Narrator: "Stuart Fox"
 ---
 
 ### History
@@ -30,11 +33,9 @@ The plot concerns Miranda, who is extremely pretty. She knows she is because her
 ### Premiere Production Details (2004)
 
 **Director:** Steve Marmion  
-**Director:** Laurie Sansom**Character**  
-Miranda  
-Narrator**Actor**  
-Laura Doddington  
-Stuart FoxOther parts played by members of the SJT company
+**Director:** Laurie Sansom
+
+Other parts played by members of the SJT company
 
 ### Further Reading
 

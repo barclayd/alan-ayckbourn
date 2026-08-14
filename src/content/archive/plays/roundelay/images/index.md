@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Very early notes by Alan Ayckbourn for the play which would become *Roundelay*. At this point, the play was called *The Party* and although it featured an unusual structure, it does not appear to have had the random elements of *Roundelay*.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-67aa45b.jpg)
@@ -23,6 +26,9 @@ Very early notes by Alan Ayckbourn for the play which would become *Roundelay*. 
 
 A diagram by Alan Ayckbourn showing how the *Roundelay* plays intersect with each other and the connections between the characters.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-1aefb82.jpg)
@@ -30,6 +36,9 @@ A diagram by Alan Ayckbourn showing how the *Roundelay* plays intersect with eac
 ![](./_images/stacks-image-d6e1916.jpg)
 
 A sketch of the proposed set layout by Alan Ayckbourn for *The Agent* one act play within *Roundelay*. This was provided for the world premiere of the play at the Stephen Joseph Theatre, Scarborough, in 2014.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -42,6 +51,7 @@ The poster for the world premiere of *Roundelay* (right) at the Stephen Joseph T
 **Copyright (poster):** Scarborough Theatre Trust  
 **Holding:** The Bob Watson Archive
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

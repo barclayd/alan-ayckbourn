@@ -42,4 +42,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 *A Man For All Seasons* was quite unusual in that whilst the majority of plays at the Victoria Theatre at this point were performed for three weeks, this was mostly in repertory. *A Man For All Seasons* was performed for three consecutive weeks, possibly due to the scale of the play.
 
 **Review extract from the Evening Sentinel** (14 May 1963)  
-"Alan Ayckbourn portrayed \[Thomas More\] in a most powerful performance. Here was the dignity of humility, the massive inner-strength of faith, and the firm resolve bred of a character of rare metal."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn portrayed \[Thomas More\] in a most powerful performance. Here was the dignity of humility, the massive inner-strength of faith, and the firm resolve bred of a character of rare metal."  
+*All research for this page by Simon Murgatroyd.*

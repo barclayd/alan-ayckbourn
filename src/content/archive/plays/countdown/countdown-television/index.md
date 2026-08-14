@@ -18,12 +18,12 @@ play: "countdown"
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Man  
-WomanUnknown
+**Director** Unknown  
+**Character** **Actor**  
+**Man** Clive Dunn  
+**Woman** Sheila Hancock
 
-**Actor**  
-Clive Dunn  
-Sheila Hancock**Notes:** *Countdown* was broadcast as part of *Full House* - a live arts broadcast including performance, interviews and discussion. An archival copy of *Countdown* is held in VHS video cassette in the BFI Archive.*All research for this page by Simon Murgatroyd.*
+**Notes:** *Countdown* was broadcast as part of *Full House* - a live arts broadcast including performance, interviews and discussion. An archival copy of *Countdown* is held in VHS video cassette in the BFI Archive.  
+*All research for this page by Simon Murgatroyd.*

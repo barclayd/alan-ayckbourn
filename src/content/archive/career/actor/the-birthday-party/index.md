@@ -8,13 +8,13 @@ order: 376
 
 ### Production Details
 
-****Play:** The Birthday Party** **Character** **Actor**  
-****Author:** Harold Pinter** **Petey** David Campton  
-****First performance:** 9 January 1959** **Meg** Dona Martyn  
-****Final performance:** 14 March 1959** **Stanley** Alan Ayckbourn  
-****Venue:** Birmingham Theatre Centre** **Lulu** Faynia Jeffery  
-****Staging:** Round** **Goldberg** David Sutton  
-****Director:** Harold Pinter** **McCann** Rodney Wood
+**Play:** The Birthday Party **Character** **Actor**  
+**Author:** Harold Pinter **Petey** David Campton  
+**First performance:** 9 January 1959 **Meg** Dona Martyn  
+**Final performance:** 14 March 1959 **Stanley** Alan Ayckbourn  
+**Venue:** Birmingham Theatre Centre **Lulu** Faynia Jeffery  
+**Staging:** Round **Goldberg** David Sutton  
+**Director:** Harold Pinter **McCann** Rodney Wood
 
 ### Quotes & Notes
 
@@ -70,4 +70,5 @@ When Pinter started writing, he was completely coming from left field, as they s
 
 It's very common to call him a poet, which tends to make him sound as if he writes everything in rhyming couplets, but he did use the play form and the play structure in a way that I don't think people had done before. He says he owes a lot to Beckett, and I suppose that's his nearest antecedent, but it's a very different sort of Beckett. A very much more human face. I always find Beckett a bit not of my universe. I don't find anything I can relate to in it, whereas I do find in Pinter people I know, although I wish I didn't.'
 
-*This article is copyright of Alan Ayckbourn and should not be reproduced without permission.**All research for this page by Simon Murgatroyd.*
+*This article is copyright of Alan Ayckbourn and should not be reproduced without permission.*  
+*All research for this page by Simon Murgatroyd.*

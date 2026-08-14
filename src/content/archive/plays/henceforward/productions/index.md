@@ -25,23 +25,19 @@ play: "henceforward"
 **Deputy Stage Manager:** David Parker  
 **Deputy Stage Manager:** David O’Neill  
 **Assistant Stage Manager:** Braco Dawson  
-**Assistant Stage manager:** Kate Haswell**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 9  
-Corinna  
-Mervyn  
-Geain, aged 13  
-NAN 300F**Actor**  
-Barry McCarthy  
-Robin Herford  
-Serena Evans  
-Victoria Horsfield  
-Penny Bunton  
-Michael Roberts  
-Emma Chambers  
-Herself**Note:** *Henceforward…* was initially advertised to close on 31 October 1987. However, the play was so popular, it was kept in repertory through the winter season at the Stephen Joseph Theatre in the Round, eventually closing on 16 January 1988. It would then be revived during the summer of 1988 at the venue.
+**Assistant Stage manager:** Kate Haswell
+
+**Character** **Actor**  
+**Jerome** Barry McCarthy  
+**Lupus** Robin Herford  
+**Zoë** Serena Evans  
+**Geain, aged 9** Victoria Horsfield  
+**Corinna** Penny Bunton  
+**Mervyn** Michael Roberts  
+**Geain, aged 13** Emma Chambers  
+**NAN 300F** Herself
+
+**Note:** *Henceforward…* was initially advertised to close on 31 October 1987. However, the play was so popular, it was kept in repertory through the winter season at the Stephen Joseph Theatre in the Round, eventually closing on 16 January 1988. It would then be revived during the summer of 1988 at the venue.
 
 ### North American Premiere (1987)
 
@@ -53,23 +49,17 @@ Herself**Note:** *Henceforward…* was initially advertised to close on 31 Octob
 **Design:** Charles S. Kading  
 **Lighting:** James Sale  
 **Sound:** John Michener  
-**Music:** Paul Todd**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 9  
-Corinna  
-Mervyn  
-Geain, aged 13  
-NAN 300F**Actor**  
-George Segal  
-Robin Herford  
-Judy Geeson  
-Victoria Horsfield  
-Annalee Jefferies  
-Adam LeFevre  
-Brenda Daly  
-Herself
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Jerome** George Segal  
+**Lupus** Robin Herford  
+**Zoë** Judy Geeson  
+**Geain, aged 9** Victoria Horsfield  
+**Corinna** Annalee Jefferies  
+**Mervyn** Adam LeFevre  
+**Geain, aged 13** Brenda Daly  
+**NAN 300F** Herself
 
 ### Revival (1988)
 
@@ -90,25 +80,20 @@ Herself
 **Deputy Stage Manager:** Kate Haswell  
 **Deputy Stage Manager:** David O’Neill  
 **Assistant Stage Manager:** Braco Dawson  
-**Assistant Stage manager:** Sarah Percival**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 9  
-Corinna  
-Mervyn  
-Geain, aged 13  
-Rita (voice)  
-NAN 300F**Actor**  
-Barry McCarthy  
-Robin Herford  
-Jenny Funnell  
-Victoria Horsfield  
-Lynette Edwards  
-Peter Forbes  
-Francesca Buller  
-Braco Dawson  
-Herself**Note:** The revival of *Henceforward…* opened in Scarborough before going on a UK / European end-stage venue tour. The end-stage production was co-directed by Robin Herford and Alan Ayckbourn.
+**Assistant Stage manager:** Sarah Percival
+
+**Character** **Actor**  
+**Jerome** Barry McCarthy  
+**Lupus** Robin Herford  
+**Zoë** Jenny Funnell  
+**Geain, aged 9** Victoria Horsfield  
+**Corinna** Lynette Edwards  
+**Mervyn** Peter Forbes  
+**Geain, aged 13** Francesca Buller  
+**Rita (voice)** Braco Dawson  
+**NAN 300F** Herself
+
+**Note:** The revival of *Henceforward…* opened in Scarborough before going on a UK / European end-stage venue tour. The end-stage production was co-directed by Robin Herford and Alan Ayckbourn.
 
 ### London Premiere (1988)
 
@@ -120,25 +105,18 @@ Herself**Note:** The revival of *Henceforward…* opened in Scarborough before g
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Music:** Paul Todd**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 9  
-Corinna  
-Mervyn  
-Geain, aged 13  
-Rita  
-NAN 300F**Actor**  
-Ian McKellen  
-Robin Herford  
-Serena Evans  
-Victoria Horsfield  
-Jane Asher  
-Michael Simkins  
-Emma Chambers  
-Suzy Newman  
-Herself
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Jerome** Ian McKellen  
+**Lupus** Robin Herford  
+**Zoë** Serena Evans  
+**Geain, aged 9** Victoria Horsfield  
+**Corinna** Jane Asher  
+**Mervyn** Michael Simkins  
+**Geain, aged 13** Emma Chambers  
+**Rita** Suzy Newman  
+**NAN 300F** Herself
 
 ### London Recast (1989)
 
@@ -150,25 +128,18 @@ Herself
 **Director:** Alan Strachan (based on the original production by Alan Ayckbourn)  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Music:** Paul Todd**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 9  
-Corinna  
-Mervyn  
-Geain, aged 13  
-Rita  
-NAN 300F**Actor**  
-Martin Jarvis  
-Robin Herford  
-Sara Crowe  
-Victoria Horsfield  
-Joanna Van Gyseghem  
-Peter Forbes  
-Susanna Newman  
-Emma Gibbins  
-Herself
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Jerome** Martin Jarvis  
+**Lupus** Robin Herford  
+**Zoë** Sara Crowe  
+**Geain, aged 9** Victoria Horsfield  
+**Corinna** Joanna Van Gyseghem  
+**Mervyn** Peter Forbes  
+**Geain, aged 13** Susanna Newman  
+**Rita** Emma Gibbins  
+**NAN 300F** Herself
 
 ### Tour (1990)
 
@@ -180,25 +151,18 @@ Herself
 **Design:** Roger Glossop  
 **Music:** Paul Todd
 
-**Producer:** John Newman**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 9  
-Geain, aged 13  
-Corinna  
-Mervyn  
-Rita  
-NAN 300F**Actor**  
-Simon Ward  
-Robin Herford  
-Deborah Winckles  
-Victoria Horsfield  
-Thomasina Carlyle  
-Janet Key  
-Alister Cameron  
-Olivia Eisinger  
-Herself
+**Producer:** John Newman
+
+**Character** **Actor**  
+**Jerome** Simon Ward  
+**Lupus** Robin Herford  
+**Zoë** Deborah Winckles  
+**Geain, aged 9** Victoria Horsfield  
+**Geain, aged 13** Thomasina Carlyle  
+**Corinna** Janet Key  
+**Mervyn** Alister Cameron  
+**Rita** Olivia Eisinger  
+**NAN 300F** Herself
 
 ### North American Revival (1991)
 
@@ -213,25 +177,18 @@ Herself
 **Costumes:** Robert Blackman  
 **Sound:** Jon Gottlieb  
 **Music:** Larry Delinger  
-**Music:** Craig Sibley**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 13  
-Geain, aged 9  
-Corinna  
-Mervyn  
-Rita  
-NAN 300F**Actor**  
-John Glover  
-Alan Shearman  
-Jane Krakowski  
-Ellen Idelson  
-Brandi Chrisman  
-Paula Wilcox  
-Dakin Matthews  
-Nike Doukas  
-Herself
+**Music:** Craig Sibley
+
+**Character** **Actor**  
+**Jerome** John Glover  
+**Lupus** Alan Shearman  
+**Zoë** Jane Krakowski  
+**Geain, aged 13** Ellen Idelson  
+**Geain, aged 9** Brandi Chrisman  
+**Corinna** Paula Wilcox  
+**Mervyn** Dakin Matthews  
+**Rita** Nike Doukas  
+**NAN 300F** Herself
 
 ### Revival (2016)
 
@@ -250,23 +207,17 @@ Herself
 
 **Stage Manager:** Nikki Colclough  
 **Deputy Stage Manager:** Jen Hirst  
-**Assistant Stage Manager:** Emma Lang**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 13  
-Geain, aged 9  
-Corinna  
-Mervyn  
-NAN 300F**Actor**  
-Bill Champion  
-Andy Cryer  
-Laura Matthews  
-Jessie Hart  
-Velvet Hebditch  
-Jacqueline King  
-Russell Dixon  
-Herself
+**Assistant Stage Manager:** Emma Lang
+
+**Character** **Actor**  
+**Jerome** Bill Champion  
+**Lupus** Andy Cryer  
+**Zoë** Laura Matthews  
+**Geain, aged 13** Jessie Hart  
+**Geain, aged 9** Velvet Hebditch  
+**Corinna** Jacqueline King  
+**Mervyn** Russell Dixon  
+**NAN 300F** Herself
 
 ### Tour (2017)
 
@@ -280,20 +231,16 @@ Herself
 **Costumes:** Rebecca Cartwright  
 **Casting:** Sarah Hughes
 
-**Stage Manager:** Nikki Colclough**Character**  
-Jerome  
-Lupus  
-Zoë  
-Geain, aged 13  
-Geain, aged 9  
-Corinna  
-Mervyn  
-NAN 300F**Actor**  
-Bill Champion  
-Andy Cryer  
-Laura Matthews  
-Jessie Hart  
-Velvet Hebditch  
-Jacqueline King  
-Nigel Hastings  
-Herself*All research for this page by Simon Murgatroyd.*
+**Stage Manager:** Nikki Colclough
+
+**Character** **Actor**  
+**Jerome** Bill Champion  
+**Lupus** Andy Cryer  
+**Zoë** Laura Matthews  
+**Geain, aged 13** Jessie Hart  
+**Geain, aged 9** Velvet Hebditch  
+**Corinna** Jacqueline King  
+**Mervyn** Nigel Hastings  
+**NAN 300F** Herself
+
+*All research for this page by Simon Murgatroyd.*

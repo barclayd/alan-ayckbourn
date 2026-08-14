@@ -14,4 +14,5 @@ Posted: 26 April 2021
 
 Alan Ayckbourn's Archivist Simon Murgatroyd looks at the background to and creation of *The Square Cat* and why it is so significant for the playwright.
 
-Video: Simon Murgatroyd. *The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*
+Video: Simon Murgatroyd.  
+*The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*

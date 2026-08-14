@@ -22,7 +22,8 @@ play: "joking-apart"
 **Stage Manager:** Janet Fox  
 **Deputy Stage Manager:** Christopher Gray  
 **Assistant Stage Manager:** Dee Marsden  
-**Assistant Stage Manager:** Derek Scriminger**Character**  
+**Assistant Stage Manager:** Derek Scriminger  
+**Character**  
 Richard  
 Anthea  
 Hugh  
@@ -31,7 +32,8 @@ Sven
 Olive  
 Brian  
 Melody / Mandy / Mo /  
-Debbie**Actor**  
+Debbie  
+**Actor**  
 John Arthur  
 Alison Skilbeck  
 Malcolm Hebden  
@@ -39,7 +41,8 @@ Shelagh Stuttle
 Robert Austin  
 Annette Badland  
 Robin Herford  
-Fiona Mathieson**Note:** The original production at the Stephen Joseph Theatre In The Round closed on 4 February before immediately departing on a UK tour. The production was then revived on 23 May 1978 at the venue to play in repertory during the summer season with a slight cast alteration.
+Fiona Mathieson  
+**Note:** The original production at the Stephen Joseph Theatre In The Round closed on 4 February before immediately departing on a UK tour. The production was then revived on 23 May 1978 at the venue to play in repertory during the summer season with a slight cast alteration.
 
 ### Revival (1978)
 
@@ -56,7 +59,8 @@ Fiona Mathieson**Note:** The original production at the Stephen Joseph Theatre I
 **Stage Manager:** Janet Fox  
 **Deputy Stage Manager:** Christopher Gray  
 **Assistant Stage Manager:** Dee Marsden  
-**Assistant Stage Manager:** Derek Scriminger**Character**  
+**Assistant Stage Manager:** Derek Scriminger  
+**Character**  
 Richard  
 Anthea  
 Hugh  
@@ -65,7 +69,8 @@ Sven
 Olive  
 Brian  
 Melody / Mandy / Mo /  
-Debbie**Actor**  
+Debbie  
+**Actor**  
 John Arthur  
 Alison Skilbeck  
 Malcolm Hebden  
@@ -86,7 +91,8 @@ Fiona Mathieson
 **Director:** Alan Ayckbourn  
 **Design:** Alan Tagg  
 **Lighting:** Richard Pilbrow  
-**Costumes:** Lindy Hemming**Character**  
+**Costumes:** Lindy Hemming  
+**Character**  
 Richard  
 Anthea  
 Hugh  
@@ -95,7 +101,8 @@ Sven
 Olive  
 Brian  
 Melody / Mandy / Mo /  
-Debbie**Actor**  
+Debbie  
+**Actor**  
 Christopher Cazenove  
 Alison Steadman  
 Julian Fellowes  
@@ -121,7 +128,8 @@ Diane Bull
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Shane Thom**Character**  
+**Assistant Stage Manager:** Shane Thom  
+**Character**  
 Richard  
 Anthea  
 Louise  
@@ -130,7 +138,8 @@ Brian
 Sven  
 Olive  
 Melody / Mandy / Mo /  
-Debbie**Actor**  
+Debbie  
+**Actor**  
 David Leonard  
 Fiona Mollison  
 Susie Blake  
@@ -155,7 +164,8 @@ Georgina Freeman
 
 **Stage Manager:** Brian Perkins  
 **Deputy Stage Manager:** Sarah Rhodes-Cannings  
-**Assistant Stage Manager:** Emma Lang**Character**  
+**Assistant Stage Manager:** Emma Lang  
+**Character**  
 Richard  
 Anthea  
 Louise  
@@ -164,7 +174,8 @@ Brian
 Sven  
 Olive  
 Melody / Mandy / Mo /  
-Debbie**Actor**  
+Debbie  
+**Actor**  
 Laurence Pears  
 Frances Marshall  
 Louise Shuttleworth  
@@ -172,4 +183,5 @@ Jamie Baughan
 Richard Stacey  
 Leigh Symonds  
 Liz Jadav  
-Naomi Petersen*All research for this page by Simon Murgatroyd.*
+Naomi Petersen  
+*All research for this page by Simon Murgatroyd.*

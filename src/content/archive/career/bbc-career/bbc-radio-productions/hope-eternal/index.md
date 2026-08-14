@@ -8,16 +8,18 @@ order: 633
 
 ### Production Details
 
-**Author:**
+**Author:** To be confirmed  
+**Broadcast:** 1966  
+**Channel:** BBC
 
-**Broadcast:**  
-**Channel:**To be confirmed
-
-1966  
-BBC**Director:**Alan Ayckbourn**Character**  
-To be confirmed**Actor**  
+**Director:**  
+Alan Ayckbourn  
+**Character**  
+To be confirmed  
+**Actor**  
 Charles Pemberton
 
 ### Notes
 
-○ No details are held in archive or on the BBC Genome service about *Hope Eternal*. It is mentioned once in correspondence in Alan Ayckbourn's Archive but with no further details and it is mentioned in passing in The Stage newspaper on 26 May 1966 in relation to a short article on Charles Pemberton. All that can be ascertained is it was broadcast on BBC Radio at some point in 1966 prior to the month of May.*All research for this page by Simon Murgatroyd.*
+○ No details are held in archive or on the BBC Genome service about *Hope Eternal*. It is mentioned once in correspondence in Alan Ayckbourn's Archive but with no further details and it is mentioned in passing in The Stage newspaper on 26 May 1966 in relation to a short article on Charles Pemberton. All that can be ascertained is it was broadcast on BBC Radio at some point in 1966 prior to the month of May.  
+*All research for this page by Simon Murgatroyd.*

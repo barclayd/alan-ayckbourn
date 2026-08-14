@@ -9,4 +9,5 @@ order: 2371
 ### Quotes
 
 "Probably our greatest living playwright. This great man has meant so much to so many people in the British Theatre over the last 50 years."  
-*(2009)**Copyright: Laurie Sansom. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2009)*  
+*Copyright: Laurie Sansom. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

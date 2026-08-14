@@ -18,12 +18,19 @@ facts:
   Staging: "End-stage"
   Musical Director: "Paul Todd"
   Design: "Clare Bracewell"
-  Lighting: "Mick ThomasCharacter"
+  Lighting: "Mick Thomas"
+  Character: "Actor"
+  Charles: "Richard Mapletoft"
+  Janice: "Janet Jefferies"
+  Michael: "Nigel Cooke"
+  Annabelle: "Serena Evans"
+  Stage Manager: "David Parker"
   First performance: "5 December 1986 (TBC)"
   Premiere: "14 December 1986 (TBC)"
   Director: "Alan Ayckbourn"
   Music: "Paul Todd"
   Sound: "Rob Barnard"
+  Synthisiser: "Paul Todd"
 ---
 
 **Published / Available to Stage:** No
@@ -40,22 +47,12 @@ It was revived by Alan Ayckbourn at the **[National Theatre](/career/national-th
 
 1. Prologue  
 2. Untruths  
-3. Deceptions 4. Falsehoods  
+3. Deceptions  
+4. Falsehoods  
 5. Deceits  
-6. Fibs 7. Total Lies  
+6. Fibs  
+7. Total Lies  
 8. Epilogue
-
-### Premiere Production Details (1986)
-
-**Director: Alan Ayckbourn**  
-Charles  
-Janice  
-Michael  
-Annabelle**Actor**  
-Richard Mapletoft  
-Janet Jefferies  
-Nigel Cooke  
-Serena Evans**Stage Manager:** David Parker
 
 ### London Premiere Details (1987)
 
@@ -65,19 +62,15 @@ Serena Evans**Stage Manager:** David Parker
 
 **Design:** Emma B Lloyd  
 **Lighting:** Steve Ramsden  
-**Sound:** Gary Giles**Character**  
-Charles  
-Janice  
-Michael  
-Annabelle
+**Sound:** Gary Giles
 
-Synthisiser**Actor**  
-Russell Dixon  
-Kate Dyson  
-Michael Simkins  
-Diane Bull
+**Character** **Actor**  
+**Charles** Russell Dixon  
+**Janice** Kate Dyson  
+**Michael** Michael Simkins  
+**Annabelle** Diane Bull
 
-Paul Todd**Stage Manager:** Jenny Frazer
+**Stage Manager:** Jenny Frazer
 
 ### Further Reading
 

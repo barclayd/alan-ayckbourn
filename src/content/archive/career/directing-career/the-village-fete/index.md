@@ -8,56 +8,37 @@ order: 503
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Peter Tinniswood  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Peter Tinniswood  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**5 June 1991  
-11 June 1991  
-6 July 1991
+**First performance:** 5 June 1991  
+**Opening night:** 11 June 1991  
+**Final performance:** 6 July 1991
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Jackie Staines  
+**Design:** Juliet Nichols  
+**Music:** John Pattison  
+**Stage Manager:** Jane Eliot-Webb  
+**Deputy Stage Manager:** Erica Jane Fletcher  
+**Assistant Stage Manager:** Kevin Riley
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Jackie Staines  
-Juliet Nichols  
-John Pattison
-
-Jane Eliot-Webb  
-Erica Jane Fletcher  
-Kevin Riley**Character**  
-Nancy  
-Father  
-Rosie  
-William  
-Winston Hayballs  
-Mrs Godwin  
-Stanley  
-Janet**Actor**  
-Elizabeth Rider  
-Peter Laird  
-Rebecca Lacey  
-James Simmons  
-Crispin Letts  
-Susan Denaker  
-Peter Bourke  
-Anna Keaveney
+**Character** **Actor**  
+**Nancy** Elizabeth Rider  
+**Father** Peter Laird  
+**Rosie** Rebecca Lacey  
+**William** James Simmons  
+**Winston Hayballs** Crispin Letts  
+**Mrs Godwin** Susan Denaker  
+**Stanley** Peter Bourke  
+**Janet** Anna Keaveney
 
 ### Notes
 
-○ *The Village Fête* is a loose adaptation of the radio play of the same name by Peter Tinniswood. It features the same plot and characters, but was significantly altered by the writer for the stage version.*All research for this page by Simon Murgatroyd.*
+○ *The Village Fête* is a loose adaptation of the radio play of the same name by Peter Tinniswood. It features the same plot and characters, but was significantly altered by the writer for the stage version.  
+*All research for this page by Simon Murgatroyd.*

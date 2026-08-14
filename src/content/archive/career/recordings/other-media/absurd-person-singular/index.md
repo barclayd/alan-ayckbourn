@@ -23,31 +23,20 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Streaming:** BBC Sounds (2024)  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director:**  
-**Adaptor:**  
-**Producer:**
+**Digital:** Not available
 
-**Character**  
-Sidney Hopcroft  
-Jane Hopcroft  
-Eva Jackson  
-Geoffrey Jackson  
-Ronald Brewster-Wright  
-Marion Brewster-Wright  
-Dick Potter  
-Lottie PotterKay Patrick  
-Kay Patrick  
-Kay Patrick
-
-**Actor**  
-Christopher Godwin  
-Jane Knowles  
-Frances Jeater  
-John Rowe  
-Stephen Murray  
-Judy Parfitt  
-Leslie Heritage  
-Sheila Butler
+**Director:** Kay Patrick  
+**Adaptor:** Kay Patrick  
+**Producer:** Kay Patrick  
+**Character** **Actor**  
+**Sidney Hopcroft** Christopher Godwin  
+**Jane Hopcroft** Jane Knowles  
+**Eva Jackson** Frances Jeater  
+**Geoffrey Jackson** John Rowe  
+**Ronald Brewster-Wright** Stephen Murray  
+**Marion Brewster-Wright** Judy Parfitt  
+**Dick Potter** Leslie Heritage  
+**Lottie Potter** Sheila Butler
 
 ### Television (1985)
 
@@ -62,34 +51,22 @@ Sheila Butler
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Lighting**  
-**Designer**  
-**Sound**  
-**Graphic Design**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Sidney Hopcroft  
-Jane Hopcroft  
-Geoffrey Jackson  
-Eva Jackson  
-Ronald Brewster-Wright  
-Marion Brewster-Wright  
-Dick Potter  
-Lottie PotterMichael Simpson  
-David Ogle  
-Campbell Gordon  
-Bob Gilles  
-Gerald Scarfe  
-Shaun Sutton
+**Director** Michael Simpson  
+**Lighting** David Ogle  
+**Designer** Campbell Gordon  
+**Sound** Bob Gilles  
+**Graphic Design** Gerald Scarfe  
+**Producer** Shaun Sutton  
+**Character** **Actor**  
+**Sidney Hopcroft** Nicky Henson  
+**Jane Hopcroft** Maureen Lipman  
+**Geoffrey Jackson** Michael Gambon  
+**Eva Jackson** Cheryl Campbell  
+**Ronald Brewster-Wright** Geoffrey Palmer  
+**Marion Brewster-Wright** Prunella Scales  
+**Dick Potter** John Baddeley  
+**Lottie Potter** Lesley Joseph
 
-**Actor**  
-Nicky Henson  
-Maureen Lipman  
-Michael Gambon  
-Cheryl Campbell  
-Geoffrey Palmer  
-Prunella Scales  
-John Baddeley  
-Lesley Joseph*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

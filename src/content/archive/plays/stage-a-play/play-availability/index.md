@@ -7,7 +7,8 @@ play: "stage-a-play"
 
 This page offers a complete guide to which Alan Ayckbourn plays are currently available for production by professional and amateur companies (please note, certain plays may become unavailable at any time due to major productions / tours). The list includes a breakdown of the cast. Links to how to buy individual play script scan be found **[here](/publications/buy-the-plays)**.
 
-Plays marked with 'Enquiries' should contact Alan Ayckbourn's agent, **[Casarotto Ramsay](http://www.casarotto.co.uk/clients/sir-alan-ayckbourn/)**, to enquire as to the availability of the specific work.**Play Title**  
+Plays marked with 'Enquiries' should contact Alan Ayckbourn's agent, **[Casarotto Ramsay](http://www.casarotto.co.uk/clients/sir-alan-ayckbourn/)**, to enquire as to the availability of the specific work.  
+**Play Title**  
 Absent Friends  
 Absurd Person Singular  
 All Lies  
@@ -132,7 +133,8 @@ Dear Uncle
 The Forest  
 Tons Of Money  
 A Trip To Scarborough  
-Wolf At The Door**Cast**  
+Wolf At The Door  
+**Cast**  
 3m / 3f (6)  
 3m / 3f (6)  
 1m / 2f (3)  
@@ -254,248 +256,127 @@ Wolf At The Door**Cast**
 8m / 3f (9)  
 6m / 4f (10)  
 8m / 3f (11)  
-10m / 6f (16)**Professional**  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-*No*  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*
+10m / 6f (16)
 
-Yes  
-Yes  
-No  
-Yes  
-Yes  
-Yes  
-No  
-No
+**Professional** **Amateur**  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+***No*** *No*  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+***No*** *No*  
+**Yes** Yes  
+**Yes** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+***No*** *No*  
+**Yes** Yes  
+**Yes** Yes  
+**No** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**No** No  
+**No** No  
+**No** No  
+**No** No  
+**No** No  
+**No** No  
+**No** Yes  
+**No** No  
+**No** No  
+**No** No  
+**No** No  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes  
+**Yes** Yes
 
-No  
-No  
-No  
-No  
-No  
-No  
-No  
-No  
-No
-
-Yes  
-Yes  
-Yes  
-Yes  
-Yes**Amateur**  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-*No*  
-*No*  
-*No*  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-*No*  
-*No*  
-Yes  
-*No*  
-Yes  
-Yes  
-Yes  
-*No*
-
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-Yes  
-No  
-No
-
-No  
-No  
-No  
-No  
-Yes  
-No  
-No  
-No  
-No
-
-Yes  
-Yes  
-Yes  
-Yes  
-Yes*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

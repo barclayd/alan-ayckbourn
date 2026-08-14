@@ -24,27 +24,19 @@ play: "man-of-the-moment"
 **Deputy Stage Manager:** Kate Haswell  
 **Deputy Stage Manager:** David O’Neill  
 **Assistant Stage Manager:** Braco Dawson  
-**Assistant Stage Manager:** Sarah Percival**Character**  
-Jill Rillington  
-Trudy  
-Kenny Collins  
-Ruy  
-Douglas Beechey  
-Vic Parks  
-Sharon Griffin  
-Marta  
-Ashley Barnes  
-David**Actor**  
-Lynette Edwards  
-Lesley Meade  
-Simon Chandler  
-Daniel Collings  
-Jon Strickland  
-Peter Laird  
-Shirley-Anne Selby  
-Doreen Andrew  
-Peter Forbes  
-Adam Godley
+**Assistant Stage Manager:** Sarah Percival
+
+**Character** **Actor**  
+**Jill Rillington** Lynette Edwards  
+**Trudy** Lesley Meade  
+**Kenny Collins** Simon Chandler  
+**Ruy** Daniel Collings  
+**Douglas Beechey** Jon Strickland  
+**Vic Parks** Peter Laird  
+**Sharon Griffin** Shirley-Anne Selby  
+**Marta** Doreen Andrew  
+**Ashley Barnes** Peter Forbes  
+**David** Adam Godley
 
 ### London Premiere (1990)
 
@@ -57,27 +49,21 @@ Adam Godley
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Sound:** Freya Edwards  
-**Music:** Paul Todd**Character**  
-Jill Rillington  
-Trudy  
-Kenny Collins  
-Ruy  
-Douglas Beechey  
-Vic Parks  
-Sharon Griffin  
-Marta  
-Ashley Barnes  
-David**Actor**  
-Samantha Bond  
-Diane Bull  
-Simon Chandler  
-Daniel Collings  
-Michael Gambon  
-Peter Bowles  
-Shirley-Anne Selby  
-Doreen Andrew  
-Terence Booth  
-Paul Stewart**Note:** During the course of the run of *Man Of The Moment* in the West End, the role of Vic's daughter Cindy as variously played by: Laura Hames, Lacie Henning, Diana Endsor, Joanna Relf, Katie Hudson and Rebecca Sabin.
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Jill Rillington** Samantha Bond  
+**Trudy** Diane Bull  
+**Kenny Collins** Simon Chandler  
+**Ruy** Daniel Collings  
+**Douglas Beechey** Michael Gambon  
+**Vic Parks** Peter Bowles  
+**Sharon Griffin** Shirley-Anne Selby  
+**Marta** Doreen Andrew  
+**Ashley Barnes** Terence Booth  
+**David** Paul Stewart
+
+**Note:** During the course of the run of *Man Of The Moment* in the West End, the role of Vic's daughter Cindy as variously played by: Laura Hames, Lacie Henning, Diana Endsor, Joanna Relf, Katie Hudson and Rebecca Sabin.
 
 ### London Recast (1990)
 
@@ -90,27 +76,19 @@ Paul Stewart**Note:** During the course of the run of *Man Of The Moment* in the
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Sound:** Freya Edwards  
-**Music:** Paul Todd**Character**  
-Jill Rillington  
-Trudy  
-Kenny Collins  
-Ruy  
-Douglas Beechey  
-Vic Parks  
-Sharon Griffin  
-Marta  
-Ashley Barnes  
-David**Actor**  
-Louisa Rix  
-Diane Bull  
-David Cunningham  
-Daniel Collings  
-Nigel Planer  
-Gareth Hunt  
-Shirley-Anne Selby  
-Tessa Worsley  
-Terence Booth  
-Paul Stewart
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Jill Rillington** Louisa Rix  
+**Trudy** Diane Bull  
+**Kenny Collins** David Cunningham  
+**Ruy** Daniel Collings  
+**Douglas Beechey** Nigel Planer  
+**Vic Parks** Gareth Hunt  
+**Sharon Griffin** Shirley-Anne Selby  
+**Marta** Tessa Worsley  
+**Ashley Barnes** Terence Booth  
+**David** Paul Stewart
 
 ### Revival (2009)
 
@@ -121,22 +99,17 @@ Paul Stewart
 **Director:** Alan Ayckbourn  
 **Design:** Michael Holt  
 **Lighting:** James Farncombe  
-**Sound:** Paul Arditti**Character**  
-Jill Rillington  
-Trudy  
-Kenny Collins  
-Douglas Beechey  
-Vic Parks  
-Sharon Griffin  
-Ashley Barnes  
-Marta  
-Ruy**Actor**  
-Ruth Gibson  
-Laura Doddington  
-Christopher Harper  
-Kim Wall  
-Malcolm Sinclair  
-Haz Webb  
-Matthew Cottle  
-Sue Whyte  
-Michael Davies*All research for this page by Simon Murgatroyd.*
+**Sound:** Paul Arditti
+
+**Character** **Actor**  
+**Jill Rillington** Ruth Gibson  
+**Trudy** Laura Doddington  
+**Kenny Collins** Christopher Harper  
+**Douglas Beechey** Kim Wall  
+**Vic Parks** Malcolm Sinclair  
+**Sharon Griffin** Haz Webb  
+**Ashley Barnes** Matthew Cottle  
+**Marta** Sue Whyte  
+**Ruy** Michael Davies
+
+*All research for this page by Simon Murgatroyd.*

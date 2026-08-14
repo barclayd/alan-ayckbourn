@@ -11,7 +11,8 @@ facts:
   Original Play: "Les Corbeaux (The Crows)"
   Author: "Henry Becque"
   Translation: "Professor David Walker"
-  Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/10845/wolf-at-the-door/) Wolf at the Door Note: *Wolf At The Door* is Alan Ayckbourn's adaptation of Professor David Walker's translation of Henry Becque's *Les Corbeaux*."
+  Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/10845/wolf-at-the-door/)"
+  Note: "*Wolf At The Door* is Alan Ayckbourn's adaptation of Professor David Walker's translation of Henry Becque's *Les Corbeaux*."
 ---
 
 

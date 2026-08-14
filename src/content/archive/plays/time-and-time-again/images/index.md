@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 *Time & Time Again* is the earliest play of Alan Ayckbourn's for which his early notes survive in archive. This page includes his hand-written ideas for the title of the play: *The Game's The Thing*; *Plays & Players*; *The Sporting Gnome*; *The Garden Path*.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-c1e5f6d.jpg)
@@ -23,6 +26,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Early scene notes for *Time & Time Again* looking at characters and key plot points. *Time & Time Again* is the earliest play in archive for which Alan Ayckbourn's notes exist.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-0daee65.jpg)
@@ -30,6 +36,9 @@ Early scene notes for *Time & Time Again* looking at characters and key plot poi
 ![](./_images/stacks-image-0104901.jpg)
 
 A letter from Alan Ayckbourn's agent, Margaret Ramsay, noting the West End producer, Michael Codron, wants to see *Time & Time Again* in Scarborough. He would go on to produce the play in London beginning a 30 year run of producing Ayckbourn West End premieres.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -64,6 +73,7 @@ When *Time & Time Again* was revived by Alan Ayckbourn at the Stephen Joseph The
 **Copyright:** The Scarborough News  
 **Holding:** The Bob Watson Archive
 
-*Do not reproduce images without permission of the copyright holder.*      *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

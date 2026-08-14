@@ -16,13 +16,15 @@ play: "incidental-music"
 **Director:** Alan Ayckbourn  
 **Musical Director: P**aul Todd  
 **Design:** Edward Lipscomb  
-**Lighting:** Francis Lynch**The Company**  
+**Lighting:** Francis Lynch  
+**The Company**  
 Lavinia Bertram  
 Gillian Bevan  
 Ruth Mayo  
 Michael Cashman  
 Russell Dixon  
-Graeme Eton**The Band**  
+Graeme Eton  
+**The Band**  
 Isaac Guillory  
 Dave Newton  
 Paul Todd
@@ -37,13 +39,15 @@ Paul Todd
 **Director:** Alan Ayckbourn  
 **Musical Director: P**aul Todd  
 **Design:** Edward Lipscomb  
-**Lighting:** Francis Lynch**The Company**  
+**Lighting:** Francis Lynch  
+**The Company**  
 Lavinia Bertram  
 Ruth Mayo  
 Liza Sadovy  
 Michael Cashman  
 Graeme Eton  
-Michael Ross**The Band**  
+Michael Ross  
+**The Band**  
 Gary Beaty  
 Paul Todd  
 Richard Townend
@@ -55,11 +59,14 @@ Richard Townend
 **Staging:** Round
 
 **Director:** Martin Connor  
-**Musical Director:** Peter Fincham**The Company**  
+**Musical Director:** Peter Fincham  
+**The Company**  
 Sheila Brand  
 Teresa Codling  
 Paddy Navin  
 Richard Drabble  
 Colin Farrell  
-Robert Meadmore**The Band**  
-Simon Honner*All research for this page by Simon Murgatroyd.*
+Robert Meadmore  
+**The Band**  
+Simon Honner  
+*All research for this page by Simon Murgatroyd.*

@@ -8,54 +8,36 @@ order: 440
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Somerset Maugham  
+**New Play:** No  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Somerset Maugham  
-No
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**12 August 1974  
-12 August 1974  
-11 September 1974
+**First performance:** 12 August 1974  
+**Opening night:** 12 August 1974  
+**Final performance:** 11 September 1974
 
 ### Company Details
 
-**Director:**  
-**Costumes:**
+**Director:** Alan Ayckbourn  
+**Costumes:** Christine Welch  
+**Stage Manager:** David Millard  
+**Deputy Stage Manager:** Trevor John-Smith  
+**Assistant Stage Manager:** Helga Wood  
+**Assistant Stage Manager:** Kevin Wood
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Christine Welch
-
-David Millard  
-Trevor John-Smith  
-Helga Wood  
-Kevin Wood**Character**  
-Charles Battle  
-Margery, his wife  
-Patrick  
-Judy  
-Alfred Granger  
-Dorothy, his wife  
-Diana  
-Timothy**Actor**  
-Stanley Page  
-Heather Stoney  
-Stephen Mallatratt  
-Christine Welch  
-Ronald Herdman  
-Janet Dale  
-Eileen O'Brien  
-Christopher Godwin
+**Character** **Actor**  
+**Charles Battle** Stanley Page  
+**Margery, his wife** Heather Stoney  
+**Patrick** Stephen Mallatratt  
+**Judy** Christine Welch  
+**Alfred Granger** Ronald Herdman  
+**Dorothy, his wife** Janet Dale  
+**Diana** Eileen O'Brien  
+**Timothy** Christopher Godwin
 
 ### Notes
 
-○ The Library Theatre's production of *The Breadwinner* was recorded for the BBC Radio *Repertory In Britain* (*Afternoon Theatre*) series. The production was produced by Alfred Bradley, directed by Alan Ayckbourn and adapted for the radio by Kay Jamieson. The production was broadcast on BBC Radio 4 on 14 December 1974.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ The Library Theatre's production of *The Breadwinner* was recorded for the BBC Radio *Repertory In Britain* (*Afternoon Theatre*) series. The production was produced by Alfred Bradley, directed by Alan Ayckbourn and adapted for the radio by Kay Jamieson. The production was broadcast on BBC Radio 4 on 14 December 1974.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

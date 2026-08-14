@@ -9,4 +9,5 @@ order: 2311
 ### Quotes
 
 "The key to Alan’s plays is that he writes really good parts for men and women. He just writes people brilliantly and he gifts actors with real people to play."  
-*(2013)**Copyright: Elizabeth Boag. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2013)*  
+*Copyright: Elizabeth Boag. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

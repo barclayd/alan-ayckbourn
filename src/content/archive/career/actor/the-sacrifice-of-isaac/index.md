@@ -27,4 +27,5 @@ During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at
 
 *The Sacrifice of the Isaac* was performed in a double-bill with *The Way of the Cross* by Harry Gheon. It was performed during Easter 1960, presumably as part of a Studio Theatre Ltd tour although no further details are known about precisely when or where it was performed.
 
-Details of the performance only came to light in 2022 as part of the acquisition of The Rodney Wood Collection as part of the Ayckbourn Archive held at the Northwick Institute for Archives at the University of York.*All research for this page by Simon Murgatroyd.*
+Details of the performance only came to light in 2022 as part of the acquisition of The Rodney Wood Collection as part of the Ayckbourn Archive held at the Northwick Institute for Archives at the University of York.  
+*All research for this page by Simon Murgatroyd.*

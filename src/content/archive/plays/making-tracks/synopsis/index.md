@@ -35,10 +35,13 @@ Stan sees a solution to his predicament as he knows Lace has a very good voice. 
 Children’s Eyes (Sandy)  
 Alright For Level (Rog)  
 Recording You (Rog, Lace, Sandy and Stan)  
-Words & Music (Stan, Lace & the Company)**Act II**  
+Words & Music (Stan, Lace & the Company)  
+**Act II**  
 We Are A Group (Company)  
 She Hasn’t Got It (Stan, Sandy, Chris and Lace)  
 Someone Wrong (Lace and Stan)  
 Backing Vocals (Company)  
 Not For Sandy (Sandy and Lace)  
-Making Tracks (Lace and the Company)This is the final track listing used in the 1983 London premiere of *Making Tracks*. The original production featured an extra song, *Words & Music* (sung by the company) at the climax of Act 1, which was cut for the 1982 revival. The original production also featured a song in Act II called *Showbiz* (sung by Wolfe, Mrs Witts & Sandy) which was re-written as *Backing Vocals* and performed by the Company.*All research for this page by Simon Murgatroyd*
+Making Tracks (Lace and the Company)  
+This is the final track listing used in the 1983 London premiere of *Making Tracks*. The original production featured an extra song, *Words & Music* (sung by the company) at the climax of Act 1, which was cut for the 1982 revival. The original production also featured a song in Act II called *Showbiz* (sung by Wolfe, Mrs Witts & Sandy) which was re-written as *Backing Vocals* and performed by the Company.  
+*All research for this page by Simon Murgatroyd*

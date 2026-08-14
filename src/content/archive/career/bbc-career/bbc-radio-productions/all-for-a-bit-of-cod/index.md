@@ -8,24 +8,21 @@ order: 613
 
 ### Production Details
 
-**Author:**
+**Author:** David Mosey  
+**Broadcast:** 6 January 1970 @ 11.30am  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**David Mosey
+**Director:**  
+Alan Ayckbourn
 
-6 January 1970 @ 11.30am  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Ivy  
-Arthur  
-erry  
-Colin  
-Brian**Actor**  
-Pamela Dellar  
-Geoffrey Banks  
-Brian Peck  
-Derrick Gilbert  
-Brian Miller
+**Character** **Actor**  
+**Ivy** Pamela Dellar  
+**Arthur** Geoffrey Banks  
+**erry** Brian Peck  
+**Colin** Derrick Gilbert  
+**Brian** Brian Miller
 
 ### Notes
 
-○ *All For A Bit Of Cod* was broadcast as part of the *Battles Of Britain* series of plays.*All research for this page by Simon Murgatroyd.*
+○ *All For A Bit Of Cod* was broadcast as part of the *Battles Of Britain* series of plays.  
+*All research for this page by Simon Murgatroyd.*

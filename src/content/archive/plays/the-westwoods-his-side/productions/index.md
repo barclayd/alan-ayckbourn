@@ -23,23 +23,19 @@ play: "the-westwoods-his-side"
 **Director:** Alan Ayckbourn  
 **Musical Director:** Paul Todd  
 **Design:** Alan Marshall  
-**Lighting:** Francis Lynch**Character**  
-Tidge  
-Patricia  
-Trish  
-Pat  
-Robert  
-Rab  
-Bobby  
-Bob **Actor**  
-Jane Hollowood  
-Caroline Webster  
-Alwyne Taylor  
-Dorcas Jones  
-Daniel Flynn  
-Mark Jax  
-Robert Cotton  
-Alan Thompson**Stage Manager:** Kathryn-Anne Woodward
+**Lighting:** Francis Lynch
+
+**Character** **Actor**  
+**Tidge** Jane Hollowood  
+**Patricia** Caroline Webster  
+**Trish** Alwyne Taylor  
+**Pat** Dorcas Jones  
+**Robert** Daniel Flynn  
+**Rab** Mark Jax  
+**Bobby** Robert Cotton  
+**Bob** Alan Thompson
+
+**Stage Manager:** Kathryn-Anne Woodward
 
 ### London Premiere (1987)
 
@@ -52,20 +48,16 @@ Alan Thompson**Stage Manager:** Kathryn-Anne Woodward
 **Director:** Vivienne Cozens  
 **Musical Director:** Ian Smith  
 **Design:** Fraser Taylor  
-**Lighting:** Sam McGregor**Character**  
-Tidge  
-Patricia  
-Trish  
-Pat  
-Robert  
-Rab  
-Bobby  
-Bob **Actor**  
-Debbie Wall  
-Alison Rose  
-Alwyne Taylor  
-Mela White  
-Christopher Downing  
-Joe Searby  
-Robert Cotton  
-Michael Murray*All research for this page by Simon Murgatroyd.*
+**Lighting:** Sam McGregor
+
+**Character** **Actor**  
+**Tidge** Debbie Wall  
+**Patricia** Alison Rose  
+**Trish** Alwyne Taylor  
+**Pat** Mela White  
+**Robert** Christopher Downing  
+**Rab** Joe Searby  
+**Bobby** Robert Cotton  
+**Bob** Michael Murray
+
+*All research for this page by Simon Murgatroyd.*

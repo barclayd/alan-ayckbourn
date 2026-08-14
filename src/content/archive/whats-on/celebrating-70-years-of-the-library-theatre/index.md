@@ -48,6 +48,8 @@ The exhibition includes photographs of:
 
 The exhibition is organised by Alan Ayckbourn's archivist and theatre historian Simon Murgatroyd in association with Scarborough Library and North Yorkshire Council.
 
+It is supported by Haydonning Ltd and **[www.a-round-town.com](http://www.a-round-town.com/)**.
+
 If you have an enquiry about the exhibition, please contact Simon Murgatroyd at: **[admin@alanayckbourn.net](mailto:admin@alanayckbourn.net)**.
 
 ![](./_images/stacks-image-b2e7eb3.png)

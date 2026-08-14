@@ -8,50 +8,27 @@ order: 473
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Stephen Mallatratt  
+**New Play:** Yes  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Stephen Mallatratt  
-Yes
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**25 August 1976  
-25 August 1976  
-8 September 1976
+**First performance:** 25 August 1976  
+**Opening night:** 25 August 1976  
+**Final performance:** 8 September 1976
 
 ### Company Details
 
-**Director:**  
-**Design:**
-
-**Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager**Alan Ayckbourn  
-Helga Wood
-
-Simon Somers  
-Christopher Gray  
-Wendy Murray  
-Nigel LeVaillant**Character**  
-Dorothy  
-Geraldine  
-Shakespeare  
-Peter  
-Nobby  
-Vic**Actor**  
-Alison Skilbeck  
-Elspeth Charlton  
-Elaine Strickland  
-Robin Herford  
-Stephen Lowe  
-Christopher Godwin
+**Director:** Alan Ayckbourn **Character** **Actor**  
+**Design:** Helga Wood **Dorothy** Alison Skilbeck  
+**Geraldine** Elspeth Charlton  
+**Stage Manager:** Simon Somers **Shakespeare** Elaine Strickland  
+**Assistant Stage Manager:** Christopher Gray **Peter** Robin Herford  
+**Assistant Stage Manager:** Wendy Murray **Nobby** Stephen Lowe  
+**Assistant Stage Manager** Nigel LeVaillant **Vic** Christopher Godwin
 
 ### Notes
 
-○ *Mother Country* was the final new play to be produced at the Library Theatre, Scarborough.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Mother Country* was the final new play to be produced at the Library Theatre, Scarborough.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

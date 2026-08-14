@@ -8,24 +8,21 @@ order: 636
 
 ### Production Details
 
-**Author:**
+**Author:** Pam Tickell  
+**Broadcast:** 9 September 1970 @ 8pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Pam Tickell
+**Director:**  
+Alan Ayckbourn
 
-9 September 1970 @ 8pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Graham  
-Amy Kettle  
-Betty  
-Mr Masheter  
-Chauffeur**Actor**  
-Joe Dunlop  
-Joan Sims  
-Heather Stoney  
-Geoffrey Banks  
-Robert Peck
+**Character** **Actor**  
+**Graham** Joe Dunlop  
+**Amy Kettle** Joan Sims  
+**Betty** Heather Stoney  
+**Mr Masheter** Geoffrey Banks  
+**Chauffeur** Robert Peck
 
 ### Notes
 
-○ *Keep Amy Kettle Off The Road* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Keep Amy Kettle Off The Road* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

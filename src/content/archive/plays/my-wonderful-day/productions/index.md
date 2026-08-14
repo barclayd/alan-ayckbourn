@@ -23,19 +23,15 @@ play: "my-wonderful-day"
 
 **Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Barry Thompson**Character**  
-Winnie  
-Laverne  
-The Man (Kevin)  
-The Wife (Paula)  
-The Secretary (Tiffany)  
-The Friend (Josh)**Actor**  
-Ayesha Antoine  
-Petra Letang  
-Terence Booth  
-Alexandra Mathie  
-Ruth Gibson  
-Paul Kemp
+**Assistant Stage Manager:** Barry Thompson
+
+**Character** **Actor**  
+**Winnie** Ayesha Antoine  
+**Laverne** Petra Letang  
+**The Man (Kevin)** Terence Booth  
+**The Wife (Paula)** Alexandra Mathie  
+**The Secretary (Tiffany)** Ruth Gibson  
+**The Friend (Josh)** Paul Kemp
 
 ### New York Premiere (2009)
 
@@ -48,19 +44,15 @@ Paul Kemp
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Jennie Boyer  
-**Sound:** Ben Vickers**Character**  
-Winnie  
-Laverne  
-The Man (Kevin)  
-The Wife (Paula)  
-The Secretary (Tiffany)  
-The Friend (Josh)**Actor**  
-Ayesha Antoine  
-Petra Letang  
-Terence Booth  
-Alexandra Mathie  
-Ruth Gibson  
-Paul Kemp
+**Sound:** Ben Vickers
+
+**Character** **Actor**  
+**Winnie** Ayesha Antoine  
+**Laverne** Petra Letang  
+**The Man (Kevin)** Terence Booth  
+**The Wife (Paula)** Alexandra Mathie  
+**The Secretary (Tiffany)** Ruth Gibson  
+**The Friend (Josh)** Paul Kemp
 
 ### Tour (2010)
 
@@ -73,24 +65,17 @@ Paul Kemp
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Jennie Boyer  
-**Sound:** Ben Vickers**Character**  
-Winnie  
-Laverne  
-The Man (Kevin)  
-The Wife (Paula)  
-The Secretary (Tiffany)  
-The Friend (Josh)
+**Sound:** Ben Vickers
 
-Understudy  
-Understudy  
-Understudy**Actor**  
-Ayesha Antoine  
-Petra Letang  
-Terence Booth  
-Alexandra Mathie  
-Ruth Gibson  
-Paul Kemp
+**Character** **Actor**  
+**Winnie** Ayesha Antoine  
+**Laverne** Petra Letang  
+**The Man (Kevin)** Terence Booth  
+**The Wife (Paula)** Alexandra Mathie  
+**The Secretary (Tiffany)** Ruth Gibson  
+**The Friend (Josh)** Paul Kemp  
+**Understudy** Terais Latore  
+**Understudy** Stephen Pallister  
+**Understudy** Katy Pye
 
-Terais Latore  
-Stephen Pallister  
-Katy Pye*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

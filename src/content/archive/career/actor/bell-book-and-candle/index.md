@@ -8,13 +8,13 @@ order: 371
 
 ### Production Details
 
-****Play:** Bell, Book & Candle** **Character** **Actor**  
-****Author:** John van Druten** **Gillian Holroyd** Dona Martyn  
-****First performance:** 16 June 1959** **Anthony Henderson** William Elmhirst  
-****Final performance:** 19 August 1959** **Miss Holroyd** Faynia Jeffery  
-****Venue:** The Library Theatre, Scarborough** **Nicholas Holroyd** Alan Ayckbourn  
-****Staging:** Round** **Sidney Reditch** David Campton  
-****Director:** Rodney Wood** **Pyewacket** Joanna (a cat)
+**Play:** Bell, Book & Candle **Character** **Actor**  
+**Author:** John van Druten **Gillian Holroyd** Dona Martyn  
+**First performance:** 16 June 1959 **Anthony Henderson** William Elmhirst  
+**Final performance:** 19 August 1959 **Miss Holroyd** Faynia Jeffery  
+**Venue:** The Library Theatre, Scarborough **Nicholas Holroyd** Alan Ayckbourn  
+**Staging:** Round **Sidney Reditch** David Campton  
+**Director:** Rodney Wood **Pyewacket** Joanna (a cat)
 
 ### Quotes & Notes
 
@@ -23,4 +23,5 @@ order: 371
 For many years, Alan stated in interviews that *Bell, Book and Candle* was the play that caused him to confront the Library Theatre's Artistic Director **[Stephen Joseph](/life)** about the quality of his roles. The result of which was for Stephen to challenge Alan to write better, resulting in his first play *The Square Cat*. As Alan's biographer Paul Allen deduced, this was an impossibility as both plays were in the same season. The actual culprit was David Campton's ***[Ring Of Roses](/career/directing-career/the-season)***, but Alan chose to change the plays given his friendship with David.
 
 **Review extract from the Scarborough Evening News** (17 June 1959)  
-"Another familiar face is that of Alan Ayckbourn, who has improved in technique since he was last here, and gives an amusing interpretation of the warlock brother of Dona Martyn."*All research for this page by Simon Murgatroyd.*
+"Another familiar face is that of Alan Ayckbourn, who has improved in technique since he was last here, and gives an amusing interpretation of the warlock brother of Dona Martyn."  
+*All research for this page by Simon Murgatroyd.*

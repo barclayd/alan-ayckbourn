@@ -9,4 +9,5 @@ order: 2343
 ### Quotes
 
 "We shouldn’t feel guilty about giving Alan Ayckbourn's work the respect, and acclaim, it deserves."  
-(*2011)**Copyright: Tim Auld. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+(*2011)*  
+*Copyright: Tim Auld. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

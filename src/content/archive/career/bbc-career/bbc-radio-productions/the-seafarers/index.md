@@ -8,36 +8,28 @@ order: 656
 
 ### Production Details
 
-**Author:**
+**Author:** C.S. Abraham  
+**Broadcast from:** 16 December 1969  
+**Channel:** BBC Radio 2  
+**Episodes:** 16
 
-**Broadcast from:**  
-**Channel:**  
-**Episodes:**C.S. Abraham
+**Director:**  
+**Theme:**  
+Alan Ayckbourn  
+Trevor Holroyd
 
-16 December 1969  
-BBC Radio 2  
-16**Director:**  
-**Theme:**Alan Ayckbourn  
-Trevor Holroyd**Character**  
-Gladys  
-Captain Turner  
-Second Officer Page  
-Barraclough  
-Samuels  
-AB Cloud  
-AB Jason  
-Bosun  
-Chief Officer Prescott**Actor**  
-Elizabeth Ashton  
-Leslie Sands  
-Reg Lye  
-Ronald Harvi  
-Ronald Herdman  
-Colin Edwynn  
-John Hollis  
-Brian Miller  
-David Butler
+**Character** **Actor**  
+**Gladys** Elizabeth Ashton  
+**Captain Turner** Leslie Sands  
+**Second Officer Page** Reg Lye  
+**Barraclough** Ronald Harvi  
+**Samuels** Ronald Herdman  
+**AB Cloud** Colin Edwynn  
+**AB Jason** John Hollis  
+**Bosun** Brian Miller  
+**Chief Officer Prescott** David Butler
 
 ### Notes
 
-○ *The Seafarers* was a 16-part serial with all the episodes directed by Alan Ayckbourn. It was the longest serial to be directed by Alan Ayckbourn.*All research for this page by Simon Murgatroyd.*
+○ *The Seafarers* was a 16-part serial with all the episodes directed by Alan Ayckbourn. It was the longest serial to be directed by Alan Ayckbourn.  
+*All research for this page by Simon Murgatroyd.*

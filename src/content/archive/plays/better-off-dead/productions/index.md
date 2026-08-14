@@ -23,18 +23,15 @@ play: "better-off-dead"
 
 **Stage Manager:** Brian Perkins  
 **Deputy Stage Manager:** Sarah Rhodes-Cannings  
-**Assistant Stage Manager:** Emma Lang**Character**  
-A D Waterbridge (Algy)  
-Jessica Waterbridge  
-Thelma Bostock  
-Jason Ratcliffe  
-Gus Crewes  
-DCI Tommy Middlebrass  
-DS Gemma Price**Actor**  
-Christopher Godwin  
-Eileen Battye  
-Liz Jadav  
-Laurence Pears  
-Leigh Symonds  
-Russell Dixon  
-Naomi Petersen*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Emma Lang
+
+**Character** **Actor**  
+**A D Waterbridge (Algy)** Christopher Godwin  
+**Jessica Waterbridge** Eileen Battye  
+**Thelma Bostock** Liz Jadav  
+**Jason Ratcliffe** Laurence Pears  
+**Gus Crewes** Leigh Symonds  
+**DCI Tommy Middlebrass** Russell Dixon  
+**DS Gemma Price** Naomi Petersen
+
+*All research for this page by Simon Murgatroyd.*

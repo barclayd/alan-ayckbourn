@@ -16,12 +16,14 @@ play: "ernies-incredible-illucinations"
 **Director:** Caryl Jenner  
 **Design:** Matyelok Gibbs  
 **Sound:** Chris Pullen  
-**Wardrobe:** Lynn Reade**Character**  
+**Wardrobe:** Lynn Reade  
+**Character**  
 Ernie  
 Mum  
 Dad  
 Doctor  
-All other roles**Actor**  
+All other roles  
+**Actor**  
 Laurence Keane  
 Veronica Foley  
 Henry Manning  
@@ -32,4 +34,6 @@ Michael Shelley
 Simon Blatchley  
 Rosemary Blake  
 Rosalind Speight  
-Kay Linson**Note:** This refers to the first known professional production of *Ernie's Incredible Illucinations*. By 1971, it had already been performed numerous times as an amateur production.*All research for this page by Simon Murgatroyd.*
+Kay Linson  
+**Note:** This refers to the first known professional production of *Ernie's Incredible Illucinations*. By 1971, it had already been performed numerous times as an amateur production.  
+*All research for this page by Simon Murgatroyd.*

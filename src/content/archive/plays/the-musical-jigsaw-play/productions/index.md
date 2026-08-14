@@ -21,14 +21,13 @@ play: "the-musical-jigsaw-play"
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Sharon Perchard  
-**Assistant Stage Manager:** Victoria Murray**Character**  
-Nige  
-Sin  
-Edge  
-Wicky  
-Jetta**Actor**  
-Edward Little  
-Nicholas Haverson  
-Matt Kane  
-Danny Dryer  
-Annie Cowan*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Victoria Murray
+
+**Character** **Actor**  
+**Nige** Edward Little  
+**Sin** Nicholas Haverson  
+**Edge** Matt Kane  
+**Wicky** Danny Dryer  
+**Jetta** Annie Cowan
+
+*All research for this page by Simon Murgatroyd.*

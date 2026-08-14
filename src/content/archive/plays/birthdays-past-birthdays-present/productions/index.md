@@ -24,12 +24,12 @@ play: "birthdays-past-birthdays-present"
 
 **Stage Manager:** Fleur Hill-Beeley  
 **Deputy Stage Manager:** Jane Williamson  
-**Assistant Stage Manager:** Rachel Stevens**Character**  
-Micky  
-Meg  
-Adrian  
-Grace/Faith/Charity/Hope**Actor**  
-Russell Dixon  
-Jemma Churchill  
-Jamie Baughan  
-Naomi Petersen*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Rachel Stevens
+
+**Character** **Actor**  
+**Micky** Russell Dixon  
+**Meg** Jemma Churchill  
+**Adrian** Jamie Baughan  
+**Grace/Faith/Charity/Hope** Naomi Petersen
+
+*All research for this page by Simon Murgatroyd.*

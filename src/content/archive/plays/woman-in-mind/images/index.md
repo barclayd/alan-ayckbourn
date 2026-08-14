@@ -26,6 +26,9 @@ The poster for the world premiere of *Woman in Min*d at the Stephen Joseph Theat
 
 Alan Ayckbourn's sketch for the set design for the 2009 West End transfer of *Woman in Mind*. The production was originally staged in-the-round and was then adapted for the proscenium for the transfer.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-88ee824.jpg)
@@ -48,6 +51,7 @@ The poster for the 2025 West End revival of *Woman in Mind* at The Duke of York'
 **Copyright:** Wessex Grove  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -9,4 +9,5 @@ order: 2368
 ### Quotes
 
 “He puts complex, mature women at the heart of his plays and gives them complex emotional journeys - whereas with most playwrights of his generation you will likely have a ratio favouring men and most of the journeys will be male. He has a very strong feminist streak.”  
-*(2019)**Copyright: Brigid Larmour. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Brigid Larmour. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

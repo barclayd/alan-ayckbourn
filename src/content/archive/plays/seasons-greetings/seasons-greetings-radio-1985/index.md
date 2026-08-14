@@ -17,31 +17,22 @@ play: "seasons-greetings"
 **Availability**  
 **Cassette:** 1985 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Neville  
-Belinda  
-Phyllis  
-Harvey  
-Bernard  
-Rachael  
-Eddie  
-Pattie  
-CliveGordon House  
-Richard Wigmore
+**Director** Gordon House  
+**Adaptation** Richard Wigmore  
+**Character** **Actor**  
+**Neville** Nicky Henson  
+**Belinda** Maggie McCarthy  
+**Phyllis** Susan Uebel  
+**Harvey** Peter Vaughan  
+**Bernard** Ronald Herdman  
+**Rachael** Jennifer Piercey  
+**Eddie** Robin Summers  
+**Pattie** Heather Bell  
+**Clive** Guy Holden
 
-**Actor**  
-Nicky Henson  
-Maggie McCarthy  
-Susan Uebel  
-Peter Vaughan  
-Ronald Herdman  
-Jennifer Piercey  
-Robin Summers  
-Heather Bell  
-Guy Holden**Note:** This production was recorded for the BBC World Service and broadcast on the World Service prior to BBC Radio 4; the original broadcast date is unknown.
+**Note:** This production was recorded for the BBC World Service and broadcast on the World Service prior to BBC Radio 4; the original broadcast date is unknown.
 
 ### Television (1986)
 
@@ -56,39 +47,24 @@ Guy Holden**Note:** This production was recorded for the BBC World Service and b
 **Video:** Not available  
 **DVD:** Not availabe  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Lighting**  
-**Design**  
-**Music**  
-**Script Editor**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Eddie  
-Pattie  
-Belinda  
-Neville  
-Rachel  
-Bernard  
-Clive  
-Phyllis  
-Harvey Michael Simpson  
-Howard King  
-Tony Burrough  
-Jim Parker  
-Stuart Griffiths  
-Shaun Sutton
-
-**Actor**  
-Michael Cashman  
-Lesley Dunlop  
-Barbara Flynn  
-Nicky Henson  
-Anna Massey  
-Geoffrey Palmer  
-Shaun Scott  
-Bridget Turner  
-Peter Vaughan
+**Director** Michael Simpson  
+**Lighting** Howard King  
+**Design** Tony Burrough  
+**Music** Jim Parker  
+**Script Editor** Stuart Griffiths  
+**Producer** Shaun Sutton  
+**Character** **Actor**  
+**Eddie** Michael Cashman  
+**Pattie** Lesley Dunlop  
+**Belinda** Barbara Flynn  
+**Neville** Nicky Henson  
+**Rachel** Anna Massey  
+**Bernard** Geoffrey Palmer  
+**Clive** Shaun Scott  
+**Phyllis** Bridget Turner  
+**Harvey** Peter Vaughan
 
 ### Radio (1999)
 
@@ -102,28 +78,19 @@ Peter Vaughan
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2011 (available)  
-**Digital:** 2011 (available)**Director**  
-**Adaptation**
+**Digital:** 2011 (available)
 
-**Character**  
-Harvey  
-Belinda  
-Neville  
-Bernard  
-Rachel  
-Eddie  
-Pattie  
-Clive  
-PhyllisPolly Thomas  
-Vanessa Rosenthal
+**Director** Polly Thomas  
+**Adaptation** Vanessa Rosenthal  
+**Character** **Actor**  
+**Harvey** Geoffrey Palmer  
+**Belinda** Frances Barber  
+**Neville** Bill Nighy  
+**Bernard** John Sessions  
+**Rachel** Lia Williams  
+**Eddie** Phil Daniels  
+**Pattie** Ruth Lass  
+**Clive** Andrew Lincoln  
+**Phyllis** Sophie Thompson
 
-**Actor**  
-Geoffrey Palmer  
-Frances Barber  
-Bill Nighy  
-John Sessions  
-Lia Williams  
-Phil Daniels  
-Ruth Lass  
-Andrew Lincoln  
-Sophie Thompson*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

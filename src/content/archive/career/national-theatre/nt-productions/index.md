@@ -19,24 +19,21 @@ This page has production details for all of Alan Ayckbourn's plays & plays he ha
 
 **Director:** Alan Ayckbourn & Peter Hall \*  
 **Design:** Timothy O’Brien & Tazeena Firth  
-**Lighting:** Peter Radmore**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Michael Gough  
-Joan Hickson  
-Michael Kitchen  
-Polly Adams  
-Derek Newark  
-Susan Littler  
-Stephen Moore  
-Maria Aitken**Notes:** Although Peter Hall is credited as co-director, after initially blocking the piece, he actually left Alan to direct the piece.  
-During the course of the National Theatre's run, there were several cast changes. These included Michael Stroud (Nick), Janet Key (Jan), Brenda Blethyn (Kate), Delia Lindsay (Susannah) and Sara Kestelman (Susannah). **Ayckbourn & The National**
+**Lighting:** Peter Radmore
+
+**Character** **Actor**  
+**Ernest** Michael Gough  
+**Delia** Joan Hickson  
+**Nick** Michael Kitchen  
+**Jan** Polly Adams  
+**Malcolm** Derek Newark  
+**Kate** Susan Littler  
+**Trevor** Stephen Moore  
+**Susannah** Maria Aitken
+
+**Notes:** Although Peter Hall is credited as co-director, after initially blocking the piece, he actually left Alan to direct the piece.  
+During the course of the National Theatre's run, there were several cast changes. These included Michael Stroud (Nick), Janet Key (Jan), Brenda Blethyn (Kate), Delia Lindsay (Susannah) and Sara Kestelman (Susannah).  
+**Ayckbourn & The National**
 
 ### Sisterly Feelings (1980)
 
@@ -51,31 +48,21 @@ During the course of the National Theatre's run, there were several cast changes
 **Design:** Alan Tagg  
 **Lighting:** David Hersey  
 **Costumes:** Lindy Hemming  
-**Sound:** Sue Fortescue**Character**  
-Dr Ralph Matthews  
-Abigail, his daughter  
-Dorcas, his daughter  
-Melvyn, his son  
-Len, Ralph’s brother-in-law  
-Rita, Len’s wife  
-Patrick, Abigail’s husband  
-Brenda, Melvyn’s fiancée  
-Simon, her brother  
-Stafford T Wilkins  
-Murphy  
-Major Lidgett**Actor**  
-Andrew Cruickshank  
-Penelope Wilton  
-Anna Carteret  
-Greg Hicks  
-Michael Bryant  
-Susan Williamson  
-Michael Gambon  
-Selina Cadell  
-Stephen Moore  
-Simon Callow  
-Michael Fenner  
-Gordon Whiting
+**Sound:** Sue Fortescue
+
+**Character** **Actor**  
+**Dr Ralph Matthews** Andrew Cruickshank  
+**Abigail, his daughter** Penelope Wilton  
+**Dorcas, his daughter** Anna Carteret  
+**Melvyn, his son** Greg Hicks  
+**Len, Ralph’s brother-in-law** Michael Bryant  
+**Rita, Len’s wife** Susan Williamson  
+**Patrick, Abigail’s husband** Michael Gambon  
+**Brenda, Melvyn’s fiancée** Selina Cadell  
+**Simon, her brother** Stephen Moore  
+**Stafford T Wilkins** Simon Callow  
+**Murphy** Michael Fenner  
+**Major Lidgett** Gordon Whiting
 
 ### Way Upstream (1982)
 
@@ -88,21 +75,16 @@ Gordon Whiting
 **Director:** Alan Ayckbourn  
 **Design:** Alan Tagg  
 **Lighting:** William Bundy  
-**Music:** Paul Todd**Character**  
-Keith  
-June, his wife  
-Alistair, his partner  
-Emma, his wife  
-Mrs Hatfield  
-Vince  
-Fleur**Actor**  
-Tony Haygarth  
-Susan Fleetwood  
-Jim Norton  
-Julie Legrand  
-Jane Downs  
-James Laurenson  
-Nina Thomas
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Keith** Tony Haygarth  
+**June, his wife** Susan Fleetwood  
+**Alistair, his partner** Jim Norton  
+**Emma, his wife** Julie Legrand  
+**Mrs Hatfield** Jane Downs  
+**Vince** James Laurenson  
+**Fleur** Nina Thomas
 
 ### A Chorus of Disapproval (1985)
 
@@ -117,47 +99,29 @@ Nina Thomas
 **Lighting:** Mick Hughes  
 **Musical Director:** Paul Todd  
 **Choreography:** Olivia Breeze  
-**Sound:** Gary Giles**Character**  
-Guy Jones  
-Dafydd ap Llewellyn  
-Hannah Llewellyn  
-Bridget Baines  
-Mr Ames  
-Enid Washbrook  
-Rebecca Huntley-Pike  
-Fay Hubbard  
-Ian Hubbard  
-Jarvis Huntley-Pike  
-Ted Washbrook  
-Crispin Usher  
-Linda Washbrook  
-Reginald Bickerdyke  
-Georgina Coombes  
-Monica Bickerdyke  
-Sharon Fitch  
-Colin Crockett  
-Tony Mofitt  
-Annie Anderson**Actor**  
-Bob Peck  
-Michael Gambon  
-Imelda Staunton  
-Jenny Galloway  
-Paul Todd  
-Jane Wenham  
-Moira Redmond  
-Gemma Craven  
-Paul Bentall  
-David Ryall  
-James Hayes  
-Daniel Flynn  
-Kelly Hunter  
-Michael Beint  
-Mary Chester  
-Kate Dyson  
-Virginia Greig  
-Robert Ralph  
-Simon Scott  
-Janet Whiteside
+**Sound:** Gary Giles
+
+**Character** **Actor**  
+**Guy Jones** Bob Peck  
+**Dafydd ap Llewellyn** Michael Gambon  
+**Hannah Llewellyn** Imelda Staunton  
+**Bridget Baines** Jenny Galloway  
+**Mr Ames** Paul Todd  
+**Enid Washbrook** Jane Wenham  
+**Rebecca Huntley-Pike** Moira Redmond  
+**Fay Hubbard** Gemma Craven  
+**Ian Hubbard** Paul Bentall  
+**Jarvis Huntley-Pike** David Ryall  
+**Ted Washbrook** James Hayes  
+**Crispin Usher** Daniel Flynn  
+**Linda Washbrook** Kelly Hunter  
+**Reginald Bickerdyke** Michael Beint  
+**Georgina Coombes** Mary Chester  
+**Monica Bickerdyke** Kate Dyson  
+**Sharon Fitch** Virginia Greig  
+**Colin Crockett** Robert Ralph  
+**Tony Mofitt** Simon Scott  
+**Annie Anderson** Janet Whiteside
 
 ### Tons Of Money (1986)
 
@@ -174,27 +138,19 @@ Janet Whiteside
 **Design:** Alan Tagg  
 **Lighting:** Mick Hughes  
 **Music:** Paul Todd  
-**Costumes:** Susan Yelland**Character**  
-Sprules  
-Simpson  
-Miss Benita Mullett  
-Louise Allington  
-Aubrey Maitland Allington  
-Giles  
-James Chesterman  
-Jean Everard  
-Henery  
-George Maitland**Actor**  
-Michael Gambon  
-Diane Bull  
-Barbara Hicks  
-Polly Adams  
-Simon Cadell  
-James Hayes  
-Russell Dixon  
-Marcia Warren  
-John Arthur  
-Michael Simkins
+**Costumes:** Susan Yelland
+
+**Character** **Actor**  
+**Sprules** Michael Gambon  
+**Simpson** Diane Bull  
+**Miss Benita Mullett** Barbara Hicks  
+**Louise Allington** Polly Adams  
+**Aubrey Maitland Allington** Simon Cadell  
+**Giles** James Hayes  
+**James Chesterman** Russell Dixon  
+**Jean Everard** Marcia Warren  
+**Henery** John Arthur  
+**George Maitland** Michael Simkins
 
 ### A Small Family Business (1987)
 
@@ -208,33 +164,24 @@ Michael Simkins
 **Design:** Alan Tagg  
 **Costumes:** Lindy Hemming  
 **Lighting:** Mick Hughes  
-**Music:** Paul Todd**Character**  
-Ken Ayres  
-Desmond Ayres  
-Harriet Ayres  
-Jack McCracken  
-Poppy McCracken  
-Cliff McCracken  
-Anita McCracken  
-Samantha McCracken  
-Tina Ruston  
-Roy Ruston  
-Yvonne Doggett  
-Benedict Hough  
-The Rivetti Brothers**Actor**  
-Ron Pember  
-John Arthur  
-Marcia Warren  
-Michael Gambon  
-Polly Adams  
-Russell Dixon  
-Elizabeth Bell  
-Suzan Sylvester  
-Diane Bull  
-Adrian Rawlins  
-Barbara Hicks  
-Simon Cadell  
-Michael Simkins**Note:** After Michael Gambon injured himself during rehearsals, the role of Jack McCracken was played by Allan Mitchell for two weeks until Gambon was able to return to the role. The original press night was postponed to 5 June to accommodate the absence of Gambon.
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Ken Ayres** Ron Pember  
+**Desmond Ayres** John Arthur  
+**Harriet Ayres** Marcia Warren  
+**Jack McCracken** Michael Gambon  
+**Poppy McCracken** Polly Adams  
+**Cliff McCracken** Russell Dixon  
+**Anita McCracken** Elizabeth Bell  
+**Samantha McCracken** Suzan Sylvester  
+**Tina Ruston** Diane Bull  
+**Roy Ruston** Adrian Rawlins  
+**Yvonne Doggett** Barbara Hicks  
+**Benedict Hough** Simon Cadell  
+**The Rivetti Brothers** Michael Simkins
+
+**Note:** After Michael Gambon injured himself during rehearsals, the role of Jack McCracken was played by Allan Mitchell for two weeks until Gambon was able to return to the role. The original press night was postponed to 5 June to accommodate the absence of Gambon.
 
 ### A View From The Bridge (1987)
 
@@ -249,35 +196,23 @@ Michael Simkins**Note:** After Michael Gambon injured himself during rehearsals,
 **Lighting:** Mick Hughes  
 **Sound:** Rob Barnard  
 **Costume Supervisor:** Helen Fitzwilliam  
-**Dialect Coach:** Joan Washington**Character**  
-Mike  
-Beatrice, Eddie's wife  
-Mr Lipari  
-Mrs Lipari  
-Louis  
-Submarine Woman  
-Eddie  
-Alfieri  
-First Immigration Officer  
-Rodolpho  
-Marco  
-Second Immigration Officer  
-Catherine, Eddie's niece  
-Tony**Actor**  
-John Arthur  
-Elizabeth Bell  
-Nigel Bellairs  
-Mary Chester  
-Russell Dixon  
-Kate Dyson  
-Michael Gambon  
-James Hayes  
-Allan Mitchell  
-Adrian Rawlins  
-Michael Simkins  
-Paul Stewart  
-Suzan Sylvester  
-Paul Todd
+**Dialect Coach:** Joan Washington
+
+**Character** **Actor**  
+**Mike** John Arthur  
+**Beatrice, Eddie's wife** Elizabeth Bell  
+**Mr Lipari** Nigel Bellairs  
+**Mrs Lipari** Mary Chester  
+**Louis** Russell Dixon  
+**Submarine Woman** Kate Dyson  
+**Eddie** Michael Gambon  
+**Alfieri** James Hayes  
+**First Immigration Officer** Allan Mitchell  
+**Rodolpho** Adrian Rawlins  
+**Marco** Michael Simkins  
+**Second Immigration Officer** Paul Stewart  
+**Catherine, Eddie's niece** Suzan Sylvester  
+**Tony** Paul Todd
 
 ### 'Tis Pity She's A Whore (1988)
 
@@ -294,41 +229,26 @@ Paul Todd
 **Costumes:** Sally Gardner  
 **Lighting:** Mick Hughes  
 **Music:** Paul Todd  
-**Fight Arranger:** Malcolm Ranson**Character**  
-Bonaventura  
-Giovanni  
-Vasques  
-Grimaldi  
-Florio  
-Donado  
-Soranzo  
-Putana  
-Annabella  
-Bergetto,  
-Poggio  
-Richardetto  
-Philotis  
-Hippolita  
-Officer  
-Servant to the Cardinal  
-A Cardinal**Actor**  
-Richard Cordery  
-Rupert Graves  
-Clive Francis  
-Paul Stewart  
-Ron Pember  
-Roger Hammond  
-Michael Simkins  
-Bridget Turner  
-Suzan Sylvester  
-Russell Dixon  
-Jim Barclay  
-Struan Rodger  
-Georgie Glen  
-Polly Adams  
-Peter Dineen  
-Adrian Jubb  
-Nigel Bellairs
+**Fight Arranger:** Malcolm Ranson
+
+**Character** **Actor**  
+**Bonaventura** Richard Cordery  
+**Giovanni** Rupert Graves  
+**Vasques** Clive Francis  
+**Grimaldi** Paul Stewart  
+**Florio** Ron Pember  
+**Donado** Roger Hammond  
+**Soranzo** Michael Simkins  
+**Putana** Bridget Turner  
+**Annabella** Suzan Sylvester  
+**Bergetto,** Russell Dixon  
+**Poggio** Jim Barclay  
+**Richardetto** Struan Rodger  
+**Philotis** Georgie Glen  
+**Hippolita** Polly Adams  
+**Officer** Peter Dineen  
+**Servant to the Cardinal** Adrian Jubb  
+**A Cardinal** Nigel Bellairs
 
 ### Invisible Friends (1991)
 
@@ -340,21 +260,16 @@ Nigel Bellairs
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Costumes:** Lynn Clarke**Character**  
-Lucy Baines  
-Joy, her mother  
-Walt, her father  
-Gary, her brother  
-Zara, her invisible friend  
-Felix, Zara’s father  
-Chuck, Zara’s brother**Actor**  
-Emma Chambers  
-Janet Dale  
-Bill Moody  
-Mark Benton  
-Claire Skinner  
-Simon Chandler  
-Robert Hands
+**Costumes:** Lynn Clarke
+
+**Character** **Actor**  
+**Lucy Baines** Emma Chambers  
+**Joy, her mother** Janet Dale  
+**Walt, her father** Bill Moody  
+**Gary, her brother** Mark Benton  
+**Zara, her invisible friend** Claire Skinner  
+**Felix, Zara’s father** Simon Chandler  
+**Chuck, Zara’s brother** Robert Hands
 
 ### Mr A's Amazing Maze Plays (1993)
 
@@ -365,23 +280,17 @@ Robert Hands
 
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
-**Lighting:** Mick Hughes**Character**  
-Suzy  
-Neville  
-Mother  
-Father  
-Mr Accousticus  
-Mr Passerby  
-1st Narrator  
-2nd Narrator**Actor**  
-Judith McSpadden  
-Adam Godley  
-Georgie Glen  
-Richard Long  
-Glyn Grain  
-John Branwell  
-Graeme Eton  
-James Simmons
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Suzy** Judith McSpadden  
+**Neville** Adam Godley  
+**Mother** Georgie Glen  
+**Father** Richard Long  
+**Mr Accousticus** Glyn Grain  
+**Mr Passerby** John Branwell  
+**1st Narrator** Graeme Eton  
+**2nd Narrator** James Simmons
 
 ### Two Weeks With The Queen (1994)
 
@@ -422,47 +331,29 @@ James Simmons
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
 **Music:** John Pattison  
-**Choreography:** Sheila Carter**Character**  
-Teddy Platt  
-Trish Platt  
-Sally Platt  
-Giles Mace  
-Joanna Mace  
-Jake Mace  
-Gavin Ryng-Mayne  
-Barry Love  
-Lindy Love  
-Lucille Cadeau  
-Fran Briggs  
-Warn Coucher  
-Izzie Truce  
-Pearl Truce  
-Rev. Colin Mallow  
-Cone Wharton  
-Caroline Perrit  
-Mervyn Peebles  
-Liddy Slike  
-Deidre Mallow**Actor**  
-David Haig  
-Jane Asher  
-Charlie Hayes  
-Michael Siberry  
-Sian Thomas  
-James Bradshaw  
-Malcolm Sinclair  
-Adrian McLoughlin  
-Suzy Aitchison  
-Zabou Breitman  
-Alexandra Mathie  
-Peter Laird  
-Antonia Pemberton  
-Nina Sosanya  
-Robin Browne  
-Andrew Fallaize  
-Penelope McGhie  
-Trevor Nichols  
-Deborah O'Malley  
-Leonie Wilde
+**Choreography:** Sheila Carter
+
+**Character** **Actor**  
+**Teddy Platt** David Haig  
+**Trish Platt** Jane Asher  
+**Sally Platt** Charlie Hayes  
+**Giles Mace** Michael Siberry  
+**Joanna Mace** Sian Thomas  
+**Jake Mace** James Bradshaw  
+**Gavin Ryng-Mayne** Malcolm Sinclair  
+**Barry Love** Adrian McLoughlin  
+**Lindy Love** Suzy Aitchison  
+**Lucille Cadeau** Zabou Breitman  
+**Fran Briggs** Alexandra Mathie  
+**Warn Coucher** Peter Laird  
+**Izzie Truce** Antonia Pemberton  
+**Pearl Truce** Nina Sosanya  
+**Rev. Colin Mallow** Robin Browne  
+**Cone Wharton** Andrew Fallaize  
+**Caroline Perrit** Penelope McGhie  
+**Mervyn Peebles** Trevor Nichols  
+**Liddy Slike** Deborah O'Malley  
+**Deidre Mallow** Leonie Wilde
 
 ### Season's Greetings (2010)
 
@@ -475,25 +366,18 @@ Leonie Wilde
 **Design:** Rae Smith  
 **Lighting:** Bruno Poet  
 **Music:** Stephen Warbeck  
-**Sound:** Mark Dickinson**Character**  
-Bernard  
-Belinda  
-Clive  
-Pattie  
-Phyllis  
-Neville  
-Harvey  
-Rachel  
-Eddie**Actor**  
-Mark Gatiss  
-Catherine Tate  
-Oliver Chris  
-Katherine Parkinson  
-Jenna Russell  
-Neil Stuke  
-David Troughton  
-Nicola Walker  
-Marc Wootton
+**Sound:** Mark Dickinson
+
+**Character** **Actor**  
+**Bernard** Mark Gatiss  
+**Belinda** Catherine Tate  
+**Clive** Oliver Chris  
+**Pattie** Katherine Parkinson  
+**Phyllis** Jenna Russell  
+**Neville** Neil Stuke  
+**Harvey** David Troughton  
+**Rachel** Nicola Walker  
+**Eddie** Marc Wootton
 
 ### A Small Family Business (2014)
 
@@ -508,33 +392,22 @@ Marc Wootton
 **Lighting:** Paul Anderson  
 **Music:** Grant Olding  
 **Fight Director:** Alison de Burgh  
-**Sound:** Gareth Fry**Character**  
-Desmond Ayres  
-Cliff McCracken  
-Benedict Hough  
-Poppy  
-Ken Ayres  
-Yvonne Doggett  
-Jack McCracken  
-Harriet  
-Tina  
-The Rivetti Brothers  
-Samantha  
-Roy Ruston  
-Anita**Actor**  
-Neal Barry  
-Stephen Beckett  
-Matthew Cottle  
-Debra Gillett  
-Gawn Grainger  
-Amanda Hadingue  
-Nigel Lindsay  
-Amy Marston  
-Rebecca McKinnis  
-Gerard Monaco  
-Alice Sykes  
-Samuel Taylor  
-Niky Wardley
+**Sound:** Gareth Fry
+
+**Character** **Actor**  
+**Desmond Ayres** Neal Barry  
+**Cliff McCracken** Stephen Beckett  
+**Benedict Hough** Matthew Cottle  
+**Poppy** Debra Gillett  
+**Ken Ayres** Gawn Grainger  
+**Yvonne Doggett** Amanda Hadingue  
+**Jack McCracken** Nigel Lindsay  
+**Harriet** Amy Marston  
+**Tina** Rebecca McKinnis  
+**The Rivetti Brothers** Gerard Monaco  
+**Samantha** Alice Sykes  
+**Roy Ruston** Samuel Taylor  
+**Anita** Niky Wardley
 
 ### Me, Myself and I (1985)
 
@@ -546,19 +419,14 @@ Niky Wardley
 **Director:** Alan Ayckbourn  
 **Musical Director:** Paul Todd  
 **Design:** Emma B Lloyd  
-**Lighting:** Steve Ramsden**Character**  
-Me  
-Myself  
-I  
-Man
+**Lighting:** Steve Ramsden
 
-Piano**Actor**  
-Jenny Galloway  
-Kelly Hunter  
-Kate Dyson  
-James Hayes
-
-Paul Todd
+**Character** **Actor**  
+**Me** Jenny Galloway  
+**Myself** Kelly Hunter  
+**I** Kate Dyson  
+**Man** James Hayes  
+**Piano** Paul Todd
 
 ### Mere Soup Songs (1986)
 
@@ -572,16 +440,13 @@ Paul Todd
 **Design:** Emma B Lloyd  
 **Lighting:** Steve Ramsden  
 **Sound:** Rob Barnard  
-**Sound:** Gary Giles**Character**  
-Charles  
-Janice  
-Michael  
-Annabelle
+**Sound:** Gary Giles
 
-Synthisiser**Actor**  
-Russell Dixon  
-Kate Dyson  
-Michael Simkins  
-Diane Bull
+**Character** **Actor**  
+**Charles** Russell Dixon  
+**Janice** Kate Dyson  
+**Michael** Michael Simkins  
+**Annabelle** Diane Bull  
+**Synthisiser** Paul Todd
 
-Paul Todd*All research for this page is by Simon Murgatroyd and should not be reproduced without crediting Simon Murgatroyd and this website.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without crediting Simon Murgatroyd and this website.*

@@ -15,6 +15,7 @@ If the catalogue content does not appear in the frame, the actual online catalog
 
 **Scarborough Library (The Library Theatre / Stephen Joseph Collection):** Programme for world premiere (1976) at the Theatre in the Round at the Library Theatre, Scarborough; brochure for the 1976 summer season at Theatre in the Round at the Library Theatre, Scarborough.
 
-**Scarborough Museums and Galleries (The Ayckbourn Collection):** Annotated rehearsal manuscript by Christopher Godwin for the World premiere at Theatre in the Round at the Library Theatre, Scarborough, in 1976. *The Research page is presented in association with the* ***[Borthwick Institute for Archives](/research/the-ayckbourn-archive)*** *at the University of York, where the Ayckbourn Archive is held. Further details about other collections and researching Alan Ayckbourn can be found in the* ***[Research](/research)*** *section of the website.*
+**Scarborough Museums and Galleries (The Ayckbourn Collection):** Annotated rehearsal manuscript by Christopher Godwin for the World premiere at Theatre in the Round at the Library Theatre, Scarborough, in 1976.  
+*The Research page is presented in association with the* ***[Borthwick Institute for Archives](/research/the-ayckbourn-archive)*** *at the University of York, where the Ayckbourn Archive is held. Further details about other collections and researching Alan Ayckbourn can be found in the* ***[Research](/research)*** *section of the website.*
 
 *If you have any research enquiries regarding Just Between Ourselves, please contact Alan Ayckbourn's archivist Simon Murgatroyd at* ***[research@alanayckbourn.net](mailto:research@alanayckbourn.net)***.  [![](./_images/web-175-dpi.jpg)](/research/the-ayckbourn-archive)

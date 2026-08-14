@@ -35,7 +35,8 @@ play: "dracula-sketch-from"
 ○ The Two Magicians (traditional song)  
 ○ The Demon Lovers (by Alison Skilbeck)  
 ○ She Moved Through the Fair (traditional song)  
-○ Levitation **Act 2**  
+○ Levitation  
+**Act 2**  
 ○ 'Enry Albert's Ghost (by Alan Ayckbourn and Bob Eaton)  
 ○ I Would go to Sea (by Bob Eaton)  
 ○ The Chicken (by Ken Campbell)  
@@ -45,4 +46,5 @@ play: "dracula-sketch-from"
 ○ The Devil & the Butcher (by Bob Eaton)  
 ○ Dracula (by Alan Ayckbourn)  
 ○ The Lyke Wake Dirge (traditional song)  
-○ What the Devil! (by Bob Eaton & Peggy Warren) *All research for this page by Simon Murgatroyd.*
+○ What the Devil! (by Bob Eaton & Peggy Warren)  
+*All research for this page by Simon Murgatroyd.*

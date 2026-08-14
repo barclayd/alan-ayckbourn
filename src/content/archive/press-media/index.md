@@ -15,7 +15,8 @@ Mel Kenyon: **[mel@casarotto.co.uk](mailto:mel@casarotto.co.uk)**
 Zoë Tunstall: **[zoe@casarotto.co.uk](mailto:zoe@casarotto.co.uk)**
 
 **Research Enquiries**  
-Simon Murgatroyd: **[press@alanayckbourn.net](mailto:admin@alanayckbourn.net)** **Stephen Joseph Theatre (SJT) press enquires**  
+Simon Murgatroyd: **[press@alanayckbourn.net](mailto:admin@alanayckbourn.net)**  
+**Stephen Joseph Theatre (SJT) press enquires**  
 Jeannie Swales: **[jeannie.swales@sjt.uk.com](mailto:jeannie.swales@sjt.uk.com)**
 
 Enquiries for productions not directed by Alan Ayckbourn should be directed to the relevant theatre / publicity team. Please do not contact this website or the SJT with these enquiries.
@@ -62,7 +63,8 @@ In these cases, please contact the venue where the production is taking place - 
 As of 2026, Alan Ayckbourn has written **92** full-length plays.
 
 **Where can I find the answers to more general FAQs about Sir Alan Ayckbourn?**  
-The website's general FAQs section can be found **[here](/life/ayckbourn-faqs)**.**Interview Request Advice**  
+The website's general FAQs section can be found **[here](/life/ayckbourn-faqs)**.  
+**Interview Request Advice**  
 i) Interview requests regarding Sir Alan's own self-directed, forthcoming productions - particularly those he directs at the Stephen Joseph Theatre - are most likely to be accepted.
 
 ii) Interview requests regarding productions of his own plays, but which he is not directing, are unlikely to be accepted.

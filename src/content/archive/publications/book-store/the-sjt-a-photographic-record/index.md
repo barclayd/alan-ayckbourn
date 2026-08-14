@@ -21,7 +21,8 @@ postage & packing
 **Title:** Stephen Joseph Theatre: A Photographic Record  
 **Author:** Adrian Gatie & Alan Ayckbourn  
 **Published:** 1996  
-**Price:** £8 (P&P included - UK only) **Pages:** 36 (B/W)  
+**Price:** £8 (P&P included - UK only)  
+**Pages:** 36 (B/W)  
 **Format:** Softcover, A5 landscape, glossy  
 **Publisher:** Stephen Joseph Theatre  
 **ISBN:** 0952833204

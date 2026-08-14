@@ -12,4 +12,5 @@ order: 2334
 *(2010)*
 
 "Above any director I have worked with, he encourages a sense of merriment and happiness in the rehearsal room. He trusts actors, enjoys the company of actors and loves to watch actors at work."  
-*(2011)**Copyright: Michael Simkins. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2011)*  
+*Copyright: Michael Simkins. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

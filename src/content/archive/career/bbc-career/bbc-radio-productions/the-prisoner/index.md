@@ -8,32 +8,24 @@ order: 653
 
 ### Production Details
 
-**Author:**
+**Author:** Don Haworth  
+**Broadcast:** 5 September 1969 @ 8.10pm  
+**Channel:** BBC Radio 3
 
-**Broadcast:**  
-**Channel:**Don Haworth
+**Director:**  
+Alan Ayckbourn
 
-5 September 1969 @ 8.10pm  
-BBC Radio 3**Director:**Alan Ayckbourn**Character**  
-Policema  
-Magistrate  
-Stanley Warburton  
-Mother  
-Potter  
-Vera  
-Mrs Cartwright  
-Mr Cubbins  
-Alderman Walter Wingle  
-Onlooker  
-Inspector**Actor**  
-Sam Kelly  
-Geoffrey Banks  
-Colin Edwynn  
-Marjorie Rhodes  
-Bob Grant  
-Heather Stoney  
-Eileen Derbyshire  
-Geoffrey Banks  
-David Jackson  
-Harry Markham  
-Brian Miller*All research for this page by Simon Murgatroyd.*
+**Character** **Actor**  
+**Policema** Sam Kelly  
+**Magistrate** Geoffrey Banks  
+**Stanley Warburton** Colin Edwynn  
+**Mother** Marjorie Rhodes  
+**Potter** Bob Grant  
+**Vera** Heather Stoney  
+**Mrs Cartwright** Eileen Derbyshire  
+**Mr Cubbins** Geoffrey Banks  
+**Alderman Walter Wingle** David Jackson  
+**Onlooker** Harry Markham  
+**Inspector** Brian Miller
+
+*All research for this page by Simon Murgatroyd.*

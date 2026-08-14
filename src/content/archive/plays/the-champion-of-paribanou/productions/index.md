@@ -22,35 +22,23 @@ play: "the-champion-of-paribanou"
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Vivianne Baxter  
-**Assistant Stage Manager:** Gemma Brooks**Character**  
-The Sultan  
-Houssain, his first son  
-Ali, his second son  
-Ahmed, his third son  
-The Grand Vizier  
-Murganah, his daughter  
-The Princess Nouronnihar  
-Safia, her maid  
-Salim, an emissary  
-A Highwayman  
-Schaibar  
-An Innkeeper  
-Paribanou  
-Nasuh, her servant**Actor**  
-Malcolm Rennie  
-Andrew Mallett  
-Howard Saddler  
-Jonathan McGuinness  
-Adrian McLoughlin  
-Pauline Turner  
-Eleanor Tremain  
-Kate Farrah  
-Colin Gourley  
-Malcolm Rennie  
-Colin Gourley  
-Wolf Christian  
-Kate Farrah  
-Wolf Christian
+**Assistant Stage Manager:** Gemma Brooks
+
+**Character** **Actor**  
+**The Sultan** Malcolm Rennie  
+**Houssain, his first son** Andrew Mallett  
+**Ali, his second son** Howard Saddler  
+**Ahmed, his third son** Jonathan McGuinness  
+**The Grand Vizier** Adrian McLoughlin  
+**Murganah, his daughter** Pauline Turner  
+**The Princess Nouronnihar** Eleanor Tremain  
+**Safia, her maid** Kate Farrah  
+**Salim, an emissary** Colin Gourley  
+**A Highwayman** Malcolm Rennie  
+**Schaibar** Colin Gourley  
+**An Innkeeper** Wolf Christian  
+**Paribanou** Kate Farrah  
+**Nasuh, her servant** Wolf Christian
 
 ### Revival (2005)
 
@@ -68,32 +56,22 @@ Wolf Christian
 
 **Stage Manager:** Emily Vickers  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Lisa Mellor**Character**  
-The Sultan  
-Houssain, his first son  
-Ali, his second son  
-Ahmed, his third son  
-The Grand Vizier  
-Murganah, his daughter  
-The Princess Nouronnihar  
-Safia, her maid  
-Salim, an emissary  
-A Highwayman  
-Schaibar  
-An Innkeeper  
-Paribanou  
-Nasuh, her servant**Actor**  
-Robert Austin  
-Stuart Burt  
-Justin Brett  
-Neil Grainger  
-Paul Kemp  
-Laura Doddington  
-Sarah Moyle  
-Sarah Manton  
-Marc Small  
-Robert Austin  
-Marc Small  
-Tom Sherman  
-Sarah Manton  
-Tom Sherman*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Lisa Mellor
+
+**Character** **Actor**  
+**The Sultan** Robert Austin  
+**Houssain, his first son** Stuart Burt  
+**Ali, his second son** Justin Brett  
+**Ahmed, his third son** Neil Grainger  
+**The Grand Vizier** Paul Kemp  
+**Murganah, his daughter** Laura Doddington  
+**The Princess Nouronnihar** Sarah Moyle  
+**Safia, her maid** Sarah Manton  
+**Salim, an emissary** Marc Small  
+**A Highwayman** Robert Austin  
+**Schaibar** Marc Small  
+**An Innkeeper** Tom Sherman  
+**Paribanou** Sarah Manton  
+**Nasuh, her servant** Tom Sherman
+
+*All research for this page by Simon Murgatroyd.*

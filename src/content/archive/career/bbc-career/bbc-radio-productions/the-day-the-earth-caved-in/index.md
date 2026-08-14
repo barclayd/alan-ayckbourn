@@ -8,34 +8,26 @@ order: 622
 
 ### Production Details
 
-**Author:**
+**Author:** Neil Kingsley  
+**Broadcast:** 18 July 1966 @ 8pm  
+**Channel:** BBC Light Programme
 
-**Broadcast:**  
-**Channel:**Neil Kingsley
+**Director:**  
+Alan Ayckbourn
 
-18 July 1966 @ 8pm  
-BBC Light Programme**Director:**Alan Ayckbourn**Character**  
-Bill  
-Jane  
-Len  
-Clare  
-Sid  
-Arn  
-Tom  
-Jimmy  
-Dave  
-Andy**Actor**  
-Colin Edwynn  
-Sara Aimson  
-Derrick Gilbert  
-Veronica Doran  
-Robert Powell  
-Bruce Bould  
-Ronald Harvi  
-Jim Wiggins  
-Harry Markham  
-Laurence Bould
+**Character** **Actor**  
+**Bill** Colin Edwynn  
+**Jane** Sara Aimson  
+**Len** Derrick Gilbert  
+**Clare** Veronica Doran  
+**Sid** Robert Powell  
+**Arn** Bruce Bould  
+**Tom** Ronald Harvi  
+**Jimmy** Jim Wiggins  
+**Dave** Harry Markham  
+**Andy** Laurence Bould
 
 ### Notes
 
-○ *The Day The Earth Caved In* was one part of a series of radio plays titled *Escape*, each one dealing with a different story of an escape.*All research for this page by Simon Murgatroyd.*
+○ *The Day The Earth Caved In* was one part of a series of radio plays titled *Escape*, each one dealing with a different story of an escape.  
+*All research for this page by Simon Murgatroyd.*

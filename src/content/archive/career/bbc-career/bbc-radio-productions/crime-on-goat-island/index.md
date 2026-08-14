@@ -8,20 +8,18 @@ order: 621
 
 ### Production Details
 
-**Author:**
+**Author:** Ugo Betti  
+**Broadcast:** 23 June 1969 @ 8.30pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Ugo Betti
+**Director:**  
+Alan Ayckbourn
 
-23 June 1969 @ 8.30pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Agata  
-Eduardo  
-Pia  
-Angelo  
-Silvia**Actor**  
-Rosalie Crutchley  
-Brian Miller  
-Heather Stoney  
-Michael Graham Cox  
-Elisabeth Sladen*All research for this page by Simon Murgatroyd.*
+**Character** **Actor**  
+**Agata** Rosalie Crutchley  
+**Eduardo** Brian Miller  
+**Pia** Heather Stoney  
+**Angelo** Michael Graham Cox  
+**Silvia** Elisabeth Sladen
+
+*All research for this page by Simon Murgatroyd.*

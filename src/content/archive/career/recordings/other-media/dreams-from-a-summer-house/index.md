@@ -21,26 +21,18 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 **Availability**  
 **Cassette:** 1992 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Musical Director**
+**Digital:** Not available
 
-**Character**  
-Robert, an artist  
-Amanda, his ex-wife  
-Sinclair, her 2nd husband  
-Chrissie, her mother  
-Grayson, her father  
-Mel, her sister  
-Belle, a beauty  
-Baldemar, a beastAlan Ayckbourn  
-John Pattison
+**Director** Alan Ayckbourn  
+**Musical Director** John Pattison  
+**Character** **Actor**  
+**Robert, an artist** Dale Rapley  
+**Amanda, his ex-wife** Janie Dee  
+**Sinclair, her 2nd husband** David McAlister  
+**Chrissie, her mother** Christine Cox  
+**Grayson, her father** James Tomlinson  
+**Mel, her sister** Judith McSpadden  
+**Belle, a beauty** Jan Hartley  
+**Baldemar, a beast** Anthony Venditti
 
-**Actor**  
-Dale Rapley  
-Janie Dee  
-David McAlister  
-Christine Cox  
-James Tomlinson  
-Judith McSpadden  
-Jan Hartley  
-Anthony Venditti*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

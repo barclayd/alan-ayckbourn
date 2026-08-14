@@ -18,33 +18,23 @@ play: "bedroom-farce"
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Design**  
-**Title Music**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-SusannahChristopher Morahan  
-Vic Symonds  
-Harrison Birtwhistle  
-Pieter Rogers
+**Director** Christopher Morahan  
+**Design** Vic Symonds  
+**Title Music** Harrison Birtwhistle  
+**Producer** Pieter Rogers  
+**Character** **Actor**  
+**Ernest** Michael Denison  
+**Delia** Joan Hickson  
+**Nick** Michael Kitchen  
+**Jan** Polly Adams  
+**Malcolm** Derek Newark  
+**Kate** Brenda Blethyn  
+**Trevor** Stephen Moore  
+**Susannah** Maria Aitken
 
-**Actor**  
-Michael Denison  
-Joan Hickson  
-Michael Kitchen  
-Polly Adams  
-Derek Newark  
-Brenda Blethyn  
-Stephen Moore  
-Maria Aitken**Notes**: *Bedroom Farce* was based on the National Theatre's 1977 production of the play and was one of three National Theatre productions - alongside W. Somerset Maugham's *For Services Rendered* and William Congreve's *The Double Dealer* - adapted by Granada for television.
+**Notes**: *Bedroom Farce* was based on the National Theatre's 1977 production of the play and was one of three National Theatre productions - alongside W. Somerset Maugham's *For Services Rendered* and William Congreve's *The Double Dealer* - adapted by Granada for television.
 
 ### Radio (2022)
 
@@ -59,26 +49,19 @@ Maria Aitken**Notes**: *Bedroom Farce* was based on the National Theatre's 1977 
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Music**
+**Digital:** Not available
 
-**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-SusannahMartin Jarvis  
-A-Mnemonic
+**Director** Martin Jarvis  
+**Music** A-Mnemonic  
+**Character** **Actor**  
+**Ernest** Martin Jarvis  
+**Delia** Rosalind Ayres  
+**Nick** Edward Bennett  
+**Jan** Lisa Dillon  
+**Malcolm** George Blagden  
+**Kate** Laura Pitt-Pulford  
+**Trevor** Stephen Mangan  
+**Susannah** Susannah Fielding
 
-**Actor**  
-Martin Jarvis  
-Rosalind Ayres  
-Edward Bennett  
-Lisa Dillon  
-George Blagden  
-Laura Pitt-Pulford  
-Stephen Mangan  
-Susannah Fielding\* *Bedroom Farce* was broadcast in two parts on News Year's Eve 2022 and New Year's Day 2023.*All research for this page by Simon Murgatroyd.*
+\* *Bedroom Farce* was broadcast in two parts on News Year's Eve 2022 and New Year's Day 2023.  
+*All research for this page by Simon Murgatroyd.*

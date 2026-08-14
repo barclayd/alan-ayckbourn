@@ -21,31 +21,22 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and A
 **Availability**  
 **Cassette:** Not available  
 **CD:** 1996 (deleted)  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Bertie Wooster  
-Jeeves  
-Watkyn Bassett  
-Madeleine Bassett  
-Gussie Fink-Nottle  
-Bingo Little  
-Honoria Glossop  
-Stiffy Byng  
-Cyrus Budge III  
-'Stinker' PinkerAlan Ayckbourn
+**Director** Alan Ayckbourn  
+**Character** **Actor**  
+**Bertie Wooster** Steven Pacey  
+**Jeeves** Malcolm Sinclair  
+**Watkyn Bassett** Robert Austin  
+**Madeleine Bassett** Diana Morrison  
+**Gussie Fink-Nottle** Simon Day  
+**Bingo Little** Nicholas Haverson  
+**Honoria Glossop** Lucy Tregear  
+**Stiffy Byng** Cathy Sara  
+**Cyrus Budge III** Nicolas Collicos  
+**'Stinker' Pinker** Richard Long
 
-**Actor**  
-Steven Pacey  
-Malcolm Sinclair  
-Robert Austin  
-Diana Morrison  
-Simon Day  
-Nicholas Haverson  
-Lucy Tregear  
-Cathy Sara  
-Nicolas Collicos  
-Richard Long**Notes:** *By Jeeves* was released as a limited edition CD in 1996 available solely through the Stephen Joseph Theatre, Scarborough. The CD was recorded over two live performances at the Stephen Joseph Theatre and subsequently sold during the show's run at the venue.
+**Notes:** *By Jeeves* was released as a limited edition CD in 1996 available solely through the Stephen Joseph Theatre, Scarborough. The CD was recorded over two live performances at the Stephen Joseph Theatre and subsequently sold during the show's run at the venue.
 
 ### Radio (1996)
 
@@ -59,37 +50,25 @@ Richard Long**Notes:** *By Jeeves* was released as a limited edition CD in 1996 
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptor**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Bertie Wooster  
-Jeeves  
-Watkyn Bassett  
-Madeleine Bassett  
-Gussie Fink-Nottle  
-Bingo Little  
-Honoria Glossop  
-Stiffy Byng  
-Cyrus Budge III  
-'Stinker' Pinker  
-Chorus Kate Young  
-Alan Ayckbourn  
-Ned Chaillet
+**Director** Kate Young  
+**Adaptor** Alan Ayckbourn  
+**Producer** Ned Chaillet  
+**Character** **Actor**  
+**Bertie Wooster** Steven Pacey  
+**Jeeves** Malcolm Sinclair  
+**Watkyn Bassett** Robert Austin  
+**Madeleine Bassett** Diana Morrison  
+**Gussie Fink-Nottle** Simon Day  
+**Bingo Little** Nicholas Haverson  
+**Honoria Glossop** Lucy Tregear  
+**Stiffy Byng** Cathy Sara  
+**Cyrus Budge III** Nicolas Collicos  
+**'Stinker' Pinker** Richard Long  
+**Chorus** Denise Silvey / Giles Taylor / Mike Windsor
 
-**Actor**  
-Steven Pacey  
-Malcolm Sinclair  
-Robert Austin  
-Diana Morrison  
-Simon Day  
-Nicholas Haverson  
-Lucy Tregear  
-Cathy Sara  
-Nicolas Collicos  
-Richard Long  
-Denise Silvey / Giles Taylor / Mike Windsor**Note:** This production was specially adapted for BBC Radio by Alan Ayckbourn and includes spoken dialogue exclusive to this version. Of particular note is that, despite Alan Ayckbourn being a professional Radio Drama Producer at the BBC between 1965 and 1970, this production marked the first time Alan Ayckbourn had ever adapted one of his own works for the radio.
+**Note:** This production was specially adapted for BBC Radio by Alan Ayckbourn and includes spoken dialogue exclusive to this version. Of particular note is that, despite Alan Ayckbourn being a professional Radio Drama Producer at the BBC between 1965 and 1970, this production marked the first time Alan Ayckbourn had ever adapted one of his own works for the radio.
 
 ### Original London Cast Recording (1996)
 
@@ -103,31 +82,20 @@ Denise Silvey / Giles Taylor / Mike Windsor**Note:** This production was special
 **Availability**  
 **Cassette:** Not available  
 **CD:** 1996 (deleted)  
-**Digital:** 2013 (available)**Director**
+**Digital:** 2013 (available)
 
-**Character**  
-Bertie Wooster  
-Jeeves  
-Watkyn Bassett  
-Madeleine Bassett  
-Gussie Fink-Nottle  
-Bingo Little  
-Honoria Glossop  
-Stiffy Byng  
-Cyrus Budge III  
-'Stinker' PinkerAlan Ayckbourn
-
-**Actor**  
-Steven Pacey  
-Malcolm Sinclair  
-Robert Austin  
-Diana Morrison  
-Simon Day  
-Nicholas Haverson  
-Lucy Tregear  
-Cathy Sara  
-Nicolas Collicos  
-Richard Long
+**Director** Alan Ayckbourn  
+**Character** **Actor**  
+**Bertie Wooster** Steven Pacey  
+**Jeeves** Malcolm Sinclair  
+**Watkyn Bassett** Robert Austin  
+**Madeleine Bassett** Diana Morrison  
+**Gussie Fink-Nottle** Simon Day  
+**Bingo Little** Nicholas Haverson  
+**Honoria Glossop** Lucy Tregear  
+**Stiffy Byng** Cathy Sara  
+**Cyrus Budge III** Nicolas Collicos  
+**'Stinker' Pinker** Richard Long
 
 ### Television (2001)
 
@@ -141,43 +109,26 @@ Richard Long
 **Video:** 2002 (deleted)  
 **DVD (R2):** 2002 (deleted)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Film Director**  
-**Music**  
-**Design**  
-**Costume Design**  
-**Choreographer**  
-**Musical Director**
+**Digital:** Not available
 
-**Character**  
-Honoria Glossop  
-Jeeves  
-Gussie Fink-Nottle  
-Harold 'Stinker' Pinker  
-Sir Watkyn Bassett  
-Stiffy Bing  
-Bertie Wooster  
-Bingo Little  
-Madeline Bassett  
-Cyrus Budge IIIAlan Ayckbourn  
-Nick Morris  
-Andrew Lloyd Webber  
-Roger Glossop  
-Louise Belson  
-Sheila Carter  
-Michael O'Flaherty
-
-**Actor**  
-Donna Lynne Champlin  
-Martin Jarvis  
-James Kall  
-Ian Knauer  
-Heath Lamberts  
-Emily Loesser  
-John Scherer  
-Don Stephenson  
-Becky Watson  
-Steve Wilson
+**Director** Alan Ayckbourn  
+**Film Director** Nick Morris  
+**Music** Andrew Lloyd Webber  
+**Design** Roger Glossop  
+**Costume Design** Louise Belson  
+**Choreographer** Sheila Carter  
+**Musical Director** Michael O'Flaherty  
+**Character** **Actor**  
+**Honoria Glossop** Donna Lynne Champlin  
+**Jeeves** Martin Jarvis  
+**Gussie Fink-Nottle** James Kall  
+**Harold 'Stinker' Pinker** Ian Knauer  
+**Sir Watkyn Bassett** Heath Lamberts  
+**Stiffy Bing** Emily Loesser  
+**Bertie Wooster** John Scherer  
+**Bingo Little** Don Stephenson  
+**Madeline Bassett** Becky Watson  
+**Cyrus Budge III** Steve Wilson
 
 ### Original Broadway Cast Recording (2001)
 
@@ -191,28 +142,19 @@ Steve Wilson
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2001 (deleted)  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Bertie Wooster  
-Jeeves  
-Honoria Glossop  
-Harold 'Stinker' Pinker  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeleine Bassett  
-Stiffy Byng  
-Bingo Little  
-Cyrus Budge III JuniorAlan Ayckbourn
+**Director** Alan Ayckbourn  
+**Character** **Actor**  
+**Bertie Wooster** John Scherer  
+**Jeeves** Martin Jarvis  
+**Honoria Glossop** Donna Lynne Champlin  
+**Harold 'Stinker' Pinker** Ian Knauer  
+**Gussie Fink-Nottle** James Kall  
+**Sir Watkyn Bassett** Sam Tsoutsouvas  
+**Madeleine Bassett** Becky Watson  
+**Stiffy Byng** Emily Loesser  
+**Bingo Little** Don Stephenson  
+**Cyrus Budge III Junior** Steve Wilson
 
-**Actor**  
-John Scherer  
-Martin Jarvis  
-Donna Lynne Champlin  
-Ian Knauer  
-James Kall  
-Sam Tsoutsouvas  
-Becky Watson  
-Emily Loesser  
-Don Stephenson  
-Steve Wilson*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

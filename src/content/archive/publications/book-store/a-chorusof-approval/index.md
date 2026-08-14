@@ -19,10 +19,12 @@ If you have any enquiries about *A Chorus of Approval* or are enquiring about in
 **Title:** A Chorus of Approval  
 **Author:** Jeannie Swales  
 **Published:** 1999  
-**Price:** £10 (P&P included - UK only) **Pages:** 72 (B/W with spot colour)  
+**Price:** £10 (P&P included - UK only)  
+**Pages:** 72 (B/W with spot colour)  
 **Format:** Softcover, A4, glossy  
 **Publisher:** Stephen Joseph Theatre  
-**ISBN:** N/A   [![](./_images/stacks-image-e293e8e-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+**ISBN:** N/A  
+[![](./_images/stacks-image-e293e8e-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

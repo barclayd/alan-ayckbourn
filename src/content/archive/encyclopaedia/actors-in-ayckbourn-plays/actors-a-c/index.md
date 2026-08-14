@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-12/page49.html"
 order: 800
 ---
 
-This is a comprehensive list of the actors (surnames A - C) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Peter Ackerman:** Making Tracks (WP 1981)  
+This is a comprehensive list of the actors (surnames A - C) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**Peter Ackerman:** Making Tracks (WP 1981)  
 **Polly Adams:** Bedroom Farce (NT 1977); Tons Of Money (NT 1986); A Small Family Business (NT 1987)  
 **Rosalind Adams:** The Norman Conquests (WP 1973)  
 **Matt Addis:** Season's Greetings (AR 2019)  
@@ -187,4 +188,5 @@ This is a comprehensive list of the actors (surnames A - C) who have appeared in
 **Andy Cryer:** The Divide (WP 2015); The Karaoke Theatre Company (WP 2016); Consuming Passions (WP 2016); Henceforward… (AR 2016); Season's Greetings (AR 2019); Constant Companions (WP 2023); Truth Will Out (WP 2023)  
 **Simon Cryer:** Cheap And Cheerful (WP 1999)  
 **David Cunningham:** Man Of The Moment (LT 1990)  
-**Marilyn Cutts:** How The Other Half Loves (AR 2009)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**Marilyn Cutts:** How The Other Half Loves (AR 2009)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

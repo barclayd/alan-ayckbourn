@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The complex branching structure for *Intimate Exchanges* (a single scene leading to 16 possible variations of the play) was actually initially conceived for his 1979 play *Sisterly Feelings* - as these early notes by the playwright show. He would simplify the structure for this play, but re-use the structure for *Intimate Exchanges*.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-c9d37c1.jpg)
@@ -48,6 +51,7 @@ The poster for the 2006 / 2007 revival of *Intimate Exchanges* at the Stephen Jo
 **Copyright:** Scarborough Theatre Trust  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

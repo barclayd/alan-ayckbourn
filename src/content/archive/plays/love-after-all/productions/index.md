@@ -48,4 +48,5 @@ play: "love-after-all"
 
 **Notes**  
 ◦ *Love After All* was initially scheduled to run in repertory from 30 June - 6 July, 28 July - 3 August and 8 - 10 September. However, the entire season was re-scheduled after the opening production *'Prentice Pillar* had the rest of its run pulled. As a result, *Love After All* was performed from 30 June - 13 July and then 28 July - 3 August.  
-◦ The Assistant Stage Manager for the 1960 season - who also worked on *Love After All* - was Martin Carthy, who would go on to become one of the most famed British folk singers of his generation.*All research for this page by Simon Murgatroyd.*
+◦ The Assistant Stage Manager for the 1960 season - who also worked on *Love After All* - was Martin Carthy, who would go on to become one of the most famed British folk singers of his generation.  
+*All research for this page by Simon Murgatroyd.*

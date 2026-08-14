@@ -15,4 +15,5 @@ order: 2336
 "He’s very loyal with actors. I remember the read through. The calibre of actors was ridiculous: David Haig, Sian Thomas, Jane Asher. They all seemed to grasp the style straight away. Their timing was impeccable, their characterisation outstanding. While I was desperately trying to find a subtext or a fresh angle, they knew it was already there on the page. Alan knows exactly how to get a laugh.
 
 "Really, his England is no different from anywhere else. It’s a microcosm for examining human interactions such as love and betrayal, trust and friendship. *House & Garden* is absolutely not about a country fête. It’s a shame we don’t see more Ayckbourn today. There’s almost a feeling it’s too of its time. Too establishment, too middle-class, too white. I wish they were marketed a bit differently. He’s due a renaissance because, well, he’s a master."  
-*(2019)**Copyright: Nina Sosanya. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Nina Sosanya. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

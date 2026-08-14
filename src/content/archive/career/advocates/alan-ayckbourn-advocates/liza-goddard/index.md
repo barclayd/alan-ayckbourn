@@ -18,4 +18,5 @@ order: 2321
 *(2008)*
 
 "He never overworks you. Before you come into rehearsals you know exactly what you are doing - everything is so meticulously planned out in a schedule so you can work on things before you arrive and it also means that he is so organised that you will have had 10 or 12 full run throughs before the opening night, so there's never a sense of feeling unprepared."  
-*(2008)**Copyright: Liza Goddard. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2008)*  
+*Copyright: Liza Goddard. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

@@ -34,4 +34,5 @@ order: 562
 "Stanley Page as the cockney driver sighing for the corned beef of yesteryear; David Jarrett as the mysterious outsider; and Alan Ayckbourn as the meticulous, humourless public servant, come together to make a brilliant trio of Expectant Fatherdom."
 
 **Review extract from an unknown publication** (14 July 1961)  
-"Stanley Page, as the driver, finds a part ideally suited to his warm style of comedy, and Alan Ayckbourn makes him an excellent foil as the law-abiding young man who suddenly finds he has broken the law."*All research for this page by Simon Murgatroyd.*
+"Stanley Page, as the driver, finds a part ideally suited to his warm style of comedy, and Alan Ayckbourn makes him an excellent foil as the law-abiding young man who suddenly finds he has broken the law."  
+*All research for this page by Simon Murgatroyd.*

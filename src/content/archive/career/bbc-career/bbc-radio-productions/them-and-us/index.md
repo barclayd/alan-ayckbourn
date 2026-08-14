@@ -8,22 +8,20 @@ order: 661
 
 ### Production Details
 
-**Author:**
+**Author:** Pam Tickell  
+**Broadcast:** 17 April 1966  
+**Channel:** North of England Home Service
 
-**Broadcast:**  
-**Channel:**Pam Tickell
+**Director:**  
+Alan Ayckbourn
 
-17 April 1966  
-North of England Home Service**Director:**Alan Ayckbourn**Character**  
-Violet  
-Pauline  
-Mr Helliwell  
-Bert**Actor**  
-Elizabeth Ashton  
-Helen Fraser  
-David Mahlowe  
-Harry Markham
+**Character** **Actor**  
+**Violet** Elizabeth Ashton  
+**Pauline** Helen Fraser  
+**Mr Helliwell** David Mahlowe  
+**Bert** Harry Markham
 
 ### Notes
 
-○ *Them And Us* was repeated on the BBC Home Service on 5 April 1967 as part of a series called *Five From The North* highlighting northern writers.*All research for this page by Simon Murgatroyd.*
+○ *Them And Us* was repeated on the BBC Home Service on 5 April 1967 as part of a series called *Five From The North* highlighting northern writers.  
+*All research for this page by Simon Murgatroyd.*

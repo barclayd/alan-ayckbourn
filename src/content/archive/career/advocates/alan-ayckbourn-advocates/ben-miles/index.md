@@ -13,4 +13,5 @@ order: 2329
 "He has this genius for structure. *The Norman Conquests* is so beautifully orchestrated. One country weekend seen in three separate rooms, and the audience get such a thrill seeing events in the second play echoing something they’ve seen earlier on. The trick is that the audience knows more than the characters on stage. It’s a delight to witness and a joy to play. You’re thinking, 'Just wait until you see what’s going on next door in part three.'
 
 "We were all worried it wouldn’t work on Broadway. 'No one’s going to know where the A218 is or what Guildford even is. Surely, no one’s going to care about Sugar Puffs.' But it went down incredibly well. There’s a huge Ayckbourn fanbase in New York. I’m doing The Lehman Trilogy here now and people have come up to me saying *The Norman Conquests* was one of the best times they’ve had in a theatre. They loved seeing this chaotic little England. Ayckbourn ranks very highly in the anglophile’s handbook out here - up there with Shakespeare, Monty Python and *Fawlty Towers*."  
-*(2019)**Copyright: Ben Miles. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Ben Miles. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

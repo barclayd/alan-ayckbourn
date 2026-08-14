@@ -8,34 +8,29 @@ order: 472
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** August Strindberg  
+**New Play:** No  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round
 
-**Venue:**  
-**Staging:**August Strindberg  
-No
-
-Victoria Theatre, Stoke-on-Trent  
-Round**First performance:**  
-**Final performance:**10 June 1963  
+**First performance:**  
+**Final performance:**  
+10 June 1963  
 Unknown
 
 ### Company Details
 
-**Director:**
+**Director:** Alan Ayckbourn  
+**Stage Manager:** Andrew McKillop
 
-**Stage Manager:**Alan Ayckbourn
-
-Andrew McKillop**Character**  
-Miss Julie  
-Jean, her father's valet  
-Christine, her father's cook**Actor**  
-Elizabeth Bell  
-Peter King  
-Caroline Smith
+**Character** **Actor**  
+**Miss Julie** Elizabeth Bell  
+**Jean, her father's valet** Peter King  
+**Christine, her father's cook** Caroline Smith
 
 ### Notes
 
 ○ This was the UK premiere of Michael Meyer's adaptation of Strindberg's classic play *Miss Julie*.  
 ○ *Miss Julie* was presented in a double bill with ***[The Rainbow Machine](/career/directing-career/the-rainbow-machine)***.  
-○ Information for this page has been provided by The Michael T Mooney Archive.*All research for this page by Simon Murgatroyd.*
+○ Information for this page has been provided by The Michael T Mooney Archive.  
+*All research for this page by Simon Murgatroyd.*

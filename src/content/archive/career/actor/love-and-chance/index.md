@@ -36,4 +36,5 @@ Alan Ayckbourn rejoined the Studio Theatre Ltd company at **[Theatre in the Roun
 "The main offering - Marivaux's *Love And Chance* - was very slow in starting, but became alive when Alan Ayckbourn made his entrance as Pasquin. Pasquin the valet is a small part, but it was only when he appeared that one truly became aware of the others."
 
 **Review extract from Yorkshire Post** (August 1958)  
-"It is a production by Mr Rodney Wood of delightful entertainment. It is because Mr Alan Ayckbourn enjoys every moment of his promotion from valet to master but never believes in it that his performance is a constant joy."*All research for this page by Simon Murgatroyd.*
+"It is a production by Mr Rodney Wood of delightful entertainment. It is because Mr Alan Ayckbourn enjoys every moment of his promotion from valet to master but never believes in it that his performance is a constant joy."  
+*All research for this page by Simon Murgatroyd.*

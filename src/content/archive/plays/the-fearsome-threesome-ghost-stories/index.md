@@ -14,7 +14,10 @@ facts:
   World premiere: "29 December 1989"
   Final performance: "13 January 1990"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
-  Staging: "End-stage Director"
+  Staging: "End-stage"
+  Director: "Alan Ayckbourn"
+  Narrator: "*To be confirmed*"
+  Ghost: "Jeannie Swales"
 ---
 
 **Published / Available to Stage:** No
@@ -51,13 +54,7 @@ Given the piece has been produced professionally at the Stephen Joseph Theatre I
 
 ### Premiere Production Details (1989)
 
-Narrator  
-Ghost  
-GhostAlan Ayckbourn
-
-*To be confirmed*  
-Jeannie Swales  
-Joy Beadle
+**Ghost** Joy Beadle
 
 ### Further Reading
 

@@ -22,23 +22,17 @@ play: "roundelay"
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Katie Turner  
-**Assistant Stage Manager:** Rosalind Chappelle**Character**  
-Tom  
-Blanche / Mrs Miller  
-Roz  
-Lindy Kuze / Mrs Kuyper  
-Russ  
-Lance / Sean  
-Ashley / Leo  
-Gale**Actor**  
-Russell Dixon  
-Alexandra Mathie  
-Krystle Hilton  
-Brooke Kinsella  
-Richard Stacey  
-Leigh Symonds  
-Nigel Hastings  
-Sophie Roberts
+**Assistant Stage Manager:** Rosalind Chappelle
+
+**Character** **Actor**  
+**Tom** Russell Dixon  
+**Blanche / Mrs Miller** Alexandra Mathie  
+**Roz** Krystle Hilton  
+**Lindy Kuze / Mrs Kuyper** Brooke Kinsella  
+**Russ** Richard Stacey  
+**Lance / Sean** Leigh Symonds  
+**Ashley / Leo** Nigel Hastings  
+**Gale** Sophie Roberts
 
 ### Tour (2015)
 
@@ -49,28 +43,19 @@ Sophie Roberts
 **Director:** Alan Ayckbourn  
 **Design:** Michael Holt  
 **Lighting:** Jason Taylor  
-**Fight Director:** Alison de Burgh**Character**  
-Tom  
-Blanche / Mrs Miller  
-Roz  
-Lindy Kuze / Mrs Kuyper  
-Russ  
-Lance / Sean  
-Ashley / Leo  
-Gale
+**Fight Director:** Alison de Burgh
 
-Understudy  
-Understudy  
-Understudy**Actor**  
-Russell Dixon  
-Sarah Stanley  
-Krystle Hilton  
-Brooke Kinsella  
-Richard Stacey  
-Leigh Symonds  
-Nigel Hastings  
-Elizabeth Boag
+**Character** **Actor**  
+**Tom** Russell Dixon  
+**Blanche / Mrs Miller** Sarah Stanley  
+**Roz** Krystle Hilton  
+**Lindy Kuze / Mrs Kuyper** Brooke Kinsella  
+**Russ** Richard Stacey  
+**Lance / Sean** Leigh Symonds  
+**Ashley / Leo** Nigel Hastings  
+**Gale** Elizabeth Boag  
+**Understudy** Phillipa Flynn  
+**Understudy** Melissa Brown-Taylor  
+**Understudy** Ben Richardson
 
-Phillipa Flynn  
-Melissa Brown-Taylor  
-Ben Richardson*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

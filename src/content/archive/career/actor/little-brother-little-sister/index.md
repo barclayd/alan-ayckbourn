@@ -40,4 +40,5 @@ Unfortunately no information other than casting is known for the 1960 tour and t
 "Probably the best/worst role he ever wrote for me, though, was a homicidal, 108 year old female cook/nanny trapped in a nuclear bomb shelter with two young protégés (the cook had long ago served up their parents for dinner).  
 "The character talked incessantly in a series of totally un-learnable non-sequiturs that made Beckett seem straightforward by comparison. I wore a ton of padding including foam rubber legs the size of tree trunks, an unyielding starched uniform, an off the peg grey wig and a false nose that regularly dropped off as the perspiration flowed down my mottled yellow make-up. Great role. Great prospects.  
 "And people continue to ask me, do I still want to act?"  
-*(Alan Ayckbourn writing about David Campton in 2001)**All research for this page by Simon Murgatroyd.*
+*(Alan Ayckbourn writing about David Campton in 2001)*  
+*All research for this page by Simon Murgatroyd.*

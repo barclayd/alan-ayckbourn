@@ -29,35 +29,23 @@ play: "house-and"
 **Deputy Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Lucy McEwan  
 **Assistant Stage Manager:** Sarah Jackson  
-**Assistant Stage Manager:** Charlotte Wall**Character**  
-Teddy Platt  
-Trish Platt  
-Sally Platt  
-Giles Mace  
-Joanna Mace  
-Jake Mace  
-Gavin Ryng-Mayne  
-Barry Love  
-Lindy Love  
-Lucille Cadeau  
-Fran Briggs  
-Warn Coucher  
-Izzie Truce  
-Pearl Truce**Actor**  
-Robert Blythe  
-Eileen Battye  
-Charlie Hayes  
-Barry McCarthy  
-Janie Dee  
-Danny Nutt  
-Terence Booth  
-Simon Green  
-Alison Senior  
-Sabine Azéma  
-Alexandra Mathie  
-Peter Laird  
-Antonia Pemberton  
-Jennifer Luckraft
+**Assistant Stage Manager:** Charlotte Wall
+
+**Character** **Actor**  
+**Teddy Platt** Robert Blythe  
+**Trish Platt** Eileen Battye  
+**Sally Platt** Charlie Hayes  
+**Giles Mace** Barry McCarthy  
+**Joanna Mace** Janie Dee  
+**Jake Mace** Danny Nutt  
+**Gavin Ryng-Mayne** Terence Booth  
+**Barry Love** Simon Green  
+**Lindy Love** Alison Senior  
+**Lucille Cadeau** Sabine Azéma  
+**Fran Briggs** Alexandra Mathie  
+**Warn Coucher** Peter Laird  
+**Izzie Truce** Antonia Pemberton  
+**Pearl Truce** Jennifer Luckraft
 
 ### London Premiere (2000)
 
@@ -71,47 +59,29 @@ Jennifer Luckraft
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
 **Music:** John Pattison  
-**Choreography:** Sheila Carter**Character**  
-Teddy Platt  
-Trish Platt  
-Sally Platt  
-Giles Mace  
-Joanna Mace  
-Jake Mace  
-Gavin Ryng-Mayne  
-Barry Love  
-Lindy Love  
-Lucille Cadeau  
-Fran Briggs  
-Warn Coucher  
-Izzie Truce  
-Pearl Truce  
-Rev. Colin Mallow  
-Cone Wharton  
-Caroline Perrit  
-Mervyn Peebles  
-Liddy Slike  
-Deidre Mallow**Actor**  
-David Haig  
-Jane Asher  
-Charlie Hayes  
-Michael Siberry  
-Sian Thomas  
-James Bradshaw  
-Malcolm Sinclair  
-Adrian McLoughlin  
-Suzy Aitchison  
-Zabou Breitman  
-Alexandra Mathie  
-Peter Laird  
-Antonia Pemberton  
-Nina Sosanya  
-Robin Browne  
-Andrew Fallaize  
-Penelope McGhie  
-Trevor Nichols  
-Deborah O'Malley  
-Leonie Wilde
+**Choreography:** Sheila Carter
+
+**Character** **Actor**  
+**Teddy Platt** David Haig  
+**Trish Platt** Jane Asher  
+**Sally Platt** Charlie Hayes  
+**Giles Mace** Michael Siberry  
+**Joanna Mace** Sian Thomas  
+**Jake Mace** James Bradshaw  
+**Gavin Ryng-Mayne** Malcolm Sinclair  
+**Barry Love** Adrian McLoughlin  
+**Lindy Love** Suzy Aitchison  
+**Lucille Cadeau** Zabou Breitman  
+**Fran Briggs** Alexandra Mathie  
+**Warn Coucher** Peter Laird  
+**Izzie Truce** Antonia Pemberton  
+**Pearl Truce** Nina Sosanya  
+**Rev. Colin Mallow** Robin Browne  
+**Cone Wharton** Andrew Fallaize  
+**Caroline Perrit** Penelope McGhie  
+**Mervyn Peebles** Trevor Nichols  
+**Liddy Slike** Deborah O'Malley  
+**Deidre Mallow** Leonie Wilde
 
 ### New York Premiere (2002)
 
@@ -128,33 +98,22 @@ Leonie Wilde
 **Music:** John Pattison  
 **Sound:** Bruce Ellman  
 **Dialect Coach:** Elizabeth Smith  
-**Fight Director:** Rick Sordelet  
-**Character**  
-Teddy Platt  
-Trish Platt  
-Sally Platt  
-Giles Mace  
-Joanna Mace  
-Jake Mace  
-Gavin Ryng-Mayne  
-Barry Love  
-Lindy Love  
-Lucille Cadeau  
-Fran Briggs  
-Warn Coucher  
-Izzie Truce  
-Pearl Truce**Actor**  
-Nicholas Woodeson  
-Jan Maxwell  
-Bryce Dallas Howard  
-Michael Countryman  
-Veanne Cox  
-Carson Elrod  
-John C. Vennema  
-John Curless  
-Ellen Parker  
-Olga Sosnovska  
-Sharon Washington  
-James A. Stephens  
-Patricia Conolly  
-Laura Marie Duncan*All research for this page by Simon Murgatroyd.*
+**Fight Director:** Rick Sordelet
+
+**Character** **Actor**  
+**Teddy Platt** Nicholas Woodeson  
+**Trish Platt** Jan Maxwell  
+**Sally Platt** Bryce Dallas Howard  
+**Giles Mace** Michael Countryman  
+**Joanna Mace** Veanne Cox  
+**Jake Mace** Carson Elrod  
+**Gavin Ryng-Mayne** John C. Vennema  
+**Barry Love** John Curless  
+**Lindy Love** Ellen Parker  
+**Lucille Cadeau** Olga Sosnovska  
+**Fran Briggs** Sharon Washington  
+**Warn Coucher** James A. Stephens  
+**Izzie Truce** Patricia Conolly  
+**Pearl Truce** Laura Marie Duncan
+
+*All research for this page by Simon Murgatroyd.*

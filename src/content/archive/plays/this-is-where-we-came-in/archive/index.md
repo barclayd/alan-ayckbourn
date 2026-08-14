@@ -5,7 +5,8 @@ order: 1544
 play: "this-is-where-we-came-in"
 ---
 
-*One of the most interesting pieces in the Ayckbourn Archive in the* ***[Borthwick Institute for Archives](/)*** *at the University of York pertaining to This Is Where We Came In is a piece of correspondence written Alan Ayckbourn, an extract of which is reprinted below. It was written as a response to a teacher following a school trip to see This Is Where We Came In in 1991 at the Stephen Joseph Theatre In The Round. The teacher had taken exception to the use of the word ‘slut’ in the play and within the reply, Alan defends his position as well as other relevant and interesting issues.*1 January 1992
+*One of the most interesting pieces in the Ayckbourn Archive in the* ***[Borthwick Institute for Archives](/)*** *at the University of York pertaining to This Is Where We Came In is a piece of correspondence written Alan Ayckbourn, an extract of which is reprinted below. It was written as a response to a teacher following a school trip to see This Is Where We Came In in 1991 at the Stephen Joseph Theatre In The Round. The teacher had taken exception to the use of the word ‘slut’ in the play and within the reply, Alan defends his position as well as other relevant and interesting issues.*  
+1 January 1992
 
 Dear _________,
 
@@ -23,4 +24,5 @@ I’ve grown to suspect that this attitude might well be being fostered or cland
 
 If we accept Good we must also accept Evil. And learn to recognise both, preferably the earlier the better, in order to make our own right choice.
 
-Sorry to preach but as you may gather I do feel strongly and take my work very seriously. I would hate you to go away with the impression that any word, good or bad, appeared in a play of mine didn’t get there without a great deal of thought and consideration. *The Archive pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+Sorry to preach but as you may gather I do feel strongly and take my work very seriously. I would hate you to go away with the impression that any word, good or bad, appeared in a play of mine didn’t get there without a great deal of thought and consideration.  
+*The Archive pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*

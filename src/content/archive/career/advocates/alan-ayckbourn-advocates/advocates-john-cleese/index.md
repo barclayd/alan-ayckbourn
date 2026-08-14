@@ -9,4 +9,5 @@ order: 9999
 ### Quotes
 
 "I’ve always had a special respect for people like Michael Frayn and Alan Ayckbourn and Alan Bennett, of course, who have written some really wonderful plays.”  
-*(2020)**Copyright: John Cleese. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2020)*  
+*Copyright: John Cleese. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

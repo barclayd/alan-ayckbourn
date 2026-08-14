@@ -25,23 +25,17 @@ play: "body-language"
 **Deputy Stage Manager:** Lynda Snowden  
 **Assistant Stage Manager:** Kate Rhodes James  
 **Assistant Stage Manager:** Danny McGrath  
-**Assistant Stage Manager:** Patricia Swales**Character**  
-Hravic Zyergefoovc  
-Freya Roope  
-Benjamin Cooper  
-Ronnie Weston  
-Angie Dell  
-Derek Short  
-Jo Knapton  
-Mal Bennet **Actor**  
-Nigel Anthony  
-Cecily Hobbs  
-Geoffrey Whitehead  
-Timothy Kightley  
-Lia Williams  
-Peter Forbes  
-Tam Hoskyns  
-Robert McCulley
+**Assistant Stage Manager:** Patricia Swales
+
+**Character** **Actor**  
+**Hravic Zyergefoovc** Nigel Anthony  
+**Freya Roope** Cecily Hobbs  
+**Benjamin Cooper** Geoffrey Whitehead  
+**Ronnie Weston** Timothy Kightley  
+**Angie Dell** Lia Williams  
+**Derek Short** Peter Forbes  
+**Jo Knapton** Tam Hoskyns  
+**Mal Bennet** Robert McCulley
 
 ### Revival (1999)
 
@@ -59,24 +53,18 @@ Robert McCulley
 
 **Stage Manager:** Helen Reynolds  
 **Deputy Stage Manager:** Lucy McEwan  
-**Assistant Stage Manager:** Sarah J McGregor**Character**  
-Hravic Zyergefoovc  
-Freya Roope  
-Benjamin Cooper  
-Ronnie Weston  
-Angie Dell  
-Derek Short  
-Jo Knapton  
-Mal Bennet  
-Medical Staff  
-Medical Staff**Actor**  
-Peter Laird  
-Alexandra Mathie  
-Terence Booth  
-Robert Blythe  
-Alison Senior  
-Danny Nutt  
-Jennifer Luckraft  
-Barry McCarthy  
-Kath O’Reilly  
-Lee Sutton*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Sarah J McGregor
+
+**Character** **Actor**  
+**Hravic Zyergefoovc** Peter Laird  
+**Freya Roope** Alexandra Mathie  
+**Benjamin Cooper** Terence Booth  
+**Ronnie Weston** Robert Blythe  
+**Angie Dell** Alison Senior  
+**Derek Short** Danny Nutt  
+**Jo Knapton** Jennifer Luckraft  
+**Mal Bennet** Barry McCarthy  
+**Medical Staff** Kath O’Reilly  
+**Medical Staff** Lee Sutton
+
+*All research for this page by Simon Murgatroyd.*

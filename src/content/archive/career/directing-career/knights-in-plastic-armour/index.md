@@ -8,50 +8,33 @@ order: 463
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Robert Shearman  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre  
+**Location:** The Round  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Robert Shearman  
-Yes
-
-Stephen Joseph Theatre  
-The Round  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**16 July 1999  
-21 July 1999  
-18 September 1999
+**First performance:** 16 July 1999  
+**Opening night:** 21 July 1999  
+**Final performance:** 18 September 1999
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Lighting:**  
-**Music:**  
-**Fight Director:**
+**Director:** Alan Ayckbourn  
+**Design:** Pip Leckenby  
+**Lighting:** Kath Geraghty  
+**Music:** Simon Cryer  
+**Fight Director:** Wolf Christian  
+**Stage Manager:** Dawn Erica Dyson  
+**Deputy Stage Manager:** Lucy McEwan  
+**Assistant Stage Manager:** Sarah J McGregor
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Pip Leckenby  
-Kath Geraghty  
-Simon Cryer  
-Wolf Christian
+**Character** **Actor**  
+**Graham** Barry McCarthy  
+**Barbara** Jennifer Luckraft  
+**Stephen** Danny Nutt  
+**Chloe** Alison Senior  
+**Reg** Peter Laird  
+**Keith** Simon Green
 
-Dawn Erica Dyson  
-Lucy McEwan  
-Sarah J McGregor**Character**  
-Graham  
-Barbara  
-Stephen  
-Chloe  
-Reg  
-Keith**Actor**  
-Barry McCarthy  
-Jennifer Luckraft  
-Danny Nutt  
-Alison Senior  
-Peter Laird  
-Simon Green*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

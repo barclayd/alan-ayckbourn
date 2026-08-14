@@ -22,16 +22,16 @@ play: "show-and-tell"
 **Associate Sound:** Ernest Acquah  
 **Wardrobe Supervisor:** Julia Perry-Mook  
 **Casting:** Sarah Hughes CDG  
-**Scenic Art:** Julia Wray**Characters**  
-Jack Bothridge  
-Ben Wilkes  
-Peter Reeder  
-Harriet 'Harry' Golding  
-Steph Tate**Actors**  
-Bill Champion  
-Paul Kemp  
-Richard Stacey  
-Frances Marshall  
-Olivia Woolhouse**Company Stage Manager:** Fleur Linden Beeley  
+**Scenic Art:** Julia Wray
+
+**Characters** **Actors**  
+**Jack Bothridge** Bill Champion  
+**Ben Wilkes** Paul Kemp  
+**Peter Reeder** Richard Stacey  
+**Harriet 'Harry' Golding** Frances Marshall  
+**Steph Tate** Olivia Woolhouse
+
+**Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Asst. Stage Manager:** Anna Reid*All research for this page by Simon Murgatroyd.*
+**Asst. Stage Manager:** Anna Reid  
+*All research for this page by Simon Murgatroyd.*

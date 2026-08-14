@@ -20,13 +20,12 @@ play: "no-knowing"
 
 **Company Stage Manager:** Nikki Colclough  
 **Deputy Stage Manager:** Jennifer Hirst  
-**Assistant Stage Manager:** Emma Lang**Character**  
-Arthur Throke  
-Elspeth Throke  
-Alison Throke-Davies  
-Nigel Throke**Actor**  
-Russell Dixon  
-Jacqueline King  
-Laura Matthews  
-Bill Champion  
+**Assistant Stage Manager:** Emma Lang
+
+**Character** **Actor**  
+**Arthur Throke** Russell Dixon  
+**Elspeth Throke** Jacqueline King  
+**Alison Throke-Davies** Laura Matthews  
+**Nigel Throke** Bill Champion
+
 *All research for this page by Simon Murgatroyd.*

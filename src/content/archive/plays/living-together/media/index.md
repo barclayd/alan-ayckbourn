@@ -21,31 +21,22 @@ play: "living-together"
 **Video:** 1981 (deleted)  
 **DVD (R1 & R2):** 2014 (available)  
 **Blu-ray:** Not available  
-**Digital:** 2011 (available)**Director**  
-**Design**  
-**Title Music**  
-**Producer**  
-**Producer**
+**Digital:** 2011 (available)
 
-**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-TomHerbert Wise  
-David Marshall  
-Wilfred Josephs  
-Verity Lambert  
-David Susskind
+**Director** Herbert Wise  
+**Design** David Marshall  
+**Title Music** Wilfred Josephs  
+**Producer** Verity Lambert  
+**Producer** David Susskind  
+**Character** **Actor**  
+**Reg** Richard Briers  
+**Sarah** Penelope Keith  
+**Ruth** Fiona Walker  
+**Norman** Tom Conti  
+**Annie** Penelope Wilton  
+**Tom** David Troughton
 
-**Actor**  
-Richard Briers  
-Penelope Keith  
-Fiona Walker  
-Tom Conti  
-Penelope Wilton  
-David Troughton**Note:** Alan Ayckbourn's thoughts on the television adaptation of *The Norman Conquests* can be found **[here](/plays/living-together/media/television)**.
+**Note:** Alan Ayckbourn's thoughts on the television adaptation of *The Norman Conquests* can be found **[here](/plays/living-together/media/television)**.
 
 ### Radio (1990)
 
@@ -62,27 +53,18 @@ David Troughton**Note:** Alan Ayckbourn's thoughts on the television adaptation 
 **Availability**  
 **Cassette:** 1993 (deleted)  
 **CD:** 2010 (available)  
-**Digital:** 2010 (available)**Director**  
-**Adaptor**  
-**Music**
+**Digital:** 2010 (available)
 
-**Character**  
-Norman  
-Annie  
-Reg  
-Sarah  
-Tom  
-RuthGordon House  
-Neville Teller  
-Peter Ringrose
-
-**Actor**  
-Robin Herford  
-Diane Bull  
-Simon Jones  
-Tessa Peake-Jones  
-Jon Strickland  
-Elizabeth Rider
+**Director** Gordon House  
+**Adaptor** Neville Teller  
+**Music** Peter Ringrose  
+**Character** **Actor**  
+**Norman** Robin Herford  
+**Annie** Diane Bull  
+**Reg** Simon Jones  
+**Sarah** Tessa Peake-Jones  
+**Tom** Jon Strickland  
+**Ruth** Elizabeth Rider
 
 ### Audiobook (1999)
 
@@ -94,23 +76,16 @@ Elizabeth Rider
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2009 (available)  
-**Digital:** 2011 (available)**Director**
+**Digital:** 2011 (available)
 
-**Character**  
-Sarah  
-Reg  
-Norman  
-Annie  
-Tom  
-RuthDennis Erman
-
-**Actor**  
-Rosalind Ayres  
-Ken Danziger  
-Martin Jarvis  
-Jane Leeves  
-Christopher Neame  
-Carolyn Seymour
+**Director** Dennis Erman  
+**Character** **Actor**  
+**Sarah** Rosalind Ayres  
+**Reg** Ken Danziger  
+**Norman** Martin Jarvis  
+**Annie** Jane Leeves  
+**Tom** Christopher Neame  
+**Ruth** Carolyn Seymour
 
 ### Radio (2015)
 
@@ -127,20 +102,15 @@ Carolyn Seymour
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Norman  
-Annie  
-Reg  
-Sarah  
-Tom  
-RuthPeter Kavanagh
+**Director** Peter Kavanagh  
+**Character** **Actor**  
+**Norman** Julian Rhind-Tutt  
+**Annie** Helen Baxendale  
+**Reg** Jeff Rawle  
+**Sarah** Claire Lawrence-Moody  
+**Tom** Nigel Planer  
+**Ruth** Tracy-Ann Oberman
 
-**Actor**  
-Julian Rhind-Tutt  
-Helen Baxendale  
-Jeff Rawle  
-Claire Lawrence-Moody  
-Nigel Planer  
-Tracy-Ann Oberman*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

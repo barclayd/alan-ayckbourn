@@ -19,23 +19,17 @@ play: "mr-as-amazing-maze-plays"
 **Assistant Director:** Stephen Mallatratt  
 **Design:** Michael Holt  
 **Costumes:** Laura McLaughlin  
-**Lighting:** Mick Thomas**Character**  
-Suzy  
-Neville  
-Mother  
-Father  
-Mr Accousticus  
-Mr Passerby  
-1st Narrator  
-2nd Narrator**Actor**  
-Kerry Peers  
-Adam Godley  
-Victoria Carling  
-Richard Brain  
-Roger Forbes  
-John Branwell  
-Graeme Eton  
-Philip Fox
+**Lighting:** Mick Thomas
+
+**Character** **Actor**  
+**Suzy** Kerry Peers  
+**Neville** Adam Godley  
+**Mother** Victoria Carling  
+**Father** Richard Brain  
+**Mr Accousticus** Roger Forbes  
+**Mr Passerby** John Branwell  
+**1st Narrator** Graeme Eton  
+**2nd Narrator** Philip Fox
 
 ### London Premiere (1989)
 
@@ -47,23 +41,17 @@ Philip Fox
 **Director:** Ian Talbot  
 **Design:** Simon Higlett  
 **Lighting:** Graham Ray  
-**Costumes:** Paula Adrianowski**Character**  
-Suzy  
-Neville  
-Mother  
-Father  
-Mr Accousticus  
-Mr Passerby  
-1st Narrator  
-2nd Narrator**Actor**  
-Penny Gonshaw  
-Gerald Home  
-Penny Ryder  
-John Kearns  
-George Pensotti  
-Sam Davies  
-Peter Stenson  
-Prudence Rennick
+**Costumes:** Paula Adrianowski
+
+**Character** **Actor**  
+**Suzy** Penny Gonshaw  
+**Neville** Gerald Home  
+**Mother** Penny Ryder  
+**Father** John Kearns  
+**Mr Accousticus** George Pensotti  
+**Mr Passerby** Sam Davies  
+**1st Narrator** Peter Stenson  
+**2nd Narrator** Prudence Rennick
 
 ### National Theatre (1993)
 
@@ -76,23 +64,17 @@ Prudence Rennick
 
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
-**Lighting:** Mick Hughes**Character**  
-Suzy  
-Neville  
-Mother  
-Father  
-Mr Accousticus  
-Mr Passerby  
-1st Narrator  
-2nd Narrator**Actor**  
-Judith McSpadden  
-Adam Godley  
-Georgie Glen  
-Richard Long  
-Glyn Grain  
-John Branwell  
-Graeme Eton  
-James Simmons
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Suzy** Judith McSpadden  
+**Neville** Adam Godley  
+**Mother** Georgie Glen  
+**Father** Richard Long  
+**Mr Accousticus** Glyn Grain  
+**Mr Passerby** John Branwell  
+**1st Narrator** Graeme Eton  
+**2nd Narrator** James Simmons
 
 ### Revival (1993)
 
@@ -110,23 +92,17 @@ James Simmons
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Jo Alexander  
-**Assistant Stage Manager:** Emma Gordon**Character**  
-Suzy  
-Neville  
-Mother  
-Father  
-Mr Accousticus  
-Mr Passerby  
-1st Narrator  
-2nd Narrator**Actor**  
-Jessica Lloyd  
-Gary Sefton  
-Kate Anthony  
-Milton Cadman  
-Anthony Venditti  
-Gordon Reid  
-Andy Greenhalgh  
-Simon Day
+**Assistant Stage Manager:** Emma Gordon
+
+**Character** **Actor**  
+**Suzy** Jessica Lloyd  
+**Neville** Gary Sefton  
+**Mother** Kate Anthony  
+**Father** Milton Cadman  
+**Mr Accousticus** Anthony Venditti  
+**Mr Passerby** Gordon Reid  
+**1st Narrator** Andy Greenhalgh  
+**2nd Narrator** Simon Day
 
 ### Revival (2006)
 
@@ -144,23 +120,17 @@ Simon Day
 
 **Stage Manager:** Emily Thurlby  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Lisa Mellor**Character**  
-Suzy  
-Neville  
-Mother  
-Father  
-Mr Accousticus  
-Mr Passerby  
-1st Narrator  
-2nd Narrator**Actor**  
-Anja Rodford  
-Tom Sherman  
-Becky Hindley  
-Mark Stratton  
-Terence Booth  
-Adrian McLoughlin  
-John Branwell  
-Maggie Service
+**Assistant Stage Manager:** Lisa Mellor
+
+**Character** **Actor**  
+**Suzy** Anja Rodford  
+**Neville** Tom Sherman  
+**Mother** Becky Hindley  
+**Father** Mark Stratton  
+**Mr Accousticus** Terence Booth  
+**Mr Passerby** Adrian McLoughlin  
+**1st Narrator** John Branwell  
+**2nd Narrator** Maggie Service
 
 ### Opera Adaptation (2018)
 
@@ -172,18 +142,16 @@ Maggie Service
 **Libretto:** Manfred Weiß  
 **Staging:** Tom Quaas  
 **Set Design & Costume Design:** Tilo Schiemenz  
-**Dramaturgy:** Juliane Schunke**Character**  
-Susi  
-Otto, ihr Hund  
-Mutter  
-Vater  
-Herr Akustikus  
-Herr Pichler  
-Erzähler**Actor**  
-Tania Lorenzo  
-Mathias Schlung  
-Angela Liebold  
-Martin-Jan Nijhof  
-Hagen Matzeit  
-Barry Coleman  
-Thomas Förster**Note:** The operatic adaptation of *Mr A's Amazing Maze Plays* was approved by Alan Ayckbourn and created for the Semperoper in Dresden. Presented as *Das Rätsel der gestohlenen Stimmen*, it was composed by Johannes Wulff-Woesten with a libretto by Manfred Weiß, based on Alan Ayckbourn's play.*All research for this page by Simon Murgatroyd.*
+**Dramaturgy:** Juliane Schunke
+
+**Character** **Actor**  
+**Susi** Tania Lorenzo  
+**Otto, ihr Hund** Mathias Schlung  
+**Mutter** Angela Liebold  
+**Vater** Martin-Jan Nijhof  
+**Herr Akustikus** Hagen Matzeit  
+**Herr Pichler** Barry Coleman  
+**Erzähler** Thomas Förster
+
+**Note:** The operatic adaptation of *Mr A's Amazing Maze Plays* was approved by Alan Ayckbourn and created for the Semperoper in Dresden. Presented as *Das Rätsel der gestohlenen Stimmen*, it was composed by Johannes Wulff-Woesten with a libretto by Manfred Weiß, based on Alan Ayckbourn's play.  
+*All research for this page by Simon Murgatroyd.*

@@ -9,4 +9,5 @@ order: 2362
 ### Quotes
 
 "He \[Ayckbourn\] is one of the few people with a gift amounting to genius for situation comedy in the highest form."  
-*(1991)**Copyright: Tom Stoppard. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1991)*  
+*Copyright: Tom Stoppard. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

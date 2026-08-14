@@ -23,44 +23,28 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's scr
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Script editor**  
-**Designer**
+**Digital:** Not available
 
-**Character**  
-Jace  
-Hall Porter  
-Donald  
-Cathy  
-Assistant Manager  
-Hughie  
-Tony  
-Coombes  
-Mrs Coombes  
-Neil  
-Freda  
-Harris  
-Mrs Harris  
-Warwick  
-Mrs Warwick  
-RileyHerbert Wise  
-Robert Buckler  
-Peter Seddon
+**Director** Herbert Wise  
+**Script editor** Robert Buckler  
+**Designer** Peter Seddon  
+**Character** **Actor**  
+**Jace** Alan Thompson  
+**Hall Porter** Alan Wilson  
+**Donald** Colin Farrell  
+**Cathy** Irene Hamilton  
+**Assistant Manager** Lawrence Davidson  
+**Hughie** George Moon  
+**Tony** Patrick Dawson  
+**Coombes** Robert Russell  
+**Mrs Coombes** Maggie Rennie  
+**Neil** Julian Curray  
+**Freda** Ann Beach  
+**Harris** Christopher Owen  
+**Mrs Harris** Heather Stoney  
+**Warwick** Clive Morton  
+**Mrs Warwick** Fanny Rowe  
+**Riley** Peter Boyes
 
-**Actor**  
-Alan Thompson  
-Alan Wilson  
-Colin Farrell  
-Irene Hamilton  
-Lawrence Davidson  
-George Moon  
-Patrick Dawson  
-Robert Russell  
-Maggie Rennie  
-Julian Curray  
-Ann Beach  
-Christopher Owen  
-Heather Stoney  
-Clive Morton  
-Fanny Rowe  
-Peter Boyes**Note:** *Service Not Included* is the only produced screenplay written by Alan Ayckbourn. It was commissioned by and broadcast as part of the BBC series *Masquerade*. For further details, visit the *Service Not Included* section of the website **[here](/plays/service-not-included)**.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Note:** *Service Not Included* is the only produced screenplay written by Alan Ayckbourn. It was commissioned by and broadcast as part of the BBC series *Masquerade*. For further details, visit the *Service Not Included* section of the website **[here](/plays/service-not-included)**.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

@@ -8,7 +8,8 @@ play: "arrivals-and-departures"
 **Cast:** 7m / 4f (plus two f children)  
 **Running time (approximate):** 2 hours and 10 minutes (not including interval)  
 **Availability:** *Arrivals & Departures* is available for both professional and amateur production.  
-**Acting Edition:** Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/59837/arrivals-and-departures/)**.*During the course of the play, we experience the key moments of Barry's and Ez's lives through their memories. Further details of the memory scenes and their timelines can be found at* ***[Ez's Timeline](/plays/arrivals-and-departures/synopsis/ezs-timeline)*** *&* ***[Barry's Timeline](/plays/arrivals-and-departures/synopsis/barrys-timeline)***.
+**Acting Edition:** Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/59837/arrivals-and-departures/)**.  
+*During the course of the play, we experience the key moments of Barry's and Ez's lives through their memories. Further details of the memory scenes and their timelines can be found at* ***[Ez's Timeline](/plays/arrivals-and-departures/synopsis/ezs-timeline)*** *&* ***[Barry's Timeline](/plays/arrivals-and-departures/synopsis/barrys-timeline)***.
 
 <aside>
 

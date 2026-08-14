@@ -20,23 +20,17 @@ play: "bedroom-farce"
 
 **Stage Manager:** David Millard  
 **Deputy Stage Manager:** Kevin Wood  
-**Assistant Stage Manager:** Susan Legge**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Stanley Page  
-Heather Stoney  
-Stephen Mallatratt  
-Janet Dale  
-Bob Eaton  
-Eileen O’Brien  
-Christopher Godwin  
-Polly Warren
+**Assistant Stage Manager:** Susan Legge
+
+**Character** **Actor**  
+**Ernest** Stanley Page  
+**Delia** Heather Stoney  
+**Nick** Stephen Mallatratt  
+**Jan** Janet Dale  
+**Malcolm** Bob Eaton  
+**Kate** Eileen O’Brien  
+**Trevor** Christopher Godwin  
+**Susannah** Polly Warren
 
 ### London Premiere (1977)
 
@@ -50,23 +44,19 @@ Polly Warren
 
 **Director:** Alan Ayckbourn & Peter Hall \*  
 **Design:** Timothy O’Brien & Tazeena Firth  
-**Lighting:** Peter Radmore**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Michael Gough  
-Joan Hickson  
-Michael Kitchen  
-Polly Adams  
-Derek Newark  
-Susan Littler  
-Stephen Moore  
-Maria Aitken**Notes:**  
+**Lighting:** Peter Radmore
+
+**Character** **Actor**  
+**Ernest** Michael Gough  
+**Delia** Joan Hickson  
+**Nick** Michael Kitchen  
+**Jan** Polly Adams  
+**Malcolm** Derek Newark  
+**Kate** Susan Littler  
+**Trevor** Stephen Moore  
+**Susannah** Maria Aitken
+
+**Notes:**  
 ◦ Although Peter Hall is credited as co-director, after initially blocking the piece, he actually left Alan to direct the piece alone.  
 ◦ Prior to *Bedroom Farce* opening at the National Theatre, it played at the Alexandra Theatre, Birmingham (1 - 6 March) and the Cardiff New (8 - 13 March).  
 ◦ During the course of the National Theatre's run, there were several cast changes. These included Michael Stroud (Nick), Janet Key (Jan), Brenda Blethyn (Kate), Delia Lindsay (Susannah) and Sara Kestelman (Susannah).
@@ -81,23 +71,19 @@ Maria Aitken**Notes:**
 
 **Director:** Alan Ayckbourn  
 **Design:** Timothy O’Brien & Tazeena Firth  
-**Lighting:** Peter Radmore**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Michael Aldridge  
-Joan Hickson  
-Michael Stroud  
-Cheryl Campbell  
-Derek Newark  
-Susan Littler  
-Stephen Moore  
-Delia Lindsay**Notes:** The company of *Bedroom Farce* in the West End seems to be particularly fluid with at least three significant cast changes (dates of which are not known) and a number of minor changes. The original cast for the transfer is noted above with the two most significant company alterations below. It should also be noted Alan Ayckbourn did not direct any of the cast changes following the initial transfer, although he is credited as the director in the programmes.
+**Lighting:** Peter Radmore
+
+**Character** **Actor**  
+**Ernest** Michael Aldridge  
+**Delia** Joan Hickson  
+**Nick** Michael Stroud  
+**Jan** Cheryl Campbell  
+**Malcolm** Derek Newark  
+**Kate** Susan Littler  
+**Trevor** Stephen Moore  
+**Susannah** Delia Lindsay
+
+**Notes:** The company of *Bedroom Farce* in the West End seems to be particularly fluid with at least three significant cast changes (dates of which are not known) and a number of minor changes. The original cast for the transfer is noted above with the two most significant company alterations below. It should also be noted Alan Ayckbourn did not direct any of the cast changes following the initial transfer, although he is credited as the director in the programmes.
 
 ### London Transfer recast (1978)
 
@@ -108,23 +94,17 @@ Delia Lindsay**Notes:** The company of *Bedroom Farce* in the West End seems to 
 
 **Director:** Alan Ayckbourn  
 **Design:** Timothy O’Brien & Tazeena Firth  
-**Lighting:** Peter Radmore**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Michael Aldridge  
-Dulcie Gray  
-Jim Norton  
-Deborah Grant  
-George Innes  
-Paula Wilcox  
-Timothy Davies  
-Patricia Quinn
+**Lighting:** Peter Radmore
+
+**Character** **Actor**  
+**Ernest** Michael Aldridge  
+**Delia** Dulcie Gray  
+**Nick** Jim Norton  
+**Jan** Deborah Grant  
+**Malcolm** George Innes  
+**Kate** Paula Wilcox  
+**Trevor** Timothy Davies  
+**Susannah** Patricia Quinn
 
 ### London Transfer Recast (1979)
 
@@ -135,23 +115,17 @@ Patricia Quinn
 
 **Director:** Alan Ayckbourn  
 **Design:** Timothy O’Brien & Tazeena Firth  
-**Lighting:** Peter Radmore**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Michael Denison  
-Dulcie Gray  
-Ian Price  
-Carol Frazer  
-Geoffrey Leesley  
-Pamela Moiseiwitsch  
-Timothy Davies  
-Marilyn Taylerson
+**Lighting:** Peter Radmore
+
+**Character** **Actor**  
+**Ernest** Michael Denison  
+**Delia** Dulcie Gray  
+**Nick** Ian Price  
+**Jan** Carol Frazer  
+**Malcolm** Geoffrey Leesley  
+**Kate** Pamela Moiseiwitsch  
+**Trevor** Timothy Davies  
+**Susannah** Marilyn Taylerson
 
 ### Tour (1979)
 
@@ -164,23 +138,19 @@ Marilyn Taylerson
 **Lighting:** David Colmer  
 **Costumes:** Lindy Hemming
 
-**Producer:** Anvil Productions**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-John Bott  
-Joan Newell  
-Neil Dickson  
-Amanda Boxer  
-Anthony Milner  
-Janis Winters  
-John Alkin  
-Meg Davies**Note:** This was the first tour of *Bedroom Farce* in the UK.
+**Producer:** Anvil Productions
+
+**Character** **Actor**  
+**Ernest** John Bott  
+**Delia** Joan Newell  
+**Nick** Neil Dickson  
+**Jan** Amanda Boxer  
+**Malcolm** Anthony Milner  
+**Kate** Janis Winters  
+**Trevor** John Alkin  
+**Susannah** Meg Davies
+
+**Note:** This was the first tour of *Bedroom Farce* in the UK.
 
 ### New York Premiere (1979)
 
@@ -191,23 +161,17 @@ Meg Davies**Note:** This was the first tour of *Bedroom Farce* in the UK.
 
 **Director:** Alan Ayckbourn / Peter Hall  
 **Design:** Timothy O'Brien / Tazeena Firth  
-**Lighting:** Peter Radmore**Character**  
-Jan  
-Ernest  
-Delia  
-Susannah  
-Kate  
-Trevor  
-Malcolm  
-Nick**Actor**  
-Polly Adams  
-Michael Gough  
-Joan Hickson  
-Delia Lindsay  
-Susan Littler  
-Stephen Moore  
-Derek Newark  
-Michael Stroud
+**Lighting:** Peter Radmore
+
+**Character** **Actor**  
+**Jan** Polly Adams  
+**Ernest** Michael Gough  
+**Delia** Joan Hickson  
+**Susannah** Delia Lindsay  
+**Kate** Susan Littler  
+**Trevor** Stephen Moore  
+**Malcolm** Derek Newark  
+**Nick** Michael Stroud
 
 ### New York Recast (1979)
 
@@ -218,23 +182,17 @@ Michael Stroud
 
 **Director:** Alan Ayckbourn / Peter Hall  
 **Design:** Timothy O'Brien / Tazeena Firth  
-**Lighting:** Peter Radmore**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Robert Coote  
-Mildred Natwick  
-John Horton  
-Lynn Milgrim  
-David Schramm  
-Judith Ivey  
-John Lithgow  
-Alma Cuervo
+**Lighting:** Peter Radmore
+
+**Character** **Actor**  
+**Ernest** Robert Coote  
+**Delia** Mildred Natwick  
+**Nick** John Horton  
+**Jan** Lynn Milgrim  
+**Malcolm** David Schramm  
+**Kate** Judith Ivey  
+**Trevor** John Lithgow  
+**Susannah** Alma Cuervo
 
 ### Revival (2000)
 
@@ -251,23 +209,19 @@ Alma Cuervo
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Annabel Bolton  
-**Assistant Stage Manager:** Charlotte Hall**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Geoffrey Whitehead  
-Joanna Van Gyseghem  
-Paul Raffield  
-Sherry Baines  
-Peter Temple  
-Katy Secombe  
-Michael Shaw  
-Diana Morrison**Note:** This production is unique for the Stephen Joseph Theatre as it was originally produced in The Round, before being re-directed with the same company for the end-stage The McCarthy in the venue prior to a UK end-stage tour. The McCarthy production opened on 19 December and closed on 12 January 2001 before going on tour.
+**Assistant Stage Manager:** Charlotte Hall
+
+**Character** **Actor**  
+**Ernest** Geoffrey Whitehead  
+**Delia** Joanna Van Gyseghem  
+**Nick** Paul Raffield  
+**Jan** Sherry Baines  
+**Malcolm** Peter Temple  
+**Kate** Katy Secombe  
+**Trevor** Michael Shaw  
+**Susannah** Diana Morrison
+
+**Note:** This production is unique for the Stephen Joseph Theatre as it was originally produced in The Round, before being re-directed with the same company for the end-stage The McCarthy in the venue prior to a UK end-stage tour. The McCarthy production opened on 19 December and closed on 12 January 2001 before going on tour.
 
 ### London Revival (2002)
 
@@ -278,23 +232,17 @@ Diana Morrison**Note:** This production is unique for the Stephen Joseph Theatre
 
 **Director:** Loveday Ingram  
 **Design:** Lez Brotherston  
-**Lighting:** Paul Pyant**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Richard Briers  
-June Whitfield  
-Nigel Lindsay  
-Samantha Spiro  
-Jasper Britton  
-Suzy Aitchison  
-Jason Watkins  
-Rose Keegan
+**Lighting:** Paul Pyant
+
+**Character** **Actor**  
+**Ernest** Richard Briers  
+**Delia** June Whitfield  
+**Nick** Nigel Lindsay  
+**Jan** Samantha Spiro  
+**Malcolm** Jasper Britton  
+**Kate** Suzy Aitchison  
+**Trevor** Jason Watkins  
+**Susannah** Rose Keegan
 
 ### London Revival (2009)
 
@@ -306,23 +254,17 @@ Rose Keegan
 **Director:** Peter Hall  
 **Design:** Simon Higlett  
 **Lighting:** Peter Mumford  
-**Costumes:** Mark Bouman**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-Nicholas le Provost  
-Jane Asher  
-Tony Gardner  
-Lucy Briers  
-Daniel Betts  
-Finty Williams  
-Orlando Seale  
-Rachel Pickup
+**Costumes:** Mark Bouman
+
+**Character** **Actor**  
+**Ernest** Nicholas le Provost  
+**Delia** Jane Asher  
+**Nick** Tony Gardner  
+**Jan** Lucy Briers  
+**Malcolm** Daniel Betts  
+**Kate** Finty Williams  
+**Trevor** Orlando Seale  
+**Susannah** Rachel Pickup
 
 ### London Transfer (2010)
 
@@ -335,20 +277,16 @@ Rachel Pickup
 **Director:** Peter Hall  
 **Design:** Simon Higlett  
 **Lighting:** Peter Mumford  
-**Costumes:** Mark Bouman & Mia Flodquist**Character**  
-Ernest  
-Delia  
-Nick  
-Jan  
-Malcolm  
-Kate  
-Trevor  
-Susannah**Actor**  
-David Horovitch  
-Jenny Seagrove  
-Tony Gardner  
-Sara Crowe  
-Daniel Bretts  
-Finty Williams  
-Orlando Seale  
-Rachel Pickup*All research for this page by Simon Murgatroyd.*
+**Costumes:** Mark Bouman & Mia Flodquist
+
+**Character** **Actor**  
+**Ernest** David Horovitch  
+**Delia** Jenny Seagrove  
+**Nick** Tony Gardner  
+**Jan** Sara Crowe  
+**Malcolm** Daniel Bretts  
+**Kate** Finty Williams  
+**Trevor** Orlando Seale  
+**Susannah** Rachel Pickup
+
+*All research for this page by Simon Murgatroyd.*

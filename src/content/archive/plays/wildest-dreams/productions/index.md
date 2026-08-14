@@ -22,23 +22,19 @@ play: "wildest-dreams"
 
 **Stage Manager:** Jane Eliot-Webb  
 **Deputy Stage Manager:** Sallith Goodman  
-**Assistant Stage Manager:** Chris Savage**Character**  
-Stanley Inchbridge  
-Hazel Inchbridge  
-Warren Wrigley  
-Rick Toller  
-Marcie Banks  
-Austen Skate  
-Thelma Wrigley  
-Larry Banks**Actor**  
-Barry McCarthy  
-Anna Keaveney  
-Gary Whitaker  
-Isabel Lloyd  
-Rebecca Lacey\*  
-Peter Laird  
-Elizabeth Rider  
-Glyn Grain*\*During the original run of the production, Rebecca Lacey left the production for two weeks following the death of her father. During her absence, the role of Marcie was played by Lesley Meade.*
+**Assistant Stage Manager:** Chris Savage
+
+**Character** **Actor**  
+**Stanley Inchbridge** Barry McCarthy  
+**Hazel Inchbridge** Anna Keaveney  
+**Warren Wrigley** Gary Whitaker  
+**Rick Toller** Isabel Lloyd  
+**Marcie Banks** Rebecca Lacey\*  
+**Austen Skate** Peter Laird  
+**Thelma Wrigley** Elizabeth Rider  
+**Larry Banks** Glyn Grain
+
+*\*During the original run of the production, Rebecca Lacey left the production for two weeks following the death of her father. During her absence, the role of Marcie was played by Lesley Meade.*
 
 ### London Premiere (1993)
 
@@ -58,20 +54,16 @@ Glyn Grain*\*During the original run of the production, Rebecca Lacey left the p
 
 **Stage Manager:** Eric Lumsden  
 **Deputy Stage Manager:** Peter Doubleday  
-**Assistant Stage Manager:** Kathryn Hoodless**Character**  
-Stanley Inchbridge  
-Hazel Inchbridge  
-Warren Wrigley  
-Rick Toller  
-Marcie Banks  
-Austen Skate  
-Thelma Wrigley  
-Larry Banks**Actor**  
-Barry McCarthy  
-Brenda Blethyn  
-Gary Whitaker  
-Jenna Russell  
-Sophie Thompson  
-Peter Laird  
-Andree Evans  
-Paul Bentall*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Kathryn Hoodless
+
+**Character** **Actor**  
+**Stanley Inchbridge** Barry McCarthy  
+**Hazel Inchbridge** Brenda Blethyn  
+**Warren Wrigley** Gary Whitaker  
+**Rick Toller** Jenna Russell  
+**Marcie Banks** Sophie Thompson  
+**Austen Skate** Peter Laird  
+**Thelma Wrigley** Andree Evans  
+**Larry Banks** Paul Bentall
+
+*All research for this page by Simon Murgatroyd.*

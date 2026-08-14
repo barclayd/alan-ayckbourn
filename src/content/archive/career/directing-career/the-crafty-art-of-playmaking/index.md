@@ -8,71 +8,45 @@ order: 416
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Herb Gardner  
+**New Play:** No  
+**Venue:** The Old Vic, London  
+**Staging:** End-stage
 
-**Venue:**  
-**Staging:**Herb Gardner  
-No
-
-The Old Vic, London  
-End-stage**First performance:**  
-**Opening night:**  
-**Final performance:**7 March 1995  
-TBC 1995  
-TBC 1995
+**First performance:** 7 March 1995  
+**Opening night:** TBC 1995  
+**Final performance:** TBC 1995
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Dialect Coach:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Jackie Staines  
+**Design:** Jan Bee Brown  
+**Dialect Coach:** Judith Windsor  
+**Stage Manager:** Jane Eliot-Webb  
+**Stage Manager:** Philip Rees  
+**Deputy Stage Manager:** Alyson Powell  
+**Assistant Stage Manager:** Victoria Murray
 
-**Stage Manager:**  
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Jackie Staines  
-Jan Bee Brown  
-Judith Windsor
-
-Jane Eliot-Webb  
-Philip Rees  
-Alyson Powell  
-Victoria Murray**Character**  
-Charlie  
-Josh  
-Eddie  
-Gusta  
-Zaretsky  
-Young Joey  
-Young Joey  
-Hannah Di Blindeh  
-Nick  
-Finney the Book  
-Jimmy Scalso  
-Blue  
-Young Charlie  
-Young Charlie  
-Joey, aged 17**Actor**  
-Michael Mears  
-Adam Levy  
-Judd Hirsch  
-Jane Bertish  
-Trevor Martin  
-Adam Goldsmith  
-Simon Humphrey  
-Madeline Blakeney  
-Bill Bailey  
-Colin Higgins  
-John Guerrasio  
-Milton Cadman  
-Danny Worters  
-David Fried  
-Adam Levy
+**Character** **Actor**  
+**Charlie** Michael Mears  
+**Josh** Adam Levy  
+**Eddie** Judd Hirsch  
+**Gusta** Jane Bertish  
+**Zaretsky** Trevor Martin  
+**Young Joey** Adam Goldsmith  
+**Young Joey** Simon Humphrey  
+**Hannah Di Blindeh** Madeline Blakeney  
+**Nick** Bill Bailey  
+**Finney the Book** Colin Higgins  
+**Jimmy Scalso** John Guerrasio  
+**Blue** Milton Cadman  
+**Young Charlie** Danny Worters  
+**Young Charlie** David Fried  
+**Joey, aged 17** Adam Levy
 
 ### Notes
 
 ○ This production transferred from the Stephen Joseph Theatre In The Round, Scarborough.  
-○ This was the West End and European premiere of *Conversations With My Father*.*All research for this page by Simon Murgatroyd. Image copyright: The Old Vic.*
+○ This was the West End and European premiere of *Conversations With My Father*.  
+*All research for this page by Simon Murgatroyd. Image copyright: The Old Vic.*

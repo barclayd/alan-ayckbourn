@@ -65,4 +65,5 @@ order: 2344
 
 "Everyone has a favourite Ayckbourn story. My own concerns both his ability to write to a deadline and the consequences it has for actors. Pushing danger to the limits he once finished a new play, scheduled to have its first reading the following morning late on a Sunday night. He drove round Scarborough in the wee small hours hours to deliver scripts to the actors' homes so at least they would have them to read over breakfast. As he pushed a script through one letterbox in a gloomily darkened hallway, he suddenly, to his alarm, felt a prehensile hand on the other side clawing it desperately from his grasp...
 
-"Alan himself told me the story which shows that his awareness of the absurdity of life extends to himself. Which probably explains exactly why he has lasted so gloriously long. May he have the happiest and most festive of birthdays."*Copyright: Michael Billington. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"Alan himself told me the story which shows that his awareness of the absurdity of life extends to himself. Which probably explains exactly why he has lasted so gloriously long. May he have the happiest and most festive of birthdays."  
+*Copyright: Michael Billington. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

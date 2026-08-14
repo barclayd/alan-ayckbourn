@@ -8,13 +8,13 @@ order: 554
 
 ### Production Details
 
-****Play:** Wuthering Heights** **Character** **Actor**  
-****Author:** Jurneman Winch** **Joseph** David Campton  
-****First performance:** 23 June 1960** **Nellie** Faynia Jeffery  
-****Final performance:** 31 August 1960** **Robert Earnshaw** Derrick Gilbert  
-****Venue:** The Library Theatre, Scarborough** **Heathcliff** Alan Ayckbourn  
-****Staging:** Round** **Cathy** Hazel Anne Lee  
-****Director:** Julian Herington** **Edgar Linton** David Glover
+**Play:** Wuthering Heights **Character** **Actor**  
+**Author:** Jurneman Winch **Joseph** David Campton  
+**First performance:** 23 June 1960 **Nellie** Faynia Jeffery  
+**Final performance:** 31 August 1960 **Robert Earnshaw** Derrick Gilbert  
+**Venue:** The Library Theatre, Scarborough **Heathcliff** Alan Ayckbourn  
+**Staging:** Round **Cathy** Hazel Anne Lee  
+**Director:** Julian Herington **Edgar Linton** David Glover
 
 ### Quotes & Notes
 
@@ -29,4 +29,5 @@ During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at
 "Hazel Anne Lee made an innocent wayward Cathy and Alan Ayckbourn drew Heathcliff in bold sweeping strokes. David Glover brought polished talent to the difficult part of Linton and Derrick Gilbert made a memorable first appearance as Cathy's sinister drunken brother."
 
 **Review extract from The Stage** (30 June 1960)  
-"Alan Ayckbourn makes a bold and vigorous Heathcliff."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn makes a bold and vigorous Heathcliff."  
+*All research for this page by Simon Murgatroyd.*

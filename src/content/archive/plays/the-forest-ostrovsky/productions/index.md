@@ -25,7 +25,8 @@ Sound: Adam Rudd
 **Stage Manager:** Lesley Walmsley  
 **Deputy Stage Manager:** Sue Millin  
 **Assistant Stage Manager:** Stu Calder  
-**Assistant Stage Manager:** Brewyeen Rowland**Character**  
+**Assistant Stage Manager:** Brewyeen Rowland  
+**Character**  
 Aksyusha  
 Karp  
 Sergeyevich Bulanov  
@@ -38,7 +39,8 @@ Pyotr (Petya)
 Gennadiy Neschastlivtsev  
 Arkadiy Schastlivtsev
 
-**Musicians****Actor**  
+**Musicians**  
+**Actor**  
 Niamh Linehan  
 Frank Windsor  
 David Bark-Jones  
@@ -53,4 +55,5 @@ Michael Williams
 
 Joe Townsend (MD / violin)  
 Steve Bentley-Klein (violin)  
-Rick Bolton (balalaika)*All research for this page by Simon Murgatroyd.*
+Rick Bolton (balalaika)  
+*All research for this page by Simon Murgatroyd.*

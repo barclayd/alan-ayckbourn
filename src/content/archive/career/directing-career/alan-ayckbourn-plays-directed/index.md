@@ -8,63 +8,39 @@ order: 9999
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Will Evans & Valentine  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Will Evans & Valentine  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**11 December 1985  
-11 December 1985  
-11 January 1986
+**First performance:** 11 December 1985  
+**Opening night:** 11 December 1985  
+**Final performance:** 11 January 1986
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Michael Thomas  
+**Design:** Edward Lipscomb  
+**Music:** Paul Todd  
+**Stage Manager:** David Milling  
+**Deputy Stage Manager:** David Emmett-Miller  
+**Deputy Stage Manager:** Jo Linfoot  
+**Assistant Stage Manager:** Paul Quinn  
+**Assistant Stage Manager:** Kathryn-Anne Woodward
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Michael Thomas  
-Edward Lipscomb  
-Paul Todd
-
-David Milling  
-David Emmett-Miller  
-Jo Linfoot  
-Paul Quinn  
-Kathryn-Anne Woodward**Character**  
-Sprules  
-Simpson  
-Miss Benita Mullett  
-Louisa Allington  
-Aubrey Allington  
-Giles  
-James Chesterman  
-Jean Everard  
-Henery  
-George Mailtand**Actor**  
-Russell Dixon  
-Heather Stoney  
-Angela Rooks  
-Caroline Goodall  
-Robin Herford  
-Randal Herley  
-Geoffrey Banks  
-Lesley Meade  
-Nicholas Lumley  
-John Peters
+**Character** **Actor**  
+**Sprules** Russell Dixon  
+**Simpson** Heather Stoney  
+**Miss Benita Mullett** Angela Rooks  
+**Louisa Allington** Caroline Goodall  
+**Aubrey Allington** Robin Herford  
+**Giles** Randal Herley  
+**James Chesterman** Geoffrey Banks  
+**Jean Everard** Lesley Meade  
+**Henery** Nicholas Lumley  
+**George Mailtand** John Peters
 
 ### Notes
 
@@ -73,4 +49,5 @@ John Peters
 
 ### Links
 
-○ ***[Tons Of Money](/plays/tons-of-money-evans-and-valentine)*[at Alan Ayckbourn's Official Website.](/plays/tons-of-money-evans-and-valentine)***All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ ***[Tons Of Money](/plays/tons-of-money-evans-and-valentine)*[at Alan Ayckbourn's Official Website.](/plays/tons-of-money-evans-and-valentine)**  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

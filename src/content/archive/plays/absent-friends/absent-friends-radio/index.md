@@ -17,25 +17,19 @@ play: "absent-friends"
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Diana  
-Evelyn  
-Marge  
-Paul  
-John  
-ColinDickon Reed  
-Peter King
+**Director** Dickon Reed  
+**Adaptation** Peter King  
+**Character** **Actor**  
+**Diana** Jo Manning Wilson  
+**Evelyn** Angela Pleasance  
+**Marge** Miriam Margoyles  
+**Paul** Anthony Jackson  
+**John** John Ball  
+**Colin** David Jason
 
-**Actor**  
-Jo Manning Wilson  
-Angela Pleasance  
-Miriam Margoyles  
-Anthony Jackson  
-John Ball  
-David Jason**Note:** For reasons not fully ascertained from archive, this adaptation of *Absent Friends* was not approved by Alan Ayckbourn (who may not actually have been aware of it until 1978). Unhappy with the dramatic cuts to the play, he requested the play be withdrawn and not broadcast again. It has subsequently been broadcast but the BBC has now officially been requested to not broadcast the adaptation in the future.
+**Note:** For reasons not fully ascertained from archive, this adaptation of *Absent Friends* was not approved by Alan Ayckbourn (who may not actually have been aware of it until 1978). Unhappy with the dramatic cuts to the play, he requested the play be withdrawn and not broadcast again. It has subsequently been broadcast but the BBC has now officially been requested to not broadcast the adaptation in the future.
 
 ### Television (1985)
 
@@ -50,28 +44,20 @@ David Jason**Note:** For reasons not fully ascertained from archive, this adapta
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Lighting**  
-**Design**  
-**Music**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-John  
-Colin  
-Paul  
-Marge  
-Evelyn  
-DianaMichael Simpson  
-Dave Sydenham  
-Don Homfray  
-Harry Rabinowitz  
-Shaun Sutton
+**Director** Michael Simpson  
+**Lighting** Dave Sydenham  
+**Design** Don Homfray  
+**Music** Harry Rabinowitz  
+**Producer** Shaun Sutton  
+**Character** **Actor**  
+**John** Hywel Bennett  
+**Colin** Tom Courtenay  
+**Paul** Dinsdale Landen  
+**Marge** Maureen Lipman  
+**Evelyn** Kate Lock  
+**Diana** Julia McKenzie
 
-**Actor**  
-Hywel Bennett  
-Tom Courtenay  
-Dinsdale Landen  
-Maureen Lipman  
-Kate Lock  
-Julia McKenzie**Notes:** The original transmission of *Absent Friends* was preceded with an introduction by the actress Julia McKenzie.*All research for this page by Simon Murgatroyd.*
+**Notes:** The original transmission of *Absent Friends* was preceded with an introduction by the actress Julia McKenzie.  
+*All research for this page by Simon Murgatroyd.*

@@ -5,7 +5,8 @@ order: 1509
 play: "the-revengers-comedies"
 ---
 
-*Within the Ayckbourn Archive at the* ***[Borthwick Institute for Archives](/)****, there is a significant document regarding The Revengers' Comedies which contains Alan Ayckbourn's original notes and thoughts on the play; possibly as a brief for the press and publicity office at the Stephen Joseph Theatre In The Round.*  
+*Within the Ayckbourn Archive at the* ***[Borthwick Institute for Archives](/)****, there is a significant document regarding The Revengers' Comedies which contains Alan Ayckbourn's original notes and thoughts on the play; possibly as a brief for the press and publicity office at the Stephen Joseph Theatre In The Round.*
+
 THE REVENGERS’ COMEDIES
 
 Some thoughts and images.

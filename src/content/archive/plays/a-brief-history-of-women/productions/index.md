@@ -24,49 +24,30 @@ play: "a-brief-history-of-women"
 
 **Stage Manager:** Nikki Colclough  
 **Deputy Stage Manager:** Amy Bending  
-**Assistant Stage Manager:** Emma Lang**Character**  
-Anthony Spates  
-Lord Edward Kirkbridge  
-Dr Wyn Williams  
-Dennis Dunbar  
-Gordon  
-Captain Fergus ffluke  
-Desmond Kennedy  
-Rory Tudor  
-Jim Seabourne-Watson  
-Lady Caroline Kirkbridge  
-Miss Eva Miller  
-Pat Wriggly  
-Caroline Seabourne  
-Lady Cynthia  
-Miss Ursula Brock  
-Jenny Tyler  
-Tilly Seabourne-Watson  
-Mrs Reginald ffluke  
-Miss Phoebe Long  
-Gillian Dunbar  
-Ruby Jensen**Actor**  
-Antony Eden  
-Russell Dixon  
-Russell Dixon  
-Russell Dixon  
-Russell Dixon  
-Laurence Pears  
-Laurence Pears  
-Laurence Pears  
-Laurence Pears  
-Frances Marshall  
-Frances Marshall  
-Frances Marshall  
-Frances Marshall  
-Laura Matthews  
-Laura Matthews  
-Laura Matthews  
-Laura Matthews  
-Louise Shuttleworth  
-Louise Shuttleworth  
-Louise Shuttleworth  
-Louise Shuttleworth
+**Assistant Stage Manager:** Emma Lang
+
+**Character** **Actor**  
+**Anthony Spates** Antony Eden  
+**Lord Edward Kirkbridge** Russell Dixon  
+**Dr Wyn Williams** Russell Dixon  
+**Dennis Dunbar** Russell Dixon  
+**Gordon** Russell Dixon  
+**Captain Fergus ffluke** Laurence Pears  
+**Desmond Kennedy** Laurence Pears  
+**Rory Tudor** Laurence Pears  
+**Jim Seabourne-Watson** Laurence Pears  
+**Lady Caroline Kirkbridge** Frances Marshall  
+**Miss Eva Miller** Frances Marshall  
+**Pat Wriggly** Frances Marshall  
+**Caroline Seabourne** Frances Marshall  
+**Lady Cynthia** Laura Matthews  
+**Miss Ursula Brock** Laura Matthews  
+**Jenny Tyler** Laura Matthews  
+**Tilly Seabourne-Watson** Laura Matthews  
+**Mrs Reginald ffluke** Louise Shuttleworth  
+**Miss Phoebe Long** Louise Shuttleworth  
+**Gillian Dunbar** Louise Shuttleworth  
+**Ruby Jensen** Louise Shuttleworth
 
 ### New York Premiere (2017)
 
@@ -85,46 +66,29 @@ Louise Shuttleworth
 
 **Stage Manager:** TBC  
 **Deputy Stage Manager:** TBC  
-**Assistant Stage Manager:** TBC**Character**  
-Anthony Spates  
-Lord Edward Kirkbridge  
-Dr Wyn Williams  
-Dennis Dunbar  
-Gordon  
-Captain Fergus ffluke  
-Desmond Kennedy  
-Rory Tudor  
-Jim Seabourne-Watson  
-Lady Caroline Kirkbridge  
-Miss Eva Miller  
-Pat Wriggly  
-Caroline Seabourne  
-Lady Cynthia  
-Miss Urusla Brock  
-Jenny Tyler  
-Tilly Seabourne-Watson  
-Mrs Reginald ffluke  
-Miss Phoebe Long  
-Gillian Dunbar  
-Ruby Jensen**Actor**  
-Antony Eden  
-Russell Dixon  
-Russell Dixon  
-Russell Dixon  
-Russell Dixon  
-Laurence Pears  
-Laurence Pears  
-Laurence Pears  
-Laurence Pears  
-Frances Marshall  
-Frances Marshall  
-Frances Marshall  
-Frances Marshall  
-Laura Matthews  
-Laura Matthews  
-Laura Matthews  
-Laura Matthews  
-Louise Shuttleworth  
-Louise Shuttleworth  
-Louise Shuttleworth  
-Louise Shuttleworth*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** TBC
+
+**Character** **Actor**  
+**Anthony Spates** Antony Eden  
+**Lord Edward Kirkbridge** Russell Dixon  
+**Dr Wyn Williams** Russell Dixon  
+**Dennis Dunbar** Russell Dixon  
+**Gordon** Russell Dixon  
+**Captain Fergus ffluke** Laurence Pears  
+**Desmond Kennedy** Laurence Pears  
+**Rory Tudor** Laurence Pears  
+**Jim Seabourne-Watson** Laurence Pears  
+**Lady Caroline Kirkbridge** Frances Marshall  
+**Miss Eva Miller** Frances Marshall  
+**Pat Wriggly** Frances Marshall  
+**Caroline Seabourne** Frances Marshall  
+**Lady Cynthia** Laura Matthews  
+**Miss Urusla Brock** Laura Matthews  
+**Jenny Tyler** Laura Matthews  
+**Tilly Seabourne-Watson** Laura Matthews  
+**Mrs Reginald ffluke** Louise Shuttleworth  
+**Miss Phoebe Long** Louise Shuttleworth  
+**Gillian Dunbar** Louise Shuttleworth  
+**Ruby Jensen** Louise Shuttleworth
+
+*All research for this page by Simon Murgatroyd.*

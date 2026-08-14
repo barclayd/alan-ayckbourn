@@ -8,68 +8,43 @@ order: 488
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Anton Chekhov  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Anton Chekhov  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**1 May 1979  
-2 May 1979  
-16 June 1979
+**First performance:** 1 May 1979  
+**Opening night:** 2 May 1979  
+**Final performance:** 16 June 1979
 
 ### Company Details
 
-**Director:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Design:** Jeremy Turner  
+**Stage Manager:** Sean O'Neill  
+**Deputy Stage Manager:** Isobel Nimmo  
+**Assistant Stage Manager:** Sarah Wynter  
+**Assistant Stage Manager:** Eric Lumsden  
+**Assistant Stage Manager:** Gareth Phillips
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Jeremy Turner
-
-Sean O'Neill  
-Isobel Nimmo  
-Sarah Wynter  
-Eric Lumsden  
-Gareth Phillips  
-**Character**  
-Irina Arkadin  
-Constantine Treplev  
-Peter Sorin  
-Nina Zarechny  
-Ilya Shamrayev  
-Polina  
-Masha  
-Boris Trigorin  
-Eugene Dorn  
-Simon Medvedenko  
-Jacob  
-A Chef  
-A Housemaid**Actor**  
-Shelagh Stuttle  
-Robin Murphy  
-John Arthur  
-Lavinia Bertram  
-Andrew Jarvis  
-Judy Bridgland  
-Alison Skilbeck  
-Stephen Mallatratt  
-Robin Herford  
-Robin Bowerman  
-Paul Todd  
-Gareth Philips  
-Sarah Wynter
+**Character** **Actor**  
+**Irina Arkadin** Shelagh Stuttle  
+**Constantine Treplev** Robin Murphy  
+**Peter Sorin** John Arthur  
+**Nina Zarechny** Lavinia Bertram  
+**Ilya Shamrayev** Andrew Jarvis  
+**Polina** Judy Bridgland  
+**Masha** Alison Skilbeck  
+**Boris Trigorin** Stephen Mallatratt  
+**Eugene Dorn** Robin Herford  
+**Simon Medvedenko** Robin Bowerman  
+**Jacob** Paul Todd  
+**A Chef** Gareth Philips  
+**A Housemaid** Sarah Wynter
 
 ### Notes
 
 ○ *The Seagull* marked the first time Alan Ayckbourn had directed a play by one of his favourite playwrights and influences, Anton Chekhov.  
-○ This was a production of Ronald Hingley's adaptation of Chekhov's play.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ This was a production of Ronald Hingley's adaptation of Chekhov's play.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

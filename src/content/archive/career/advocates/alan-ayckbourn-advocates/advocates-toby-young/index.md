@@ -8,4 +8,5 @@ order: 9999
 
 ### Quotes
 
-"Tom Stoppard and Alan Ayckbourn have both ably demonstrated that it's perfectly possible to pitch plays at a mass audience without pandering to the lowest common denominator."*Copyright: Toby Young. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"Tom Stoppard and Alan Ayckbourn have both ably demonstrated that it's perfectly possible to pitch plays at a mass audience without pandering to the lowest common denominator."  
+*Copyright: Toby Young. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

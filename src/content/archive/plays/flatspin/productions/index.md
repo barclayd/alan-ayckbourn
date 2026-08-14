@@ -24,21 +24,16 @@ play: "flatspin"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Shane Thom**Character**  
-Edna Stricken  
-Tracy Taylor  
-Rosie Seymour  
-Maurice Whickett  
-Tommy Angel  
-Annette Sefton-Wilcox  
-Sam Berryman**Actor**  
-Jacqueline King  
-Saskia Butler  
-Alison Pargeter  
-Robert Austin  
-Tim Faraday  
-Beth Tuckey  
-Bill Champion
+**Assistant Stage Manager:** Shane Thom
+
+**Character** **Actor**  
+**Edna Stricken** Jacqueline King  
+**Tracy Taylor** Saskia Butler  
+**Rosie Seymour** Alison Pargeter  
+**Maurice Whickett** Robert Austin  
+**Tommy Angel** Tim Faraday  
+**Annette Sefton-Wilcox** Beth Tuckey  
+**Sam Berryman** Bill Champion
 
 ### London Premiere (2002)
 
@@ -51,21 +46,16 @@ Bill Champion
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
-**Music:** Keith Jarrett**Character**  
-Edna Stricken  
-Tracy Taylor  
-Rosie Seymour  
-Maurice Whickett  
-Tommy Angel  
-Annette Sefton-Wilcox  
-Sam Berryman**Actor**  
-Jacqueline King  
-Saskia Butler  
-Alison Pargeter  
-Robert Austin  
-Tim Faraday  
-Beth Tuckey  
-Bill Champion
+**Music:** Keith Jarrett
+
+**Character** **Actor**  
+**Edna Stricken** Jacqueline King  
+**Tracy Taylor** Saskia Butler  
+**Rosie Seymour** Alison Pargeter  
+**Maurice Whickett** Robert Austin  
+**Tommy Angel** Tim Faraday  
+**Annette Sefton-Wilcox** Beth Tuckey  
+**Sam Berryman** Bill Champion
 
 ### Revival (2016)
 
@@ -77,21 +67,16 @@ Bill Champion
 **Director:** Richard Baron  
 **Design:** Ken Harrison  
 **Lighting:** Wayne Dowdeswell  
-**Fight Director:** Raymond Short**Character**  
-Edna Stricken  
-Tracy Taylor  
-Rosie Seymour  
-Maurice Whickett  
-Tommy Angel  
-Annette Sefton-Wilcox  
-Sam Berryman**Actor**  
-Amanda Osborne  
-Kirsty Mackay  
-Gemma McElhinney  
-Owen Aaronvitch  
-David Mahoney  
-Stephanie Wilson  
-Christopher Price
+**Fight Director:** Raymond Short
+
+**Character** **Actor**  
+**Edna Stricken** Amanda Osborne  
+**Tracy Taylor** Kirsty Mackay  
+**Rosie Seymour** Gemma McElhinney  
+**Maurice Whickett** Owen Aaronvitch  
+**Tommy Angel** David Mahoney  
+**Annette Sefton-Wilcox** Stephanie Wilson  
+**Sam Berryman** Christopher Price
 
 ### Revival (2019)
 
@@ -103,18 +88,15 @@ Christopher Price
 **Director:** John Cotgrave  
 **Design:** Richard McArtney  
 **Technical:** James Clare  
-**Music:** Paul Chamberlain**Character**  
-Edna Stricken  
-Tracy Taylor  
-Rosie Seymour  
-Maurice Whickett  
-Tommy Angel  
-Annette Sefton-Wilcox  
-Sam Berryman**Actor**  
-Maria Sykes  
-Melissa Wadsworth  
-Claire Marlein  
-Philip Butterfield  
-Todd Wilson  
-Catherine Traveller  
-Andrew Goulding*All research for this page by Simon Murgatroyd.*
+**Music:** Paul Chamberlain
+
+**Character** **Actor**  
+**Edna Stricken** Maria Sykes  
+**Tracy Taylor** Melissa Wadsworth  
+**Rosie Seymour** Claire Marlein  
+**Maurice Whickett** Philip Butterfield  
+**Tommy Angel** Todd Wilson  
+**Annette Sefton-Wilcox** Catherine Traveller  
+**Sam Berryman** Andrew Goulding
+
+*All research for this page by Simon Murgatroyd.*

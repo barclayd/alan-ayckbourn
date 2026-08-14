@@ -33,4 +33,5 @@ order: 568
 "Alan Ayckbourn, as Nora's husband, epitomised the middle-class 'morality and respectability at all costs' society of the late nineteenth century."
 
 **Review extract from The Guardian** (16 January 1962)  
-"Alan Ayckbourn plays Torvald Helmer... but apart from speaking too quickly, he is convincing."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn plays Torvald Helmer... but apart from speaking too quickly, he is convincing."  
+*All research for this page by Simon Murgatroyd.*

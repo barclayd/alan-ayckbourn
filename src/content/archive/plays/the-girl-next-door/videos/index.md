@@ -23,4 +23,5 @@ Posted: 24 May 2021
 
 Production images by Tony Bartholomew from the world premiere of Alan Ayckbourn's *The Girl Next Door* at the Stephen Joseph Theatre during June 2021.
 
-Researched & edited by Simon Murgatroyd.  *The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*
+Researched & edited by Simon Murgatroyd.  
+*The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*

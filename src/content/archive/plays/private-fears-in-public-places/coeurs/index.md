@@ -5,7 +5,8 @@ order: 725
 play: "private-fears-in-public-places"
 ---
 
-*This section contains details of articles relating to the French film adaptation of Private Fears In Public Places, directed by Alain Resnais. Click on a link in the right-hand column below to access the relevant article.* *It is worth noting that Alan Ayckbourn considers Alain Resnais's film adaptation of Private Fears In Public Places (or Coeurs) as the finest screen adaptation of his plays and it is undoubtedly his favourite - followed closely by Resnais's adaptation of Smoking / No Smoking (a two film adaptation of the Intimate Exchanges play cycle which maintains the play's variable plot line structure and multiple different endings from a single origin scene).*
+*This section contains details of articles relating to the French film adaptation of Private Fears In Public Places, directed by Alain Resnais. Click on a link in the right-hand column below to access the relevant article.*  
+*It is worth noting that Alan Ayckbourn considers Alain Resnais's film adaptation of Private Fears In Public Places (or Coeurs) as the finest screen adaptation of his plays and it is undoubtedly his favourite - followed closely by Resnais's adaptation of Smoking / No Smoking (a two film adaptation of the Intimate Exchanges play cycle which maintains the play's variable plot line structure and multiple different endings from a single origin scene).*
 
 ### Film (2006)
 
@@ -28,38 +29,24 @@ play: "private-fears-in-public-places"
 **Video:** Not available  
 **DVD:** 2007 (available)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**  
-**Photography**  
-**Matte Painting**  
-**Editing**  
-**Design**  
-**Costumes**  
-**Music**  
-**Sound**
+**Digital:** Not available
 
-**Character**  
-Charlotte  
-Dan  
-Thierry  
-Lionel  
-Nicole  
-Gaelle  
-ArthurAlain Resnais  
-Jean-Michael Ribes  
-Éric Gautier  
-Stéphane Keller  
-Hervé de Luze  
-Jacques Saulnier  
-Jackie Budin  
-Mark Snow  
-Larold Rebhun
+**Director** Alain Resnais  
+**Adaptation** Jean-Michael Ribes  
+**Photography** Éric Gautier  
+**Matte Painting** Stéphane Keller  
+**Editing** Hervé de Luze  
+**Design** Jacques Saulnier  
+**Costumes** Jackie Budin  
+**Music** Mark Snow  
+**Sound** Larold Rebhun  
+**Character** **Actor**  
+**Charlotte** Sabine Azéma  
+**Dan** Lambert Wilson  
+**Thierry** André Dussollier  
+**Lionel** Pierre Arditi  
+**Nicole** Laura Morante  
+**Gaelle** Isabelle Carré  
+**Arthur** Claude Rich
 
-**Actor**  
-Sabine Azéma  
-Lambert Wilson  
-André Dussollier  
-Pierre Arditi  
-Laura Morante  
-Isabelle Carré  
-Claude Rich*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-14/page50.html"
 order: 802
 ---
 
-This is a comprehensive list of the actors (surnames G - I) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**James Gaddas:** A Chorus Of Disapproval (LT 1986)  
+This is a comprehensive list of the actors (surnames G - I) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**James Gaddas:** A Chorus Of Disapproval (LT 1986)  
 **Bernard Gallagher:** Mr Whatnot (WP 1963)  
 **Teresa Gallagher:** Things We Do For Love (WP 1997)  
 **Jenny Galloway:** A Chorus Of Disapproval (NT 1985); Me, Myself And I (NT 1985)  
@@ -118,4 +119,5 @@ This is a comprehensive list of the actors (surnames G - I) who have appeared in
 **Kelly Hunter:** A Chorus Of Disapproval (NT 1985); Me, Myself And I (NT 1985)  
 **Krystle Hylton:** Roundelay (WP 2014)  
 **Jessica Hynes:** The Norman Conquests (LR 2008)  
-**George Innes:** Bedroom Farce (LT 1978)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**George Innes:** Bedroom Farce (LT 1978)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

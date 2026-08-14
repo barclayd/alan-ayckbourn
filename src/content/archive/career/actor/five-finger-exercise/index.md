@@ -43,4 +43,5 @@ During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at
 "The gently withdrawn stillness of Walter marked a new challenge and an enlargement of Alan Ayckbourn's range; this is an actor who is fully at home in the medium."
 
 **Review extract from the Yorkshire Post** (7 June 1961)  
-"Alan Ayckbourn, however, knows his tutor. I remember this young actor from the very first days of Theatre in the Round. He has matured into a most sensitive performer with a gentle, humorous understanding of this part. He has attained the stillness of grief remembered and ever present, and a withdrawn and quiet pride. Above all this is a musical role spoken with great beauty and tenderness. It is a performance to remember."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn, however, knows his tutor. I remember this young actor from the very first days of Theatre in the Round. He has matured into a most sensitive performer with a gentle, humorous understanding of this part. He has attained the stillness of grief remembered and ever present, and a withdrawn and quiet pride. Above all this is a musical role spoken with great beauty and tenderness. It is a performance to remember."  
+*All research for this page by Simon Murgatroyd.*

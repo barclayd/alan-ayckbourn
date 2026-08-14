@@ -50,4 +50,5 @@ And, of course, to Sir Alan and Lady Ayckbourn for listening to and supporting m
 
 *Simon Murgatroyd*  
 *Alan Ayckbourn's Archivist*  
-*August 2023*   [![](./_images/stacks-image-243a22c.png)](http://scarboroughmuseumsandgalleries.org.uk/)   The Ayckbourn Collection pages of Alan Ayckbourn's Official Website have been created in partnership with **[Scarborough Museums and Galleries](http://scarboroughmuseumsandgalleries.org.uk/)**, home of The Ayckbourn Collection since 2023. Facilitated by Simon Murgatroyd M.A. and donated by Sir Alan and Lady Ayckbourn, this collection of material celebrates the contribution of Alan Ayckbourn, Stephen Joseph and theatre in the round to Scarborough's theatrical history and heritage.
+*August 2023*  
+[![](./_images/stacks-image-243a22c.png)](http://scarboroughmuseumsandgalleries.org.uk/)   The Ayckbourn Collection pages of Alan Ayckbourn's Official Website have been created in partnership with **[Scarborough Museums and Galleries](http://scarboroughmuseumsandgalleries.org.uk/)**, home of The Ayckbourn Collection since 2023. Facilitated by Simon Murgatroyd M.A. and donated by Sir Alan and Lady Ayckbourn, this collection of material celebrates the contribution of Alan Ayckbourn, Stephen Joseph and theatre in the round to Scarborough's theatrical history and heritage.

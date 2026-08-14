@@ -22,17 +22,14 @@ play: "if-i-were-you"
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Emma Hanson**Character**  
-Jill Rodale  
-Mal Rodale  
-Chrissie Snaith  
-Dean Snaith  
-Sam Rodale**Actor**  
-Liza Goddard  
-John Branwell  
-Saskia Butler  
-Andrew Brookes  
-David Hartley
+**Assistant Stage Manager:** Emma Hanson
+
+**Character** **Actor**  
+**Jill Rodale** Liza Goddard  
+**Mal Rodale** John Branwell  
+**Chrissie Snaith** Saskia Butler  
+**Dean Snaith** Andrew Brookes  
+**Sam Rodale** David Hartley
 
 ### Tour (2007)
 
@@ -43,17 +40,14 @@ David Hartley
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Costumes:** Jennie Boyer**Character**  
-Jill Rodale  
-Mal Rodale  
-Chrissie Snaith  
-Dean Snaith  
-Sam Rodale**Actor**  
-Liza Goddard  
-John Branwell  
-Saskia Butler  
-Richard Stacey  
-Dominic Hecht
+**Costumes:** Jennie Boyer
+
+**Character** **Actor**  
+**Jill Rodale** Liza Goddard  
+**Mal Rodale** John Branwell  
+**Chrissie Snaith** Saskia Butler  
+**Dean Snaith** Richard Stacey  
+**Sam Rodale** Dominic Hecht
 
 ### Tour (2010)
 
@@ -64,14 +58,13 @@ Dominic Hecht
 **Director:** Joe Harmston  
 **Design:** Simon Scullion  
 **Lighting:** Mark Howell  
-**Producer:** Bill Kenwright**Character**  
-Jill Rodale  
-Mal Rodale  
-Chrissie Snaith  
-Dean Snaith  
-Sam Rodale**Actor**  
-Liza Goddard  
-Jack Ellis  
-Lauren Drummond  
-Ayden Callaghan  
-David Osmond*All research for this page by Simon Murgatroyd.*
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Jill Rodale** Liza Goddard  
+**Mal Rodale** Jack Ellis  
+**Chrissie Snaith** Lauren Drummond  
+**Dean Snaith** Ayden Callaghan  
+**Sam Rodale** David Osmond
+
+*All research for this page by Simon Murgatroyd.*

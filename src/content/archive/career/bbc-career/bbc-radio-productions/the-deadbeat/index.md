@@ -8,31 +8,24 @@ order: 623
 
 ### Production Details
 
-**Author:**
+**Author:** Gwyneth Jones  
+**Broadcast:** 4 December 1965 @ 2.15pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Gwyneth Jones
+**Director:**  
+Alan Ayckbourn
 
-4 December 1965 @ 2.15pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Johnny  
-Mother  
-Edward  
-Marlow  
-Susan  
-Paul  
-Alick  
-Policeman  
-**Actor**  
-Geoffrey Hinsliff  
-Katherine Parr  
-Ralph Lawton  
-Robert Keegan  
-Anne Stallybrass  
-Colin Edwynn  
-James Beck  
-Tom Harrison
+**Character** **Actor**  
+**Johnny** Geoffrey Hinsliff  
+**Mother** Katherine Parr  
+**Edward** Ralph Lawton  
+**Marlow** Robert Keegan  
+**Susan** Anne Stallybrass  
+**Paul** Colin Edwynn  
+**Alick** James Beck  
+**Policeman** Tom Harrison
 
 ### Notes
 
-○ *The Deadbeat* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Deadbeat* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

@@ -8,30 +8,24 @@ order: 630
 
 ### Production Details
 
-**Author:**
+**Author:** Edward Crowley  
+**Broadcast:** 18 June 1969 @ 8.15pm  
+**Channel:** BBC Radio 2
 
-**Broadcast:**  
-**Channel:**Edward Crowley
+**Director:**  
+Alan Ayckbourn
 
-18 June 1969 @ 8.15pm  
-BBC Radio 2**Director:**Alan Ayckbourn**Character**  
-Barman  
-Frank  
-Arthur  
-Vi  
-George  
-Helen  
-Pat  
-Tony**Actor**  
-George Holden  
-Colin Edwynn  
-Alan Rothwell  
-Heather Stoney  
-George A Cooper  
-Ella Atkinson  
-Elizabeth Ashton  
-Paul Webster
+**Character** **Actor**  
+**Barman** George Holden  
+**Frank** Colin Edwynn  
+**Arthur** Alan Rothwell  
+**Vi** Heather Stoney  
+**George** George A Cooper  
+**Helen** Ella Atkinson  
+**Pat** Elizabeth Ashton  
+**Tony** Paul Webster
 
 ### Notes
 
-○ *Give Me A Little Kiss* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Give Me A Little Kiss* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

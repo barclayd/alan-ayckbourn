@@ -20,7 +20,8 @@ play: "the-boy-who-fell-into-a-book"
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
 **Music:** John Pattison  
-**Keyboards:** Simon Cryer**Character**  
+**Keyboards:** Simon Cryer  
+**Character**  
 Kevin  
 Rockfist Slim  
 Blunt / Bishop / Wolf / Headless Monk /  
@@ -28,7 +29,8 @@ Narrator
 Dad / Gareth / Ebenezer / Daddy Woobly  
 Monique / Mummy Woobly  
 Pawn / Queen / Jennet /  
-Little Red Riding Hood / Baby Woobly**Actor**  
+Little Red Riding Hood / Baby Woobly  
+**Actor**  
 Charlie Hayes  
 Richard Derrington  
 Robert Austin
@@ -45,7 +47,8 @@ Dorothy Atkinson
 
 **Director:** Steve Marmion  
 **Design:** Hayley Grindle  
-**Lighting:** Philip Gladwell**Character**  
+**Lighting:** Philip Gladwell  
+**Character**  
 Kevin  
 Rockfist Slim  
 Blunt / Bishop / Wolf / Headless Monk /  
@@ -53,7 +56,8 @@ Narrator
 Dad / Gareth / Ebenezer / Daddy Woobly  
 Monique / Mummy Woobly  
 Pawn / Queen / Jennet /  
-Little Red Riding Hood / Baby Woobly**Actor**  
+Little Red Riding Hood / Baby Woobly  
+**Actor**  
 Kerron Darby  
 Simon Kunz  
 Hammed Animashaun
@@ -72,7 +76,8 @@ Joanna Holden
 **Music:** Cathy Shostak, Eric Angus  
 **Musical Director:** Mark Warman
 
-**Stage Manager:** Lisa Mellor**Character**  
+**Stage Manager:** Lisa Mellor  
+**Character**  
 Kevin  
 Rockfist Slim  
 Monique / Mummy Wubbly  
@@ -80,7 +85,8 @@ White Pawn / White Queen / Jennet /
 Baby Wubbly  
 Red Bishop / Gran-Wolf / Narrator  
 Red Gareth / Rumpelstiltskin /  
-Ebenezer / Daddy Wubbly**Actor**  
+Ebenezer / Daddy Wubbly  
+**Actor**  
 Evelyn Hoskins  
 Nicolas Colicos  
 Janie Dee  
@@ -109,29 +115,20 @@ Bill Champion
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Neil Webb  
-**Assistant Stage Manager:** Leoni Jai Hamilton**Character**  
-Kevin  
-Rockfist Slim  
-Monique / Mummy Wubbly  
-White Pawn / White Queen / Jennet /  
-Baby Wubbly  
-Red Bishop / Gran-Wolf / Narrator  
-Red Gareth / Rumpelstiltskin /  
-Ebenezer / Daddy Wubbly
+**Assistant Stage Manager:** Leoni Jai Hamilton
 
+**Character** **Actor**  
+**Kevin** Evelyn Hoskins  
+**Rockfist Slim** Nicolas Colicos  
+**Monique / Mummy Wubbly** Katie Birtill  
+**White Pawn / White Queen / Jennet /** Natasha J Barnes  
+**Baby Wubbly**  
+**Red Bishop / Gran-Wolf / Narrator** John Barr  
+**Red Gareth / Rumpelstiltskin /** Stephen Matthews  
+**Ebenezer / Daddy Wubbly**  
 **The Band**  
-Keyboard  
-Electric Bass / Acoustic Guitar  
-Flute / Tenor Sax / bass Clarinet**Actor**  
-Evelyn Hoskins  
-Nicolas Colicos  
-Katie Birtill  
-Natasha J Barnes
+**Keyboard** Chris Guard  
+**Electric Bass / Acoustic Guitar** Timothy Dullaway  
+**Flute / Tenor Sax / bass Clarinet** Anthony Lawton
 
-John Barr  
-Stephen Matthews
-
-Chris Guard  
-Timothy Dullaway  
-Anthony Lawton  
 *All research for this page by Simon Murgatroyd.*

@@ -21,19 +21,15 @@ play: "absent-friends"
 **Stage Manager:** David Millard  
 **Deputy Stage Manager:** Trevor John-Smith  
 **Assistant Stage Manager:** Helga Wood  
-**Assistant Stage Manager:** Kevin Wood**Character**  
-Paul  
-Diana  
-John  
-Evelyn  
-Colin  
-Marge**Actor**  
-Ronald Herdman  
-Heather Stoney  
-Stephen Mallatratt  
-Eileen O’Brien  
-Christopher Godwin  
-Janet Dale
+**Assistant Stage Manager:** Kevin Wood
+
+**Character** **Actor**  
+**Paul** Ronald Herdman  
+**Diana** Heather Stoney  
+**John** Stephen Mallatratt  
+**Evelyn** Eileen O’Brien  
+**Colin** Christopher Godwin  
+**Marge** Janet Dale
 
 ### London Premiere (1975)
 
@@ -44,19 +40,15 @@ Janet Dale
 
 **Director:** Eric Thompson  
 **Design:** Derek Cousins  
-**Lighting:** Nick Chelton**Character**  
-Paul  
-Diana  
-John  
-Evelyn  
-Colin  
-Marge**Actor**  
-Peter Bowles  
-Pat Heywood  
-Ray Brooks  
-Cheryl Kennedy  
-Richard Briers  
-Phyllida Law
+**Lighting:** Nick Chelton
+
+**Character** **Actor**  
+**Paul** Peter Bowles  
+**Diana** Pat Heywood  
+**John** Ray Brooks  
+**Evelyn** Cheryl Kennedy  
+**Colin** Richard Briers  
+**Marge** Phyllida Law
 
 ### North American Premiere (1976)
 
@@ -68,19 +60,17 @@ Phyllida Law
 **Director:** Eric Thompson  
 **Design:** Edward Burbridge  
 **Lighting:** Ronald Wallace  
-**Costumes:** Michele Suzanne**Character**  
-Paul  
-Diana  
-John  
-Evelyn  
-Colin  
-Marge**Actor**  
-Joseph Maher  
-Anne Jackson  
-Jacob Brooke  
-Dale Hodges  
-Eli Wallach  
-Christina Pickles**Note:** The following year, *Absent Friends* was revived with Eric Thompson directing and Eli Wllach and Anne Jackson reprising their roles and produced at the Kennedy Centre, Washington (11 july - 13 August, 1977). This was almost certainly a try-out for an intended New York transfer which never transpired.
+**Costumes:** Michele Suzanne
+
+**Character** **Actor**  
+**Paul** Joseph Maher  
+**Diana** Anne Jackson  
+**John** Jacob Brooke  
+**Evelyn** Dale Hodges  
+**Colin** Eli Wallach  
+**Marge** Christina Pickles
+
+**Note:** The following year, *Absent Friends* was revived with Eric Thompson directing and Eli Wllach and Anne Jackson reprising their roles and produced at the Kennedy Centre, Washington (11 july - 13 August, 1977). This was almost certainly a try-out for an intended New York transfer which never transpired.
 
 ### Tour (1982)
 
@@ -91,7 +81,8 @@ Christina Pickles**Note:** The following year, *Absent Friends* was revived with
 
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
-**Lighting:** Francis Lynch**Character**  
+**Lighting:** Francis Lynch  
+**Character**  
 Paul  
 Diana  
 John  
@@ -99,7 +90,8 @@ Evelyn
 Colin  
 Marge
 
-Understudies**Actor**  
+Understudies  
+**Actor**  
 Graeme Eton  
 Lavinia Bertram  
 Robin Bowerman  
@@ -108,7 +100,8 @@ Robin Herford
 Susan Uebel
 
 Jeni Giffen  
-John Skitt**Note:** In 1982, Alan Ayckbourn and the Stephen Joseph Theatre In The Round company had a two month residency at the Alley Theatre, Houston. The recently premiered *Way Upstream* was produced alongside an entirely new production of *Absent Friends*. The play ran for two weeks in rep from 16 - 24 March and 1 - 4 April 1982.
+John Skitt  
+**Note:** In 1982, Alan Ayckbourn and the Stephen Joseph Theatre In The Round company had a two month residency at the Alley Theatre, Houston. The recently premiered *Way Upstream* was produced alongside an entirely new production of *Absent Friends*. The play ran for two weeks in rep from 16 - 24 March and 1 - 4 April 1982.
 
 ### New York Premiere (1991)
 
@@ -121,19 +114,15 @@ John Skitt**Note:** In 1982, Alan Ayckbourn and the Stephen Joseph Theatre In Th
 **Director:** Lynn Meadow  
 **Design:** John Lee Beatty  
 **Lighting:** Ken Billington  
-**Costumes:** Jane Greenwood**Character**  
-Paul  
-Diana  
-John  
-Evelyn  
-Colin  
-Marge**Actor**  
-David Purdham  
-Brenda Blethyn  
-John Curtess  
-Gillian Anderson  
-Peter Frechette  
-Ellen Parker
+**Costumes:** Jane Greenwood
+
+**Character** **Actor**  
+**Paul** David Purdham  
+**Diana** Brenda Blethyn  
+**John** John Curtess  
+**Evelyn** Gillian Anderson  
+**Colin** Peter Frechette  
+**Marge** Ellen Parker
 
 ### Revival (1997)
 
@@ -149,19 +138,15 @@ Ellen Parker
 
 **Stage Manager:** Richard Clayton  
 **Deputy Stage Manager:** Harry Teale  
-**Assistant Stage Manager:** Caroline Healey**Character**  
-Paul  
-Diana  
-John  
-Evelyn  
-Colin  
-Marge**Actor**  
-Paul Raffield  
-Janet Dibley  
-Tyler Butterworth  
-Tamzin Outhwaite  
-Martin Ball  
-Jacqueline King
+**Assistant Stage Manager:** Caroline Healey
+
+**Character** **Actor**  
+**Paul** Paul Raffield  
+**Diana** Janet Dibley  
+**John** Tyler Butterworth  
+**Evelyn** Tamzin Outhwaite  
+**Colin** Martin Ball  
+**Marge** Jacqueline King
 
 ### London Revival (2012)
 
@@ -174,16 +159,14 @@ Jacqueline King
 **Director:** Jeremy Herrin  
 **Design:** Tom Scutt  
 **Lighting:** Peter Mumford  
-**Sound:** Ian Dickinson (for Autograph)**Character**  
-Paul  
-Diana  
-John  
-Evelyn  
-Colin  
-Marge**Actor**  
-Steffan Rhodri  
-Katherine Parkinson  
-David Armand  
-Kara Tointon  
-Reece Shearsmith  
-Elizabeth Berrington*All research for this page by Simon Murgatroyd.*
+**Sound:** Ian Dickinson (for Autograph)
+
+**Character** **Actor**  
+**Paul** Steffan Rhodri  
+**Diana** Katherine Parkinson  
+**John** David Armand  
+**Evelyn** Kara Tointon  
+**Colin** Reece Shearsmith  
+**Marge** Elizabeth Berrington
+
+*All research for this page by Simon Murgatroyd.*

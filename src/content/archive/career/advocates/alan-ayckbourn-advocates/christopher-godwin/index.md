@@ -24,4 +24,5 @@ order: 2322
 *(2018)*
 
 "There’s a feeling in rehearsal that between the actor and the best directors - and I think Alan is one - you transcend the script and make something different. It’s obviously the same basis but it becomes something else, because it goes beyond itself thanks to the collaboration between director and actor. I think that that certainly happens when I work with Alan."  
-*(2018)**Copyright: Christopher Godwin. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2018)*  
+*Copyright: Christopher Godwin. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Extract from correspondence by Alan Ayckbourn from 1987 in which he explains how both the technology and situation of *Henceforward…* are not that far-fetched or out of the realms of foreseeable possibility.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-df25364.jpg)
@@ -37,6 +40,7 @@ The poster for the West End premiere of *Henceforward…* in 1988. The cartoon i
 **Copyright:** Michael Codron Productions  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*     *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

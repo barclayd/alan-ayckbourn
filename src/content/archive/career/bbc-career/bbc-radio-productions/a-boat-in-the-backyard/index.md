@@ -8,23 +8,21 @@ order: 619
 
 ### Production Details
 
-**Author:**
+**Author:** David Bramley  
+**Broadcast:** 20 September 1969 @ 2pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**David Bramley
+**Director:**  
+Alan Ayckbourn
 
-20 September 1969 @ 2pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Arthur  
-Cora  
-Harry  
-Jack Dandy**Actor**  
-Wilfred Pickles  
-Fiona Walker  
-Brian Peck  
-Sam Kelly
+**Character** **Actor**  
+**Arthur** Wilfred Pickles  
+**Cora** Fiona Walker  
+**Harry** Brian Peck  
+**Jack Dandy** Sam Kelly
 
 ### Notes
 
 ○ *A Boat In The Backyard* was broadcast in the *Afternoon Theatre* slot.  
-○ *A Boat In The Backyard* received its theatrical world premiere at the Library Theatre, Scarborough, in 1968; the Library Theatre being Alan Ayckbourn's home theatre.*All research for this page by Simon Murgatroyd.*
+○ *A Boat In The Backyard* received its theatrical world premiere at the Library Theatre, Scarborough, in 1968; the Library Theatre being Alan Ayckbourn's home theatre.  
+*All research for this page by Simon Murgatroyd.*

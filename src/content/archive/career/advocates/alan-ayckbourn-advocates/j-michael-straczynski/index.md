@@ -12,4 +12,5 @@ order: 2363
 *(1999)*
 
 "The best point of comparison \[with his comic book *Resistance*\] would be to a series of three plays by Alan Ayckbourn, *The Norman Conquests*. The plays take place in the same house, with the same characters, over the same three days. One play is set in the dining room, another in the living room, the third in the garden. Events seen in one instalment reflect, refract or absolutely change the way you saw those same events in another instalment. You can see any one of the plays and get a full, satisfying story, but if you see all three, a much more interesting meta-story begins to emerge. That's how we're approaching this universe."  
-*(2000)**Copyright: Joseph Michael Straczynski. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2000)*  
+*Copyright: Joseph Michael Straczynski. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

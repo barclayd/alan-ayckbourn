@@ -233,4 +233,5 @@ order: 44
 
 **[2026:](/life/chronology/2026)**  
 *How The Other Half Loves* is revived by The Old Vic as part of Artistic Director Matthew Warchus' farewell season.  
-**Play:** *The Trial of Romeo Oscar**The concise chronology is copyright of Simon Murgatroyd and should not be reproduced without permission. All research for this section is also by Simon Murgatroyd and should be credited if reproduced.*
+**Play:** *The Trial of Romeo Oscar*  
+*The concise chronology is copyright of Simon Murgatroyd and should not be reproduced without permission. All research for this section is also by Simon Murgatroyd and should be credited if reproduced.*

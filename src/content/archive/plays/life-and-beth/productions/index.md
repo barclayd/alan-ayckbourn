@@ -20,19 +20,15 @@ play: "life-and-beth"
 
 **Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Lisa Mellor  
-**Assistant Stage Manager:** Emma Hanson**Character**  
-Beth  
-Gordon  
-Martin  
-Ella  
-Connie  
-David**Actor**  
-Liza Goddard  
-Adrian McLoughlin  
-Richard Stacey  
-Ruth Gibson  
-Susie Blake  
-Ian Hogg
+**Assistant Stage Manager:** Emma Hanson
+
+**Character** **Actor**  
+**Beth** Liza Goddard  
+**Gordon** Adrian McLoughlin  
+**Martin** Richard Stacey  
+**Ella** Ruth Gibson  
+**Connie** Susie Blake  
+**David** Ian Hogg
 
 ### Tour (2009)
 
@@ -44,24 +40,17 @@ Ian Hogg
 **Assistant Director:** Clare Prenton  
 **Design:** Pip Leckenby  
 **Lighting:** Kath Geraghty  
-**Music:** John Pattison**Character**  
-Beth  
-Gordon  
-Martin  
-Ella  
-Connie  
-David
+**Music:** John Pattison
 
-Understudy  
-Understudy  
-Understudy**Actor**  
-Liza Goddard  
-Adrian McLoughlin  
-Richard Stacey  
-Ruth Gibson  
-Eileen Battye  
-Terence Booth
+**Character** **Actor**  
+**Beth** Liza Goddard  
+**Gordon** Adrian McLoughlin  
+**Martin** Richard Stacey  
+**Ella** Ruth Gibson  
+**Connie** Eileen Battye  
+**David** Terence Booth  
+**Understudy** Henry Everett  
+**Understudy** Julia Munrow  
+**Understudy** Katy Pye
 
-Henry Everett  
-Julia Munrow  
-Katy Pye*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

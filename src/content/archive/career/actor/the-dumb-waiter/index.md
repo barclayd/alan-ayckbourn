@@ -25,4 +25,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 
 1963 marked the last year Alan did any substantial amount of acting prior to his retiring from acting to concentrate on writing and directing from 1964 onwards.
 
-*The Dumb Waiter* was presented as a double bill with Harold Pinter's ***[The Collection](/career/actor/the-collection)***.*All research for this page by Simon Murgatroyd.*
+*The Dumb Waiter* was presented as a double bill with Harold Pinter's ***[The Collection](/career/actor/the-collection)***.  
+*All research for this page by Simon Murgatroyd.*

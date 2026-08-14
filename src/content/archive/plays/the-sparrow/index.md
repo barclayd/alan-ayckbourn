@@ -19,4 +19,5 @@ facts:
 **Availability**
 
 ***The Sparrow* quote**  
-"I think they're interesting, don't you? People. I was just thinking in that dance hall tonight. There we were, most of us, you know, shoving about - just for something to do really. Not even wanting to be there, most of us." **The Sparrow**
+"I think they're interesting, don't you? People. I was just thinking in that dance hall tonight. There we were, most of us, you know, shoving about - just for something to do really. Not even wanting to be there, most of us."  
+**The Sparrow**

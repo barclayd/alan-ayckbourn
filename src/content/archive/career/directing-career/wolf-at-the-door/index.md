@@ -8,75 +8,45 @@ order: 507
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Henry Becque  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Henry Becque  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**27 September 1989  
-3 October 1989  
-21 October 1989
+**First performance:** 27 September 1989  
+**Opening night:** 3 October 1989  
+**Final performance:** 21 October 1989
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Francis Stevenson  
+**Design:** Michael Holt  
+**Music:** John Pattison  
+**Stage Manager:** Vaughan Curtis  
+**Deputy Stage Manager:** Natasha Betteridge  
+**Deputy Stage Manager:** Lynda Snowden
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Deputy Stage Manager:**Alan Ayckbourn  
-Francis Stevenson  
-Michael Holt  
-John Pattison
-
-Vaughan Curtis  
-Natasha Betteridge  
-Lynda Snowden**Character**  
-M. Vigeron, a manufacturer  
-Mme Vigneron, his wife  
-Judith, their daughter  
-Marie, their daughter  
-Blanche, their daughter  
-Gaston, their son  
-Auguste, their servant  
-Rosalie, their servant  
-Mme de Saint-Genis  
-Merckens, a music teacher  
-Teissier, a former banker  
-Bourdon, a lawyer  
-Lenormond, a civil servant  
-George de Saint-Genis  
-General Fromentin  
-Doctor  
-Lefort, an architect  
-Dupois, an upholsterer**Actor**  
-James Tomlinson  
-Elizabeth Bell  
-Jennifer Wiltsie  
-Robin McCaffrey  
-Claire Skinner  
-Ian Dunn  
-Daniel Collings  
-Doreen Andrew  
-Alison Skilbeck  
-Sean Chapman  
-Bernard Hepton  
-Jon Strickland  
-Robin Newman  
-Dean Daley  
-Robin Bowerman  
-Bill Moody  
-Robin Bowerman  
-Bill Moody
+**Character** **Actor**  
+**M. Vigeron, a manufacturer** James Tomlinson  
+**Mme Vigneron, his wife** Elizabeth Bell  
+**Judith, their daughter** Jennifer Wiltsie  
+**Marie, their daughter** Robin McCaffrey  
+**Blanche, their daughter** Claire Skinner  
+**Gaston, their son** Ian Dunn  
+**Auguste, their servant** Daniel Collings  
+**Rosalie, their servant** Doreen Andrew  
+**Mme de Saint-Genis** Alison Skilbeck  
+**Merckens, a music teacher** Sean Chapman  
+**Teissier, a former banker** Bernard Hepton  
+**Bourdon, a lawyer** Jon Strickland  
+**Lenormond, a civil servant** Robin Newman  
+**George de Saint-Genis** Dean Daley  
+**General Fromentin** Robin Bowerman  
+**Doctor** Bill Moody  
+**Lefort, an architect** Robin Bowerman  
+**Dupois, an upholsterer** Bill Moody
 
 ### Notes
 
@@ -85,4 +55,5 @@ Bill Moody
 
 ### Links
 
-○ ***[Wolf At The Door](/plays/wolf-at-the-door-becque)*[at Alan Ayckbourn's Official Website.](/plays/wolf-at-the-door-becque)***All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ ***[Wolf At The Door](/plays/wolf-at-the-door-becque)*[at Alan Ayckbourn's Official Website.](/plays/wolf-at-the-door-becque)**  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

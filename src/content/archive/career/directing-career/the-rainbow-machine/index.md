@@ -8,34 +8,29 @@ order: 481
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Alan Plater  
+**New Play:** Yes  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round
 
-**Venue:**  
-**Staging:**Alan Plater  
-Yes
-
-Victoria Theatre, Stoke-on-Trent  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**10 June 1963  
-10 June 1963  
-To be confirmed, 1963
+**First performance:** 10 June 1963  
+**Opening night:** 10 June 1963  
+**Final performance:** To be confirmed, 1963
 
 ### Company Details
 
-**Director:**  
-**Production Assistant:**
+**Director:** Alan Ayckbourn  
+**Production Assistant:** Caroline Smith  
+**Stage Manager:** Andrew McKillop
 
-**Stage Manager:**Alan Ayckbourn  
-Caroline Smith
-
-Andrew McKillop**Character**  
-Jordan**Actor**  
+**Character**  
+Jordan  
+**Actor**  
 Alan Ayckbourn
 
 ### Notes
 
 ○ *The Rainbow Machine* was originally written for and produced on BBC Radio. This marked the first stage production of the play.  
 ○ *The Rainbow Machine* was presented in a double bill with ***[Miss Julie](/career/directing-career/miss-julie)***.  
-○ Information for *The Rainbow Machine* was provided by The Michael T Mooney Archive.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ Information for *The Rainbow Machine* was provided by The Michael T Mooney Archive.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

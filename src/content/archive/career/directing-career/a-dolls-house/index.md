@@ -8,56 +8,28 @@ order: 455
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Henrik Ibsen  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre  
+**Location:** The Round  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Henrik Ibsen  
-No
-
-Stephen Joseph Theatre  
-The Round  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**21 October 1998  
-27 October 1998  
-21 November 1998
+**First performance:** 21 October 1998  
+**Opening night:** 27 October 1998  
+**Final performance:** 21 November 1998
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Lighting:**  
-**Choreographer:**
-
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Michael Holt  
-Mick Hughes  
-Sheila Carter
-
-Dawn Erica Dyson  
-Fleur Linden Beeley  
-Keith Tunstall  
-Sara Wells**Character**  
-Nora  
-Torvald Helmer  
-Dr Rank  
-Mrs Kristine Linde  
-Nils Krogstad  
-Anne-Marie  
-Helene**Actor**  
-Claire Carrie  
-Richard Derrington  
-Julian Forsyth  
-Dorothy Atkinson  
-Robert Austin  
-Nicola Sloane  
-Charlie Hayes
+**Director:** Alan Ayckbourn **Character** **Actor**  
+**Design:** Michael Holt **Nora** Claire Carrie  
+**Lighting:** Mick Hughes **Torvald Helmer** Richard Derrington  
+**Choreographer:** Sheila Carter **Dr Rank** Julian Forsyth  
+**Stage Manager:** Dawn Erica Dyson **Mrs Kristine Linde** Dorothy Atkinson  
+**Deputy Stage Manager:** Fleur Linden Beeley **Nils Krogstad** Robert Austin  
+**Assistant Stage Manager:** Keith Tunstall **Anne-Marie** Nicola Sloane  
+**Assistant Stage Manager:** Sara Wells **Helene** Charlie Hayes
 
 ### Notes
 
-○ Despite being a fan of Ibsen’s plays, this marked the first time Alan Ayckbourn had directed a play by Ibsen.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ Despite being a fan of Ibsen’s plays, this marked the first time Alan Ayckbourn had directed a play by Ibsen.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

@@ -34,4 +34,5 @@ order: 578
 **Review extract from The Guardian** (4 December 1962)  
 "At first Alan Ayckbourn seems something of a lightweight in the part of the rainmaker - but he disciplines himself gradually to the lizard-like stillness and sudden movement that is the characteristic of all confidence tricksters."
 
-*Information for this page has been provided by The Michael T Mooney Archive.**All research for this page by Simon Murgatroyd.*
+*Information for this page has been provided by The Michael T Mooney Archive.*  
+*All research for this page by Simon Murgatroyd.*

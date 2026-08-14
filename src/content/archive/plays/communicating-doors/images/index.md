@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 *Communicating Doors* was not the play Alan Ayckbourn was supposed to write for 1994. *Private Fears In Public Places* was advertised, but then replaced when Alan couldn't write the intended play. This memo has the brochure copy for the original play and a premonition to the theatre's press officer, it might not go as planned!
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-2b4419e.jpg)
@@ -22,6 +25,9 @@ A collection of archive material, posters, rehearsal and production images perta
 ![](./_images/stacks-image-89dfb44.jpg)
 
 Alan Ayckbourn's own sketch for the design of the pivotal - literally - communicating door for the play's set.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -31,6 +37,9 @@ Alan Ayckbourn's own sketch for the design of the pivotal - literally - communic
 
 Alan Ayckbourn's hand-drawn sketch of the in-the-round set for the world premiere of *Communicating Doors* at the Stephen Joseph Theatre in the Round, Scarborough, during 1994.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-157ff0f.jpg)
@@ -38,6 +47,9 @@ Alan Ayckbourn's hand-drawn sketch of the in-the-round set for the world premier
 ![](./_images/stacks-image-93f13b1.jpg)
 
 A clearer sketch by the playwright from 1994 showing the basic layout of the set for the world premiere of *Communicating Doors*.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -57,6 +69,9 @@ A photo - not of great quality - of the model box for the in-the-round set for t
 ![](./_images/stacks-image-2b4b5a5.jpg)
 
 Alan Ayckbourn's hand-drawn sketch for the stage design for either a proscenium arch tour of *Communicating Doors* from the Stephen Joseph Theatre in the Round or the West End premiere of the play, both in 1995.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -102,6 +117,7 @@ The poster for Alan Ayckbourn's 2010 revival of *Communicating Doors* at the Ste
 **Copyright:** Scarborough Theatre Trust  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*      *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

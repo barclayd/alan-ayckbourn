@@ -23,21 +23,15 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamMark Miller
-
-**Actor**  
-Richard Briers  
-Rosemary Leach  
-Stephen Moore  
-Rosemary McHale  
-Constance Chapman
+**Director** Mark Miller  
+**Character** **Actor**  
+**Dennis** Richard Briers  
+**Vera, his wife** Rosemary Leach  
+**Neil** Stephen Moore  
+**Marjorie, Dennis’s mother** Rosemary McHale  
+**Pam** Constance Chapman
 
 ### Radio (1984)
 
@@ -51,23 +45,18 @@ Constance Chapman
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamGordon House  
-Richard Wigmore
+**Director** Gordon House  
+**Adaptation** Richard Wigmore  
+**Character** **Actor**  
+**Dennis** Peter Vaughan  
+**Vera, his wife** Jennifer Piercey  
+**Neil** Hilda Kriseman  
+**Marjorie, Dennis’s mother** Nigel Anthony  
+**Pam** Frances Jeater
 
-**Actor**  
-Peter Vaughan  
-Jennifer Piercey  
-Hilda Kriseman  
-Nigel Anthony  
-Frances Jeater**Note:** It is believed this production was actually first broadcast in 1983 on the BBC World Service, but no details are known about this. As a result, the date of the known transmission has been used for reference.
+**Note:** It is believed this production was actually first broadcast in 1983 on the BBC World Service, but no details are known about this. As a result, the date of the known transmission has been used for reference.
 
 ### Audio Play (2000)
 
@@ -79,21 +68,15 @@ Frances Jeater**Note:** It is believed this production was actually first broadc
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2000 (deleted)  
-**Digital:** 2011 (available)**Director**
+**Digital:** 2011 (available)
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamWaris Hussein
-
-**Actor**  
-Ken Danziger  
-Judy Geeson  
-Alfred Molina  
-Miriam Margolyes  
-Gia Carides
+**Director** Waris Hussein  
+**Character** **Actor**  
+**Dennis** Ken Danziger  
+**Vera, his wife** Judy Geeson  
+**Neil** Alfred Molina  
+**Marjorie, Dennis’s mother** Miriam Margolyes  
+**Pam** Gia Carides
 
 ### Radio (2008)
 
@@ -107,20 +90,15 @@ Gia Carides
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamGordon House  
-Gordon House
+**Director** Gordon House  
+**Adaptation** Gordon House  
+**Character** **Actor**  
+**Dennis** Stephen Critchlow  
+**Vera, his wife** Samantha Spiro  
+**Neil** Auriol Smith  
+**Marjorie, Dennis’s mother** Chris Pavlo  
+**Pam** Alison Pettitt
 
-**Actor**  
-Stephen Critchlow  
-Samantha Spiro  
-Auriol Smith  
-Chris Pavlo  
-Alison Pettitt*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

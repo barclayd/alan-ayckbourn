@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Alan Ayckbourn's earliest notes for *Joking Apart* suggest a 'three act study of seven characters over x years' alongside a diagram of unspecified relationships. The actual play is four scenes with 11 characters over 12 years.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-390e0b3.jpg)
@@ -22,6 +25,9 @@ Alan Ayckbourn's earliest notes for *Joking Apart* suggest a 'three act study of
 ![](./_images/stacks-image-4110679.jpg)
 
 More early notes by Alan Ayckbourn for *Joking Apart* showing the 4 scene structure of the play over 12 years - emphasising the play begins in the past and moves to the present - alongside the ages for each of the characters in each scene.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -45,6 +51,7 @@ A flyer for the West End premiere of *Joking Apart* at the Globe Theatre in 1979
 **Copyright:** To be confirmed  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

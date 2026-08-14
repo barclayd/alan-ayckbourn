@@ -21,24 +21,18 @@ This page contains details of recordings and adaptations of Alan Ayckbourn & Den
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2009 (deleted)  
-**Digital:** Not available**Character**  
-Carabosse  
-The Prince  
-Princess Aurora  
-The Pigcutter  
-First Narrator  
-Second Narrator  
-Third Narrator  
-Fourth Narrator  
-Fifth Narrator  
-Sixth Narrator**Actor**  
-Anna Francolini  
-Duncan Patrick  
-Alice Fearn  
-Ben Fox  
-Verity Quade  
-Annalene Beechey  
-Helen French  
-Matthew White  
-Ian McLarnon  
-Jon-Paul Hevey*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Digital:** Not available
+
+**Character** **Actor**  
+**Carabosse** Anna Francolini  
+**The Prince** Duncan Patrick  
+**Princess Aurora** Alice Fearn  
+**The Pigcutter** Ben Fox  
+**First Narrator** Verity Quade  
+**Second Narrator** Annalene Beechey  
+**Third Narrator** Helen French  
+**Fourth Narrator** Matthew White  
+**Fifth Narrator** Ian McLarnon  
+**Sixth Narrator** Jon-Paul Hevey
+
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

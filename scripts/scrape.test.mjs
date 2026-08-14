@@ -178,6 +178,43 @@ test('columns that are not a table are left as two columns', () => {
   assert.doesNotMatch(halves, /\*\*/);
 });
 
+test('a column of paragraphs is prose, however neatly it balances', () => {
+  // The chronology pages: "Notable Events" beside "World Premieres", each with a
+  // heading and the same number of entries. Zipping them printed the year's
+  // events interleaved with its premieres, and the credit line that closed the
+  // right-hand column then read as boilerplate for the whole merged block.
+  const year = row(
+    column(
+      b('Notable Events'),
+      'began work as a Radio Drama Producer at Leeds. He directed more than 50 radio plays there in his first year.',
+      'wrote &lsquo;Meet My Father&rsquo; while still working in radio. It was written at Stephen Joseph&rsquo;s suggestion.',
+    ),
+    column(
+      b('World Premieres'),
+      '&lsquo;Meet My Father&rsquo;',
+      '8 July: Theatre in the Round, Scarborough',
+    ),
+  );
+  assert.match(
+    year,
+    /^\*\*Notable Events\*\* {2}\nbegan work as a Radio Drama/,
+  );
+  assert.match(year, /\n\*\*World Premieres\*\* {2}\n‘Meet My Father’/);
+});
+
+test('a long cell is still a cell when it is not prose', () => {
+  // One Two Weeks With The Queen actor covers eight roles in 137 characters.
+  const roles =
+    'Aussie Nurse / Flight Attendant / American Tourist / Student Doctor / Cafe Woman / Pommy Nurse / Doctor Graham / Airport Woman';
+  assert.match(
+    row(
+      column(b('Character'), 'Colin', roles),
+      column(b('Actor'), 'Tamblyn Lord', 'Dorothy Atkinson'),
+    ),
+    new RegExp(`\\*\\*${roles.replace(/\//g, '\\/')}\\*\\* Dorothy Atkinson$`),
+  );
+});
+
 test('a column of labels shorter than its values is not paired', () => {
   const uneven = row(
     column(b('Play:'), b('Venue:'), b('Staging:')),

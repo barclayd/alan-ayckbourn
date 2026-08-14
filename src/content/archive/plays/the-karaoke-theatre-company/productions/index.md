@@ -20,16 +20,15 @@ play: "the-karaoke-theatre-company"
 
 **Stage Manager:** Nikki Colclough  
 **Deputy Stage Manager:** Jane Williamson  
-**Assistant Stage Manager:** Sarah Follon**Character**  
-Karen  
-Anna  
-Rufus  
-Alyssia  
-Oliver  
-Edie**Actor**  
-Rachel Caffrey  
-Louise Shuttleworth  
-Leigh Symonds  
-Jessie Hart  
-Andy Cryer  
-Sarah Follon**Notes:** The programme for the original production of *The Karaoke Theatre Company* was designed to give the impression The Karaoke Theatre Company was a real company and so on the credit page, the characters rather than the actors are credited. The names of the actors can be found subtly incorporated into the character biographies. Alan Ayckbourn is also not credited as director in order to continue the conceit.*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Sarah Follon
+
+**Character** **Actor**  
+**Karen** Rachel Caffrey  
+**Anna** Louise Shuttleworth  
+**Rufus** Leigh Symonds  
+**Alyssia** Jessie Hart  
+**Oliver** Andy Cryer  
+**Edie** Sarah Follon
+
+**Notes:** The programme for the original production of *The Karaoke Theatre Company* was designed to give the impression The Karaoke Theatre Company was a real company and so on the credit page, the characters rather than the actors are credited. The names of the actors can be found subtly incorporated into the character biographies. Alan Ayckbourn is also not credited as director in order to continue the conceit.  
+*All research for this page by Simon Murgatroyd.*

@@ -11,4 +11,5 @@ order: 603
 **A Life in Theatre: The National Theatre**  
 Posted: 17 March 2022
 
-Alan Ayckbourn's Archivist Simon Murgatroyd looks at Alan Ayckbourn's long connection with the National Theatre & his two years as a Company Director. *The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*
+Alan Ayckbourn's Archivist Simon Murgatroyd looks at Alan Ayckbourn's long connection with the National Theatre & his two years as a Company Director.  
+*The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*

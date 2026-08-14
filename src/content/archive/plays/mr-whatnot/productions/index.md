@@ -44,7 +44,8 @@ play: "mr-whatnot"
 
 **Deputy Stage Manager:** David Monro  
 **Assistant Stage Manager:** Heather Stoney  
-**Assistant Stage Manager:** Arnold Beck  **Character**  
+**Assistant Stage Manager:** Arnold Beck  
+**Character**  
 Mr Whatnot (Mint)  
 Lord Slingsby-Craddock  
 Lady Slingsby-Craddock  
@@ -55,7 +56,8 @@ Herbert the Butler
 A Gardener  
 Agnes, the Maid
 
-Understudies **Actor**  
+Understudies  
+**Actor**  
 Peter King  
 Ronnie Barker  
 Judy Campbell  
@@ -129,7 +131,8 @@ Heather Stoney
 **Design:** Lucy Bradridge  
 **Lighting:** Richard Godin  
 **Sound:** Helen Atkinson  
-**Choreographer:** Ivan Fabrega  **Character**  
+**Choreographer:** Ivan Fabrega  
+**Character**  
 Mr Whatnot (Mint)  
 Lord Slingsby-Craddock  
 Lady Slingsby-Craddock  
@@ -137,11 +140,13 @@ Amanda, their daughter
 Cecil, her fiancé  
 A Tweedy Lady / Maid  
 Butler / Cyclist / Gardener /  
-Vicar **Actor**  
+Vicar  
+**Actor**  
 Juanma Rodriguez  
 Russell Dixon  
 Liz Crowther  
 Antonia Kinlay  
 Charles Hunt  
 Flick Fernando  
-George Keeler  *All research for this page by Simon Murgatroyd.*
+George Keeler  
+*All research for this page by Simon Murgatroyd.*

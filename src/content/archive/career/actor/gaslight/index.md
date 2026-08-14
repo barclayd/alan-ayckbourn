@@ -8,12 +8,12 @@ order: 591
 
 ### Production Details
 
-****Play:** Gaslight** **Character** **Actor**  
-****Author:** Patrick Hamilton** **Mrs Manningham** Heather Stoney  
-****First performance:** 22 October 1963** **Mr Manningham** Alan Ayckbourn  
-****Venue:** Victoria Theatre, Stoke-on-Trent** **Elizabeth** Caroline Smith  
-****Staging:** Round** **Nancy** Elizabeth Bell  
-****Director:** Bernard Gallagher** **Rough** Stanley Page
+**Play:** Gaslight **Character** **Actor**  
+**Author:** Patrick Hamilton **Mrs Manningham** Heather Stoney  
+**First performance:** 22 October 1963 **Mr Manningham** Alan Ayckbourn  
+**Venue:** Victoria Theatre, Stoke-on-Trent **Elizabeth** Caroline Smith  
+**Staging:** Round **Nancy** Elizabeth Bell  
+**Director:** Bernard Gallagher **Rough** Stanley Page
 
 ### Quotes & Notes
 
@@ -21,4 +21,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 
 1963 marked the last year Alan did any substantial amount of acting prior to his retiring from acting to concentrate on writing and directing from 1964 onwards.
 
-The programme for the production refers to the play as *Gas Light* rather than the accepted title of *Gaslight*.*All research for this page by Simon Murgatroyd.*
+The programme for the production refers to the play as *Gas Light* rather than the accepted title of *Gaslight*.  
+*All research for this page by Simon Murgatroyd.*

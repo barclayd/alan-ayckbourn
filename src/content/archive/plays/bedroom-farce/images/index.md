@@ -26,6 +26,9 @@ The first public mention of *Bedroom Farce* was in an interview with Alan Ayckbo
 
 The earliest notes relating to *Bedroom Farce* are this sketch of a cruciform set with four beds which was discovered on the back of a manuscript page on his previous work, *Jeeves*, dating to spring 1975.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-27e5b03.jpg)
@@ -33,6 +36,9 @@ The earliest notes relating to *Bedroom Farce* are this sketch of a cruciform se
 ![](./_images/stacks-image-900e381.jpg)
 
 The previous notes for *Bedroom Farce* are expanded here with more details for a set including four beds in a cruciform shape; for the final play, Alan reduced the set to three beds. This note also includes early ideas for character names, several of which are different to the finished play.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -42,6 +48,9 @@ The previous notes for *Bedroom Farce* are expanded here with more details for a
 
 Alan Ayckbourn originally intended the premiere production of *Bedroom Farce* to be performed in-the-round at Theatre in the Round at the Library Theatre, Scarborough, and this is his own unused plan for the in-the-round staging. Unfortunately, the set proved too big for the space and it had to be changed to a three-sided production.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-98e2d4f.jpg)
@@ -50,6 +59,9 @@ Alan Ayckbourn originally intended the premiere production of *Bedroom Farce* to
 
 Alan Ayckbourn's sketch of the amended three-sided set for the world premiere of *Bedroom Farce* at Theatre in the Round at the Library Theatre, Scarborough, during 1975.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-9dffa3a.jpg)
@@ -57,6 +69,9 @@ Alan Ayckbourn's sketch of the amended three-sided set for the world premiere of
 ![](./_images/stacks-image-3069477.jpg)
 
 Alan Ayckbourn's sketch for the end-stage stage design of *Bedroom Farce* in the Lyttelton at the National Theatre in 1977.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -80,6 +95,8 @@ A flyer for the National Theatre's North American transfer of *Bedroom Farce*, w
 **Copyright:** National Theatre  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)  *All images are copyright of the respective individual / organisation and should not be reproduced without permission.*
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)  
+*All images are copyright of the respective individual / organisation and should not be reproduced without permission.*

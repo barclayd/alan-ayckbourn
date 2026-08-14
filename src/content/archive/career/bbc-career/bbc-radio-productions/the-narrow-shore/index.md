@@ -8,38 +8,28 @@ order: 647
 
 ### Production Details
 
-**Author:**
+**Author:** Louis Battye  
+**Broadcast:** 27 September 1967 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Louis Battye
+**Director:**  
+Alan Ayckbourn
 
-27 September 1967 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Jack  
-Freda  
-Charles  
-Muriel  
-Edgar  
-Keith  
-Stella  
-Len  
-George  
-Brian:  
-Nurse Pybus  
-Crane**Actor**  
-Geoffrey Hinsliff  
-Elizabeth Bell  
-B Alison  
-Elizabeth Ashton  
-Graham Rigby  
-Geoffrey Banks  
-Pamela Dellar  
-Colin Edwynn  
-Robert Powell  
-Paul Webster  
-Patricia Doyle  
-Colin Bell
+**Character** **Actor**  
+**Jack** Geoffrey Hinsliff  
+**Freda** Elizabeth Bell  
+**Charles** B Alison  
+**Muriel** Elizabeth Ashton  
+**Edgar** Graham Rigby  
+**Keith** Geoffrey Banks  
+**Stella** Pamela Dellar  
+**Len** Colin Edwynn  
+**George** Robert Powell  
+**Brian:** Paul Webster  
+**Nurse Pybus** Patricia Doyle  
+**Crane** Colin Bell
 
 ### Notes
 
-○ *The Narrow Shore* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Narrow Shore* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

@@ -13,4 +13,5 @@ play: "index-title"
 
 **O**  
 [One Man Protest, A](/plays/intimate-exchanges)  
-[Orvin - Champion Of Champions](/plays/orvin-champion-of-champions)*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+[Orvin - Champion Of Champions](/plays/orvin-champion-of-champions)  
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

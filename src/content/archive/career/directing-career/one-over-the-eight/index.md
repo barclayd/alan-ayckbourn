@@ -8,67 +8,43 @@ order: 476
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Peter Robert Scott  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Peter Robert Scott  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**9 January 1992  
-14 January 1992  
-1 February 1992
+**First performance:** 9 January 1992  
+**Opening night:** 14 January 1992  
+**Final performance:** 1 February 1992
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**  
-**Staff Director:**  
-**Fitness Consultant:**  
-**Rowing Consultant:**  
-**Fitness Assistant:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Mick Hughes  
+**Design:** Roger Glossop  
+**Music:** John Pattison  
+**Staff Director:** Connal Orton  
+**Fitness Consultant:** Don Glynn  
+**Rowing Consultant:** Matthew Mowbray  
+**Fitness Assistant:** Jo Purdy  
+**Stage Manager:** Philip Rees  
+**Deputy Stage Manager:** Erica Jane Fletcher  
+**Assistant Stage Manager:** Christopher Savage
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Mick Hughes  
-Roger Glossop  
-John Pattison  
-Connal Orton  
-Don Glynn  
-Matthew Mowbray  
-Jo Purdy
-
-Philip Rees  
-Erica Jane Fletcher  
-Christopher Savage**Character**  
-Cathy  
-Ray  
-Bryan  
-Vic  
-Dave  
-Oliver  
-Tim  
-Don  
-Stan**Actor**  
-Saskia Wickham  
-John Robinson  
-Jonathan Cake  
-Stephen Mapes  
-David Harewood  
-Jo Stone-Fewings  
-Gary Whitaker  
-Mark Addy  
-Richard Long
+**Character** **Actor**  
+**Cathy** Saskia Wickham  
+**Ray** John Robinson  
+**Bryan** Jonathan Cake  
+**Vic** Stephen Mapes  
+**Dave** David Harewood  
+**Oliver** Jo Stone-Fewings  
+**Tim** Gary Whitaker  
+**Don** Mark Addy  
+**Stan** Richard Long
 
 ### Notes
 
 ○ *One Over The Eight* was scheduled to have its preview on 8 January 1991 at the Stephen Joseph Theatre In The Round. However, when the actor Richard Long fell ill the day before the show was due to open, the first preview was cancelled and the show's first performance took place on 9 January. Nicholas Palliser took over the role for several performances until Richard Long was fit enough to rejoin the company.  
-○ The image is a publicity shot of Alan Ayckbourn with members of the company - including Saskia Wickham - learning to row on the River Ouse.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ The image is a publicity shot of Alan Ayckbourn with members of the company - including Saskia Wickham - learning to row on the River Ouse.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

@@ -29,41 +29,28 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Video:** Not available  
 **DVD:** 2007 (available)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**  
-**Photography**  
-**Matte Painting**  
-**Editing**  
-**Design**  
-**Costumes**  
-**Music**  
-**Sound**
+**Digital:** Not available
 
-**Character**  
-Charlotte  
-Dan  
-Thierry  
-Lionel  
-Nicole  
-Gaelle  
-ArthurAlain Resnais  
-Jean-Michael Ribes  
-Éric Gautier  
-Stéphane Keller  
-Hervé de Luze  
-Jacques Saulnier  
-Jackie Budin  
-Mark Snow  
-Larold Rebhun
+**Director** Alain Resnais  
+**Adaptation** Jean-Michael Ribes  
+**Photography** Éric Gautier  
+**Matte Painting** Stéphane Keller  
+**Editing** Hervé de Luze  
+**Design** Jacques Saulnier  
+**Costumes** Jackie Budin  
+**Music** Mark Snow  
+**Sound** Larold Rebhun  
+**Character** **Actor**  
+**Charlotte** Sabine Azéma  
+**Dan** Lambert Wilson  
+**Thierry** André Dussollier  
+**Lionel** Pierre Arditi  
+**Nicole** Laura Morante  
+**Gaelle** Isabelle Carré  
+**Arthur** Claude Rich
 
-**Actor**  
-Sabine Azéma  
-Lambert Wilson  
-André Dussollier  
-Pierre Arditi  
-Laura Morante  
-Isabelle Carré  
-Claude Rich**Note:** The film’s original title (and working title) was *Petites Peurs Partagées*; a literal translation of *Private Fears In Public Places*.
+**Note:** The film’s original title (and working title) was *Petites Peurs Partagées*; a literal translation of *Private Fears In Public Places*.
 
 **Awards**: *63rd Venice Film Festival, 2006* - Silver Lion for Best Director  
-*European Film Academy Critics' Award* - ‘Prix Fipresci' 2007*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*European Film Academy Critics' Award* - ‘Prix Fipresci' 2007  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

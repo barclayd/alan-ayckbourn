@@ -24,19 +24,15 @@ play: "it-could-be-any-one-of-us"
 **Stage Manager:** Eric Lumsden  
 **Deputy Stage Manager:** Jo Linfoot  
 **Assistant Stage Manager:** Mathew Claridge  
-**Assistant Stage Manager:** Kate Woodward**Character**  
-Mortimer Chalke  
-Jocelyn Polegate  
-Brinton Chalke  
-Amy Polegate  
-Norris Honeywell  
-Wendy Windwood**Actor**  
-Graeme Eton  
-Ursula Jones  
-Robin Herford  
-Liza Sadovy  
-John Arthur  
-Lavinia Bertram
+**Assistant Stage Manager:** Kate Woodward
+
+**Character** **Actor**  
+**Mortimer Chalke** Graeme Eton  
+**Jocelyn Polegate** Ursula Jones  
+**Brinton Chalke** Robin Herford  
+**Amy Polegate** Liza Sadovy  
+**Norris Honeywell** John Arthur  
+**Wendy Windwood** Lavinia Bertram
 
 ### Revival (1996)
 
@@ -53,16 +49,14 @@ Lavinia Bertram
 
 **Stage Manager:** David Attwood  
 **Deputy Stage Manager:** Sarah Percival  
-**Assistant Stage Manager:** Matthew Brewster**Character**  
-Mortimer Chalke  
-Jocelyn Polegate  
-Brinton Chalke  
-Amy Polegate  
-Norris Honeywell  
-Wendy Windwood**Actor**  
-Malcolm Rennie  
-Juliet Mills  
-Richard Derrington  
-Tabitha Wady  
-Jon Strickland  
-Janet Dibley*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Matthew Brewster
+
+**Character** **Actor**  
+**Mortimer Chalke** Malcolm Rennie  
+**Jocelyn Polegate** Juliet Mills  
+**Brinton Chalke** Richard Derrington  
+**Amy Polegate** Tabitha Wady  
+**Norris Honeywell** Jon Strickland  
+**Wendy Windwood** Janet Dibley
+
+*All research for this page by Simon Murgatroyd.*

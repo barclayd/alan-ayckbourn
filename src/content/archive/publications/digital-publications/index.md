@@ -118,7 +118,8 @@ Contains: *GamePlan*, *FlatSpin*, *RolePlay*
 **○** *Hero's Welcome* (Plays 6, Faber)  
 **○** *Hero's Welcome* (Samuel French)  
 **○** *House* (Plays 4, Faber)  
-**○** *House & Garden* (Plays 4, Faber) **○** *If I Were You* (Plays 5, Faber)  
+**○** *House & Garden* (Plays 4, Faber)  
+**○** *If I Were You* (Plays 5, Faber)  
 **○** *Invisible Friends* (Plays 2, Faber)  
 **○** *Life & Beth* (Plays 5, Faber)  
 **○** *Life Of Riley* (Plays 5, Faber)  
@@ -142,4 +143,5 @@ Contains: *GamePlan*, *FlatSpin*, *RolePlay*
 **○** *Things We Do For Love* (Plays 4, Faber)  
 **○** *This Is Where We Came In* (Plays 2, Faber)  
 **○** *Time Of My Life* (Plays 6, Faber)  
-**○** *Woman In Mind* (Faber) *All research for this page by Simon Murgatroyd.*
+**○** *Woman In Mind* (Faber)  
+*All research for this page by Simon Murgatroyd.*

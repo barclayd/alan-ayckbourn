@@ -21,18 +21,15 @@ play: "virtual-reality"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Charlotte Hall**Character**  
-Alex Huby  
-Penny Porter  
-Barney Russell  
-Beth Hall  
-Cassie Renton  
-Lec  
-McGregor**Actor**  
-Andrew Havill  
-Celia Nelson  
-Richard Derrington  
-Susie Blake  
-Daisy Beaumont  
-Dale Rapley  
-Mike Raffone*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Charlotte Hall
+
+**Character** **Actor**  
+**Alex Huby** Andrew Havill  
+**Penny Porter** Celia Nelson  
+**Barney Russell** Richard Derrington  
+**Beth Hall** Susie Blake  
+**Cassie Renton** Daisy Beaumont  
+**Lec** Dale Rapley  
+**McGregor** Mike Raffone
+
+*All research for this page by Simon Murgatroyd.*

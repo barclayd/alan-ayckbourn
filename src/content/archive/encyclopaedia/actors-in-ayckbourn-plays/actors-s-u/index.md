@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-18/page50.html"
 order: 806
 ---
 
-This is a comprehensive list of the actors (surnames S - U) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Martin Sadler:** The Revengers' Comedies (WP 1989); The Inside Outside Slide Show (WP 1989)  
+This is a comprehensive list of the actors (surnames S - U) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**Martin Sadler:** The Revengers' Comedies (WP 1989); The Inside Outside Slide Show (WP 1989)  
 **Liza Sadovy:** It Could Be Any One Of Us (WP 1983); Backnumbers (WP 1983); The 7 Deadly Virtues (WP 1984)  
 **Howard Saddler:** The Champion Of Paribanou (WP 1996)  
 **John Salthouse:** Ten Times Table (LP 1978)  
@@ -111,4 +112,5 @@ This is a comprehensive list of the actors (surnames S - U) who have appeared in
 **Susan Twist:** Miss Yesterday (WP 2004)  
 **Susan Uebel:** Season's Greetings (WP 1980); Second Helping (WP 1980); Season's Greetings (AR 1981); Me, Myself And I (WP 1981); Way Upstream (WP 1981); Making Tracks (WP 1981); Way Upstream (AT 1982); Absent Friends (AT 1982)  
 **Philippa Urquhart:** Absurd Person Singular (WP 1972)  
-**Taylor Uttley:** Woman in Mind (LR 2025)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**Taylor Uttley:** Woman in Mind (LR 2025)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

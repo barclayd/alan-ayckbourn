@@ -17,7 +17,8 @@ order: 584
 **Director:** Alan Ayckbourn
 
 **Character**  
-Jordan **Actor**  
+Jordan  
+**Actor**  
 Alan Ayckbourn
 
 ### Quotes & Notes
@@ -29,4 +30,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 *The Rainbow Machine* was presented as a double bill with August Strindberg's ***[Miss Julie](/career/actor/miss-julie)***.
 
 **Review extract from The Guardian** (11 June 1963)  
-"Alan Ayckbourn in the sole part is too jerky. He should make up his mind to be English when not speaking over the air and American when putting on a pop record."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn in the sole part is too jerky. He should make up his mind to be English when not speaking over the air and American when putting on a pop record."  
+*All research for this page by Simon Murgatroyd.*

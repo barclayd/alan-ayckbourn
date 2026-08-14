@@ -24,23 +24,17 @@ play: "woman-in-mind"
 **Deputy Stage Manager:** David Emmett-Miller  
 **Deputy Stage Manager:** Jo Linfoot  
 **Assistant Stage Manager:** Paul Quinn  
-**Assistant Stage Manager:** Kathryn-Anne Woodward**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Ursula Jones  
-Barry McCarthy  
-Robin Herford  
-John Hudson  
-Caroline Webster  
-Russell Dixon  
-Heather Stoney  
-Tom Bowles
+**Assistant Stage Manager:** Kathryn-Anne Woodward
+
+**Character** **Actor**  
+**Susan** Ursula Jones  
+**Bill** Barry McCarthy  
+**Andy** Robin Herford  
+**Tony** John Hudson  
+**Lucy** Caroline Webster  
+**Gerald** Russell Dixon  
+**Muriel** Heather Stoney  
+**Rick** Tom Bowles
 
 ### London Premiere (1986)
 
@@ -52,23 +46,17 @@ Tom Bowles
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** David Hersey  
-**Musical Director:** Paul Todd**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Julia McKenzie  
-Peter Blythe  
-Benedick Blythe  
-John Hudson  
-Christina Barryk  
-Martin Jarvis  
-Josephine Tewson  
-Daniel Flynn
+**Musical Director:** Paul Todd
+
+**Character** **Actor**  
+**Susan** Julia McKenzie  
+**Bill** Peter Blythe  
+**Andy** Benedick Blythe  
+**Tony** John Hudson  
+**Lucy** Christina Barryk  
+**Gerald** Martin Jarvis  
+**Muriel** Josephine Tewson  
+**Rick** Daniel Flynn
 
 ### London Recast (1987)
 
@@ -80,23 +68,17 @@ Daniel Flynn
 **Director:** Alan Strachan (based on the original production by Alan Ayckbourn)  
 **Design:** Roger Glossop  
 **Lighting:** David Hersey  
-**Musical Director:** Paul Todd**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Pauline Collins  
-Ralph Bates  
-Benedick Blythe  
-Matthew Solon  
-Jane Kaeser  
-Michael Jayston  
-Jacqueline Clarke  
-Michael Shilling
+**Musical Director:** Paul Todd
+
+**Character** **Actor**  
+**Susan** Pauline Collins  
+**Bill** Ralph Bates  
+**Andy** Benedick Blythe  
+**Tony** Matthew Solon  
+**Lucy** Jane Kaeser  
+**Gerald** Michael Jayston  
+**Muriel** Jacqueline Clarke  
+**Rick** Michael Shilling
 
 ### New York Premiere (1988)
 
@@ -109,23 +91,17 @@ Michael Shilling
 **Design:** John Lee Beatty  
 **Lighting:** Pat Collins  
 **Sound:** John Gromada  
-**Costumes:** Ann Roth**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Stockard Channing  
-Simon Jones  
-Daniel Gerroll  
-Michael Countryman  
-Tracy Pollan  
-Remak Ramsay  
-Patricia Conolly  
-John David Cullum
+**Costumes:** Ann Roth
+
+**Character** **Actor**  
+**Susan** Stockard Channing  
+**Bill** Simon Jones  
+**Andy** Daniel Gerroll  
+**Tony** Michael Countryman  
+**Lucy** Tracy Pollan  
+**Gerald** Remak Ramsay  
+**Muriel** Patricia Conolly  
+**Rick** John David Cullum
 
 ### Revival (1992)
 
@@ -138,23 +114,17 @@ John David Cullum
 **Design:** Yael Pardess  
 **Lighting:** Michael Gilliam  
 **Sound:** Jon Gottlieb  
-**Costumes:** Michael Eisenhower**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Helen Mirren  
-Paxton Whitehead  
-John Getz  
-Tony Carlin  
-Marsha Dielten  
-Nick Tate  
-Angela Paton  
-J.D. Cullum
+**Costumes:** Michael Eisenhower
+
+**Character** **Actor**  
+**Susan** Helen Mirren  
+**Bill** Paxton Whitehead  
+**Andy** John Getz  
+**Tony** Tony Carlin  
+**Lucy** Marsha Dielten  
+**Gerald** Nick Tate  
+**Muriel** Angela Paton  
+**Rick** J.D. Cullum
 
 ### Revival (2008)
 
@@ -166,23 +136,17 @@ J.D. Cullum
 
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
-**Lighting:** Mick Hughes**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Janie Dee  
-Paul Kemp  
-Bill Champion  
-Martin Parr  
-Perdita Avery  
-John Branwell  
-Joanna David  
-Dominic Hecht
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Susan** Janie Dee  
+**Bill** Paul Kemp  
+**Andy** Bill Champion  
+**Tony** Martin Parr  
+**Lucy** Perdita Avery  
+**Gerald** John Branwell  
+**Muriel** Joanna David  
+**Rick** Dominic Hecht
 
 ### London Revival (2009)
 
@@ -195,23 +159,19 @@ Dominic Hecht
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Producer:** Bill Kenwright**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Janie Dee  
-Paul Kemp  
-Bill Champion  
-Martin Parr  
-Perdita Avery  
-Stuart Fox  
-Lavinia Bertram / Joanna David\*  
-Dominic Hecht\* *Woman In Mind* was originally due to feature Joanna David reprising her role as Muriel from the Scarborough revival. Unfortunately, due to ill-health Joanne pulled out of the play just prior to the press night on 6 February and was replaced by an understudy until 4 March, when Lavinia Bertram took over the role for the length of the run.
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Susan** Janie Dee  
+**Bill** Paul Kemp  
+**Andy** Bill Champion  
+**Tony** Martin Parr  
+**Lucy** Perdita Avery  
+**Gerald** Stuart Fox  
+**Muriel** Lavinia Bertram / Joanna David\*  
+**Rick** Dominic Hecht
+
+\* *Woman In Mind* was originally due to feature Joanna David reprising her role as Muriel from the Scarborough revival. Unfortunately, due to ill-health Joanne pulled out of the play just prior to the press night on 6 February and was replaced by an understudy until 4 March, when Lavinia Bertram took over the role for the length of the run.
 
 ### Revival (2014)
 
@@ -224,25 +184,20 @@ Dominic Hecht\* *Woman In Mind* was originally due to feature Joanna David repri
 **Director:** Marilyn Imrie  
 **Design:** Ti Green  
 **Lighting:** Mark Doubleday  
-**Producer:** Dundee Rep / Birmingham Repertory Theatre**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Meg Fraser  
-Neil McKinven  
-Andrew Wincott  
-Buchan Lennon (Dundee)  
-Ncuti Gatwa (Birmingham)  
-Laura Dale  
-Richard Conlon  
-Irene MacDougall  
-Scott Hoaston\* This was a co-production between Dundee Rep and Birmingham Repertory Theatre and the production transferred to Birmingham from 13 - 28 June 2014.
+**Producer:** Dundee Rep / Birmingham Repertory Theatre
+
+**Character** **Actor**  
+**Susan** Meg Fraser  
+**Bill** Neil McKinven  
+**Andy** Andrew Wincott  
+**Tony** Buchan Lennon (Dundee)  
+**Tony** Ncuti Gatwa (Birmingham)  
+**Lucy** Laura Dale  
+**Gerald** Richard Conlon  
+**Muriel** Irene MacDougall  
+**Rick** Scott Hoaston
+
+\* This was a co-production between Dundee Rep and Birmingham Repertory Theatre and the production transferred to Birmingham from 13 - 28 June 2014.
 
 ### Revival (2022)
 
@@ -255,23 +210,17 @@ Scott Hoaston\* This was a co-production between Dundee Rep and Birmingham Reper
 **Director:** Anna Mackmin  
 **Design:** Lez Brotherston  
 **Lighting:** Mark Henderson  
-**Sound:** Simon Baker**Character**  
-Susan  
-Bill  
-Andy  
-Tony  
-Lucy  
-Gerald  
-Muriel  
-Rick**Actor**  
-Jenna Russell  
-Matthew Cottle  
-Marc Elliott  
-Orlando James  
-Flora Higgins  
-Nigel Lindsay  
-Stephanie Jacob  
-Will Attenborough
+**Sound:** Simon Baker
+
+**Character** **Actor**  
+**Susan** Jenna Russell  
+**Bill** Matthew Cottle  
+**Andy** Marc Elliott  
+**Tony** Orlando James  
+**Lucy** Flora Higgins  
+**Gerald** Nigel Lindsay  
+**Muriel** Stephanie Jacob  
+**Rick** Will Attenborough
 
 ### West End Revival (2025)
 
@@ -285,24 +234,18 @@ Will Attenborough
 **Design:** Soutra Gilmour  
 **Lighting:** Lee Curran  
 **Sound:** Paul Arditti  
-**Casting:** Jim Carnaham & Liz Frazer**Character**  
-Susan  
-Bill  
-Gerald  
-Muriel  
-Rick  
-Andy  
-Tony  
-Lucy  
-Understudy  
-Understudy**Actor**  
-Sheridan Smith  
-Romesh Ranganathan  
-Tim McMullan  
-Louise Brealey  
-Taylor Uttley  
-Sule Rimi  
-Chris Jenks  
-Safia Oakley-Green  
-Katie Buckholz  
-Michael Woolfitt*All research for this page by Simon Murgatroyd.*
+**Casting:** Jim Carnaham & Liz Frazer
+
+**Character** **Actor**  
+**Susan** Sheridan Smith  
+**Bill** Romesh Ranganathan  
+**Gerald** Tim McMullan  
+**Muriel** Louise Brealey  
+**Rick** Taylor Uttley  
+**Andy** Sule Rimi  
+**Tony** Chris Jenks  
+**Lucy** Safia Oakley-Green  
+**Understudy** Katie Buckholz  
+**Understudy** Michael Woolfitt
+
+*All research for this page by Simon Murgatroyd.*

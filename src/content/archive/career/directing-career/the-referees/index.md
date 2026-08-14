@@ -8,41 +8,32 @@ order: 482
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Alan Plater  
+**New Play:** Yes  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round
 
-**Venue:**  
-**Staging:**Alan Plater  
-Yes
-
-Victoria Theatre, Stoke-on-Trent  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**January 1963  
-21 January 1963  
-To be confirmed, 1963
+**First performance:** January 1963  
+**Opening night:** 21 January 1963  
+**Final performance:** To be confirmed, 1963
 
 ### Company Details
 
-**Director:**Alan Ayckbourn**Character**  
-Dawson / Joe  
-Mrs Robinson / Helen  
-Naylor  
-Jean  
-Mrs Duncan  
-Brooks / George  
-Policeman  
-Rheinhard**Actor**  
-David Halliwell  
-Elizabeth Bell  
-Peter King  
-Caroline Smith  
-Heather Stoney  
-David Wehner  
-Stanley Page  
-Arnold Beck
+**Director:**  
+Alan Ayckbourn
+
+**Character** **Actor**  
+**Dawson / Joe** David Halliwell  
+**Mrs Robinson / Helen** Elizabeth Bell  
+**Naylor** Peter King  
+**Jean** Caroline Smith  
+**Mrs Duncan** Heather Stoney  
+**Brooks / George** David Wehner  
+**Policeman** Stanley Page  
+**Rheinhard** Arnold Beck
 
 ### Notes
 
 ○ *The Referees* was originally written for and produced on television and this marked the first stage production of the play.  
-○ *The Referees* was presented in a double bill with ***[The Mating Season](/career/directing-career/the-mating-season)***.*All research for this page by Simon Murgatroyd.*
+○ *The Referees* was presented in a double bill with ***[The Mating Season](/career/directing-career/the-mating-season)***.  
+*All research for this page by Simon Murgatroyd.*

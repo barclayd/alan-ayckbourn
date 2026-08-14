@@ -8,32 +8,25 @@ order: 673
 
 ### Production Details
 
-**Author:**
+**Author:** Roy Clarke  
+**Broadcast:** 7 September 1968 @ 2pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Roy Clarke
+**Director:**  
+Alan Ayckbourn
 
-7 September 1968 @ 2pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Lily Malt  
-Stanley Malt  
-Charlie  
-Mr Dabbs  
-Miss Chubb  
-Other roles  
-Other roles  
-Other roles  
-Other roles**Actor**  
-Ruth Holden  
-James Beck  
-Bob Grant  
-Davld Jackson  
-Pamela Craig  
-Ronald Herdman  
-Danny Schiller  
-Jean Rogers  
-Vicky Ireland
+**Character** **Actor**  
+**Lily Malt** Ruth Holden  
+**Stanley Malt** James Beck  
+**Charlie** Bob Grant  
+**Mr Dabbs** Davld Jackson  
+**Miss Chubb** Pamela Craig  
+**Other roles** Ronald Herdman  
+**Other roles** Danny Schiller  
+**Other roles** Jean Rogers  
+**Other roles** Vicky Ireland
 
 ### Notes
 
-○ *The World Of Miss Edwina Finch's Cat* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The World Of Miss Edwina Finch's Cat* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

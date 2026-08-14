@@ -18,4 +18,5 @@ order: 764
 *(2009)*
 
 “By taking suburban life, putting it in extremis then placing it on an exposed platform, what he’s doing is abstracting it, making it a distant cousin of Beckett or Pinter… I used to think that if I ran the Royal Court I’d have his name up outside in neon.”  
-*(2019)**Copyright: Matthew Warchus. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Matthew Warchus. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

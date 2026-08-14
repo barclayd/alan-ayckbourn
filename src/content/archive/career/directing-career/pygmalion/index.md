@@ -8,37 +8,26 @@ order: 480
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** George Bernard Shaw  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**George Bernard Shaw  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**11 October 1977  
-12 October 1977  
-29 October 1977
+**First performance:** 11 October 1977  
+**Opening night:** 12 October 1977  
+**Final performance:** 29 October 1977
 
 ### Company Details
 
-**Director:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Design:** Michael Holt  
+**Stage Manager:** Janet Fox  
+**Deputy Stage Manager:** Ian Farrar  
+**Assistant Stage Manager:** Dee Marsden  
+**Assistant Stage Manager:** Derek Scriminger
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Michael Holt
-
-Janet Fox  
-Ian Farrar  
-Dee Marsden  
-Derek Scriminger**Character**  
+**Character**  
 Professor Higgins  
 Colonel Pickering  
 Mrs Pearce  
@@ -49,7 +38,8 @@ Mrs Eynsford Hill
 Miss Clara Eynsford Hill  
 Freddy Eynsford Hill  
 Maid  
-Bystanders etc.**Actor**  
+Bystanders etc.  
+**Actor**  
 Christopher Godwin  
 Robert Austin  
 Christine Welch  
@@ -68,4 +58,5 @@ Ian Farrar
 
 ### Notes
 
-○ The actress Petronella Ford had health issues near the end of the play's run and her role was taken by Heather Stoney for the final five performances of the play.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ The actress Petronella Ford had health issues near the end of the play's run and her role was taken by Heather Stoney for the final five performances of the play.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

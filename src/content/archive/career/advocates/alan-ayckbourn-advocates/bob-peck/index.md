@@ -28,4 +28,5 @@ order: 2332
 
 "I returned for a second summer season and was equally happy. It was thirteen years before we worked together again: I walked into the rehearsal room at the Royal National Theatre to commence work on *A Chorus of Disapproval* and Alan said, “You haven't changed a bit". I felt the same about him, give an inch or two in girth. I shall never forget the sensation of seeing the audience rocking in ‘Mexican waves' of laughter when we opened the show weeks later.
 
-"Alan is not just a talented, funny man, he's a generous man; I hope I can repay him adequately soon."*Copyright: Bob Peck. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"Alan is not just a talented, funny man, he's a generous man; I hope I can repay him adequately soon."  
+*Copyright: Bob Peck. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

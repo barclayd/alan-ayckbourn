@@ -8,13 +8,13 @@ order: 582
 
 ### Production Details
 
-****Play:** An Awkward Number** **Character** **Actor**  
-****Author:** William Elmhirst** **Sophie Reeve** Elizabeth Bell  
-****First performance:** 25 March 1963** **Alan Reeve** Peter King  
-****Final performance:** To be confirmed** **Steve Shields** Stanley Page  
-****Venue:** Victoria Theatre, Stoke-on-Trent** **Leila Shields** Heather Stoney  
-****Staging:** Round** **Robert** Alan Ayckbourn  
-****Director:** Peter Cheeseman** **Waiter** Howard Mitchell
+**Play:** An Awkward Number **Character** **Actor**  
+**Author:** William Elmhirst **Sophie Reeve** Elizabeth Bell  
+**First performance:** 25 March 1963 **Alan Reeve** Peter King  
+**Final performance:** To be confirmed **Steve Shields** Stanley Page  
+**Venue:** Victoria Theatre, Stoke-on-Trent **Leila Shields** Heather Stoney  
+**Staging:** Round **Robert** Alan Ayckbourn  
+**Director:** Peter Cheeseman **Waiter** Howard Mitchell
 
 ### Quotes & Notes
 
@@ -25,4 +25,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 *An Awkward Number* was originally advertised to close on 22 June 1963. However, its final week of performance was cancelled and replaced with an extra week of ***[The Rehearsal](/career/actor/the-rehearsal)***.
 
 **Review extract from The Stage** (April 1963)  
-"The part of the fifth member in the unhappy collection of people brought together in a hotel is played with satisfying assurance by Alan Ayckbourn, one of the most talented members of the company."*All research for this page by Simon Murgatroyd.*
+"The part of the fifth member in the unhappy collection of people brought together in a hotel is played with satisfying assurance by Alan Ayckbourn, one of the most talented members of the company."  
+*All research for this page by Simon Murgatroyd.*

@@ -11,4 +11,5 @@ order: 2327
 "I was newly out as a gay man. *Henceforward…* was a chance to declare I was still the same actor who enjoyed mainstream theatre. There's nothing gay about Alan Ayckbourn's play, except in the old sense. There was certainly plenty of jollity and social purpose about playing Jerome, estranged from his sometime in the future, getting entangled with a glamorous automaton."
 
 “I’ve often said that Alan Ayckbourn and Alan Bennett come to mind as you’re reading Ben Weatherill. It’s in a tradition of plays that use humour and laugh aloud laughter to reveal people”  
-*(2023)**Copyright: Ian McKellen. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2023)*  
+*Copyright: Ian McKellen. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

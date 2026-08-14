@@ -504,4 +504,5 @@ Stephen Joseph Theatre, Scarborough, 2019
 
 **○ Fourteen Again**  
 The Victoria Wood Theatre, Bowness-on-Windermere, 2026  
-*How To Open Your Very Own Theatre**All research for this page by Simon Murgatroyd.*
+*How To Open Your Very Own Theatre*  
+*All research for this page by Simon Murgatroyd.*

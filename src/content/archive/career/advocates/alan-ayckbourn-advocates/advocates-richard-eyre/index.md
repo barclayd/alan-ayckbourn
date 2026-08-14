@@ -9,4 +9,5 @@ order: 9999
 ### Quotes
 
 "Ayckbourn serves his community as conscientiously as any self-proclaimed political playwright and within no less narrow (and no less wide) social parameters. His constituency is middle England - middle class, middlebrow - the heartland of British theatre audiences. He does not patronise his public, but then neither does he placate it, for his plays are often crammed with anxiety about social indignities and sexual dysfunction, full of lives of quiet misery and small ambition."  
-*(2000)**Copyright: Richard Eyre. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2000)*  
+*Copyright: Richard Eyre. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

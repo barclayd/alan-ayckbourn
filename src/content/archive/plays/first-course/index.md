@@ -16,7 +16,7 @@ facts:
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
   Musical Director: "Paul Todd"
-  Piano: "Paul ToddCompany"
+  Piano: "Paul Todd"
   Stage Manager: "Amanda Saunders"
 ---
 
@@ -45,6 +45,7 @@ There is no plot to the piece, presenting as it does a perspective of 10 decades
 
 ### Premiere Production Details (1980)
 
+**Company**  
 Lavinia Bertram  
 Jeffrey Robert  
 Michael Simkins  

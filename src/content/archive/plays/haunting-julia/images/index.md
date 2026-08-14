@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 This letter from Alan Ayckbourn to the West End producer Michael Codron is the earliest known reference to *Haunting Julia*. It also confirms the play was an unscheduled choice due to funding issues at the Stephen Joseph Theatre in the Round, Scarborough, in 1994.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-729aac5.jpg)
@@ -45,6 +48,10 @@ The programme cover for the tour of Alan Ayckbourn Ayckbourn's 1999 revival of *
 
 During the Covid-19 pandemic of 2020 which closed all the UK's theatres, Alan Ayckbourn adapted *Haunting Julia* as an audio play for Christmas. This is his basic design of the set for Paul Stear, responsible for the final sound mix, to indicate the layout of the single-set play.
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

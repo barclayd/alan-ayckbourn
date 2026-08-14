@@ -10,7 +10,8 @@ play: "the-norman-conquests"
 ***Living Together* running time (approximate):** 2 hours - not including the interval.  
 ***Round And Round The Garden* running time (approximate):** 2 hours - not including the interval.  
 **Availability:** *The Norman Conquests* is available for both professional and amateur production.  
-**Acting edition:** Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/1577/the-norman-conquests/)**.*The Norman Conquests* consists of three plays set in the same house during the same weekend. *Table Manners* is set in the dining room, *Living Together* in the living room and *Round and Round the Garden* in the garden of the house. The plays do not run concurrently and the time of the scenes are listed below.
+**Acting edition:** Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/1577/the-norman-conquests/)**.  
+*The Norman Conquests* consists of three plays set in the same house during the same weekend. *Table Manners* is set in the dining room, *Living Together* in the living room and *Round and Round the Garden* in the garden of the house. The plays do not run concurrently and the time of the scenes are listed below.
 
 **Act One, Scene One**  
 **Act One, Scene Two**  

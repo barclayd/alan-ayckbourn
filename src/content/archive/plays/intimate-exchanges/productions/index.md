@@ -23,27 +23,19 @@ play: "intimate-exchanges"
 **Stage Manager:** Isobel Nimmo  
 **Deputy Stage Manager:** Eric Lumsden  
 **Assistant Stage Manager:** Anneke Harrison  
-**Assistant Stage Manager:** Jeff Golding**Character**  
-Miles Coombes  
-Toby Teasdale  
-Lionel Hepplewick  
-Joe Hepplewick  
-Reg Schooner  
-Sylvie Bell  
-Celia Teasdale  
-Rowena Coombes  
-Irene Pridworthy  
-Josephine Hamilton**Actor**  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram
+**Assistant Stage Manager:** Jeff Golding
+
+**Character** **Actor**  
+**Miles Coombes** Robin Herford  
+**Toby Teasdale** Robin Herford  
+**Lionel Hepplewick** Robin Herford  
+**Joe Hepplewick** Robin Herford  
+**Reg Schooner** Robin Herford  
+**Sylvie Bell** Lavinia Bertram  
+**Celia Teasdale** Lavinia Bertram  
+**Rowena Coombes** Lavinia Bertram  
+**Irene Pridworthy** Lavinia Bertram  
+**Josephine Hamilton** Lavinia Bertram
 
 ### London Premiere (1984)
 
@@ -54,33 +46,21 @@ Lavinia Bertram
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch  
-**Music:** Paul Todd **Character**  
-Miles Coombes  
-Toby Teasdale  
-Lionel Hepplewick  
-Joe Hepplewick  
-Reg Schooner  
-Sylvie Bell  
-Celia Teasdale  
-Rowena Coombes  
-Irene Pridworthy  
-Josephine Hamilton
+**Music:** Paul Todd
 
-Understudy  
-Understudy**Actor**  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram
-
-Geraldine Wright  
-Hugh Beverton
+**Character** **Actor**  
+**Miles Coombes** Robin Herford  
+**Toby Teasdale** Robin Herford  
+**Lionel Hepplewick** Robin Herford  
+**Joe Hepplewick** Robin Herford  
+**Reg Schooner** Robin Herford  
+**Sylvie Bell** Lavinia Bertram  
+**Celia Teasdale** Lavinia Bertram  
+**Rowena Coombes** Lavinia Bertram  
+**Irene Pridworthy** Lavinia Bertram  
+**Josephine Hamilton** Lavinia Bertram  
+**Understudy** Geraldine Wright  
+**Understudy** Hugh Beverton
 
 ### London Transfer (1984)
 
@@ -92,27 +72,21 @@ Hugh Beverton
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch  
-**Music:** Paul Todd **Character**  
-Miles Coombes  
-Toby Teasdale  
-Lionel Hepplewick  
-Joe Hepplewick  
-Reg Schooner  
-Sylvie Bell  
-Celia Teasdale  
-Rowena Coombes  
-Irene Pridworthy  
-Josephine Hamilton**Actor**  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram**Note:** The production has a short break closing on 6 October 1984 before re-opening on 29 October 1984 at the same venue.
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Miles Coombes** Robin Herford  
+**Toby Teasdale** Robin Herford  
+**Lionel Hepplewick** Robin Herford  
+**Joe Hepplewick** Robin Herford  
+**Reg Schooner** Robin Herford  
+**Sylvie Bell** Lavinia Bertram  
+**Celia Teasdale** Lavinia Bertram  
+**Rowena Coombes** Lavinia Bertram  
+**Irene Pridworthy** Lavinia Bertram  
+**Josephine Hamilton** Lavinia Bertram
+
+**Note:** The production has a short break closing on 6 October 1984 before re-opening on 29 October 1984 at the same venue.
 
 ### Revival / Tour (1988)
 
@@ -126,22 +100,18 @@ Lavinia Bertram**Note:** The production has a short break closing on 6 October 1
 **Lighting:** Ron Beattle  
 **Producer:** Bill Kenwright
 
-Produced in Association with Bill Kenwright Productions.**Character**  
-Miles Coombes  
-Toby Teasdale  
-Lionel Hepplewick  
-Sylvie Bell  
-Celia Teasdale  
-Rowena Coombes  
-Irene Pridworthy  
-**Actor**  
-David Roper  
-David Roper  
-David Roper  
-Jennifer Wilson  
-Jennifer Wilson  
-Jennifer Wilson  
-Jennifer Wilson**Note:** The production is believed to mark the first time *Intimate Exchanges* was extensively toured. It also only presented two of the eight variations with *Affairs in a Tent* and *A One Man Protest*.
+Produced in Association with Bill Kenwright Productions.
+
+**Character** **Actor**  
+**Miles Coombes** David Roper  
+**Toby Teasdale** David Roper  
+**Lionel Hepplewick** David Roper  
+**Sylvie Bell** Jennifer Wilson  
+**Celia Teasdale** Jennifer Wilson  
+**Rowena Coombes** Jennifer Wilson  
+**Irene Pridworthy** Jennifer Wilson
+
+**Note:** The production is believed to mark the first time *Intimate Exchanges* was extensively toured. It also only presented two of the eight variations with *Affairs in a Tent* and *A One Man Protest*.
 
 ### Revival (2006)
 
@@ -158,27 +128,21 @@ Jennifer Wilson**Note:** The production is believed to mark the first time *Inti
 
 **Stage Manager:** Emily Vickers  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Lisa Mellor**Character**  
-Miles Coombes  
-Toby Teasdale  
-Lionel Hepplewick  
-Joe Hepplewick  
-Reg Schooner  
-Sylvie Bell  
-Celia Teasdale  
-Rowena Coombes  
-Irene Pridworthy  
-Josephine Hamilton**Actor**  
-Bill Champion  
-Bill Champion  
-Bill Champion  
-Bill Champion  
-Bill Champion  
-Claudia Elmhirst  
-Claudia Elmhirst  
-Claudia Elmhirst  
-Claudia Elmhirst  
-Claudia Elmhirst**Note:** Just prior to rehearsals starting, Alan Ayckbourn suffered a stroke in February 2006. The director Tim Luscombe was brought in at short notice and directed the six variants of the play produced during 2006. Alan Ayckbourn then returned in 2007 to direct the final two variants of *Intimate Exchanges*.
+**Assistant Stage Manager:** Lisa Mellor
+
+**Character** **Actor**  
+**Miles Coombes** Bill Champion  
+**Toby Teasdale** Bill Champion  
+**Lionel Hepplewick** Bill Champion  
+**Joe Hepplewick** Bill Champion  
+**Reg Schooner** Bill Champion  
+**Sylvie Bell** Claudia Elmhirst  
+**Celia Teasdale** Claudia Elmhirst  
+**Rowena Coombes** Claudia Elmhirst  
+**Irene Pridworthy** Claudia Elmhirst  
+**Josephine Hamilton** Claudia Elmhirst
+
+**Note:** Just prior to rehearsals starting, Alan Ayckbourn suffered a stroke in February 2006. The director Tim Luscombe was brought in at short notice and directed the six variants of the play produced during 2006. Alan Ayckbourn then returned in 2007 to direct the final two variants of *Intimate Exchanges*.
 
 ### New York Premiere (2007)
 
@@ -195,24 +159,18 @@ Claudia Elmhirst**Note:** Just prior to rehearsals starting, Alan Ayckbourn suff
 
 **Company Stage Manager:** Emily Vickers  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Lisa Mellor**Character**  
-Miles Coombes  
-Toby Teasdale  
-Lionel Hepplewick  
-Joe Hepplewick  
-Reg Schooner  
-Sylvie Bell  
-Celia Teasdale  
-Rowena Coombes  
-Irene Pridworthy  
-Josephine Hamilton**Actor**  
-Bill Champion  
-Bill Champion  
-Bill Champion  
-Bill Champion  
-Bill Champion  
-Claudia Elmhirst  
-Claudia Elmhirst  
-Claudia Elmhirst  
-Claudia Elmhirst  
-Claudia Elmhirst*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Lisa Mellor
+
+**Character** **Actor**  
+**Miles Coombes** Bill Champion  
+**Toby Teasdale** Bill Champion  
+**Lionel Hepplewick** Bill Champion  
+**Joe Hepplewick** Bill Champion  
+**Reg Schooner** Bill Champion  
+**Sylvie Bell** Claudia Elmhirst  
+**Celia Teasdale** Claudia Elmhirst  
+**Rowena Coombes** Claudia Elmhirst  
+**Irene Pridworthy** Claudia Elmhirst  
+**Josephine Hamilton** Claudia Elmhirst
+
+*All research for this page by Simon Murgatroyd.*

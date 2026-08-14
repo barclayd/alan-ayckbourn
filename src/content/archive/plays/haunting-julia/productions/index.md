@@ -22,15 +22,13 @@ play: "haunting-julia"
 
 **Stage Manager:** Jane Eliot-Webb  
 **Deputy Stage Manager:** Jo Alexander  
-**Assistant Stage Manager:** Emma Gordon**Character**  
-Joe  
-Andy  
-Ken  
-Voices**Actor**  
-Ian Hogg  
-Damien Goodwin  
-Adrian McLoughlin  
-Cathy Sara
+**Assistant Stage Manager:** Emma Gordon
+
+**Character** **Actor**  
+**Joe** Ian Hogg  
+**Andy** Damien Goodwin  
+**Ken** Adrian McLoughlin  
+**Voices** Cathy Sara
 
 ### Revival (1999)
 
@@ -47,15 +45,13 @@ Cathy Sara
 
 **Stage Manager:** Dawn Eric Dyson  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Sara Wells**Character**  
-Joe  
-Andy  
-Ken  
-Voices**Actor**  
-John Branwell  
-Bill Champion  
-Richard Derrington  
-Cathy Sara
+**Assistant Stage Manager:** Sara Wells
+
+**Character** **Actor**  
+**Joe** John Branwell  
+**Andy** Bill Champion  
+**Ken** Richard Derrington  
+**Voices** Cathy Sara
 
 ### Revival (2008)
 
@@ -72,15 +68,13 @@ Cathy Sara
 
 **Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Lisa Mellor  
-**Assistant Stage Manager:** Emma Hanson**Character**  
-Joe  
-Andy  
-Ken  
-Voices**Actor**  
-Ian Hogg  
-Richard Stacey  
-Adrian McLoughlin  
-Cathy Sara
+**Assistant Stage Manager:** Emma Hanson
+
+**Character** **Actor**  
+**Joe** Ian Hogg  
+**Andy** Richard Stacey  
+**Ken** Adrian McLoughlin  
+**Voices** Cathy Sara
 
 ### London Premiere (2011)
 
@@ -89,15 +83,13 @@ Cathy Sara
 **Staging:** End-stage
 
 **Director:** Andrew Hall  
-**Designer:** John Brooking**Character**  
-Joe  
-Andy  
-Ken  
-Voices**Actor**  
-Christopher Timothy  
-Dominic Hecht  
-Richard O'Callaghan  
-Louise Kempton
+**Designer:** John Brooking
+
+**Character** **Actor**  
+**Joe** Christopher Timothy  
+**Andy** Dominic Hecht  
+**Ken** Richard O'Callaghan  
+**Voices** Louise Kempton
 
 ### Tour (2012)
 
@@ -108,15 +100,13 @@ Louise Kempton
 **Director:** Andrew Hall  
 **Designer:** John Brooking  
 **Lighting Design:** Matthew Eagland  
-**Sound Design:** Tom Hackley**Character**  
-Joe  
-Andy  
-Ken  
-Voices**Actor**  
-Duncan Preston  
-Joe McFadden  
-Richard O'Callaghan  
-Louise Kempton
+**Sound Design:** Tom Hackley
+
+**Character** **Actor**  
+**Joe** Duncan Preston  
+**Andy** Joe McFadden  
+**Ken** Richard O'Callaghan  
+**Voices** Louise Kempton
 
 ### Revival (2018)
 
@@ -128,12 +118,12 @@ Louise Kempton
 **Director:** Lucy Pittman-Wallace  
 **Designer:** Jess Curtis  
 **Lighting:** Mark Dymock  
-**Sound:** Paul Dodgson**Character**  
-Joe  
-Andy  
-Ken  
-Voices**Actor**  
-Sam Cox  
-Matthew Spencer  
-Clive Llewellyn  
-Laura Elsworthy*All research for this page by Simon Murgatroyd.*
+**Sound:** Paul Dodgson
+
+**Character** **Actor**  
+**Joe** Sam Cox  
+**Andy** Matthew Spencer  
+**Ken** Clive Llewellyn  
+**Voices** Laura Elsworthy
+
+*All research for this page by Simon Murgatroyd.*

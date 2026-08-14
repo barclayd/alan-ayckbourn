@@ -33,5 +33,7 @@ play: "dads-tale"
 **Venue:** Church Institute, Hull  
 **Staging:** Round
 
-**Director:** Muriel Crane  **Actors**  
-*Details to be confirmed*   *All research for this page by Simon Murgatroyd.*
+**Director:** Muriel Crane  
+**Actors**  
+*Details to be confirmed*  
+*All research for this page by Simon Murgatroyd.*

@@ -22,23 +22,17 @@ play: "family-circles"
 **Deputy Stage Manager:** Graham Phoenix  
 **Assistant Stage Manager:** Gillian Davidson  
 **Assistant Stage Manager:** Jane Douglas  
-**Assistant Stage Manager:** Richard Derrington**Character**  
-Edward  
-Emma  
-Polly  
-Jenny  
-Deirdre  
-Oliver  
-David  
-James**Actor**  
-Robert Peck  
-Eve Shickle  
-Heather Stoney  
-Elisabeth Sladen  
-Stephanie Turner  
-Joe Dunlop  
-Ronald Herdman  
-Piers Rogers
+**Assistant Stage Manager:** Richard Derrington
+
+**Character** **Actor**  
+**Edward** Robert Peck  
+**Emma** Eve Shickle  
+**Polly** Heather Stoney  
+**Jenny** Elisabeth Sladen  
+**Deirdre** Stephanie Turner  
+**Oliver** Joe Dunlop  
+**David** Ronald Herdman  
+**James** Piers Rogers
 
 ### Revival (1971)
 
@@ -47,23 +41,17 @@ Piers Rogers
 **Staging:** End-stage  
 **Revised Title:** Me Times Me Times Me
 
-**Director:** Robin Midgley**Character**  
-Edward  
-Emma  
-Polly  
-Jenny  
-Deirdre  
-Oliver  
-David  
-James**Actor**  
-John Robinson  
-Ambrosine Philpotts  
-Heather Stoney  
-Bridget Turner  
-Cherith Mellor  
-Peter Blythe  
-John Normington  
-David Wood
+**Director:** Robin Midgley
+
+**Character** **Actor**  
+**Edward** John Robinson  
+**Emma** Ambrosine Philpotts  
+**Polly** Heather Stoney  
+**Jenny** Bridget Turner  
+**Deirdre** Cherith Mellor  
+**Oliver** Peter Blythe  
+**David** John Normington  
+**James** David Wood
 
 ### Revival (1972)
 
@@ -73,23 +61,17 @@ David Wood
 **Revised Title:** Me Times Me
 
 **Director:** Basil Coleman  
-**Designer:** Hutchinson Scott**Character**  
-Edward  
-Emma  
-Polly  
-Jenny  
-Deirdre  
-Oliver  
-David  
-James**Actor**  
-Roland Culver  
-Celia Johnson  
-Bridget Armstrong  
-Ann Penfold  
-Cherith Mellor  
-John Nettleton  
-Peter Blythe  
-David Firth
+**Designer:** Hutchinson Scott
+
+**Character** **Actor**  
+**Edward** Roland Culver  
+**Emma** Celia Johnson  
+**Polly** Bridget Armstrong  
+**Jenny** Ann Penfold  
+**Deirdre** Cherith Mellor  
+**Oliver** John Nettleton  
+**David** Peter Blythe  
+**James** David Firth
 
 ### London Premiere (1978)
 
@@ -98,23 +80,17 @@ David Firth
 **Venue:** Orange Tree Theatre, Richmond  
 **Staging:** Round
 
-**Director:** Sam Walters**Character**  
-Edward  
-Emma  
-Polly  
-Jenny  
-Deirdre  
-Oliver  
-David  
-James**Actor**  
-Rio Fanning  
-Jan Bashford  
-Auriol Smith  
-Jan Carey  
-Liz Crowther  
-Michael Wynne  
-Brian Miller  
-David Gillies
+**Director:** Sam Walters
+
+**Character** **Actor**  
+**Edward** Rio Fanning  
+**Emma** Jan Bashford  
+**Polly** Auriol Smith  
+**Jenny** Jan Carey  
+**Deirdre** Liz Crowther  
+**Oliver** Michael Wynne  
+**David** Brian Miller  
+**James** David Gillies
 
 ### Revival (1985)
 
@@ -134,23 +110,17 @@ David Gillies
 **Deputy Stage Manager:** David Emmett-Miller  
 **Deputy Stage Manager:** Jo Linfoot  
 **Assistant Stage Manager:** Paul Quinn  
-**Assistant Stage Manager:** Kathryn-Anne Woodward**Character**  
-Edward  
-Emma  
-Polly  
-Jenny  
-Deirdre  
-Oliver  
-David  
-James**Actor**  
-Geoffrey Banks  
-Rhoda Lewis  
-Jane Hollowood  
-Lesley Meade  
-Caroline Webster  
-Russell Dixon  
-Nicholas Lumley  
-Ben Daniels
+**Assistant Stage Manager:** Kathryn-Anne Woodward
+
+**Character** **Actor**  
+**Edward** Geoffrey Banks  
+**Emma** Rhoda Lewis  
+**Polly** Jane Hollowood  
+**Jenny** Lesley Meade  
+**Deirdre** Caroline Webster  
+**Oliver** Russell Dixon  
+**David** Nicholas Lumley  
+**James** Ben Daniels
 
 ### London Revival (1996)
 
@@ -163,20 +133,17 @@ Ben Daniels
 **Lighting:** Joe White  
 **Design:** Sam Dowson
 
-**Stage Manager:** Annabel FitzGerald**Character**  
-Edward  
-Emma  
-Polly  
-Jenny  
-Deirdre  
-Oliver  
-David  
-James**Actor**  
-Mark Kingston  
-Aural Smith  
-Jenny Funnell  
-Julie Peasgood  
-Emma Gregory  
-Philip York  
-John Hudson  
-Damien Matthews**Note:** Presented as part of the Orange Tree Theatre's 25th anniversary season, this production was so popular, it was revived from 14 August to 27 September 1997. The play was recast with only Auriol Smith and Philip York returning to the company joined by David Antrobus, Prue Clarke, Emma Gregory, Robert McBain, Joanne Mitchell and Timothy Watson.*All research for this page by Simon Murgatroyd.*
+**Stage Manager:** Annabel FitzGerald
+
+**Character** **Actor**  
+**Edward** Mark Kingston  
+**Emma** Aural Smith  
+**Polly** Jenny Funnell  
+**Jenny** Julie Peasgood  
+**Deirdre** Emma Gregory  
+**Oliver** Philip York  
+**David** John Hudson  
+**James** Damien Matthews
+
+**Note:** Presented as part of the Orange Tree Theatre's 25th anniversary season, this production was so popular, it was revived from 14 August to 27 September 1997. The play was recast with only Auriol Smith and Philip York returning to the company joined by David Antrobus, Prue Clarke, Emma Gregory, Robert McBain, Joanne Mitchell and Timothy Watson.  
+*All research for this page by Simon Murgatroyd.*

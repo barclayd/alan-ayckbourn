@@ -23,21 +23,16 @@ play: "way-upstream"
 
 **Stage Manager:** Isobel Nimmo  
 **Deputy Stage Manager:** Eric Lumsden  
-**Assistant Stage Manager:** Sue Merry**Character**  
-Keith  
-June, his wife  
-Alistair, his partner  
-Emma, his wife  
-Mrs Hatfield  
-Vince  
-Fleur**Actor**  
-Robin Bowerman  
-Carole Boyd  
-Robin Herford  
-Lavinia Bertram  
-Susan Uebel  
-Graeme Eton  
-Gillian Bevan
+**Assistant Stage Manager:** Sue Merry
+
+**Character** **Actor**  
+**Keith** Robin Bowerman  
+**June, his wife** Carole Boyd  
+**Alistair, his partner** Robin Herford  
+**Emma, his wife** Lavinia Bertram  
+**Mrs Hatfield** Susan Uebel  
+**Vince** Graeme Eton  
+**Fleur** Gillian Bevan
 
 ### North American Premiere (1982)
 
@@ -51,7 +46,8 @@ Gillian Bevan
 **Lighting:** Francis Lynch  
 **Music:** Paul Todd  
 **Boat Builder:** Ron Skolmen (Speed Sailing Specialists)  
-**Water Effects:** R. Duncan MacKenzie**Character**  
+**Water Effects:** R. Duncan MacKenzie  
+**Character**  
 Keith  
 June, his wife  
 Alistair, his partner  
@@ -60,7 +56,8 @@ Mrs Hatfield
 Vince  
 Fleur
 
-Understudies**Actor**  
+Understudies  
+**Actor**  
 Robin Bowerman  
 Carole Boyd  
 Robin Herford  
@@ -70,7 +67,8 @@ Graeme Eton
 Gillian Bevan
 
 Jeni Giffen  
-John Skitt**Note:** This was the company from the original production at the Stephen Joseph Theatre In The Round, Scarborough, which toured to the Alley Theatre, Houston, for a two-long residency with *Way Upstream* and a new production of Alan Ayckbourn’s *Absent Friends*. Way Upstream ran from 14 February - 24 March and 25 - 31 March 1982.
+John Skitt  
+**Note:** This was the company from the original production at the Stephen Joseph Theatre In The Round, Scarborough, which toured to the Alley Theatre, Houston, for a two-long residency with *Way Upstream* and a new production of Alan Ayckbourn’s *Absent Friends*. Way Upstream ran from 14 February - 24 March and 25 - 31 March 1982.
 
 ### London Premiere (1982)
 
@@ -86,21 +84,16 @@ John Skitt**Note:** This was the company from the original production at the Ste
 **Director:** Alan Ayckbourn  
 **Design:** Alan Tagg  
 **Lighting:** William Bundy  
-**Music:** Paul Todd**Character**  
-Keith  
-June, his wife  
-Alistair, his partner  
-Emma, his wife  
-Mrs Hatfield  
-Vince  
-Fleur**Actor**  
-Tony Haygarth  
-Susan Fleetwood  
-Jim Norton  
-Julie Legrand  
-Jane Downs  
-James Laurenson  
-Nina Thomas
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Keith** Tony Haygarth  
+**June, his wife** Susan Fleetwood  
+**Alistair, his partner** Jim Norton  
+**Emma, his wife** Julie Legrand  
+**Mrs Hatfield** Jane Downs  
+**Vince** James Laurenson  
+**Fleur** Nina Thomas
 
 ### Tour (1984)
 
@@ -113,21 +106,16 @@ Nina Thomas
 **Design:** Saul Radomsky  
 **Lighting:** Richard M. Parker
 
-**Producer:** Duncan C. Weldon**Character**  
-Keith  
-June, his wife  
-Alistair, his partner  
-Emma, his wife  
-Mrs Hatfield  
-Vince  
-Fleur**Actor**  
-Peter Forbes  
-Sarah Parish  
-Jason Hughes  
-Jill Halfpenny  
-Nicola Sloane  
-Jason Durr  
-Emily Laing
+**Producer:** Duncan C. Weldon
+
+**Character** **Actor**  
+**Keith** Peter Forbes  
+**June, his wife** Sarah Parish  
+**Alistair, his partner** Jason Hughes  
+**Emma, his wife** Jill Halfpenny  
+**Mrs Hatfield** Nicola Sloane  
+**Vince** Jason Durr  
+**Fleur** Emily Laing
 
 ### Revival (2003)
 
@@ -146,21 +134,16 @@ Emily Laing
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Emily Thurlby  
-**Assistant Stage Manager:** Sarah Caldwell**Character**  
-Keith  
-June, his wife  
-Alistair, his partner  
-Emma, his wife  
-Mrs Hatfield  
-Vince  
-Fleur**Actor**  
-John Branwell  
-Fiona Mollison  
-Matthew Cottle  
-Saskia Butler  
-Suzy Aitchison  
-Stephen Beckett  
-Maeve Larkin
+**Assistant Stage Manager:** Sarah Caldwell
+
+**Character** **Actor**  
+**Keith** John Branwell  
+**June, his wife** Fiona Mollison  
+**Alistair, his partner** Matthew Cottle  
+**Emma, his wife** Saskia Butler  
+**Mrs Hatfield** Suzy Aitchison  
+**Vince** Stephen Beckett  
+**Fleur** Maeve Larkin
 
 ### Revival (2011)
 
@@ -174,21 +157,16 @@ Maeve Larkin
 **Lighting:** Richard G Jones  
 **Music:** Paul Dodgson  
 **Fight Director:** Terry King  
-**Assistant Director:** Ellie Trevitt**Character**  
-Keith  
-June, his wife  
-Alistair, his partner  
-Emma, his wife  
-Mrs Hatfield  
-Vince  
-Fleur**Actor**  
-David Hounslow  
-Cate Hamer  
-Daniel Crowder  
-Sally Scott  
-Suzy Aitchison  
-Richard Trinder  
-Georgina White
+**Assistant Director:** Ellie Trevitt
+
+**Character** **Actor**  
+**Keith** David Hounslow  
+**June, his wife** Cate Hamer  
+**Alistair, his partner** Daniel Crowder  
+**Emma, his wife** Sally Scott  
+**Mrs Hatfield** Suzy Aitchison  
+**Vince** Richard Trinder  
+**Fleur** Georgina White
 
 ### Revival (2015)
 
@@ -203,18 +181,15 @@ Georgina White
 **Sound:** Fergus O’Hare  
 **Fight Director:** Rachel Bown-Williams  
 **Fight Director:** Ruth Cooper-Brown  
-**Assistant Director:** Jake Smith**Character**  
-Keith  
-June, his wife  
-Alistair, his partner  
-Emma, his wife  
-Mrs Hatfield  
-Vince  
-Fleur**Actor**  
-Peter Forbes  
-Sarah Parish  
-Jason Hughes  
-Jill Halfpenny  
-Nicola Sloane  
-Jason Durr  
-Emily Laing*All research for this page by Simon Murgatroyd.*
+**Assistant Director:** Jake Smith
+
+**Character** **Actor**  
+**Keith** Peter Forbes  
+**June, his wife** Sarah Parish  
+**Alistair, his partner** Jason Hughes  
+**Emma, his wife** Jill Halfpenny  
+**Mrs Hatfield** Nicola Sloane  
+**Vince** Jason Durr  
+**Fleur** Emily Laing
+
+*All research for this page by Simon Murgatroyd.*

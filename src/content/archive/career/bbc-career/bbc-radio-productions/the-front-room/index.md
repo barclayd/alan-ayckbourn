@@ -8,26 +8,22 @@ order: 628
 
 ### Production Details
 
-**Author:**
+**Author:** Robert Storey  
+**Broadcast:** 16 October 1968 @ 3pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Robert Storey
+**Director:**  
+Alan Ayckbourn
 
-16 October 1968 @ 3pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-All  
-Mavis  
-George  
-Charlie  
-Ada  
-Muriel**Actor**  
-Wilfred Pickles  
-Katherine Parr  
-James Beck  
-Harry Mahkham  
-Heather Stoney  
-Joyce Adcock
+**Character** **Actor**  
+**All** Wilfred Pickles  
+**Mavis** Katherine Parr  
+**George** James Beck  
+**Charlie** Harry Mahkham  
+**Ada** Heather Stoney  
+**Muriel** Joyce Adcock
 
 ### Notes
 
-○ *The Front Room* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Front Room* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

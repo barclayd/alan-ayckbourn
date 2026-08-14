@@ -22,30 +22,21 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and A
 **Vinyl:** 1975 (deleted)  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Director**
+**Digital:** Not available
 
-**Character**  
-Bertie Wooster  
-Jeeves  
-Harold 'Stinker' Pinker  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Sir Roderick Spode  
-Honoria Glossop  
-Madeleine Bassett  
-Stiffy Byng  
-Bingo Little Eric Thompson  
-Alan Ayckbourn
+**Director** Eric Thompson  
+**Director** Alan Ayckbourn  
+**Character** **Actor**  
+**Bertie Wooster** David Hemmings  
+**Jeeves** Michael Aldridge  
+**Harold 'Stinker' Pinker** Gordon Clyde  
+**Gussie Fink-Nottle** Christopher Good  
+**Sir Watkyn Bassett** Bill Wallis  
+**Sir Roderick Spode** John Turner  
+**Honoria Glossop** Angela Easterling  
+**Madeleine Bassett** Gabrielle Drake  
+**Stiffy Byng** Debbie Bowen  
+**Bingo Little** David Wood
 
-**Actor**  
-David Hemmings  
-Michael Aldridge  
-Gordon Clyde  
-Christopher Good  
-Bill Wallis  
-John Turner  
-Angela Easterling  
-Gabrielle Drake  
-Debbie Bowen  
-David Wood**Note:** The *Jeeves* LP is considered one of the rarest items of Ayckbourn-related memorabilia due to its limited production run. The LP notes in which Bertie Wooster briefly introduces each song were written specifically for the album by Alan Ayckbourn.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Note:** The *Jeeves* LP is considered one of the rarest items of Ayckbourn-related memorabilia due to its limited production run. The LP notes in which Bertie Wooster briefly introduces each song were written specifically for the album by Alan Ayckbourn.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

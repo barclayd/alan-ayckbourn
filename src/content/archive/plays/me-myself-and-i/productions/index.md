@@ -42,64 +42,37 @@ play: "me-myself-and-i"
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch
 
-**Stage Manager:** Amanda Saunders**Character**  
-Me  
-Myself  
-I  
-Reporter
+**Stage Manager:** Amanda Saunders
 
+**Character** **Actor**  
+**Me** Lavinia Bertram  
+**Myself** Christine Kavanagh  
+**I** Gillian Bevan  
+**Reporter** Michael Simkins  
 **The Band**  
-Bass guitar, guitar  
-Synthesiser, piano  
-Piano, percussion
-
+**Bass guitar, guitar** Iain Hawkins  
+**Synthesiser, piano** Dave Newton  
+**Piano, percussion** Paul Todd  
 **Character**  
-Me  
-Myself  
-I  
-Reporter
-
+**Me** Lavinia Bertram  
+**Myself** Susan Uebel  
+**I** Carole Boyd  
+**Reporter** Robin Bowerman  
 **The Band**  
-Bass guitar, guitar  
-Synthesiser, piano  
-Piano, percussion
-
+**Bass guitar, guitar** Iain Hawkins  
+**Synthesiser, piano** Dave Newton  
+**Piano, percussion** Paul Todd  
 **Character**  
-Me  
-Myself  
-I  
-Husband
-
+**Me** Lavinia Bertram  
+**Myself** Susan Uebel  
+**I** Carol Boyd  
+**Husband** Robin Bowerman  
 **The Band**  
-Bass guitar, guitar  
-Synthesiser, piano  
-Piano, percussion**Actor**  
-Lavinia Bertram  
-Christine Kavanagh  
-Gillian Bevan  
-Michael Simkins
+**Bass guitar, guitar** Iain Hawkins  
+**Synthesiser, piano** Dave Newton  
+**Piano, percussion** Paul Todd
 
-Iain Hawkins  
-Dave Newton  
-Paul Todd
-
-Lavinia Bertram  
-Susan Uebel  
-Carole Boyd  
-Robin Bowerman
-
-Iain Hawkins  
-Dave Newton  
-Paul Todd
-
-Lavinia Bertram  
-Susan Uebel  
-Carol Boyd  
-Robin Bowerman
-
-Iain Hawkins  
-Dave Newton  
-Paul Todd**Note:** The original production also featured an instrumental only *Prologue* and *Epilogue* featuring the band performing instrumental versions of the *Me, Myself & I* songs as well as other compositions by members of the band. *Prologue* premiered on 30 June 1981 and *Epilogue* on 13 July 1981. Productions detail are the same except they were directed by Paul Todd rather than Alan Ayckbourn and only featured the band members.
+**Note:** The original production also featured an instrumental only *Prologue* and *Epilogue* featuring the band performing instrumental versions of the *Me, Myself & I* songs as well as other compositions by members of the band. *Prologue* premiered on 30 June 1981 and *Epilogue* on 13 July 1981. Productions detail are the same except they were directed by Paul Todd rather than Alan Ayckbourn and only featured the band members.
 
 ### London Premiere (1982)
 
@@ -108,21 +81,15 @@ Paul Todd**Note:** The original production also featured an instrumental only *P
 **Staging:** Round
 
 **Director:** Kim Grant  
-**Musical Director:** Chris Tingley**Character**  
-Me  
-Myself  
-I  
-Man
+**Musical Director:** Chris Tingley
 
-Electric Piano  
-Piano**Actor**  
-Rosemary Williams  
-Jill Martin  
-Susan Denaker  
-Peter Gale
-
-Sandy Blair  
-Chris Tingley
+**Character** **Actor**  
+**Me** Rosemary Williams  
+**Myself** Jill Martin  
+**I** Susan Denaker  
+**Man** Peter Gale  
+**Electric Piano** Sandy Blair  
+**Piano** Chris Tingley
 
 ### Revival (1983)
 
@@ -132,19 +99,14 @@ Chris Tingley
 **Staging:** Round
 
 **Director:** Kim Grant  
-**Musical Director:** Martin Goldstein**Character**  
-Me  
-Myself  
-I  
-Man
+**Musical Director:** Martin Goldstein
 
-Piano**Actor**  
-Rosemary Williams  
-Gillian Bevan  
-Susan Denaker  
-Martin Connor
-
-Martin Goldstein
+**Character** **Actor**  
+**Me** Rosemary Williams  
+**Myself** Gillian Bevan  
+**I** Susan Denaker  
+**Man** Martin Connor  
+**Piano** Martin Goldstein
 
 ### National Theatre Premiere (1985)
 
@@ -157,19 +119,14 @@ Martin Goldstein
 **Director:** Alan Ayckbourn  
 **Musical Director:** Paul Todd  
 **Design:** Emma B Lloyd  
-**Lighting:** Steve Ramsden**Character**  
-Me  
-Myself  
-I  
-Man
+**Lighting:** Steve Ramsden
 
-Piano**Actor**  
-Jenny Galloway  
-Kelly Hunter  
-Kate Dyson  
-James Hayes
-
-Paul Todd
+**Character** **Actor**  
+**Me** Jenny Galloway  
+**Myself** Kelly Hunter  
+**I** Kate Dyson  
+**Man** James Hayes  
+**Piano** Paul Todd
 
 ### Revival (2003)
 
@@ -181,16 +138,13 @@ Paul Todd
 **Musical Director:** Paul Harvard  
 **Design:** Sam Dowson  
 **Lighting:** John Harris  
-**Choreography:** Ken Oldfield**Character**  
-Me  
-Myself  
-I  
-Man
+**Choreography:** Ken Oldfield
 
-Piano**Actor**  
-Jacqui Charlesworth  
-Jessica Martin  
-Stephanie Putson  
-Nigel Richards
+**Character** **Actor**  
+**Me** Jacqui Charlesworth  
+**Myself** Jessica Martin  
+**I** Stephanie Putson  
+**Man** Nigel Richards  
+**Piano** Paul Harvard
 
-Paul Harvard*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

@@ -22,34 +22,22 @@ play: "suburban-strains"
 
 **Stage Manager:** Amanda Saunders  
 **Deputy Stage Manager:** Miles Andrews  
-**Assistant Stage Manager:** Eric Lumsden**Character**  
-Caroline  
-Kevin  
-Matthew / Mr Oatman  
-Jilly / Anne / Miss Dent  
-Ivor / Mr Grubland  
-Douglas / Naylor / Howard  
-Linda / Joanna
+**Assistant Stage Manager:** Eric Lumsden
 
+**Character** **Actor**  
+**Caroline** Lavinia Bertram  
+**Kevin** Robin Bowerman  
+**Matthew / Mr Oatman** Robin Herford  
+**Jilly / Anne / Miss Dent** Alison Skilbeck  
+**Ivor / Mr Grubland** Jeffery Robert  
+**Douglas / Naylor / Howard** John Arthur  
+**Linda / Joanna** Nina Edwards  
 **The Band**  
-Keyboards  
-Guitar / Banjo  
-Strings / Electric Bass  
-Drums / Percussion  
-Percussion / Keyboards**Actor**  
-Lavinia Bertram  
-Robin Bowerman  
-Robin Herford  
-Alison Skilbeck  
-Jeffery Robert  
-John Arthur  
-Nina Edwards
-
-Chris Achenbach  
-Iain Hawkins  
-Pete Mentzell  
-Ron Wray  
-Paul Todd
+**Keyboards** Chris Achenbach  
+**Guitar / Banjo** Iain Hawkins  
+**Strings / Electric Bass** Pete Mentzell  
+**Drums / Percussion** Ron Wray  
+**Percussion / Keyboards** Paul Todd
 
 ### Revival (1981)
 
@@ -68,34 +56,24 @@ Paul Todd
 **Stage Manager:** Simon Whitaker  
 **Deputy Stage Manager:** Eric Lumsden  
 **Assistant Stage Manager:** Sue Merry  
-**Assistant Stage Manager:** Philippa Malbon**Character**  
-Caroline  
-Kevin  
-Matthew / Mr Oatman  
-Jilly / Anne / Miss Dent  
-Ivor / Mr Grubland  
-Douglas / Naylor / Howard  
-Linda / Joanna
+**Assistant Stage Manager:** Philippa Malbon
 
+**Character** **Actor**  
+**Caroline** Lavinia Bertram  
+**Kevin** Michael Simkins  
+**Matthew / Mr Oatman** Robin Herford  
+**Jilly / Anne / Miss Dent** Marcia Warren  
+**Ivor / Mr Grubland** Graeme Eton  
+**Douglas / Naylor / Howard** Russell Dixon  
+**Linda / Joanna** Tessa Peake-Jones  
 **The Band**  
-Keyboards  
-Guitars  
-Bass Guitar  
-Drums  
-Percussion / Keyboards**Actor**  
-Lavinia Bertram  
-Michael Simkins  
-Robin Herford  
-Marcia Warren  
-Graeme Eton  
-Russell Dixon  
-Tessa Peake-Jones
+**Keyboards** Dave Newton  
+**Guitars** Iain Hawkins  
+**Bass Guitar** Paul Morgan  
+**Drums** Ron Wray  
+**Percussion / Keyboards** Paul Todd
 
-Dave Newton  
-Iain Hawkins  
-Paul Morgan  
-Ron Wray  
-Paul Todd**Note:** *Suburban Strains* was revived at the Stephen Joseph Theatre In The Round in 1981, ostensiably for a transfer to London (see below). However, following its initial 11 day run at the venue (14 - 24 January), it was announced the production would return to Scarborough for another nine performances followings its London residency. The extra performances ran from 18 - 28 March 1981.
+**Note:** *Suburban Strains* was revived at the Stephen Joseph Theatre In The Round in 1981, ostensiably for a transfer to London (see below). However, following its initial 11 day run at the venue (14 - 24 January), it was announced the production would return to Scarborough for another nine performances followings its London residency. The extra performances ran from 18 - 28 March 1981.
 
 ### London Premiere (1981)
 
@@ -109,31 +87,22 @@ Paul Todd**Note:** *Suburban Strains* was revived at the Stephen Joseph Theatre 
 **Choreographer:** Sarah Bennett  
 **Designer:** John Halle  
 **Lighting:** Francis Lynch  
-**Sound:** Jane Smailes**Character**  
-Caroline  
-Kevin  
-Matthew / Mr Oatman  
-Jilly / Anne / Miss Dent  
-Ivor / Mr Grubland  
-Douglas / Naylor / Howard  
-Linda / Joanna
+**Sound:** Jane Smailes
 
+**Character** **Actor**  
+**Caroline** Lavinia Bertram  
+**Kevin** Michael Simkins  
+**Matthew / Mr Oatman** Robin Herford  
+**Jilly / Anne / Miss Dent** Marcia Warren  
+**Ivor / Mr Grubland** Graeme Eton  
+**Douglas / Naylor / Howard** Russell Dixon  
+**Linda / Joanna** Tessa Peake-Jones  
 **The Band**  
-Keyboards  
-Guitars  
-Bass Guitar  
-Drums  
-Percussion / Keyboards**Actor**  
-Lavinia Bertram  
-Michael Simkins  
-Robin Herford  
-Marcia Warren  
-Graeme Eton  
-Russell Dixon  
-Tessa Peake-Jones
+**Keyboards** Dave Newton  
+**Guitars** Iain Hawkins  
+**Bass Guitar** Paul Morgan  
+**Drums** Ron Wray  
+**Percussion / Keyboards** Paul Todd
 
-Dave Newton  
-Iain Hawkins  
-Paul Morgan  
-Ron Wray  
-Paul Todd**Note:** *Suburban Strains* toured to The Round House for a month-long residency following a short revival at the Stephen Joseph Theatre In The Round.*All research for this page by Simon Murgatroyd.*
+**Note:** *Suburban Strains* toured to The Round House for a month-long residency following a short revival at the Stephen Joseph Theatre In The Round.  
+*All research for this page by Simon Murgatroyd.*

@@ -24,51 +24,31 @@ play: "a-trip-to-scarborough-sheridan"
 **Assistant Stage Manager:** Mathew Claridge  
 **Assistant Stage Manager:** Jeff Golding  
 **Assistant Stage Manager:** Anneke Harrison  
-**Assistant Stage Manager:** Richard Garnett**Character**  
-Miss Hoyden / Holly / Mrs Holland  
-Pestle  
-Gander  
-Capt Townly / Col Townly /  
-John Townly  
-Maj Loveless / Mr Loveless /  
-Mr Love  
-Amanda Courtney / Mrs Love /  
-Amanda Loveless  
-Tim Farmer / Tom Fashion /  
-Flt Lt Faversham  
-Bill Lorimer / Flt Sgt Lawkins /  
-Lory  
-Sir George Tunberry / Wing Cmdr  
-Tunbry / Sir Tunbelly Clumsy  
-Muriel Tunberry / Mrs Coopland /  
-Nurse  
-Lord Foppington / Len Foppington /  
-Lance Foppington  
-Mel  
-Don  
-Ray**Actor**  
-Gillian Bevan  
-Richard Garnett  
-Graeme Eton  
-John Peters
+**Assistant Stage Manager:** Richard Garnett
 
-Russell Dixon
-
-Ursula Mohan
-
-Michael Cashman
-
-Terence Booth
-
-Randal Herley
-
-Elizabeth Kelly
-
-John Arthur
-
-Paul Todd  
-lain Hawkins  
-Dave Newton
+**Character** **Actor**  
+**Miss Hoyden / Holly / Mrs Holland** Gillian Bevan  
+**Pestle** Richard Garnett  
+**Gander** Graeme Eton  
+**Capt Townly / Col Townly /** John Peters  
+**John Townly**  
+**Maj Loveless / Mr Loveless /** Russell Dixon  
+**Mr Love**  
+**Amanda Courtney / Mrs Love /** Ursula Mohan  
+**Amanda Loveless**  
+**Tim Farmer / Tom Fashion /** Michael Cashman  
+**Flt Lt Faversham**  
+**Bill Lorimer / Flt Sgt Lawkins /** Terence Booth  
+**Lory**  
+**Sir George Tunberry / Wing Cmdr** Randal Herley  
+**Tunbry / Sir Tunbelly Clumsy**  
+**Muriel Tunberry / Mrs Coopland /** Elizabeth Kelly  
+**Nurse**  
+**Lord Foppington / Len Foppington /** John Arthur  
+**Lance Foppington**  
+**Mel** Paul Todd  
+**Don** lain Hawkins  
+**Ray** Dave Newton
 
 ### Revival (2007)
 
@@ -86,46 +66,29 @@ Dave Newton
 
 **Stage Manager:** Emily Vickers  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Fleur Linden Beeley**Character**  
-Miss Hoyden / Holly / Mrs Holland  
-Pestle  
-Gander  
-Capt Townly / Col Townly /  
-John Townly  
-Maj Loveless / Mr Loveless /  
-Mr Love  
-Amanda Courtney / Mrs Love /  
-Amanda Loveless  
-Tim Farmer / Tom Fashion /  
-Flt Lt Faversham  
-Bill Lorimer / Flt Sgt Lawkins / Lory  
-Sir George Tunberry / Wing Cmdr  
-Tunbry / Sir Tunbelly Clumsy  
-Muriel Tunberry / Mrs Coopland /  
-Nurse  
-Lord Foppington / Len Foppington /  
-Lance Foppington  
-Mel  
-Don  
-Ray**Actor**  
-Katie Foster-Barnes  
-Dominic Hecht  
-Adrian McLoughlin  
-Ben Lambert
+**Assistant Stage Manager:** Fleur Linden Beeley
 
-Ben Fox
+**Character** **Actor**  
+**Miss Hoyden / Holly / Mrs Holland** Katie Foster-Barnes  
+**Pestle** Dominic Hecht  
+**Gander** Adrian McLoughlin  
+**Capt Townly / Col Townly /** Ben Lambert  
+**John Townly**  
+**Maj Loveless / Mr Loveless /** Ben Fox  
+**Mr Love**  
+**Amanda Courtney / Mrs Love /** Sarah Moyle  
+**Amanda Loveless**  
+**Tim Farmer / Tom Fashion /** Richard Stacey  
+**Flt Lt Faversham**  
+**Bill Lorimer / Flt Sgt Lawkins / Lory** Marc Small  
+**Sir George Tunberry / Wing Cmdr** Robert Austin  
+**Tunbry / Sir Tunbelly Clumsy**  
+**Muriel Tunberry / Mrs Coopland /** Lavinia Bertram  
+**Nurse**  
+**Lord Foppington / Len Foppington /** Terence Booth  
+**Lance Foppington**  
+**Mel** Peter F Gardiner  
+**Don** Denis King  
+**Ray** Alex King
 
-Sarah Moyle
-
-Richard Stacey
-
-Marc Small  
-Robert Austin
-
-Lavinia Bertram
-
-Terence Booth
-
-Peter F Gardiner  
-Denis King  
-Alex King*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

@@ -15,4 +15,5 @@ order: 2351
 
 "Having been on the receiving end of several young actors' first plays I now know his heart must have sunk. But he read it, and his response was "You're a writer if that's what you want to hear.” I'd expected him to say I was the new Chekhov. Then he added - "But learn the rules before you break them." - He ignored the fact that I'd nicked his style and his characters, he made suggestions and encouraged me to do a complete re-write, and then directed the play himself in the '75 summer season. He immediately commissioned a Christmas show from me, followed that with a commission for the main house the following year, and a studio play to go with it.
 
-"With his guidance, I was a writer."*Copyright: Stephen Mallatratt. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"With his guidance, I was a writer."  
+*Copyright: Stephen Mallatratt. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

@@ -18,33 +18,21 @@ play: "way-upstream"
 **Video:** Not available  
 **DVD:** Not availabe  
 **Blu-ray:** Not available  
-**Digital:** Netflix**Director**  
-**Designer**  
-**Photography**  
-**Editor**  
-**Producer**
+**Digital:** Netflix
 
-**Character**  
-Alistair  
-Emma  
-Keith  
-June  
-Vince  
-Fleur  
-Mrs. HatfieldTerry Johnson  
-Geoff Powell  
-Peter Hall  
-Edward Billingham  
-Andrée Molyneaux
-
-**Actor**  
-Nick Dunning  
-Joanne Pearce  
-Barrie Rutter  
-Marion Bailey  
-Stuart Wilson  
-Lizzy McInnerny  
-Veronica Clifford
+**Director** Terry Johnson  
+**Designer** Geoff Powell  
+**Photography** Peter Hall  
+**Editor** Edward Billingham  
+**Producer** Andrée Molyneaux  
+**Character** **Actor**  
+**Alistair** Nick Dunning  
+**Emma** Joanne Pearce  
+**Keith** Barrie Rutter  
+**June** Marion Bailey  
+**Vince** Stuart Wilson  
+**Fleur** Lizzy McInnerny  
+**Mrs. Hatfield** Veronica Clifford
 
 ### Radio (1997)
 
@@ -58,22 +46,16 @@ Veronica Clifford
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Alistair  
-Emma  
-Keith  
-June  
-Vince  
-Fleur  
-Mrs. HatfieldGordon House
+**Director** Gordon House  
+**Character** **Actor**  
+**Alistair** Adam Godley  
+**Emma** Jenny Funnell  
+**Keith** Russell Dixon  
+**June** Samantha Bond  
+**Vince** Neil Pearson  
+**Fleur** Emily Raymond  
+**Mrs. Hatfield** Jillie Meers
 
-**Actor**  
-Adam Godley  
-Jenny Funnell  
-Russell Dixon  
-Samantha Bond  
-Neil Pearson  
-Emily Raymond  
-Jillie Meers*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

@@ -23,13 +23,12 @@ play: "snake-in-the-grass"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Shane Thom**Character**  
-Annabel Chester  
-Alice Moody  
-Miriam Chester**Actor**  
-Fiona Mollison  
-Rachel Atkins  
-Susie Blake
+**Assistant Stage Manager:** Shane Thom
+
+**Character** **Actor**  
+**Annabel Chester** Fiona Mollison  
+**Alice Moody** Rachel Atkins  
+**Miriam Chester** Susie Blake
 
 ### Revival (2008)
 
@@ -46,13 +45,12 @@ Susie Blake
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Rowena Rickson**Character**  
-Annabel Chester  
-Alice Moody  
-Miriam Chester**Actor**  
-Liza Goddard  
-Ruth Gibson  
-Susie Blake
+**Assistant Stage Manager:** Rowena Rickson
+
+**Character** **Actor**  
+**Annabel Chester** Liza Goddard  
+**Alice Moody** Ruth Gibson  
+**Miriam Chester** Susie Blake
 
 ### London Premiere (2011)
 
@@ -61,13 +59,12 @@ Susie Blake
 **Staging:** End-stage
 
 **Director:** Lucy Bailey  
-**Design:** William Dudley**Character**  
-Annabel Chester  
-Alice Moody  
-Miriam Chester**Actor**  
-Susan Wooldridge  
-Mossie Smith  
-Sarah Woodward
+**Design:** William Dudley
+
+**Character** **Actor**  
+**Annabel Chester** Susan Wooldridge  
+**Alice Moody** Mossie Smith  
+**Miriam Chester** Sarah Woodward
 
 ### Revival (2025)
 
@@ -75,10 +72,12 @@ Sarah Woodward
 **Venue:** Theatr Clwyd, Mold  
 **Staging:** End-stage
 
-**Director:** Francesca Goodridge**Character**  
-Annabel Chester  
-Alice Moody  
-Miriam Chester**Actor**  
-Sue Cleaver  
-Lisa Zahra  
-Nicola Stephenson**Note:** A co-production between Theatr Clwyd and the Octagon Theatre, Bolton.*All research for this page by Simon Murgatroyd.*
+**Director:** Francesca Goodridge
+
+**Character** **Actor**  
+**Annabel Chester** Sue Cleaver  
+**Alice Moody** Lisa Zahra  
+**Miriam Chester** Nicola Stephenson
+
+**Note:** A co-production between Theatr Clwyd and the Octagon Theatre, Bolton.  
+*All research for this page by Simon Murgatroyd.*

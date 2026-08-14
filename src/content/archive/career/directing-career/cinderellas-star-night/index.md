@@ -8,50 +8,33 @@ order: 423
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Herb Gardner  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Herb Gardner  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**21 November 1984  
-21 November 1984  
-15 December 1984
+**First performance:** 21 November 1984  
+**Opening night:** 21 November 1984  
+**Final performance:** 15 December 1984
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Francis Lynch  
+**Design:** Edward Lipscomb  
+**Music:** Paul Todd  
+**Stage Manager:** Eric Lumsden  
+**Deputy Stage Manager:** Anneke Harrison  
+**Assistant Stage Manager:** Drew Scott  
+**Assistant Stage Manager:** Kathryn-Anne Woodward
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Francis Lynch  
-Edward Lipscomb  
-Paul Todd
+**Character** **Actor**  
+**Murray Burns** Richard Cordery  
+**Nick Burns** Christopher Chandler  
+**Albert Amundson** David Learner  
+**Sandra Markowitz** Lesley Meade  
+**Arnold Burns** Martin Sadler  
+**Leo Herman** Malcolm Hebden
 
-Eric Lumsden  
-Anneke Harrison  
-Drew Scott  
-Kathryn-Anne Woodward**Character**  
-Murray Burns  
-Nick Burns  
-Albert Amundson  
-Sandra Markowitz  
-Arnold Burns  
-Leo Herman**Actor**  
-Richard Cordery  
-Christopher Chandler  
-David Learner  
-Lesley Meade  
-Martin Sadler  
-Malcolm Hebden*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

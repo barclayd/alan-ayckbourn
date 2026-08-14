@@ -69,4 +69,5 @@ And at a time when it’s getting less and less likely we’re going to discover
 
 *Simon Murgatroyd, 2024*
 
-*Copyright of Simon Murgatroyd 2024. Please do not reproduce without permission of the copyright holder.**All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*Copyright of Simon Murgatroyd 2024. Please do not reproduce without permission of the copyright holder.*  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

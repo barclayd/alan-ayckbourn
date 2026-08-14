@@ -8,50 +8,27 @@ order: 420
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Robert Shearman  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre  
+**Location:** The Round  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Robert Shearman  
-Yes
-
-Stephen Joseph Theatre  
-The Round  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**20 August 1997  
-26 August 1997  
-20 September 1997
+**First performance:** 20 August 1997  
+**Opening night:** 26 August 1997  
+**Final performance:** 20 September 1997
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Lighting:**
-
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Michael Holt  
-Paul Towson
-
-Richard Clayton  
-Harry Teale  
-Gemma Brooks**Character**  
-Robert Hunter  
-Bob Hunter  
-Karen Hunter  
-Carrie Brewer  
-Dominic Bradshaw  
-Bridget Bradshaw**Actor**  
-Richard Freeman  
-Nicholas Haverson  
-Fiona Hendley  
-Victoria Gay  
-Colin Gourley  
-Dorothy Atkinson
+**Director:** Alan Ayckbourn **Character** **Actor**  
+**Design:** Michael Holt **Robert Hunter** Richard Freeman  
+**Lighting:** Paul Towson **Bob Hunter** Nicholas Haverson  
+**Karen Hunter** Fiona Hendley  
+**Stage Manager:** Richard Clayton **Carrie Brewer** Victoria Gay  
+**Deputy Stage Manager:** Harry Teale **Dominic Bradshaw** Colin Gourley  
+**Assistant Stage Manager:** Gemma Brooks **Bridget Bradshaw** Dorothy Atkinson
 
 ### Notes
 
-○ *Fool To Yourself* was the playwright Robert Shearman’s first full-length play. Rob had previously had one act plays produced at the theatre - including *White Lies* - and would go on to have further one act and full-length plays debut in Scarborough.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Fool To Yourself* was the playwright Robert Shearman’s first full-length play. Rob had previously had one act plays produced at the theatre - including *White Lies* - and would go on to have further one act and full-length plays debut in Scarborough.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

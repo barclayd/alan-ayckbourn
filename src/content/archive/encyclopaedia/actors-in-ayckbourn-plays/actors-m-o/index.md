@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-16/page50.html"
 order: 804
 ---
 
-This is a comprehensive list of the actors (surnames M - O) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**David McAlister:** Dreams From A Summer House (WP 1992)  
+This is a comprehensive list of the actors (surnames M - O) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**David McAlister:** Dreams From A Summer House (WP 1992)  
 **Lucy McCabe:** Arrivals & Departures (AT 2014); Time Of My Life (AT 2014)  
 **Robin McCaffrey:** Absurd Person Singular (AR 1989); Wolf At The Door (WP 1989)  
 **Barry McCarthy:** Woman In Mind (WP 1985); Henceforward... (WP 1987): Henceforward... (AR 1988); Wildest Dreams (WP 1991); Wildest Dreams (LP 1993); Things We Do For Love (WP 1997); Things We Do For Love (LP 1998); House & Garden (WP 1999); Body Language (AR 1999)  
@@ -88,4 +89,5 @@ This is a comprehensive list of the actors (surnames M - O) who have appeared in
 **Safia Oakley-Green:** Woman in Mind (LR 2025)  
 **Mercy Ojelade:** Season's Greetings (AR 2019)  
 **Gil Osborne:** Time And Time Again (WP 1971)  
-**Tamzin Outhwaite:** Absent Friends (AR 1997); How The Other Half Loves (LR 2016)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**Tamzin Outhwaite:** Absent Friends (AR 1997); How The Other Half Loves (LR 2016)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

@@ -43,4 +43,5 @@ That Alan Ayckbourn's penultimate acting job was in Wales in a theatre he had ne
 
 The production also marked the first time Alan worked with the actor Christopher Godwin, who would also appear in *Mr Whatnot* in the West End and would later become a stalwart of Alan's repertory company in Scarborough, creating classic Ayckbourn characters such as Leonard in ***[Time And Time Again](/plays/time-and-time-again)***, Norman in ***[The Norman Conquests](/plays/the-norman-conquests)***, Colin in ***[Absent Friends](/plays/absent-friends)*** and Dennis in ***[Just Between Ourselves](/plays/just-between-ourselves)***.
 
-With thanks to Stephanie Dattani for help in researching this production.*All research for this page by Simon Murgatroyd.*
+With thanks to Stephanie Dattani for help in researching this production.  
+*All research for this page by Simon Murgatroyd.*

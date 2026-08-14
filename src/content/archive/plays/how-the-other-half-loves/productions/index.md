@@ -22,19 +22,15 @@ play: "how-the-other-half-loves"
 **Deputy Stage Manager:** Leslie Tomson  
 **Assistant Stage Manager:** Charles Boyle  
 **Assistant Stage Manager:** Sharon Duce  
-**Assistant Stage Manager:** Robert Peck**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Jeremy Franklin  
-Stephanie Turner  
-Elisabeth Sladen  
-Colin Edwynn  
-Brian Miller  
-Elizabeth Ashton
+**Assistant Stage Manager:** Robert Peck
+
+**Character** **Actor**  
+**Frank Foster** Jeremy Franklin  
+**Teresa Phillips** Stephanie Turner  
+**Fiona Foster** Elisabeth Sladen  
+**Bob Phillips** Colin Edwynn  
+**William Featherstone** Brian Miller  
+**Mary Featherstone** Elizabeth Ashton
 
 ### Pre-London Try-Out (1970)
 
@@ -44,19 +40,17 @@ Elizabeth Ashton
 
 **Director:** Robin Midgley  
 **Design:** Franco Colavecchia  
-**Producer:** Peter Bridge**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Hugh Paddick  
-Sheila Steafel  
-Anna Barry  
-Stephen MacDonald  
-Roy Macready  
-Hilda Braid**Note:** Unconvinced of the play's West End potential, the producer Peter Bridge organised a try-out production in Leicester with a different company to that which eventually took the play to London later in the same year.
+**Producer:** Peter Bridge
+
+**Character** **Actor**  
+**Frank Foster** Hugh Paddick  
+**Teresa Phillips** Sheila Steafel  
+**Fiona Foster** Anna Barry  
+**Bob Phillips** Stephen MacDonald  
+**William Featherstone** Roy Macready  
+**Mary Featherstone** Hilda Braid
+
+**Note:** Unconvinced of the play's West End potential, the producer Peter Bridge organised a try-out production in Leicester with a different company to that which eventually took the play to London later in the same year.
 
 ### London Premiere (1970)
 
@@ -69,19 +63,17 @@ Hilda Braid**Note:** Unconvinced of the play's West End potential, the producer 
 **Director:** Robin Midgley  
 **Design:** Alan Tagg  
 **Lighting:** John B. Read  
-**Producers:** Peter Bridge & Eddie Kulukundis**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Robert Morley  
-Heather Sears  
-Joan Tetzel  
-Donald Burton  
-Brian Miller  
-Elizabeth Ashton**Note:** During the course of its run, there were several cast alterations. Jan Holden took over the role of Fiona Foster (probably in 1971) with Ian McCulloch and Sheila Steafel taking over the roles of Bob and Terry Phillips (probably in 1972).
+**Producers:** Peter Bridge & Eddie Kulukundis
+
+**Character** **Actor**  
+**Frank Foster** Robert Morley  
+**Teresa Phillips** Heather Sears  
+**Fiona Foster** Joan Tetzel  
+**Bob Phillips** Donald Burton  
+**William Featherstone** Brian Miller  
+**Mary Featherstone** Elizabeth Ashton
+
+**Note:** During the course of its run, there were several cast alterations. Jan Holden took over the role of Fiona Foster (probably in 1971) with Ian McCulloch and Sheila Steafel taking over the roles of Bob and Terry Phillips (probably in 1972).
 
 ### Broadway Premiere (1971)
 
@@ -92,19 +84,15 @@ Elizabeth Ashton**Note:** During the course of its run, there were several cast 
 
 **Director:** Gene Saks  
 **Design:** David Mitchell  
-**Lighting:** Peggy Clark**Character**  
-Frank Foster  
-Fiona Foster  
-Bob Phillips  
-Teresa Phillips  
-William Detweiler  
-Mary Detweiler**Actor**  
-Phil Silvers  
-Bernice Massi  
-Richard Mulligan  
-Sandy Dennis  
-Tom Aldredge  
-Jeanne Hepple
+**Lighting:** Peggy Clark
+
+**Character** **Actor**  
+**Frank Foster** Phil Silvers  
+**Fiona Foster** Bernice Massi  
+**Bob Phillips** Richard Mulligan  
+**Teresa Phillips** Sandy Dennis  
+**William Detweiler** Tom Aldredge  
+**Mary Detweiler** Jeanne Hepple
 
 ### Tour (1973)
 
@@ -115,19 +103,15 @@ Jeanne Hepple
 **Director:** Hugh Goldie  
 **Design:** Richard Berry  
 **Lighting:** Jane Laws  
-**Producer:** Bill Kenwright**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Derek Bond  
-Paula Wilcox  
-Miriam Karlin  
-Ray Lonnen  
-Derek Seaton  
-Sue Nicholls
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Frank Foster** Derek Bond  
+**Teresa Phillips** Paula Wilcox  
+**Fiona Foster** Miriam Karlin  
+**Bob Phillips** Ray Lonnen  
+**William Featherstone** Derek Seaton  
+**Mary Featherstone** Sue Nicholls
 
 ### Revival (1976)
 
@@ -141,19 +125,15 @@ Sue Nicholls
 **Lighting:** Brian Harris
 
 **Stage Manager:** Jonathan Bartlett  
-**Assistant Stage Manager:** Harriet Eastcote**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Moray Watson  
-Stephanie Turner  
-Barbara Murray  
-Neil Stacy  
-Simon Cadell  
-Helen Cotterill
+**Assistant Stage Manager:** Harriet Eastcote
+
+**Character** **Actor**  
+**Frank Foster** Moray Watson  
+**Teresa Phillips** Stephanie Turner  
+**Fiona Foster** Barbara Murray  
+**Bob Phillips** Neil Stacy  
+**William Featherstone** Simon Cadell  
+**Mary Featherstone** Helen Cotterill
 
 ### Revival (1988)
 
@@ -164,19 +144,15 @@ Helen Cotterill
 
 **Director:** Alan Strachan  
 **Design:** Michael Pavelka  
-**Lighting:** Mick Hughes**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Christopher Benjamin  
-Louisa Rix  
-Gabriella Drake  
-Stuart Organ  
-Richard Kane  
-Lavinia Bertram
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Frank Foster** Christopher Benjamin  
+**Teresa Phillips** Louisa Rix  
+**Fiona Foster** Gabriella Drake  
+**Bob Phillips** Stuart Organ  
+**William Featherstone** Richard Kane  
+**Mary Featherstone** Lavinia Bertram
 
 ### London Revival (1988)
 
@@ -187,19 +163,17 @@ Lavinia Bertram
 
 **Director:** Alan Strachan  
 **Design:** Michael Pavelka  
-**Lighting:** Mick Hughes**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Christopher Benjamin  
-Louisa Rix  
-Gabriella Drake  
-Stuart Organ  
-Richard Kane  
-Lavinia Bertram**Note:** This production was a transfer of Greenwich Theatre’s 1988 revival.
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Frank Foster** Christopher Benjamin  
+**Teresa Phillips** Louisa Rix  
+**Fiona Foster** Gabriella Drake  
+**Bob Phillips** Stuart Organ  
+**William Featherstone** Richard Kane  
+**Mary Featherstone** Lavinia Bertram
+
+**Note:** This production was a transfer of Greenwich Theatre’s 1988 revival.
 
 ### Tour (1998)
 
@@ -210,19 +184,15 @@ Lavinia Bertram**Note:** This production was a transfer of Greenwich Theatre’s
 **Director:** Alan Strachan  
 **Design:** Julian Saxton  
 **Lighting:** Leonard Tucker  
-**Sound:** Dan Last**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Anton Rodgers  
-Dariel Pertwee  
-Angela Thorne  
-Michael Lumsden  
-Paul Raffield  
-Suzy Aitchison
+**Sound:** Dan Last
+
+**Character** **Actor**  
+**Frank Foster** Anton Rodgers  
+**Teresa Phillips** Dariel Pertwee  
+**Fiona Foster** Angela Thorne  
+**Bob Phillips** Michael Lumsden  
+**William Featherstone** Paul Raffield  
+**Mary Featherstone** Suzy Aitchison
 
 ### Revival (2007)
 
@@ -233,19 +203,15 @@ Suzy Aitchison
 
 **Director:** Alan Strachan  
 **Design:** Paul Farnsworth  
-**Lighting:** Jason Taylor**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Nicholas le Provost  
-Amanda Royle  
-Marsha Fitzalan  
-Richard Stacey  
-Paul Kemp  
-Claudia Elmhirst
+**Lighting:** Jason Taylor
+
+**Character** **Actor**  
+**Frank Foster** Nicholas le Provost  
+**Teresa Phillips** Amanda Royle  
+**Fiona Foster** Marsha Fitzalan  
+**Bob Phillips** Richard Stacey  
+**William Featherstone** Paul Kemp  
+**Mary Featherstone** Claudia Elmhirst
 
 ### Revival (2009)
 
@@ -262,19 +228,15 @@ Claudia Elmhirst
 
 **Company Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Den Body  
-**Assistant Stage Manager:** Rebecca Mason**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Robert Austin  
-Rosie Jenkins  
-Marilyn Cutts  
-Theo Cross  
-Ian McLarnon  
-Anna Lowe
+**Assistant Stage Manager:** Rebecca Mason
+
+**Character** **Actor**  
+**Frank Foster** Robert Austin  
+**Teresa Phillips** Rosie Jenkins  
+**Fiona Foster** Marilyn Cutts  
+**Bob Phillips** Theo Cross  
+**William Featherstone** Ian McLarnon  
+**Mary Featherstone** Anna Lowe
 
 ### London Revival (2016)
 
@@ -288,19 +250,15 @@ Anna Lowe
 **Design:** Julie Godfrey  
 **Lighting:** Jason Taylor  
 **Sound:** Dan Samson  
-**Producer:** Bill Kenwright**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Nicholas le Provost  
-Tamzin Outhwaite  
-Jenny Seagrove  
-Jason Merrells  
-Matthew Cottle  
-Gillian Wright
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Frank Foster** Nicholas le Provost  
+**Teresa Phillips** Tamzin Outhwaite  
+**Fiona Foster** Jenny Seagrove  
+**Bob Phillips** Jason Merrells  
+**William Featherstone** Matthew Cottle  
+**Mary Featherstone** Gillian Wright
 
 ### London Transfer (2016)
 
@@ -313,19 +271,15 @@ Gillian Wright
 **Design:** Julie Godfrey  
 **Lighting:** Jason Taylor  
 **Sound:** Dan Samson  
-**Producer:** Bill Kenwright**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Nicholas le Provost  
-Andrea Lowe  
-Jenny Seagrove  
-Jason Merrells  
-Matthew Cottle  
-Gillian Wright
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Frank Foster** Nicholas le Provost  
+**Teresa Phillips** Andrea Lowe  
+**Fiona Foster** Jenny Seagrove  
+**Bob Phillips** Jason Merrells  
+**William Featherstone** Matthew Cottle  
+**Mary Featherstone** Gillian Wright
 
 ### Tour (2017)
 
@@ -337,19 +291,15 @@ Gillian Wright
 **Design:** Julie Godfrey  
 **Lighting:** Jason Taylor  
 **Sound:** Dan Samson  
-**Producer:** Bill Kenwright**Character**  
-Frank Foster  
-Teresa Phillips  
-Fiona Foster  
-Bob Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Robert Daws  
-Charlie Brooks  
-Caroline Langrishe  
-Leon Ockenden  
-Matthew Cottle  
-Sara Crowe
+**Producer:** Bill Kenwright
+
+**Character** **Actor**  
+**Frank Foster** Robert Daws  
+**Teresa Phillips** Charlie Brooks  
+**Fiona Foster** Caroline Langrishe  
+**Bob Phillips** Leon Ockenden  
+**William Featherstone** Matthew Cottle  
+**Mary Featherstone** Sara Crowe
 
 ### London Revival (2026)
 
@@ -365,16 +315,14 @@ Sara Crowe
 **Sound:** Dyfan Jones  
 **Associate Director:** Phillippe Cato  
 **Associate Costume:** Lucy Geiger  
-**Wigs. Hair & Make-Up:** Campbell Young Associates**Character**  
-Frank Foster  
-Fiona Foster  
-Bob Phillips  
-Teresa Phillips  
-William Featherstone  
-Mary Featherstone**Actor**  
-Roger Allam  
-Dorothy Atkinson  
-Rowan Polonski  
-Ayesha Antoine  
-Adam Gillen  
-Laura Elsworthy  [![](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)  *All research for this page by Simon Murgatroyd.*
+**Wigs. Hair & Make-Up:** Campbell Young Associates
+
+**Character** **Actor**  
+**Frank Foster** Roger Allam  
+**Fiona Foster** Dorothy Atkinson  
+**Bob Phillips** Rowan Polonski  
+**Teresa Phillips** Ayesha Antoine  
+**William Featherstone** Adam Gillen  
+**Mary Featherstone** Laura Elsworthy
+
+[![](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)  *All research for this page by Simon Murgatroyd.*

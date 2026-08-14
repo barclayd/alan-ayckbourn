@@ -29,6 +29,7 @@ The poster for Alan Ayckbourn's 1996 revival of *It Could Any One Of Us* at the 
 **Copyright:** Scarborough Theatre Trust  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*      *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -26,6 +26,9 @@ The poster for the world premiere of *Callisto 5* at the Stephen Joseph Theatre 
 
 One of Alan Ayckbourn's storyboards for the video elements which feature prominently in the *Callisto* plays; this one show the planet Jupiter with the moon of Ganymede.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-78d6dd3.jpg)
@@ -37,6 +40,7 @@ The mask for the alien creature seen on the video screens in *Callisto#7*. In th
 **Photographer:** Simon Murgatroyd (© Simon Murgatroyd)  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*     *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*

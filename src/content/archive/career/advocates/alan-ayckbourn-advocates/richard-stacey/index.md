@@ -12,4 +12,5 @@ order: 2338
 *(2013)*
 
 "He is an extraordinary man. A lot is asked of you and a lot is given to you."  
-*(2013)**Copyright: Richard Stacey. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2013)*  
+*Copyright: Richard Stacey. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

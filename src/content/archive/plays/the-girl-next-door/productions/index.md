@@ -24,29 +24,21 @@ play: "the-girl-next-door"
 
 **Company Stage Manager:** Fleur Hill-Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Rachel Stevens**Character**  
-Rob Hathaway  
-Alex Hathaway  
-Alf Tindle  
-Lily Tindle
+**Assistant Stage Manager:** Rachel Stevens
 
-**Character**  
-Rob Hathaway  
-Alex Hathaway  
-Alf Tindle  
-Lily Tindle**Actor (Red Team)**  
-Bill Champion  
-Alexandra Mathie  
-Linford Johnson  
-Naomi Petersen
-
-**Actor (Blue Team)**  
-Michael Hobbs  
-Eliza McClelland  
-Tayla Kovacevic-Ebong  
-Georgia Burnell
+**Character** **Actor (Red Team)**  
+**Rob Hathaway** Bill Champion  
+**Alex Hathaway** Alexandra Mathie  
+**Alf Tindle** Linford Johnson  
+**Lily Tindle** Naomi Petersen  
+**Character** **Actor (Blue Team)**  
+**Rob Hathaway** Michael Hobbs  
+**Alex Hathaway** Eliza McClelland  
+**Alf Tindle** Tayla Kovacevic-Ebong  
+**Lily Tindle** Georgia Burnell
 
 ### Notes
 
 ○ Due to the original production taking place in the aftermath of the 2021 Covid-19 lockdown, the production featured two socially bubbled companies (Red and Blue Team). If a member of the Red Team received a positive Covid test, then the Blue Team would take over performances. The companies were individually directed by Alan Ayckbourn (Red) and Chelsey Gillard (Blue). The Blue Team also performed in a limited number of shows within the original schedule.  
-○ Unusually, the play returned to the SJT for 6 performances from 1 - 4 September 2021 before touring to the New Vic, Newcastle-under-Lyme, from 7 - 18 September 2021.*All research for this page by Simon Murgatroyd.*
+○ Unusually, the play returned to the SJT for 6 performances from 1 - 4 September 2021 before touring to the New Vic, Newcastle-under-Lyme, from 7 - 18 September 2021.  
+*All research for this page by Simon Murgatroyd.*

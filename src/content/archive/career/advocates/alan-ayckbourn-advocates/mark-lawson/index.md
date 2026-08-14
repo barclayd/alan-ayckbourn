@@ -9,4 +9,5 @@ order: 2350
 ### Quotes
 
 "Alan Ayckbourn, a great experimenter with dramatic convention, has also powerfully employed characters who are literally just beyond our vision, through doors or stairs that lead from the set."  
-*(2013)**Copyright: Mark Lawson. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2013)*  
+*Copyright: Mark Lawson. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

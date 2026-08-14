@@ -32,4 +32,5 @@ order: 546
 *Easter* was reprised for the company's winter tour and Alan took on the role of Benjamin with David Sutton playing Elis.
 
 **Review extract from The Guardian** (18 February 1959)  
-"Faynia Jeffery as Mrs Heyst, David Sutton as Elis, Alan Ayckbourn as Benjamin and Rodney Wood as Lindkvist was uniformly good - well pitched to the ebbs and flows of this journey through reality and unreality."*All research for this page by Simon Murgatroyd.*
+"Faynia Jeffery as Mrs Heyst, David Sutton as Elis, Alan Ayckbourn as Benjamin and Rodney Wood as Lindkvist was uniformly good - well pitched to the ebbs and flows of this journey through reality and unreality."  
+*All research for this page by Simon Murgatroyd.*

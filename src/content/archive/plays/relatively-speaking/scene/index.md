@@ -6,7 +6,8 @@ play: "relatively-speaking"
 ---
 
 *This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.*  
-*For Relatively Speaking, the final page of the original production of the play at the Library Theatre, Scarborough, in 1965 - called Meet My Father - is reproduced next to the climax of the play as it is known today.***Meet My Father** (act II, scene 2)  
+*For Relatively Speaking, the final page of the original production of the play at the Library Theatre, Scarborough, in 1965 - called Meet My Father - is reproduced next to the climax of the play as it is known today.*  
+**Meet My Father** (act II, scene 2)  
 *A garden*
 
 **Sheila:** ’Bye.  
@@ -32,7 +33,8 @@ play: "relatively-speaking"
 **Sheila:** I’ll tell you one thing though, I'm awfully glad we haven't got a daughter. She'd be a terrible handful, wouldn't she?  
 **Philip:** Yes. You're right there. She would.
 
-**END****Relatively Speaking** (act II, scene 2)  
+**END**  
+**Relatively Speaking** (act II, scene 2)  
 *A garden*
 
 **Sheila:** 'Bye.  

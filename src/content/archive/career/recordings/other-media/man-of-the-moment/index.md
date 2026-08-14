@@ -22,27 +22,18 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Douglas Beechey  
-Vic Parks  
-Jill Rillington  
-Trudy Parks  
-Kenny Collins  
-Sharon Giffin  
-Ruy  
-Ashley BarnesGordon House
-
-**Actor**  
-Jon Strickland  
-Peter Vaughan  
-Lia Williams  
-Alice Arnold  
-Adam Godley  
-Buffy Davis  
-Nicholas Marchine  
-Neil Roberts
+**Director** Gordon House  
+**Character** **Actor**  
+**Douglas Beechey** Jon Strickland  
+**Vic Parks** Peter Vaughan  
+**Jill Rillington** Lia Williams  
+**Trudy Parks** Alice Arnold  
+**Kenny Collins** Adam Godley  
+**Sharon Giffin** Buffy Davis  
+**Ruy** Nicholas Marchine  
+**Ashley Barnes** Neil Roberts
 
 ### Audio Play (1994)
 
@@ -54,23 +45,16 @@ Neil Roberts
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2011 (deleted)  
-**Digital:** 2012 (available)**Director**
+**Digital:** 2012 (available)
 
-**Character**  
-Jill Rillington  
-Trudy Parks  
-Kenny Collins  
-Vic Parks  
-Douglas Beechey  
-Sharon GiffenRobert Robinson
-
-**Actor**  
-Rosalind Ayres  
-Jane Carr  
-Ian Ogilvy  
-Martin Jarvis  
-Kenneth Danziger  
-Yeardley Smith
+**Director** Robert Robinson  
+**Character** **Actor**  
+**Jill Rillington** Rosalind Ayres  
+**Trudy Parks** Jane Carr  
+**Kenny Collins** Ian Ogilvy  
+**Vic Parks** Martin Jarvis  
+**Douglas Beechey** Kenneth Danziger  
+**Sharon Giffen** Yeardley Smith
 
 ### Radio (2009)
 
@@ -84,36 +68,23 @@ Yeardley Smith
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Jill Rillington  
-Trudy Parks  
-Kenny Collins  
-Vic Parks  
-Douglas Beechey  
-Sharon Giffen  
-Ruy  
-Floor Manager  
-David  
-Film Crew  
-Film Crew  
-Children  
-ChildrenMartin Jarvis  
-Rosalind Ayres
+**Director** Martin Jarvis  
+**Producer** Rosalind Ayres  
+**Character** **Actor**  
+**Jill Rillington** Lisa Dillon  
+**Trudy Parks** Janie Dee  
+**Kenny Collins** Damian O'Hare  
+**Vic Parks** Tim Pigott-Smith  
+**Douglas Beechey** Alex Jennings  
+**Sharon Giffen** Ella Smith  
+**Ruy** Alan Shearman  
+**Floor Manager** Michael Simkins  
+**David** John Baddeley  
+**Film Crew** Kenneth Danziger  
+**Film Crew** Matthew Wolf  
+**Children** Matilda Wickham  
+**Children** Alfie Wickham
 
-**Actor**  
-Lisa Dillon  
-Janie Dee  
-Damian O'Hare  
-Tim Pigott-Smith  
-Alex Jennings  
-Ella Smith  
-Alan Shearman  
-Michael Simkins  
-John Baddeley  
-Kenneth Danziger  
-Matthew Wolf  
-Matilda Wickham  
-Alfie Wickham*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

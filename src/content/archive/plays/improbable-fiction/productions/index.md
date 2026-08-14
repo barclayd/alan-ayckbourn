@@ -22,21 +22,16 @@ play: "improbable-fiction"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Lisa Mellor**Character**  
-Grace  
-Ilsa  
-Jess  
-Vivvi  
-Brevis  
-Arnold  
-Clem**Actor**  
-Eileen Battye  
-Laura Doddington  
-Becky Hindley  
-Clare Swinburne  
-Terence Booth  
-John Branwell  
-Giles New
+**Assistant Stage Manager:** Lisa Mellor
+
+**Character** **Actor**  
+**Grace** Eileen Battye  
+**Ilsa** Laura Doddington  
+**Jess** Becky Hindley  
+**Vivvi** Clare Swinburne  
+**Brevis** Terence Booth  
+**Arnold** John Branwell  
+**Clem** Giles New
 
 ### Tour (2006)
 
@@ -48,18 +43,15 @@ Giles New
 **Design:** Roger Glossop  
 **Lighting:** James Farncombe  
 **Costumes:** Pip Leckenby  
-**Original Music:** Denis King**Character**  
-Grace  
-Ilsa  
-Jess  
-Vivvi  
-Brevis  
-Arnold  
-Clem**Actor**  
-Eileen Battye  
-Laura Doddington  
-Becky Hindley  
-Clare Swinburne  
-Terence Booth  
-John Branwell  
-Stuart Fox*All research for this page by Simon Murgatroyd.*
+**Original Music:** Denis King
+
+**Character** **Actor**  
+**Grace** Eileen Battye  
+**Ilsa** Laura Doddington  
+**Jess** Becky Hindley  
+**Vivvi** Clare Swinburne  
+**Brevis** Terence Booth  
+**Arnold** John Branwell  
+**Clem** Stuart Fox
+
+*All research for this page by Simon Murgatroyd.*

@@ -33,4 +33,5 @@ For the first time, Alan was employed purely as an actor; although given the nat
 "Martine's ever-faithful country lad was handled with carefully rough edges by Alan Ayckbourn."
 
 **Review extract from the Birmingham Post** (27 January 1959)  
-"I must praise, too, the playing of Alan Ayckbourn and Faynia Jeffery as village lover and urban fiancée."*All research for this page by Simon Murgatroyd.*
+"I must praise, too, the playing of Alan Ayckbourn and Faynia Jeffery as village lover and urban fiancée."  
+*All research for this page by Simon Murgatroyd.*

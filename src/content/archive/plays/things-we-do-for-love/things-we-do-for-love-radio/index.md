@@ -17,20 +17,16 @@ play: "things-we-do-for-love"
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Barbara  
-Nikki  
-Hamish  
-GilbertGordon House  
-Martin Read  
-Gordon House
+**Director** Gordon House  
+**Adaptation** Martin Read  
+**Adaptation** Gordon House  
+**Character** **Actor**  
+**Barbara** Joanna Van Gyseghem  
+**Nikki** Teresa Gallagher  
+**Hamish** Cameron Stewart  
+**Gilbert** Gavin Muir
 
-**Actor**  
-Joanna Van Gyseghem  
-Teresa Gallagher  
-Cameron Stewart  
-Gavin Muir**Note:** *Things We Do For Love* was recorded for the BBC World Service and believed to have been first broadcast in 1998. However, no details are held in archive on the production. As a result, its first transmission not on the World Service is detailed above.*All research for this page by Simon Murgatroyd.*
+**Note:** *Things We Do For Love* was recorded for the BBC World Service and believed to have been first broadcast in 1998. However, no details are held in archive on the production. As a result, its first transmission not on the World Service is detailed above.  
+*All research for this page by Simon Murgatroyd.*

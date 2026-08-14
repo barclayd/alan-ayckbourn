@@ -23,21 +23,16 @@ play: "private-fears-in-public-places"
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Emily Thereby  
-**Assistant Stage Manager:** Mary Hely**Character**  
-Nicola  
-Stewart  
-Dan  
-Ambrose  
-Charlotte  
-Imogen  
-Arthur (off-stage voice)**Actor**  
-Melanie Gutteridge  
-Paul Kemp  
-Stephen Beckett  
-Adrian McLoughlin  
-Billie-Claire Wright  
-Sarah Moyle  
-Alan Ayckbourn
+**Assistant Stage Manager:** Mary Hely
+
+**Character** **Actor**  
+**Nicola** Melanie Gutteridge  
+**Stewart** Paul Kemp  
+**Dan** Stephen Beckett  
+**Ambrose** Adrian McLoughlin  
+**Charlotte** Billie-Claire Wright  
+**Imogen** Sarah Moyle  
+**Arthur (off-stage voice)** Alan Ayckbourn
 
 ### London Premiere (2005)
 
@@ -50,21 +45,16 @@ Alan Ayckbourn
 **Design:** Pip Leckenby  
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
-**Music:** John Pattison**Character**  
-Nicola  
-Stewart  
-Dan  
-Ambrose  
-Charlotte  
-Imogen  
-Arthur (off-stage voice)**Actor**  
-Melanie Gutteridge  
-Paul Kemp  
-Paul Thornley  
-Adrian McLoughlin  
-Alexandra Mathie  
-Sarah Moyle  
-Alan Ayckbourn
+**Music:** John Pattison
+
+**Character** **Actor**  
+**Nicola** Melanie Gutteridge  
+**Stewart** Paul Kemp  
+**Dan** Paul Thornley  
+**Ambrose** Adrian McLoughlin  
+**Charlotte** Alexandra Mathie  
+**Imogen** Sarah Moyle  
+**Arthur (off-stage voice)** Alan Ayckbourn
 
 ### New York Premiere (2005)
 
@@ -77,21 +67,16 @@ Alan Ayckbourn
 **Design:** Pip Leckenby  
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
-**Music:** John Pattison**Character**  
-Nicola  
-Stewart  
-Dan  
-Ambrose  
-Charlotte  
-Imogen  
-Arthur (off-stage voice)**Actor**  
-Melanie Gutteridge  
-Paul Kemp  
-Paul Thornley  
-Adrian McLoughlin  
-Alexandra Mathie  
-Sarah Moyle  
-Alan Ayckbourn
+**Music:** John Pattison
+
+**Character** **Actor**  
+**Nicola** Melanie Gutteridge  
+**Stewart** Paul Kemp  
+**Dan** Paul Thornley  
+**Ambrose** Adrian McLoughlin  
+**Charlotte** Alexandra Mathie  
+**Imogen** Sarah Moyle  
+**Arthur (off-stage voice)** Alan Ayckbourn
 
 ### Revival (2009)
 
@@ -104,16 +89,14 @@ Alan Ayckbourn
 **Design:** Nicolai Hart-Hansen  
 **Lighting:** James Farncombe  
 **Costumes:** Bridget Brown  
-**Sound:** Adrienne Quartly**Character**  
-Nicola  
-Stewart  
-Dan  
-Ambrose  
-Charlotte  
-Imogen**Actor**  
-Ruth Gibson  
-Matthew Cottle  
-Christopher Harper  
-Kim Wall  
-Lucy Briers  
-Laura Doddington*All research for this page by Simon Murgatroyd.*
+**Sound:** Adrienne Quartly
+
+**Character** **Actor**  
+**Nicola** Ruth Gibson  
+**Stewart** Matthew Cottle  
+**Dan** Christopher Harper  
+**Ambrose** Kim Wall  
+**Charlotte** Lucy Briers  
+**Imogen** Laura Doddington
+
+*All research for this page by Simon Murgatroyd.*

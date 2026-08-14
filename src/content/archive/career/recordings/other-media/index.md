@@ -19,4 +19,5 @@ From this page, you can find details of Alan Ayckbourn's plays in other media as
 ○ [Making Tracks](/career/recordings/other-media/making-tracks)  
 ○ [Men On Women On Men](/career/recordings/other-media/men-on-women-on-men)  
 ○ [The 7 Deadly Virtues](/career/recordings/other-media/the-seven-deadly-virtues)  
-○ [Whenever](/career/recordings/other-media/whenever)*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+○ [Whenever](/career/recordings/other-media/whenever)  
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

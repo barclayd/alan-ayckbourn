@@ -22,4 +22,5 @@ During the first act, the couple meet and during the second, they are together b
 An original manuscript for *The Season* is held in the Ayckbourn Archive at the **[Borthwick Institute for Archives](/research)** at the University of York.
 
 ***The Season* quotation**  
-**Girl:** Please don’t talk like that. I am afraid. It would be like the winter - death would. I know it. Cold and white with no colours at all. Everything sharp and pointed - the trees spiky like the icicles that hang from the branches and the wind brushing over the snow and biting through your bones - eating you away.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Girl:** Please don’t talk like that. I am afraid. It would be like the winter - death would. I know it. Cold and white with no colours at all. Everything sharp and pointed - the trees spiky like the icicles that hang from the branches and the wind brushing over the snow and biting through your bones - eating you away.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

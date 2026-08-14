@@ -26,6 +26,9 @@ The poster for the world premiere of *Man of the Moment* at the Stephen Joseph T
 
 Alan Ayckbourn's sketch for his suggested poster for the West End premiere of *Man of the Moment* at the Globe Theatre in 1990.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-58e5210.jpg)
@@ -37,6 +40,7 @@ The actual poster for the West End premiere of *Man of the Moment* at The Globe 
 **Copyright:** Michael Codron Productions  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*     *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

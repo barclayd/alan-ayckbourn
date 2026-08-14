@@ -15,4 +15,5 @@ order: 2346
 "I remember discussing how this was achieved and I mentioned my own forays into this comic style. He listened intently as I described circumstances and scenes, occasionally asking about moments of reaction and moments of silence. He then suggested that if I achieved that response 'you were doing everything right. Hopefully,' he continued, 'on the way home, they will guiltily wonder why they laughed at such human horror and will then deeply ponder the tragedy. You will have put the knife in without anyone noticing.'
 
 "I have constantly cherished his words throughout my playwriting career - including his wry advice to 'only begin to worry when you start winning awards and emptying theatres'”.  
-*(2012)**Copyright: Bernard Farrell. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2012)*  
+*Copyright: Bernard Farrell. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

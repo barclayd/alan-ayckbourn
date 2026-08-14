@@ -8,26 +8,21 @@ order: 615
 
 ### Production Details
 
-**Author:**
+**Author:** Peter Terson  
+**Broadcast:** 30 January 1970 @ 8.30pm  
+**Channel:** BBC Radio 3
 
-**Broadcast:**  
-**Channel:**Peter Terson
+**Director:**  
+Alan Ayckbourn
 
-30 January 1970 @ 8.30pm  
-BBC Radio 3**Director:**Alan Ayckbourn**Character**  
-George Todd  
-Ted Marsh  
-Mrs Walter  
-Catherine  
-Terence Craven  
-Mr Selby  
-Arnold Rose  
-Vince**Actor**  
-John Sharp  
-Ralph Lawton  
-Katherine Parr  
-Stephanie Turner  
-Joe Dunlop  
-Brian Miller  
-Desmond Gill  
-Ronald Herdman*All research for this page by Simon Murgatroyd.*
+**Character** **Actor**  
+**George Todd** John Sharp  
+**Ted Marsh** Ralph Lawton  
+**Mrs Walter** Katherine Parr  
+**Catherine** Stephanie Turner  
+**Terence Craven** Joe Dunlop  
+**Mr Selby** Brian Miller  
+**Arnold Rose** Desmond Gill  
+**Vince** Ronald Herdman
+
+*All research for this page by Simon Murgatroyd.*

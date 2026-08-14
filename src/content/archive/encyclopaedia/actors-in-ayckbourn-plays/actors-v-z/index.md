@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-19/page50.html"
 order: 807
 ---
 
-This is a comprehensive list of the actors (surnames V - Z) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Joanna Van Gyseghem:** Henceforward... (LT 1989); Things We Do For Love (WP 1997); Bedroom Farce (AR 2000)  
+This is a comprehensive list of the actors (surnames V - Z) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**Joanna Van Gyseghem:** Henceforward... (LT 1989); Things We Do For Love (WP 1997); Bedroom Farce (AR 2000)  
 **Rupert Vansittart:** The Revengers' Comedies (WP 1989); Taking Steps (AR 1990); The Revengers' Comedies (LP 1991)  
 **Peter Vaughan:** Season's Greetings (LP 1982)  
 **Anthony Venditti:** Dreams From A Summer House (WP 1992); Mr A's Amazing Maze Plays (R 1993)  
@@ -56,4 +57,5 @@ This is a comprehensive list of the actors (surnames V - Z) who have appeared in
 **Kate Young:** By Jeeves (WP 1996)  
 **Nina Young:** The Revengers' Comedies (LP 1991)  
 **Patrick Young:** The Jollies (WP 2002)  
-**Philip York:** A Chorus Of Disapproval (AR 2004); Miss Yesterday (WP 2004); Relatively Speaking (AR 2007)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**Philip York:** A Chorus Of Disapproval (AR 2004); Miss Yesterday (WP 2004); Relatively Speaking (AR 2007)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

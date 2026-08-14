@@ -8,28 +8,23 @@ order: 620
 
 ### Production Details
 
-**Author:**
+**Author:** Leslie Fennell  
+**Broadcast:** 25 May 1966 @ 8.40pm  
+**Channel:** BBC Light Programme
 
-**Broadcast:**  
-**Channel:**Leslie Fennell
+**Director:**  
+Alan Ayckbourn
 
-25 May 1966 @ 8.40pm  
-BBC Light Programme**Director:**Alan Ayckbourn**Character**  
-Father O'Reagan  
-Alan Hamilton  
-Sergeant  
-Jane Hamilton  
-Vittorio  
-Guido  
-Alvaro**Actor**  
-Chris Canavan  
-Brian Peck  
-Graham Rigby  
-Anne Stallybrass  
-James Beck  
-Roger Rowland  
-David Spenser
+**Character** **Actor**  
+**Father O'Reagan** Chris Canavan  
+**Alan Hamilton** Brian Peck  
+**Sergeant** Graham Rigby  
+**Jane Hamilton** Anne Stallybrass  
+**Vittorio** James Beck  
+**Guido** Roger Rowland  
+**Alvaro** David Spenser
 
 ### Notes
 
-○ *The Brothers From The Sun* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Brothers From The Sun* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

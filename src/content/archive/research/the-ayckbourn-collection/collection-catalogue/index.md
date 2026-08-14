@@ -8,7 +8,8 @@ order: 864
 
 ### The Ayckbourn Collection Catalogue
 
-*Please note, this is currently the basic catalogue and listings. A more detailed catalogue of the Ayckbourn Collection will be available soon.*      [![](./_images/stacks-image-a312a99.png)](http://scarboroughmuseumsandgalleries.org.uk/)
+*Please note, this is currently the basic catalogue and listings. A more detailed catalogue of the Ayckbourn Collection will be available soon.*  
+[![](./_images/stacks-image-a312a99.png)](http://scarboroughmuseumsandgalleries.org.uk/)
 
 ### Related Pages
 

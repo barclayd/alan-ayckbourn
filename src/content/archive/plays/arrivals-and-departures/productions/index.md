@@ -22,29 +22,20 @@ play: "arrivals-and-departures"
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Hayley Smith**Character**  
-Ez  
-Quentin  
-Charles / Jess / Husband  
-Esme / Girlfriend / Daisy  
-Mother / Hilary / Pauline  
-Tourist / Debs / Daisy  
-Sherwin / Norman / Son / Cerastes  
-Student / Freddie / Suspect / Young Barry  
-Chaplain / Clive / Wisby / Rob  
-Nadine / Lily / Wife  
-Barry**Actor**  
-Elizabeth Boag  
-Terence Booth  
-John Branwell  
-Rachel Caffrey  
-Sarah Parks  
-Emily Pithon  
-Ben Porter  
-James Powell  
-Richard Stacey  
-Sarah Stanley  
-Kim Wall
+**Assistant Stage Manager:** Hayley Smith
+
+**Character** **Actor**  
+**Ez** Elizabeth Boag  
+**Quentin** Terence Booth  
+**Charles / Jess / Husband** John Branwell  
+**Esme / Girlfriend / Daisy** Rachel Caffrey  
+**Mother / Hilary / Pauline** Sarah Parks  
+**Tourist / Debs / Daisy** Emily Pithon  
+**Sherwin / Norman / Son / Cerastes** Ben Porter  
+**Student / Freddie / Suspect / Young Barry** James Powell  
+**Chaplain / Clive / Wisby / Rob** Richard Stacey  
+**Nadine / Lily / Wife** Sarah Stanley  
+**Barry** Kim Wall
 
 ### Tour (2014) & New York Premiere (2014)
 
@@ -68,32 +59,20 @@ Kim Wall
 **Assistant Stage Manager:** Annette Waldie  
 **AEA Stage Manager:** Jess Johnston
 
-**Character**  
-Ez  
-Quentin  
-Charles / Jess / Husband  
-Esme / Girlfriend / Daisy  
-Mother / Hilary / Pauline  
-Tourist / Debs / Daisy  
-Sherwin / Norman / Son / Cerastes  
-Student / Freddie / Suspect / Young Barry  
-Chaplain / Clive / Wisby / Rob  
-Nadine / Lily / Wife  
-Barry
+**Character** **Actor**  
+**Ez** Elizabeth Boag  
+**Quentin** Bill Champion\*  
+**Charles / Jess / Husband** Russell Dixon  
+**Esme / Girlfriend / Daisy** Rachel Caffrey  
+**Mother / Hilary / Pauline** Sarah Parks  
+**Tourist / Debs / Daisy** Emily Pithon  
+**Sherwin / Norman / Son / Cerastes** Ben Porter  
+**Student / Freddie / Suspect / Young Barry** James Powell  
+**Chaplain / Clive / Wisby / Rob** Richard Stacey  
+**Nadine / Lily / Wife** Sarah Stanley  
+**Barry** Kim Wall  
+**Understudy (2014 tour)** Peter Halpin  
+**Understudy (2014 tour)** Lucy McCabe
 
-Understudy (2014 tour)  
-Understudy (2014 tour)**Actor**  
-Elizabeth Boag  
-Bill Champion\*  
-Russell Dixon  
-Rachel Caffrey  
-Sarah Parks  
-Emily Pithon  
-Ben Porter  
-James Powell  
-Richard Stacey  
-Sarah Stanley  
-Kim Wall
-
-Peter Halpin  
-Lucy McCabe*\* Terence Booth initially played the role of Quentin during the UK tour, but due to ill-health he had to step down from the role shortly after the tour began. His part was initially taken by the understudy Peter Halpin before Bill Champion took over for the remainder of the tour and, subsequently, the season at the 59E59 Theaters, New York.**All research for this page by Simon Murgatroyd*
+*\* Terence Booth initially played the role of Quentin during the UK tour, but due to ill-health he had to step down from the role shortly after the tour began. His part was initially taken by the understudy Peter Halpin before Bill Champion took over for the remainder of the tour and, subsequently, the season at the 59E59 Theaters, New York.*  
+*All research for this page by Simon Murgatroyd*

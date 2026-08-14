@@ -29,4 +29,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 
 This was the first regional presentation of *The Collection* following its London premiere in 1963 (itself an adaptation of Pinter's television screenplay).
 
-*The Collection* was presented as a double bill with Harold Pinter's ***[The Dumb Waiter](/career/actor/the-dumb-waiter)***.*All research for this page by Simon Murgatroyd.*
+*The Collection* was presented as a double bill with Harold Pinter's ***[The Dumb Waiter](/career/actor/the-dumb-waiter)***.  
+*All research for this page by Simon Murgatroyd.*

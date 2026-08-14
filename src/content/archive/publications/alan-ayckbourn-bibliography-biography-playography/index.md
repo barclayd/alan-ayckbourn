@@ -98,7 +98,8 @@ Author: Jeannie Swales
 *Stephen Joseph Theatre, 1999*
 
 **○ A Chorus of Disapproval: A Study Guide**  
-*The Gale Group, 2002, e-book, ISBN B00006G3BD***○ Confusions To Roundelay: Stages In Ayckbourn’s Creative Work**  
+*The Gale Group, 2002, e-book, ISBN B00006G3BD*  
+**○ Confusions To Roundelay: Stages In Ayckbourn’s Creative Work**  
 Author: Albert-Reiner Glaap  
 *Wissenschaftlicher Verlag Trier, 2015, ISBN 9783868216295*
 
@@ -184,4 +185,5 @@ Editor: Derek Neale
 
 **○ York Notes on Absent Friends**  
 Editor: Nicole Alper  
-*Longman, 1999, ISBN 0582382300**All research for this page by Simon Murgatroyd.*
+*Longman, 1999, ISBN 0582382300*  
+*All research for this page by Simon Murgatroyd.*

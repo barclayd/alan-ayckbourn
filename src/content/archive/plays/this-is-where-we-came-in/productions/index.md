@@ -26,27 +26,19 @@ play: "this-is-where-we-came-in"
 **Deputy Stage Manager:** Lynda Snowden  
 **Assistant Stage Manager:** Kate Rhodes James  
 **Assistant Stage Manager:** Danny McGrath  
-**Assistant Stage Manager:** Patricia Swales**Character**  
-Fred  
-Nell  
-Bethany  
-Talitha  
-Jenkin  
-Albert  
-Great Aunt Repetitus  
-Uncle Erraticus  
-Uncle Oblivious  
-Kevin on Keyboards**Actor**  
-Danny McGrath  
-Kate Rhodes James  
-Clare Clifford  
-Cecily Hobbs  
-Robert McCulley  
-Timothy Kightley  
-Antonia Pemberton  
-Gordon Reid  
-Guy Nicholls  
-John Pattison
+**Assistant Stage Manager:** Patricia Swales
+
+**Character** **Actor**  
+**Fred** Danny McGrath  
+**Nell** Kate Rhodes James  
+**Bethany** Clare Clifford  
+**Talitha** Cecily Hobbs  
+**Jenkin** Robert McCulley  
+**Albert** Timothy Kightley  
+**Great Aunt Repetitus** Antonia Pemberton  
+**Uncle Erraticus** Gordon Reid  
+**Uncle Oblivious** Guy Nicholls  
+**Kevin on Keyboards** John Pattison
 
 ### Revival (1991)
 
@@ -64,27 +56,19 @@ John Pattison
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Jackie Hurd  
-**Assistant Stage Manager:** Sandy Golden**Character**  
-Fred  
-Nell  
-Bethany  
-Talitha  
-Jenkin  
-Albert  
-Great Aunt Repetitus  
-Uncle Erraticus  
-Uncle Oblivious  
-Kevin on Keyboards**Actor**  
-Michael Higgs  
-Jane Robbins  
-Elizabeth Bennett  
-Cecily Hobbs  
-James Simmons  
-Bill Moody  
-Andree Melly  
-Nigel Anthony  
-Guy Nicholls  
-John Pattison
+**Assistant Stage Manager:** Sandy Golden
+
+**Character** **Actor**  
+**Fred** Michael Higgs  
+**Nell** Jane Robbins  
+**Bethany** Elizabeth Bennett  
+**Talitha** Cecily Hobbs  
+**Jenkin** James Simmons  
+**Albert** Bill Moody  
+**Great Aunt Repetitus** Andree Melly  
+**Uncle Erraticus** Nigel Anthony  
+**Uncle Oblivious** Guy Nicholls  
+**Kevin on Keyboards** John Pattison
 
 ### Revival (2001)
 
@@ -103,22 +87,17 @@ John Pattison
 
 **Senior Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Shane Thom**Character**  
-Fred  
-Nell  
-Bethany  
-Talitha  
-Jenkin  
-Albert  
-Great Aunt Repetitus  
-Uncle Erraticus  
-Uncle Oblivious **Actor**  
-Glyn Williams  
-Alison Pargeter  
-Saskia Butler  
-Claire Carrie  
-Justin Brett  
-Paul Kemp  
-Antonia Pemberton  
-Peter Laird  
-Geoffrey Whitehead*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Shane Thom
+
+**Character** **Actor**  
+**Fred** Glyn Williams  
+**Nell** Alison Pargeter  
+**Bethany** Saskia Butler  
+**Talitha** Claire Carrie  
+**Jenkin** Justin Brett  
+**Albert** Paul Kemp  
+**Great Aunt Repetitus** Antonia Pemberton  
+**Uncle Erraticus** Peter Laird  
+**Uncle Oblivious** Geoffrey Whitehead
+
+*All research for this page by Simon Murgatroyd.*
