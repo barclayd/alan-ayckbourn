@@ -1,7 +1,7 @@
 ---
 title: "The Victoria Theatre: The First Season"
 source: "http://careers.alanayckbourn.net/page-2/page-75/NationalTheatre.html"
-order: 611
+order: 677
 ---
 
 *This page has details about the first season of the Victoria Theatre, Stoke-on-Trent, in which Alan Ayckbourn was significantly involved. Play-titles with hyperlinks donate plays Alan was involved with and from which further details can be found.*

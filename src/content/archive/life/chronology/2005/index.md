@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2005"
 source: "http://biography.alanayckbourn.net/styled-22/page84/"
-order: 81
+order: 299
 ---
 
 **[\<\<\< Previous page](/life/chronology/2004)**
@@ -12,7 +12,7 @@ order: 81
 
 During 2005, Alan Ayckbourn…
 
-○ wrote ***[Improbable Fiction](/plays/improbable-fiction)*** to celebrate the 50th anniversary of the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**.
+○ wrote ***[Improbable Fiction](/plays/improbable-fiction)*** to celebrate the 50th anniversary of the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**.
 
 ○ toured ***[Private Fears In Public Places](/plays/private-fears-in-public-places)*** to the *Brits Off Broadway* festival in New York; this marked the first time he had directed his own company in New York. It received a Drama Desk Award nomination for Outstanding Director.
 

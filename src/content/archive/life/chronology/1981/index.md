@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1981"
 source: "http://biography.alanayckbourn.net/styled-22/page60/"
-order: 57
+order: 275
 ---
 
 **[\<\<\< Previous page](/life/chronology/1980)**
@@ -12,7 +12,7 @@ order: 57
 
 During 1981, Alan Ayckbourn…
 
-○ directed the world premiere of ***[Way Upstream](/plays/way-upstream)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** which saw the stage flooded in order to create a canal with a moving cabin cruiser and accompanying rain-storms.
+○ directed the world premiere of ***[Way Upstream](/plays/way-upstream)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** which saw the stage flooded in order to create a canal with a moving cabin cruiser and accompanying rain-storms.
 
 ○ wrote the musical ***[Making Tracks](/plays/making-tracks)*** with Paul Todd, inspired by his experiences working for BBC Radio.
 
@@ -20,7 +20,7 @@ During 1981, Alan Ayckbourn…
 
 ○ saw Samuel French publish ***[Season's Greetings](/plays/seasons-greetings)***, ***[Taking Steps](/plays/taking-steps)***, ***[Sisterly Feelings](/plays/sisterly-feelings)*** and ***[Ten Times Table](/plays/ten-times-table)***.
 
-○ contributed two songs with Paul Todd on the theme of travel to the BBC Radio programme ***[Pen To Paper](/plays)***.
+○ contributed two songs with Paul Todd on the theme of travel to the BBC Radio programme ***[Pen To Paper](/plays/childrens-plays-index/contributions/pen-to-paper)***.
 
 ○ saw Chatto & Windus publish the hardback collection *Sisterly Feelings* & *Taking Steps*.
 

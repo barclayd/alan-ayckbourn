@@ -1,10 +1,10 @@
 ---
 title: "Acting at Worthing, Leatherhead and Oxford"
 source: "http://careers.alanayckbourn.net/styled-3/page-7/"
-order: 104
+order: 322
 ---
 
-Prior to joining Stephen Joseph's **[Studio Theatre Ltd](http://thesjt.alanayckbourn.net/page1/styled-45/)** company at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** in Scarborough in 1957, Alan worked professionally for several other companies.  
+Prior to joining Stephen Joseph's **[Studio Theatre Ltd](/plays/studio-theatre-ltd)** company at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** in Scarborough in 1957, Alan worked professionally for several other companies.  
 Having experienced professional acting for three weeks with Sir Donald Wolfit at the Edinburgh Festival, Alan was able to get a placement as a student **[Assistant Stage Manager](/career/stage-manager)** at the Connaught Theatre, Worthing during autumn 1956. From there, he worked at as an Acting ASM at Leatherhead Theatre Club during spring 1957 before joining Theatre in the Round at the the Library Theatre in Scarborough for the summer of 1957. He then worked at Oxford Playhouse for the winter 1957 season before rejoining the Library Theatre in 1958, choosing to set down roots there.
 
 The following are quotes by Alan Ayckbourn about his experiences at Worthing, Leatherhead and Oxford.
@@ -35,7 +35,7 @@ The following are quotes by Alan Ayckbourn about his experiences at Worthing, Le
 
 </aside>
 
-"I had another card up my street, thanks to **[Edgar Matthews](/life/influences/edgar-matthews)**, and that was another old boy of the school, Robert Flemyng, who had a contact at Worthing. So from earning three pounds a week at Edinburgh, I went down to no pounds a week at all as a student ASM at Worthing, where I also played a few roles."  
+"I had another card up my street, thanks to **[Edgar Matthews](/life/influences/haileybury)**, and that was another old boy of the school, Robert Flemyng, who had a contact at Worthing. So from earning three pounds a week at Edinburgh, I went down to no pounds a week at all as a student ASM at Worthing, where I also played a few roles."  
 *(Imagine, 2011)*
 
 "I pulled a few strings on leaving school and was lucky enough to make my stage debut as a spear-carrier in a play with Sir Donald Wolfit's company.  

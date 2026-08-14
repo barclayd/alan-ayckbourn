@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2006"
 source: "http://biography.alanayckbourn.net/styled-22/page85/"
-order: 82
+order: 300
 ---
 
 **[\<\<\< Previous page](/life/chronology/2005)**
@@ -14,7 +14,7 @@ During 2006, Alan Ayckbourn…
 
 ○ suffered a stroke on 21 February (a week before it is reported by the media), but is directing again by September.
 
-○ saw Tim Luscombe step in to direct his intended revival of ***[Intimate Exchanges](/plays/intimate-exchanges)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** at short notice due to his stroke.
+○ saw Tim Luscombe step in to direct his intended revival of ***[Intimate Exchanges](/plays/intimate-exchanges)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** at short notice due to his stroke.
 
 ○ directed ***[If I Were You](/plays/if-i-were-you)*** at the Stephen Joseph Theatre in September; he had finished writing the play just days prior to his stroke.
 

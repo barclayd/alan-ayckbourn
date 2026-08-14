@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1973"
 source: "http://biography.alanayckbourn.net/styled-22/page52/"
-order: 49
+order: 267
 ---
 
 **[\<\<\< Previous page](/life/chronology/1972)**
@@ -14,7 +14,7 @@ During 1973, Alan Ayckbourn…
 
 ○ wrote ***[The Norman Conquests](/plays/the-norman-conquests)*** trilogy of plays apparently as a result of an off-hand - and not entirely serious - comment to a journalist in 1972 that his next project would be a play trilogy; when this was published, Alan decided to meet the challenge.
 
-○ directed *The Norman Conquests* at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** - the first of his 'event theatre' pieces; three plays set around different locations at a country house over a single weekend. At this point, it is not known as *The Norman Conquests* but only by the individual play titles.
+○ directed *The Norman Conquests* at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** - the first of his 'event theatre' pieces; three plays set around different locations at a country house over a single weekend. At this point, it is not known as *The Norman Conquests* but only by the individual play titles.
 
 ○ had ***[Absurd Person Singular](/plays/absurd-person-singular)*** open at the Criterion Theatre in the West End. It will go on to have the single longest unbroken run of an Ayckbourn play in the West End.
 

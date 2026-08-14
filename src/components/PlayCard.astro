@@ -40,8 +40,17 @@ const venue = facts?.['World Premiere Venue'] ?? facts?.Venue;
           class="max-h-[13rem] max-w-full rounded-[1px] shadow-lg shadow-black/40 sm:max-h-[17rem]"
         />
       ) : (
-        <span class="text-balance px-2 text-center font-display text-2xl uppercase leading-[0.95] text-chrome-ink/80">
-          {title}
+        /*
+          No poster survives for this one, so the plate carries the year. Not
+          the title: that is set directly beneath the mat already, and printing
+          it twice a centimetre apart reads as a bug rather than a design.
+          Hidden from assistive tech because the caption states the year too.
+        */
+        <span
+          aria-hidden="true"
+          class="font-display text-5xl tabular-nums text-chrome-ink/25 sm:text-6xl"
+        >
+          {year ?? '—'}
         </span>
       )
     }

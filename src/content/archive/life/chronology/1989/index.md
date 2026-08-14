@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1989"
 source: "http://biography.alanayckbourn.net/styled-22/page68/"
-order: 65
+order: 283
 ---
 
 **[\<\<\< Previous page](/life/chronology/1988)**
@@ -20,7 +20,7 @@ order: 65
 
 During 1989, Alan Ayckbourn…
 
-○ celebrated his 50th birthday by writing & directing the two part play ***[The Revengers' Comedies](/plays/the-revengers-comedies)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**.
+○ celebrated his 50th birthday by writing & directing the two part play ***[The Revengers' Comedies](/plays/the-revengers-comedies)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**.
 
 ○ unfortunately saw the first film adaptation of one of his plays with ***[A Chorus of Disapproval](/plays/a-chorus-of-disapproval)***, directed by Michael Winner and starring Jeremy Irons and Anthony Hopkins; it is adapted by Winner who ignored Alan's input and the film title reflects the critical reaction to the adaptation of the acclaimed play.
 

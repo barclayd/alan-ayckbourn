@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1996"
 source: "http://biography.alanayckbourn.net/styled-22/page75/"
-order: 72
+order: 290
 ---
 
 **[\<\<\< Previous page](/life/chronology/1995)**
@@ -20,7 +20,7 @@ order: 72
 
 During 1996, Alan Ayckbourn…
 
-○ moved the Scarborough company to its first purpose-designed venue, the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** (SJT).
+○ moved the Scarborough company to its first purpose-designed venue, the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** (SJT).
 
 ○ revised and revived the musical *Jeeves* as ***[By Jeeves](/plays/jeeves)*** with Andrew Lloyd Webber to open the SJT.
 

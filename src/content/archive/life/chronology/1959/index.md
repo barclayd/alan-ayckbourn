@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1959"
 source: "http://biography.alanayckbourn.net/styled-22/page38/"
-order: 35
+order: 253
 ---
 
 **[\<\<\< Previous page](/life/chronology/1958)**
@@ -12,11 +12,11 @@ order: 35
 
 During 1959, Alan Ayckbourn…
 
-○ wrote his first professionally produced play, ***[The Square Cat](/plays/the-square-cat)***, which opened at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, on 30 July. It was written under the pseudonym Roland Allen and directed by **[Stephen Joseph](/life)**.
+○ wrote his first professionally produced play, ***[The Square Cat](/plays/the-square-cat)***, which opened at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, on 30 July. It was written under the pseudonym Roland Allen and directed by **[Stephen Joseph](/life)**.
 
 ○ took the lead role in *The Square Cat*, which was largely written to showcase his talents as an actor and featured him in a dual role of pop star Jerry Wattis and mild-mannered Arthur Brummage.
 
-○ played Stanley in **[Harold Pinter](/life/influences/harold-pinter)**'s self-directed second production of ***[The Birthday Party](/career/actor/the-birthday-party-2)***, which toured with Studio Theatre Ltd to Birmingham and Leicester. The experience had a profound and influential effect on his future career and writing.
+○ played Stanley in **[Harold Pinter](/life/influences/harold-pinter)**'s self-directed second production of ***[The Birthday Party](/career/actor/acting-alan-ayckbourn-in-harold-pinters-the-birthday-party)***, which toured with Studio Theatre Ltd to Birmingham and Leicester. The experience had a profound and influential effect on his future career and writing.
 
 ○ married the actress Christine Roland at Chelsea Old Church on 9 May.
 

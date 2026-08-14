@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2022"
 source: "http://biography.alanayckbourn.net/styled-22/page-56/"
-order: 98
+order: 316
 ---
 
 **[\<\<\< Previous page](/life/chronology/2021)**
@@ -28,7 +28,7 @@ During 2022, Alan Ayckbourn…
 
 ○ marked the 25th anniversary of being knighted for 'services to the theatre'.
 
-○ had ***[Bedroom Farce](/plays/bedroom-farce)*** adapted for radio for the first time in an adaptation premiered on BBC Radio 4 on 31 December 2022, directed by Martin Jarvis.
+○ had ***[Bedroom Farce](/plays/bedroom-farce/bedroom-farce-adaptations-in-other-media)*** adapted for radio for the first time in an adaptation premiered on BBC Radio 4 on 31 December 2022, directed by Martin Jarvis.
 
 ○ saw the publication of ***[Unseen Ayckbourn: 2022 Edition](/)***by **[Simon Murgatroyd](http://www.simon-murgatroyd.com/)**. A revised edition of the guide to his work.
 

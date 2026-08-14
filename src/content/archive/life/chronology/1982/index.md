@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1982"
 source: "http://biography.alanayckbourn.net/styled-22/page61/"
-order: 58
+order: 276
 ---
 
 **[\<\<\< Previous page](/life/chronology/1981)**
@@ -18,7 +18,7 @@ order: 58
 
 During 1982, Alan Ayckbourn…
 
-○ began writing ***[Intimate Exchanges](/plays/intimate-exchanges)***, an epic play cycle with 16 permutations. It would take more than a year to write and produce in its entirety at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**.
+○ began writing ***[Intimate Exchanges](/plays/intimate-exchanges)***, an epic play cycle with 16 permutations. It would take more than a year to write and produce in its entirety at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**.
 
 ○ toured with the Stephen Joseph Theatre In The Round company to the Alley Theatre, Houston, with ***[Absent Friends](/plays/absent-friends)*** and ***[Way Upstream](/plays/way-upstream)***, which opened without a hitch, unlike...
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2017"
 source: "http://biography.alanayckbourn.net/styled-22/page/"
-order: 93
+order: 311
 ---
 
 **[\<\<\< Previous page](/life/chronology/2016)**
@@ -12,11 +12,11 @@ order: 93
 
 During 2017, Alan Ayckbourn…
 
-○ celebrated the 60th anniversary of joining the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** (the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**) in 1957 with two gala events dedicated to his experiences.
+○ celebrated the 60th anniversary of joining the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** (the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**) in 1957 with two gala events dedicated to his experiences.
 
 ○ saw ***[The Divide](/plays/the-divide)*** adapted by Annabel Bolton and staged as a co-production between Edinburgh International Festival & The Old Vic; his first work to have been performed at the festival.
 
-○ revived and directed the musical ***[By Jeeves](http://byjeeves.alanayckbourn.net/)*** to mark the 25th anniversary of the opening of the Old Laundry Theatre, Bowness-on-Windermere.
+○ revived and directed the musical ***[By Jeeves](/plays/by-jeeves)*** to mark the 25th anniversary of the opening of the Old Laundry Theatre, Bowness-on-Windermere.
 
 ○ gave a talk at the British Library for the Royal Society Of Literature, *80 Plays On*, discussing his career as a writer.
 

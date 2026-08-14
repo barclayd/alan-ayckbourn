@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2020"
 source: "http://biography.alanayckbourn.net/styled-22/page-10/"
-order: 96
+order: 314
 ---
 
 **[\<\<\< Previous page](/life/chronology/2019)**
@@ -16,9 +16,9 @@ During 2020, Alan Ayckbourn…
 
 ○ … and returned to professional acting for the first time since 1964 playing all the male roles, opposite Heather Stoney, in *Anno Domino*; the first play he has written, directed and performed in.
 
-○ saw his home theatre - the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** (SJT), Scarborough - and all UK theatres close during March as a result of the Covid-19 pandemic.
+○ saw his home theatre - the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** (SJT), Scarborough - and all UK theatres close during March as a result of the Covid-19 pandemic.
 
-○ had the planned productions of his plays ***[Truth Will Out](/plays)*** & ***[Just Between Ourselves](/plays/just-between-ourselves)*** at the SJT cancelled due to the Covid-19 pandemic.
+○ had the planned productions of his plays ***[Truth Will Out](/plays/childrens-plays-index/unproduced-plays)*** & ***[Just Between Ourselves](/plays/just-between-ourselves)*** at the SJT cancelled due to the Covid-19 pandemic.
 
 ○ recorded his 1994 play ***[Haunting Julia](/plays/haunting-julia)*** as an audio play for streaming by the SJT during December 2020, both directing and performing all the male roles.
 

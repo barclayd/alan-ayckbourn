@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1974"
 source: "http://biography.alanayckbourn.net/styled-22/page53/"
-order: 50
+order: 268
 ---
 
 **[\<\<\< Previous page](/life/chronology/1973)**
@@ -22,7 +22,7 @@ During 1974, Alan Ayckbourn…
 
 ○ wrote his first - and only - produced screenplay, ***[Service Not Included](/plays/service-not-included)***, broadcast on 20 May on BBC2.
 
-○ premiered two plays at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, with ***[Absent Friends](/plays/absent-friends)*** and ***[Confusions](/plays/confusions)***; the latter written to launch the theatre's first winter and touring seasons since the early 1960s.
+○ premiered two plays at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, with ***[Absent Friends](/plays/absent-friends)*** and ***[Confusions](/plays/confusions)***; the latter written to launch the theatre's first winter and touring seasons since the early 1960s.
 
 ○ threatened to quit Scarborough as a result of the County Council turning down a request to extend Theatre in the Round at the Library Theatre's season to 40 weeks a year; much of this comes from an attempt to re-open the Opera House theatre in the town and a conflict of interest with a County Councillor working on the same project.
 
@@ -32,7 +32,7 @@ During 1974, Alan Ayckbourn…
 
 ○ won his first Evening Standard Award for Best Play for *The Norman Conquests*, which also won the Play & Players Awards for Best Play.
 
-○ was approached by **[Peter Hall](/life/influences/peter-hall)**, Artistic Director of the **[National Theatre](/career/national-theatre)**, to write a play for the soon-to-open new South Bank home of the company. This would eventually result in ***[Bedroom Farce](/plays/bedroom-farce)***opening at the NT during 1977.
+○ was approached by **[Peter Hall](/life/influences/hall-sir-peter)**, Artistic Director of the **[National Theatre](/career/national-theatre)**, to write a play for the soon-to-open new South Bank home of the company. This would eventually result in ***[Bedroom Farce](/plays/bedroom-farce)***opening at the NT during 1977.
 
 ○ had his first dedicated television documentary with *Alan Ayckbourn* on BBC2 and he is also featured in ITV's *Aquarius*.
 

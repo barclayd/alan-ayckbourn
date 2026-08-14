@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1961"
 source: "http://biography.alanayckbourn.net/styled-22/page40/"
-order: 37
+order: 255
 ---
 
 **[\<\<\< Previous page](/life/chronology/1960)**
@@ -12,13 +12,13 @@ order: 37
 
 During 1961, Alan Ayckbourn…
 
-○ made his **[directorial debut](/career/director)** with ***[Gaslight](/career)*** by Patrick Hamilton at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough.
+○ made his **[directorial debut](/career/directing-career)** with ***[Gaslight](/career)*** by Patrick Hamilton at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough.
 
 ○ wrote his fourth play ***[Standing Room Only](/plays/standing-room-only)***; the final play to be written under the pseudonym of Roland Allen (from 1964, this will also be regarded as the first play to be written as Alan Ayckbourn). The world premiere is directed by **[Stephen Joseph](/life)**.
 
 ○ saw *Standing Room Only* become his first play to be optioned for the West End, although it is never produced despite a substantial number of rewrites to accommodate potential stars.
 
-○ was taken on by the noted literary agent **[Margaret 'Peggy' Ramsay](/life/influences/margaret-ramsay)**.
+○ was taken on by the noted literary agent **[Margaret 'Peggy' Ramsay](/life/influences/ramsay-margaret)**.
 
 ○ and Christine Roland had their second son, Philip.
 

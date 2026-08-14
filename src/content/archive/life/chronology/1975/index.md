@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1975"
 source: "http://biography.alanayckbourn.net/styled-22/page54/"
-order: 51
+order: 269
 ---
 
 **[\<\<\< Previous page](/life/chronology/1974)**
@@ -31,7 +31,7 @@ During 1975, Alan Ayckbourn…
 
 ○ had *The Norman Conquests* open on Broadway, directed by Eric Thompson.
 
-○ wrote the one act comedy ***[Dracula](/plays/dracula-sketch-from)*** and the song *The Ghost Of 'Enry Albert* for the revue *What The Devil!* at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**.
+○ wrote the one act comedy ***[Dracula](/plays/dracula-sketch-from)*** and the song *The Ghost Of 'Enry Albert* for the revue *What The Devil!* at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**.
 
 ○ saw Chatto & Windus publish *The Norman Conquests*, the first mass market publication of his writing.
 

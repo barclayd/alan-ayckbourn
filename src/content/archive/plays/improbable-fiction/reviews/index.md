@@ -1,0 +1,50 @@
+---
+title: "World Premiere Reviews"
+source: "http://improbablefiction.alanayckbourn.net/styled-4/"
+order: 1910
+play: "improbable-fiction"
+---
+
+*This page contains a selection of reviews from the world premiere production of Alan Ayckbourn's Improbable Fiction at the Stephen Joseph Theatre, Scarborough, in 2005. All reviews are the copyright of the respective publication and / or author.*
+
+**Improbable Fiction** (by Alfred Hickling)  
+""Write what you know" is the standard mantra among creative writing groups, which the extraordinarily prolific Alan Ayckbourn chooses to ignore by basing his 69th play on the concept of writer's block.  
+Returning to his familiar fictional borough of Pendon, Ayckbourn introduces us to the local writers' circle, a self-help group for the creatively stalled and artistically deluded, who meet once a month at the home of Arnold, a genial unmarried gent who dreams of creative endeavours more liberating than the translation of foreign instruction manuals.  
+It takes a while for one's initial cavils about the scenario to disperse. After all, the likelihood of Ayckbourn turning up at one of these gatherings seems as probable as a Buddhist attending an AA event, and you wonder if there isn't something just a little mean about a man galloping towards his 70th play making mock of a bunch of hopefuls barely out of the starting blocks.  
+Yet the second half provides a theatrical transformation of the magnitude only Ayckbourn can dream of.  
+It would be appalling to reveal what it is: suffice to say that Ayckbourn even drops a few clues about his own creativity, most notably in an opaque speech in which Arnold haltingly advances his theory that an artist spends his life reinterpreting some significant personal trauma.  
+Ayckbourn scholars will be chewing over that for years to come. In the meantime, we can enjoy a slew of exquisitely judged performances under the author's own direction.  
+Terence Booth is blusteringly bilious as a cantankerous ex-schoolmaster; Clare Swinburne perfectly breathless as an over-industrious young reporter; and Eileen Battye deeply poignant in her determination to finish the Adventures of Doblin the Goblin before her children leave home.  
+Above all, John Branwell's Arnold achieves the Herculean feat of making common-or-garden decency seem interesting. You're left willing him to succeed - no doubt once he gets off the mark, another 68 plays will swiftly follow."  
+(The Guardian, 2 June 2005)
+
+**Improbable Fiction** (by Lynne Walker)  
+"Any aspiring writer thinking of joining a writers' group may have second thoughts after seeing *Improbable Fiction*, Alan Ayckbourn's latest play, his 69th, marking the Stephen Joseph Theatres 50th anniversary takes its title from a line in that play of reversals and wish fulfilment, *Twelfth Night*. In *Improbable Fiction*, simply designed by Roger Glossop and directed by the playwright, Ayckbourn has devised a plot as insanely topsy-turvy as Shakespeare's.  
+Throughout the first act, we eavesdrop on a meeting of the Pendon Writers' Circle, where six authors are in search of characters, plot, anything, in fact, to overcome writer's block and stimulate inspiration. Despite the encouragement of the genial chairman, Arnold, each has reached an impasse. What could, and occasionally does, seem a long-winded set-up becomes, thanks to Ayckbourn's acutely witty observations, a reminder that life is full of absurdities. The colourful personalities in this circle clash, criticise and encourage, as each describes the progress they haven't made.  
+The lesbian farmer is bogged down in researching her historical romance; the giggly young journalist is indiscriminately developing her thriller series involving a detective and his hapless sidekick; and the anorakish "sci-fact" scribbler is circling in his own space, oblivious to his malapropisms. The put upon housewife has the pictures but, alas, no words for her magnum opus, *Doblin the Goblin*, while the gruff retired teacher is stuck mid-lyric on his latest musical.  
+As for Arnold, he is resigned to a life of penning instruction manuals. Not even the festive treat of mince pies brings them any good cheer.  
+The meeting grinds to an end, but not before Arnold has proposed that they pursue the novel idea of joining forces on a collaborative work. Just before the interval, *Improbable Fiction* changes direction, and fiction springs to life as fact. Throughout the second half, only Arnold remains fixed and independent of the vagaries of situation, period, place, and even planet. Truth could not possibly be stranger than the fictions that unravel at alarming speed in unfathomable directions, as these writers' creative juices flow. With a web of spoof sci-fi characters, a policeman that any crime writer would he proud to disown, a damsel in distress, and the abduction of Arnold's mother-in-law by aliens, there's no shortage of storylines to he enjoyed here.  
+Quite how this uniformly excellent cast, led by John Branwell as the delightfully puzzled Arnold, manage the lightning changes and swift character-swaps is the real mystery. It would be churlish to condemn *Improbable Fiction* for being what it says it is, especially since Ayckbourn strives to please us every season and, in this case, succeeds, however improbably."  
+*(The Independent, 30 June 2005)*
+
+**Improbable Fiction** (by Dave Windass)  
+"Alan Ayckbourn's bag of tricks is bursting at the seams, so he can be forgiven for digging into it every now and then. While *Improbable Fiction* might surprise some of the audience, those who have witnessed his children's plays might feel they're watching something familiar.  
+The play's first half is quite bog-standard stuff. The action is set in the hall of a lonely man, Arnold (John Branwell), where a meeting of a writers' circle is taking place.  
+Ayckbourn draws some realistic and recognisable characters here. Arnold's an organised type, which is just as well, as he pens instruction manuals. Giles New's nerdy and sarcastic Clem is a sci-fi writer who churns out thousands of incomprehensible words. Becky Hindley's straight-talking Jess is a lesbian who would write Victorian romance if she ever got round to putting pen to paper.  
+And that's the problem for many of these characters. They might meet once a month but there is not a lot of writing going on.  
+Eileen Battye's uncertain Grace is too busy drawing the illustrations for her children's book and too intimidated by fellow group member Brevis (Terence Booth), her former teacher, to write the thing, while Brevis himself struggles to write his musical, as his lyricist has gone AWOL. Meanwhile home help Ilsa, of lower social standing, mistakenly looks up to these people as the intelligentsia they plainly aren't, while apparently harbouring desires to plant a kiss on Arnold, whose bedridden mother she cares for.  
+It is in the second half when Ayckbourn lets rip, with the story ideas presented by the group earlier coming to life in front of a baffled Arnold.  
+Three stories from different genres and set in different periods in time unfurl, with the cast going costume-change crazy, squeezing into Pip Leckenby's jolly designs. That it all hangs together impeccably well is impressive stuff, although the joke begins to wear thin."  
+*(The Stage, 7 July 2005)*
+
+**Ayckbourn Hits The Right Spot** (by Charles Hutchinson)  
+"Who controls a book: the author, the characters or you, dear reader? Such a question was a cornerstone of the cutting-edge English Literature degree course in my university youth.  
+The question bubbles up once more in Alan Ayckbourn's latest play, a joyful, playful piece of light comic stagecraft to celebrate the Stephen Joseph Theatre's 50th anniversary.  
+He returns to the outskirts of his imaginary small country town of Pendon, not far from Reading, to gather a "a bit of a lonely hearts' club" otherwise known as the Pendon Writers' Circle. Avuncular, bow-tied chairman Arnold Hassock (John Branwell) is holding the pre-Christmas meeting in his well-worn hall, while shy young work colleague Ilsa (Laura Doddington) supplies tea and sympathy to his ailing mother.  
+The first half, slow moving by Ayckbourn's standards, introduces the disparate writers: grouchy, blunt farmer Jess (Becky Hindley), still trying to conjure the first words of her period romantic novel; demure children's writer Grace (Eileen Battye), yet to progress beyond painting illustrations; sci-fi boffin Clem (Giles New), tangled up with convoluted storytelling and prone to using the wrong word; vivacious, giggling Vivvi (Clare Swinburne), buoyantly busy on her fifth or is it sixth thriller; and curmudgeonly, ever dismissive teacher Brevis (Terence Booth), as troubled by his waterworks as the intricacies of his latest musical.  
+Never tongue-tied, these writers have more difficulty with controlling their words on the page, an affliction yet to affect Ayckbourn: *Improbable Fiction* is his 69th play. Here is humanity as the lab rat, Ayckbourn doing his middle-class man watching with both empathy and delicious merry-making, and excelling in a nervous tea-pouring sequence by the outstanding Doddington that recalls vintage early Ayckbourn.  
+Suddenly thunder cracks its whip, and prompted by Arnold's challenge to club their ideas together, the writers and in turn their characters take over the play. Ayckbourn moves into the speeding, fantastical dimensions of his Christmas family shows, as stories in the style of each writer overlap, giving Ayckbourn the chance to send up Jane Austen, Dorothy L Sayers and *The Matrix*. All the while, Branwell's hangdog Arnold looks as befuddled as Les Dawson, stuck on the outside, but drawn into the mad vortex.  
+Ayckbourn has huge fun, both as writer and director, and his multi role-playing cast savours every twist and turn. *Improbable Fiction* is a hit: fact."  
+(Yorkshire Evening Press, 2 June 2005)
+
+*All reviews are copyright of their respective publications.*

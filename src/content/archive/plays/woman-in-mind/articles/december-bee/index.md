@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://womaninmind.alanayckbourn.net/styled-6/styled-15/interview_70_Years.html"
-order: 719
+order: 1428
 play: "woman-in-mind"
 ---
 

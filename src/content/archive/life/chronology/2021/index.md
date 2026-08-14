@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2021"
 source: "http://biography.alanayckbourn.net/styled-22/page-39/"
-order: 97
+order: 315
 ---
 
 **[\<\<\< Previous page](/life/chronology/2020)**
@@ -12,13 +12,13 @@ order: 97
 
 During 2021, Alan Ayckbourn…
 
-○ premiered his 85th full-length play - ***[The Girl Next Door](/plays/the-girl-next-door)*** - at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough.
+○ premiered his 85th full-length play - ***[The Girl Next Door](/plays/the-girl-next-door)*** - at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough.
 
 ○ marked the 60th anniversary of his professional directing career as well as the 60th anniversary of his fourth play ***[Standing Room Only](/plays/standing-room-only)*** and the 50th anniversary of ***[Time & Time Again](/plays/time-and-time-again)***.
 
 ○ saw *The Girl Next Door* become the first Ayckbourn world premiere production to be filmed. The film - also the first Ayckbourn production in-the-round to be filmed - is streamed over two periods by the SJT during the year.
 
-○ was featured in the interview film In ***[Conversation with Alan Ayckbourn](http://interviews.alanayckbourn.net/page-6/page-7/page90.html)***, conducted with Dr Paul Elsam and premiered at the Big Ideas by the Sea festival in Scarborough.
+○ was featured in the interview film In ***[Conversation with Alan Ayckbourn](/career/interviews)***, conducted with Dr Paul Elsam and premiered at the Big Ideas by the Sea festival in Scarborough.
 
 ### World Premieres
 

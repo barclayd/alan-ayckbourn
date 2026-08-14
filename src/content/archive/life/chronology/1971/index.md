@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1971"
 source: "http://biography.alanayckbourn.net/styled-22/page50/"
-order: 47
+order: 265
 ---
 
 [\<\<\< Previous page](/life/chronology/1970)
@@ -14,11 +14,11 @@ During 1971, Alan Ayckbourn…
 
 ○ saw ***[How The Other Half Loves](/plays/how-the-other-half-loves)*** become his first play to be produced on Broadway - at the Royale Theatre. It starred Phil Silvers of *Sgt Bilko* fame as Frank Foster and ran for three months, but was not a huge success.
 
-○ travelled to the USA with *How The Other Half Loves* with **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** appointing Caroline Smith as **[Director Of Productions](/career/artistic-director)** for the summer season.
+○ travelled to the USA with *How The Other Half Loves* with **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** appointing Caroline Smith as **[Director Of Productions](/career/artistic-director)** for the summer season.
 
-○ was nominated for the Italia Prize for his radio production of Don Haworth's ***[We All Come To It In The End](/career/bbc/bbc-radio-productions/we-all-come-to-it-in-the-end)*** for **[BBC](/career/bbc)** Radio 3; one of his final radio productions to be broadcast having left the BBC in 1970.
+○ was nominated for the Italia Prize for his radio production of Don Haworth's ***[We All Come To It In The End](/career/bbc-career/bbc-radio-productions/we-all-come-to-it-in-the-end)*** for **[BBC](/career/bbc-career)** Radio 3; one of his final radio productions to be broadcast having left the BBC in 1970.
 
-○ returned to Scarborough to direct the world premiere of ***[Time & Time Again](/plays/time-and-time-again)*** at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**; his first play to have a water feature - a garden pond.
+○ returned to Scarborough to direct the world premiere of ***[Time & Time Again](/plays/time-and-time-again)*** at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**; his first play to have a water feature - a garden pond.
 
 ○ saw ***[The Story So Far...](/plays/family-circles)*** (retitled to *Me Times Me Times Me*) begin a pre-West End tour. The tour was unsuccessful and does not transfer into London.
 

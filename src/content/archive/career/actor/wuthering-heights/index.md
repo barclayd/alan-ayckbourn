@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page148/"
-order: 489
+order: 555
 ---
 
 ## Wuthering Heights (1960)
@@ -40,7 +40,7 @@ David Glover
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 *Wuthering Heights* was also performed as part of the Studio Theatre Ltd's winter 1959 / 1960 tour and Alan played the role of Edgar Linton opposite Barry Boys as Heathcliff in this tour. This entry is based on the revived summer production at Theatre in the Round at the Library Theatre, Scarborough, in which Alan took the larger role of Heathcliff.
 

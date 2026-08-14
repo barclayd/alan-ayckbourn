@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1994"
 source: "http://biography.alanayckbourn.net/styled-22/page73/"
-order: 70
+order: 288
 ---
 
 **[\<\<\< Previous page](/life/chronology/1993)**
@@ -22,7 +22,7 @@ During 1994, Alan Ayckbourn…
 
 ○ received the Montblanc de la Culture For Europe.
 
-○ wrote the three-hander ***[Haunting Julia](/plays/haunting-julia)*** for the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** as a last minute cost-saving addition to the schedule due to Arts Council funding cuts.
+○ wrote the three-hander ***[Haunting Julia](/plays/haunting-julia)*** for the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** as a last minute cost-saving addition to the schedule due to Arts Council funding cuts.
 
 ○ saw French film director Alain Resnais adapt ***[Intimate Exchanges](/plays/intimate-exchanges)*** into two César Award winning films *Smoking / No Smoking*.
 

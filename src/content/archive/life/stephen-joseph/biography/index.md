@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph: A Biography"
 source: "http://biography.alanayckbourn.net/styled-37/styled-38/"
-order: 325
+order: 393
 ---
 
 Stephen Joseph was an extraordinarily passionate and knowledgeable man who inspired those around him. His knowledge of theatre and drama appears to be practically encyclopaedic - as witnessed by his extraordinarily varied career in British theatre - and his protégé Alan Ayckbourn summed this aspect of his career up quite succinctly: “He knew more than any person I’ve ever known about playwriting, when it came to talking about it, and he knew more about directing than any living person, and I suspect he knew an awful lot about acting: he certainly managed to talk about it very lucidly and entertainingly and interestingly, although he must have been the World’s worst actor.”

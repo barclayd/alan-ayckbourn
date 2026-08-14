@@ -1,10 +1,10 @@
 ---
 title: "The Victoria Theatre, Stoke-on-Trent"
 source: "http://careers.alanayckbourn.net/page-2/NationalTheatre.html"
-order: 25
+order: 85
 ---
 
-In 1962, **[Stephen Joseph](/life)** - founder of **[Theatre at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough - set up the Victoria Theatre in Stoke-on-Trent. The UK's first professional theatre-in-the-round venue. One of the founding members was Alan Ayckbourn who left Scarborough with the Studio Theatre Ltd company as writer, director and actor for the new venue.
+In 1962, **[Stephen Joseph](/life)** - founder of **[Theatre at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough - set up the Victoria Theatre in Stoke-on-Trent. The UK's first professional theatre-in-the-round venue. One of the founding members was Alan Ayckbourn who left Scarborough with the Studio Theatre Ltd company as writer, director and actor for the new venue.
 
 ### The Victoria Theatre, Stoke-on-Trent
 
@@ -18,7 +18,7 @@ Stephen took the decision to move his company, Studio Theatre Ltd, from Scarboro
 
 Peter Cheeseman was appointed Artistic Director and, for the first two years, he and Alan were regarded as the senior members of the company. Alan wrote two plays for the company, *Christmas V Mastermind* and *Mr Whatnot* - the latter of which became his first play to transfer to the West End. It also marked the point where Alan stopped writing under the pseudonym of Roland Allen and his first production where he used his real name was a revival of *Standing Room Only* at the Victoria, which had originally opened in Scarborough in 1961.
 
-Alan directed nine productions during his two years with the company and acted in 20 productions; this included the last time he appeared in one of his own plays with *Christmas V Mastermind*. The West End interest in *Mr Whatnot* - and presumed success - was a key reason in Alan leaving the company in 1964. However *Mr Whatnot* was a disaster in the West End and Alan almost quit playwriting and theatre altogether, taking a job as a radio drama producer at the **[BBC](/career/bbc)**.
+Alan directed nine productions during his two years with the company and acted in 20 productions; this included the last time he appeared in one of his own plays with *Christmas V Mastermind*. The West End interest in *Mr Whatnot* - and presumed success - was a key reason in Alan leaving the company in 1964. However *Mr Whatnot* was a disaster in the West End and Alan almost quit playwriting and theatre altogether, taking a job as a radio drama producer at the **[BBC](/career/bbc-career)**.
 
 At the same time, the Victoria Theatre was forging its own identity under Peter Cheeseman with his documentary-drama plays such as *The Jolly Potters* and *The Knotty*; it should be noted that whilst Alan and Peter had much respect for each other, their views on theatre were quite divergent. However, in their own ways, they became two of the most influential and long-running regional Artistic Directors in the UK.
 
@@ -30,7 +30,7 @@ The Victoria Theatre would go on to became a theatre of immense regional importa
 
 **As Director  
 1962**  
-○ *[The Caretaker](/career/director/the-caretaker-1962)*  
+○ *[The Caretaker](/career/directing-career/the-caretaker-1962)*  
 ○ *[Christmas V Mastermind](/plays/christmas-v-mastermind)*
 
 **As Writer  

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2011"
 source: "http://biography.alanayckbourn.net/styled-22/page90/"
-order: 87
+order: 305
 ---
 
 **[\<\<\< Previous page](/life/chronology/2010)**
@@ -14,7 +14,7 @@ During 2011, Alan Ayckbourn…
 
 ○ saw the **[Borthwick Institute for Archives](/)** at the University Of York acquire the Ayckbourn Archive for the nation.
 
-○ directed ***[Neighbourhood Watch](/plays/neighbourhood-watch)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, which then transferred to the *Brits Off Broadway* festival in New York at the 59E59 Theaters.
+○ directed ***[Neighbourhood Watch](/plays/neighbourhood-watch)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, which then transferred to the *Brits Off Broadway* festival in New York at the 59E59 Theaters.
 
 ○ was featured in the BBC's flagship arts programme, *Imagine*, to coincide with the world premiere of *Neighbourhood Watch*. A BBC Radio programme, *Ayckbourn In Action*, meanwhile explored his career as a director.
 

@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph: A Timeline / Chronology"
 source: "http://biography.alanayckbourn.net/styled-37/styled-39/"
-order: 326
+order: 394
 ---
 
 - **1921:** Born, Michael Stephen Lionel Joseph, on 13 June to actress Hermione Gingold and publisher Michael Joseph in London

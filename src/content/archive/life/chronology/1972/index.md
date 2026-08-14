@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1972"
 source: "http://biography.alanayckbourn.net/styled-22/page51/"
-order: 48
+order: 266
 ---
 
 **[\<\<\< Previous page](/life/chronology/1971)**
@@ -12,7 +12,7 @@ order: 48
 
 During 1972, Alan Ayckbourn…
 
-○ was appointed **[Artistic Director](/career)** of **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough; a position he would remain in until 2009.
+○ was appointed **[Artistic Director](/career)** of **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough; a position he would remain in until 2009.
 
 ○ saw Evans publish a second - and final - play, ***[How The Other Half Loves](/plays/how-the-other-half-loves)***.
 

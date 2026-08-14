@@ -1,7 +1,7 @@
 ---
 title: "The National Theatre"
 source: "http://careers.alanayckbourn.net/styled-2/page-104/NationalTheatre.html"
-order: 539
+order: 605
 ---
 
 Alan Ayckbourn has had a strong relationship with the National Theatre and was a **[Company Director](/career/national-theatre/nt-company-director)** between 1986 and 1988. The National Theatre is the most important venue Alan Ayckbourn is associated with outside of his home theatre in Scarborough.
@@ -28,10 +28,10 @@ Of these productions, all were directed by Alan Ayckbourn with the exception of 
 Alan’s sabbatical from the Stephen Joseph Theatre Theatre was from 1986 to 1988. During this period he became a company director at the **[National Theatre](/career/national-theatre)** and had his own acting company within the complex.
 
 **4) What was Alan Ayckbourn’s connection with the Stephen Joseph Theatre during this period?**  
-Alan remained the **[Artistic Director](/career/artistic-director)** of the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** and this position was listed in programmes during the period. Robin Herford was also appointed Artistic Director and managed the day-to-day running of the theatre and seasonal programming decisions. During the one full year he was away (1987), Alan still wrote and directed *Henceforward…* for Scarborough.
+Alan remained the **[Artistic Director](/career/artistic-director)** of the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** and this position was listed in programmes during the period. Robin Herford was also appointed Artistic Director and managed the day-to-day running of the theatre and seasonal programming decisions. During the one full year he was away (1987), Alan still wrote and directed *Henceforward…* for Scarborough.
 
 **5) What plays did Alan Ayckbourn direct for the National Theatre during this sabbatical?**  
-The National Theatre's Artistic Director **[Peter Hall](/life/influences/peter-hall)** originally arranged for Alan to direct three plays in each of the National Theatre’s auditoria. This was later extended to four plays. The plays were ***[Tons Of Money](/plays/tons-of-money-evans-and-valentine)*** (Lyttelton), ***[A View From The Bridge](http://aviewfromthebridge.alanayckbourn.net/)*** (Cottesloe), ***[A Small Family Business](/plays/a-small-family-business)*** (Olivier) and ‘***[Tis Pity She’s A Whore](/career/national-theatre/tis-pity)*** (Olivier). *A View From The Bridge* would also transfer to the West End - at the Aldwych Theatre - which meant Alan had to recast *A Small Family Business* during the latter part of its run. He also presented his revue *Mere Soup Songs* as a late night revue in the Lyttelton buffet restaurant.
+The National Theatre's Artistic Director **[Peter Hall](/life/influences/hall-sir-peter)** originally arranged for Alan to direct three plays in each of the National Theatre’s auditoria. This was later extended to four plays. The plays were ***[Tons Of Money](/plays/tons-of-money-evans-and-valentine)*** (Lyttelton), ***[A View From The Bridge](/plays/miller-arthur)*** (Cottesloe), ***[A Small Family Business](/plays/a-small-family-business)*** (Olivier) and ‘***[Tis Pity She’s A Whore](/career/national-theatre/tis-pity)*** (Olivier). *A View From The Bridge* would also transfer to the West End - at the Aldwych Theatre - which meant Alan had to recast *A Small Family Business* during the latter part of its run. He also presented his revue *Mere Soup Songs* as a late night revue in the Lyttelton buffet restaurant.
 
 **6) Is it true Alan Ayckbourn considered not returning to Scarborough following his sabbatical tab the National Theatre?**  
 No. This was originally reported by Michael Coveney in the *Financial Times* during November 1986, but appears to have been reported on the basis of rumour and gossip rather than actual facts. Alan had made it clear in interviews prior to leaving that he would return to Scarborough in 1988, a point given extra weight as he remained Artistic Director throughout his sabbatical period. The fact that Alan had also committed himself in 1986 to writing and directing a new play in Scarborough, *Henceforward...*, for the 1987 season also suggests he was committed to Scarborough.  

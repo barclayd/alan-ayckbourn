@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1969"
 source: "http://biography.alanayckbourn.net/styled-22/page48/"
-order: 45
+order: 263
 ---
 
 **[\<\<\< Previous page](/life/chronology/1968)**
@@ -12,9 +12,9 @@ order: 45
 
 During 1969, Alan Ayckbourn…
 
-○ wrote material for the ITV television series ***[Hark At Barker](http://recordings.alanayckbourn.net/page0/page23/Media_Barker.html)*** under the pseudonym of Peter Caulfield as his contract with the **[BBC](/career/bbc)** prevented him working for other companies.
+○ wrote material for the ITV television series ***[Hark At Barker](/career/recordings/other-media/hark-at-barker)*** under the pseudonym of Peter Caulfield as his contract with the **[BBC](/career/bbc-career)** prevented him working for other companies.
 
-○ was appointed **[Director Of Productions](/career/artistic-director)** at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, for the summer season.
+○ was appointed **[Director Of Productions](/career/artistic-director)** at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, for the summer season.
 
 ○ saw the first television adaptation of one of his plays with a 90 minute version of ***[Relatively Speaking](/plays/relatively-speaking)***, starring Donald Sinden and Celia Johnson, broadcast by the BBC.
 

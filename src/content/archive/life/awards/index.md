@@ -1,7 +1,7 @@
 ---
 title: "Awards & Honours"
 source: "http://biography.alanayckbourn.net/styled-3/BiographyAwards.html"
-order: 4
+order: 32
 ---
 
 A breakdown of Alan Ayckbourn' awards and many nominations at The Oliver Awards can be found **[here](/life/awards/the-olivier-awards)**.

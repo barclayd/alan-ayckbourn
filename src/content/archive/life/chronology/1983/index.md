@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1983"
 source: "http://biography.alanayckbourn.net/styled-22/page62/"
-order: 59
+order: 277
 ---
 
 **[\<\<\< Previous page](/life/chronology/1982)**
@@ -12,9 +12,9 @@ order: 59
 
 During 1983, Alan Ayckbourn…
 
-○ was reported to be "**[more popular than Shakespeare](/life/faqs/popularity)**" by an Arts Council Cultural Trends report; in context, the report showed he was the most watched and performed playwright in the UK in subsidised regional theatre between 1981 and 1983.
+○ was reported to be "**[more popular than Shakespeare](/life/ayckbourn-faqs/popularity)**" by an Arts Council Cultural Trends report; in context, the report showed he was the most watched and performed playwright in the UK in subsidised regional theatre between 1981 and 1983.
 
-○ directed ***[It Could Be Any One Of Us](/plays/it-could-be-any-one-of-us)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough; a thriller with the potential murderer randomly chosen during the performance by the drawing of a card.
+○ directed ***[It Could Be Any One Of Us](/plays/it-could-be-any-one-of-us)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough; a thriller with the potential murderer randomly chosen during the performance by the drawing of a card.
 
 ○ directed ***[A Cut In The Rates](/plays/a-cut-in-the-rates)*** at the Stephen Joseph Theatre In The Round; this one-off performance was recorded for the BBC as part of a educational programme broadcast in 1984.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2008"
 source: "http://biography.alanayckbourn.net/styled-22/page87/"
-order: 84
+order: 302
 ---
 
 **[\<\<\< Previous page](/life/chronology/2007)**
@@ -22,7 +22,7 @@ During 2008, Alan Ayckbourn…
 
 ○ saw ***[The Norman Conquests](/plays/the-norman-conquests)*** revived at the Old Vic, London. It is directed by Matthew Warchus and critically acclaimed. The Old Vic is converted into an in-the-round space for the production.
 
-○ directed ***[Life & Beth](/plays/life-and-beth)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**; the first play he has written since his stroke in February 2006.
+○ directed ***[Life & Beth](/plays/life-and-beth)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**; the first play he has written since his stroke in February 2006.
 
 ○ fulfilled a long-term ambition to revive ***[Woman In Mind](/plays/woman-in-mind)*** at the SJT with Janie Dee in the lead role of Susan.
 

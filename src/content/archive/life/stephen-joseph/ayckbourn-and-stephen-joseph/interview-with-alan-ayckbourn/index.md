@@ -1,7 +1,7 @@
 ---
 title: "An Interview with Alan Ayckbourn about Stephen Joseph"
 source: "http://biography.alanayckbourn.net/styled-37/page-11/page-3/"
-order: 329
+order: 397
 ---
 
 *During 1997 and 1998, Stacey Morley - a student at Arden School Of Theatre, Manchester, studying for her BA(hons) in Acting Studies - conducted two extensive interviews with Sir Alan Ayckbourn about his career, writing and background. Within these interviews, Alan Ayckbourn spoke at length about his relationship with Stephen Joseph and his thoughts on the person he considers to be his most influential mentor.*

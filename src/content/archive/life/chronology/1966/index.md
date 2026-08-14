@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1966"
 source: "http://biography.alanayckbourn.net/styled-22/page45/"
-order: 42
+order: 260
 ---
 
 **[\<\<\< Previous page](/life/chronology/1965)**

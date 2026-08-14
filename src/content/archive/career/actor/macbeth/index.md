@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page116/"
-order: 113
+order: 327
 ---
 
 ## Macbeth (1956)
@@ -94,7 +94,7 @@ B.L. Caulfield
 
 Alan Ayckbourn's second known acting role was while as a student at Haileybury when he was involved in an American tour of Shakespeare's *Macbeth*.
 
-"He'd \[Haileybury teacher **[Edgar Matthews](/life/influences/edgar-matthews)**\] marked me down as a comedy actor. They were doing *Macbeth*, and I didn't want to play that boring old porter, so I plunged in hoping to play Macbeth. He really didn't think I was up to that - I didn't really have the weight, I was a six-stone weakling - but he did cast me as Macduff. And this year he decided to really go to town. He was going to take us round America. We went over on the Queen Mary and we came back on the Queen Elizabeth - the first, not the second - and that in itself was worth all the money in the world: a group of public schoolboys, fifteen, sixteen, seventeen, getting themselves absolutely slewed all the way over - it was wonderful. And this was touring gone mad, because we had all the joy of touring with none of the professional responsibility. We didn't actually care if the show never went on. We arrived and we went up the East Coast: we played in Maine, at the university there, and then we went up into Canada and played in Ottawa. And we played in Quebec, then we went down to Niagara and we played there; then we came through to Pittsburgh - and along the way we also took in Boston, Montreal, Peterborough and Washington DC. It was a very strange tour, but we did see a hell of a lot of America by Greyhound coach. I don't think the whole thing was more than about four weeks."  
+"He'd \[Haileybury teacher **[Edgar Matthews](/life/influences/haileybury)**\] marked me down as a comedy actor. They were doing *Macbeth*, and I didn't want to play that boring old porter, so I plunged in hoping to play Macbeth. He really didn't think I was up to that - I didn't really have the weight, I was a six-stone weakling - but he did cast me as Macduff. And this year he decided to really go to town. He was going to take us round America. We went over on the Queen Mary and we came back on the Queen Elizabeth - the first, not the second - and that in itself was worth all the money in the world: a group of public schoolboys, fifteen, sixteen, seventeen, getting themselves absolutely slewed all the way over - it was wonderful. And this was touring gone mad, because we had all the joy of touring with none of the professional responsibility. We didn't actually care if the show never went on. We arrived and we went up the East Coast: we played in Maine, at the university there, and then we went up into Canada and played in Ottawa. And we played in Quebec, then we went down to Niagara and we played there; then we came through to Pittsburgh - and along the way we also took in Boston, Montreal, Peterborough and Washington DC. It was a very strange tour, but we did see a hell of a lot of America by Greyhound coach. I don't think the whole thing was more than about four weeks."  
 *('Conversations With Ayckbourn', 1981)*
 
 **Review extract from the Haileyburian and ISC Chronicle** (June 1956)  

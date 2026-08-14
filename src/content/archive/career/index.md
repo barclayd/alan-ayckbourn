@@ -1,7 +1,7 @@
 ---
 title: "Careers & Timeline"
 source: "http://careers.alanayckbourn.net/"
-order: 12
+order: 13
 ---
 
 This section offers an in-depth look at Alan Ayckbourn's many careers within professional theatre. Although primarily known as a playwright & director, Alan Ayckbourn's career in theatre has been wide-ranging and his position as Artistic Director of the Stephen Joseph Theatre is as crucial to understanding Ayckbourn as his playwriting & directing careers.
@@ -40,16 +40,16 @@ This section offers an in-depth look at Alan Ayckbourn's many careers within pro
 **[Stage Manager](/career/stage-manager)** at Theatre in the Round at the Library Theatre, Scarborough  
 **[Actor](/career/actor)** at Theatre in the Round at the Library Theatre, Scarborough  
 **[Playwright](/career/playwright)**  
-**[Director](/career/director)**  
-**[Director](/career/director)**, **[writer](/career/playwright)** and **[actor](/career/actor)** at the **[Victoria Theatre](/career/victoria-theatre)**, Stoke-on-Trent  
-**[Radio Drama Producer](/career/bbc)** at the BBC  
+**[Director](/career/directing-career)**  
+**[Director](/career/directing-career)**, **[writer](/career/playwright)** and **[actor](/career/actor)** at the **[Victoria Theatre](/career/victoria-theatre)**, Stoke-on-Trent  
+**[Radio Drama Producer](/career/bbc-career)** at the BBC  
 **[Director Of Productions](/career/artistic-director)** at Theatre in the Round at the Library Theatre, Scarborough  
-Screenplay writer for ***[Hark At Barker](http://recordings.alanayckbourn.net/page23/Media_Barker.html)*** on ITV (using the pseudonym Peter Caulfield)  
+Screenplay writer for ***[Hark At Barker](/career/recordings)*** on ITV (using the pseudonym Peter Caulfield)  
 **[Artistic Director](/career/artistic-director)** of Theatre in the Round at the Library Theatre (later the Stephen Joseph Theatre)  
 **[Company Director](/career/national-theatre)** at the National Theatre, London  
-Cameron Mackintosh **[Professor of Contemporary Theatre](/career/oxford-university)** at Oxford University  
-Guest **[Director](/career/director)** at the Stephen Joseph Theatre and other venues  
-**[Director Emeritus](/career/ayckbourn-and-sjt/director-emeritus)** at the Stephen Joseph Theatre  
+Cameron Mackintosh **[Professor of Contemporary Theatre](/career/st-catherines-college)** at Oxford University  
+Guest **[Director](/career/directing-career)** at the Stephen Joseph Theatre and other venues  
+**[Director Emeritus](/career/ayckbourn-and-the-sjt/director-emeritus-sjt)** at the Stephen Joseph Theatre  
 Author of ***[The Divide](/plays/the-divide)*** - his first prose novel
 
 ### Alan Ayckbourn: Life & Biography

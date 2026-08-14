@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests"
 source: "http://thenormanconquests.alanayckbourn.net/"
-order: 144
+order: 113
 play: "the-norman-conquests"
 year: 1973
 poster: "./_images/stacks-image-e78a523.jpg"
@@ -17,8 +17,6 @@ facts:
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/s/1577/the-norman-conquests/)."
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
-
-To navigate, use the links in the bar above or in the right hand column.
 
 **World Premiere (*Table Manners*):** 18 June 1973  
 **World Premiere (*Living Together*):** 25 June 1973  

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1988"
 source: "http://biography.alanayckbourn.net/styled-22/page67/"
-order: 64
+order: 282
 ---
 
 **[\<\<\< Previous page](/life/chronology/1987)**
@@ -18,9 +18,9 @@ order: 64
 
 During 1988, Alan Ayckbourn…
 
-○ directed the West End transfer of ***[A View From The Bridge](http://aviewfromthebridge.alanayckbourn.net/)*** and is asked to direct a fourth play at the **[National Theatre](/career/national-theatre)** to replace it in repertory, choosing to direct John Ford's ***['Tis Pity She's A Whore](/career)***.
+○ directed the West End transfer of ***[A View From The Bridge](/plays/miller-arthur)*** and is asked to direct a fourth play at the **[National Theatre](/career/national-theatre)** to replace it in repertory, choosing to direct John Ford's ***['Tis Pity She's A Whore](/career)***.
 
-○ returned to the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, following his two year sabbatical at the National Theatre.
+○ returned to the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, following his two year sabbatical at the National Theatre.
 
 ○ directed ***[Man Of The Moment](/plays/man-of-the-moment)*** at the Stephen Joseph Theatre In The Round, a play which featured a swimming pool as part of the set.
 

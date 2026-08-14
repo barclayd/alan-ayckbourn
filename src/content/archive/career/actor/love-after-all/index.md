@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page149/"
-order: 490
+order: 556
 ---
 
 ## Love After All (1960)
@@ -42,7 +42,7 @@ Derrick Gilbert
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 ***[Love After All](/plays/love-after-all)*** was revived in the summer of 1960 following its premiere at Theatres in the Round at the Library Theatre, Scarborough, in December 1959. The production had a new director, Julian Herington, who insisted the play be extensively modified and updated to a contemporary setting, rather than its original Edwardian setting. All the character names were altered and there were some cosmetic alterations to the script. Alan Ayckbourn, who was due to appear in the world premiere but had been called up for National Service, performed in the revival.
 

@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page155/"
-order: 496
+order: 562
 ---
 
 ## Little Brother, Little Sister (1961)
@@ -34,7 +34,7 @@ Rosamund Dickson
 
 ### Quotes & Notes
 
-1961 saw Alan Ayckbourn's professional career began to move away from acting to what he is most well-known for. Although still predominantly an actor with Studio Theatre Ltd at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, he was also writing and directing for the company. 1961 saw the premiere of his fourth play and his debut as a director with a production of ***[Gaslight](/career/director/gaslight)***.
+1961 saw Alan Ayckbourn's professional career began to move away from acting to what he is most well-known for. Although still predominantly an actor with Studio Theatre Ltd at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, he was also writing and directing for the company. 1961 saw the premiere of his fourth play and his debut as a director with a production of ***[Gaslight](/career/directing-career/gaslight)***.
 
 *Little Brother, Little Sister* was presented as one of four plays which comprised David Campton's *Four Minute Warning*. The play was originally presented as part of a winter tour by Studio Theatre Ltd during the winter of 1960 / 1961 and featured four one act plays: *Little Brother, Little Sister*; ***[Soldier From The Wars Returning](/career/actor/soldier-from-the-wars-returning)***; *At Sea*; *Mutatis Mutandis*. The play was definitely of the Comedy Of Menace genre of the period.
 

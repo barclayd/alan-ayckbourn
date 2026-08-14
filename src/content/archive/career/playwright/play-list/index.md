@@ -1,10 +1,10 @@
 ---
 title: "Definitive Plays & Works List"
 source: "http://careers.alanayckbourn.net/styled-5/page-77/"
-order: 336
+order: 404
 ---
 
-This page contains a definitive playlist of all of Alan Ayckbourn's plays and works. It includes his full-length play canon as well all his other plays, revues, novels, other published work as well as withdrawn plays. In-depth details on all these works can be found in the **[Plays](/plays)** section of the website.
+This page contains a definitive playlist of all of Alan Ayckbourn's plays and works. It includes his full-length play canon as well all his other plays, revues, novels, other published work as well as withdrawn plays. In-depth details on all these works can be found in the **[Plays](/plays/childrens-plays-index)** section of the website.
 
 All research for this page is by Simon Murgatroyd. If you reproduce this material, please credit the author and Alan Ayckbourn's Official Website.
 

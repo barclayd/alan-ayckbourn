@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://womaninmind.alanayckbourn.net/page-6/"
-order: 701
+order: 1411
 play: "woman-in-mind"
 ---
 
@@ -26,7 +26,7 @@ play: "woman-in-mind"
 </aside>
 
 - *Woman In Mind* is Alan Ayckbourn's 32nd play.
-- The world premiere - directed by Alan Ayckbourn - was held at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough, on 30 May 1985.
+- The world premiere - directed by Alan Ayckbourn - was held at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough, on 30 May 1985.
 - The London premiere - directed by Alan Ayckbourn - was held at the Vaudeville Theatre on 3 September 1986; the same theatre where Alan Ayckbourn would revive the play in 2009.
 - It is the only 'subjective' play written by Alan Ayckbourn; the entire play is seen through the eyes of Susan and reflects her perceptions of the world.
 - *Woman in Mind* was partially inspired by Oliver Sacks’s *The Man Who Mistook His Wife For A Hat*.

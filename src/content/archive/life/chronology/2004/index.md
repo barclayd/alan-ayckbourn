@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2004"
 source: "http://biography.alanayckbourn.net/styled-22/page83/"
-order: 80
+order: 298
 ---
 
 **[\<\<\< Previous page](/life/chronology/2003)**
@@ -14,7 +14,7 @@ During 2004, Alan Ayckbourn…
 
 ○ received the Variety Club Of Great Britain Lifetime Achievement Award.
 
-○ wrote ***[Drowning On Dry Land](/plays/drowning-on-dry-land)*** for the summer season at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**, but is so inspired by his company he also writes ***[Private Fears In Public Places](/plays/private-fears-in-public-places)*** which is rushed into the summer season schedule.
+○ wrote ***[Drowning On Dry Land](/plays/drowning-on-dry-land)*** for the summer season at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, but is so inspired by his company he also writes ***[Private Fears In Public Places](/plays/private-fears-in-public-places)*** which is rushed into the summer season schedule.
 
 ○ directed ***[Season's Greetings](/plays/seasons-greetings)*** for the Stephen Joseph Theatre and the Yvonne Arnaud Theatre in a short-lived initiative to produce end-stage specific productions of his work for touring to larger UK venues.
 

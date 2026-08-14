@@ -1,0 +1,38 @@
+---
+title: "Copyright, Privacy & Alan Ayckbourn's Official Website"
+source: "http://www.alanayckbourn.net/page-3/"
+order: 10
+---
+
+For details of privacy policy on the website, please click **[here](/life)**.
+
+Alan Ayckbourn's Official Website is a research resource, but we do request that users respect the copyright of the creators found within the pages of the site. Nothing should be reproduced from this website in a publicly accessible form (online or offline) without permission of the relevant copyright holders.
+
+## Copyright
+
+Please note, images on this website may not be reproduced in any form without written permission from the respective copyright holder.
+
+### Reproducing Material From The Website
+
+If written permission is received to reproduce material from the website (specifically material by Alan Ayckbourn and / or Simon Murgatroyd), it is dependent on the following provisos.
+
+**Attribution** - You must attribute the work in the manner specified by the author or licensor - but not in any way that suggests that they endorse you or your use of the work.
+
+**Non-commercial** - You may not use the work for commercial purposes unless agreed in writing by the copyright holder; a fee may be incurred for reproducing work for commercial purposes if commercial use is agreed in writing.
+
+**No Derivative Works** - You may not alter, transform, or build upon the work without written consent of the copyright holder.
+
+### Frequently Asked Questions
+
+Any other material - including images - is the copyright of the respective creator / author / organisation and permission to reproduce must be sought from these relevant bodies.
+
+**○ Can I reproduce photographs from this website?**  
+No. All images are predominantly the copyright of Scarborough Theatre Trust or the respective photographer and should not be reprinted or stored in any format without express permission from the photographer / organisation which holds the copyright. Please note, photographers can and do scour the website looking for unauthorised reproductions of their photos and can take legal action against offenders.
+
+**○ Who should I contact regarding reproducing images from the site?**  
+Any enquiries regarding photograph reproduction should be directed to this website via the **[Enquiries page](/)**.
+
+**○ Surely anything on the internet is in the public domain and can be reproduced regardless?**  
+The internet is not public domain, it is a publishing medium to which copyright laws apply. Copyright applies to all material published on the internet - be it photographs, articles or any other creative endeavour - and is subject to the same laws. It is a common - and dangerous - fallacy that the internet is public domain and one that will not hold up if legal action is taken by copyright holders.
+
+If you have any queries about copyright, please contact us via the **[Enquiries page](/)**.

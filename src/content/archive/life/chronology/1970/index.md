@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1970"
 source: "http://biography.alanayckbourn.net/styled-22/page49/"
-order: 46
+order: 264
 ---
 
 **[\<\<\< Previous page](/life/chronology/1969)**
@@ -18,9 +18,9 @@ order: 46
 
 During 1970, Alan Ayckbourn…
 
-○ resigned from the **[BBC](/career/bbc)** as a radio drama producer to concentrate on his playwriting career.
+○ resigned from the **[BBC](/career/bbc-career)** as a radio drama producer to concentrate on his playwriting career.
 
-○ was appointed **[Director Of Productions](/career/artistic-director)** at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough for the summer season.
+○ was appointed **[Director Of Productions](/career/artistic-director)** at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough for the summer season.
 
 ○ saw the West End premiere of ***[How The Other Half Loves](/plays/how-the-other-half-loves)*** open at the Lyric Theatre starring Robert Morley. It was a huge success, but played a significant part in him being incorrectly labelled as a farceur for many years.
 

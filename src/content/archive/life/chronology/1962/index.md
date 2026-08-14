@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1962"
 source: "http://biography.alanayckbourn.net/styled-22/page41/"
-order: 38
+order: 256
 ---
 
 **[\<\<\< Previous page](/life/chronology/1961)**
@@ -12,7 +12,7 @@ order: 38
 
 During 1962, Alan Ayckbourn…
 
-○ left **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, to join the **[Victoria Theatre](/career/victoria-theatre)**, Stoke-on-Trent, as actor, director and writer. The Victoria was founded that year by **[Stephen Joseph](/life)** as the UK's first professional theatre-in-the-round venue (Scarborough was home to the first professional theatre-in-the-round company).
+○ left **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, to join the **[Victoria Theatre](/career/victoria-theatre)**, Stoke-on-Trent, as actor, director and writer. The Victoria was founded that year by **[Stephen Joseph](/life)** as the UK's first professional theatre-in-the-round venue (Scarborough was home to the first professional theatre-in-the-round company).
 
 ○ acted in one of own plays for final time, playing the villain in ***[Christmas V Mastermind](/plays/christmas-v-mastermind)*** a play in which his future wife, Heather Stoney, also acted
 

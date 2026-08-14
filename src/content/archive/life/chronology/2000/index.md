@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2000"
 source: "http://biography.alanayckbourn.net/styled-22/page79/"
-order: 76
+order: 294
 ---
 
 **[\<\<\< Previous page](/life/chronology/1999)**
@@ -28,7 +28,7 @@ During 2000, Alan Ayckbourn…
 
 ○ collaborated with the composer Denis King on their first full length musical, ***[Whenever](/plays/whenever)***.
 
-○ revived ***[Bedroom Farce](/plays/bedroom-farce)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** marking the first time he had directed it in-the-round and also the first production to be staged in both The Round and The McCarthy auditoriums at the venue.
+○ revived ***[Bedroom Farce](/plays/bedroom-farce)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** marking the first time he had directed it in-the-round and also the first production to be staged in both The Round and The McCarthy auditoriums at the venue.
 
 ○ had ***[Woman In Mind](/plays/woman-in-mind)*** broadcast by BBC Radio.
 

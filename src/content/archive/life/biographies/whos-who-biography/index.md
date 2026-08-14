@@ -1,7 +1,7 @@
 ---
 title: "Who's Who Entry"
 source: "http://biography.alanayckbourn.net/styled/styled-8/BiographyShort.html"
-order: 30
+order: 248
 ---
 
 *This is text relating to Alan Ayckbourn submitted for the 2020 edition of Who's Who. Please note, this is slightly expanded from the published version with abbreviations amended and further production information including details for 2024.*

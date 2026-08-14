@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2003"
 source: "http://biography.alanayckbourn.net/styled-22/page82/"
-order: 79
+order: 297
 ---
 
 **[\<\<\< Previous page](/life/chronology/2002)**
@@ -22,7 +22,7 @@ During 2003, Alan Ayckbourn…
 
 ○ announced he was quitting the West End following the closure of ***[Damsels In Distress](/plays/damsels-in-distress)*** and the way he perceived the production was treated, alongside a disappointing West End revival of ***[Bedroom Farce](/plays/bedroom-farce)***. He announced his new plays will no lower be allowed to be produced in the West End.
 
-○ wrote ***[Orvin - Champion Of Champions](/plays/orvin-champion-of-champions)*** with the composer Denis King for the National Youth Music Theatre; a musical featuring more than 40 young people presented at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**.
+○ wrote ***[Orvin - Champion Of Champions](/plays/orvin-champion-of-champions)*** with the composer Denis King for the National Youth Music Theatre; a musical featuring more than 40 young people presented at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**.
 
 ○ directed his final play not written by himself with a revival of Tim Firth's ***[The Safari Party](/career)*** at Hampstead Theatre, London.
 

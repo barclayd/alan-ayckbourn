@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1995"
 source: "http://biography.alanayckbourn.net/styled-22/page74/"
-order: 71
+order: 289
 ---
 
 **[\<\<\< Previous page](/life/chronology/1994)**
@@ -12,9 +12,9 @@ order: 71
 
 During 1995, Alan Ayckbourn…
 
-○ reduced his writing and directing commitments to concentrate on the renovation of Scarborough's former **[Odeon](/career)** cinema into the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**.
+○ reduced his writing and directing commitments to concentrate on the renovation of Scarborough's former **[Odeon](/career)** cinema into the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**.
 
-○ directed his final play at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** with Harold Pinter's ***[Betrayal](/career)***.
+○ directed his final play at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** with Harold Pinter's ***[Betrayal](/career)***.
 
 ○ directed the transfer of Herb Gardner's ***[Conversations With My Father](/career)***, starring Judd Hirsch, from Scarborough to The Old Vic.
 

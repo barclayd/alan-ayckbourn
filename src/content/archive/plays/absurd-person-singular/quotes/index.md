@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-5/"
-order: 646
+order: 1065
 play: "absurd-person-singular"
 ---
 

@@ -1,0 +1,105 @@
+---
+title: "History"
+source: "http://hauntingjulia.alanayckbourn.net/styled/"
+order: 1627
+play: "haunting-julia"
+---
+
+*Haunting Julia* marked Alan Ayckbourn’s first foray into the supernatural and continued an interest in exploring different literary genres which had begun during the 1980s. Yet to understand why Alan chose to write a ghost story at this time, one has to look at the significant effect of another singularly successful and famous ghost story.
+
+In 1986, Alan began a two year sabbatical from the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough, and joined the National Theatre as a company director. Although he remained Artistic Director of the Scarborough venue during this period, the day-to-day decisions and artistic policy were delegated to Robin Herford. During the summer of 1987, Robin had the idea of a ‘Christmas stocking filler’ at the theatre, using what remained of the year’s production budget to stage a ghost story in the venue’s small studio theatre, and approached the late actor and writer Stephen Mallatratt with the idea.
+
+<aside>
+
+**Behind The Scenes: The Haunting**  
+Although it is well-known that one of the inspirations for the play was the stage-adaptation of Susan Hill's novel *The Woman In Black*, another inspiration was the classic 1963 horror film *The Haunting* (adapted from the novel The *Haunting of Hill House* by Shirley Jackson). Alan was particularly intrigued by both the ambiguous nature of the piece and also a character who will not remotely accept the possibility of supernatural intervention; the same stance that Andy takes in the play.
+
+</aside>
+
+A couple of years earlier, Stephen had read Susan Hill’s acclaimed novella *The Woman In Black* and been so impressed with it, he had contacted the Scarborough born author expressing an interest in adapting it for the stage. She was not convinced it would work, but was interested in seeing what Stephen would do with the play and agreed to the idea. He suggested this might be the ideal solution to Robin.
+
+It was agreed ***[The Woman In Black](http://thewomaninblack.theatre-in-the-round.co.uk/)*** would be staged during Christmas 1987 and Stephen began the task of adapting the book knowing he would have just two actors to play more than a dozen roles and that the production budget would be minimal at best. Robin directed the play and it was with some trepidation the ‘rough and ready’ play opened. Despite mixed reviews, the word of mouth was phenomenal and the theatre could not meet demand for seats. It was a spectacular success and two years later, Robin would take the play to the West End where it has become a permanent resident and one of the longest running plays in London.
+
+The play also caught the attention of Alan Ayckbourn, who was impressed with the production and whom Susan Hill recalls telling her that there were now two great plays adapted from ghost stories, *The Turn of The Screw* and *The Woman In Black*. Perhaps naturally, it also made the playwright wonder whether he could turn his hand to the genre as successfully.
+
+*“I'd got quite interested in writing a ghost story - and, of course, The Woman in Black came out of Scarborough. I remember coming back and seeing that when I had been on a sabbatical at the National. I thought it was terrific but I didn't think I could write anything quite like it.”*
+
+If the idea of writing a ghost story was inspired by *The Woman In Black*, the motivation for writing it became inextricably intertwined with the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**. In 1990, plans to convert Scarborough’s former Odeon cinema into a purpose built theatre were announced with an initial intended opening of 1994. Not only would this new venue have an in-the-round auditorium, but for the first time the company would also have a purpose built end-stage space which Alan was determined should not be seen as the second-string space in the building or relegated to studio theatre status. As a means of emphasising this, Alan planned to open this space with the world premiere of a new play specifically written for the end-stage, *Haunting Julia*.
+
+Conventional wisdom (and indeed the majority of quotes by the playwright on the subject - see the **[Quotes](/plays/haunting-julia/quotes)** and **[Articles](/plays/haunting-julia/articles)** pages) has it that by the time Alan Ayckbourn had finished writing *Haunting Julia*, the construction work on the theatre had fallen substantially behind schedule. Having completed the play with a definite production schedule in mind, the playwright was not prepared to sit on the play for a year or more and instead decided to premiere it at the company’s existing home, the Stephen Joseph Theatre In The Round. This being despite the fact it had been written for the end-stage and would be a rather awkward production in-the-round.
+
+<aside>
+
+**Behind The Scenes: Haunting Stages**  
+The play is one of Alan Ayckbourn's few plays written specifically for the end-stage (although it can and has been successfully performed in both thrust and in-the-round productions). It was conceived as the first play to be performed in the end-stage McCarthy auditorium at the Stephen Joseph Theatre, Scarborough. However, delays in building and the detrimental effects of a Government funding cut to theatres at the time meant Alan wrote the play earlier than he originally intended and produced it at the Stephen Joseph Theatre In The Round.
+
+</aside>
+
+This may have been the accepted and most frequently reported version of events, but in 2012 Alan Ayckbourn's Archivist Simon Murgatroyd came across correspondence held in the Ayckbourn Archive at the University Of York, which offered an entirely different perspective to the impetus behind the play. A handwritten letter from Alan Ayckbourn to his London producer Michael Codron makes it clear that the decision to stage *Haunting Julia* at the Stephen Joseph Theatre In The Round was predominantly one of financial necessity rather than, as previously documented, delays in the completion of the new Stephen Joseph Theatre.
+
+In 1993, the Conservative government announced a funding cut of £5m to the Arts Council for 1994-1995, which had a knock on effect to arts subsidies around the country. Funding for the Stephen Joseph Theatre In The Round was frozen, which in real terms meant a financial cut which needed to be addressed.
+
+Alan - according to the correspondence - had planned to write *Haunting Julia* in the latter half of 1994, which judging by previous years indicates the play would have premiered during spring / summer 1995 (by which point, the presumption was the new venue would have opened). However, given the funding crisis and the need to cut costs, Alan decided he would bring forward the writing of *Haunting Julia* by nine months to allow the theatre's spring / summer season to open with a low budget play (just three actors and a single set) by Alan Ayckbourn; probably the closest guarantee the theatre had as a way to both save and make money.
+
+Of course, this was not an ideal situation. Even though he was writing it early and knew it would be performed in-the-round, Alan had still conceived *Haunting Julia* for the end-stage and presumably had hopes it would eventually be performed as intended. As a result, it became, to all intents and purposes, an end-stage play being performed in the round. There was also a risk of overexposure, as the programming meant *Haunting Julia* would open in the direct aftermath of the world premiere run of another Ayckbourn play, ***[Communicating Doors](/plays/communicating-doors)***. Indeed with the exception of Alan’s trilogies, this is a very rare example of two entirely unconnected Ayckbourn plays premiering in the same venue within 90 days of each other. As it was, this did not affect *Haunting Julia*’s performance in Scarborough, but it arguably affected the play’s long term future.
+
+Although there is no surviving record of when Alan specifically wrote the play, he had announced his intentions for the play in a letter dated 15 January 1994, which was midway during the rehearsal period for *Communicating Doors*. It’s thus safe to assume Alan wrote the play at some point between 2 February (the world premiere of *Communicating Doors*) and the 16 March (the latest point at which rehearsals for *Haunting Julia* would have begun).
+
+Alan’s intentions had always been to write a ‘second *Woman In Black*’ and this desire to write a ghost story formed the initial idea for the play. The playwright frequently talks about his rule of three in which he needs three good ideas to come together before he begins writing a play. His second idea was the relationship between parents and children, with the final piece of the jigsaw being an interest in exploring the nature of genius - in this case, musical genius - in children and how this would affect the relationship between parent and child. This was all well and good, but - not unusually - as he wrote his ghost story, Alan found himself distracted by the characters and their lives and the focus of the play began to subtly shift and became less about the dead and more about the living.
+
+*"Although I set out to write a ghost story, as ever I got distracted on the way. That's always happening. I set out sometimes to write frivolous farces, only one of the characters becomes deeply depressed or threatens to take their own life, and that's that.... So, although the ghost of Julia still haunts the play, it is really about children, their parents and what they occasionally do to each other and to innocent bystanders - all in the name of love. Not much change there."*
+
+The result was ostensibly a ghost story, but actually given weight by its intimate exploration of the relationships between men and women and fathers and daughters, given all the more impact by featuring just three men - although the women are vividly drawn. The play was also Alan's first full-length one act play without an interval (which would also cause issues in the future) and only the second of his plays to be set in real time (the first being ***[Absent Friends](/plays/absent-friends)***). Neither of these features have particularly been raised in discussion of the play, yet are instrumental in its success as a ghost story and in building the necessary atmosphere for the inevitable supernatural experience.
+
+<aside>
+
+**Behind The Scenes: One Or Two Acts?**  
+*Haunting Julia* was initially conceived and written as a one act play; it runs through with no interval or interruptions. However, a number of theatres - including his own, the Stephen Joseph Theatre - did note two acts were preferable. As a result, Alan will allow the play to be presented in two acts, although his preference is always for the single act version which he believes is far more effective.
+
+</aside>
+
+*Haunting Julia* opened on 20 April 1994 at the Stephen Joseph Theatre In The Round; barely more a month after *Communicating Doors* had closed and which was already attracting interest from London producers. It featured Ian Hogg as Joe, Adrian McLoughlan as Ken and Damien Goodwin as Andy. Despite Hogg’s powerful performance, it was not a completely satisfying experience in-the-round and Alan felt it had not reached its true potential.
+
+As was becoming increasingly common with Alan’s plays, reviews were polarised. Half the reviews extremely positive; half resoundingly negative. Arguably, critics were now divided between those who appreciated Alan’s increasing experiments with form and use of fantasy elements to explore his familiar themes, while others begrudged this and wanted a return to the ‘social realism’ of his early plays. Several of the more negative reviewers criticised the play for not being realistic - a slightly strange charge for a ghost story, particularly one whose success lies in the fact it is so bedded in reality - and found fault with elements of the casting.
+
+However, it was nominated for Best New Play in the TMA Regional Theatre Awards and the BBC did consider adapting it for radio in the immediate aftermath of its premiere.
+
+The initial plan was that *Haunting Julia* should have transferred to the West End - as had become common practice with Alan’s plays. Michael Codron had long been Alan’s most frequent West End producer and had been promised first option on the play although Duncan Weldon, who had just optioned *Communicating Doors* for the West End, also showed interest. Codron optioned the play in September 1994, but Alan had misgivings that the producer wasn’t committed to the play and was actually waiting for something more appealing to come along. A point emphasised when Alan wrote to the producer in July 1995 wondering when they might tackle the play and suggesting late 1996 as a possibility for him. However, the plans went no further and Alan would later note he felt *Haunting Julia* ‘had slipped between the cracks’, lost in the West End success of *Communicating Doors* in 1995 and the juggernaut of his and Andrew Lloyd Webber’s musical *By Jeeves* in 1996.
+
+This was an unsatisfactory conclusion for a play which Alan was convinced did have potential. As a result, although the publication and performance rights were acquired by Samuel French, he did not allow it to be published as he intended to return to it in the future. This happened in 1999, when Alan decided to revive it on the play’s fifth anniversary, but staged as originally intended in the end-stage McCarthy auditorium at the Stephen Joseph Theatre. Produced as intended with a strong cast of John Branwell as Joe, Richard Derrington as Ken and Bill Champion as Andy, the play fulfilled its early potential and became a far more satisfying experience. In the intimate end-stage space, the set-pieces were more effective and the play’s themes held their own against the supernatural elements of the play. The play would go onto a successful UK tour and Alan, in correspondence with Codron, hoped he would look again at the show in Scarborough with the possibility of taking it into London.
+
+<aside>
+
+**Behind The Scenes: Haunting London**  
+As of writing, *Haunting Julia* has had the longest gap between the world premiere production and its first London production. The play was first seen in Scarborough in 1994, but it would not be produced in London until 2011; this is despite the fact it was originally intended to transfer straight to London after its world premiere production.
+
+</aside>
+
+The only contentious aspect of this production was an alteration asked of Alan by the Stephen Joseph Theatre following its original production. The Accounts Department had noted how the original production of *Haunting Julia* had seen a substantial decline in bar takings due to the lack of an interval and it was asked whether Alan could insert one into the play. He agreed but would later note how he regretted the decision.
+
+*“I’ve said to the actors at previous productions, the greatest achievement would be for the audience to almost think they see Julia. Which is why there is no interval: there’s no way you can take 15 minutes from a séance to have a drink and come back and say: “Where were we? Was anybody there?”*
+
+When the play was eventually published in *Alan Ayckbourn: Plays 3* by Faber in 2005, this alteration was not included and the integrity of the one act version restored and made canon. Ever since Alan has made it clear *Haunting Julia* was written as and intended to be played as a one act play.
+
+Alan’s desire for the possibility of a West End transfer did seem more likely when Codron renewed his option on the play and discussed a production in 2000 (with, at one point, the mooted interest of David Jason as Joe) using the existing set from Scarborough (which was kept in storage for a year as a result). Again, the plans fell through and the play fell into limbo.
+
+In 2002, Alan wrote ***[Snake In The Grass](/plays/snake-in-the-grass)***, a thriller with supernatural overtones for three women. Alan was quick to note *Haunting Julia* and *Snake In The Grass* were companion pieces with a similar theme of how parents treat their children and the repercussions of this. Having written two supernatural pieces, Alan was then occasionally asked if he would ever write a third piece which would unite the companies of the two plays. This he did in 2008 when he presented *Haunting Julia* and *Snake In The Grass* alongside a third supernatural play ***[Life & Beth](/plays/life-and-beth)*** at the Stephen Joseph Theatre.
+
+The 2008 revival of *Haunting Julia* was directed by Richard Derrington, who had played Ken in the 1999 revival of the play. The production saw Ian Hogg and Adrian McLoughlin reprising the roles they created in the original production alongside Richard Stacey as Andy. It featured a more ambiguous interpretation of the play suggesting the manifestation of Julia may have been more a product of Joe's obsession rather than a real ghost (although this is a valid interpretation and the play has always been ambiguous as to what actually happens at the climax). Intriguingly it was also presented in the round, however Alan by this point felt he had solved the issue of how to stage it successfully in this space. In the play as written, much of the focus is on a door to Julia's former bedroom, which obviously works better in the end-stage where the entire audience can see what is happening behind the door at key moments. Alan's solution for the round was to turn the room into a loft bedsit which in Julia's time would have been accessed through a now disused trapdoor in the floor; the result was the entire audience could see the trapdoor and appreciate the supernatural set-pieces of the play. Well-received, the production toured to the New Victoria theatre, Newcastle-under-Lyme, following the Scarborough season.
+
+<aside>
+
+**Behind The Scenes: Not A Trilogy**  
+*Haunting Julia* is occasionally inaccurately referred to as part of the non-existent *Things That Go Bump* trilogy; Alan Ayckbourn has never referred to *Haunting Julia*, *Snake In The Grass* and *Life & Beth* as the *Things That Go Bump* trilogy and does not consider these three plays to be a trilogy. Contrary to what websites such as Wikipedia might report, there is no such thing as Alan Ayckbourn's *Things That Go Bump* trilogy.
+
+</aside>
+
+In 2010, a new chapter in the life of *Haunting Julia* began when the producers Andrew Hall and Tracey Childs expressed an interest in the play and staged its first major non-Stephen Joseph Theatre revival. Hall directed a well-received production at the Lichfield Garrick featuring Christopher Timothy as Joe, Richard O'Callaghan as Ken and Dominic Hecht as Joe. The success of the production saw it revived in 2011 at the Lichfield Garrick, prior to a transfer to the Riverside Studios in London. More than 16 years after its premiere and several frustrated attempts to take the play to London, *Haunting Julia* finally reached the capital.
+
+In autumn 2012, Andrew Hall also directed an extensive UK tour of the play, produced in association with Colchester's Mercury Theatre, with Duncan Preston as Joe, Richard O’Callaghan as Ken and Joe McFadden as Andy. A major revival of the play was also produced during autumn 2018 by the Queen's Theatre, Hornchurch, with Lucy Pittman-Wallace directing; Lucy previously directed - among other productions - an acclaimed revival of ***[Way Upstream](/plays/way-upstream)*** at Salisbury Theatre in 2011.
+
+In June 2013, *Haunting Julia* was also released for production by amateur companies having been published by Faber in the collected volume *Alan Ayckbourn: Plays 3*. In October 2018, it was published as an acting edition by Samuel French; this, strangely, was the two-act version and, as a result, Alan prefers the interval is ignored and the play treated as one-act.
+
+During December and January 2020, *Haunting Julia* was presented as never before as an audio play by the Stephen Joseph Theatre. Alan Ayckbourn produced the adaptation - directing, playing all the male roles and created the sound plot - during June 2020 before offering it to the SJT as a 'ghost story' for Christmas. This was the second of Alan's plays to be adapted into an audio play during 2020 following the world premiere of ***[Anno Domino](/plays/anno-domino)*** earlier in the year as a result of the Covid-19 pandemic which closed the UK's theatres. It generated positive reviews including a four-star review from The Guardian and the Wall Street Journal which led to the run of the stream being extended by a month.
+
+*Haunting Julia* may never have reached the heights of other plays of this period such as *Communicating Doors* and ***[Things We Do For Love](/plays/things-we-do-for-love)***, but it remains a favourite of the author and one of his most interesting plays of the 1990s, whose popularity has steadily grown in recent years.

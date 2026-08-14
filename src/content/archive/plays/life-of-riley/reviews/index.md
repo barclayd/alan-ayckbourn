@@ -1,0 +1,60 @@
+---
+title: "World Premiere Reviews"
+source: "http://lifeofriley.alanayckbourn.net/styled-6/"
+order: 1975
+play: "life-of-riley"
+---
+
+*This page contains a selection of reviews from the world premiere production of Alan Ayckbourn's Life Of Riley at the Stephen Joseph Theatre, Scarborough, in 2010. All reviews are the copyright of the respective publication and / or author.*
+
+**Mirth And Misery In Middle Britain** (by Libby Purves)  
+We never see George Riley: maverick, charmer, "a hippy Peter Pan" who with a terminal cancer prognosis retains a taste for emotional mayhem. We just see his effect on three couples in Alan Ayckbourn's new play: ineffectual Colin the GP and Kathryn his briskly disappointed wife, rich Jack and his tolerant bruised Tamsin, and Riley's ex-wife Monica who has run off with a farmer. George himself remains a troubling, desirable enigma.  
+There are other invisibles: a small boy, a teenage daughter, someone dead called Basil Bender, and a bossy am-dram director (three characters, symbolically, are acting in her awful play). Ayckbourn breezily says that offstage characters are a cheap way of amplifying his imaginary world: true. In the round, you get a pleasing sense that they might be here, among the half-seen faces opposite.  
+All six players are immaculate: especially Liza Goddard as Kathryn and Kim Wall as Colin. He plays beautifully against sharp-featured unreliable Jack (Ben Porter) and the best laugh comes when, as a teenage party rages, Jack talks of rock heroes and Colin admits to Donovan and Julie Felix, attempting a tragic little dad-shuffle. Music matters in this play: there are three or four highly significant interludes of old Pink Floyd, who now clearly have the all-our-yesterdays charm which used to belong to Bing and Sinatra.  
+There are deliberately fewer gales of laughter than some Ayckbournians will be expecting, especially in the first half. The players are, as ever, mirrors to middle Britain set amid familiar garden furniture, but under the shadow of an imminent death each reveals a separate lonely sadness. In a frank programme note the author avers that his mother's marriages gave him, as a boy, "an exhaustive knowledge of miserable relationships perceived through the women's eyes", and he makes full use of it. Monica, the runaway wife, describes the frustration of quarrelling with a man who never learns; near the end of the first act there is an almost Chekovian exchange between the two other women. George, the troublemaker, is the focus of all regrets and yearnings.  
+It's a thoughtful play, despite a wicked denouement (I guessed, but never mind). Why not? A septuagenarian writer-director - on his 74th premiere - has a right to mine any seam. One phrase I cherish comes from Colin, muttering in tipsy confusion about those who sow "Wild oats... wild porridge?" Ah yes: with middle age all our wild oats do become porridge. Sticky and unappealing when cold, devilish hard to scrape off the pan. But death pays all debts: the end is moving.  
+*(The Times, 22 September 2010)*
+
+**Life Of Riley** (by Charles Spencer)  
+This is Alan Ayckbourn’s 74th play, which means he has now written twice as many as Shakespeare. And, amazingly, he’s still coming up with new ideas.  
+Off-stage characters have often played a big part in Ayckbourn’s work, so vividly described by those on stage that the mere mention of them can raise a laugh. But, according to the great man himself, this is the first time an unseen character has “featured as a - if not the - principal protagonist” in one of his plays. The man in question is one George Riley, a popular schoolteacher with a passion, like Ayckbourn, for Pink Floyd. And he’s dying. A few months to live, tops.  
+As his friends, his wife, from whom he is separated, and a former lover try to get to grips with this momentous news, George begins to create all kinds of chaos in their lives. He takes part in an amateur theatrical production - the play, we realise, is Ayckbourn’s own first West End hit, *Relatively Speaking* - and one of the actresses, the wife of George’s best friend, begins to play the love scenes a little too enthusiastically, because her husband is having his own bit on the side. Meanwhile George’s estranged wife and the former lover become bitter rivals in their competitive attempts to see who can do most for him.  
+We feel we know George well. He’s clearly not much different from Norman in *The Norman Conquests* - likeable, romantic, inarticulate about his feelings, and utterly feckless. At one point he is described as “a kind of hippie Peter Pan”, one of those typical Ayckbourn males who have somehow reached adulthood without growing up, and when he invites all three women to join him on a last holiday in the Canary Islands, the other men in their lives are appalled.  
+Although this is good Ayckbourn, it isn’t quite great Ayckbourn. The exposition plods a bit, there is a feeling that the dramatist is revisiting themes he has handled more potently elsewhere, most notably in that devastating study of the sheer embarrassment of death, *Absent Friends*, and the show never quite rises to one of those blissful Ayckbourn climaxes in which it becomes physically impossible to stop laughing.  
+But the human observation is as perceptive as ever, and Ayckbourn directs a production full of fine performances.  
+Laura Doddington is especially compelling as Tamsin, superficially a flashy footballer’s-wife type with her estuary accent and smart sports car, but full of generosity of spirit and suffering grievously from the infidelity of her crassly insensitive philandering husband, played with gravel-voiced malignity by Ben Porter.  
+Liza Goddard is excellent, too, as Kathryn, Riley’s former lover, who is driven to secret drinking by her doctor husband’s almost total emotional inadequacy, though it is characteristic of Ayckbourn that, in Kim Wall’s touching performance, there is no doubt of his basic decency and his own inner hurt.  
+As Pink Floyd’s moving *Wish You Were Here* plays in the final scene, it is clear that Ayckbourn has once again achieved a satisfyingly rich, tragi-comic complexity.  
+*(Daily Telegraph, 22 September 2010)*
+
+**Life Of Riley** (by Clare Brennan)  
+As always with Alan Ayckbourn, the setting - four corners of the stage as four very different gardens - reflects the class, status and temperaments of a clutch of suburban married couples in varying degrees of crisis. As so often, the scale of his characters' passions is gauged to fit the contours of their middle-class, middle-aged lives, hedged about by embarrassments, incoherences, repressions and seeping secrets. As ever, the dialogue is… but, hang on, this isn't simply a familiar Ayckbourn exchange of banal conversation about marmalade cleverly communicating chills of marital stagnation; it's a dialogue from *Relatively Speaking*, his 1965 hit (and first of many punning titles).  
+In *Life of Riley*, his 74th play, the characters fatefully involve their fun-loving, non-conforming friend George Riley in their am-dram Ayckbourn, hoping it will distract him from news that cancer leaves him just six months to live. Although, like Beckett's Godot, Riley never appears, the ripples of his existence perturb the marriages of those closest to him. Masterfully crafted, well acted, ultimately touching, but a vital spark, like the titular hero, is absent.  
+*(The Observer, 26 September 2010)*
+
+**Life Of Riley** (by Ron Simpson)  
+In his 74th play Alan Ayckbourn sees no need to do things the easy way. Who else, working on a limited in-the-round space, would demand a set of a farmyard and three gardens (superbly designed by Michael Holt) and then use it with effortless flexibility? Then there’s the main character: George Riley of *Life of Riley* disrupts the lives of six people, but never actually appears!  
+Any Ayckbourn play is certain to be ingenious and witty and infused with an appealing mixture of warmth and cynicism. So it is with *Life of Riley*, but this is one of Sir Alan’s modest successes, not one of his major triumphs. The pace sometimes slackens and the wheels that drive the plot are more apparent than in the finest Ayckbourn.  
+Local GP Colin accidentally reveals that charming, but feckless, schoolteacher George Riley is dying of cancer. As the local dramatic society rehearse Ayckbourn’s own *Relatively Speaking*, George joins the cast and spreads emotional mayhem among the already fragile marital relationships.  
+A well-matched ensemble of six actors includes Scarborough regulars Laura Doddington and Liza Goddard, both pitching their performances with typical precision, and Kim Wall, beautifully droll as the amiable doctor puzzled by the strange ways of humans.  
+*(whatsonstage.com, 22 September 2010)*
+
+**Life Of Riley** (by Charles Hutchinson)  
+Living the life of Riley may usually mean living easily without having to work hard, but in Alan Ayckbourn’s 74th play the life of Riley is about to be extinguished.  
+He has six months left on this mortal coil and, as it turns out, he will live it to the full, as he plots one final farewell to benefit his friends.  
+We never see George Riley, although he is omnipresent, affecting everything and everyone around him, in his function as a cipher.  
+Colin (Kim Wall) is the enervated doctor with the tactless tongue who accidentally lets slip George’s imminent fate to his gossiping wife Kathryn (Liza Goddard). Play-away self-made businessman Jack (Ben Porter) takes the news worse, his relationship already raw with model Essex wife Tamsin (Laura Doddington, in Posh Spice mode).  
+George’s wife, teacher Monica (Laura Howard) has not long walked out on him for the farming life with taciturn Simeon (Jamie Kenna) and is burdened with inevitable guilt.  
+George, meanwhile, blithely sails on, agreeing to step into an amateur production of *Relatively Speaking* (Ayckbourn’s first Scarborough play\*, in a nostalgic nod to his past, but one where the connection goes no deeper than being another Ayckbourn relationship comedy, although it allows him a few digs at his early writing style).  
+Not for the first time, aside from the unseen George, Ayckbourn’s men cut impotent, blinkered, earth-bound figures. Not for the first time either, the women are frustrated: Kathryn drinks in not-so-secret; Monica thought the fields would be greener on the other side; Tamsin knows her feckless husband is cheating. George has played a part in all their lives, a long time ago in Kathryn’s case and newly so for Tamsin at rehearsals, while the embers still burn in Monica.  
+One invitation, extended separately to all three, will bring matters to a head, but who is George? How old is he, and apart from his maverick streak, who really knows him? Not his friends; Jack, for example, tries a eulogy early on but talks about himself.  
+Not the audience members, busy filtering their own secrets and doubts into the play; and not the vicar at the funeral finale (voiced by Ayckbourn, incidentally), who admits he never knew him.  
+The ending - or what feels like several endings - is symptomatic of a rueful comedy that holds its aces back for the second half, but then plays the joker, only to switch to Tarot cards for the grim reaper’s call.  
+Ayckbourn has compared his new play to a pastoral symphony, and certainly it has its quiet moments, and the humour is wry, yet the very end is darker, amid tears and white flowers.  
+From feeling the relationships may pull through, the mood changes to fearing Ayckbourn’s cupboard of unhappy couples will be fuller than ever.  
+Pink Floyd’s ornate, heavy music seems a personal indulgence, but Ayckbourn’s cast is a delight again, just as they were in *Communicating Doors*, Goddard in particular.  
+*(The Press, 23 September 2010)*
+
+*\* Relatively Speaking was in fact the fifth of Alan Ayckbourn's plays to premiere in Scarborough. His first Scarborough play was The Square Cat (1959), which was also his first professional play.*
+
+*All reviews are copyright of the respective publication.*

@@ -1,7 +1,7 @@
 ---
 title: "Articles by Other Authors"
 source: "http://absurdpersonsingular.alanayckbourn.net/page-2/page-9/"
-order: 667
+order: 1085
 play: "absurd-person-singular"
 ---
 

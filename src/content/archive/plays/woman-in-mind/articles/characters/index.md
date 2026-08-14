@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://womaninmind.alanayckbourn.net/styled-6/styled-16/"
-order: 715
+order: 1424
 play: "woman-in-mind"
 ---
 

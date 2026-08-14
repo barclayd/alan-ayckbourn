@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1980"
 source: "http://biography.alanayckbourn.net/styled-22/page59/"
-order: 56
+order: 274
 ---
 
 **[\<\<\< Previous page](/life/chronology/1979)**
@@ -18,7 +18,7 @@ order: 56
 
 During 1980, Alan Ayckbourn…
 
-○ wrote ***[Suburban Strains](/plays/suburban-strains)*** with Paul Todd, his first full length musical since ***[Jeeves](/plays/jeeves)*** in 1975; it premiered at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**.
+○ wrote ***[Suburban Strains](/plays/suburban-strains)*** with Paul Todd, his first full length musical since ***[Jeeves](/plays/jeeves)*** in 1975; it premiered at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**.
 
 ○ announced a new play, a thriller *Sight Unseen*, but unforeseen difficulties subsequently led to him writing a completely different play ***[Season's Greetings](/plays/seasons-greetings)***.
 

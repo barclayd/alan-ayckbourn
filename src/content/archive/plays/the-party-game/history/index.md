@@ -1,0 +1,43 @@
+---
+title: "History"
+source: "http://thepartygame.alanayckbourn.net/styled/"
+order: 2297
+play: "the-party-game"
+---
+
+*The Party Game is the most notable of Alan Ayckbourn's plays written prior to his first commission. However, it is not acknowledged as part of the official play canon and the author regards merely as a piece of early writing indicative only of his early attempts at playwriting. It has not been published and is not available for production.*
+
+*The Party Game* is a one act play by Alan Ayckbourn which was discovered in a loft in Scarborough in 2007. There are very few verifiable or known facts about the play - as the playwright has barely any recollection of it - and all that can be said with any confidence is it was written prior to 1959 - in all likelihood in the latter part of 1958, that it predates his first professional play ***[The Square Cat](/plays/the-square-cat)***, it has never been performed and that at some point it was offered for production to an amateur company in Scarborough, who turned it down.
+
+Anything else that can be said about *The Party Game* is purely conjecture and cannot be backed up by fact. It is more than likely one of a number of plays written by Alan as a 16 - 17 year old interested in writing and experimenting with different forms. It is notable for showing an early eye for writing characters.
+
+*"I can't actually recall a word of the play or the characters, so presumably the thing sank without trace back into my subconscious for several decades. Who can fathom the mysteries of the author's jumbled mind? Certainly never the author himself!"  
+Alan Ayckbourn, 2008*
+
+In 2010, the first ever public read-through of *The Party Game* was held at Scarborough Public Library in The Concert Room where the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** was based between 1955 and 1976. Participants from the Ayckbourn 2010 weekend event took the parts under the direction of Paul Elsam, who had discovered the manuscript in 2007, with Alan Ayckbourn's Archivist Simon Murgatroyd as dramaturge. This reading was approved by the playwright with the understanding it would be both the first and final public performance of the play. *The Party Game* is not available to produce nor will it ever be published.
+
+The play centres on a cocktail party focusing on the guests, it is restricted to one room with the exception of a prologue and epilogue where the characters are shown in their own homes. There is no plot or narrative as such with the play focusing on the interaction and relationships of the characters, who are anticipating the arrival of a noted critic who, although much referenced, does not turn up. The play's main focus is on the relationship between a university student Michael, his mother and a girl who Michael befriends as well as a secretary Caroline who has had an affair with an older married man, also at the party, and her friendship with the bohemian writer Julian.
+
+### Introduction To The Party Game by Simon Murgatroyd
+
+*Note: The following essay is adapted from an introduction to The Party Game given by Alan Ayckbourn's Archivist Simon Murgatroyd, prior to its first public reading at the Ayckbourn 2010 event at Scarborough Library on 10 October 2010.*
+
+In 2007, an unlikely discovery was made in the unlikeliest of places. A lost Ayckbourn play of which no record existed was found in a loft in Scarborough by Paul Elsam, a specialist on the life and work of Alan Ayckbourn's mentor Stephen Joseph.
+
+The play was *The Party Game* and if it sounds unfamiliar, that is because it’s a play so rare that even Alan Ayckbourn had forgotten about it. It has never previously been performed or published and to this day it remains one of a select number of early Ayckbourn plays which although acknowledged by the playwright, it is not officially recognised in any part of the Ayckbourn canon.
+
+There exists only a single surviving manuscript, attributed in a hand-written note on the cover to Roland Allen, Alan’s pseudonym for the first three years of his writing career. So what is *The Party Game*?
+
+Practically nothing can be said with real authority about the play, as Alan himself has only the vaguest recollections of writing it and there is no surviving archival information on it. What is certain is that it was in existence by the end of 1958 and that Alan offered it to a Scarborough amateur dramatic society called The Outsiders, probably in 1959. It was read by Margaret Boden, wife of Scarborough's Theatre in the Round at the Library Theatre manager Ken Boden, who turned the play down. It was intended for end-stage performance, although the manuscript states - slightly unconvincingly - it could be performed in the round (understandable given The Library Theatre was in-the-round), for a cast of 10 actors, four male and six female.
+
+The plot revolves around a group of people invited to a party and their interactions, although nothing of particular note happens with the evening dominated by the possibility of the arrival of an influential cinema critic who does not turn up. The characters of interest are the young man Michael, attracted to a young woman at the party much to his mother's irritation, and Caroline, the ex-lover of a bank manager who is attending with his much abused wife. Structurally, the play is at its most interesting in the final scene, when with the party over, each of the characters is highlighted in turn, alone with the exception of Michael. This powerful moment bears very distinct similarities to the climax of Alan Ayckbourn's acclaimed 2004 play ***[Private Fears In Public Places](/plays/private-fears-in-public-places)*** which also ends with each character being highlighted in turn by a spot, emphasising their isolation from other people and the world at large.
+
+Everything else that can be said about the play is conjecture - although the conjecture is largely supported by Alan Ayckbourn himself. The playwright is certain it was written in advance of his first professional commission *The Square Cat*, which we know he was working on between January and March 1959. It can also be no later that this date because it stands apart from all that followed that bears the Roland Allen name.
+
+Unusually for any Ayckbourn manuscript - including his earliest professional commissions - *The Party Game* is riddled with grammatical inconsistencies as well as copious and often very specific stage directions. It is an Ayckbourn manuscript unlike any other. Thematically, it is also unusual as the Roland Allen plays - whether for professionals or amateurs - are broad comedies, verging on farce. *The Party Game* is sporadically funny, but is largely an observation of characters - although I would hesitate to say a character-driven play. There is little in the way of plot and the development of characters is largely limited to Michael and Caroline. The strong emphasis on through-plot and structure which is such an integral part of Alan’s early writing is also lacking.
+
+All this points to *The Party Game* being almost certainly a rare surviving example of Alan’s early writing. He is known to have written approximately 10 plays prior to *The Square Cat* during the period 1957 - 1958, several of which emulated other writers such as Ionesco and Pirandello. *The Party Game* almost certainly comes from this experimental period when Alan was formulating his early playwriting experiences.
+
+Whether this play is inspired by or trying to emulate another writer is more difficult to say. The title of *The Party Game* plausibly suggests a Pinter influence - interesting in itself given that during Christmas 1958 Alan was directed by Pinter in only the second production of *The Birthday Party*, which toured in early 1959. However, the playwright is certain that were *The Party Game* thus inspired, he would remember it as such; from interviews it is clear Alan’s memories of working with Pinter are particularly keen.
+
+From an archival perspective, *The Party Game* is an intriguing curiosity. It offers no great insights into Alan’s early career as a writer, but it has moments of interest and in the fractured relationships between Michael and his mother and Caroline and her ex-lover and his wife, we can see very early attempts at material which will later become quintessentially Ayckbourn. It's prime significance though is it is only one of two plays by Alan Ayckbourn known to have survived which pre-date his first professional commission and thus, if nothing else, it offers an insight into his early development as a writer.

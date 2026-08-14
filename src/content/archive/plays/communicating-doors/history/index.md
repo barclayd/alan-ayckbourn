@@ -1,0 +1,72 @@
+---
+title: "History"
+source: "http://communicatingdoors.alanayckbourn.net/styled-2/"
+order: 1608
+play: "communicating-doors"
+---
+
+*Communicating Doors* was written in 1993 and is Alan Ayckbourn's 46th play. It is one of his rare forays into the comedy-thriller genre and is one of his most optimistic plays. It is also not the play Alan originally intended to write.
+
+<aside>
+
+**Behind The Scenes: Tempting Fate**  
+The advertising copy supplied by Alan Ayckbourn for *Private Fears In Public Places* also featured a hand-written note at the end, which - considering what happened - could well be described as tempting providence: "By the time I get round to writing it, it'll probably be about eight obstetricians trapped in a lift" (see **[Images](/plays/communicating-doors/images)** for the original memo).
+
+</aside>
+
+In June 1993, Alan Ayckbourn provided the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough, with the brochure copy for his new as yet unwritten play, ***[Private Fears In Public Places](/plays/private-fears-in-public-places)***. It was advertised in the theatre's winter 1993 brochure with the intriguing taster: "At the airport, Jessica waves a fond farewell to her husband. Then a chance encounter changes her life. How well does she know the man she married? How much can she trust him? How well does she know, how well can she trust herself?" Sadly, no-one ever found out as despite being publicised and tickets having gone on sale, the play was never produced.
+
+When Alan later came to write the play, he was alarmed to find that it "began coming to pieces in my hands." With a deadline looming and no play, preparations were made to revive an earlier play, but then he had an idea for a time-travelling thriller which became *Communicating Doors*. As for *Private Fears In Public Places*, Alan put the title away eventually writing an acclaimed play in 2004 with the title - again totally unrelated to the original idea.
+
+<aside>
+
+**Behind The Scenes: Stop The Press!**  
+Alan's decision to not write *Private Fears in Public Places* was taken at the worst possible moment as far as the theatre's press officer Jeannie Swales was concerned! The call came on the same day that the winter brochure went to print and she was unable to stop it, as she recalls here.  
+"That damned phone call! Alan's wife, Heather, in a phone box (this was before the days when everyone had a mobile), in Scotland, on a Friday evening! After three or four attempts, I managed to get someone to pick the phone up at the printers (it was probably 7.30pm by then), who basically said he was security, and it was nothing to do with him, and he didn’t know how to get my message to anyone who could help…. it was so frustrating! Still, it makes for a good story…"
+
+</aside>
+
+*Communicating Doors* emerged as a light and unexpectedly optimistic play which questioned what lies behind the communicating doors in hotels. Alan's answer was not an entrance to the adjoining suite, but a doorway through time. It was partly inspired by J.B. Priestley's time-travelling plays, which Alan is known to be fond of, but it is undoubtedly also a homage to Alan's love of film. The play obviously and deliberately references films such as *Psycho*, *Back To The Future* and *Carrie* among others; two of the most obvious references in the play emphasise this with the *Psycho* inspired moment of the mother-fixated killer and Ruella’s warning to Reece’s first wife achieved by handing a letter over with details of the future, mimicking Marty McFly’s letter to Doc Brown in *Back To The Future*.
+
+There was also a heavy influence from his family plays. Since 1988, Alan had had considerable success writing plays intended for the family starting with ***[Mr A's Amazing Maze Plays](/plays/mr-as-amazing-maze-plays)***. The plays easily incorporated fantasy elements and encouraged by his success, he began to subtly introduce more fantastical elements into his adult work in plays such as ***[Body Language](/plays/body-language)*** and ***[Wildest Dreams](/plays/wildest-dreams)***. *Communicating Doors* continued down this path and is, objectively, a science-fiction play reliant on a plot device of time-travel. Alan was well aware though that advertising a play as science fiction was probable box office death, so chose not to mention the genre and to treat the time-travel aspect in a very matter of fact and ordinary way. He does not draw attention to or explain it. The audience is given enough information to understand that a person can travel to the same room 20 years ago and back to their own time; but they are not overwhelmed with technology or the sci-fi elements and just given enough to accept and understand what is taking place. Essentially the time-travelling is just a device in order for Alan to tell his story of how people can choose to change their lives.
+
+*Communicating Doors* is also notable as being one of Alan’s few plays that has a distinctly happy ending with Phoebe’s entire life having been altered for the better. However, while some critics accused Alan of going soft in his writing by suggesting a happy ending was possible, Alan’s biographer Paul Allen makes the perceptive comment that although the ending is happy, Alan keeps it from sentimentality and in more familiar territory by refusing to allow Phoebe and her ‘new’ mother to be reunited on stage, with Ruella having died prior to Phoebe’s arrival back in her own time.
+
+<aside>
+
+**Behind The Scenes: Original Concepts**  
+Unusually, a highly detailed synopsis of Alan Ayckbourn's original concept for *Communicating Doors* survives in the Ayckbourn Archive. Although essentially the same, there are a couple of notable differences. Julian dies of a heart-attack whilst trying to throw Poopay out of the window in the present and - despite altering time - Poopay is not adopted by Reese and is still a prostitute at the play's climax.
+
+</aside>
+
+The play opened at the Stephen Joseph Theatre In The Round, Scarborough, in 1994 to a practically sold-out run. The critics were generally all positive - with the caveat this was a lightweight Ayckbourn play. Many critics - both in Scarborough and in London - seemed obsessed with the trivialities of the time-travel which seem irrelevant in the context of both the play and the fact that no-one - as far as this writer is aware - has ever travelled in time to prove or disprove the effects of time-travel! It was a very successful play though and having run for a month in February, it was revived for the spring / summer season. From there the company took the play immediately to the International Theatre Festival Of Chicago, where the play was warmly received and Alan and the company drew much attention. This perhaps explains why *Communicating Doors* has always been a popular and frequently revived play in America. This was despite a unique first night which was unable to proceed due to the actress Adie Allen being unwell. Instead Alan took to the stage, explained the situation and offered to talk to the audience and take questions in lieu of the cancelled performance. Three hours later, he left the stage with no-one apparently asking for their money back for the evening!
+
+There was immediate interest in transferring the play to London, although it was driven by the producer Duncan C Weldon, who had never previously worked with Alan. It was an interesting period for Alan with regard to London. His most recent venture into the West End had been the two-part ***[The Revengers' Comedies](/plays/the-revengers-comedies)*** in 1991 with his regular London producer Michael Codron, but the play - always likely to be a financial risk - had not been a success. The only foray Alan had made into London since was to direct *Wildest Dreams* for the Royal Shakespeare Company at The Pit in the Barbican. Although Codron came to see *Communicating Doors* and showed interest in putting it on in London, Alan decided to let Weldon produce the play, which would have a short pre-West End tour before opening at the Gielgud Theatre, London, in August 1995.
+
+<aside>
+
+**Behind The Scenes: Poster Vendetta**  
+The company which designed the original poster for *Communicating Doors* appears to have utilised elements from the comic book *V For Vendetta*; at the time this was an extremely obscure comic book and the use of the images would not have been recognised by the Stephen Joseph Theatre In The Round nor the public at large. However, since then *V For Vendetta* has become regarded as a classic of British comic writing, been republished numerous times and the poster similarities have become rather more obvious (see **[Images](/plays/communicating-doors/images)** for the original poster).
+
+</aside>
+
+The play transferred with Aidie Allen reprising her role of Poopay from Scarborough with Julia McKenzie playing Ruella. McKenzie had previously appeared to much acclaim in the West End premiere of Ayckbourn's ***[Woman In Mind](/plays/woman-in-mind)*** and had also originally caught Alan's eye after playing Diana in the television adaptation of his play ***[Absent Friends](/plays/absent-friends)***. Both actresses received extremely good reviews, but the critics were far more mixed in their opinions about the play ranging from excellent to poor. As was usual at the time, the show and the company were on a six month contract and the play was successful enough for a decision to extend the run with a new company, despite meaning it would have to transfer to a new venue. Previous experiences in London, particularly with ***[Man Of The Moment](/plays/man-of-the-moment)*** in 1990, had left Alan wary of recasting his plays and extending their runs beyond a natural life (particularly if the original company had been as strong as the *Man Of The Moment* company). Experience had taught him that recasts of plays (not just his own) were often rushed and did not have the best interests of the company or the play at heart, rather often being motivated by the financial desire to milk the play as much as possible. *Man Of The Moment* had limped to the end of its second six month run and Alan was presumably concerned the same did not happen to *Communicating Doors*.
+
+The transfer took place though and opened at the Savoy Theatre on 29 January 1996 with Angela Throne playing Ruella and Jane Slavin cast as Poopay. Only Ken Bones remained from the original cast in the role of the psychopathic Julian. The play ran until 27 July 1996 but was not extended again. The London production of *Communicating Doors* went on to win Alan the Writers' Guild Of Great Britain award for Best West End Play and it was also nominated for the Olivier Award for Best Comedy.
+
+*Communicating Doors* has proved to be one of Alan's most popular and enduring plays from the 1990s and is frequently staged by both professional and amateur companies; it has also proved to be particularly popular in international markets. Inevitably given the nature of the play there has been interest in adapting it into film, which Alan has always declined and struggled to reconcile with the play. He had frequently noted that the play was loosely but obviously inspired by the movies *Psycho* and *Back To The Future*, both classics of their own particular genre, and that it was pointless making a film that would be neither original and in all likelihood unable to top its source material.
+
+<aside>
+
+**Behind The Scenes: Original Concepts**  
+Apparently, the hotel in the play was inspired by the Savoy Hotel in London. One hopes that, in reality, its rooms are decorated more often than the forty years without change suggested by the play….
+
+</aside>
+
+It is worth noting the cinematic influence also played another large part in the creation of the original play in that Alan wanted the equivalent of a film score to accompany the action. To this end he commissioned the Stephen Joseph Theatre In The Round's musical director John Pattison to create an accompanying score. In his Ayckbourn biography *Grinning At The Edge*, Paul Allen notes how Pattison was present at all the rehearsals, composing on a keyboard and through head-phones as the scenes developed in front of him. Subtly, he would begin introducing music into the rehearsals with Alan giving the nod or not whether it was suitable. As Allen notes "a score was developing alongside the text." The final score, which played an essential part in the success of the play, naturally includes a subtle nod to Bernard Hermann's long since immortalised score from *Psycho*. John Pattison would return to the play in 2010 to score Alan's revival of the play at the Stephen Joseph Theatre, Scarborough.
+
+In 1998, *Communicating Doors* opened in New York, off Broadway, at the Variety Arts Theatre. Directed by Christopher Ashley it featured the rising (and now firmly established) star Mary Louise Parker as Poopay with David McCallum (still remembered for television's *The Man From UNCLE* amongst a long stage and screen career) as the hotel's security guard Harold. In the same year it was produced in Paris and was the first Ayckbourn play to be recognised by the prestigious Molière Awards, winning Best Comedy. The play also featured Zabou Breitman, who would play the French-speaking role of Lucille in Alan's production of ***[House & Garden](/plays/house-and)*** at the National Theatre, London, in 2000.
+
+In 2010, Alan Ayckbourn returned to the play for the first time since 1995 with a revival at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, starring Liza Goddard as Ruella. The play was presented unaltered aside from one small change to the years the time travellers visit. When *Communicating Doors* opened in 1994, the present day scenes were contemporary meaning the play's future-set scenes took place in 2014. With 2014 now very close and no sign of civil war in London, Alan changed the dates so the present day scenes were again contemporary to 2010 with the future scenes set in 2030. It was received with excellent reviews, consistently stronger than the world premiere production in Scarborough, and the production also toured in 2011.
+
+in 2015, the Menier Chocolate Factory in London revived the play with Lindsay Posner directing a cast which included Imogen Stubbs and Matthew Cottle, illustrating the continuing popularity of the play.

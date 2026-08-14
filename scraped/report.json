@@ -1,351 +1,694 @@
 {
-  "scrapedAt": "2026-08-13",
+  "scrapedAt": "2026-08-14",
   "hosts": [
+    "www.alanayckbourn.net",
     "biography.alanayckbourn.net",
     "careers.alanayckbourn.net",
+    "encyclopedia.alanayckbourn.net",
+    "publications.alanayckbourn.net",
+    "research.alanayckbourn.net",
+    "thesquarecat.alanayckbourn.net",
+    "loveafterall.alanayckbourn.net",
+    "dadstale.alanayckbourn.net",
+    "standingroomonly.alanayckbourn.net",
+    "christmasvmastermind.alanayckbourn.net",
+    "mrwhatnot.alanayckbourn.net",
     "relativelyspeaking.alanayckbourn.net",
+    "thesparrow.alanayckbourn.net",
+    "howtheotherhalfloves.alanayckbourn.net",
+    "familycircles.alanayckbourn.net",
+    "timeandtimeagain.alanayckbourn.net",
     "absurdpersonsingular.alanayckbourn.net",
     "thenormanconquests.alanayckbourn.net",
+    "absentfriends.alanayckbourn.net",
+    "confusions.alanayckbourn.net",
+    "jeeves.alanayckbourn.net",
+    "bedroomfarce.alanayckbourn.net",
+    "justbetweenourselves.alanayckbourn.net",
+    "tentimestable.alanayckbourn.net",
+    "jokingapart.alanayckbourn.net",
+    "sisterlyfeelings.alanayckbourn.net",
+    "takingsteps.alanayckbourn.net",
+    "suburbanstrains.alanayckbourn.net",
+    "seasonsgreetings.alanayckbourn.net",
+    "wayupstream.alanayckbourn.net",
+    "makingtracks.alanayckbourn.net",
+    "intimateexchanges.alanayckbourn.net",
+    "itcouldbe.alanayckbourn.net",
+    "achorusofdisapproval.alanayckbourn.net",
     "womaninmind.alanayckbourn.net",
-    "familyalbum.alanayckbourn.net"
+    "asmallfamilybusiness.alanayckbourn.net",
+    "henceforward.alanayckbourn.net",
+    "manofthemoment.alanayckbourn.net",
+    "mrasamazing.alanayckbourn.net",
+    "therevengerscomedies.alanayckbourn.net",
+    "invisiblefriends.alanayckbourn.net",
+    "bodylanguage.alanayckbourn.net",
+    "thisiswherewecamein.alanayckbourn.net",
+    "callisto5.alanayckbourn.net",
+    "wildestdreams.alanayckbourn.net",
+    "myveryownstory.alanayckbourn.net",
+    "timeofmylife.alanayckbourn.net",
+    "dreamsfromasummerhouse.alanayckbourn.net",
+    "communicatingdoors.alanayckbourn.net",
+    "hauntingjulia.alanayckbourn.net",
+    "themusicaljigsawplay.alanayckbourn.net",
+    "awordfromoursponsor.alanayckbourn.net",
+    "thechampionofparibanou.alanayckbourn.net",
+    "thingswedoforlove.alanayckbourn.net",
+    "comicpotential.alanayckbourn.net",
+    "theboywhofell.alanayckbourn.net",
+    "houseandgarden.alanayckbourn.net",
+    "virtualreality.alanayckbourn.net",
+    "whenever.alanayckbourn.net",
+    "damselstrilogy.alanayckbourn.net",
+    "gameplan.alanayckbourn.net",
+    "flatspin.alanayckbourn.net",
+    "roleplay.alanayckbourn.net",
+    "snakeinthegrass.alanayckbourn.net",
+    "thejollies.alanayckbourn.net",
+    "sugardaddies.alanayckbourn.net",
+    "orvin.alanayckbourn.net",
+    "mysistersadie.alanayckbourn.net",
+    "drowningondryland.alanayckbourn.net",
+    "privatefears.alanayckbourn.net",
+    "missyesterday.alanayckbourn.net",
+    "improbablefiction.alanayckbourn.net",
+    "ifiwereyou.alanayckbourn.net",
+    "lifeandbeth.alanayckbourn.net",
+    "awakingbeauty.alanayckbourn.net",
+    "mywonderfulday.alanayckbourn.net",
+    "lifeofriley.alanayckbourn.net",
+    "neighbourhoodwatch.alanayckbourn.net",
+    "surprises.alanayckbourn.net",
+    "arrivalsanddepartures.alanayckbourn.net",
+    "roundelay.alanayckbourn.net",
+    "heroswelcome.alanayckbourn.net",
+    "consumingpassions.alanayckbourn.net",
+    "abriefhistoryofwomen.alanayckbourn.net",
+    "betteroffdead.alanayckbourn.net",
+    "birthdayspastbirthdayspresent.alanayckbourn.net",
+    "annodomino.alanayckbourn.net",
+    "the-girl-next-door.alanayckbourn.net",
+    "alllies.alanayckbourn.net",
+    "familyalbum.alanayckbourn.net",
+    "welcometothefamily.alanayckbourn.net",
+    "constantcompanions.alanayckbourn.net",
+    "showandtell.alanayckbourn.net",
+    "earthangel.alanayckbourn.net",
+    "thetrialofromeooscar.alanayckbourn.net",
+    "countdown.alanayckbourn.net",
+    "acutintherates.alanayckbourn.net",
+    "thewestwoods.alanayckbourn.net",
+    "farcicals.alanayckbourn.net",
+    "noknowing.alanayckbourn.net",
+    "ernies.alanayckbourn.net",
+    "insideoutside.alanayckbourn.net",
+    "gizmo.alanayckbourn.net",
+    "theprincessandthemouse.alanayckbourn.net",
+    "thetenmagicbridges.alanayckbourn.net",
+    "mirandasmagicmirror.alanayckbourn.net",
+    "thegirlwholosthervoice.alanayckbourn.net",
+    "atriptoscarborough.alanayckbourn.net",
+    "tonsofmoney.alanayckbourn.net",
+    "wolfatthedoor.alanayckbourn.net",
+    "theforest.alanayckbourn.net",
+    "dearuncle.alanayckbourn.net",
+    "menonwomen.alanayckbourn.net",
+    "firstcourse.alanayckbourn.net",
+    "secondhelping.alanayckbourn.net",
+    "memyselfandi.alanayckbourn.net",
+    "incidentalmusic.alanayckbourn.net",
+    "sevendeadlyvirtues.alanayckbourn.net",
+    "boymeetsgirl.alanayckbourn.net",
+    "meresoupsongs.alanayckbourn.net",
+    "cheapandcheerful.alanayckbourn.net",
+    "thedivide.alanayckbourn.net",
+    "servicenotincluded.alanayckbourn.net",
+    "thekaraoketheatrecompany.alanayckbourn.net",
+    "doublehitch.alanayckbourn.net",
+    "loveundertaken.alanayckbourn.net",
+    "followthelover.alanayckbourn.net",
+    "dracula.alanayckbourn.net",
+    "thejubileeshow.alanayckbourn.net",
+    "backnumbers.alanayckbourn.net",
+    "palos.alanayckbourn.net",
+    "thefearsomethreesome.alanayckbourn.net",
+    "ronandjulie.alanayckbourn.net",
+    "betweenthelines.alanayckbourn.net",
+    "untitledfarce.alanayckbourn.net",
+    "fatherofinvention.alanayckbourn.net",
+    "truthwillout.alanayckbourn.net",
+    "thepartygame.alanayckbourn.net",
+    "archiving.alanayckbourn.net",
+    "archivingayckbourn.home.blog.alanayckbourn.net"
   ],
-  "pages": 536,
-  "written": 536,
-  "images": 183,
-  "navBlocksDropped": 269,
-  "creditBlocksDropped": 265,
-  "untitled": [],
-  "unresolvedLinks": [
+  "pages": 2466,
+  "written": 2466,
+  "images": 1184,
+  "navBlocksDropped": 833,
+  "boilerplateBlocksDropped": 1428,
+  "untitled": [
+    "http://www.alanayckbourn.net/",
+    "http://www.alanayckbourn.net/page-2/NewsInDepth.html",
+    "http://www.alanayckbourn.net/styled/NewsInDepth.html",
+    "http://www.alanayckbourn.net/styled/page-30/",
+    "http://www.alanayckbourn.net/page-6/NewsInDepth.html",
+    "http://thesquarecat.alanayckbourn.net/page-8/",
+    "http://dadstale.alanayckbourn.net/page-3/",
+    "http://lifeofriley.alanayckbourn.net/page18/styled-9/",
+    "http://plays.alanayckbourn.net/contact-form/",
+    "http://plays.alanayckbourn.net/page-7/contact-form-2/",
+    "http://advocates.alanayckbourn.net/page/contact-form/",
+    "http://interviews.alanayckbourn.net/resources/Biography---Definitive.pdf",
+    "http://interviews.alanayckbourn.net/resources/Play-Index---Complete.pdf",
+    "http://interviews.alanayckbourn.net/resources/Timeline-%C2%A9-Haydonning-Ltd.pdf",
+    "http://interviews.alanayckbourn.net/resources/20-Facts---Definitive.pdf",
+    "http://interviews.alanayckbourn.net/resources/Playwriting.pdf",
+    "http://interviews.alanayckbourn.net/resources/20-Facts---Playwriting.pdf",
+    "http://copyright.alanayckbourn.net/contact-form/"
+  ],
+  "unresolvedLinks": [],
+  "imagesWithoutAlt": 1184,
+  "failures": [
     {
-      "from": "http://biography.alanayckbourn.net/styled-22/page48/",
-      "to": "http://recordings.alanayckbourn.net/page0/page23/Media_Barker.html"
+      "url": "http://archiving.alanayckbourn.net/",
+      "error": "off-domain redirect: http://www.simon-murgatroyd.com/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-22/page66/",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://archivingayckbourn.home.blog.alanayckbourn.net/",
+      "error": "fetch failed"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-22/page67/",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://thewomaninblack.alanayckbourn.net/",
+      "error": "off-domain redirect: http://thewomaninblack.theatre-in-the-round.com/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-22/page/",
-      "to": "http://byjeeves.alanayckbourn.net/"
+      "host": "thegirlnextdoor.alanayckbourn.net",
+      "error": "route plays/the-girl-next-door already taken by the-girl-next-door.alanayckbourn.net"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-22/page-39/",
-      "to": "http://interviews.alanayckbourn.net/page-6/page-7/page90.html"
+      "url": "http://byjeeves.alanayckbourn.net/(null)/(null)/",
+      "error": "404 http://byjeeves.alanayckbourn.net/(null)/(null)/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-22/page-42/",
-      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+      "host": "howtheotherloves.alanayckbourn.net",
+      "error": "route plays/how-the-other-half-loves already taken by howtheotherhalfloves.alanayckbourn.net"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-22/page-42/",
-      "to": "http://advocates.alanayckbourn.net/page/page-9/"
+      "host": "chloewithlove.alanayckbourn.net",
+      "error": "route plays/chloe-with-love-farcicals already taken by farcicals.alanayckbourn.net"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-4/BiographyFacts.html",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://thesjt.alanayckbourn.net/",
+      "error": "off-domain redirect: http://theatre-in-the-round.com/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-14/BiographyFAQNational.html",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "host": "theplays.alanayckbourn.net",
+      "error": "route plays already taken by plays.alanayckbourn.net"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-17/BiographyFAQDirecting.html",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "host": "alanayckbourn.net",
+      "error": "route / already taken by www.alanayckbourn.net"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
-      "to": "http://recordings.alanayckbourn.net/page43/Media_Chorus_Of.html"
+      "url": "http://the-sjt.alanayckbourn.net/",
+      "error": "off-domain redirect: http://theatre-in-the-round.com/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
-      "to": "http://recordings.alanayckbourn.net/page37/Media_Revengers_Comedies.html"
+      "url": "http://directing.alanayckbourn.net/styled-5/",
+      "error": "404 http://directing.alanayckbourn.net/styled-5/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
-      "to": "http://recordings.alanayckbourn.net/page34/Media_Intimate_Exchanges.html"
+      "url": "http://directing.alanayckbourn.net/page4.html",
+      "error": "404 http://directing.alanayckbourn.net/page4.html"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
-      "to": "http://recordings.alanayckbourn.net/page44/Media_Private_Fears.html"
+      "url": "http://directing.alanayckbourn.net/page4/page8/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page8/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
-      "to": "http://recordings.alanayckbourn.net/page42/Media_Life_Of_Riley.html"
+      "url": "http://directing.alanayckbourn.net/page4/page9/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page9/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
-      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+      "url": "http://directing.alanayckbourn.net/page4/page10/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page10/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/styled-19/BiographyFAQFilm.html",
-      "to": "http://recordings.alanayckbourn.net/styled-3/styled/"
+      "url": "http://directing.alanayckbourn.net/page4/page11/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page11/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/page29/Availability.html",
-      "to": "http://recordings.alanayckbourn.net/page8/RecordingsTelevision.html"
+      "url": "http://directing.alanayckbourn.net/page4/page12/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page12/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/page29/Availability.html",
-      "to": "http://recordings.alanayckbourn.net/styled-3/RecordingsFilms.html"
+      "url": "http://directing.alanayckbourn.net/styled-6/",
+      "error": "404 http://directing.alanayckbourn.net/styled-6/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/page29/Availability.html",
-      "to": "http://recordings.alanayckbourn.net/page49/RecordingsRadio1.html"
+      "url": "http://directing.alanayckbourn.net/styled-3/",
+      "error": "404 http://directing.alanayckbourn.net/styled-3/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
-      "to": "http://tablemanners.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page-100/",
+      "error": "404 http://directing.alanayckbourn.net/page-100/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
-      "to": "http://livingtogether.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/styled-2/NationalTheatre.html",
+      "error": "404 http://directing.alanayckbourn.net/styled-2/NationalTheatre.html"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
-      "to": "http://roundandroundthegarden.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page-80/",
+      "error": "404 http://directing.alanayckbourn.net/page-80/"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-5/page-2/",
-      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/styled/BBC.html",
+      "error": "404 http://directing.alanayckbourn.net/styled/BBC.html"
     },
     {
-      "from": "http://biography.alanayckbourn.net/styled-36/page-5/page-6/NationalTheatre.html",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page-2/NationalTheatre.html",
+      "error": "404 http://directing.alanayckbourn.net/page-2/NationalTheatre.html"
     },
     {
-      "from": "http://careers.alanayckbourn.net/",
-      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+      "url": "http://directing.alanayckbourn.net/page-72/NationalTheatre.html",
+      "error": "404 http://directing.alanayckbourn.net/page-72/NationalTheatre.html"
     },
     {
-      "from": "http://careers.alanayckbourn.net/styled-16/",
-      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+      "url": "http://directing.alanayckbourn.net/page-101/NewsInDepth.html",
+      "error": "404 http://directing.alanayckbourn.net/page-101/NewsInDepth.html"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page4.html",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page21/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page21/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page9/",
-      "to": "http://the7deadlyvirtues.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page14/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page14/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page9/",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page22/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page22/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page9/",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page23/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page23/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page10/",
-      "to": "http://howtheotherloves.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page24/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page24/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page10/",
-      "to": "http://chloewithlove.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page25/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page25/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page10/",
-      "to": "http://thekidderminsteraffair.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page26/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page26/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page11/",
-      "to": "http://chloewithlove.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page27/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page27/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page11/",
-      "to": "http://thekidderminsteraffair.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page67/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page67/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page12/",
-      "to": "http://the7deadlyvirtues.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page28/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page28/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page4/page12/",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page29/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page29/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/styled-3/page-7/",
-      "to": "http://thesjt.alanayckbourn.net/page1/styled-45/"
+      "url": "http://directing.alanayckbourn.net/page4/page15/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page15/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/styled-3/page140/",
-      "to": "http://thesjt.alanayckbourn.net/page1/styled-45/"
+      "url": "http://directing.alanayckbourn.net/page4/page68/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page68/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/styled-2/page-105/NationalTheatre.html",
-      "to": "http://advocates.alanayckbourn.net/page/page-4/"
+      "url": "http://directing.alanayckbourn.net/page4/page69/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page69/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/styled-2/page-105/NationalTheatre.html",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page30/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page30/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/styled-2/page-104/NationalTheatre.html",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page31/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page31/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/page-80/page-78/",
-      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page70/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page70/"
     },
     {
-      "from": "http://careers.alanayckbourn.net/styled/BBC.html",
-      "to": "http://recordings.alanayckbourn.net/page23/Media_Barker.html"
+      "url": "http://directing.alanayckbourn.net/page4/page32/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page32/"
     },
     {
-      "from": "http://womaninmind.alanayckbourn.net/page-2/",
-      "to": "http://aviewfromthebridge.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page35/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page35/"
     },
     {
-      "from": "http://familyalbum.alanayckbourn.net/styled-2/",
-      "to": "http://thegirlnextdoor.alanayckbourn.net/"
+      "url": "http://directing.alanayckbourn.net/page4/page71/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page71/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page210/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page210/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page72/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page72/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page33/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page33/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page73/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page73/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page74/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page74/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page36/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page36/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page37/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page37/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page75/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page75/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page38/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page38/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page76/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page76/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page16/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page16/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page40/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page40/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page42/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page42/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page43/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page43/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page44/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page44/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page45/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page45/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page46/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page46/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page47/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page47/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page209/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page209/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page77/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page77/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page48/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page48/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page49/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page49/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page50/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page50/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page51/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page51/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page52/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page52/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page53/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page53/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page17/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page17/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page54/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page54/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page105/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page105/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page18/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page18/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page78/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page78/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page55/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page55/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page56/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page56/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page57/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page57/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page-76/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page-76/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page58/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page58/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page59/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page59/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page79/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page79/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page60/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page60/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page61/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page61/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page80/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page80/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page81/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page81/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page82/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page82/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page62/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page62/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page83/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page83/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page84/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page84/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page63/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page63/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page64/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page64/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page85/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page85/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page86/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page86/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page65/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page65/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page34/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page34/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page66/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page66/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page89/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page89/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page19/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page19/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page20/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page20/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page90/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page90/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page91/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page91/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page93/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page93/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page92/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page92/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page94/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page94/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page97/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page97/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page98/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page98/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page-109/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page-109/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page100/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page100/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page87/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page87/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page101/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page101/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page102/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page102/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page88/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page88/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page103/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page103/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page4/page104/",
+      "error": "404 http://directing.alanayckbourn.net/page4/page104/"
+    },
+    {
+      "url": "http://directing.alanayckbourn.net/page-80/page-83/styled-7/",
+      "error": "404 http://directing.alanayckbourn.net/page-80/page-83/styled-7/"
     }
   ],
-  "imagesWithoutAlt": 183,
-  "failures": [],
   "uncrawledHosts": [
-    "abriefhistoryofwomen.alanayckbourn.net",
-    "absentfriends.alanayckbourn.net",
-    "achorusofdisapproval.alanayckbourn.net",
-    "acutintherates.alanayckbourn.net",
     "alanayckbourn.net",
-    "alllies.alanayckbourn.net",
-    "annodomino.alanayckbourn.net",
+    "chloewithlove.alanayckbourn.net",
+    "howtheotherloves.alanayckbourn.net",
+    "thegirlnextdoor.alanayckbourn.net",
+    "theplays.alanayckbourn.net"
+  ],
+  "danglingHosts": [
+    "achorusofdisapproval.alanayckbourn.net",
     "archiving.alanayckbourn.net",
-    "arrivalsanddepartures.alanayckbourn.net",
-    "asmallfamilybusiness.alanayckbourn.net",
-    "atriptoscarborough.alanayckbourn.net",
-    "awakingbeauty.alanayckbourn.net",
-    "awordfromoursponsor.alanayckbourn.net",
-    "backnumbers.alanayckbourn.net",
-    "bedroomfarce.alanayckbourn.net",
-    "betteroffdead.alanayckbourn.net",
-    "betweenthelines.alanayckbourn.net",
+    "aviewfromthebridge.alanayckbourn.net",
     "biography.alanayckbourn.net",
-    "birthdayspastbirthdayspresent.alanayckbourn.net",
-    "bodylanguage.alanayckbourn.net",
-    "boymeetsgirl.alanayckbourn.net",
-    "callisto5.alanayckbourn.net",
+    "byjeeves.alanayckbourn.net",
     "careers.alanayckbourn.net",
-    "cheapandcheerful.alanayckbourn.net",
-    "christmasvmastermind.alanayckbourn.net",
-    "comicpotential.alanayckbourn.net",
-    "communicatingdoors.alanayckbourn.net",
-    "confusions.alanayckbourn.net",
-    "constantcompanions.alanayckbourn.net",
-    "consumingpassions.alanayckbourn.net",
     "countdown.alanayckbourn.net",
-    "dadstale.alanayckbourn.net",
-    "damselstrilogy.alanayckbourn.net",
-    "dearuncle.alanayckbourn.net",
-    "doublehitch.alanayckbourn.net",
+    "directing.alanayckbourn.net",
     "dracula.alanayckbourn.net",
-    "dreamsfromasummerhouse.alanayckbourn.net",
     "drowningondryland.alanayckbourn.net",
-    "earthangel.alanayckbourn.net",
     "encyclopedia.alanayckbourn.net",
-    "ernies.alanayckbourn.net",
-    "familycircles.alanayckbourn.net",
-    "farcicals.alanayckbourn.net",
-    "fatherofinvention.alanayckbourn.net",
-    "firstcourse.alanayckbourn.net",
-    "flatspin.alanayckbourn.net",
-    "followthelover.alanayckbourn.net",
-    "gameplan.alanayckbourn.net",
-    "gizmo.alanayckbourn.net",
-    "hauntingjulia.alanayckbourn.net",
-    "henceforward.alanayckbourn.net",
-    "heroswelcome.alanayckbourn.net",
-    "houseandgarden.alanayckbourn.net",
-    "howtheotherhalfloves.alanayckbourn.net",
-    "ifiwereyou.alanayckbourn.net",
     "improbablefiction.alanayckbourn.net",
-    "incidentalmusic.alanayckbourn.net",
-    "insideoutside.alanayckbourn.net",
-    "intimateexchanges.alanayckbourn.net",
-    "invisiblefriends.alanayckbourn.net",
-    "itcouldbe.alanayckbourn.net",
+    "interviews.alanayckbourn.net",
     "jeeves.alanayckbourn.net",
-    "jokingapart.alanayckbourn.net",
-    "justbetweenourselves.alanayckbourn.net",
-    "lifeandbeth.alanayckbourn.net",
     "lifeofriley.alanayckbourn.net",
-    "loveafterall.alanayckbourn.net",
-    "loveundertaken.alanayckbourn.net",
-    "makingtracks.alanayckbourn.net",
     "manofthemoment.alanayckbourn.net",
-    "memyselfandi.alanayckbourn.net",
     "menonwomen.alanayckbourn.net",
-    "meresoupsongs.alanayckbourn.net",
-    "mirandasmagicmirror.alanayckbourn.net",
     "missyesterday.alanayckbourn.net",
-    "mrasamazing.alanayckbourn.net",
-    "mrwhatnot.alanayckbourn.net",
     "mysistersadie.alanayckbourn.net",
-    "myveryownstory.alanayckbourn.net",
-    "mywonderfulday.alanayckbourn.net",
-    "neighbourhoodwatch.alanayckbourn.net",
-    "noknowing.alanayckbourn.net",
-    "orvin.alanayckbourn.net",
-    "palos.alanayckbourn.net",
     "plays.alanayckbourn.net",
     "privatefears.alanayckbourn.net",
     "publications.alanayckbourn.net",
+    "recordings.alanayckbourn.net",
     "relativelyspeaking.alanayckbourn.net",
     "research.alanayckbourn.net",
     "roleplay.alanayckbourn.net",
-    "ronandjulie.alanayckbourn.net",
-    "roundelay.alanayckbourn.net",
-    "seasonsgreetings.alanayckbourn.net",
-    "secondhelping.alanayckbourn.net",
-    "servicenotincluded.alanayckbourn.net",
-    "sevendeadlyvirtues.alanayckbourn.net",
-    "showandtell.alanayckbourn.net",
-    "sisterlyfeelings.alanayckbourn.net",
-    "snakeinthegrass.alanayckbourn.net",
     "standingroomonly.alanayckbourn.net",
-    "suburbanstrains.alanayckbourn.net",
-    "sugardaddies.alanayckbourn.net",
-    "surprises.alanayckbourn.net",
-    "takingsteps.alanayckbourn.net",
-    "tentimestable.alanayckbourn.net",
-    "the-girl-next-door.alanayckbourn.net",
+    "the-sjt.alanayckbourn.net",
     "theboywhofell.alanayckbourn.net",
-    "thechampionofparibanou.alanayckbourn.net",
-    "thedivide.alanayckbourn.net",
-    "thefearsomethreesome.alanayckbourn.net",
-    "theforest.alanayckbourn.net",
-    "thegirlwholosthervoice.alanayckbourn.net",
-    "thejollies.alanayckbourn.net",
-    "thejubileeshow.alanayckbourn.net",
-    "thekaraoketheatrecompany.alanayckbourn.net",
-    "themusicaljigsawplay.alanayckbourn.net",
-    "thepartygame.alanayckbourn.net",
-    "theplays.alanayckbourn.net",
-    "theprincessandthemouse.alanayckbourn.net",
-    "therevengerscomedies.alanayckbourn.net",
-    "thesparrow.alanayckbourn.net",
-    "thesquarecat.alanayckbourn.net",
-    "thetenmagicbridges.alanayckbourn.net",
-    "thetrialofromeooscar.alanayckbourn.net",
-    "thewestwoods.alanayckbourn.net",
-    "thingswedoforlove.alanayckbourn.net",
-    "thisiswherewecamein.alanayckbourn.net",
-    "timeandtimeagain.alanayckbourn.net",
-    "timeofmylife.alanayckbourn.net",
-    "tonsofmoney.alanayckbourn.net",
+    "thesjt.alanayckbourn.net",
+    "thewomaninblack.alanayckbourn.net",
     "truthwillout.alanayckbourn.net",
-    "untitledfarce.alanayckbourn.net",
-    "virtualreality.alanayckbourn.net",
-    "wayupstream.alanayckbourn.net",
-    "welcometothefamily.alanayckbourn.net",
     "whenever.alanayckbourn.net",
-    "wildestdreams.alanayckbourn.net",
-    "wolfatthedoor.alanayckbourn.net",
     "writingabsurdpersonsingular.alanayckbourn.net",
     "www.alanayckbourn.net"
   ]

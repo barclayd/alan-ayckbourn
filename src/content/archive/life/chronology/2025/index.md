@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2025"
 source: "http://biography.alanayckbourn.net/styled-22/page-59/"
-order: 101
+order: 319
 ---
 
 **[\<\<\< Previous page](/life/chronology/2024)**
@@ -22,7 +22,7 @@ During 2025, Alan Ayckbourn…
 
 ○ saw the republication of his play ***[A Small Family Business](/plays/a-small-family-business)*** in Faber's new re-designed editions of significant plays.
 
-○ saw the 60th anniversary of his play ***[Relatively Speaking](/plays/relatively-speaking)*** celebrated in a weekend at the Stephen Joseph Theatre - *Actors, Audience and Ayckbourn* - which included a talk by his Archivist Simon Murgatroyd and a rehearsed reading of the play directed by Antony Eden; this was a last minute replacement for an advertised reading of the playwright's previously unseen play ***[Men, Meals & Me](/plays)*** which would have been directed by the playwright. The withdrawal of the play by the theatre led to Alan declining to direct the reading of *Relatively Speaking*.
+○ saw the 60th anniversary of his play ***[Relatively Speaking](/plays/relatively-speaking)*** celebrated in a weekend at the Stephen Joseph Theatre - *Actors, Audience and Ayckbourn* - which included a talk by his Archivist Simon Murgatroyd and a rehearsed reading of the play directed by Antony Eden; this was a last minute replacement for an advertised reading of the playwright's previously unseen play ***[Men, Meals & Me](/plays/childrens-plays-index/unproduced-plays)*** which would have been directed by the playwright. The withdrawal of the play by the theatre led to Alan declining to direct the reading of *Relatively Speaking*.
 
 ○ saw ***[A Theatrical Revolution](http://www.theatre-in-the-round.co.uk/page-187/page-144/page-176/)*** by **[Simon Murgatroyd](http://www.simon-murgatroyd.com/)** published with a look at the inaugural year of **[Theatre of the Round at the Library Theatre](http://www.theatre-in-the-round.co.uk/page-187/)**, Scarborough, in 1955.
 

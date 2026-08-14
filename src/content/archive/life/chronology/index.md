@@ -1,7 +1,7 @@
 ---
 title: "Chronology"
 source: "http://biography.alanayckbourn.net/styled-22/Chronology.html"
-order: 3
+order: 44
 ---
 
 *The Chronology section offers a guide to Alan Ayckbourn's life and thoughts. Click on a year in the right-hand column to get more in-depth details for each year including quotes from the playwright*
@@ -11,9 +11,9 @@ order: 3
 **In-Depth  
 Click on a button**
 
-![](./_images/Arrow_Up.jpg)
+![](./_images/arrow-up.jpg)
 
-![](./_images/Arrow_Down.jpg)
+![](./_images/arrow-down.jpg)
 
 </aside>
 
@@ -27,7 +27,7 @@ Click on a button**
 
 **[1954:](/life/chronology/pre-1955)** First professional publication with the poem *Dawn* printed in the December edition of *Young Elizabethan* magazine.
 
-**[1955:](/life/chronology/pre-1955)** Tours Netherlands in a school production of *Romeo and Juliet* (would also tour eastern USA and Canada in *Macbeth* in 1956); **[Stephen Joseph](/life/stephen-joseph)** founds **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough.
+**[1955:](/life/chronology/pre-1955)** Tours Netherlands in a school production of *Romeo and Juliet* (would also tour eastern USA and Canada in *Macbeth* in 1956); **[Stephen Joseph](/life/stephen-joseph)** founds **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough.
 
 **[1956:](/life/chronology/1956)** Leaves Haileybury with two 'A' Levels; first professional job as an **[actor](/career/actor)** with Sir Donald Wolfit's company at the Edinburgh Festival; joins **[Connaught Theatre](/career/actor/connaught-theatre)**, Worthing, as student assistant stage manager.
 
@@ -41,7 +41,7 @@ Click on a button**
 **[1960:](/life/chronology/1960)** National Service at RAF Cardington, Bedfordshire (lasting just two days); returns to Theatre in the Round at the Library Theatre, Scarborough.  
 **Plays:** *Dad’s Tale*
 
-**[1961:](/life/chronology/1961) [Directorial debut](/career/director)** with *Gaslight* at Theatre in the Round at the Library Theatre; taken on by the literary agent Margaret 'Peggy' Ramsay.  
+**[1961:](/life/chronology/1961) [Directorial debut](/career/directing-career)** with *Gaslight* at Theatre in the Round at the Library Theatre; taken on by the literary agent Margaret 'Peggy' Ramsay.  
 **Plays:** *Standing Room Only*
 
 **[1962:](/life/chronology/1962)** Leaves Scarborough to become founder member of **[Victoria Theatre](/career/victoria-theatre)**, Stoke-on-Trent; stops writing under the pseudonym Roland Allen.  
@@ -52,7 +52,7 @@ Click on a button**
 
 **[1964:](/life/chronology/1964)** *Mr Whatnot* becomes his first play to transfer to the West End, closing quickly afterwards; leaves Victoria Theatre; final professional acting role in *Two For The Seesaw* at Rotherham;
 
-**[1965:](/life/chronology/1965)** Joins the **[BBC](/career/bbc)** in Leeds as a radio drama producer; Stephen Joseph directs the world premiere of *Meet My Father* (*Relatively Speaking*); Stephen Joseph is diagnosed with cancer and announces Theatre in the Round at the Library Theatre will close due to lack of support from Scarborough Town Council.  
+**[1965:](/life/chronology/1965)** Joins the **[BBC](/career/bbc-career)** in Leeds as a radio drama producer; Stephen Joseph directs the world premiere of *Meet My Father* (*Relatively Speaking*); Stephen Joseph is diagnosed with cancer and announces Theatre in the Round at the Library Theatre will close due to lack of support from Scarborough Town Council.  
 **Plays:** *Relatively Speaking*
 
 **[1966:](/life/chronology/1966)** Having been closed as a professional venue at the end of the 1965 season by Stephen Joseph, Theatre in the Round at the Library Theatre, Scarborough, hosts an amateur theatrical season.
@@ -83,7 +83,7 @@ Click on a button**
 **[1975:](/life/chronology/1975)** Breaks record for most productions running simultaneously both in the West End and on Broadway; first entry in Who's Who & Encyclopaedia Britannica; Chatto & Windus publish the first mass-market edition of an Ayckbourn play with *The Norman Conquests*; his first musical *Jeeves* (written with Andrew Lloyd Webber) is produced in the West End, closing soon afterwards; *Relatively Speaking* becomes the first of many Ayckbourn plays to be broadcast on BBC Radio.  
 **Plays:** *Jeeves* (with Andrew Lloyd Webber); *Bedroom Farce*
 
-**[1976:](/life/chronology/1976)** Scarborough company moves from Theatre in the Round at the Library Theatre to the Theatre in the Round at Westwood (later renamed the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**), Scarborough; *Time And Time Again* is broadcast on television; *Confusions* is nominated for Best Comedy at the inaugural Laurence Olivier Awards then known as the SWET Awards).  
+**[1976:](/life/chronology/1976)** Scarborough company moves from Theatre in the Round at the Library Theatre to the Theatre in the Round at Westwood (later renamed the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**), Scarborough; *Time And Time Again* is broadcast on television; *Confusions* is nominated for Best Comedy at the inaugural Laurence Olivier Awards then known as the SWET Awards).  
 **Plays:** *Just Between Ourselves*
 
 **[1977:](/life/chronology/1977)** First premiere at the National Theatre with *Bedroom Farce* - his first play specifically written for the end-stage; first London directing credit with *Bedroom Farce*; becomes Chair of the Drama Panel of Yorkshire Arts Association; *The Norman Conquests* is broadcast on television.  
@@ -128,10 +128,10 @@ Click on a button**
 **[1990:](/life/chronology/1990)** Directs his first Shakespeare play *Othello*, starring Michael Gambon, at the Stephen Joseph Theatre In The Round, Scarborough; launches a £3.5m appeal (which will later rise to more than £5m) to convert Scarborough's derelict Odeon cinema into a state-of-the-art theatre; the BBC dedicates an *Omnibus* documentary to Alan Ayckbourn; Michael Billington's acclaimed *Modern Dramatists - Alan Ayckbourn* is published.  
 **Plays:** *Body Language*; *This Is Where We Came In*; *Callisto 5*
 
-**[1991:](/life/chronology/1991)** Alan Ayckbourn's literary agent **[Margaret Ramsay](/life/influences/margaret-ramsay)** dies on 4 September; the Sunday Times names Alan Ayckbourn as one of the '1,000 makers of the 20th century'.  
+**[1991:](/life/chronology/1991)** Alan Ayckbourn's literary agent **[Margaret Ramsay](/life/influences/ramsay-margaret)** dies on 4 September; the Sunday Times names Alan Ayckbourn as one of the '1,000 makers of the 20th century'.  
 **Plays:** *Wildest Dreams*; *My Very Own Story*
 
-**[1992:](/life/chronology/1992)** Appointed **[Cameron Macintosh Visiting Professor of Contemporary Theatre](/career/oxford-university)**, at Oxford University; collaborates with John Pattison on their first musical *Dreams From A Summer House*.  
+**[1992:](/life/chronology/1992)** Appointed **[Cameron Macintosh Visiting Professor of Contemporary Theatre](/career/st-catherines-college)**, at Oxford University; collaborates with John Pattison on their first musical *Dreams From A Summer House*.  
 **Plays:** *Time Of My Life*; *Dreams From A Summer House* (with John Pattison)
 
 **[1993:](/life/chronology/1993)** Receives Writers’ Guild of Great Britain Lifetime Achievement Award; the Royal Shakespeare Company stages its first Ayckbourn play with *Wildest Dreams*.
@@ -142,7 +142,7 @@ Click on a button**
 **[1995:](/life/chronology/1995)** Directs his final play at the Stephen Joseph Theatre In The Round, Scarborough, with *Betrayal* by Harold Pinter.  
 **Plays:** *A Word From Our Sponsor* (with John Pattison)
 
-**[1996:](/life/chronology/1996)** Receives the Writers’ Guild of Great Britain Best West End Play for *Communicating Doors*; Scarborough company moves to the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**; revises and revives *Jeeves* with Andrew Lloyd Webber to *By Jeeves* with great success.  
+**[1996:](/life/chronology/1996)** Receives the Writers’ Guild of Great Britain Best West End Play for *Communicating Doors*; Scarborough company moves to the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**; revises and revives *Jeeves* with Andrew Lloyd Webber to *By Jeeves* with great success.  
 **Plays:** *The Champion Of Paribanou*; *By Jeeves* (revised with Andrew Lloyd Webber)
 
 **[1997:](/life/chronology/1997)** Knighted 'for services to theatre'; marries Heather Stoney; receives Lloyds Private Banking Playwright of the Year; receives first Moliére Award for Best Comedy for *Communicating Doors*; funding crisis at the Stephen Joseph Theatre.  
@@ -207,7 +207,7 @@ Click on a button**
 **[2017:](/life/chronology/2017)** Celebrates his 60th anniversary with the Stephen Joseph Theatre company with a two part gala event, *A Brief History of Plays*; *The Divide* marks the first Ayckbourn work at Edinburgh International Festival; revives *By Jeeves* to mark the 25th anniversary of the Old Laundry Theatre, Bowness-on-Windermere.  
 **Plays:** *A Brief History of Women*
 
-**[2018:](/life/chronology/2018)** Appointed **[Director Emeritus](/career/ayckbourn-and-sjt/director-emeritus)** of the Stephen Joseph Theatre; *The Divide* staged at The Old Vic; A *Brief History Of Women* transfers to the 59E59 Theaters, New York for the *Brits Off Broadway* festival; recipient of The Oldie Of The Year Awards - Oldie Drama King Of The Year.  
+**[2018:](/life/chronology/2018)** Appointed **[Director Emeritus](/career/ayckbourn-and-the-sjt/director-emeritus-sjt)** of the Stephen Joseph Theatre; *The Divide* staged at The Old Vic; A *Brief History Of Women* transfers to the 59E59 Theaters, New York for the *Brits Off Broadway* festival; recipient of The Oldie Of The Year Awards - Oldie Drama King Of The Year.  
 **Plays:** *Better Off Dead*
 
 **[2019:](/life/chronology/2019)** Celebrates his 80th birthday and his 60th playwriting anniversary; celebrated his anniversaries with *80 Years Young* event at the Stephen Joseph Theatre; his first novel, *The Divide*, published; *Standing Room Only* given its first public performance since 1966 by Dick & Lottie theatre company.  

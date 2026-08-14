@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1991"
 source: "http://biography.alanayckbourn.net/styled-22/page70/"
-order: 67
+order: 285
 ---
 
 **[\<\<\< Previous page](/life/chronology/1990)**
@@ -32,7 +32,7 @@ During 1991, Alan Ayckbourn…
 
 ○ saw Manhattan Theatre Club stage the New York premiere of ***[Absent Friends](/plays/absent-friends)*** with Brenda Blethyn as Diana and - in her first major stage role - Gillian Anderson as Evelyn.
 
-○ appointed Malcolm Hebden as director of ***[Confusions](/plays/confusions)*** for its revival at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**; the first revival of his work at the venue he had not directed.
+○ appointed Malcolm Hebden as director of ***[Confusions](/plays/confusions)*** for its revival at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**; the first revival of his work at the venue he had not directed.
 
 ○ saw the academic exploration of Alan Ayckbourn's work *Alan Ayckbourn - A Casebook* by Bernard F Dukore published.
 

@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page146/"
-order: 487
+order: 553
 ---
 
 ## Viennese Interlude (1960)
@@ -32,7 +32,7 @@ William Elmhirst
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 *Viennese Interlude* was performed as part of a double bill with Strindberg's *Miss Julie*. Alan Ayckbourn had a small part in the play which chronicles the meeting between the playwright Strindberg and a doctor concerning the writer's persecution issues. Apparently it was the first scene of an unfinished much longer work.
 

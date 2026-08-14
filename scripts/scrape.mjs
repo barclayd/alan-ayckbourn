@@ -32,6 +32,15 @@ const SECTION_SITES = {
   research: 'research',
 };
 
+// Sites the plays index never lists, reached only by following links from
+// inside the archive. `advocates` alone is 83 pages of advocacy writing.
+const EXTRA_SITES = {
+  advocates: 'career/advocates',
+  interviews: 'career/interviews',
+  recordings: 'career/recordings',
+  artisticdirector: 'career/artistic-director',
+};
+
 // One play per era: the 60s hit, the 70s tragi-comedy, the trilogy, the 80s
 // psychological piece, the late work. Enough shape variety to trust the parser.
 const SAMPLE_PLAYS = [
@@ -78,6 +87,12 @@ async function fetchCached(url, { binary = false } = {}) {
   });
   if (!res.ok) {
     throw new Error(`${res.status} ${u}`);
+  }
+  /* Some subdomains 301 off the archive — `thesjt` to the theatre's real site,
+     `thewomaninblack` to the production's. Those are signposts, not content:
+     following one would file a stranger's homepage as an archive page. */
+  if (!binary && !new URL(res.url).hostname.endsWith(DOMAIN)) {
+    throw new Error(`off-domain redirect: ${res.url}`);
   }
   const body = binary ? Buffer.from(await res.arrayBuffer()) : await res.text();
   await mkdir(dirname(path), { recursive: true });
@@ -368,6 +383,17 @@ const isNavBlock = (block) =>
 const BOILERPLATE =
   /All research and original material|Haydonning Ltd|do not reproduce (any material|in any form)/i;
 
+/*
+ * Directions to chrome that no longer exists: "To navigate, use the links in
+ * the bar above or in the right hand column" opens 175 pages, and neither the
+ * bar nor the column survives the redesign. Matched only as a whole paragraph —
+ * the same sentence sometimes trails a real copyright note ("All articles are
+ * copyright of the respective author and can be accessed through the links in
+ * the right-hand column"), and that has to stay.
+ */
+const OLD_CHROME =
+  /^(to navigate|click on the links|for [^.]{0,60}click on the links)[^.]*\b(bar above|links above|right[- ]hand[- ]?column|column below|at the right|to the right)\b[^.]*\.$/i;
+
 const plain = (s) => s.replace(/[\\*]/g, '').replace(/\s+/g, ' ').trim();
 
 /**
@@ -392,7 +418,11 @@ function dropNavBlocks(blocks, title) {
     ) {
       continue;
     }
-    if (block.type === 'p' && BOILERPLATE.test(block.text)) {
+    if (
+      block.type === 'p' &&
+      (BOILERPLATE.test(block.text) ||
+        OLD_CHROME.test(plain(block.text).trim()))
+    ) {
       credits++;
       continue;
     }
@@ -497,6 +527,51 @@ async function sitemap(host) {
   );
 }
 
+/**
+ * Walk a host by following its own links, breadth-first from `/`.
+ *
+ * Needed because these sitemaps cannot be trusted: each was published by
+ * RapidWeaver with whatever base URL the project happened to hold, so
+ * `plays.` lists `www.` pages, the writing companions list a .com that no
+ * longer exists, and a dozen hosts serve no sitemap at all. Where the sitemap
+ * yields nothing for the host itself, its own navigation still does.
+ */
+async function crawlFrom(host, { max = 400 } = {}) {
+  const root = `http://${host}/`;
+  const seen = new Set([root]);
+  const queue = [root];
+
+  while (queue.length && seen.size < max) {
+    const url = queue.shift();
+    let $;
+    try {
+      $ = load(await fetchCached(url));
+    } catch {
+      continue; // A dead link inside the site is not a reason to abandon it.
+    }
+    for (const el of $('#content a, #navcontainer a').toArray()) {
+      const target = normalise($(el).attr('href') || '', url);
+      if (
+        !target ||
+        hostOf(target) !== host ||
+        target.endsWith('.php') ||
+        seen.has(target)
+      ) {
+        continue;
+      }
+      seen.add(target);
+      queue.push(target);
+    }
+  }
+  return [...seen];
+}
+
+/** Sitemap where it is usable, the host's own links where it is not. */
+async function discoverUrls(host) {
+  const fromSitemap = await sitemap(host).catch(() => []);
+  return fromSitemap.length ? fromSitemap : crawlFrom(host);
+}
+
 async function discoverPlays() {
   const html = await fetchCached(`http://plays.${DOMAIN}/`);
   const $ = load(html);
@@ -534,20 +609,26 @@ async function run() {
   const plays = await discoverPlays();
   console.log(`Discovered ${plays.size} play subdomains`);
 
+  const crawlAll = args.includes('--all');
   const requested = flag('sites')?.split(',').filter(Boolean);
   const hosts = requested
     ? requested.map((s) => `${s}.${DOMAIN}`)
     : [
+        // The root site: What's On, news, press, FAQs, the copyright notice.
+        `www.${DOMAIN}`,
         ...Object.keys(SECTION_SITES)
-          .filter(
-            (s) =>
-              args.includes('--all') || s === 'biography' || s === 'careers',
-          )
+          .filter((s) => crawlAll || s === 'biography' || s === 'careers')
           .map((s) => `${s}.${DOMAIN}`),
-        ...(args.includes('--all') ? [...plays.keys()] : SAMPLE_PLAYS).map(
+        ...(crawlAll ? [...plays.keys()] : SAMPLE_PLAYS).map(
           (s) => `${s}.${DOMAIN}`,
         ),
       ];
+
+  /** Subdomain → link text that first pointed at it, for hosts no index lists. */
+  const discovered = new Map();
+
+  /** Route prefixes already claimed, so an alias host cannot overwrite a real one. */
+  const claimed = new Map();
 
   /** host → route prefix, e.g. `plays/absurd-person-singular`. */
   const prefixOf = (host) => {
@@ -561,12 +642,25 @@ async function run() {
     if (sub in SECTION_SITES) {
       return SECTION_SITES[sub];
     }
+    if (sub in EXTRA_SITES) {
+      return EXTRA_SITES[sub];
+    }
     if (plays.has(sub)) {
       return `plays/${plays.get(sub).slug}`;
     }
     const companion = sub.replace(/^writing/, '');
     if (sub.startsWith('writing') && plays.has(companion)) {
       return `plays/${plays.get(companion).slug}/writing`;
+    }
+    /*
+     * A host found only by following a link. Everything reached this way has
+     * turned out to be a play or a production the archive treats as one, so it
+     * files under `plays/`, slugged from the link text that introduced it —
+     * "Round And Round The Garden", not "roundandroundthegarden".
+     */
+    const label = discovered.get(sub);
+    if (label) {
+      return `plays/${slugify(label)}`;
     }
     return null;
   };
@@ -577,16 +671,39 @@ async function run() {
   const labels = new Map();
   const failures = [];
 
-  for (const host of hosts) {
-    if (prefixOf(host) === null) {
+  /*
+   * The plays index lists the plays and nothing else, but the archive links
+   * sideways constantly — the three Norman Conquests parts, `byjeeves`, the
+   * `advocates` essays (83 pages of them) all live on their own subdomains that
+   * no index page names. So the host list is a queue, not a list: any
+   * same-domain host found in a link joins it, and the crawl runs to closure.
+   */
+  const queue = [...hosts];
+  const queued = new Set(queue);
+  const crawled = [];
+
+  for (const host of queue) {
+    const prefix = prefixOf(host);
+    if (prefix === null) {
       failures.push({ host, error: 'no route mapping' });
       continue;
     }
+    /* Two hosts to one route means an alias (`the-girl-next-door` beside
+       `thegirlnextdoor`). Writing both would have the second silently
+       overwrite the first, so the first one to claim it wins. */
+    if (claimed.has(prefix) && claimed.get(prefix) !== host) {
+      failures.push({
+        host,
+        error: `route ${prefix || '/'} already taken by ${claimed.get(prefix)}`,
+      });
+      continue;
+    }
+    claimed.set(prefix, host);
     let urls;
     try {
-      urls = await sitemap(host);
+      urls = await discoverUrls(host);
     } catch (err) {
-      failures.push({ host, error: `sitemap: ${err.message}` });
+      failures.push({ host, error: `discover: ${err.message}` });
       continue;
     }
     process.stdout.write(`${host}: ${urls.length} pages `);
@@ -598,7 +715,21 @@ async function run() {
         $('#content a, #navcontainer a').each((_, el) => {
           const target = normalise($(el).attr('href') || '', url);
           const text = $(el).text().trim();
-          if (!target || !isInternal(target) || !text || text.length > 60) {
+          if (!target || !isInternal(target)) {
+            return;
+          }
+
+          // A link to a subdomain we have not visited is more of the archive.
+          const linkedHost = hostOf(target);
+          if (!queued.has(linkedHost) && crawlAll) {
+            queued.add(linkedHost);
+            queue.push(linkedHost);
+            if (text && !discovered.has(subdomain(linkedHost))) {
+              discovered.set(subdomain(linkedHost), text);
+            }
+          }
+
+          if (!text || text.length > 60) {
             return;
           }
           if (/^(here|click|button|this|more|link)\b/i.test(text)) {
@@ -612,9 +743,10 @@ async function run() {
         failures.push({ url, error: err.message });
       }
     }
+    crawled.push(host);
     process.stdout.write('✓\n');
   }
-  console.log(`Fetched ${pages.size} pages`);
+  console.log(`Fetched ${pages.size} pages from ${crawled.length} hosts`);
 
   // Pass 2: every crawled URL gets its new route, so links can be rewritten.
   // Routes are built parent-first so the old hierarchy survives even though the
@@ -681,6 +813,20 @@ async function run() {
         : [base, slug];
     const candidate = parts.filter(Boolean).join('/');
     let route = candidate;
+    /*
+     * The collapse above assumed a repeated label meant a repeated page. A
+     * taken route proves it wrong: this is a distinct page the archive linked
+     * by its section's own name — an "Adaptations In Other Media" page whose
+     * only link says "Confusions". Reach for its heading before a number,
+     * because `-2` would file it as a sibling of the play (a phantom entry on
+     * the plays index) rather than a page inside it.
+     */
+    if (taken.has(route) && page.title) {
+      const byTitle = [base, slugify(page.title)].filter(Boolean).join('/');
+      if (!taken.has(byTitle)) {
+        route = byTitle;
+      }
+    }
     // Two pages can share a label. Never let one silently overwrite the other.
     for (let n = 2; taken.has(route); n++) {
       route = `${candidate}-${n}`;
@@ -710,14 +856,22 @@ async function run() {
     written: 0,
     images: 0,
     navBlocksDropped: 0,
-    creditBlocksDropped: 0,
+    boilerplateBlocksDropped: 0,
     untitled: [],
     unresolvedLinks: [],
     imagesWithoutAlt: 0,
     failures,
   };
 
-  await rm(OUT, { recursive: true, force: true });
+  /*
+   * A full run owns the whole output directory and clears it, so a page the
+   * archive has deleted does not linger. `--sites` crawls a handful of hosts
+   * and must not: it would delete every page it was not asked to fetch, and
+   * the only copy of a host that has since gone offline is the one on disk.
+   */
+  if (!requested) {
+    await rm(OUT, { recursive: true, force: true });
+  }
 
   for (const [url, page] of pages) {
     const route = routes.get(url);
@@ -750,10 +904,28 @@ async function run() {
       if (!abs) {
         return src;
       }
-      const name = abs.split('/').pop();
-      if (!pending.some((p) => p.abs === abs)) {
-        pending.push({ abs, name });
+      const found = pending.find((p) => p.abs === abs);
+      if (found) {
+        return `./_images/${found.name}`;
       }
+      /*
+       * Names arrive off a URL, so they arrive percent-encoded — `%C2%A9` for
+       * the © in "APS_700-©-Haydonning-Ltd.jpg". Markdown decodes an image path
+       * before resolving it, so the encoded name we wrote to disk and the
+       * decoded name Astro then hunts for disagree, and the build dies over a
+       * file that is sitting right there. Slugify and the two spellings become
+       * one.
+       */
+      const raw = decodeURIComponent(abs.split('/').pop() ?? '');
+      const dot = raw.lastIndexOf('.');
+      const ext = dot > 0 ? raw.slice(dot).toLowerCase() : '';
+      const stem = dot > 0 ? raw.slice(0, dot) : raw;
+      let name = `${slugify(stem)}${ext}`;
+      // Two unlike images can slug alike; the second must not silently win.
+      for (let n = 2; pending.some((p) => p.name === name); n++) {
+        name = `${slugify(stem)}-${n}${ext}`;
+      }
+      pending.push({ abs, name });
       return `./_images/${name}`;
     };
 
@@ -766,7 +938,7 @@ async function run() {
       credits,
     } = dropNavBlocks(raw, page.title);
     report.navBlocksDropped += dropped;
-    report.creditBlocksDropped += credits;
+    report.boilerplateBlocksDropped += credits;
 
     // The play landing page and its "In Brief" twin are label:value data sheets.
     const wantsFacts = isPlayIndex || /\/in-brief$/.test(route);
@@ -830,8 +1002,16 @@ async function run() {
     report.written++;
   }
 
-  // Hosts linked to but not crawled: exactly the list PR 9's full run must cover.
-  report.uncrawledHosts = [...uncrawled].sort();
+  /*
+   * Two different gaps, and lumping them together hid both — the old list named
+   * `www` and `plays` as uncrawled when they had just been read cover to cover.
+   * `uncrawledHosts` is hosts never visited at all, the only real completeness
+   * signal. `danglingHosts` were visited but still hold links that route
+   * nowhere, which is ordinary: the archive links to pages it has since pulled.
+   */
+  const visited = new Set(crawled);
+  report.uncrawledHosts = [...uncrawled].filter((h) => !visited.has(h)).sort();
+  report.danglingHosts = [...uncrawled].filter((h) => visited.has(h)).sort();
   await mkdir(dirname(REPORT), { recursive: true });
   await writeFile(REPORT, `${JSON.stringify(report, null, 2)}\n`);
 
@@ -842,7 +1022,8 @@ async function run() {
       `nav dropped:    ${report.navBlocksDropped} blocks`,
       `untitled:       ${report.untitled.length}`,
       `unresolved:     ${report.unresolvedLinks.length} links`,
-      `uncrawled:      ${report.uncrawledHosts.length} linked hosts`,
+      `uncrawled:      ${report.uncrawledHosts.length} hosts never visited`,
+      `dangling:       ${report.danglingHosts.length} hosts with dead links`,
       `failures:       ${failures.length}`,
       `report:         scraped/report.json`,
     ].join('\n'),

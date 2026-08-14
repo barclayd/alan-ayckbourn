@@ -1,12 +1,12 @@
 ---
 title: "Stage Manager"
 source: "http://careers.alanayckbourn.net/page-100/"
-order: 333
+order: 401
 ---
 
 It's not generally well-known that the majority of Alan Ayckbourn's formative experiences in the theatre were back-stage. However, between 1956 and 1958, Alan was largely employed as an Acting Stage Manager - a stage manager with occasional acting roles.
 
-It should be noted that, at this time, Stage Management was an all-encompassing term not just associated with the tasks we would typically associate with stage management today. Regional theatres - such as **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** in Scarborough - could not afford lighting or sound designers and many of these tasks fell within the remit of stage-management.
+It should be noted that, at this time, Stage Management was an all-encompassing term not just associated with the tasks we would typically associate with stage management today. Regional theatres - such as **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** in Scarborough - could not afford lighting or sound designers and many of these tasks fell within the remit of stage-management.
 
 As a result, Alan gained a wide variety of experiences encompassing all aspects of running productions. Although we tend to view Alan through the prism of playwright and director, his roles as actor, stage manager, sound and light operator as well as numerous other jobs, has informed his work as playwright, director and Artistic Director throughout his long career in theatre.
 
@@ -41,7 +41,7 @@ It is not a well-known fact but Alan Ayckbourn has been responsible for the soun
 
 This aspect of his role developed from a passion for technology shared with the founder of Scarborough's Theatre in the Round at the Library Theatre, Stephen Joseph. Together they would work on the new reel-to-reel technology creating the sound plots for productions and experimenting with new technology. Alan's love of this can be seen directly in his 1964 play, *Mr Whatnot*, which - for the time - had a mind-boggling sound plot which Alan created and recorded himself. The play features approximately 300 different sound effects, 117 operate cues and - on average - a sound effect every 22 seconds. In the age of digital technology, this may not sound particularly impressive, but in 1964 using a primitive revox tape machine, this would have been a phenomenal challenge.
 
-These skills were undoubtedly honed when, in 1965, Alan joined the **[BBC](/career/bbc)** as a Radio Drama Producer and was responsible for directing and producing a considerable number of radio productions over the next five years. Alan had direct experience of cutting and editing the tapes to create the final recording and felt he became a quite proficient technician.
+These skills were undoubtedly honed when, in 1965, Alan joined the **[BBC](/career/bbc-career)** as a Radio Drama Producer and was responsible for directing and producing a considerable number of radio productions over the next five years. Alan had direct experience of cutting and editing the tapes to create the final recording and felt he became a quite proficient technician.
 
 Alan became **[Artistic Director](/career/artistic-director)** of Theatre in the Round at the Library Theatre in 1972 and would continue to create the sound-plots for his plays and many of the productions he directed through the '70s and '80s. On the top floor of his house, he created a recording studio which he was still actively using until the early 2000s. From the mid 2000s, Alan stepped back from sound-editing but has, in recent years, become more actively involved once more in the creation of the sound plots for his productions.
 

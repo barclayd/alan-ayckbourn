@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2007"
 source: "http://biography.alanayckbourn.net/styled-22/page86/"
-order: 83
+order: 301
 ---
 
 **[\<\<\< Previous page](/life/chronology/2006)**
@@ -12,7 +12,7 @@ order: 83
 
 During 2007, Alan Ayckbourn…
 
-○ announced on 1 June, he was to step down as Artistic Director of the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** in 2009.
+○ announced on 1 June, he was to step down as Artistic Director of the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** in 2009.
 
 ○ returned to direct ***[Intimate Exchanges](/plays/intimate-exchanges)***, which then transfered in its entirety to the *Brits Off Broadway* festival in New York.
 
