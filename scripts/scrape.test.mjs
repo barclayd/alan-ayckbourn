@@ -501,3 +501,48 @@ test('the footer credit leaves the paragraph it was glued to, not the paragraph'
   assert.deepEqual(alone.blocks, []);
   assert.equal(alone.credits, 1);
 });
+
+test('an index that labels its own rows is content, not sibling-nav', () => {
+  /* The Play Index sets 1959–1990 and 1991–present as two paragraphs of the same
+     list; on the link ratio alone they score 0.633 and 0.583, so the first was
+     dropped and the second kept. The label rows are what the archive's indexes
+     have and its navigation does not. */
+  const index = {
+    type: 'p',
+    text: [
+      '**1959**',
+      '○ [The Square Cat](/plays/the-square-cat)',
+      '○ [Love After All](/plays/love-after-all)',
+      '**1960**',
+      "○ [Dad's Tale](/plays/dads-tale)",
+    ].join('  \n'),
+  };
+  assert.deepEqual(dropNavBlocks([index], 'Play Titles (by year)').blocks, [
+    index,
+  ]);
+  /* The FAQ lists bold the links themselves, so bold alone would have rescued
+     every one of them. They are still navigation. */
+  const faq = {
+    type: 'p',
+    text: [
+      '**○ [FAQs: Writing](../../styled-5/styled-12/BiographyFAQWriting.html)**',
+      '**○ [FAQs: National Theatre](../../styled-5/styled-14/BiographyFAQNational.html)**',
+    ].join('  \n'),
+  };
+  assert.deepEqual(dropNavBlocks([faq], 'FAQs: Film').blocks, []);
+  /* And the Related Pages box does have an unlinked label. What gives it away is
+     the entry: an italic title and its suffix are two anchors on one destination,
+     so the row points at a page rather than listing one. */
+  const related = {
+    type: 'p',
+    text: [
+      '**Other Perspectives**',
+      '\u25cb *[Way Upstream](/plays/way-upstream/nt/the-nt-paul-allen)*[at the NT by Paul Allen](/plays/way-upstream/nt/the-nt-paul-allen)',
+      '\u25cb *[Way Upstream](/plays/way-upstream/nt/the-nt-alan-ayckbourn)*[at the NT by Alan Ayckbourn](/plays/way-upstream/nt/the-nt-alan-ayckbourn)',
+    ].join('  \n'),
+  };
+  assert.deepEqual(
+    dropNavBlocks([related], 'Way Upstream at the NT').blocks,
+    [],
+  );
+});

@@ -13,6 +13,108 @@ order: 247
 **1955**  
 ○ [Romeo & Juliet](/career/actor/romeo-and-juliet)
 
+**1956**  
+○ [Macbeth](/career/actor/macbeth)  
+○ [The Strong Are Lonely](/career/actor/the-strong-are-lonely)  
+○ [The Corn Is Green](/career/actor/the-corn-is-green)  
+○ [It's A Wise Child](/career/actor/its-a-wise-child)
+
+**1957**  
+○ [South Sea Bubble](/career/actor/south-sea-bubble)  
+○ [She Stoops To Conquer](/career/actor/she-stoops-to-conquer)  
+○ [Flare Path](/career/actor/flare-path)  
+○ [The Happiest Days Of Your Life](/career/actor/the-happiest-days-of-your-life)  
+○ [The Rainmaker](/career/actor/the-rainmaker)  
+○ [An Inspector Calls](/career/actor/an-inspector-calls)  
+○ [The Ornamental Hermit](/career/actor/the-ornamental-hermit)  
+○ [Under Milk Wood](/career/actor/under-milk-wood)  
+○ [Life With Father](/career/actor/life-with-father)  
+○ [Mademoiselle Jaire](/career/actor/mademoiselle-jaire)
+
+**1958**  
+○ [Darling](/career/actor/darling)  
+○ [Henry IV](/career/actor/henry-iv)  
+○ [Cards Of Identity](/career/actor/cards-of-identity)  
+○ [Captain Carvallo](/career/actor/captain-carvallo)  
+○ [Dial M For Murder](/career/actor/dial-m-for-murder)  
+○ [Love And Chance](/career/actor/love-and-chance)  
+○ [Man With A Flower In His Mouth](/career/actor/man-with-a-flower-in-his-mouth)  
+○ [Martine](/career/actor/martine)  
+○ [Ring Of Roses](/career/actor/ring-of-roses)  
+○ [Squaring The Circle](/career/actor/squaring-the-circle)
+
+**1959**  
+○ [The Birthday Party](/career/actor/the-birthday-party)  
+○ [Bell, Book And Candle](/career/actor/bell-book-and-candle)  
+○ [Easter](/career/actor/easter)  
+○ [Frankenstein](/career/actor/frankenstein)  
+○ [The Square Cat](/career/actor/the-square-cat)
+
+**1960**  
+○ [Then...](/career/actor/then)  
+○ [The Sacrifice of Isaac](/career/actor/the-sacrifice-of-isaac)  
+○ [The Way of the Cross](/career/actor/the-way-of-the-cross)  
+○ [Viennese Interlude](/career/actor/viennese-interlude)  
+○ ['Prentice Pillar](/career/actor/prentice-pillar)  
+○ [Wuthering Heights](/career/actor/wuthering-heights)  
+○ [Love After All](/career/actor/love-after-all)  
+○ [The Ark](/career/actor/the-ark)  
+○ [Soldier From The Wars Returning](/career/actor/soldier-from-the-wars-returning)  
+○ [Five Finger Exercise](/career/actor/five-finger-exercise)  
+○ [Dad's Tale](/career/actor/dads-tale)
+
+**1961**  
+○ [Victoria Regina](/career/actor/victoria-regina)  
+○ [Five Finger Exercise](/career/actor/five-finger-exercise)  
+○ [Soldier From The Wars Returning](/career/actor/soldier-from-the-wars-returning)  
+○ [Little Brother, Little Sister](/career/actor/little-brother-little-sister)  
+○ [Standing Room Only](/career/actor/standing-room-only)  
+○ [Stranger In The Family](/career/actor/stranger-in-the-family)  
+○ [The Bed Life Of A Mad Boy](/career/actor/the-bed-life-of-a-mad-boy)  
+○ [The Boys And The Girls](/career/actor/the-boys-and-the-girls)  
+○ [Love Undertaken](/career/actor/love-undertaken)
+
+**1962**  
+○ [Follow The Lover](/career/actor/follow-the-lover)  
+○ [A Doll's House](/career/actor/a-dolls-house)  
+○ [Hamlet](/career/actor/hamlet)  
+○ [O'Flaherty V.C.](/career/actor/oflaherty-v-c)  
+○ [Usher](/career/actor/usher)  
+○ [The Birds And The Well-Wishers](/career/actor/the-birds-and-the-well-wishers)  
+○ [The Rainmaker](/career/actor/alan-ayckbourn-actor)  
+○ [Death At The New Year](/career/actor/death-at-the-new-year)  
+○ [The Birds And The Well-Wishers](/career/actor/the-birds-and-the-wellwishers)  
+○ [O'Flaherty V.C.](/career/actor/oflaherty-v-c-2)  
+○ [The Caretaker](/career/actor/the-caretaker)  
+○ [Usher](/career/actor/usher-2)  
+○ [The Rainmaker](/career/actor/the-rainmaker-2)  
+○ [Christmas V Mastermind](/career/actor/christmas-v-mastermind)
+
+**1963**  
+○ [The Rehearsal](/career/actor/the-rehearsal)  
+○ [Waiting For Godot](/career/actor/waiting-for-godot)  
+○ [An Awkward Number](/career/actor/an-awkward-number)  
+○ [A Man For All Seasons](/career/actor/a-man-for-all-seasons)  
+○ [The Rainbow Machine](/career/actor/the-rainbow-machine)  
+○ [Miss Julie](/career/actor/miss-julie)  
+○ [The Caretaker](/career/actor/the-caretaker-2)  
+○ [Two For The Seesaw](/career/actor/two-for-the-seesaw)  
+○ [The Dumb Waiter](/career/actor/the-dumb-waiter)  
+○ [The Collection](/career/actor/the-collection)  
+○ [Ted's Cathedral](/career/actor/teds-cathedral)  
+○ [Gaslight](/career/actor/gaslight)  
+○ [The Prisoner](/career/actor/the-prisoner)
+
+**1964**  
+○ [The Jew Of Malta](/career/actor/the-jew-of-malta)  
+○ [The Doctor And The Devils](/career/actor/the-doctor-and-the-devils)  
+○ [Two For The Seesaw](/career/actor/two-for-the-seesaw-2)  
+○ [Much Ado About Nothing](/career/actor/much-ado-about-nothing)
+
+**2020**  
+○ [Anno Domino](/career/actor/anno-domino)  
+○ [Haunting Julia](/career/actor/haunting-julia)
+
 **2023**  
 ○ [Truth Will Out](/career/actor/truth-will-out)
 

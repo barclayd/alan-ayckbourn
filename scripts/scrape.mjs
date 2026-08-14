@@ -941,13 +941,56 @@ const linkText = (text) =>
   (text.match(/\[[^\]]*\]\([^)]*\)/g) || []).join('').replace(/\([^)]*\)/g, '')
     .length;
 
+/*
+ * Rows that label the list they head: `**1959**` over the plays of that year,
+ * `**F**` over the F titles, `**As Actor**` over the National Theatre parts.
+ * Sibling-nav has no such rows — it is a flat run of links — so a list that
+ * organises itself is an index the archive wrote, and the archive's indexes are
+ * the one kind of content that is nothing but links.
+ *
+ * A label row is bold and holds no link. The bold is what the archive typed;
+ * the missing link is what separates it from the FAQ nav lists, which bold the
+ * links themselves and are still navigation.
+ *
+ * One row is enough, because the A–Z index sets every letter as its own
+ * paragraph: `**A**` and its twelve plays, then `**B**` and its nine. Asking for
+ * two rescued the year chronology and left twenty-six letters on the floor.
+ */
+const hasLabelRow = (text) =>
+  text
+    .split('  \n')
+    .some(
+      (line) => /^\*\*[^*]+\*\*$/.test(line.trim()) && !line.includes(']('),
+    );
+
+/*
+ * The one nav list that titles itself: the Related Pages box sets each entry as
+ * `○ *[Way Upstream](…/the-nt-paul-allen)*[at the NT by Paul Allen](…/the-nt-paul-allen)`
+ * — the italic title and its suffix are two anchors on the same destination,
+ * because the italic run broke the link in half. Two links to one page is one
+ * entry, so the row points somewhere rather than saying something, and the box
+ * is navigation however it is labelled. An index entry links its title once.
+ */
+const pointsTwiceAtOnePage = (text) =>
+  text.split('  \n').some((row) => {
+    const hrefs = [...row.matchAll(/\]\(([^)]*)\)/g)].map(([, href]) => href);
+    return new Set(hrefs).size < hrefs.length;
+  });
+
 /**
  * A paragraph that is almost entirely links is the old sibling-nav, not prose —
  * unless it is a zipped data sheet, where every value being a link to the play
- * or the venue it names is the sheet doing its job.
+ * or the venue it names is the sheet doing its job, or an index with label rows.
+ *
+ * The ratio alone was deciding identical content by coin flip: the Play Index
+ * prints 1959–1990 and 1991–present as two paragraphs of the same list, and they
+ * score 0.633 and 0.583, so the first went and the second stayed.
  */
 const isNavBlock = (block) => {
   if (block.type !== 'p' || block.sheet) {
+    return false;
+  }
+  if (hasLabelRow(block.text) && !pointsTwiceAtOnePage(block.text)) {
     return false;
   }
   const text = bareAlts(block.text);
