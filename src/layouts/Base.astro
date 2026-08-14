@@ -42,9 +42,14 @@ const fullTitle =
     <meta name="description" content={description} />
     <meta name="robots" content="noindex, nofollow" />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
-    {/* Declared, so no browser falls back to requesting /favicon.ico — which
-        this site does not have, and which 404s on every page otherwise. */}
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    {/* The original site's own icon: a black-and-white portrait of Alan, in the
+        three sizes it publishes, each cut for the size it is shown at. Declared
+        so no browser falls back to requesting /favicon.ico, which would 404 on
+        every page. */}
+    <link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16" />
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="icon" href="/favicon-64.png" type="image/png" sizes="64x64" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 
     <Font cssVariable="--font-display" preload />
     <Font cssVariable="--font-body" preload />
