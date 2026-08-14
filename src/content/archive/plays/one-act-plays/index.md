@@ -7,6 +7,110 @@ play: "one-act-plays"
 
 The Play Index lists every produced Ayckbourn play and work chronologically with a link to the relative section of the website. Click on a play title to find out more about the play.
 
+### Plays: 1959 - 1990
+
+**1959**  
+○ [The Square Cat](/plays/the-square-cat)  
+○ [Love After All](/plays/love-after-all)  
+**1960**  
+○ [Dad's Tale](/plays/dads-tale)  
+○ [Double Hitch](/plays/double-hitch) *(Grey play)*  
+**1961**  
+○ [Standing Room Only](/plays/standing-room-only)  
+○ [Love Undertaken](/plays/love-undertaken) *(Grey play)*  
+**1962**  
+○ [Christmas V Mastermind](/plays/christmas-v-mastermind)  
+○ [Countdown](/plays/countdown) *(One act)*  
+○ [Follow The Lover](/plays/follow-the-lover) *(Grey play)*  
+**1963**  
+○ [Mr Whatnot](/plays/mr-whatnot)  
+**1965**  
+○ [Relatively Speaking](/plays/relatively-speaking)  
+**1967**  
+○ [The Sparrow](/plays/the-sparrow)  
+**1969**  
+○ [How The Other Half Loves](/plays/how-the-other-half-loves)  
+○ [Ernie's Incredible Illucinations](/plays/ernies-incredible-illucinations) *(Children's play)*  
+**1970**  
+○ [Family Circles](/plays/family-circles)  
+**1971**  
+○ [Time And Time Again](/plays/time-and-time-again)  
+**1972**  
+○ [Absurd Person Singular](/plays/absurd-person-singular)  
+**1973**  
+○ [The Norman Conquests](/plays/the-norman-conquests) *(Trilogy consisting of…)*  
+○ [Living Together](/plays/the-norman-conquests)  
+○ [Table Manners](/plays/the-norman-conquests)  
+○ [Round And Round The Garden](/plays/the-norman-conquests)  
+**1974**  
+○ [Absent Friends](/plays/absent-friends)  
+○ [Confusions](/plays/confusions)  
+**1975**  
+○ [Jeeves](/plays/jeeves)  
+○ [Bedroom Farce](/plays/bedroom-farce)  
+○ [Dracula](/plays/dracula-sketch-from) *(Grey play)*  
+**1976**  
+○ [Just Between Ourselves](/plays/just-between-ourselves)  
+**1977**  
+○ [Ten Times Table](/plays/ten-times-table)  
+○ [The Jubilee Show](/plays/the-jubilee-show) *(Grey play)*  
+**1978**  
+○ [Joking Apart](/plays/joking-apart)  
+○ [Men On Women On Men](/plays/men-on-women-on-men) *(Revue)*  
+**1979**  
+○ [Sisterly Feelings](/plays/sisterly-feelings)  
+○ [Taking Steps](/plays/taking-steps)  
+**1980**  
+○ [Suburban Strains](/plays/suburban-strains)  
+○ [Season’s Greetings](/plays/seasons-greetings)  
+○ [First Course](/plays/first-course) *(Revue)*  
+○ [Second Helping](/plays/second-helping) *(Revue)*  
+**1981**  
+○ [Way Upstream](/plays/way-upstream)  
+○ [Making Tracks](/plays/making-tracks)  
+○ [Me, Myself & I](/plays/me-myself-and-i) *(Revue)*  
+**1982**  
+○ [Intimate Exchanges](/plays/intimate-exchanges)  
+○ [A Trip To Scarborough](/plays/a-trip-to-scarborough-sheridan) *(Adaptation)*  
+**1983**  
+○ [It Could Be Any One Of Us](/plays/it-could-be-any-one-of-us)  
+○ [Incidental Music](/plays/incidental-music) *(Revue)*  
+○ [Backnumbers](/plays/backnumbers-with-paul-todd) *(Grey play)*  
+**1984**  
+○ [A Chorus Of Disapproval](/plays/a-chorus-of-disapproval)  
+○ [A Cut In The Rates](/plays/a-cut-in-the-rates) *(One act)*  
+○ [The 7 Deadly Virtues](/plays/the-7-deadly-virtues) *(Revue)*  
+○ [The Westwoods: His Side](/plays/the-westwoods-his-side) *(One act)*  
+○ [The Westwoods: Her Side](/plays/the-westwoods-his-side) *(One act)*  
+**1985**  
+○ [Woman In Mind](/plays/woman-in-mind)  
+○ [Tons Of Money](/plays/tons-of-money-evans-and-valentine) *(Adaptation)*  
+○ [Boy Meets Girl](/plays/boy-meets-girl) *(Revue)*  
+○ [Girl Meets Boy](/plays/boy-meets-girl) *(Revue)*  
+**1986**  
+○ [Mere Soup Songs](/plays/mere-soup-songs) *(Revue)*  
+**1987**  
+○ [A Small Family Business](/plays/a-small-family-business)  
+○ [Henceforward...](/plays/henceforward)  
+○ [An Evening With PALOS](/plays/an-evening-with-palos) *(Grey play)*  
+**1988**  
+○ [Man Of The Moment](/plays/man-of-the-moment)  
+○ [Mr. A’s Amazing Maze Plays](/plays/mr-as-amazing-maze-plays)  
+**1989**  
+○ [The Revengers’ Comedies](/plays/the-revengers-comedies)  
+○ [Invisible Friends](/plays/invisible-friends)  
+○ [Wolf At The Door](/plays/wolf-at-the-door-becque) *(Adaptation)*  
+○ [The Inside Outside Slide Show](/plays/the-inside-outside-slide-show) *(Children's play)*  
+○ [The Fearsome Threesome](/plays/the-fearsome-threesome-ghost-stories) *(Grey play)*  
+**1990**  
+○ [Body Language](/plays/body-language)  
+○ [This Is Where We Came In](/plays/this-is-where-we-came-in)  
+○ [Callisto 5](/plays/callisto-5)  
+**1991**  
+○ [Wildest Dreams](/plays/wildest-dreams)  
+○ [My Very Own Story](/plays/my-very-own-story)  
+○ [Ron & Julie](/plays/ron-and-julie) *(Grey play)*
+
 ### Plays: 1991 - Present
 
 **1992**  

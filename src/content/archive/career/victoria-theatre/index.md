@@ -33,12 +33,45 @@ The Victoria Theatre would go on to became a theatre of immense regional importa
 ○ *[The Caretaker](/career/directing-career/the-caretaker-1962)*  
 ○ *[Christmas V Mastermind](/plays/christmas-v-mastermind)*
 
+**1963**  
+○ *[The Glass Menagerie](/career/directing-career/the-glass-menagerie)*  
+○ *[The Mating Season](/career/directing-career/the-mating-season)*  
+○ *[Miss Julie](/career/directing-career/miss-julie)*  
+○ *[Mr Whatnot](/plays/mr-whatnot)*  
+○ *[The Rainbow Machine](/career/directing-career/the-rainbow-machine)*  
+○ *[The Referees](/career/directing-career/the-referees)*  
+○ *[Standing Room Only](/plays/standing-room-only)*
+
 **As Writer**  
 **1962**  
 ○ *[Christmas V Mastermind](/plays/christmas-v-mastermind)*
 
 **1963**  
 ○ *[Mr Whatnot](/plays/mr-whatnot)*
+
+**As Actor**  
+**1962**  
+○ *[The Birds & The Well-Wishers](/career/actor/the-birds-and-the-wellwishers)*  
+○ *[O'Flaherty V.C.](/career/actor/oflaherty-v-c-2)*  
+○ *[The Caretaker](/career/actor/the-caretaker)*  
+○ *[Usher](/career/actor/usher-2)*  
+○ *[The Rainmaker](/career/actor/the-rainmaker-2)*  
+○ *[Christmas V Mastermind](/career/actor/christmas-v-mastermind)*
+
+**1963**  
+○ *[The Rehearsal](/career/actor/the-rehearsal)*  
+○ *[Waiting For Godot](/career/actor/waiting-for-godot)*  
+○ *[An Awkward Number](/career/actor/an-awkward-number)*  
+○ *[A Man For All Seasons](/career/actor/a-man-for-all-seasons)*  
+○ *[The Rainbow Machine](/career/actor/the-rainbow-machine)*  
+○ *[Miss Julie](/career/actor/miss-julie)*  
+○ *[The Caretaker](/career/actor/the-caretaker-2)*  
+○ *[Two For The Seesaw](/career/actor/two-for-the-seesaw)*  
+○ *[The Dumb Waiter](/career/actor/the-dumb-waiter)*  
+○ *[The Collection](/career/actor/the-collection)*  
+○ *[Ted's Cathedral](/career/actor/teds-cathedral)*  
+○ *[Gaslight](/career/actor/gaslight)*  
+○ *[The Prisoner](/career/actor/the-prisoner)*
 
 ***1964***  
 ○ *[The Jew Of Malta](/career/actor/the-jew-of-malta)*

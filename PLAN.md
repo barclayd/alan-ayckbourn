@@ -159,7 +159,7 @@ broken internal links across all 3,640 pages.
 
 ## Migration status — verified 14 Aug 2026
 
-2,428 pages, 810 images and 6 documents written from 155 hosts. Every number the
+2,428 pages, 811 images and 6 documents written from 155 hosts. Every number the
 scraper reports as a gap has been reconciled against the live original site:
 
 | Reported | What it actually is |
@@ -201,7 +201,7 @@ carries `imagesWithoutAlt`; it now reports 0.
 alt text hadn't cost anything. Counting every written page against the cached
 original it came from — image syntax and table pipes stripped, since a described
 image would otherwise read as content the original never had — the archive now
-carries 100.5% of the original's words, and the pages still short of it are short
+carries 100.8% of the original's words, and the pages still short of it are short
 by exactly the sibling-nav lists the redesign replaces with generated navigation.
 Two were real, though:
 
@@ -213,6 +213,46 @@ Two were real, though:
 - `Published / Available to Stage` is a data-sheet key with a slash in it, which
   the key pattern did not admit, so that row stood alone in the prose on 24 pages
   instead of joining the sheet in frontmatter.
+
+**Closed:** the archive's own indexes, which were being read as navigation. The
+Play Index prints its chronology as two paragraphs — 1959–1990 and 1991–present —
+and on the link-density ratio alone they score 0.633 and 0.583, so the first was
+dropped and the second kept. Identical content, decided by a coin flip either
+side of a 0.6 threshold. What separates an index from the old sibling-nav is not
+how much of it is links (both are almost all links) but whether it organises
+itself: an index has rows that label the rows beneath them — `**1959**` over that
+year's plays, `**F**` over the F titles, `**As Actor**` over the National Theatre
+parts — and sibling-nav is a flat run of links. A label row is bold and holds no
+link, which is also what separates it from the FAQ lists, since those bold the
+links themselves and are still navigation. One label row is enough, because the
+A–Z index sets every letter as its own paragraph.
+
+That rescued one list it should not have. The Related Pages box titles itself
+`**Other Perspectives**` over entries like
+`○ *[Way Upstream](…/the-nt-paul-allen)*[at the NT by Paul Allen](…/the-nt-paul-allen)`
+— the italic title and its suffix are two anchors on the same destination,
+because the italic run broke the link in half. Two links to one page is one
+entry, so the row points somewhere rather than saying something, and the box is
+navigation however it is labelled. With both tests in place the corpus separates
+cleanly: 57 blocks and 1,258 lines came back across 9 pages, every rescued label
+a key rather than a nav title, and nothing the redesign generates for itself.
+The archive now carries **100.8%** of the original's words.
+
+What came back is the site's spine: both A–Z play indexes (`plays/index-title`
+and `search/play-index` had been reduced to a handful of letters), the whole
+1959–1990 half of the year-by-year Play Index, the National Theatre and Victoria
+Theatre credit lists grouped by role and year, the Plays Directed list on both
+directing pages, and the three era chronologies on `plays/play-facts` — The
+Library Theatre Years, the Stephen Joseph Theatre In The Round Years and the
+Stephen Joseph Theatre Years — which is the venue history the site tells its own
+chronology through. Restoring them at the scraper meant not re-deriving eras from
+each play's `year` on `/plays`: the archive's own three lists say it, verbatim,
+where it published them.
+
+One cosmetic residue, deliberately left: `**Director: Related Pages**` now stands
+as the surviving title of a box that holds the restored Plays Directed list, on
+two pages. It is the archive's own words, and the general fix — treating any bold
+run above a heading as chrome — would run over all 2,428 pages to tidy two.
 
 **Closed:** the reconstructed tables. 29 pages whose original three- and
 four-column Stacks layouts had been flattening to `**Author** Publication **Date**
