@@ -56,14 +56,14 @@ const routes = [
       enquiries are best sent to the people who wrote it.
     </p>
 
-    <ul class="mt-12 space-y-px overflow-hidden rounded-sm bg-rule">
+    <ul class="mt-12">
       {
         routes.map((route) => (
           <li data-reveal>
             <a
               href={route.href}
               rel="external"
-              class="group flex flex-col gap-2 bg-surface p-6 transition-colors hover:bg-surface-raised"
+              class="group flex flex-col gap-2 border-rule border-t pt-4 pb-6 transition-colors hover:border-accent"
             >
               <span class="flex items-baseline gap-3">
                 <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">

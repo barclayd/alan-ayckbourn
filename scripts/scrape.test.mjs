@@ -93,6 +93,19 @@ test('a second data sheet does not invent qualified keys', () => {
   assert.match(blocks[0].text, /^\*\*Play Number:\*\* 18$/);
 });
 
+test('a banner in the data sheet stays in the prose', () => {
+  /* How The Other Half Loves files its Old Vic banner in the sheet. Lifted into
+     frontmatter it printed its own source at the reader and the file it named
+     was never fetched, because the image download matches against the body. */
+  const banner =
+    '[![The Old Vic, 29 July to 19 September 2026](./_images/banner.png)](http://www.oldvictheatre.com/stage/other-half/)';
+  const { facts, blocks } = extractFacts(
+    sheet('**Play Number:** 9', `**How the Other Half Loves:** ${banner}`),
+  );
+  assert.deepEqual(facts, { 'Play Number': '9' });
+  assert.match(blocks[0].text, /How the Other Half Loves:\*\* \[!\[/);
+});
+
 test('a fact following a premiere is not swallowed by it', () => {
   const { facts } = extractFacts(
     sheet('**World Premiere:** 1975', '**Play Number:** 18'),
