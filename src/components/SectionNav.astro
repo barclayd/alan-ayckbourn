@@ -33,9 +33,12 @@ const children = all
 
 {
   children.length > 0 && (
+    /* Not indexed: it is the same list of sibling titles on all fourteen pages
+       of a section, and each of those pages is its own search result. */
     <nav
       aria-label={`${rootEntry?.data.title ?? 'Section'} pages`}
       class="sticky top-14 z-30 border-rule border-b bg-surface/95 backdrop-blur-sm"
+      data-pagefind-ignore
     >
       <div class="mx-auto flex max-w-6xl items-center gap-4 px-4 sm:px-6">
         {rootEntry && (

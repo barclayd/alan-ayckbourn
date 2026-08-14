@@ -1,0 +1,87 @@
+---
+import Search from './Search.astro';
+
+/**
+ * ⌘K over the whole archive. The header's search icon is a real link to
+ * `/search` that this intercepts, so the feature degrades to a page rather than
+ * to nothing.
+ *
+ * ponytail: <dialog> again — Escape, the focus trap, the backdrop and the return
+ * of focus are native. The only script here is the shortcut and the intercept.
+ *
+ * `mx-auto` below because Tailwind's preflight zeroes the `margin: auto` a
+ * dialog centres itself with, which parks the panel against the left edge.
+ * (Noted here rather than in the tag: Astro reads anything inside a tag as a
+ * prop, comment or not.)
+ */
+---
+
+<dialog
+  id="palette"
+  aria-label="Search the archive"
+  class="mx-auto w-[min(46rem,calc(100vw-1.5rem))] rounded-sm border border-rule bg-surface p-0 text-body shadow-2xl shadow-black/40 backdrop:bg-chrome/80 backdrop:backdrop-blur-sm sm:mt-[12vh]"
+>
+  <div class="max-h-[min(70dvh,44rem)] overflow-y-auto p-5 sm:p-7">
+    <Search id="palette-q" autofocus />
+
+    <p
+      class="mt-6 hidden items-center gap-2 border-rule border-t pt-4 font-ui text-[0.65rem] uppercase tracking-[0.15em] text-muted sm:flex"
+    >
+      <kbd class="rounded border border-rule px-1.5 py-0.5 font-ui">&uarr;</kbd>
+      <kbd class="rounded border border-rule px-1.5 py-0.5 font-ui">&darr;</kbd>
+      to move
+      <kbd class="ml-2 rounded border border-rule px-1.5 py-0.5 font-ui">esc</kbd>
+      to close
+      <a href="/search" class="ml-auto normal-case hover:text-accent">
+        Open the search page
+      </a>
+    </p>
+  </div>
+</dialog>
+
+<script>
+  const palette = document.querySelector<HTMLDialogElement>('#palette');
+
+  if (palette) {
+    const open = () => {
+      if (!palette.open) palette.showModal();
+    };
+
+    /* Chrome's `type="search"` input eats the first Escape to clear itself, so
+       the dialog never sees the close request and dismissing took two presses.
+       Closing is what a person meant by the first one. */
+    palette.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') palette.close();
+    });
+
+    document.addEventListener('keydown', (event) => {
+      const key = event.key.toLowerCase();
+      /* ⌘K and Ctrl+K, plus `/` the way every archive and forum has bound it —
+         but not while someone is typing into a field. */
+      const typing = (event.target as HTMLElement)?.closest(
+        'input, textarea, select, [contenteditable]',
+      );
+      if (key === 'k' && (event.metaKey || event.ctrlKey)) {
+        event.preventDefault();
+        open();
+      } else if (key === '/' && !typing) {
+        event.preventDefault();
+        open();
+      }
+    });
+
+    /* The header icon and the footer link are ordinary links to `/search`.
+       Intercepted here, they open the palette instead — and a modified click
+       (new tab, new window) is left alone, because that is what was asked for. */
+    document.addEventListener('click', (event) => {
+      const mouse = event as MouseEvent;
+      if (mouse.metaKey || mouse.ctrlKey || mouse.shiftKey || mouse.button !== 0)
+        return;
+      const link = (event.target as HTMLElement).closest('a[href="/search"]');
+      /* Except the palette's own escape hatch to the full page. */
+      if (!link || palette.contains(link)) return;
+      event.preventDefault();
+      open();
+    });
+  }
+</script>

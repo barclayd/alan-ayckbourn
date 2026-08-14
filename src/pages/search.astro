@@ -1,0 +1,41 @@
+---
+import Search from '@/components/Search.astro';
+import Base from '@/layouts/Base.astro';
+
+/**
+ * The search page proper. 4,928 links across the archive point here, it is
+ * where `?q=` deep links land, and it is what the ⌘K palette degrades to when
+ * there is no JS to intercept the header icon.
+ */
+---
+
+<Base
+  title="Search"
+  description="Search 2,458 pages on the plays, life and career of Sir Alan Ayckbourn."
+  indexed={false}
+>
+  <div class="mx-auto max-w-3xl px-4 pt-16 pb-24 sm:px-6">
+    <p
+      class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+      data-reveal
+    >
+      The Archive
+    </p>
+    <h1
+      class="mt-4 font-display text-[clamp(2.5rem,7vw,4.5rem)] uppercase leading-[0.9]"
+      data-reveal
+    >
+      Search
+    </h1>
+    <p class="mt-5 max-w-[52ch] text-muted" data-reveal>
+      Two and a half thousand pages on the plays, the life and the career. Press
+      <kbd
+        class="rounded border border-rule px-1.5 py-0.5 font-ui text-xs">&#8984;K</kbd
+      > from anywhere on the site.
+    </p>
+
+    <div class="mt-12">
+      <Search id="page-q" autofocus />
+    </div>
+  </div>
+</Base>
