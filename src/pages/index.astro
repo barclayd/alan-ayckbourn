@@ -37,54 +37,6 @@ const stats = [
   { value: pageCount, label: 'Pages in this archive' },
 ];
 
-/*
- * Twenty-five, chosen by hand, in the order they were written.
- *
- * The archive ranks nothing — every play carries the same fields — so a
- * "selected work" derived from the data could only ever mean "the first
- * twenty-five chronologically", which stops in 1975. These are the plays that
- * are still revived, spanning the whole working life; everything else is one
- * click away in `/plays`, and the decades below list all of it.
- */
-const SELECTED = [
-  'the-square-cat',
-  'relatively-speaking',
-  'how-the-other-half-loves',
-  'absurd-person-singular',
-  'the-norman-conquests',
-  'absent-friends',
-  'confusions',
-  'bedroom-farce',
-  'just-between-ourselves',
-  'taking-steps',
-  'seasons-greetings',
-  'intimate-exchanges',
-  'a-chorus-of-disapproval',
-  'woman-in-mind',
-  'a-small-family-business',
-  'henceforward',
-  'man-of-the-moment',
-  'the-revengers-comedies',
-  'time-of-my-life',
-  'communicating-doors',
-  'things-we-do-for-love',
-  'house-and',
-  'private-fears-in-public-places',
-  'neighbourhood-watch',
-  'a-brief-history-of-women',
-];
-
-const byId = new Map(plays.map((p) => [p.id.replace('plays/', ''), p]));
-/* Throws the build rather than silently dropping a card: a renamed page is a
-   thing to fix, not a hole in the grid. */
-const selected = SELECTED.map((slug) => {
-  const play = byId.get(slug);
-  if (!play) {
-    throw new Error(`Selected play is not in the archive: plays/${slug}`);
-  }
-  return play;
-});
-
 const decades = [
   ...Map.groupBy(plays, (p) => Math.floor((p.data.year ?? 0) / 10) * 10),
 ].sort(([a], [b]) => a - b);
@@ -413,20 +365,37 @@ const [stageWide, stageNarrow] = await Promise.all([
         <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl">
           Selected work
         </h2>
-        <p class="font-ui text-xs text-muted">
-          Twenty-five plays, in the order they were written
-        </p>
       </div>
 
-      <ul class="mt-10 grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5">
+      <ul
+        id="selected-work"
+        class="mt-10 grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5"
+      >
         {
-          selected.map((play) => (
+          plays.map((play) => (
             <li data-reveal>
               <PlayCard play={play} />
             </li>
           ))
         }
       </ul>
+
+      <script is:inline>
+        /* A different draw each visit. The whole catalogue is in the list and
+           the CSS below shows the first twenty-five or so, so shuffling the
+           order is the whole of the selection — and without scripting the page
+           still opens on a full grid, in the order the plays were written.
+           Inline and directly after the list, so it runs before first paint. */
+        {
+          const grid = document.getElementById('selected-work');
+          const cards = [...grid.children];
+          for (let i = cards.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [cards[i], cards[j]] = [cards[j], cards[i]];
+          }
+          grid.append(...cards);
+        }
+      </script>
 
       {/* The way on from a grid that stops: a full-width row rather than a
           button, so it reads as the next line of the page. */}
@@ -535,3 +504,32 @@ const [stageWide, stageNarrow] = await Promise.all([
     for (const el of targets) io.observe(el);
   }
 </script>
+
+<style>
+  /*
+   * Twenty-five plays, and one or two more where a row would otherwise end
+   * short: the grid runs two columns, then three, then five, and twenty-five
+   * only divides by the last of them. The rest of the catalogue stays in the
+   * list for the shuffle to draw from — display:none, so the browser fetches
+   * none of their posters.
+   */
+  #selected-work > li:nth-child(n + 27) {
+    display: none;
+  }
+
+  @media (width >= 40rem) {
+    #selected-work > li:nth-child(27) {
+      display: block;
+    }
+
+    #selected-work > li:nth-child(n + 28) {
+      display: none;
+    }
+  }
+
+  @media (width >= 64rem) {
+    #selected-work > li:nth-child(n + 26) {
+      display: none;
+    }
+  }
+</style>
