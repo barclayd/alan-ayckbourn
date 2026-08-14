@@ -1207,6 +1207,9 @@ function render(blocks, depth = 0) {
    lines were the one row of the sheet left standing in the prose. */
 const FACT_LINE = /^\*\*([A-Z][A-Za-z'/ ]{1,30}?):?\*\*:?\s*(.+)$/;
 
+/** An image, on its own or wrapped in a link, and nothing else. */
+const IMAGE_ONLY = /^\[?!\[[^\]]*\]\([^)]*\)(\]\([^)]*\))?$/;
+
 function extractFacts(blocks) {
   const facts = {};
   const kept = [];
@@ -1224,6 +1227,21 @@ function extractFacts(blocks) {
         rest.push(line);
         continue;
       }
+      /*
+       * A picture is not a datum. `**How the Other Half Loves:** [![The Old
+       * Vic, 29 July to 19 September 2026](banner.png)](oldvictheatre.com)` is
+       * the archive's current-production banner, filed in the data sheet
+       * because that is where it happened to sit — and lifted into frontmatter
+       * it broke twice over: nothing renders markdown in a fact, so the reader
+       * got the source printed at them, and the image keep-filter below matches
+       * against the body, so the file it named was never even fetched. It stays
+       * in the prose, where images are rendered and downloaded.
+       */
+      if (IMAGE_ONLY.test(value)) {
+        rest.push(line);
+        continue;
+      }
+
       // Three "Venue:" lines follow the three premiere dates — qualify each with
       // the premiere it belongs to, or the last one would eat the other two.
       let key = m[1].trim();

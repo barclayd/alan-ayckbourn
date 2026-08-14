@@ -214,13 +214,16 @@ const waysIn = [
       <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl" data-reveal>
         Four ways in
       </h2>
-      <ul class="mt-10 grid gap-px overflow-hidden rounded-sm bg-rule sm:grid-cols-2">
+      {/* Hairline above, no plate: a padded cell holds its text its own padding
+          inside the column, which put every card in this grid 28px right of the
+          heading over it. */}
+      <ul class="mt-10 grid gap-x-8 sm:grid-cols-2">
         {
           waysIn.map(({ href, label, blurb }) => (
             <li data-reveal>
               <a
                 href={href}
-                class="group flex h-full flex-col bg-surface p-7 transition-colors hover:bg-surface-raised"
+                class="group flex h-full flex-col border-rule border-t pt-4 pb-7 transition-colors hover:border-accent"
               >
                 <span class="font-display text-2xl uppercase leading-none transition-colors group-hover:text-accent">
                   {label}

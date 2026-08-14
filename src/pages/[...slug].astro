@@ -262,12 +262,17 @@ const isRail =
           >
             In this section
           </h2>
+          {/* Rows under hairlines rather than padded plates: a plate's text sits
+              its own padding inside the column, so a grid of them ran 20px right
+              of every other thing on the page. The rule carries the division and
+              the text starts where the heading above it starts — which is also
+              how the data sheet at the top of the page is set. */}
           <ul
             class:list={[
               'mt-6',
               isRail
                 ? 'flex flex-wrap gap-2'
-                : 'grid gap-px overflow-hidden rounded-sm bg-rule sm:grid-cols-2 lg:grid-cols-3',
+                : 'grid gap-x-8 sm:grid-cols-2 lg:grid-cols-3',
             ]}
           >
             {children.map((child) => (
@@ -275,10 +280,13 @@ const isRail =
                 <a
                   href={`/${child.id}`}
                   class:list={[
-                    'group flex h-full bg-surface transition-colors hover:bg-surface-raised',
+                    'group flex transition-colors',
+                    /* No `h-full` on the rail: it is not in a grid row to fill,
+                       and paired with `h-14` the two heights race in the sheet
+                       and the letter tile collapses to its line box. */
                     isRail
-                      ? 'h-14 min-w-14 items-center justify-center rounded-sm border border-rule px-4'
-                      : 'items-baseline gap-3 p-5',
+                      ? 'h-14 min-w-14 items-center justify-center rounded-sm border border-rule bg-surface px-4 hover:bg-surface-raised'
+                      : 'h-full items-baseline gap-3 border-rule border-t pt-3.5 pb-5 hover:border-accent',
                   ]}
                 >
                   <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">
