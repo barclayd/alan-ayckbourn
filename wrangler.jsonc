@@ -11,6 +11,11 @@
   // which is the right outcome. `404-page` catches anything unmatched here.
   "assets": {
     "directory": "./dist",
-    "not_found_handling": "404-page"
+    "not_found_handling": "404-page",
+    // Every internal href we write is slash-free (`/plays`, not `/plays/`), and
+    // the default `auto-trailing-slash` made the slashed form canonical — so
+    // every link on 2,400 pages paid a 307 before serving. This makes the form
+    // we link canonical and redirects the other way instead.
+    "html_handling": "drop-trailing-slash"
   }
 }
