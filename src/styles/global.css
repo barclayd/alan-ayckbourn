@@ -230,6 +230,12 @@
   line-height: 1.65;
   text-wrap: pretty;
 
+  /* The dateline gutter, declared once for the page: a chronology and a page of
+     quotations both hang a year out here, and they are only the same device if
+     they hang it in the same place. */
+  --tl-gutter: 4.5rem;
+  --tl-gap: 1.75rem;
+
   /*
    * The measure belongs to the text, not to the wrapper. 68 characters is the
    * length of a line you read; a four-column table of premieres is not a line
@@ -253,11 +259,129 @@
     margin-top: 1.25em;
   }
 
-  /* Opening paragraph reads as a lead. */
-  & > p:first-child {
+  /*
+   * Opening paragraph reads as a lead — where it is the page's own first
+   * sentence. It is not one on the several hundred pages that open with the
+   * archivist's note, and it is not one on the hundred that open with a
+   * quotation, which is now a blockquote and no longer this selector's business
+   * either. A page of quotations printing its first quotation twenty per cent
+   * larger than the nineteen under it was the whole of that bug.
+   */
+  & > p:first-child:not(.note) {
     font-size: 1.2em;
     line-height: 1.55;
     color: var(--color-body);
+  }
+
+  /*
+   * The archivist writing to the reader rather than about the play: "This page
+   * contains a selection of reviews…", "Quotes by other writers can be found
+   * here". He marked them by italicising the whole paragraph, which at the
+   * reading size is a paragraph of italics — as heavy on the page as the thing
+   * it introduces and harder to read.
+   *
+   * Set in the UI face instead, under the rule the page proper starts below.
+   * Small, quiet, and unmistakably apparatus. The italics come off because they
+   * were doing this job and the face does it now.
+   */
+  & p.note {
+    margin-bottom: 2.25em;
+    border-bottom: 1px solid var(--color-rule);
+    padding-bottom: 1.1em;
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  /*
+   * Question and answer, on the play FAQs and in the interviews. The archivist
+   * types the question bold and the answer under a line break, so at a glance a
+   * page of ten is ten paragraphs of body text with some bold in them.
+   *
+   * The question is the page's index — it is what a reader scans for — so it
+   * takes the UI face and the accent, and the answer keeps the reading face.
+   */
+  & p.qa {
+    margin-top: 2.5em;
+  }
+
+  & p.qa > strong:first-child {
+    display: block;
+    margin-bottom: 0.45em;
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.45;
+    letter-spacing: -0.005em;
+    color: var(--color-accent);
+  }
+
+  /* The break the question was separated by — the block above supplies it. */
+  & p.qa > strong:first-child + br {
+    display: none;
+  }
+
+  /*
+   * A quotation, and the year it was said in.
+   *
+   * Ninety-three per cent of the archive's quotations name a year, and on five
+   * in six of the play quotes pages they run in order — so a quotes page is a
+   * chronology of Alan talking about one play, sometimes across forty years.
+   * Typed as prose that is invisible: twenty identical slabs, each opening with
+   * a quotation mark, the dates buried at the end of each.
+   *
+   * So the year hangs in the same gutter the chronologies use, and a reader can
+   * scan the dates alone and land on 1971 or on 2007. It is aria-hidden: the
+   * source line under the quotation says it in full, and a screen reader should
+   * hear "Financial Times, 8 July 1971" once rather than "1971" and then it.
+   */
+  & blockquote.quote {
+    display: grid;
+    grid-template-columns: var(--tl-gutter) 1fr;
+    column-gap: var(--tl-gap);
+    max-width: calc(45.75rem + var(--tl-gutter) + var(--tl-gap));
+    margin-top: 2.1em;
+  }
+
+  & blockquote.quote > :not(.q-year) {
+    grid-column: 2;
+  }
+
+  & .q-year {
+    grid-column: 1;
+    grid-row: 1;
+    /* Optical: display caps against body text at 1.65 line-height sit high
+       unless nudged onto the first line's cap height. */
+    padding-top: 0.28rem;
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    text-align: right;
+    color: var(--color-accent);
+  }
+
+  /* Someone else quoted rather than Alan: the premiere notices, the passages
+     from books. It keeps the reading measure — there is no dateline to hang —
+     and takes the same source line, so a citation is a citation wherever in the
+     archive a reader meets one. */
+  & blockquote.extract {
+    margin-top: 1.6em;
+  }
+
+  /* The source, with the parentheses the archivist wrote around it taken off:
+     they were the only mark saying "this is where it comes from", and standing
+     apart in the UI face under the quotation says it better. */
+  & :is(blockquote.quote, blockquote.extract) > footer {
+    margin-top: 0.7em;
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.13em;
+    line-height: 1.6;
+    text-transform: uppercase;
+    color: var(--color-muted);
   }
 
   & h2,
@@ -428,6 +552,14 @@
     color: var(--color-muted);
   }
 
+  /* The italics the archivist used to mark a note, a source or a credit were
+     the only way he had of saying which of the three it was. Now the face says
+     it, so they come off. After the caption rules above, which are the least
+     specific of the several this could otherwise lose to. */
+  & :is(p.note, blockquote > footer) em {
+    font-style: normal;
+  }
+
   /* Pull-out boxes ("Behind The Scenes: …") from the original site. */
   & aside {
     margin-top: 2em;
@@ -496,8 +628,6 @@
    * sat on a row of its own read as belonging to the gap above it.
    */
   & .timeline {
-    --tl-gutter: 4.5rem;
-    --tl-gap: 1.75rem;
     max-width: calc(45.75rem + var(--tl-gutter) + var(--tl-gap));
     padding-left: 0;
     list-style: none;
@@ -660,7 +790,7 @@
   /* Narrow: the gutter collapses and the spine moves to the far left. The
      dateline stacks above its entry rather than shrinking to fit beside it. */
   @media (width < 40rem) {
-    & .timeline {
+    & {
       --tl-gutter: 0rem;
       --tl-gap: 1.4rem;
     }
@@ -671,6 +801,19 @@
       padding-top: 0;
       padding-left: var(--tl-gap);
       margin-bottom: 0.35em;
+      text-align: left;
+    }
+
+    /* A quotation has no spine to indent away from, so it takes the full measure
+       and the year sits flush above it. */
+    & blockquote.quote > :not(.q-year) {
+      grid-column: 1 / -1;
+    }
+
+    & .q-year {
+      grid-column: 1 / -1;
+      padding-top: 0;
+      margin-bottom: 0.3em;
       text-align: left;
     }
   }

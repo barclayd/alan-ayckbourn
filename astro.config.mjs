@@ -3,6 +3,7 @@
 import { satteri } from '@astrojs/markdown-satteri';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig, fontProviders } from 'astro/config';
+import prosePlugin from './src/lib/prose.mjs';
 import timelinePlugin from './src/lib/timeline.mjs';
 
 export default defineConfig({
@@ -11,10 +12,14 @@ export default defineConfig({
   trailingSlash: 'never',
   build: { format: 'directory' },
   vite: { plugins: [tailwindcss()] },
-  /* Astro's own processor, with one plugin added: fifty-six of the archive's
-     pages are chronologies typed as prose, and this reads them back as
-     timelines. Every other page comes through untouched. */
-  markdown: { processor: satteri({ hastPlugins: [timelinePlugin] }) },
+  /* Astro's own processor, with two plugins added. Both read structure back out
+     of prose the original site had no styles to express: chronologies as
+     timelines, and quotations, archivist's notes and questions as themselves.
+     Timeline first — it claims whole runs of paragraphs, and a paragraph it has
+     rebuilt into a timeline is no longer a paragraph for prose to look at. */
+  markdown: {
+    processor: satteri({ hastPlugins: [timelinePlugin, prosePlugin] }),
+  },
   /*
    * `optimizedFallbacks: false` on every family: it makes Astro fetch a font
    * file purely to measure it, and a runner once got a 404 from gstatic for a
