@@ -259,7 +259,10 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
                     )}
 
                     <div>
-                      <h3 class="font-display text-[clamp(1.5rem,3.4vw,2.1rem)] uppercase leading-[0.98] text-balance">
+                      {/* Bigger than it was: with the booking moved out to the
+                          dates, the title is what this column is for, and a
+                          call board says the name of the show loudly. */}
+                      <h3 class="font-display text-[clamp(1.5rem,3.4vw,2.5rem)] uppercase leading-[0.98] text-balance">
                         {item.play ? (
                           <a
                             href={item.play}
@@ -280,9 +283,16 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
                         </p>
                       )}
 
-                      <p class="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2 font-ui text-[0.7rem] uppercase tracking-[0.14em]">
-                        {item.play && (
-                          <a href={item.play} class="group text-accent">
+                      {/* The way further into the archive, which is a quieter
+                          errand than booking a seat — so it is set in the muted
+                          ink and the accent is left to the one action the page
+                          exists to enable. */}
+                      {item.play && (
+                        <p class="mt-4 font-ui text-[0.7rem] uppercase tracking-[0.14em]">
+                          <a
+                            href={item.play}
+                            class="group text-muted transition-colors hover:text-body"
+                          >
                             About the play
                             <span
                               aria-hidden="true"
@@ -291,22 +301,8 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
                               &rarr;
                             </span>
                           </a>
-                        )}
-                        {item.href && (
-                          <a
-                            href={item.href}
-                            class="group text-muted transition-colors hover:text-body"
-                          >
-                            {group.id === 'always' ? 'Watch' : 'Tickets'}
-                            <span
-                              aria-hidden="true"
-                              class="ml-1 inline-block transition-transform duration-300 ease-stage group-hover:translate-x-1"
-                            >
-                              &rarr;
-                            </span>
-                          </a>
-                        )}
-                      </p>
+                        </p>
+                      )}
                     </div>
 
                     {/*
@@ -352,6 +348,24 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
                       ) : (
                         <p class="font-ui text-[0.7rem] uppercase tracking-[0.16em] text-muted">
                           No dates listed
+                        </p>
+                      )}
+
+                      {/* Booking sits at the foot of the dates, not beside the
+                          title: a seat is bought for a night at a venue, and
+                          the reader decides on it having just read when the run
+                          is. It ends the column the run rule starts. */}
+                      {item.href && (
+                        <p class="mt-5 font-ui text-[0.7rem] uppercase tracking-[0.14em]">
+                          <a href={item.href} class="group text-accent">
+                            {group.id === 'always' ? 'Watch' : 'Tickets'}
+                            <span
+                              aria-hidden="true"
+                              class="ml-1 inline-block transition-transform duration-300 ease-stage group-hover:translate-x-1"
+                            >
+                              &rarr;
+                            </span>
+                          </a>
                         </p>
                       )}
                     </div>
