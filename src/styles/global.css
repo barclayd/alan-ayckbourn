@@ -170,15 +170,54 @@
 }
 
 /*
+ * The page shell — one left edge for every band on the page.
+ *
+ * This drifted because the shell was retyped at every call site and two idioms
+ * grew up: the heroes put the gutter on the full-bleed band and a bare 72rem box
+ * inside it, while the body put the gutter on the box itself. Those measure the
+ * box against different widths — viewport, or viewport minus gutter — so above
+ * 72rem the heading and the prose it introduced sat 24px apart, which is exactly
+ * the gutter. Named once, "aligned with everything else" is the default.
+ */
+@utility shell {
+  margin-inline: auto;
+  width: 100%;
+  max-width: var(--container-6xl);
+  padding-inline: calc(var(--spacing) * 4);
+
+  @variant sm {
+    padding-inline: calc(var(--spacing) * 6);
+  }
+}
+
+/*
  * Reading surface typography. Hand-rolled rather than @tailwindcss/typography:
  * the archive only ever produces h2–h3, p, em, strong, a, ul/ol, img and
  * <aside>, and every colour would have had to be overridden anyway.
  */
 @utility prose-archive {
-  max-width: 68ch;
   font-size: var(--text-base);
   line-height: 1.65;
   text-wrap: pretty;
+
+  /*
+   * The measure belongs to the text, not to the wrapper. 68 characters is the
+   * length of a line you read; a four-column table of premieres is not a line
+   * you read, and held to 68 characters it wrapped every venue name over three.
+   * So each block of prose takes the measure and the data takes the column.
+   *
+   * Stated once in rem rather than as 68ch per block, because the lead paragraph
+   * and the h2s are set larger and would each count 68 of their own characters —
+   * three different column widths down one page. 45.75rem is what 68 characters
+   * of this body face measures at the 19px reading size.
+   */
+  & > * {
+    max-width: 45.75rem;
+  }
+
+  & > table {
+    max-width: none;
+  }
 
   & > * + * {
     margin-top: 1.25em;
@@ -416,10 +455,10 @@
   /*
    * Timelines, from the chronology pages src/lib/timeline.mjs rebuilds.
    *
-   * The measure is 68ch and the prose is flush left inside a wider container,
-   * so there is no room to hang the dateline outside it. The gutter lives
-   * inside the measure instead, which leaves ~57ch of prose — still a
-   * comfortable line for entries that are one sentence long.
+   * The dateline hangs outside the measure, which is what a chronology wants: the
+   * years run down their own margin and the entries keep a full line. It can,
+   * because the measure is set on each block rather than on the wrapper — the
+   * timeline asks for the measure plus its own gutter.
    *
    * Bands and gaps declare the SAME two columns from the same left edge rather
    * than nesting grids, so the dateline aligns down the whole timeline without
@@ -429,6 +468,7 @@
   & .timeline {
     --tl-gutter: 4.5rem;
     --tl-gap: 1.75rem;
+    max-width: calc(45.75rem + var(--tl-gutter) + var(--tl-gap));
     padding-left: 0;
     list-style: none;
     /* The spine: one hairline, drawn as a background so it needs no element

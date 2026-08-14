@@ -4,7 +4,9 @@ import { type CollectionEntry, getCollection, render } from 'astro:content';
 import Facts from '@/components/Facts.astro';
 import Lightbox from '@/components/Lightbox.astro';
 import SectionNav from '@/components/SectionNav.astro';
+import SectionRail from '@/components/SectionRail.astro';
 import Base from '@/layouts/Base.astro';
+import { siblingsOf } from '@/lib/siblings';
 
 /**
  * Every page of the archive except the handful with a page of their own. One
@@ -73,11 +75,23 @@ const synopsis = facts?.['Short Synopsis'];
 const playNumber = facts?.['Play Number'];
 
 /*
- * A page listing its own children does not also need the rail of them: the two
- * would say exactly the same thing a centimetre apart. The rail is for reading
- * pages, where the siblings are not otherwise on screen.
+ * Where the section list appears — as a bar on a phone, as a right-hand column
+ * on a desktop.
+ *
+ * Not on the page the list belongs to: `/career` and a play landing are the head
+ * of their own section, so their siblings *are* the children they already lay
+ * out below, and the two would say the same thing a centimetre apart. Everywhere
+ * under that head the two lists differ — reading "The National Theatre" you get
+ * the rest of Career beside you and the National Theatre's own pages below — so
+ * both are worth having, and a five-thousand-word article should not make the
+ * way out of it wait until the end.
+ *
+ * Asked here as well as inside the components because the desktop grid reserves
+ * a column for the rail, and a reserved column with nothing in it would narrow
+ * the prose for nothing.
  */
-const showNav = children.length === 0;
+const { root, pages: siblings } = await siblingsOf(entry.id);
+const showNav = siblings.length > 0 && root?.id !== entry.id;
 
 /* A play landing is often nothing but its data sheet once the facts are lifted
    into frontmatter, and an empty prose wrapper still prints its own line-height
@@ -138,7 +152,7 @@ const isRail =
     isPlay ? (
       <header class="bg-chrome text-chrome-ink">
         <div
-          class="mx-auto grid max-w-6xl items-end gap-8 px-4 pt-16 pb-14 sm:grid-cols-[minmax(0,14rem)_1fr] sm:gap-12 sm:px-6"
+          class="shell grid items-end gap-8 pt-16 pb-14 sm:grid-cols-[minmax(0,14rem)_1fr] sm:gap-12"
         >
           {poster && (
             <Image
@@ -173,8 +187,8 @@ const isRail =
         </div>
       </header>
     ) : (
-      <header class="border-rule border-b px-4 pt-12 pb-10 sm:px-6">
-        <div class="mx-auto max-w-6xl">
+      <header class="border-rule border-b pt-12 pb-10">
+        <div class="shell">
           {trail.length > 0 && (
             <nav aria-label="Breadcrumb">
               <ol
@@ -202,31 +216,41 @@ const isRail =
 
   {showNav && <SectionNav id={entry.id} />}
 
-  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
-    {
-      /* The data sheet before the prose: dates and venues are what most people
-         came for, and the archive's own pages open with them too. */
-      isPlay && facts && (
-        <section aria-labelledby="data-sheet" class="mb-14" data-reveal>
-          <h2
-            id="data-sheet"
-            class="mb-6 font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
-          >
-            Production facts
-          </h2>
-          <Facts facts={facts} omit={['Short Synopsis', 'Play Number']} />
-        </section>
-      )
-    }
+  {/* Two columns from `lg`: the reading measure keeps its own width on the left
+      and the section list takes the right edge, so a wide screen holds a page of
+      prose and the way out of it instead of half a screen of nothing. */}
+  <div
+    class:list={[
+      'shell py-14',
+      /* No `items-start`: the rail sticks inside its own grid item, so that item
+         has to run the height of the prose beside it. */
+      showNav && 'lg:grid lg:grid-cols-[minmax(0,1fr)_14rem] lg:gap-14',
+    ]}
+  >
+    <div class="min-w-0">
+      {
+        /* The data sheet before the prose: dates and venues are what most people
+           came for, and the archive's own pages open with them too. */
+        isPlay && facts && (
+          <section aria-labelledby="data-sheet" class="mb-14" data-reveal>
+            <h2
+              id="data-sheet"
+              class="mb-6 font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+            >
+              Production facts
+            </h2>
+            <Facts facts={facts} omit={['Short Synopsis', 'Play Number']} />
+          </section>
+        )
+      }
 
-    {
-      hasBody && (
-        <div class="prose-archive" data-reveal>
-          <Content />
-        </div>
-      )
-    }
-
+      {
+        hasBody && (
+          <div class="prose-archive" data-reveal>
+            <Content />
+          </div>
+        )
+      }
     {
       children.length > 0 && (
         /* Not indexed: every title in here is a page with its own entry, so
@@ -274,6 +298,9 @@ const isRail =
         </nav>
       )
     }
+    </div>
+
+    {showNav && <SectionRail id={entry.id} />}
   </div>
 
   <Lightbox />

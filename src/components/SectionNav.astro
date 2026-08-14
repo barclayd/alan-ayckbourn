@@ -1,71 +1,49 @@
 ---
-import { getCollection } from 'astro:content';
+import { isCurrent, siblingsOf } from '@/lib/siblings';
 
 /**
- * The bar of sibling pages that runs under the header on every reading page.
- * The original site put this in a right-hand column that vanished below 900px;
- * here it is a sticky rail that scrolls sideways on a phone.
+ * The bar of sibling pages that runs under the header on phones and tablets.
+ * On a desktop the same list is a right-hand column instead — see SectionRail —
+ * because the archive's own prose sends readers there, and one list said twice
+ * a centimetre apart is one list too many.
  */
 type Props = { id: string };
 
 const { id } = Astro.props;
-
-const segments = id.split('/');
-
-/* A play is its own section — `plays/woman-in-mind` has fourteen pages under
-   it. Everything else hangs off its top-level folder: `life`, `career`. */
-const root =
-  segments[0] === 'plays' && segments.length > 1
-    ? segments.slice(0, 2).join('/')
-    : segments[0];
-
-const all = await getCollection('archive');
-const rootEntry = all.find((entry) => entry.id === root);
-
-const children = all
-  .filter(
-    (entry) =>
-      entry.id.startsWith(`${root}/`) &&
-      !entry.id.slice(root.length + 1).includes('/'),
-  )
-  .sort((a, b) => a.data.order - b.data.order);
+const { root, pages } = await siblingsOf(id);
 ---
 
 {
-  children.length > 0 && (
+  pages.length > 0 && (
     /* Not indexed: it is the same list of sibling titles on all fourteen pages
        of a section, and each of those pages is its own search result. */
     <nav
-      aria-label={`${rootEntry?.data.title ?? 'Section'} pages`}
-      class="sticky top-14 z-30 border-rule border-b bg-surface/95 backdrop-blur-sm"
+      aria-label={`${root?.data.title ?? 'Section'} pages`}
+      class="sticky top-14 z-30 border-rule border-b bg-surface/95 backdrop-blur-sm lg:hidden"
       data-pagefind-ignore
     >
-      <div class="mx-auto flex max-w-6xl items-center gap-4 px-4 sm:px-6">
-        {rootEntry && (
+      <div class="shell flex items-center gap-4">
+        {root && (
           <a
-            href={`/${rootEntry.id}`}
-            aria-current={id === root ? 'page' : undefined}
+            href={`/${root.id}`}
+            aria-current={id === root.id ? 'page' : undefined}
             class="shrink-0 border-transparent border-b-2 py-3 font-display text-sm uppercase leading-none tracking-wide aria-[current]:border-accent"
           >
-            {rootEntry.data.title}
+            {root.data.title}
           </a>
         )}
 
         {/* One scrolling row: fourteen sections wrap to four rows on a phone,
             and this bar is sticky. */}
         <ul class="flex min-w-0 flex-1 items-center gap-4 overflow-x-auto [scrollbar-width:thin]">
-          {children.map((child) => (
+          {pages.map((page) => (
             <li class="shrink-0">
               <a
-                href={`/${child.id}`}
-                aria-current={
-                  id === child.id || id.startsWith(`${child.id}/`)
-                    ? 'page'
-                    : undefined
-                }
+                href={`/${page.id}`}
+                aria-current={isCurrent(id, page.id) ? 'page' : undefined}
                 class="block whitespace-nowrap border-transparent border-b-2 py-3 font-ui text-[0.72rem] uppercase tracking-[0.14em] text-muted transition-colors hover:text-body aria-[current]:border-accent aria-[current]:text-body"
               >
-                {child.data.title}
+                {page.data.title}
               </a>
             </li>
           ))}

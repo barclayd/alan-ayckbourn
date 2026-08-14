@@ -267,6 +267,35 @@ the first character); header rows the archive drew as their own layout row were
 being dropped as headings labelling nothing; and one `<a>` spanning several rows
 was leaving literal `[`/`](url)` fragments across them.
 
+**Closed:** the page's left edge and its right half. Two faults with one cause —
+the shell was retyped at all 28 call sites and two idioms had grown up. The heroes
+put the gutter on the full-bleed band and a bare `max-w-6xl` box inside it; the
+body put the gutter on the box. Those measure the box against different widths —
+viewport, or viewport minus gutter — so above 72rem a heading and the prose it
+introduced sat exactly one gutter (24px) apart, and below the clamp they agreed,
+which is why it went unseen. One `@utility shell` now names it once.
+
+The wasted right half is answered by giving it a job rather than by widening the
+line. The reading measure stays at 68 characters — the readers here are Sir Alan
+at 87 and the academics who cite him — and from `lg` up the section's pages take
+the right edge as a column, which is where the archive's own prose still sends
+people ("the links in the right-hand column") and where the original site had it
+before it vanished below 900px. Below `lg` the same list is the bar that already
+scrolled sideways under the header, so `src/lib/siblings.ts` answers both. The
+current page is marked by a short accent rule pushed *through* the column's
+hairline rather than by the filled pill every docs site uses.
+
+It appears on every page except the head of a section: `/career` and a play
+landing have their siblings and their children in one list, so a rail there would
+repeat the grid below it. Everywhere under that head the two lists differ, and a
+five-thousand-word article should not make the way out of it wait until the end.
+Two things came out of the same pass: the measure moved from the prose wrapper
+onto each block inside it, which lets the reconstructed four-column tables have
+the whole column instead of wrapping every venue name over three lines, and lets
+a chronology hang its dateline outside the measure the way `.timeline`'s own
+comment had wanted; and it is stated in rem, because as `68ch` per block the
+lead paragraph and the h2s each counted 68 of their own larger characters.
+
 ---
 
 ## Risks
