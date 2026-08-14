@@ -38,23 +38,7 @@ bun run dev
 | `bun run lint` / `lint:fix` | Biome |
 | `bun run types` | `astro sync` + `tsc --noEmit` |
 | `bun run scrape` | Extract content from the existing site (see [Scraping](#scraping)) |
-| `bun run deploy` | Build, crawl links, and `wrangler deploy` by hand |
-
-## Deploying
-
-Merging to `main` deploys. `.github/workflows/ci.yml` runs lint, types, tests, the build and
-the link crawl on every push and pull request, and on `main` pushes only it finishes with
-`wrangler deploy` — so a red check is a release that never happened. Runs on `main` queue
-rather than cancel each other, because a cancelled deploy is a half-uploaded release.
-
-Two repository secrets, both under Settings → Secrets and variables → Actions:
-
-| Secret | Where it comes from |
-|---|---|
-| `CLOUDFLARE_API_TOKEN` | Cloudflare dashboard → My Profile → API Tokens → **Edit Cloudflare Workers** template |
-| `CLOUDFLARE_ACCOUNT_ID` | `bunx wrangler whoami` |
-
-`bun run deploy` still works locally against your own `wrangler login` for a one-off.
+| `bun run deploy` | Build and `wrangler deploy` |
 
 ## Scraping
 
