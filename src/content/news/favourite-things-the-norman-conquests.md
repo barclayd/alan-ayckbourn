@@ -1,0 +1,37 @@
+---
+title: "Favourite Things: The Norman Conquests"
+date: "2019-10-24T09:00:00"
+excerpt: "You would have thought that as one of Alan Ayckbourn’s most famous and popular creations, there would be an over-abundance of treasures in the archive relating to his famed trilogy The Norman Conquests. Unfortunately, there isn’t. Whilst there is an over-abundance of press cuttings, reviews, posters and photographs, there is actually very little that is…"
+categories: ["Archive", "Ayckbourn", "SJT"]
+source: "https://archivingayckbourn.home.blog/2019/10/24/favourite-things-the-norman-conquests/"
+---
+
+<p>You would have thought that as one of Alan Ayckbourn’s most famous and popular creations, there would be an over-abundance of treasures in the archive relating to his famed trilogy <em><a href="/plays/the-norman-conquests">The Norman Conquests</a></em>.</p>
+
+<p>Unfortunately, there isn’t. Whilst there is an over-abundance of press cuttings, reviews, posters and photographs, there is actually very little that is unusual or quirky relating to the creation of the play held in the Ayckbourn Archive.</p>
+
+<p>Original manuscripts survive in archive for the world premiere of the trilogy before it was known as <em>The Norman Conquests</em> (that would only come with its London transfer), but the hand-written notes and early drafts so prevalent for his plays for this period are not archived. The reason? Alan thinks he gave his original handwritten drafts to the actor Michael Gambon as a gift for his role in the hugely successful London premiere of the play. True or not, what would be a huge insight into Alan’s famed work is apparently lost.</p>
+
+<p>So what do we have? As many Ayckbourn fans know, not only was the trilogy not known as <em>The Norman Conquests</em> during its world premiere run at the <a href="http://thesjt.alanayckbourn.net/page1/styled/">Library Theatre</a>, Scarborough, but two of the plays had entirely different titles. <em>Table Manners</em> was <em>Fancy Meeting You</em> and <em>Living Together</em> was <em>Make Yourself At Home</em>. Here we have the original programme (actually just a double sided piece of card) for <em>Fancy Meeting You</em>. Note how although the play is not labeled as <em>The Norman Conquests</em>, it’s ‘tag-line’ is “A weekend view of the Norman Conquest.”</p>
+
+<div><figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2019/the-norman-conquests-01-c2a9-scarborough-theatre-trust-w500.jpg" alt="" width="500" height="614" loading="lazy" decoding="async"><figcaption><em>The original programme for Fancy Meeting You (Table Manners) © Scarborough Theatre Trust</em></figcaption></figure></div>
+
+<p>It’s also intriguing as although the plays are best seen as a trilogy, the idea of seeing all three plays was not particularly promoted during this initial season at the Library Theatre; Alan’s programme note suggests the other plays will ‘complement’ the experience. The reason for this is the Library Theatre at this point was still a seasonal rep theatre running for just the summer season in Scarborough and incredibly reliant on the tourist trade. Alan did not like to assume that tourists spending a week in the town would necessarily want to spend three nights of that in the Library Theatre, hence a delicate path was walked which suggested the plays were independent of each other, but could also be seen as a trilogy. It obviously worked as contemporary reports indicate summer 1973 was the most successful summer the Library Theatre had ever had.</p>
+
+<div><figure><figcaption><em>Rosalind Adams (Annie), Alex Marshall (Sarah), Christopher Godwin (Norman) &amp; Janet Dale (Annie) in the world premiere of The Norman Conquests © Scarborough Theatre Trust</em></figcaption></figure></div>
+
+<p>From the same original production, we have a favourite publicity photograph of Norman, Ruth, Annie and Sarah featuring Christopher Godwin as Norman. This is quite an unusual image as it is obviously a publicity shot and prior to <em>The Norman Conquests</em>, there are very few examples of staged photographs for Library Theatre productions; the vast majority are either rehearsal or production shots – the latter frequently taken during actual performances. This probably ties in with the fact that the Library Theatre only appointed its first dedicated press / publicity officer the previous year. This makes the photo a particular favourite as it’s a very early piece of Ayckbourn publicity material – despite the fact Alan had been writing professionally for 14 years by this point.</p>
+
+<p>You can’t ignore the pivotal role of the London transfer of <em>The Norman Conquests</em> when considering its success. Initially though, no-one was interested in taking trilogy into the West End and Alan had to stage it at the Greenwich Theatre first, where its phenomenal reception and success led to its transfer. Part of this process saw it rebranded as an actual trilogy called <em>The Norman Conquests</em> and this appears to have first been made public in a report in The Evening Standard on 24 January 1974.</p>
+
+<div><figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2019/the-norman-conquests-03-c2a9-evening-standard-w500.jpg" alt="" width="500" height="588" loading="lazy" decoding="async"><figcaption><em>An extract from The Evening Standard on 24 January 1974 © Evening Standard Ltd</em></figcaption></figure></div>
+
+<p>The trilogy opened at Greenwich Theatre on 9 May 1974 before transferring to the Globe Theatre on 1 August 1974. This production featured an astonishing cast which included Tom Courtenay, Michael Gambon, Felicity Kendall and Penelope Keith among others. The two productions are well served by photographs – particularly by Stephen Moreton Prichard and Christopher Davies. Here is an image of Norman from the Greenwich production by Moreton Prichard, one of a number of memorable images from the original London production.</p>
+
+<div><figure><figcaption><em>Tom Courtenay as Norman in the London premiere of The Norman Conquests © Stephen Moreton Prichard</em></figcaption></figure></div>
+
+<p>My final favourite thing in Archive is a rarity at the Stephen Joseph Theatre as it is a concept sketch for the poster for Alan’s 1993 revival of the trilogy. Very few of these concepts boards were kept or have survived and they offer an intriguing glimpse into different ideas considered to promote the trilogy. The main idea for this revival was a single poster with three elements representing the three different plays: in the concept posters we have three varieties of flowers, three stages of opening a condom and three hearts. The actual poster featured an apple (whole, then with one bite and finally just the core to represent the three plays). Aside from their historical interest relating to <em>The Norman Conquests</em>, they are also nice original pieces held in The Bob Watson Archive at the SJT.</p>
+
+<div><figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2019/the-norman-conquests-06-c2a9-scarborough-theatre-trust-w599.jpg" alt="" width="599" height="288" loading="lazy" decoding="async"><figcaption><em>Concept designs for the poster for the 1993 Stephen Joseph Theatre revival of The Norman Conquests © Scarborough Theatre Trust</em></figcaption></figure></div>
+
+<p>Whilst <em>The Norman Conquests</em> does not have as many unique insights held in Archive as many other plays from this period, I hope these few pieces are of interest to the many fans of the trilogy.</p>

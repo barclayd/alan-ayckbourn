@@ -1,0 +1,31 @@
+---
+title: "You Spin Me Round…"
+date: "2019-05-16T09:00:47"
+excerpt: "Yesterday I had the opportunity to lead the OutReach Play Reading at the Stephen Joseph Theatre exploring Alan Ayckbourn’s popular play A Chorus Of Disapproval. A Chorus Of Disapproval premiered at the Stephen Joseph Theatre in the Round, Scarborough, in 1984 before Alan directed a hugely successful production at the National Theatre in 1985 which…"
+categories: ["Archive", "Ayckbourn", "SJT"]
+source: "https://archivingayckbourn.home.blog/2019/05/16/you-spin-me-round/"
+---
+
+<p>Yesterday I had the opportunity to lead the <a href="https://www.sjt.uk.com/getinvolved/adult">OutReach Play Reading</a> at the Stephen Joseph Theatre exploring Alan Ayckbourn’s popular play <em><a href="http://achorusofdisaaproval.alanayckbourn.net">A Chorus Of Disapproval</a></em>.</p>
+
+<p><em>A Chorus Of Disapproval</em> premiered at the <a href="http://thesjt.alanayckbourn.net/page1/styled-2/">Stephen Joseph Theatre in the Round</a>, Scarborough, in 1984 before Alan directed a hugely successful production at the National Theatre in 1985 which won the Olivier, Evening Standard and DRAMA Awards for Best Comedy.</p>
+
+<div><figure><figcaption>The original production of A Chorus Of Disapproval where the double revolve can – just – be seen on the ground (© Scarborough Theatre Trust)</figcaption></figure></div>
+
+<p>Preparing for the play reading, it struck me that there’s an aspect of the world premiere of <em>A Chorus Of Disapproval</em> that is absolutely unique to that production, that was completely integral to the play as first conceived and which has never been repeated subsequently. And which is barely even remembered at the playwright’s home theatre and key notes for which have only just been discovered within The Bob Watson Archive at the SJT.</p>
+
+<p>As anyone who is a fan of Alan Ayckbourn will know, the vast majority of his writing has premiered in Scarborough in one of the three homes of what is now the <a href="http://thesjt.alanayckbourn.net/page1/styled-3/">Stephen Joseph Theatre</a>. The majority of these have also been staged in-the-round for which Alan predominantly writes; the idea that Scarborough was ever a try-out for the West End was always nonsensical as Alan writes his plays for in-the-round performance and you can count on one hand and have a couple of fingers and a thumb left over for the number of in-the-round Ayckbourn productions seen in the West End.</p>
+
+<div><figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2019/a-chorus-of-approval-revolve-01-c2a9-scarborough-theatre-trust-1.jpeg" alt="" width="400" height="588" loading="lazy" decoding="async"><figcaption>The opening state of the two revolves for the original production of A Chorus Of Disapproval (© Scarborough Theatre Trust)</figcaption></figure></div>
+
+<p>But being in-the-round applies to most of Alan’s plays, so what makes <em>A Chorus Of Disapproval</em> so special? In 1980, a double revolve was installed in the Stephen Joseph Theatre in the Round for Alan Ayckbourn’s musical <em><a href="/plays/suburban-strains">Suburban Strains</a></em>. It was used several times, but did not became a permanent feature of the theatre.</p>
+
+<p>What’s been forgotten – and largely lost over time – is Alan had the double revolve re-installed for the original production of <em>A Chorus Of Disapproval</em>; a central circle revolve with a second revolve running around it so the stage could revolve in two different directions. Alan wanted to keep the staging for <em>A Chorus Of Disapproval</em> as simple as possible and – working with the designer Edward Lipscomb and lighting designer Francis Lynch – came up with the idea that a few props moved into different positions on the revolve alongside different lighting states were all that was needed to keep the play moving quickly whilst giving the audience enough to realise the play had moved into different locations (in <em>Suburban Strains</em>, the revolves had largely been used as a device to indicate where the lead character, Caroline, was in her life as the play flitted backwards and forwards in time). For <em>A Chorus Of Disapproval</em>, it also eliminated the need to haul scenery and props on and off stage between the fast-moving scenes.</p>
+
+<div><figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2019/a-chorus-of-approval-revolve-06-c2a9-scarborough-theatre-trust.jpeg" alt="" width="400" height="561" loading="lazy" decoding="async"><figcaption>Another example of the revolves position from later in the play (© Scarborough Theatre Trust)</figcaption></figure></div>
+
+<p>Within The Bob Watson Archive, there are the plans for the states of the revolve for each scene of the play and how they would be moved for each scene. This is recorded nowhere else. Of course, if you have a <a href="https://www.amazon.co.uk/gp/product/0573016208/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=0573016208&amp;linkCode=as2&amp;tag=alanaycksoffi-21&amp;linkId=ANPVWE5F6GNWHMSR">Samuel French script</a> of <em>A Chorus of Disapproval</em> – or indeed any of Alan’s plays – there’s rarely any mention of staging them in the round and they frequently give the inaccurate impression of being intended for end-stage performance. But, more than this, the revolve is not even reflected in the original rehearsal manuscripts. The stage directions, whilst obviously written with the round in mind, do not refer to the revolves, so all decisions regarding this were made by the director whilst in rehearsal.</p>
+
+<p>Given <em>A Chorus Of Disapproval</em> is one of the most frequently performed Ayckbourn plays since 1984, it is extraordinary to think that it has never been staged again as the playwright originally envisaged and produced – and likely never will given the impracticalities of installing double revolves or even working out how the play was originally produced with them.</p>
+
+<p>But it’s a fine example of how archives can offer insights that would otherwise not be recorded or preserved for posterity. Were it not for the discovery of the plans for the revolves at The Bob Watson Archive, it would be barely remembered how unique the original production of the play was.</p>

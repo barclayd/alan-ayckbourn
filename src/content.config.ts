@@ -37,4 +37,26 @@ const archive = defineCollection({
     }),
 });
 
-export const collections = { archive };
+/**
+ * The blog behind the original site's three `<iframe>`s: 469 posts from 2019 to
+ * this week. Written by `scripts/blog.mjs` from the WordPress REST API.
+ *
+ * Hero images live in R2, not `_images/`, so they are plain URLs with the
+ * dimensions carried alongside — there is no Astro pipeline on a remote file
+ * and an `<img>` without a size shifts the page as it loads.
+ */
+const news = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/news' }),
+  schema: z.object({
+    title: z.string().min(1),
+    date: z.coerce.date(),
+    excerpt: z.string(),
+    categories: z.array(z.string()).default([]),
+    source: z.string().url(),
+    hero: z.string().url().optional(),
+    heroWidth: z.number().int().optional(),
+    heroHeight: z.number().int().optional(),
+  }),
+});
+
+export const collections = { archive, news };

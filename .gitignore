@@ -6,8 +6,9 @@ dist/
 # dependencies
 node_modules/
 
-# scraper HTTP cache — large, regenerable, never committed
-.cache/scrape/
+# scraper HTTP caches — large, regenerable, never committed. `.cache/blog` also
+# holds the R2 upload manifest, which is a record of one machine's uploads.
+.cache/
 
 # logs
 *.log

@@ -14,6 +14,8 @@
     "lint:fix": "biome check --write .",
     "scrape": "node scripts/scrape.mjs --all",
     "scrape:sample": "node scripts/scrape.mjs",
+    "blog": "node scripts/blog.mjs",
+    "blog:dry": "node scripts/blog.mjs --no-upload",
     "test": "node --test 'scripts/*.test.mjs'",
     "links": "node scripts/links.mjs",
     "deploy": "bun run build && bun run links && wrangler deploy"
