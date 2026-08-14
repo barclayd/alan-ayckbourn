@@ -1,0 +1,314 @@
+---
+/**
+ * The search surface: an input, section filters, and results. Rendered twice —
+ * inline on `/search` and inside the ⌘K palette — so the script mounts over
+ * every `[data-search]` root on the page rather than one known element.
+ *
+ * ponytail: Pagefind's JS API and our own markup, not its bundled UI. The index
+ * is the reason we chose Pagefind; its stylesheet is a second design system we
+ * would spend longer overriding than replacing.
+ */
+type Props = {
+  /** The palette opens with the caret already in the field; the page does not. */
+  autofocus?: boolean;
+  /** Distinguishes the two inputs' labels for assistive tech. */
+  id: string;
+};
+
+const { autofocus = false, id } = Astro.props;
+---
+
+<div data-search>
+  {/* Submits to `/search` so the field still works with no JS at all; the
+      script cancels the submit and searches in place. */}
+  <form role="search" action="/search" method="get" data-search-form>
+    <label class="sr-only" for={id}>Search the archive</label>
+    <div class="flex items-center gap-3 border-rule border-b pb-3">
+      <svg
+        class="size-5 shrink-0 text-muted"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linecap="round"
+        aria-hidden="true"
+      >
+        <circle cx="10.6" cy="10.6" r="6.4"></circle>
+        <path d="m15.4 15.4 4.2 4.2"></path>
+      </svg>
+      <input
+        type="search"
+        id={id}
+        name="q"
+        autofocus={autofocus}
+        autocomplete="off"
+        spellcheck="false"
+        enterkeyhint="search"
+        placeholder="Plays, people, productions&hellip;"
+        class="w-full bg-transparent font-display text-2xl uppercase tracking-wide outline-none placeholder:text-muted/50 [&::-webkit-search-cancel-button]:hidden sm:text-3xl"
+      />
+      {/* Native clear buttons vary; a submit keeps the no-JS path honest. */}
+      <button
+        type="submit"
+        class="shrink-0 font-ui text-[0.7rem] uppercase tracking-[0.2em] text-muted transition-colors hover:text-accent"
+      >
+        Search
+      </button>
+    </div>
+  </form>
+
+  {/* Filled from the index once a query returns, so it never shows a facet with
+      nothing behind it. `hidden` until then. */}
+  {/* One sideways-scrolling row on a phone, the way the section rail already
+      does it: eight pills wrap to four rows at 375px and push every result off
+      the screen. Wrapping resumes once there is width for two rows at most. */}
+  <div
+    data-search-filters
+    class="mt-4 flex gap-2 overflow-x-auto pb-1 [scrollbar-width:thin] sm:flex-wrap sm:overflow-visible"
+    role="group"
+    aria-label="Filter by section"
+    hidden
+  >
+  </div>
+
+  <p
+    data-search-status
+    class="mt-6 font-ui text-xs uppercase tracking-[0.18em] text-muted"
+    role="status"
+    aria-live="polite"
+  >
+  </p>
+
+  {/* Pagefind wraps every match in a bare `<mark>`, which the browser paints
+      highlighter-yellow. Styled here rather than globally: this is the only
+      place marks appear, and the rule has to hold in both colour schemes. */}
+  <ol
+    data-search-results
+    class="mt-2 divide-y divide-rule [&_mark]:rounded-[2px] [&_mark]:bg-accent/15 [&_mark]:px-0.5 [&_mark]:text-body"
+  >
+  </ol>
+</div>
+
+<script>
+  /*
+   * Pagefind is written by `pagefind --site dist` after the Astro build, so the
+   * module only exists on a built site. In `astro dev` this import fails and the
+   * status line says so rather than leaving a dead input.
+   */
+  type Result = {
+    url: string;
+    excerpt: string;
+    meta: Record<string, string>;
+  };
+  type Pagefind = {
+    search: (
+      q: string,
+      opts?: { filters?: Record<string, string[]> },
+    ) => Promise<{
+      results: { id: string; data: () => Promise<Result> }[];
+      /** Counts for this query ignoring the filters applied to it. */
+      totalFilters: Record<string, Record<string, number>>;
+    }>;
+    filters: () => Promise<Record<string, Record<string, number>>>;
+  };
+
+  /* A variable, not a literal: Vite resolves a literal import at build time and
+     this file is written after the build. Loaded once, shared by both roots. */
+  const MODULE = '/pagefind/pagefind.js';
+  let loading: Promise<Pagefind | null> | undefined;
+  const pagefind = () =>
+    (loading ??= import(/* @vite-ignore */ MODULE)
+      /* A search only reports facet counts once the filter index is loaded, and
+         only `filters()` loads it — without this every query came back with
+         `filters: {}` and the section pills never appeared. */
+      .then(async (mod: Pagefind) => {
+        await mod.filters();
+        return mod;
+      })
+      .catch(() => null));
+
+  /** Pagefind names a directory page `/plays/`; this site is trailingSlash never. */
+  const route = (url: string) => url.replace(/\/$/, '') || '/';
+
+  /* 30 is what a person scrolls before re-phrasing the question. The count above
+     the list is honest about the rest. */
+  const LIMIT = 30;
+
+  /*
+   * Fetched per query, before duplicate mirror pages are dropped: a play
+   * published at four hostnames can collapse four rows into one, which left a
+   * 379-result query showing five. Measured at ~50ms for 30, 60 or 90 metadata
+   * fetches — Pagefind loads fragments in chunks, so the extra depth is free.
+   */
+  const FETCH = LIMIT * 4;
+
+  const escape = (s: string) =>
+    s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+  function mount(root: HTMLElement) {
+    const form = root.querySelector<HTMLFormElement>('[data-search-form]');
+    const input = root.querySelector<HTMLInputElement>('input[name="q"]');
+    const facets = root.querySelector<HTMLElement>('[data-search-filters]');
+    const status = root.querySelector<HTMLElement>('[data-search-status]');
+    const list = root.querySelector<HTMLOListElement>('[data-search-results]');
+    if (!(form && input && facets && status && list)) return;
+
+    let section: string | null = null;
+    let timer: number;
+    /* Every search is async and the user keeps typing, so a slow earlier query
+       must not paint over a faster later one. */
+    let latest = 0;
+
+    const render = (results: Result[], total: number, query: string) => {
+      status.textContent = total
+        ? `${total.toLocaleString('en-GB')} ${total === 1 ? 'result' : 'results'}`
+        : `Nothing found for “${query}”`;
+      /*
+       * The archive published some plays at several hostnames — The Norman
+       * Conquests at four, Jeeves at two — so a query for one returns the same
+       * page three or four times over. Two results under the same parent with
+       * the same title are the same page; keep the first.
+       *
+       * ponytail: this dedupes the fetched page, not the count above it, which
+       * still counts the copies — the honest total would mean fetching metadata
+       * for all several hundred matches to find out how many are distinct.
+       */
+      const seen = new Set<string>();
+      list.innerHTML = results
+        .filter((r) => {
+          const key = `${r.meta.trail}|${r.meta.title}`;
+          if (seen.has(key)) {
+            return false;
+          }
+          seen.add(key);
+          return true;
+        })
+        .slice(0, LIMIT)
+        .map(
+          (r) => `<li>
+            <a href="${route(r.url)}" class="group block py-5 focus-visible:outline-offset-4">
+              ${
+                r.meta.trail
+                  ? `<p class="font-ui text-[0.65rem] uppercase tracking-[0.18em] text-muted">${escape(r.meta.trail)}</p>`
+                  : ''
+              }
+              <p class="mt-1 font-display text-xl uppercase leading-tight transition-colors group-hover:text-accent">
+                ${escape(r.meta.title ?? 'Untitled')}
+              </p>
+              <p class="mt-1.5 max-w-[70ch] text-sm leading-relaxed text-muted">${r.excerpt}</p>
+            </a>
+          </li>`,
+        )
+        .join('');
+    };
+
+    const run = async () => {
+      const query = input.value.trim();
+      const token = ++latest;
+
+      if (!query) {
+        list.innerHTML = '';
+        facets.hidden = true;
+        status.textContent = '';
+        return;
+      }
+
+      status.textContent = 'Searching…';
+      const api = await pagefind();
+      if (token !== latest) return;
+      if (!api) {
+        status.textContent = 'Search needs the built site — run bun run build.';
+        return;
+      }
+
+      const search = await api.search(
+        query,
+        section ? { filters: { Section: [section] } } : undefined,
+      );
+      if (token !== latest) return;
+
+      const results = await Promise.all(
+        search.results.slice(0, FETCH).map((r) => r.data()),
+      );
+      if (token !== latest) return;
+
+      render(results, search.results.length, query);
+      /* `totalFilters`, not `filters`: the latter reports 0 for every section the
+         chosen filter excludes, so the row would collapse to one pill the moment
+         a section was picked — no way to switch, no way back to everything. */
+      drawFacets(search.totalFilters.Section ?? {});
+    };
+
+    const drawFacets = (counts: Record<string, number>) => {
+      const shown = Object.entries(counts).filter(([, n]) => n > 0);
+      /* One section is not a choice; the row would be a pill saying "Plays"
+         next to a list of nothing but plays. */
+      facets.hidden = shown.length < 2;
+      const pills = [['All', 0] as [string, number], ...shown];
+      facets.innerHTML = pills
+        .map(([name, n]) => {
+          const on = name === 'All' ? section === null : section === name;
+          return `<button type="button" data-facet="${name === 'All' ? '' : escape(name)}"
+            aria-pressed="${on}"
+            class="shrink-0 whitespace-nowrap rounded-full border border-rule px-3.5 py-1.5 font-ui text-[0.7rem] uppercase tracking-[0.15em] text-muted transition-colors hover:border-accent hover:text-accent aria-pressed:border-accent aria-pressed:bg-accent aria-pressed:text-white">
+            ${escape(name)}${name === 'All' ? '' : ` <span class="tabular-nums opacity-60">${n}</span>`}
+          </button>`;
+        })
+        .join('');
+    };
+
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      run();
+    });
+
+    input.addEventListener('input', () => {
+      clearTimeout(timer);
+      timer = window.setTimeout(run, 150);
+    });
+
+    facets.addEventListener('click', (event) => {
+      const pill = (event.target as HTMLElement).closest<HTMLElement>(
+        '[data-facet]',
+      );
+      if (!pill) return;
+      section = pill.dataset.facet || null;
+      run();
+    });
+
+    /*
+     * Arrows walk the results by moving focus rather than tracking a selected
+     * index: the focus ring, Enter-to-open and the screen-reader announcement
+     * all come free, and Escape is the dialog's job.
+     */
+    root.addEventListener('keydown', (event) => {
+      if (event.key !== 'ArrowDown' && event.key !== 'ArrowUp') return;
+      const links = [...list.querySelectorAll<HTMLAnchorElement>('a')];
+      if (!links.length) return;
+      event.preventDefault();
+      const at = links.indexOf(document.activeElement as HTMLAnchorElement);
+      if (event.key === 'ArrowDown') {
+        links[Math.min(at + 1, links.length - 1)].focus();
+      } else if (at <= 0) {
+        input.focus();
+      } else {
+        links[at - 1].focus();
+      }
+    });
+
+    /* `/search?q=…` arrives as a real request from the no-JS form and from every
+       link anyone shares, so honour the query on load — but only on the page,
+       not in the palette, which is closed and would search twice for nothing. */
+    const q = root.closest('dialog')
+      ? null
+      : new URLSearchParams(location.search).get('q');
+    if (q && !input.value) {
+      input.value = q;
+      run();
+    }
+  }
+
+  for (const root of document.querySelectorAll<HTMLElement>('[data-search]')) {
+    mount(root);
+  }
+</script>

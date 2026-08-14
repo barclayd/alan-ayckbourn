@@ -1,5 +1,6 @@
 ---
 import { Font } from 'astro:assets';
+import SearchPalette from '@/components/SearchPalette.astro';
 import SiteFooter from '@/components/SiteFooter.astro';
 import SiteHeader from '@/components/SiteHeader.astro';
 import '@/styles/global.css';
@@ -9,12 +10,25 @@ type Props = {
   description?: string;
   /** Dark chrome runs edge to edge on landing pages; reading pages sit on paper. */
   chrome?: 'landing' | 'reading';
+  /** Search facet and result subtitle. Pagefind reads both off `<main>`. */
+  section?: string;
+  where?: string;
+  /**
+   * Our own composed pages — the home page, the plays grid, search itself — are
+   * not search results: they are made of other pages' titles and would match
+   * every query. Pagefind skips any page without the body marker once some page
+   * has one, so dropping it is the whole opt-out.
+   */
+  indexed?: boolean;
 };
 
 const {
   title,
   description = 'The work of Sir Alan Ayckbourn: 92 plays across sixty-seven years.',
   chrome = 'reading',
+  section,
+  where,
+  indexed = true,
 } = Astro.props;
 
 const fullTitle =
@@ -61,10 +75,20 @@ const fullTitle =
       Skip to content
     </a>
     <SiteHeader />
-    <main id="main" class="flex-1">
+    {/* `data-pagefind-body` scopes the index to the page's own content. Without
+        it every page matched "Ayckbourn", "Murgatroyd" and every nav label,
+        because the header and footer are on all 2,459 of them. */}
+    <main
+      id="main"
+      class="flex-1"
+      data-pagefind-body={indexed ? true : undefined}
+      data-pagefind-filter={section && `Section:${section}`}
+      data-pagefind-meta={where && `trail:${where}`}
+    >
       <slot />
     </main>
     <SiteFooter />
+    <SearchPalette />
 
     <!--
       Reveal-on-scroll for anything marked [data-reveal]. Deliberately one

@@ -91,9 +91,35 @@ const morph = 'view-transition-name: play-poster';
 const description =
   synopsis?.replace(/[*[\]]|\(https?:\/\/[^)]*\)/g, '').slice(0, 200) ??
   `${title} — from the archive of Sir Alan Ayckbourn.`;
+
+/*
+ * The one search facet worth having across 2,458 pages: which part of the
+ * archive a page belongs to. The archive's own section titles are too long for
+ * a pill ("Copyright, Privacy & Alan Ayckbourn's Official Website"), and the
+ * eight small sections are more useful pooled than listed separately.
+ */
+const SECTIONS: Record<string, string> = {
+  plays: 'Plays',
+  career: 'Career',
+  life: 'Life',
+  encyclopaedia: 'Encyclopaedia',
+  publications: 'Publications',
+  research: 'Research',
+};
+const section = SECTIONS[entry.id.split('/')[0]] ?? 'The Archive';
+
+/** The trail as one line, so a result can say where it sits without the DOM. */
+const where = [section, ...trail.slice(1).map((step) => step.title)].join(
+  ' › ',
+);
 ---
 
-<Base title={title} description={description}>
+<Base
+  title={title}
+  description={description}
+  section={section}
+  where={where}
+>
   {
     isPlay ? (
       <header class="bg-chrome text-chrome-ink">
@@ -189,7 +215,9 @@ const description =
 
     {
       children.length > 0 && (
-        <nav aria-labelledby="in-section" class="mt-16">
+        /* Not indexed: every title in here is a page with its own entry, so
+           indexing the list makes a section index match all of its children. */
+        <nav aria-labelledby="in-section" class="mt-16" data-pagefind-ignore>
           <h2
             id="in-section"
             class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
