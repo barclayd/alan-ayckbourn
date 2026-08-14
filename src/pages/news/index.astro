@@ -1,0 +1,389 @@
+---
+import { getCollection } from 'astro:content';
+import bulletins from '@/data/news.json';
+import Base from '@/layouts/Base.astro';
+
+/**
+ * The archive's living half: the archivist's noticeboard, then every dispatch
+ * he has filed since 2019.
+ *
+ * All 469 on one page rather than paginated. An archive is browsed by date, and
+ * a reader who wants November 2021 should not have to guess that it is on page
+ * nine — the year rail takes them straight there, and the whole thing is one
+ * Cmd-F away. It costs about 90KB of HTML, which is less than one photograph.
+ *
+ * No category filter, deliberately: 447 of the 469 posts are tagged
+ * "Ayckbourn" and 329 "Archive", so the blog's own categories separate almost
+ * nothing. Date is the axis that means something here, and Pagefind already
+ * covers searching by subject.
+ */
+const posts = (await getCollection('news')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const years = [...new Set(posts.map((post) => post.data.date.getFullYear()))];
+const byYear = years.map((year) => ({
+  year,
+  posts: posts.filter((post) => post.data.date.getFullYear() === year),
+}));
+
+/** Only two of the blog's categories describe a different kind of thing. */
+const KINDS = ['Video', 'Interview'];
+const kindOf = (categories: string[]) =>
+  KINDS.find((kind) => categories.includes(kind));
+
+const dayMonth = (date: Date) =>
+  date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short' });
+const longDate = (date: Date) =>
+  date.toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+
+/* Recency earns room: the newest dispatches show their standfirst and picture,
+   the rest are a line each. The whole archive on one page only reads if most
+   of it is a line. */
+const EXPANDED = 6;
+
+type Bulletin = {
+  kind: string;
+  title?: string;
+  when?: string;
+  posted?: string;
+  revised?: boolean;
+  detailHtml?: string;
+  href?: string | null;
+};
+
+const board = (bulletins.items as Bulletin[])
+  .filter((item) => item.kind === 'item' && item.title)
+  .sort((a, b) => (b.posted ?? '').localeCompare(a.posted ?? ''));
+const boardUpdated = longDate(new Date(bulletins.updated));
+---
+
+<Base
+  title="News"
+  description={`${posts.length} dispatches from Alan Ayckbourn's archive since 2019, and the current noticeboard.`}
+  section="News"
+  indexed={false}
+>
+  <header class="bg-chrome px-4 pt-20 pb-16 text-chrome-ink sm:px-6">
+    <div class="mx-auto max-w-6xl">
+      <p
+        class="animate-[rise-in_.6s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
+      >
+        Archiving Ayckbourn
+      </p>
+      <h1
+        class="mt-4 animate-[rise-in_.7s_var(--ease-stage)_.06s_both] font-display text-[clamp(3rem,11vw,8rem)] uppercase leading-[0.88]"
+      >
+        News
+      </h1>
+      <p
+        class="mt-6 max-w-[48ch] animate-[rise-in_.7s_var(--ease-stage)_.12s_both] text-[1.15em] text-chrome-ink/90"
+      >
+        {posts.length} dispatches filed since {years.at(-1)} by Alan
+        Ayckbourn&rsquo;s archivist, Simon Murgatroyd &mdash; premieres,
+        rediscoveries, revivals and the odd correction.
+      </p>
+    </div>
+  </header>
+
+  {/*
+    The noticeboard: the archivist's own front page, in his order. Short,
+    dated, sometimes revised — closer to a notice pinned up by the stage door
+    than to an article, so it is set as one.
+  */}
+  <section
+    aria-labelledby="noticeboard"
+    class="border-rule border-b bg-surface-raised px-4 py-14 sm:px-6"
+  >
+    <div class="mx-auto max-w-6xl">
+      <div class="flex items-baseline gap-4 border-rule border-b pb-3">
+        <h2
+          id="noticeboard"
+          class="font-display text-[1.6rem] uppercase leading-none"
+        >
+          Noticeboard
+        </h2>
+        <p
+          class="font-ui text-[0.68rem] uppercase tracking-[0.16em] text-muted"
+        >
+          Updated <time datetime={bulletins.updated}>{boardUpdated}</time>
+        </p>
+      </div>
+
+      <ul class="mt-2">
+        {
+          board.map((item, i) => (
+            <li
+              class="border-rule/60 border-b last:border-0"
+              data-reveal
+              style={`--reveal-delay: ${Math.min(i, 6) * 0.04}s`}
+            >
+              <details class="group">
+                <summary
+                  class="flex cursor-pointer list-none items-baseline gap-4 py-4 [&::-webkit-details-marker]:hidden"
+                >
+                  <span class="min-w-0 flex-1">
+                    <span class="font-ui text-[0.95rem] font-medium transition-colors group-hover:text-accent">
+                      {item.title}
+                    </span>
+                    {item.revised && (
+                      <span class="ml-2 font-ui text-[0.6rem] uppercase tracking-[0.14em] text-muted">
+                        Updated
+                      </span>
+                    )}
+                  </span>
+                  {item.posted && (
+                    <time
+                      datetime={item.posted}
+                      class="shrink-0 font-ui text-[0.7rem] uppercase tracking-[0.1em] text-muted tabular-nums"
+                    >
+                      {dayMonth(new Date(item.posted))}
+                    </time>
+                  )}
+                  {/* The only affordance a summary needs, and it doubles as
+                      the open/closed state. */}
+                  <span
+                    aria-hidden="true"
+                    class="shrink-0 font-ui text-sm text-accent transition-transform duration-300 ease-stage group-open:rotate-45"
+                  >
+                    +
+                  </span>
+                </summary>
+                {item.detailHtml && (
+                  <div
+                    class="prose-archive pb-5 text-[0.95em]"
+                    set:html={item.detailHtml}
+                  />
+                )}
+              </details>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  {/*
+    The year rail. Sticky beneath the header, so wherever you are in seven
+    years of dispatches the whole span stays reachable — and the current year
+    is marked as you scroll past it.
+  */}
+  <nav
+    id="year-rail"
+    aria-label="Jump to year"
+    class="sticky top-14 z-30 border-rule border-b bg-surface/95 px-4 py-3 backdrop-blur-sm sm:px-6"
+  >
+    <div class="mx-auto flex max-w-6xl items-center gap-4">
+      <ul
+        class="flex min-w-0 flex-1 items-center gap-1 overflow-x-auto [scrollbar-width:thin] max-sm:[mask-image:linear-gradient(to_right,black_calc(100%-2.5rem),transparent)]"
+      >
+        {
+          byYear.map(({ year, posts: inYear }) => (
+            <li class="shrink-0">
+              <a
+                href={`#y${year}`}
+                class="block rounded-full px-3 py-1.5 font-ui text-[0.7rem] uppercase tracking-[0.12em] text-muted tabular-nums transition-colors hover:bg-surface-raised hover:text-body aria-[current=true]:bg-body aria-[current=true]:text-surface"
+              >
+                {year}
+                <span class="ml-1.5 opacity-70">{inYear.length}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+      {/* The total is in the hero already; on a phone it only crowds the years
+          it sits next to, and the rail needs every pixel to scroll. */}
+      <p
+        class="hidden shrink-0 font-ui text-xs uppercase tracking-[0.16em] text-muted tabular-nums sm:block"
+      >
+        {posts.length} dispatches
+      </p>
+    </div>
+  </nav>
+
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    {
+      byYear.map(({ year, posts: inYear }) => (
+        <section aria-labelledby={`y${year}`} class="mb-14 last:mb-0">
+          <h2
+            id={`y${year}`}
+            class="scroll-mt-32 border-rule border-b pb-2 font-display text-[clamp(2.5rem,7vw,4.5rem)] uppercase leading-[0.9] tabular-nums"
+          >
+            {year}
+          </h2>
+
+          <ol>
+            {inYear.map((post, i) => {
+              const expanded = year === years[0] && i < EXPANDED;
+              const kind = kindOf(post.data.categories);
+              return (
+                <li
+                  class="dispatch grid grid-cols-[3.25rem_1fr] gap-x-4 sm:grid-cols-[5rem_1fr] sm:gap-x-6"
+                  data-reveal
+                  style={`--reveal-delay: ${Math.min(i, 8) * 0.04}s`}
+                >
+                  <time
+                    datetime={post.data.date.toISOString()}
+                    class="pt-5 text-right font-ui text-[0.7rem] uppercase leading-5 tracking-[0.1em] text-muted tabular-nums"
+                  >
+                    {dayMonth(post.data.date)}
+                  </time>
+
+                  <div
+                    class:list={[
+                      'dispatch-body border-rule border-l pb-5 pl-5 sm:pl-7',
+                      expanded ? 'pt-5' : 'pt-5',
+                    ]}
+                  >
+                    <a href={`/news/${post.id}`} class="group block">
+                      <h3
+                        class:list={[
+                          'font-display uppercase leading-[1] text-balance transition-colors group-hover:text-accent',
+                          expanded
+                            ? 'text-[clamp(1.4rem,3.2vw,2rem)]'
+                            : 'text-[1.15rem]',
+                        ]}
+                      >
+                        {post.data.title}
+                      </h3>
+
+                      {/* Flex rather than a grid: a fixed thumbnail beside a
+                          measure of text needs no columns, and half of these
+                          dispatches have no picture — a grid would leave its gap
+                          behind. */}
+                      {expanded && (
+                        <div class="mt-3 flex flex-col gap-5 sm:flex-row sm:items-start">
+                          <p class="max-w-[60ch] flex-1 text-[0.95em] text-muted">
+                            {post.data.excerpt}
+                          </p>
+                          {post.data.hero && (
+                            <img
+                              src={post.data.hero}
+                              alt=""
+                              width={post.data.heroWidth}
+                              height={post.data.heroHeight}
+                              loading="lazy"
+                              decoding="async"
+                              class="w-36 shrink-0 rounded-sm outline outline-rule -outline-offset-1 sm:ml-auto"
+                            />
+                          )}
+                        </div>
+                      )}
+                    </a>
+
+                    {kind && (
+                      <p class="mt-2 font-ui text-[0.6rem] uppercase tracking-[0.16em] text-accent">
+                        {kind}
+                      </p>
+                    )}
+                  </div>
+                </li>
+              );
+            })}
+          </ol>
+        </section>
+      ))
+    }
+  </div>
+</Base>
+
+<style>
+  /*
+   * The dateline. One hairline down the page with a marker per dispatch — the
+   * same vocabulary the run rule on What's On uses, because both are time drawn
+   * as a line. The marker sits on the rule rather than beside it, so it has to
+   * be positioned against the border it interrupts.
+   */
+  .dispatch-body {
+    position: relative;
+  }
+
+  .dispatch-body::before {
+    content: "";
+    position: absolute;
+    top: 1.85rem;
+    left: -3px;
+    height: 5px;
+    width: 5px;
+    border-radius: 100px;
+    background-color: var(--color-rule);
+    transition: background-color 0.25s var(--ease-stage);
+  }
+
+  .dispatch:hover .dispatch-body::before,
+  .dispatch:focus-within .dispatch-body::before {
+    background-color: var(--color-accent);
+  }
+
+  /* The rule is continuous through the year, so the ends need closing off. */
+  .dispatch:first-child .dispatch-body {
+    border-image: linear-gradient(to bottom, transparent 1.85rem, var(--color-rule) 1.85rem)
+      1 / 0 0 0 1px;
+  }
+
+  .dispatch:last-child .dispatch-body {
+    border-image: linear-gradient(to bottom, var(--color-rule) calc(100% - 1.5rem), transparent calc(100% - 1.5rem))
+      1 / 0 0 0 1px;
+  }
+</style>
+
+<script>
+  /*
+   * Marks the year you are reading in the rail. A scroll listener rather than an
+   * `IntersectionObserver`: the year being read is "the last heading above the
+   * line", which is a question about position, and an observer only reports
+   * crossings. 2026 alone runs for several screens with no crossing in it, and a
+   * lazily-loaded photograph can move a heading past the line without any scroll
+   * at all — both leave an observer holding an answer that has stopped being
+   * true. One rAF-throttled read of the same geometry is shorter and always
+   * right.
+   */
+  const rail = document.getElementById('year-rail');
+  const headings = document.querySelectorAll<HTMLElement>('h2[id^="y"]');
+  /**
+   * The line just under the sticky header and the sticky rail, in pixels. A
+   * shade below the headings' own `scroll-mt-32`, so a year jumped to from the
+   * rail counts as reached rather than as still to come.
+   */
+  const LINE = 132;
+
+  if (rail && headings.length > 0) {
+    const mark = (id: string) => {
+      for (const link of rail.querySelectorAll('a')) {
+        link.setAttribute(
+          'aria-current',
+          String(link.hash === `#${id}`) as 'true' | 'false',
+        );
+      }
+    };
+
+    const update = () => {
+      const passed = [...headings]
+        .filter((heading) => heading.getBoundingClientRect().top < LINE)
+        .at(-1);
+      mark(passed?.id ?? '');
+    };
+
+    /* One read per frame at most, however fast the wheel spins. */
+    let queued = false;
+    addEventListener(
+      'scroll',
+      () => {
+        if (queued) {
+          return;
+        }
+        queued = true;
+        requestAnimationFrame(() => {
+          queued = false;
+          update();
+        });
+      },
+      { passive: true },
+    );
+    update();
+  }
+</script>

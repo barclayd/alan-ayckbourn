@@ -18,7 +18,7 @@ test('a listing yields title, venue, dates and the director note', () => {
   );
   assert.equal(item.kind, 'item');
   assert.equal(item.title, 'The Trial of Romeo Oscar');
-  assert.equal(item.where, 'the Stephen Joseph Theatre, Scarborough');
+  assert.equal(item.where, 'The Stephen Joseph Theatre, Scarborough');
   assert.equal(item.when, '4 September – 3 October 2026');
   assert.equal(item.detail, 'Directed in-the-round by Alan Ayckbourn');
   assert.equal(item.href, 'https://sjt.uk.com/x');
@@ -33,7 +33,23 @@ test('a title split across two anchors stays one title', () => {
     empty,
   );
   assert.equal(item.title, 'Show & Tell');
-  assert.equal(item.where, 'the Jubilee Hall, Aldeburgh');
+  assert.equal(item.where, 'The Jubilee Hall, Aldeburgh');
+});
+
+test('a listing with no dates still ends its venue at the break', () => {
+  /* The streaming items carry no bracketed run, so nothing but the <br> marks
+     where the venue stops and the description starts. */
+  const [item] = bullets(
+    `<p><strong>◦&nbsp;<strong>Absurd Person Singular</strong></strong> on BBC iPlayer<br>The acclaimed 1985 BBC adaptation of the classic play</p>`,
+    empty,
+  );
+  assert.equal(item.title, 'Absurd Person Singular');
+  assert.equal(item.where, 'on BBC iPlayer');
+  assert.equal(item.when, '');
+  assert.equal(
+    item.detail,
+    'The acclaimed 1985 BBC adaptation of the classic play',
+  );
 });
 
 test('a short bold line groups the items that follow it', () => {
@@ -175,6 +191,16 @@ test('a mirrored image carries its dimensions, so nothing shifts', () => {
   assert.match(html, /width="400"/);
   assert.match(html, /height="260"/);
   assert.doesNotMatch(html, /srcset|data-orig-size|wp-image/);
+});
+
+test('a link broken at source keeps its words and loses its href', () => {
+  /* The archivist pasted an Amazon link and lost the host with it. Root-relative
+     on the blog, it points into our site here, where there is nothing at it. */
+  const html = rewrite(
+    '<p>Buy it <a href="/0746312814/ref=as_li_tl?ie=UTF8">here</a>.</p>',
+    empty,
+  );
+  assert.equal(html, '<p>Buy it here.</p>');
 });
 
 test('a link to the archive becomes a link to our route', () => {

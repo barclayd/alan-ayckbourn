@@ -14,9 +14,11 @@ import Base from '@/layouts/Base.astro';
 export async function getStaticPaths() {
   const all = await getCollection('archive');
 
-  /* `/plays` is our own index and `/search` belongs to Pagefind. The archive's
-     own front page keeps its content at `/about` — `/` is ours now. */
-  const owned = new Set(['plays', 'search']);
+  /* `/plays` is our own index and `/search` belongs to Pagefind. `whats-on` was
+     an empty `<iframe>` wrapper on the original site; the listings it framed now
+     have their own page. The archive's own front page keeps its content at
+     `/about` — `/` is ours now. */
+  const owned = new Set(['plays', 'search', 'whats-on']);
   const routeOf = (id: string) => (id === 'welcome' ? 'about' : id);
 
   const titles = new Map(all.map((entry) => [entry.id, entry.data.title]));

@@ -1,7 +1,11 @@
 ---
 import ThemeToggle from './ThemeToggle.astro';
 
+/* What's On first: it is the only part of the archive that changes, and it is
+   what a reader arriving from a poster or a review has come for. */
 const links = [
+  { href: '/whats-on', label: "What's On" },
+  { href: '/news', label: 'News' },
   { href: '/plays', label: 'Plays' },
   { href: '/life', label: 'Life' },
   { href: '/career', label: 'Career' },
@@ -25,7 +29,7 @@ const isCurrent = (href: string) =>
       Ayckbourn
     </a>
 
-    <nav aria-label="Sections" class="ml-auto hidden sm:block">
+    <nav aria-label="Sections" class="ml-auto hidden lg:block">
       <ul class="flex items-center gap-7">
         {
           links.map(({ href, label }) => (
@@ -48,7 +52,7 @@ const isCurrent = (href: string) =>
       </ul>
     </nav>
 
-    <div class="ml-auto flex items-center gap-1 sm:ml-0">
+    <div class="ml-auto flex items-center gap-1 lg:ml-0">
       <a
         href="/search"
         aria-current={isCurrent('/search') ? 'page' : undefined}
@@ -73,7 +77,7 @@ const isCurrent = (href: string) =>
 
       {/* ponytail: <details> is the whole mobile menu — no JS, keyboard and AT
           support for free. Swap for a dialog only if it needs to trap focus. */}
-      <details class="group sm:hidden">
+      <details class="group lg:hidden">
         <summary
           class="grid size-9 cursor-pointer list-none place-items-center rounded-full text-chrome-muted [&::-webkit-details-marker]:hidden"
           aria-label="Sections"

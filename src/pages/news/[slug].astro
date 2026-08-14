@@ -1,0 +1,152 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import Base from '@/layouts/Base.astro';
+
+/**
+ * A single dispatch. Neighbours come from getStaticPaths because only it holds
+ * the whole collection — the page itself sees one post.
+ */
+export async function getStaticPaths() {
+  const posts = (await getCollection('news')).sort(
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+  );
+
+  return posts.map((post, i) => ({
+    params: { slug: post.id },
+    props: {
+      post,
+      /* Newest first, so the *next* entry in the list is the older dispatch. */
+      newer: posts[i - 1],
+      older: posts[i + 1],
+    },
+  }));
+}
+
+type Props = {
+  post: CollectionEntry<'news'>;
+  newer?: CollectionEntry<'news'>;
+  older?: CollectionEntry<'news'>;
+};
+
+const { post, newer, older } = Astro.props;
+const { Content } = await render(post);
+const { date, hero, heroWidth, heroHeight, excerpt, source } = post.data;
+
+const neighbours = [
+  { post: newer, label: 'Newer' },
+  { post: older, label: 'Older' },
+].filter((n): n is { post: CollectionEntry<'news'>; label: string } =>
+  Boolean(n.post),
+);
+
+const longDate = date.toLocaleDateString('en-GB', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+});
+---
+
+<Base
+  title={post.data.title}
+  description={excerpt.slice(0, 200)}
+  section="News"
+  where={`News › ${date.getFullYear()}`}
+>
+  <header class="bg-chrome px-4 pt-12 pb-14 text-chrome-ink sm:px-6">
+    <div class="mx-auto max-w-6xl">
+      <nav aria-label="Breadcrumb">
+        <ol
+          class="flex flex-wrap items-center gap-x-2 font-ui text-[0.7rem] uppercase tracking-[0.18em] text-chrome-muted"
+        >
+          <li class="after:ml-2 after:text-chrome-rule after:content-['/']">
+            <a href="/news" class="hover:text-chrome-accent">News</a>
+          </li>
+          <li>
+            <a href={`/news#y${date.getFullYear()}`} class="hover:text-chrome-accent">
+              {date.getFullYear()}
+            </a>
+          </li>
+        </ol>
+      </nav>
+
+      <h1
+        class="mt-5 max-w-[26ch] animate-[rise-in_.7s_var(--ease-stage)_both] font-display text-[clamp(2.1rem,6vw,4.25rem)] uppercase leading-[0.92] text-balance"
+      >
+        {post.data.title}
+      </h1>
+      <p
+        class="mt-6 font-ui text-[0.72rem] uppercase tracking-[0.18em] text-chrome-muted"
+      >
+        <time datetime={date.toISOString()}>{longDate}</time>
+      </p>
+    </div>
+  </header>
+
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    {
+      /* The featured image, where there is one: 153 of the 469 posts have one,
+         and a third of the blog's are its own square logo, so it is a lead
+         picture when it exists rather than a slot the layout depends on.
+         Explicit dimensions because R2 serves it directly — there is no Astro
+         pipeline on a remote file, and no size means the text jumps. */
+      hero && (
+        <img
+          src={hero}
+          alt=""
+          width={heroWidth}
+          height={heroHeight}
+          class="mb-12 max-h-[26rem] w-auto max-w-full rounded-sm outline outline-rule -outline-offset-1"
+        />
+      )
+    }
+
+    <div class="prose-archive">
+      <Content />
+    </div>
+
+    <p class="mt-12 max-w-[68ch] font-ui text-[0.78rem] text-muted">
+      Filed by Alan Ayckbourn&rsquo;s archivist, Simon Murgatroyd. <a
+        href={source}
+        class="underline decoration-accent underline-offset-4 hover:text-body"
+        >Read it on Archiving Ayckbourn</a
+      >.
+    </p>
+
+    {/* Older and newer, not "previous" and "next": in a dated archive the
+        direction that matters is time, and the labels should say which way. The
+        two ends of the archive have only one neighbour, and that one takes the
+        whole width — a half-width cell beside an empty one reads as a gap where
+        a link failed to load. */}
+    <nav
+      aria-label="More dispatches"
+      class:list={[
+        'mt-14 grid gap-px overflow-hidden rounded-sm border border-rule bg-rule',
+        newer && older && 'sm:grid-cols-2',
+      ]}
+      data-pagefind-ignore
+    >
+      {
+        neighbours.map(({ post: neighbour, label }, i) => (
+          <a
+            href={`/news/${neighbour.id}`}
+            class:list={[
+              'group block bg-surface p-6 transition-colors hover:bg-surface-raised',
+              i === 1 && 'sm:text-right',
+            ]}
+          >
+            <span
+              class="font-ui text-[0.65rem] uppercase tracking-[0.18em] text-muted"
+            >
+              {label}
+            </span>
+            <span
+              class="mt-2 block font-display text-[1.15rem] uppercase leading-[1.1] transition-colors group-hover:text-accent"
+            >
+              {neighbour.data.title}
+            </span>
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</Base>

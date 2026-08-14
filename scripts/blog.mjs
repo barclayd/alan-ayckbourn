@@ -232,6 +232,14 @@ function rewrite(html, { images, routes }) {
     );
     if (route) {
       a.attr('href', route);
+    } else if (href.startsWith('/')) {
+      /* A root-relative href in a post is broken at source — the archivist has
+         pasted an Amazon link and lost its host, leaving `/0746312814/ref=…`.
+         It resolved to nothing on the blog and would resolve to a 404 here,
+         which reads as our bug. Keep the words, drop the dead link — the same
+         treatment the images that 404 at source get. */
+      a.replaceWith(a.html() ?? '');
+      return;
     }
     a.removeAttr('target').removeAttr('rel').removeAttr('class');
   });
@@ -339,6 +347,21 @@ function runDates(when = '', on) {
 }
 
 /**
+ * A news bulletin dates itself `06/08/26`, sometimes as `updated 06/08/26`
+ * where the item has been revised since it was first posted. Day first: these
+ * are written in Scarborough.
+ */
+function posted(when = '') {
+  const date = when.match(/\b(\d{2})\/(\d{2})\/(\d{2})\b/);
+  return date
+    ? {
+        posted: `20${date[3]}-${date[2]}-${date[1]}`,
+        revised: /\bupdated\b/i.test(when),
+      }
+    : {};
+}
+
+/**
  * The two curated pages are one shape: a bullet per item, `◦ Title (when)`,
  * then a line of detail. Parsed into data rather than passed through as prose
  * so the pages can be built as listings — cards with a date, a venue and a
@@ -370,7 +393,12 @@ function bullets(html, { images, routes, on }) {
       continue;
     }
 
-    const body = raw.replace(/^◦\s*/, '');
+    /* The <br> is the join between the listing and its detail, so the listing
+       line is read from the markup before it. Taking it off the flattened text
+       instead glues the two together on the items that carry no dates — "on BBC
+       iPlayerThe acclaimed 1985 BBC adaptation". */
+    const [lead, ...tail] = (node.html() ?? '').split(/<br\s*\/?>/);
+    const body = text(lead).replace(/^◦\s*/, '');
     /* The last parenthesis is the when — dates run "(4 September – 3 October
        2026)" and titles never carry brackets. */
     const when = body.match(/\(([^()]*)\)\s*$|\(([^()]*)\)/);
@@ -388,11 +416,17 @@ function bullets(html, { images, routes, on }) {
     const rest = head
       .slice(title.length)
       .replace(/^\s*at\s+/i, '')
+      /* "at the Jubilee Hall" is a phrase; on its own line it is a name. */
+      .replace(/^the\b/, 'The')
       .trim();
-    /* Detail sits after the <br>: "Directed in-the-round by Alan Ayckbourn". */
-    const detail = raw.includes('\n')
-      ? ''
-      : text((node.html() ?? '').split(/<br\s*\/?>/)[1] ?? '');
+    /* Detail sits after the <br>: "Directed in-the-round by Alan Ayckbourn".
+       Kept as HTML too — a news bulletin's whole point is often the link at the
+       end of it ("To view, click here"), which the text form throws away. */
+    const after = tail.join('<br>');
+    const detail = raw.includes('\n') ? '' : text(after);
+    const detailHtml = detail
+      ? rewrite(`<p>${after}</p>`, { images, routes })
+      : '';
 
     items.push({
       kind: 'item',
@@ -401,7 +435,9 @@ function bullets(html, { images, routes, on }) {
       where: rest,
       when: when ? (when[1] ?? when[2]).trim() : '',
       ...runDates(when ? (when[1] ?? when[2]) : '', on),
+      ...posted(when ? (when[1] ?? when[2]) : ''),
       detail,
+      detailHtml,
       href: $(el).find('a[href]').first().attr('href') ?? null,
       html: rewrite(node.toString(), { images, routes }),
     });
@@ -504,8 +540,11 @@ async function main() {
         ? { hero: hero.url, heroWidth: hero.width, heroHeight: hero.height }
         : {}),
     };
+    /* Two posts were published without a slug, so WordPress used the post ID:
+       `/news/11813` tells a reader nothing and cannot be guessed or read out. */
+    const slug = /^\d+$/.test(post.slug) ? slugify(front.title) : post.slug;
     await writeFile(
-      join(OUT, `${post.slug}.md`),
+      join(OUT, `${slug}.md`),
       `${yaml(front)}\n${rewrite(post.content.rendered, { images, routes })}\n`,
     );
     report.posts++;
