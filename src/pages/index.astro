@@ -1,11 +1,18 @@
 ---
-import { Image } from 'astro:assets';
+import { getImage, Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 /* Kept in `src/assets` rather than imported out of `src/content/archive`: the
-   archive reproduces this banner on six pages, and which copies a scrape writes
-   depends on which pages survive block filtering. A hand-written page owns the
-   image it points at. */
+   archive reproduces these on several pages each — the portrait strip exists
+   under four different filenames — and which copies a scrape writes depends on
+   which pages survive block filtering. A hand-written page owns the images it
+   points at. */
+import portrait2012 from '@/assets/ayckbourn-portrait-2012.jpg';
+import posters1986 from '@/assets/ayckbourn-posters-1986.jpg';
+import rehearsal2003 from '@/assets/ayckbourn-rehearsal-2003.jpg';
+import twelvePortraits from '@/assets/ayckbourn-twelve-portraits.jpg';
 import onStage from '@/assets/on-stage-banner.png';
+import stageNarrowSrc from '@/assets/stage-in-the-round-narrow.webp';
+import stageWideSrc from '@/assets/stage-in-the-round-wide.webp';
 import PlayCard from '@/components/PlayCard.astro';
 import Base from '@/layouts/Base.astro';
 
@@ -30,35 +37,69 @@ const stats = [
   { value: pageCount, label: 'Pages in this archive' },
 ];
 
+/*
+ * Twenty-five, chosen by hand, in the order they were written.
+ *
+ * The archive ranks nothing — every play carries the same fields — so a
+ * "selected work" derived from the data could only ever mean "the first
+ * twenty-five chronologically", which stops in 1975. These are the plays that
+ * are still revived, spanning the whole working life; everything else is one
+ * click away in `/plays`, and the decades below list all of it.
+ */
+const SELECTED = [
+  'the-square-cat',
+  'relatively-speaking',
+  'how-the-other-half-loves',
+  'absurd-person-singular',
+  'the-norman-conquests',
+  'absent-friends',
+  'confusions',
+  'bedroom-farce',
+  'just-between-ourselves',
+  'taking-steps',
+  'seasons-greetings',
+  'intimate-exchanges',
+  'a-chorus-of-disapproval',
+  'woman-in-mind',
+  'a-small-family-business',
+  'henceforward',
+  'man-of-the-moment',
+  'the-revengers-comedies',
+  'time-of-my-life',
+  'communicating-doors',
+  'things-we-do-for-love',
+  'house-and',
+  'private-fears-in-public-places',
+  'neighbourhood-watch',
+  'a-brief-history-of-women',
+];
+
+const byId = new Map(plays.map((p) => [p.id.replace('plays/', ''), p]));
+/* Throws the build rather than silently dropping a card: a renamed page is a
+   thing to fix, not a hole in the grid. */
+const selected = SELECTED.map((slug) => {
+  const play = byId.get(slug);
+  if (!play) {
+    throw new Error(`Selected play is not in the archive: plays/${slug}`);
+  }
+  return play;
+});
+
 const decades = [
   ...Map.groupBy(plays, (p) => Math.floor((p.data.year ?? 0) / 10) * 10),
 ].sort(([a], [b]) => a - b);
 
-const waysIn = [
-  {
-    href: '/plays',
-    label: 'The Plays',
-    blurb:
-      'Every play, with its premieres, synopsis, staging notes and production history.',
-  },
-  {
-    href: '/life',
-    label: 'Life',
-    blurb:
-      'Biography, chronology, the people who shaped the work, and Ayckbourn in his own words.',
-  },
-  {
-    href: '/career',
-    label: 'Career',
-    blurb:
-      'Playwright, director, actor, artistic director — sixty years at the Stephen Joseph Theatre and beyond.',
-  },
-  {
-    href: '/encyclopaedia',
-    label: 'Encyclopaedia',
-    blurb: 'The A–Z: people, places, terms and productions, cross-referenced.',
-  },
-];
+/*
+ * The hero photograph, art-directed: the wide shot of the round loses both
+ * actors when a phone crops it to a portrait window, so the narrow crop is a
+ * different photograph rather than the same one squeezed. Blurred at low
+ * opacity behind the title, so neither needs to ship at native size — the
+ * detail is thrown away before it reaches the reader.
+ */
+const [stageWide, stageNarrow] = await Promise.all([
+  getImage({ src: stageWideSrc, width: 960 }),
+  getImage({ src: stageNarrowSrc, width: 720 }),
+]);
 ---
 
 <Base
@@ -67,8 +108,52 @@ const waysIn = [
   indexed={false}
 >
   <section
-    class="relative flex min-h-[min(88svh,46rem)] flex-col justify-center overflow-hidden bg-chrome py-24 text-chrome-ink"
+    class="relative isolate flex min-h-[min(88svh,46rem)] flex-col justify-center overflow-hidden bg-chrome py-24 text-chrome-ink"
   >
+    {/*
+      Decorative, and stated as such: the production it shows is named in full
+      by the banner directly below, so a screen reader gains nothing from a
+      second description of the same photograph.
+
+      Scaled past the frame for two reasons: a blur feathers the edges of its
+      own image, and the top third of the wide photograph is the black ceiling
+      of the auditorium — held to the frame, the hero reads as no photograph at
+      all. Zoomed from the bottom, what sits behind the title is the parquet
+      floor of the round and the two actors standing on it. The drift is slow
+      enough to read as the light moving rather than as an animation.
+
+      A phone crops the same aspect much harder — the frame is twice as tall as
+      it is wide — so the narrow crop gets its own barely-there zoom and grows
+      from the centre. Zoomed and lifted like the wide one, the actors it was
+      chosen for would be pushed off the top of the screen.
+    */}
+    <picture>
+      <source media="(min-width: 40rem)" srcset={stageWide.src} />
+      <img
+        src={stageNarrow.src}
+        alt=""
+        aria-hidden="true"
+        fetchpriority="high"
+        class="absolute inset-0 -z-10 size-full animate-[stage-drift-narrow_32s_var(--ease-stage)_both] object-cover opacity-60 blur-[6px] sm:origin-bottom sm:animate-[stage-drift_32s_var(--ease-stage)_both]"
+      />
+    </picture>
+    {/* Two scrims rather than one: sideways, because the type is set on the left
+        and the photograph is worth seeing on the right; and upwards, because the
+        lit floor is brightest at the foot of the frame, which is exactly where
+        the smallest type on the page sits. The sideways one waits for a screen
+        wide enough to have a right-hand side — on a phone the type runs the full
+        measure, so a scrim across it would only be a lid on the photograph. */}
+    <div
+      aria-hidden="true"
+      class="absolute inset-0 -z-10 hidden bg-linear-to-r from-chrome/85 via-chrome/55 to-chrome/15 sm:block"
+    >
+    </div>
+    <div
+      aria-hidden="true"
+      class="absolute inset-0 -z-10 bg-linear-to-t from-chrome via-chrome/25 to-transparent"
+    >
+    </div>
+
     <div class="shell">
       <p
         class="animate-[rise-in_.7s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
@@ -82,11 +167,18 @@ const waysIn = [
       >
         Sir Alan<br />Ayckbourn
       </h1>
+      {/* The archive's own opening words, as published on its front page. Set
+          in the ink rather than the muted grey: this is the one paragraph on the
+          site with a photograph behind it, and muted grey over a lit stage floor
+          is the pairing that fails. */}
       <p
-        class="mt-8 max-w-[46ch] animate-[rise-in_.8s_var(--ease-stage)_.16s_both] text-lg text-chrome-muted"
+        class="mt-8 max-w-[54ch] animate-[rise-in_.8s_var(--ease-stage)_.16s_both] text-lg text-chrome-ink/90"
       >
-        Ninety-two plays written in the round, in a seaside town, over
-        sixty-seven years. This is the archive of all of it.
+        Sir Alan Ayckbourn is an Olivier and Tony Award winning playwright. He
+        lives in Scarborough, North Yorkshire, and has written <strong
+          class="font-semibold text-chrome-ink">92</strong
+        > full-length plays, many of which have been produced in London&rsquo;s
+        West End and New York as well as around the world.
       </p>
 
       <dl
@@ -136,29 +228,136 @@ const waysIn = [
     </div>
   </section>
 
-  <section class="px-4 py-24">
+  <section class="border-rule border-b py-20">
+    {/* Heading first and left, like every other band on the page: the pictures
+        take the right-hand column, not the page's left edge. */}
+    <div
+      class="shell grid items-center gap-12 lg:grid-cols-[minmax(0,1fr)_minmax(0,30rem)] lg:gap-16"
+    >
+      <div data-reveal>
+        <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl">
+          A man of the theatre
+        </h2>
+        {/* The archive's front page, second paragraph, as published. */}
+        <p class="mt-6 max-w-[46ch] text-lg">
+          As an acclaimed director, he has worked extensively in the West End
+          and at the National Theatre. He was the Artistic Director of the
+          Stephen Joseph Theatre, Scarborough, from 1972 to 2009, where the
+          majority of his work has and continues to be launched.
+        </p>
+        <ul class="mt-8 max-w-[30rem]">
+          {
+            [
+              { href: '/life', label: 'Life', hint: 'Biography and chronology' },
+              {
+                href: '/career',
+                label: 'Career',
+                hint: 'Playwright, director, artistic director',
+              },
+            ].map(({ href, label, hint }) => (
+              <li>
+                <a
+                  href={href}
+                  class="group flex items-baseline gap-4 border-rule border-t py-3.5 transition-colors hover:border-accent"
+                >
+                  <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">
+                    {label}
+                  </span>
+                  <span class="font-ui text-xs text-muted">{hint}</span>
+                  <span
+                    aria-hidden="true"
+                    class="ml-auto font-ui text-muted transition-transform group-hover:translate-x-1"
+                  >
+                    &rarr;
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      {/*
+        A diptych, cropped to one frame: two photographs of the same man at
+        work, seventeen years apart. Both were published at 300px, so they are
+        never asked to fill more than that.
+      */}
+      <div class="grid grid-cols-2 gap-5 sm:gap-6" data-reveal>
+        <figure>
+          <Image
+            src={posters1986}
+            alt="Alan Ayckbourn in 1986, leaning on a banister in front of a wall papered with posters for his own plays"
+            widths={[300]}
+            sizes="(min-width: 64rem) 15rem, 45vw"
+            class="aspect-4/5 w-full rounded-sm object-cover"
+          />
+          <figcaption class="mt-3 font-ui text-xs leading-snug text-muted">
+            In front of a wall of his own posters, 1986
+          </figcaption>
+        </figure>
+        <figure>
+          <Image
+            src={rehearsal2003}
+            alt="Alan Ayckbourn in rehearsal in 2003, palms pressed together, explaining something to the company around him"
+            widths={[300]}
+            sizes="(min-width: 64rem) 15rem, 45vw"
+            class="aspect-4/5 w-full rounded-sm object-cover"
+          />
+          <figcaption class="mt-3 font-ui text-xs leading-snug text-muted">
+            In rehearsal, 2003
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-24">
     <div class="shell">
       <div class="flex flex-wrap items-baseline justify-between gap-4" data-reveal>
         <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl">
           Selected work
         </h2>
-        <a
-          href="/plays"
-          class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-muted underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
-        >
-          Browse every play
-        </a>
+        <p class="font-ui text-xs text-muted">
+          Twenty-five plays, in the order they were written
+        </p>
       </div>
 
       <ul class="mt-10 grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5">
         {
-          plays.map((play) => (
+          selected.map((play) => (
             <li data-reveal>
               <PlayCard play={play} />
             </li>
           ))
         }
       </ul>
+
+      {/* The way on from a grid that stops: a full-width row rather than a
+          button, so it reads as the next line of the page. */}
+      <a
+        href="/plays"
+        class="group mt-12 flex items-baseline gap-4 border-rule border-t pt-5 transition-colors hover:border-accent"
+        data-reveal
+      >
+        {/* No count in the label: this grid holds the dated plays, the index it
+            leads to also files the revues and the writing-about-writing pages,
+            and two different numbers for "the plays" on one page is worse than
+            none. */}
+        <span
+          class="font-display text-2xl uppercase leading-none transition-colors group-hover:text-accent sm:text-3xl"
+        >
+          Every play in the archive
+        </span>
+        <span class="hidden font-ui text-sm text-muted sm:inline">
+          Premieres, casts, synopses and production histories
+        </span>
+        <span
+          aria-hidden="true"
+          class="ml-auto font-display text-2xl text-muted transition-transform group-hover:translate-x-1.5 sm:text-3xl"
+        >
+          &rarr;
+        </span>
+      </a>
     </div>
   </section>
 
@@ -209,33 +408,95 @@ const waysIn = [
     </div>
   </section>
 
-  <section class="px-4 py-24">
+  <section class="py-24">
     <div class="shell">
-      <h2 class="font-display text-4xl uppercase leading-none sm:text-5xl" data-reveal>
-        Four ways in
+      <h2
+        class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+        data-reveal
+      >
+        This archive
       </h2>
-      {/* Hairline above, no plate: a padded cell holds its text its own padding
-          inside the column, which put every card in this grid 28px right of the
-          heading over it. */}
-      <ul class="mt-10 grid gap-x-8 sm:grid-cols-2">
-        {
-          waysIn.map(({ href, label, blurb }) => (
-            <li data-reveal>
-              <a
-                href={href}
-                class="group flex h-full flex-col border-rule border-t pt-4 pb-7 transition-colors hover:border-accent"
-              >
-                <span class="font-display text-2xl uppercase leading-none transition-colors group-hover:text-accent">
-                  {label}
-                </span>
-                <span class="mt-3 font-ui text-sm leading-relaxed text-muted">
-                  {blurb}
-                </span>
-              </a>
-            </li>
-          ))
-        }
-      </ul>
+
+      <div
+        class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,18rem)] lg:gap-16"
+      >
+        <div data-reveal>
+          {/* The Stage, quoted on the archive's front page, and set in the
+              reading face rather than the display one: every heading on this
+              page is Anton caps, and a review is somebody else speaking. The
+              archive prints it in italics; so do we. */}
+          <blockquote
+            class="border-accent border-l-2 pl-6 text-[clamp(1.35rem,2.6vw,1.95rem)] italic leading-[1.35]"
+          >
+            Ayckbourn is quintessentially a man of the theatre, and Simon
+            Murgatroyd&rsquo;s achievement has been to celebrate and annotate
+            that for posterity.
+            <footer
+              class="mt-4 font-ui text-[0.65rem] not-italic uppercase tracking-[0.18em] text-muted"
+            >
+              The Stage
+            </footer>
+          </blockquote>
+
+          {/* The archive's front page, third paragraph, as published. */}
+          <p class="mt-10 max-w-[54ch]">
+            The website is administered by the playwright&rsquo;s archivist <a
+              href="http://www.simon-murgatroyd.com/"
+              rel="external"
+              class="font-semibold underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+              >Simon Murgatroyd</a
+            > and offers an indispensable guide to his plays and career. At more
+            than 3,500 pages, it is the most comprehensive and in-depth resource
+            dedicated to Alan Ayckbourn. Visit our sister site <a
+              href="http://www.a-round-town.com/"
+              rel="external"
+              class="font-semibold underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+              >A Round Town</a
+            > to learn about theatre in the round in Scarborough, which Alan
+            Ayckbourn is synonymous with.
+          </p>
+
+          <a
+            href="/about"
+            class="group mt-8 inline-flex items-baseline gap-3 font-ui text-[0.7rem] uppercase tracking-[0.2em] text-muted transition-colors hover:text-accent"
+          >
+            About this archive
+            <span
+              aria-hidden="true"
+              class="transition-transform group-hover:translate-x-1">&rarr;</span
+            >
+          </a>
+        </div>
+
+        <figure class="lg:pt-2" data-reveal>
+          <Image
+            src={portrait2012}
+            alt="Black-and-white portrait of Alan Ayckbourn lit from the side against a dark ground"
+            widths={[300]}
+            sizes="(min-width: 64rem) 18rem, (min-width: 40rem) 20rem, 60vw"
+            class="w-full max-w-[18rem] rounded-sm"
+          />
+          <figcaption class="mt-3 font-ui text-xs leading-snug text-muted">
+            Photographed in 2012
+          </figcaption>
+        </figure>
+      </div>
+
+      {/* The strip the archive closes its own front page with: twelve portraits
+          of one life, in order. Held at its published width — 900px is all
+          there is of it, and upscaling a photograph is worse than a gap. */}
+      <figure class="mt-16" data-reveal>
+        <Image
+          src={twelvePortraits}
+          alt="A strip of twelve black-and-white portraits of Alan Ayckbourn across his life, from a young actor with a clarinet, a guitar and monkey-mask make-up, through the doorway of the Library Theatre under a &quot;THE ROUND&quot; sign, to old age"
+          widths={[900]}
+          sizes="(min-width: 60rem) 56.25rem, 100vw"
+          class="w-full max-w-[56.25rem] rounded-sm"
+        />
+        <figcaption class="mt-3 font-ui text-xs text-muted">
+          Twelve portraits, one working life
+        </figcaption>
+      </figure>
     </div>
   </section>
 </Base>

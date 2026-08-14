@@ -143,6 +143,35 @@
   }
 }
 
+/*
+ * The hero photograph, drifting. Half a minute for 4% of scale is below the
+ * threshold where an eye reads it as animation — it reads as the light on a
+ * stage moving. Starts from the scale the blur needs anyway, so the frame never
+ * shows the blur's feathered edge.
+ */
+@keyframes stage-drift {
+  from {
+    scale: 1.35;
+  }
+  to {
+    scale: 1.42;
+    translate: -1% 0;
+  }
+}
+
+/* The same drift on a phone, where the frame is twice as tall as it is wide and
+   the crop is severe enough already: only as much scale as the blur needs to
+   keep its feathered edge out of the frame. */
+@keyframes stage-drift-narrow {
+  from {
+    scale: 1.06;
+  }
+  to {
+    scale: 1.12;
+    translate: -1% 0;
+  }
+}
+
 @keyframes drop-in {
   from {
     opacity: 0;
