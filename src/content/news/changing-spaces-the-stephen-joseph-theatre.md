@@ -1,0 +1,80 @@
+---
+title: "Changing Spaces: The Stephen Joseph Theatre"
+date: "2023-03-23T09:00:00"
+excerpt: "The UK’s first professional theatre-in-the-round company was opened in the Yorkshire coast resort of Scarborough in 1955 by the theatre pioneer Stephen Joseph. Since then, the company has expanded and thrived beyond all expectations and has had three homes: Theatre in the Round at the Library Theatre (1955 – 1976); the Stephen Joseph Theatre in…"
+categories: ["Archive", "Article", "Ayckbourn"]
+source: "https://archivingayckbourn.home.blog/2023/03/23/changing-spaces-the-stephen-joseph-theatre/"
+hero: "https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2023/1996-opening-cover-clean-copy.jpg"
+heroWidth: 300
+heroHeight: 300
+---
+
+<p><em>The UK’s first professional theatre-in-the-round company was opened in the Yorkshire coast resort of Scarborough in 1955 by the theatre pioneer Stephen Joseph.</em></p>
+
+<p><em>Since then, the company has expanded and thrived beyond all expectations and has had three homes: Theatre in the Round at the Library Theatre (1955 – 1976); the Stephen Joseph Theatre in the Round (1976 – 1995) and the Stephen Joseph Theatre (1996 – present).</em></p>
+
+<p><em>In this series of articles (click <a href="https://archivingayckbourn.home.blog/2023/01/18/changing-spaces-the-library/">here</a> for Theatre in the Round at the Library Theatre and <a href="https://archivingayckbourn.home.blog/2023/03/02/changing-space-theatre-in-the-round-at-westwood/">here</a> for the Stephen Joseph Theatre in the Round), I’ve been looking at how theatre-in-the-round changed and developed in Scarborough over the decades between 1955 and 2009 under Stephen Joseph and, later, Alan Ayckbourn. Changes both front-of-house and backstage as well as how different aspects of the theatre altered – or even vanished – with both the inevitability of change over time and, also, Stephen Joseph’s maxim that a theatre should reinvent itself every seven years.</em></p>
+
+<p><em>I’m concluding with the company’s present home, the Stephen Joseph Theatre. I’m not going to look at the theatre as it is today nor focus on the vast number of changes it has experienced within the past 27 years. Instead, I’m going to concentrate on the venue when it first opened during its first two years from 1996 – 1997, looking at what the theatre was like, what it offered as well as the ambitions and philosophy behind the new venue.</em></p>
+
+<p><em>It marked a significant change to all that had gone previously and whilst many of these early ambitions as well as aspects of the venue itself have been refined, altered or lost over the subsequent decades, this offers a look at what the first purpose-built home of the company Alan Ayckbourn is synonymous with was like when it opened, enabling a comparison with what the theatre had been previously as well as what was to come.</em></p>
+
+<p><strong>Changing Spaces: The Stephen Joseph Theatre </strong>by Simon Murgatroyd</p>
+
+<p><strong>Prelude:</strong> The company’s final performance at the Stephen Joseph Theatre in the Round was on 3 February 1996 with Alan Ayckbourn’s <em>Just Between Ourselves</em>. Over the next two months, the company moved to its new home, a purpose-designed space built within the shell of Scarborough’s former Odeon cinema.</p>
+
+<div>
+<figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2023/1996-opening-cover-clean-w300.jpg" alt="" width="300" height="418" loading="lazy" decoding="async"><figcaption><sub>The brochure cover for the opening season of the Stephen Joseph Theatre (© Scarborough Theatre Trust)</sub></figcaption></figure>
+</div>
+
+<p>From initial interest in acquiring the building in 1989 to its actual completion in 1996, this had taken seven years to complete and had a final cost of £5.2m. When the building opened, there were two auditoriums – round and end-stage – a restaurant, wine bar, theatre shop, rehearsal spaces, offices, workshop and a conference room. It marked the first time the company had all the facilities it needed in one venue.</p>
+
+<p>The Stephen Joseph Theatre opened on the 24 April 1996 with Alan Ayckbourn and Andrew Lloyd Webber’s musical <em>By Jeeves</em>. This is a glimpse at what could be found in the building during those first two years as well as what was on offer to the public…</p>
+
+<p><strong>Theatre in the Round:</strong> The design of The Round – the first time the space had been given an official name – was very similar to its predecessor at the Stephen Joseph Theatre in the Round. The stage dimensions were exactly the same as was the configuration of the voms (stage entrances). However, it  differed in other aspects.</p>
+
+<p>Repertory theatre was an essential part of the company’s existence at this point and the schedule was predicated during the summer on a change of show every Thursday and different matinee and evening shows on Saturdays. The new theatre made this part of its design brief and had a state-of-the-art stage lift installed in The Round. </p>
+
+<p>The lift was designed to hold pallets configured to the exact shape of the performance space, which could be rolled on and off the lift. The sets would be built onto these pallets and, due to the clever layout of the lift shaft, three pallets could be in use at any one time – one on stage, one in the rehearsal room and one in the workshop. These could then be brought into play at any point – theoretically – you could have three shows in rep all of which could be switched in a couple of hours.</p>
+
+<p>The lighting grid was a complete redesign. Previously all lamps had to be individually altered by a technician going up a talloscope on an empty stage (for obvious health and safety reasons). A long-winded and tedious job. For the new theatre, a revolutionary ‘mesh trampoline’ was installed for the first time in the UK. This was suspended below the lamps allowing complete access to all the lamps at any point with several people able to work at the same time whilst work could also go on on the stage below. It redefined how to efficiently and safely provide access to an in-the-round lighting grid for the company.</p>
+
+<p>The seating was also altered. Previously the company had had five rows of seating in-the-round. This was expanded to… five-and-a-half rows. That wasn’t actually the original idea. The intention was for six full rows of seats, however the builders got the measurements wrong and once The Round has been built, it was discovered there was not enough space for full seats on the back row. Hence the compromise of the bench-type seats and leaning rail on the back row! This added approximately 100 seats to the capacity of The Round though without breaking the intimacy upon which it depends.</p>
+
+<p><strong>The End-Stage Space:</strong> Whilst there had been a studio space at the Stephen Joseph Theatre in the Round, this was always makeshift and had never been intentionally designed for the space (not that memorable work wasn’t produced there – <em>The Woman in Black</em> began its life there). But at the Stephen Joseph Theatre, a purpose-built end-stage space (not a studio space, as Alan Ayckbourn never wanted it to be seen as secondary to The Round) was created in The McCarthy – named after Charles ‘Mac’ McCarthy, one of the three people who drove the Stephen Joseph Theatre project forward.</p>
+
+<p>The McCarthy was built in – essentially – the circle area of the old Odeon and many of the cinema’s original 1936 art deco features were preserved to give a sense of history of the building. The best of the seats from the Odeon had been saved, the art deco light fittings and certain decorative elements combined with a reproduction of the Odeon carpet (which was fitted throughout the front-of-house areas). The space also doubled as a cinema. The intention was The McCarthy would be on equal footing with The Round and this was highlighted in 1997 with the world premiere of Alan Ayckbourn’s new play, <em>Things We Do For Love</em>, which was written specifically for The McCarthy. It was so successful, it ran for over 100 performances – the only show in this venue to have reached that target.</p>
+
+<p>During the early years, it was the rule rather than the exception that during the summer, they were live shows running simultaneously in both The Round and The McCarthy on most nights with an eclectic selection of films generally running in tandem with The Round during the winter months.</p>
+
+<p><strong>The Green Room:</strong> Central to the whole philosophy of the new building was the Green Room. Alan Ayckbourn wanted a communal space for the entire company to use, from Front of House assistants to actors to the Artistic Director. To that end, kettles and coffee machines were banned from offices. If you wanted a drink, no matter who you were, you went to the Green Room. Coffee breaks were arranged at 11am and 4pm with the company encouraged to break at these points. This allowed the entire company to come together, foster a sense of community and also allow everyone to be aware of what was going on in the building.</p>
+
+<p>Adjunct to this was the coffee mugs rack – an idea Alan brought over from the Alley Theatre in Houston – with every company member having a named hook to put their coffee mug on in the Green Room (and which consequently led to the less than hygienic ‘Mugs of Shame’, a bucket in the green room where unwashed mugs were put at the end of the day!) The Green Room was designed to be the heart of the building, a communal space where everyone working in the theatre was welcome and could meet everyone else – a real departure from many traditional green rooms which were restricted to actors and back-stage crew. It is one of the innovations Alan Ayckbourn was most proud of and he would be there at most coffee breaks waxing lyrical with his company.</p>
+
+<p><strong>7 Days A Week;</strong> Alan Ayckbourn’s initial aim was the new theatre should be open as much as possible with something going on all the time. For a while, this led to the theatre opening seven days a week with a Sunday morning film screening and bacon bap breakfast a particularly favourite of this author! Events were organised in the restaurant as well as the theatres with lunchtime shows, afternoon readings (tea time tales) and platform talks taking place in both The Restaurant and The McCarthy. Workshops led by the Education Department were also organised for the Boden Room alongside other events.</p>
+
+<p>At its height in the ’90s, it was possible to see five different plays in one week during the summer alongside other attractions such as exhibitions in the Gallery, the Theatre Shop and other events.</p>
+
+<p><strong>The Theatre Shop: </strong>The Stephen Joseph Theatre opened with a theatre shop in 1996 which was solely theatre-orientated, predominantly as a theatre bookshop with what was billed as the largest selection of play texts in the north of England as well as a wide selection of reference books, biographies and other theatre-related works. It also offered posters, postcards, CDs and SJT branded merchandise which were joined in 1997 by rotating exhibitions of work by established local craftspeople, available to buy.</p>
+
+<p><strong>The Restaurant:</strong> The intention when the Stephen Joseph Theatre was opened was to have a top class restaurant in the space where the original Odeon cafe had been. Although it has gone through many names and permutations over the years, it began as The Restaurant and during its first few years built a strong reputation, not least because of its chef James McKenzie, who would go on to become a renowned, award-winning chef now firmly associated with his Michelin starred The Pipe and Glass Inn at Beverley.</p>
+
+<p>The speciality at the time was salmon fish-cakes and, again, the intention was all day, all the time. The Restaurant opened seven days a week from 10am in the morning for coffee and cakes before offering lunch, dinner as well as post-show suppers.</p>
+
+<p>The Restaurant also held the bar for pre and post-show drinks, which was supplemented by the Wine Bar in the upper foyer.</p>
+
+<p><strong>Exhibitions:</strong> The corridor running around the top of The Round auditorium from which the audience now entered (as opposed to across the stage in the previous venues) became a permanent gallery space showcasing northern artists as well as exhibitions themed to the productions such as a West End musicals poster exhibition. This, again, was open whenever performances were not on but the theatre was otherwise open.</p>
+
+<p><strong>Behind The Scenes Tours:</strong> Weekly backstage tours ran from 1997  in which small groups were given tours of the building – initially by the theatre’s education officer. This allowed not only access to the theatre spaces, but also the Green Room and features such as the programme walls which – previously on public view at Westwood – were now backstage with framed programmes from every production from 1976 forwards. The only negative of these tours was they introduced the <a href="http://thesjt-articles.alanayckbourn.net/page12/page-5/styled-128/">myth of the theatre ghost</a>, which was entirely fabricated by the tour guide to liven things up, but which still persists to this day!</p>
+
+<p><strong>The Workshop:</strong> Little-known is the theatre had a full workshop space where all the sets were built in-house under the supervision of Master Carpenter Frank Matthews. The workshop adjoined the stage lift with the paint-shop also being a storage area for one of the pallets so the sets could be built and assembled onto the actual ‘stage’ all within the workshop – the finished pallet could then be lifted up into the rehearsal room or the stage. The building of main house sets was taken out of the building during the 2010s as a ‘cost saving’ measure. However, until this point, it marked the first time the company could say every aspect of a production – from casting to set building, rehearsals to marketing were entirely conducted in-house within the same building.</p>
+
+<p><strong>The State of the Art:</strong> The first full year of the company in its new home was in 1997 and it offered 14 in-house productions – 7 of which were world premieres with a repertory system operating from June to October. There were also platform talks, visiting productions, films, exhibitions, post-show talks, tea-time tales, jazz concerts in the restaurant, tours and workshops. The theatre was open in January, then from March to December, 7 days a week.</p>
+
+<p>That then is a glimpse of the Stephen Joseph Theatre during its first two years of operation. In the intervening three decades, much has changed and altered, be it physically in areas such as the redesign of the lower foyer and the complete redevelopment of the education department / OutReach / creative engagement areas or philosophically in the move away from repertory theatre. But this perhaps adheres to the maxim of the theatre’s founder, Stephen Joseph. </p>
+
+<p>He believed a theatre should ‘blow itself up’ – reinvent itself – every seven years to prevent complacency and stagnation . Since 1955, theatre-in-the-round in Scarborough has consistently re-invented itself whether in new homes or with new artistic direction or just the development of the building and company as new ideas are introduced and refined.</p>
+
+<p>No theatre or artistic company should ever stand still, that only leads to stagnation. But I hope these articles show not only how this particular theatre and company has developed and altered over the decades but also emphasise the importance of appreciating the history and development of companies and venues. For to be aware of the past and to understand the history of a company and venue can only help but inform and inspire decisions moving forward and the continued development of a theatre over time. </p>
+
+<p><em>Article by and copyright of Simon Murgatroyd. Please do no reproduce without permission of the copyright holder.</em></p>

@@ -1,0 +1,78 @@
+---
+title: "Bedroom Farce at 50"
+date: "2025-06-16T09:00:00"
+excerpt: "On 16 June 1975, the world premiere of one of Alan Ayckbourn’s most popular and successful works took place at Scarborough Library. The play was Bedroom Farce and it marked a significant moment for Alan Ayckbourn, Theatre in the Round at the Library Theatre and the National Theatre – despite the fact that it has…"
+categories: ["Archive", "Article", "Ayckbourn"]
+source: "https://archivingayckbourn.home.blog/2025/06/16/bedroom-farce-at-50/"
+hero: "https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2025/1977-bedroom-farce-cover-01-copy.jpg"
+heroWidth: 400
+heroHeight: 400
+---
+
+<p>On 16 June 1975, the world premiere of one of Alan Ayckbourn’s most popular and successful works took place at Scarborough Library.</p>
+
+<p>The play was <strong><em><a href="/plays/bedroom-farce">Bedroom Farce</a></em></strong> and it marked a significant moment for Alan Ayckbourn, <strong><a href="/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre">Theatre in the Round at the Library Theatre</a></strong> and the National Theatre – despite the fact that it has frequently been dismissed as a minor Ayckbourn work due to its perception as a light-weight piece of the period for the writer.</p>
+
+<p>The roots of the play go back not to Scarborough though – where the vast majority of Alan’s works originate – but the <strong><a href="/career/national-theatre">National Theatre</a></strong>. In 1975, the&nbsp;National Theatre&nbsp;moved to its purpose-built home on London’s South Bank under the direction of&nbsp;<strong><a href="/life/influences/hall-sir-peter">Peter Hall</a></strong>; a move that was not without controversy and which would generate questions about the National Theatre’s purpose and place.</p>
+
+<div>
+<figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2025/1975-bedroom-farce-cover-w400.jpg" alt="" width="400" height="642" loading="lazy" decoding="async"><figcaption><sub>The programme cover for the world premiere of Bedroom Farce in 1975 (© Scarborough Theatre Trust)</sub></figcaption></figure>
+</div>
+
+<p>Hall was already an admirer of Alan’s writing, having been introduced to his work with the 1973 West End production of&nbsp;<strong><em><a href="/plays/absurd-person-singular">Absurd Person Singular</a></em></strong>. As a result, Hall formally approached Alan in January 1974 to provide a play for the Lyttelton auditorium as part of the National Theatre’s first season. Alan agreed – with the proviso that the play would premiere at Theatre in the Round at the Library Theatre in Scarborough where the vast majority of his work premiered.</p>
+
+<p>Hall agreed and Alan provided him with a title for the play at least a year in advance of actually writing it. Although Alan would not write the play until May 1975, an interview with the Sunday Times in June 1974 confirmed he already had some firm ideas. “I’m going to call it&nbsp;<em>Bedroom Farce, A Comedy</em>. I’m worrying about it a bit because I’ve never written for the posh fellers before. It’ll have everything about bedrooms but copulation, something which I believe is hardly practiced in the British bedroom anyway.” The title was later shortened to just&nbsp;<em>Bedroom Farce</em>.<br><br>In the meantime, Alan’s immediate concern was the imminent premiere of&nbsp;<strong><em><a href="/plays/jeeves">Jeeves</a></em></strong>, his musical collaboration with Andrew Lloyd Webber.&nbsp;<em>Jeeves</em>&nbsp;opened at Her Majesty’s Theatre, London, on 22 April 1975 and closed on 24 May 1975. It was a notorious musical flop, but despite its very public failure Alan was not as downcast as might be expected: “I remember going in to see the cast on the last night and not feeling too bad about it as I had just finished&nbsp;<em>Bedroom Farce</em>&nbsp;that day.” It’s doubtful whether the cast felt the same way!</p>
+
+<p>In fact, <em>Jeeves</em> has a significant link to <em>Bedroom Farce</em> as, in 2011, the earliest notes relating to&nbsp;<em>Bedroom Farce</em> were stumbled upon when the Ayckbourn Archive was being prepared for transfer to the Borthwick Institute for Archives at the University of York. Whilst examining an original manuscript for &nbsp;<em>Jeeves</em>, a page of hand-written notes was discovered on the back of one of the manuscript pages with plot details for&nbsp;<em>Bedroom Farce</em>. It included a diagram of four beds arranged as a cruciform as the original idea was for four couples in four bedrooms.</p>
+
+<p>As was typical of practically all Alan’s writing at the time, the play was delivered at the last possible moment to the Theatre in the Round at the Library Theatre and – even by Alan’s standards – it was a particularly tense time as Hall recalls: “It [<em>Bedroom Farce</em>] was due to rehearse on a Monday; he started writing it on the previous Wednesday, wrote all day Wednesday and most of the night, all day Thursday and most of the night, all day Friday and most of the night; on Saturday he typed it out, and on Sunday armed with some duplicated copies he drove up to Scarborough. He gave it to the cast on Monday morning, and after the reading collapsed in bed for two days. He said this was the kind of pressure he needed, and usually induced, to write a play.”</p>
+
+<div>
+<figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2025/1975-bedroom-farce-c2a9-scarborough-theatre-trust-04-w400.jpg" alt="" width="400" height="306" loading="lazy" decoding="async"><figcaption><sub>A rare image of the staging of the world premiere production (© Scarborough Theatre Trust)</sub></figcaption></figure>
+</div>
+
+<p>So late was the script, Alan did not send it to his agent <strong><a href="/life/influences/ramsay-margaret">Margaret Ramsay</a></strong> – better known as Peggy – for another week. At the same time, Alan asked Peggy to pass the script on to his usual West End producer Michael Codron, as he was not confident Hall would like the piece. He needn’t have worried, Hall “liked it very much” and noted “I love the serious observation underlying the comedy.” Ironically, Codron liked the script too and arranged that, should&nbsp;<em>Bedroom Farce</em>&nbsp;transfer from the National Theatre to the West End, it would become a joint production between the National and himself.<br><br><em>Bedroom Farce</em>&nbsp;opened at Theatre in the Round at the Library Theatre, Scarborough, on 16 June 1975. Commercially the play was very successful, but it received mixed critical notices. While all agreed it was an enjoyable play, The Daily Telegraph and The Guardian had particular issues with regard to Trevor and Susannah’s characters.</p>
+
+<p>The production was not without its problems either; commissioned for an end-stage, Alan had difficulty adapting it to the limited confines of Theatre in the Round at the Library Theatre – not least because the design somehow included the wrong sizes for the beds! Unable to fit the beds onto the stage, Alan ended up staging it in a three-sided / thrust production rather than the in-the-round which he had intended.</p>
+
+<p>Hall came to see the play in Scarborough and – despite certain reservations – was sure it would work at the National. He was now planning to open the play in autumn 1976 and was already compiling a wish-list of actors which included Ralph Richardson and Peggy Ashcroft. The production would later be moved back to 1977.</p>
+
+<p>However, the National production was nearly put at risk though when Hall agreed to a 10% royalty for Alan, but was informed by Alan’s agent, Peggy,&nbsp;that Alan’s West End agreements included 1% of royalties going back to Theatre in the Round at the Library Theatre in Scarborough. Hall, alarmed at this, responded this would make it too expensive for the National to stage and would Alan accept 9% and a promise that he would have an exemplar cast? Alan agreed.</p>
+
+<p><em>Bedroom Farce</em>&nbsp;marked the first time Alan would direct the London premiere of one of his plays, although he had been directing the world premieres of them in Scarborough since 1967. It had been agreed that Hall and Alan would co-direct the play – presumably to reassure the National Theatre that Alan was not flying solo on his first directorial credit both in London and at the National.</p>
+
+<p>It was a cleverly engineered ruse by Hall though. Due to existing commitments, Alan could not attend the first week of rehearsals. By the time he arrived, Hall had blocked the piece and announced he could be found next door, having purposely scheduled conflicting rehearsals for&nbsp;<em>Volpone</em>. “I wasn’t going to do&nbsp;<em>Bedroom Farce</em>&nbsp;if the author didn’t want me to,” said Hall in 2011. “So I tried to manufacture a situation where he [Alan] did what I wanted and I did what he wanted. It worked.” Although both men are credited as co-directors, to all and intents it was Alan’s piece. Rehearsals were scheduled for an extraordinary eight weeks – Alan was used to three weeks at Scarborough.</p>
+
+<div>
+<figure><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2025/1977-bedroom-farce-cover-01-w400.jpg" alt="" width="400" height="643" loading="lazy" decoding="async"><figcaption><sub>The programme cover for the National Theatre’s production of Bedroom Farce (© National Theatre) </sub></figcaption></figure>
+</div>
+
+<p>The production received its premiere at the Alexandra Theatre, Birmingham, on 1 March 1977 as part of a short pre-London tour. Originally the play was due to visit the Theatre Royal, Norwich, but when the manager refused to pay the National Theatre 65% of the box office, the National pulled the production and opted to visit Birmingham followed by the New Theatre, Cardiff. The premiere at the National Theatre on 16 March 1977 was met with an effusive reaction by the critics. The vast majority of the reviews were positive and most of the original concerns were forgotten.</p>
+
+<p>The one major reservation voiced by many critics was why such a light piece by a popular – and, thus perceived, commerical – playwright was at the National Theatre rather than in the West End. This was unexpectedly emphasised by the fact Michael Codron opened Alan’s&nbsp;<strong><em><a href="/plays/just-between-ourselves">Just Between Ourselves</a></em></strong>&nbsp;a month later on 20 April 1977 in the West End; by far the less commercial play,&nbsp;<em>Just Between Ourselves</em>&nbsp;is extremely dark and led to serious discussion as to whether the plays were in the right venues.</p>
+
+<p>Alan was adamant&nbsp;<em>Bedroom Farce</em>&nbsp;was the right choice for the National at a difficult time: “I think I was sensible not to try and write a very serious play for the National: it would have been absolutely fatal suddenly to change my whole style. I wrote them a very jolly play: it had its moments, but it was jolly…. The National was at one of its low ebbs – it had had a lot of technical problems and a lot of bad press, and people were asking, ‘Why is all the national funding going to this?’ I think what&nbsp;<em>Bedroom Farce</em>&nbsp;did at the time – which was really nice – was to provide the building, if not with its first, certainly with one of its earliest big hits. It certainly lifted the morale: it was during that terrible period of the strikes, and all that business with pickets. There had been a lot of very ugly feeling around.”</p>
+
+<p>Hall felt the play had been an “enormous success” and that it had been a “joyous experience” working with Alan, but even he was taken back by the vitriol of the National Theatre’s critics. “The critics were enraged, almost to a man, that we should be using public money in order to amuse ourselves by doing commercial plays – this was disgraceful! I couldn’t believe it, I thought they’d taken leave of their senses.” Despite the critics’ misgivings, the success of the play soon led Peter Hall to ask Alan to write another play for the autumn 1978 season. Alan would actually return in 1980 with&nbsp;<strong><em><a href="/plays/sisterly-feelings">Sisterly Feelings</a></em></strong>.</p>
+
+<p>By April 1978,&nbsp;<em>Bedroom Farce</em>&nbsp;had become the National’s longest running show in repertoire and in its first year was seen by 140,429 paying audience members. Such was the play’s success, the National decided to transfer it to the West End in association with Michael Codron. Initially scheduled for an 11 week run – later extended,&nbsp;<em>Bedroom Farce</em>&nbsp;opened with much of the NT company at the Prince Of Wales Theatre on 7 November 1978, who were then quickly replaced with a new company. The production would run until September 1979 and undergo at least one other change of company. However, by this time Alan was barely involved in the production, he recalls noting how the production declined in quality the longer it ran and he played no part in re-directing any of the West End cast changes.</p>
+
+<p>In 1979, the National Theatre toured the play to Canada and North America before it opened on Broadway at the Brooks Atkinson Theatre on 29 March 1979. Alan was nominated for a Tony for Best Direction alongside Hall and the play received excellent reviews and a Tony nomination for Best Play, if not great audiences. Joan Hickson – who played Delia in both the NT’s original production and the Broadway revival – did receive a Tony having already been Olivier-nominated for her role in the play.</p>
+
+<p>Alan was most delighted though that amongst those who saw the play on Broadway was the famed playwright Tennessee Williams. He sought Alan out after the show and said to him: “I love that last line. I have confidence in myself. I don’t believe it, but we have to keep saying it.”</p>
+
+<p>But still the National Theatre’s journey with the play was incomplete. Having signed a £180,000 deal with Granada Television in the UK to broadcast six plays over two years,&nbsp;<em>Bedroom Farce</em>&nbsp;– with much of the original cast still intact – was transmitted on ITV on 28 September 1980 and was a ratings hit.</p>
+
+<p>The success of the show at the National combined with the popularity of the television recording made it one of his most successful and well-known works alongside <em><strong><a href="/plays/absurd-person-singular">Absurd Person Singular</a></strong></em> and <em><strong><a href="/plays/the-norman-conquests">The Norman Conquests</a></strong></em>. It was quickly translated into French and German and has, subsequently, been performed around the globe.</p>
+
+<p>Five decades on, <em>Bedroom Farce</em> remains one of the playwright’s most popular and well-known works and another example of how Scarborough’s Theatre in the Round at the Library Theatre – celebrating its 70th anniversary this year – was producing work which would find fame and acclaim on a national and international stage.</p>
+
+<p><em>Simon Murgatroyd (2025)</em></p>
+
+<p>You can find out more about <em>Bedroom Farce</em> at Alan Ayckbourn’s Official Website <strong><a href="/plays/bedroom-farce">here</a></strong>.</p>
+
+<p><em>Article by  and copyright of Simon Murgatroyd. Please do not reproduce without permission of the copyright holder.</em></p>
+
+<div>
+<figure><a href="http://www.theatre-in-the-round.co.uk/page-187/page-144/"><img src="https://pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev/news/2025/stacks-image-cb63104-w900.jpg" alt="This image has an empty alt attribute; its file name is stacks-image-cb63104.jpg" width="900" height="100" loading="lazy" decoding="async"></a></figure>
+</div>
