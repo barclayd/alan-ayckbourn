@@ -5,7 +5,7 @@ order: 1731
 play: "virtual-reality"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Virtual Reality. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Virtual Reality. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Is *Virtual Reality* available to produce?**  
 No. During 2020, the playwright confirmed *Virtual Reality* has been permanently withdrawn and is not available to produce. It has not been published either and the playwright has stated he will never give permission for either production or publication of the play.

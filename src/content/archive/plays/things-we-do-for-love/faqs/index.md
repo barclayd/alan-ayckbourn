@@ -5,7 +5,7 @@ order: 1680
 play: "things-we-do-for-love"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Things We Do For Love. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Things We Do For Love. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Can *Things We Do For Love* be performed in-the-round or any other non end-stage space?**  
 No. *Things We Do For Love* was specifically written for end-stage / proscenium arch spaces. The nature of the set requires an end-stage space for it to work effectively and as the playwright intended.

@@ -5,7 +5,7 @@ order: 1144
 play: "confusions"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Confusions. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Confusions. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Is there anything which links or connects all five plays which comprise *Confusions*?**  
 Yes. In 2015, Alan Ayckbourn definitively clarified all five of the plays in *Confusions* are loosely connected by the characters. In *Mother Figure*, Lucy is married to Harry, who we see trying to call her. Harry is the businessman who appears in *Drinking Companion* and who is served drinks by a waiter. This is the same waiter who appears in *Between Mouthfuls* (at presumably the same hotel), who serves Mrs Pearce and her husband. Mrs Pearce appears in *Gosforth's Fête* and mention is also made of her husband. In the final play, *A Talk In The Park*, the most subtle and easily missed connection is that Doreen is the former wife of Gosforth, who Milly mentions in *Gosforth's Fête*. Doreen talks about her former husband being a landlord, which is a subtle reference to Gosforth.

@@ -4,7 +4,7 @@ source: "http://biography.alanayckbourn.net/styled-5/styled-16/AyckbournFAQActin
 order: 364
 ---
 
-*This page contains FAQs concerning Alan Ayckbourn and his acting career. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](http://biography.alanayckbourn.net/contact-form/Contact.php)*** *page.*
+*This page contains FAQs concerning Alan Ayckbourn and his acting career. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **1)** What inspired Alan Ayckbourn to become an actor?  
 **2)** What is Alan Ayckbourn's connection to Sir Donald Wolfit?  

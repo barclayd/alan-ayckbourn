@@ -5,7 +5,7 @@ order: 1253
 play: "joking-apart"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Joking Apart. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Joking Apart. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Could Melody / Mandy / Mo / Debbie be played by different actresses?**  
 Not really. The point of the girls - all Brian's girlfriends with the exception of Richard and Anthea's daughter Debbie - is that although they are all different and increasingly younger, they all resemble each other (as emphasised by the line that all the girlfriends look similar). Although Brian keeps finding different girlfriends, ostensibly they're the same and he keeps making the same mistakes in his life. They are all inadequate substitutes for Anthea in Brian's mind.

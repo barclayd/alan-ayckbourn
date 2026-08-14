@@ -28,6 +28,10 @@
   --color-muted: var(--muted);
   --color-rule: var(--rule);
   --color-accent: var(--accent);
+  /* Ink for text sitting ON the accent, not beside it. White reads 8.9:1 on the
+     paper theme's deep red and only 3.6:1 on the charcoal theme's lifted one, so
+     the dark theme flips to near-black instead of failing contrast. */
+  --color-accent-ink: var(--accent-ink);
 
   --text-base: 1.1875rem; /* 19px reading size */
 
@@ -41,6 +45,7 @@
   --muted: #5c554c;
   --rule: #ddd5c7;
   --accent: #c1272d; /* 6.2:1 on paper */
+  --accent-ink: #fffaf4;
 
   color-scheme: light;
 }
@@ -52,6 +57,7 @@
   --muted: #a39a8d;
   --rule: #35302a;
   --accent: #e8564f; /* lifted for contrast on charcoal */
+  --accent-ink: #1a1714; /* 7.3:1 on the lifted accent, where white is 3.6:1 */
 
   color-scheme: dark;
 }

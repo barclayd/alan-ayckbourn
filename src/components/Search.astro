@@ -45,7 +45,7 @@ const { autofocus = false, id } = Astro.props;
         spellcheck="false"
         enterkeyhint="search"
         placeholder="Plays, people, productions&hellip;"
-        class="w-full bg-transparent font-display text-2xl uppercase tracking-wide outline-none placeholder:text-muted/50 [&::-webkit-search-cancel-button]:hidden sm:text-3xl"
+        class="w-full bg-transparent font-display text-2xl uppercase tracking-wide outline-none placeholder:text-muted [&::-webkit-search-cancel-button]:hidden sm:text-3xl"
       />
       {/* Native clear buttons vary; a submit keeps the no-JS path honest. */}
       <button
@@ -250,8 +250,8 @@ const { autofocus = false, id } = Astro.props;
           const on = name === 'All' ? section === null : section === name;
           return `<button type="button" data-facet="${name === 'All' ? '' : escape(name)}"
             aria-pressed="${on}"
-            class="shrink-0 whitespace-nowrap rounded-full border border-rule px-3.5 py-1.5 font-ui text-[0.7rem] uppercase tracking-[0.15em] text-muted transition-colors hover:border-accent hover:text-accent aria-pressed:border-accent aria-pressed:bg-accent aria-pressed:text-white">
-            ${escape(name)}${name === 'All' ? '' : ` <span class="tabular-nums opacity-60">${n}</span>`}
+            class="shrink-0 whitespace-nowrap rounded-full border border-rule px-3.5 py-1.5 font-ui text-[0.7rem] uppercase tracking-[0.15em] text-muted transition-colors hover:border-accent hover:text-accent aria-pressed:border-accent aria-pressed:bg-accent aria-pressed:text-accent-ink">
+            ${escape(name)}${name === 'All' ? '' : ` <span class="tabular-nums">${n}</span>`}
           </button>`;
         })
         .join('');

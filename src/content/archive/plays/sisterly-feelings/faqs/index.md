@@ -5,7 +5,7 @@ order: 1272
 play: "sisterly-feelings"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Sisterly Feelings. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Sisterly Feelings. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Does the random element of *Sisterly Feelings* have to be included?**  
 While much of the fun - and point - of *Sisterly Feelings* is the random elements which decide the choice of scenes used in performance, the random elements do not have to be used. Indeed it is common in productions which do feature the random elements to have fixed performances in order for audiences to see the other variant of the play without having the chance of a 'random' evening replicating what they have previously seen.  

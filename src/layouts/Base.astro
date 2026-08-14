@@ -3,6 +3,7 @@ import { Font } from 'astro:assets';
 import SearchPalette from '@/components/SearchPalette.astro';
 import SiteFooter from '@/components/SiteFooter.astro';
 import SiteHeader from '@/components/SiteHeader.astro';
+import SiteNotice from '@/components/SiteNotice.astro';
 import '@/styles/global.css';
 
 type Props = {
@@ -41,31 +42,42 @@ const fullTitle =
     <meta name="description" content={description} />
     <meta name="robots" content="noindex, nofollow" />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    {/* Declared, so no browser falls back to requesting /favicon.ico — which
+        this site does not have, and which 404s on every page otherwise. */}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 
     <Font cssVariable="--font-display" preload />
     <Font cssVariable="--font-body" preload />
     <Font cssVariable="--font-ui" />
 
-    <!-- Applied before first paint so the chosen theme never flashes. `js` also
-         gates the reveal-on-scroll styles, so nothing is hidden without JS. -->
+    <!-- Applied before first paint so the chosen theme never flashes, and so a
+         dismissed notice never appears and collapses, shoving the page down.
+         `js` also gates the reveal-on-scroll styles, so nothing is hidden
+         without JS. -->
     <script is:inline>
       (() => {
         const stored = localStorage.getItem('theme');
         const dark = stored
           ? stored === 'dark'
           : matchMedia('(prefers-color-scheme: dark)').matches;
-        document.documentElement.classList.toggle('dark', dark);
-        document.documentElement.classList.add('js');
+        const root = document.documentElement;
+        root.classList.toggle('dark', dark);
+        root.classList.toggle(
+          'notice-read',
+          localStorage.getItem('notice') === 'read',
+        );
+        root.classList.add('js');
       })();
     </script>
   </head>
   <body class="flex min-h-dvh flex-col antialiased">
     <a
       href="#main"
-      class="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-50 focus:bg-accent focus:px-4 focus:py-2 focus:font-ui focus:text-white"
+      class="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-50 focus:bg-accent focus:px-4 focus:py-2 focus:font-ui focus:text-accent-ink"
     >
       Skip to content
     </a>
+    <SiteNotice />
     <SiteHeader />
     {/* `data-pagefind-body` scopes the index to the page's own content. Without
         it every page matched "Ayckbourn", "Murgatroyd" and every nav label,

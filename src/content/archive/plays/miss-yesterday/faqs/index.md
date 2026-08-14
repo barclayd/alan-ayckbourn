@@ -5,7 +5,7 @@ order: 1903
 play: "miss-yesterday"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Miss Yesterday. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Miss Yesterday. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Is *Miss Yesterday* available to produce?**  
 Yes, *Miss Yesterday* is available for production by both professionals and amateurs. However, due to having not been published, any enquiries about potential productions and requests for reading copies should be directed to Alan Ayckbourn's agents **[Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)**.

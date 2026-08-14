@@ -5,7 +5,7 @@ order: 969
 play: "mr-whatnot"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Mr Whatnot. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Mr Whatnot. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Is the sound plot for *Mr Whatnot* available to hire?**  
 No. Although the sound-plot posed a considerable challenge when the play was first written in 1963, it has since become far easier to create with the advent of digital sound and modern sound desks. As a result, there is no pre-existing sound-plot for hire and Alan Ayckbourn's strongly believes each plot should be tailored to the specific company / performance.

@@ -5,7 +5,7 @@ order: 1798
 play: "roleplay"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's RolePlay. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's RolePlay. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **What connects *RolePlay* to the other plays in the *Damsels In Distress* trilogy?**  
 Although Alan Ayckbourn considers *GamePlan*, *FlatSpin* and *RolePlay* to be a trilogy, the link is not between the plays but a thematic and physical one. Each play features its own set of characters and plot unrelated to any of the other plays. However, they share a thematic link - damsels in distress - and, most significantly, a staging link. Each play is intended to be performed by the same company - offering each actor the chance to play three very different characters - and they all share the same set; a nondescript apartment in London's Docklands.

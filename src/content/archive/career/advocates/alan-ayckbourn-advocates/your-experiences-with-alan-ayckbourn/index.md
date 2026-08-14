@@ -8,7 +8,7 @@ This website welcomes the chance to hear from anyone who has worked with Alan Ay
 
 ### How To Submit Your Experiences & Memories
 
-If you would like to submit a memory, you can either do it via the **[Experiences / Memories Contact](http://advocates.alanayckbourn.net/page/contact-form/)** page (click on the link in the left-hand column) or just contact Simon Murgatroyd at **[admin@alanayckbourn.net](mailto:admin@alanayckbourn.net)**. You can use this address just to send a memory of your experiences or use the following questions as a guide-line.
+If you would like to submit a memory, you can either do it via the **[Experiences / Memories Contact](/contact)** page (click on the link in the left-hand column) or just contact Simon Murgatroyd at **[admin@alanayckbourn.net](mailto:admin@alanayckbourn.net)**. You can use this address just to send a memory of your experiences or use the following questions as a guide-line.
 
 Please indicate in correspondence whether you are happy to have your memory reproduced on the website or would just like it held in archive.
 

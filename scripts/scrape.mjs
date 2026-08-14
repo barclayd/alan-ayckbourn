@@ -19,6 +19,9 @@ import { load } from 'cheerio';
 const ROOT = new URL('..', import.meta.url).pathname;
 const CACHE = join(ROOT, '.cache/scrape');
 const OUT = join(ROOT, 'src/content/archive');
+/* Where the archive's downloadable documents land. Static assets, not an image
+   collection: they are served as they are, never resized. */
+const FILES = join(ROOT, 'public/resources');
 const REPORT = join(ROOT, 'scraped/report.json');
 const DELAY_MS = 200;
 const DOMAIN = 'alanayckbourn.net';
@@ -147,6 +150,21 @@ const slugify = (s) =>
     .replace(/^-|-$/g, '')
     .slice(0, 70) || 'page';
 
+/**
+ * A URL's last segment as a name we can put on disk: percent-decoded, then
+ * slugified without eating the extension. Names arrive off a URL, so they
+ * arrive encoded — `%C2%A9` for the © in "APS_700-©-Haydonning-Ltd.jpg" — and
+ * Markdown decodes a path before resolving it, so the encoded name on disk and
+ * the decoded name Astro hunts for disagree and the build dies over a file
+ * sitting right there. One spelling in both places.
+ */
+const fileName = (url) => {
+  const raw = decodeURIComponent(url.split('/').pop() ?? '');
+  const dot = raw.lastIndexOf('.');
+  const ext = dot > 0 ? raw.slice(dot).toLowerCase() : '';
+  return `${slugify(dot > 0 ? raw.slice(0, dot) : raw)}${ext}`;
+};
+
 /** Strips query/hash and normalises to a trailing-slash-or-file path. */
 function normalise(href, base) {
   let u;
@@ -178,6 +196,13 @@ const isInternal = (url) => hostOf(url).endsWith(DOMAIN);
 
 /** The old PHP mailer's four wrappers: general, copyright, memories, one spare. */
 const CONTACT_FORM = /(^|\/)contact-form(-\d+)?\//;
+
+/**
+ * Files worth mirroring, named by extension rather than by "not a page": the
+ * archive's `Contacts.php` is also not a page, and matching by exclusion filed
+ * the mail handler as a downloadable document 110 times over.
+ */
+const DOCUMENT = /\.(pdf|docx?|rtf|zip)$/i;
 
 /**
  * A page, as opposed to a file the archive happens to host. The interview
@@ -1140,12 +1165,18 @@ async function run() {
     return `/${prefix}`;
   };
 
+  /* name → source URL for every downloadable document linked from anywhere in
+     the archive. One map for the whole run: the research PDFs are linked from
+     several pages each and only need fetching once. */
+  const documents = new Map();
+
   const report = {
     scrapedAt: new Date().toISOString().slice(0, 10),
     hosts,
     pages: pages.size,
     written: 0,
     images: 0,
+    files: 0,
     navBlocksDropped: 0,
     boilerplateBlocksDropped: 0,
     untitled: [],
@@ -1179,13 +1210,23 @@ async function run() {
           : null;
       }
       /*
-       * A PDF on the archive's own domain is still a file, so it keeps its
-       * absolute URL rather than resolving to a route. Without this the six
-       * interview transcripts would each land on their section's index —
-       * pointing at a page that does not hold what the link promised.
-       * ponytail: links to the live originals until PR 9 mirrors them to R2.
+       * A file on the archive's own domain — the six research documents it
+       * publishes as PDFs — is not a page and has no route. Mirrored into
+       * `public/resources/` and served from here: the documents are part of the
+       * content, and left pointing at the original they would be the one thing
+       * on the site that stops working the day the old host goes away.
        */
-      if (!isInternal(target) || !isPage(target)) {
+      if (isInternal(target) && DOCUMENT.test(target)) {
+        const name = fileName(target);
+        documents.set(name, target);
+        return `/resources/${name}`;
+      }
+      /* Anything else that is not a page keeps its absolute URL — except the old
+         mailer, whose four wrappers `routeFor` sends to our contact page. */
+      if (
+        !isInternal(target) ||
+        (!isPage(target) && !CONTACT_FORM.test(new URL(target).pathname))
+      ) {
         return target;
       }
       const to = routeFor(target);
@@ -1207,22 +1248,15 @@ async function run() {
       if (found) {
         return `./_images/${found.name}`;
       }
-      /*
-       * Names arrive off a URL, so they arrive percent-encoded — `%C2%A9` for
-       * the © in "APS_700-©-Haydonning-Ltd.jpg". Markdown decodes an image path
-       * before resolving it, so the encoded name we wrote to disk and the
-       * decoded name Astro then hunts for disagree, and the build dies over a
-       * file that is sitting right there. Slugify and the two spellings become
-       * one.
-       */
-      const raw = decodeURIComponent(abs.split('/').pop() ?? '');
-      const dot = raw.lastIndexOf('.');
-      const ext = dot > 0 ? raw.slice(dot).toLowerCase() : '';
-      const stem = dot > 0 ? raw.slice(0, dot) : raw;
-      let name = `${slugify(stem)}${ext}`;
+      const base = fileName(abs);
+      const dot = base.lastIndexOf('.');
+      let name = base;
       // Two unlike images can slug alike; the second must not silently win.
       for (let n = 2; pending.some((p) => p.name === name); n++) {
-        name = `${slugify(stem)}-${n}${ext}`;
+        name =
+          dot > 0
+            ? `${base.slice(0, dot)}-${n}${base.slice(dot)}`
+            : `${base}-${n}`;
       }
       pending.push({ abs, name });
       return `./_images/${name}`;
@@ -1323,6 +1357,18 @@ async function run() {
     report.written++;
   }
 
+  /* After the pages, because it is the pages' links that name them. */
+  for (const [name, abs] of documents) {
+    try {
+      const bytes = await fetchCached(abs, { binary: true });
+      await mkdir(FILES, { recursive: true });
+      await writeFile(join(FILES, name), bytes);
+      report.files++;
+    } catch (err) {
+      failures.push({ url: abs, error: err.message });
+    }
+  }
+
   /*
    * Two different gaps, and lumping them together hid both — the old list named
    * `www` and `plays` as uncrawled when they had just been read cover to cover.
@@ -1340,6 +1386,7 @@ async function run() {
     [
       `written:        ${report.written} pages`,
       `images:         ${report.images}`,
+      `files:          ${report.files} documents`,
       `nav dropped:    ${report.navBlocksDropped} blocks`,
       `untitled:       ${report.untitled.length}`,
       `unresolved:     ${report.unresolvedLinks.length} links`,

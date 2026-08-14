@@ -34,7 +34,11 @@ import Base from '@/layouts/Base.astro';
       > from anywhere on the site.
     </p>
 
-    <div class="mt-12">
+    {/* Height held for the results before they arrive. Pagefind is a deferred
+        module, so a `?q=` deep link paints the page, then the list, and the
+        footer jumped a third of a viewport — 0.38 CLS. Reserved, the results
+        fill space nothing visible was using. */}
+    <div class="mt-12 min-h-[80vh]">
       <Search id="page-q" autofocus />
     </div>
   </div>

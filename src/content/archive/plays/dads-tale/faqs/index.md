@@ -5,7 +5,7 @@ order: 928
 play: "dads-tale"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Dad's Tale. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Dad's Tale. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Why is *Dad's Tale* attributed to Roland Allen rather than Alan Ayckbourn?**  
 Alan Ayckbourn wrote his first four plays under the pseudonym Roland Allen. Although the original reason for this was to reflect the fact he co-wrote his first play, *The Square Cat*, with his first wife, Christine Roland, she played no part in the writing of *Dad's Tale*. However, since he had begun his writing career under the pseudonym, he obviously decided to keep it to differentiate between his acting career (under his own name) and his writing career.

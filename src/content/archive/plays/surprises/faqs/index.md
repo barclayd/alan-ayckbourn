@@ -5,7 +5,7 @@ order: 2007
 play: "surprises"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Surprises. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Surprises. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **The play features 13 characters with a company of six. Do the roles have to be doubled?**  
 No. Theoretically, it could be performed with a company of up to 13 actors. The doubling up of the original production was as a result of limitations placed upon Alan Ayckbourn at the time of writing by the producing theatre.

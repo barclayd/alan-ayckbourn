@@ -22,3 +22,7 @@ jobs:
       - run: bun run types
       - run: bun run test
       - run: bun run build
+      # Every internal link resolves to a built file. Cheap, and the failure it
+      # catches — a rewritten scrape link pointing at nothing — is invisible
+      # until someone clicks it.
+      - run: bun run links

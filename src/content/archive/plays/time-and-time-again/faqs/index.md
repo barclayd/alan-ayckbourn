@@ -5,7 +5,7 @@ order: 1057
 play: "time-and-time-again"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Time And Time Again. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Time And Time Again. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Where can I obtain the television adaptation of *Time And Time Again*?**  
 Unfortunately, the television adaptation of *Time And Time Again* is not available to buy. The adaptation has never been released commercially and the playwright is aware of no intention by any media company to release *Time And Time Again* in the foreseeable future. Indeed it is not believed the television adaptation survives in archive as research by the BBC for the 2011 *Imagine* documentary was unable to find a surviving copy of the production.

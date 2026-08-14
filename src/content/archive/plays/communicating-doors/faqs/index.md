@@ -5,7 +5,7 @@ order: 1620
 play: "communicating-doors"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Communicating Doors. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Communicating Doors. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **I'm directing the play, given the play was written in 1994 and the contemporary scenes are set in that year, can we alter the dates from the original 1974 / 1994 / 2014 to the present day (i.e. 2000 / 2020 / 2040)?**  
 This is acceptable from the playwright's point of view and the contemporary scenes (i.e. the scenes in the play set in 1994) can be moved forward to the present day with the 'future' and 'past' set scenes 20 years ahead or behind that date. For example, if the contemporary scenes are moved to 2020, then the future scenes would be altered to 2040 and the past scenes 2000.

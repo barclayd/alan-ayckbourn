@@ -5,7 +5,7 @@ order: 1009
 play: "the-sparrow"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Sparrow. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Sparrow. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Why isn't *The Sparrow* available to be performed? / Why hasn't *The Sparrow* been published?**  
 Alan Ayckbourn considers his earliest plays to be his first steps as a playwright when he was learning his craft. As a result, he doesn't feel they particularly reflect the quality or standard of writing he would later achieve and do not stand up particularly well due to his inexperience as a writer. As a result, he has rarely allowed any of them to be performed again and has not published the plays.

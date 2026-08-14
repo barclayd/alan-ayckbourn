@@ -5,7 +5,7 @@ order: 1073
 play: "absurd-person-singular"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Absurd Person Singular. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Absurd Person Singular. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **What does the title *Absurd Person Singular* mean and / or how does it relate to the play?**  
 Simply put, it doesn't mean anything nor does it relate to the play. Despite many - often very clever - attempts to explain what the title means in relation to the play, ultimately they are pointless. For - as the playwright has frequently admitted - the title *Absurd Person Singular* was conceived in an elevator without a play in mind and was then intended for an entirely different play, which the playwright did not write. As he liked the title so much - and because it was so vague it could be applied to any number of plays - Alan attached it to his next play despite at the time not knowing what he was going to write. So *Absurd Person Singular* actually has nothing to do with the play itself, it was just a title the playwright liked. You can find out more in this **[Ayckbourn InSights](http://www.youtube.com/watch/)** video.

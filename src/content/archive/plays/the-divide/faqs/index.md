@@ -5,7 +5,7 @@ order: 2263
 play: "the-divide"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Divide. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Divide. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **What exactly is Alan Ayckbourn's *The Divide?***  
 *The Divide* is Alan Ayckbourn's debut novel. It is a prose work that tells its story through reportage, diary entries, newspaper cuttings, minutes, first hand reports and other elements. Although intended to be read, it has been performed as a 'narrative for voice' - however it is not regarded as a play; for example, the Old Vic's 2017 adaptation used costume, multi-media and music alongside the reading of the story, but was still a staged adaptation of Ayckbourn's prose work presented as a 'narrative for voice'.

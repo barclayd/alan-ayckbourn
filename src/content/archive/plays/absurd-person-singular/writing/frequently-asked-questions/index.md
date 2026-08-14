@@ -5,7 +5,7 @@ order: 2527
 play: "absurd-person-singular"
 ---
 
-*If you have any questions about Absurd Person Singular or this website that aren't covered below, please email Simon Murgatroyd via the* ***[Contact page](http://writingabsurdpersonsingular.alanayckbourn.net/page-3/contact-form/Contacts.php)***.
+*If you have any questions about Absurd Person Singular or this website that aren't covered below, please email Simon Murgatroyd via the* ***[Contact page](/contact)***.
 
 **Can I view the 'abandoned draft' and other pages?**  
 Yes, the 'abandoned draft' and handwritten first draft of *Absurd Person Singular* are held in the Ayckbourn Archive in the Borthwick Institute for Archives at the University of York. The archive is accessible to the public and details on visiting the archive can be found **[here](http://www.york.ac.uk/borthwick/)**.

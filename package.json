@@ -15,7 +15,8 @@
     "scrape": "node scripts/scrape.mjs --all",
     "scrape:sample": "node scripts/scrape.mjs",
     "test": "node --test 'scripts/*.test.mjs'",
-    "deploy": "bun run build && wrangler deploy"
+    "links": "node scripts/links.mjs",
+    "deploy": "bun run build && bun run links && wrangler deploy"
   },
   "dependencies": {
     "astro": "7.1.6",

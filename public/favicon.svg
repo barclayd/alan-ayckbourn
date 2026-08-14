@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>Alan Ayckbourn</title>
+  <!-- The wordmark's initial in the header's own chrome. Drawn as a path rather
+       than text: a favicon renders before webfonts load, and Anton is not a font
+       any device has. -->
+  <rect width="32" height="32" fill="#0b0a09"/>
+  <path fill="#f5f0e6" d="M9.1 25 14.3 7h3.4L22.9 25h-4.2l-.9-3.7h-3.6L13.3 25zm5.5-7h2.8l-1.4-6z"/>
+</svg>

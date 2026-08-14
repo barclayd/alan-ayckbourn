@@ -5,7 +5,7 @@ order: 1291
 play: "taking-steps"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Taking Steps. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Taking Steps. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Was *Taking Steps* specifically written for in-the-round performance?**  
 Yes, it's the only play Alan Ayckbourn has written that he feels is specifically written and designed for in-the-round performance. The conceit of the play - three floors of a house overlaid on each other on a single space - only works if the audience is able to see the entire floor of the performance space. If you can't see the floor, not only is it difficult to appreciate what is happening in the play, but you're also losing Alan Ayckbourn's intention and the visual humour from the juxtapositions of the characters on different floors.

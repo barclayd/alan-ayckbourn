@@ -4,7 +4,7 @@ source: "http://www.alanayckbourn.net/styled-5/styled-4/FAQs.html"
 order: 95
 ---
 
-*This page contains Frequently Asked Questions regarding asking Alan Ayckbourn for playwriting advice or to read scripts. If you have any other questions, please contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *Page.*
+*This page contains Frequently Asked Questions regarding asking Alan Ayckbourn for playwriting advice or to read scripts. If you have any other questions, please contact the website via the* ***[Contact Us](/contact)*** *Page.*
 
 **○ Does Alan Ayckbourn read scripts / Can I submit a script to Alan Ayckbourn?**  
 No. Whilst Alan Ayckbourn was Artistic Director of the Stephen Joseph Theatre between 1972 and 2009, he read scripts and offered advice to playwrights. When he retired in 2009, he decided that - after 37 years - it was time to pass the baton on. As a result, he no longer accepts script submissions nor reads submitted scripts. Please do not send scripts to Alan Ayckbourn for advice or for reading as they will not be read, passed on nor returned.
