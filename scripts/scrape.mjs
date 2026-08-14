@@ -1360,7 +1360,12 @@ async function run() {
     untitled: [],
     emptyPages: [],
     unresolvedLinks: [],
-    imagesWithoutAlt: 0,
+    /* The review list the plan promised, not just a tally: every original alt is
+       "Stacks Image 1234", and nothing in the markup says what the photograph
+       shows. Describing them is Simon's call, not the scraper's — inventing a
+       caption for an archival production still would state something about the
+       archive that nobody checked. Listed by page so they can be worked through. */
+    imagesWithoutAlt: [],
     failures,
   };
 
@@ -1514,7 +1519,7 @@ async function run() {
         await mkdir(join(dir, '_images'), { recursive: true });
         await writeFile(join(dir, '_images', name), bytes);
         report.images++;
-        report.imagesWithoutAlt++; // every original alt is "Stacks Image 1234"
+        report.imagesWithoutAlt.push(`${route || '.'}/${name}`);
       } catch (err) {
         failures.push({ url: abs, error: err.message });
       }
@@ -1563,7 +1568,7 @@ async function run() {
   console.log(
     [
       `written:        ${report.written} pages`,
-      `images:         ${report.images}`,
+      `images:         ${report.images} (${report.imagesWithoutAlt.length} awaiting alt text)`,
       `files:          ${report.files} documents`,
       `nav dropped:    ${report.navBlocksDropped} blocks`,
       `untitled:       ${report.untitled.length}`,
