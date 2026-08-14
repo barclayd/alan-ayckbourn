@@ -194,13 +194,12 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
           </div>
 
           <ul>
-            {group.items.map((item, i) => {
+            {group.items.map((item) => {
               const pct = progress(item);
               return (
                 <li
                   class="border-rule border-b"
                   data-reveal
-                  style={`--reveal-delay: ${Math.min(i, 6) * 0.05}s`}
                 >
                   <article class="grid gap-x-8 gap-y-4 py-7 sm:grid-cols-[1fr_minmax(0,15rem)]">
                     <div>

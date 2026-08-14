@@ -154,7 +154,8 @@
  * Reveal-on-scroll. The `.js` gate is the point: without it, a failed or blocked
  * script would leave every revealed section permanently invisible. Content is
  * visible by default and only hidden once we know something can un-hide it.
- * `--reveal-delay` staggers siblings.
+ * `--reveal-delay` staggers siblings; the observer sets it, from position within
+ * the batch that crossed the fold together, so a long list cannot queue.
  */
 .js [data-reveal] {
   opacity: 0;
