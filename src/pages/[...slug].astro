@@ -152,17 +152,29 @@ const isRail =
     isPlay ? (
       <header class="bg-chrome text-chrome-ink">
         <div
-          class="shell grid items-end gap-8 pt-16 pb-14 sm:grid-cols-[minmax(0,14rem)_1fr] sm:gap-12"
+          class="shell grid gap-8 pt-16 pb-14 sm:grid-cols-[minmax(0,15rem)_1fr] sm:gap-12"
         >
           {poster && (
-            <Image
-              src={poster}
-              alt={`Poster artwork for ${title}`}
-              widths={[poster.width]}
-              sizes={`${poster.width}px`}
-              style={morph}
-              class="max-w-full animate-[rise-in_.7s_var(--ease-stage)_both] justify-self-start rounded-sm shadow-2xl shadow-black/50"
-            />
+            /*
+              The mat, as on the card the reader just clicked. No poster the
+              original site published is wider than 175px, so bare artwork beside
+              a title four times its height is a stamp adrift in a column — and
+              upscaling a 175px scan to fill that column is worse. The plate is
+              what takes the height of the title; the artwork keeps its own size
+              inside it and lands where it left the grid.
+            */
+            <div
+              class="grid w-fit animate-[rise-in_.7s_var(--ease-stage)_both] place-items-center rounded-sm bg-chrome-raised p-6"
+            >
+              <Image
+                src={poster}
+                alt={`Poster artwork for ${title}`}
+                widths={[poster.width]}
+                sizes={`${poster.width}px`}
+                style={morph}
+                class="max-w-full rounded-[1px] shadow-2xl shadow-black/50"
+              />
+            </div>
           )}
 
           <div class:list={[!poster && 'sm:col-span-2']}>
