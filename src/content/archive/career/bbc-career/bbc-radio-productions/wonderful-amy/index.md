@@ -10,8 +10,8 @@ order: 673
 
 **Author:**
 
-**Broadcast:  
-Channel:**Arthur Swinson
+**Broadcast:**  
+**Channel:**Arthur Swinson
 
 26 January 1967 @ 8.45pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

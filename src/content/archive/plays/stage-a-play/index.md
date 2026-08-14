@@ -23,5 +23,5 @@ This section of the website has details about staging Alan Ayckbourn's plays. Yo
 
 *Frequently asked questions about staging the plays.*
 
-*Send the website a query  
-about staging the plays.*
+*Send the website a query*  
+*about staging the plays.*

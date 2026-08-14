@@ -10,8 +10,8 @@ order: 664
 
 **Author:**
 
-**Broadcast:  
-Channel:**Norman Smithson
+**Broadcast:**  
+**Channel:**Norman Smithson
 
 26 September 1965  
 North of England Home Service**Director:**Alan Ayckbourn**Character**  

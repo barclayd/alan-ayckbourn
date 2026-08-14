@@ -10,8 +10,8 @@ order: 630
 
 **Author:**
 
-**Broadcast:  
-Channel:**Peter Gibbons
+**Broadcast:**  
+**Channel:**Peter Gibbons
 
 30 August 1967 @ 3pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

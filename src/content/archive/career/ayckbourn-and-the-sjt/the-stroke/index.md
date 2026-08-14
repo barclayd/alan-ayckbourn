@@ -38,8 +38,8 @@ Confinement to a hospital bed brought unfamiliar thoughts and sensations. An obs
 
 Undoubtedly, his willpower, always iron, helped here, yoked to what he calls 'a fierce determination to recover. And soon there were encouraging signs. 'My word-recognition was fine, although the test for this was a bit surprising, when a doctor brought in a poetry anthology. So I read dramatically, and with full actorly projection, most of Tennyson's poem beginning:
 
-*Break, break, break  
-On thy cold grey stones, O Sea!*
+*Break, break, break*  
+*On thy cold grey stones, O Sea!*
 
 'My, you have got a strong voice,' was the doctors rather startled response.
 

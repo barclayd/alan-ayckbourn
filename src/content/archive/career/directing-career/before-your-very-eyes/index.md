@@ -8,35 +8,35 @@ order: 437
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Michael Cashman  
+**Venue:**  
+**Location:**  
+**Staging:**Michael Cashman  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**10 August 1983  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**10 August 1983  
 10 August 1983  
 31 August 1983
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Francis Lynch  
 Edward Lipscomb  
 Paul Todd

@@ -8,35 +8,21 @@ order: 582
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Waiting For Godot  
+**Author:** Samuel Beckett  
+**First performance:** 4 March 1963  
+**Final performance:** 11 May 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Arnold Beck  
+**Design:** Christine Roland
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:** Waiting For Godot  
-Samuel Beckett
-
-4 March 1963  
-11 May 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Arnold Beck  
-Christine Roland   **Character**  
-Vladimir  
-Estragon  
-Lucky  
-Pozzo  
-Boy **Actor**  
-Alan Ayckbourn  
-Stanley Page  
-Peter King  
-David Halliwell  
-Michael Chrystal
+**Character** **Actor**  
+**Vladimir** Alan Ayckbourn  
+**Estragon** Stanley Page  
+**Lucky** Peter King  
+**Pozzo** David Halliwell  
+**Boy** Michael Chrystal
 
 ### Quotes & Notes
 

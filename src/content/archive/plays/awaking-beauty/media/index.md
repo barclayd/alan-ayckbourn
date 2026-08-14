@@ -13,27 +13,21 @@ play: "awaking-beauty"
 
 **Production:** SJT
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2009 (deleted)  
-**Digital:** Not available  **Character**  
-Carabosse  
-The Prince  
-Princess Aurora  
-The Pigcutter  
-First Narrator  
-Second Narrator  
-Third Narrator  
-Fourth Narrator  
-Fifth Narrator  
-Sixth Narrator  **Actor**  
-Anna Francolini  
-Duncan Patrick  
-Alice Fearn  
-Ben Fox  
-Verity Quade  
-Annalene Beechey  
-Helen French  
-Matthew White  
-Ian McLarnon  
-Jon-Paul Hevey  **Note:** Although *Awaking Beauty* was produced and published on CD, this was never made available commercially or to the public. It was recorded for archival purposes.*All research on this page by Simon Murgatroyd.*
+**Digital:** Not available
+
+**Character** **Actor**  
+**Carabosse** Anna Francolini  
+**The Prince** Duncan Patrick  
+**Princess Aurora** Alice Fearn  
+**The Pigcutter** Ben Fox  
+**First Narrator** Verity Quade  
+**Second Narrator** Annalene Beechey  
+**Third Narrator** Helen French  
+**Fourth Narrator** Matthew White  
+**Fifth Narrator** Ian McLarnon  
+**Sixth Narrator** Jon-Paul Hevey
+
+**Note:** Although *Awaking Beauty* was produced and published on CD, this was never made available commercially or to the public. It was recorded for archival purposes.*All research on this page by Simon Murgatroyd.*

@@ -8,39 +8,23 @@ order: 543
 
 ### Production Details
 
-**Play:**  
-**Author:  
-Translation:**
+**Play:** Love And Chance  
+**Author:** Marivaux  
+**Translation:** J.W. James  
+**First performance:** 24 July 1958  
+**Final performance:** 3 September 1958  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Rodney Wood  
+**Stage Manager:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Stage Manager:** Love And Chance  
-Marivaux  
-J.W. James
-
-24 July 1958  
-3 September 1958  
-The Library Theatre, Scarborough  
-Round
-
-Rodney Wood  
-Alan Ayckbourn   **Character**  
-Silvia  
-Lisette, her maid  
-Orgon, her father  
-Mario, her brother  
-Dorante, her suitor  
-Pasquin, his valet **Actor**  
-Pauline Devaney  
-Christine Roland  
-Robert Fyfe  
-Ian Curteis  
-David Sutton  
-Alan Ayckbourn
+**Character** **Actor**  
+**Silvia** Pauline Devaney  
+**Lisette, her maid** Christine Roland  
+**Orgon, her father** Robert Fyfe  
+**Mario, her brother** Ian Curteis  
+**Dorante, her suitor** David Sutton  
+**Pasquin, his valet** Alan Ayckbourn
 
 ### Quotes & Notes
 

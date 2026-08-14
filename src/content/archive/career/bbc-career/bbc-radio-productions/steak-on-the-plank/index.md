@@ -10,8 +10,8 @@ order: 658
 
 **Author:**
 
-**Broadcast:  
-Channel:**Maurice Hardaker
+**Broadcast:**  
+**Channel:**Maurice Hardaker
 
 11 July 1965  
 North of England Home Service**Director:**Alan Ayckbourn**Character**  

@@ -8,34 +8,34 @@ order: 9999
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Will Evans & Valentine  
+**Venue:**  
+**Location:**  
+**Staging:**Will Evans & Valentine  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**11 December 1985  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**11 December 1985  
 11 December 1985  
 11 January 1986
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Thomas  
 Edward Lipscomb  
 Paul Todd

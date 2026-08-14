@@ -10,8 +10,8 @@ order: 668
 
 **Author:**
 
-**Broadcast:  
-Channel:**George Urry
+**Broadcast:**  
+**Channel:**George Urry
 
 4 October 1969 @ 2pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

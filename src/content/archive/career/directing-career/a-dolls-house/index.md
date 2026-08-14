@@ -8,33 +8,33 @@ order: 455
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Henrik Ibsen  
+**Venue:**  
+**Location:**  
+**Staging:**Henrik Ibsen  
 No
 
 Stephen Joseph Theatre  
 The Round  
-Round**First performance:  
-Opening night:  
-Final performance:**21 October 1998  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**21 October 1998  
 27 October 1998  
 21 November 1998
 
 ### Company Details
 
-**Director:  
-Design:  
-Lighting:  
-Choreographer:**
+**Director:**  
+**Design:**  
+**Lighting:**  
+**Choreographer:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Holt  
 Mick Hughes  
 Sheila Carter

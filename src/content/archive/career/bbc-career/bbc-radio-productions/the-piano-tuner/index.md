@@ -10,8 +10,8 @@ order: 652
 
 **Author:**
 
-**Broadcast:  
-Channel:**Julia Jones
+**Broadcast:**  
+**Channel:**Julia Jones
 
 3 March 1971 @ 8.15pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

@@ -5,8 +5,8 @@ order: 1483
 play: "man-of-the-moment"
 ---
 
-*Man Of The Moment opened in the West End in 1990. This page presents extracts from some of the major reviews of the London premiere of the play.  
-The page begins though with the noted critic and award-winning theatre historian Michael Billington, who has always offered a perceptive look into the plays of Alan Ayckbourn. In the October 1990 edition of Country Life, his review of the London production Man Of The Moment offers an excellent example of his insight into Alan Ayckbourn's plays and an assessment of one of the most significant Ayckbourn plays.*
+*Man Of The Moment opened in the West End in 1990. This page presents extracts from some of the major reviews of the London premiere of the play.*  
+*The page begins though with the noted critic and award-winning theatre historian Michael Billington, who has always offered a perceptive look into the plays of Alan Ayckbourn. In the October 1990 edition of Country Life, his review of the London production Man Of The Moment offers an excellent example of his insight into Alan Ayckbourn's plays and an assessment of one of the most significant Ayckbourn plays.*
 
 **Accepting Human Happiness (**by Michael Billington)  
 How, I was recently asked, do Alan Ayckbourn's plays differ between Scarborough and London? There is, in fact, both loss and gain. At Scarborough's Stephen Joseph Theatre in the Round, where they receive their premieres, there is a homely, intimate feeling and a genuine sense of communality. In London the plays have the benefit both of star-casting and of more elaborate settings, which enhance their visual detail. But there is no golden rule. Some of Ayckbourn's plays work better in the North, others in the South.  

@@ -10,8 +10,8 @@ order: 649
 
 **Author:**
 
-**Broadcast:  
-Channel:**Pagan Muat
+**Broadcast:**  
+**Channel:**Pagan Muat
 
 2 September 1967 @ 8.30pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

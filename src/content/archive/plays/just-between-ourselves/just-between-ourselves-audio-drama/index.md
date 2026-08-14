@@ -14,8 +14,8 @@ play: "just-between-ourselves"
 
 **Production:** YTV
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**
@@ -43,11 +43,11 @@ Rosemary McHaleFor further details about and reviews of the television adaptatio
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Dennis  
@@ -71,8 +71,8 @@ Frances Jeater
 
 **Production:** LA Theatre Works
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2000 (available)  
 **Digital:** 2011 (available)**Director**
 
@@ -99,11 +99,11 @@ Gia Carides
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Dennis  

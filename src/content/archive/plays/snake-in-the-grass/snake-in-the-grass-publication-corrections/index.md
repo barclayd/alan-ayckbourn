@@ -12,15 +12,15 @@ play: "snake-in-the-grass"
 Samuel French edition: Act I, Scene II, page 28  
 Faber edition: Act I, Scene II, page 51
 
-**As printed:  
-Miriam:** I will
+**As printed:**  
+**Miriam:** I will
 
 *Annabel sits, a little apart from the summer house, hardly noticing Miriam. She breathes deeply, taking a moment to recover from her spasm. Miriam is meanwhile folding away the table and the garden chair to clear the trapdoor.*
 
 I mean, what was the point of drugging the woman….
 
-**Correct Version (correction in bold italics):  
-Miriam:** I will
+**Correct Version (correction in bold italics):**  
+**Miriam:** I will
 
 *Annabel sits, a little apart from the summer house, hardly noticing Miriam. She breathes deeply, taking a moment to recover from her spasm. Miriam is meanwhile folding away the table and the garden chair to clear the trapdoor.*
 

@@ -19,11 +19,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** BBC
 
-**Availability  
-Cassette:** 1985 (deleted)  
+**Availability**  
+**Cassette:** 1985 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Neville  
@@ -57,16 +57,16 @@ Guy Holden**Note:** This production was recorded for the BBC World Service and b
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Lighting  
-Design  
-Music  
-Script Editor  
-Producer**
+**Digital:** Not available**Director**  
+**Lighting**  
+**Design**  
+**Music**  
+**Script Editor**  
+**Producer**
 
 **Character**  
 Eddie  
@@ -104,11 +104,11 @@ Peter Vaughan
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2011 (deleted)  
-**Digital:** 2011 (available)**Director  
-Adaptation**
+**Digital:** 2011 (available)**Director**  
+**Adaptation**
 
 **Character**  
 Harvey  

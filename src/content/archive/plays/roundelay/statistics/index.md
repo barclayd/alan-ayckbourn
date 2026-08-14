@@ -462,12 +462,12 @@ Agent
 Novelist  
 Novelist  
 Star  
-NovelistFor those interested in how many times each play was performed in a particular position within *Roundelay*, the table below illustrates this during the 2014 run.**Position  
-1st  
-2nd  
-3rd  
-4th  
-5th****The Star**  
+NovelistFor those interested in how many times each play was performed in a particular position within *Roundelay*, the table below illustrates this during the 2014 run.**Position**  
+**1st**  
+**2nd**  
+**3rd**  
+**4th**  
+**5th****The Star**  
 20  
 9  
 12  

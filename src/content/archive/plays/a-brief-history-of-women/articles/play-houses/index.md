@@ -23,8 +23,8 @@ by Simon Murgatroyd
 
 </aside>
 
-*“I’ve written plays with a man as the central character, and plays with a woman as the central character. And I’ve written plays with characters that never actually appear - but I think this is the first time I’ve written a play with a house as the central character.”  
-Alan Ayckbourn*
+*“I’ve written plays with a man as the central character, and plays with a woman as the central character. And I’ve written plays with characters that never actually appear - but I think this is the first time I’ve written a play with a house as the central character.”*  
+*Alan Ayckbourn*
 
 Within *A Brief History of Women*, there’s a character which is not listed in the credits, but which is a perpetual presence every bit as essential to the narrative as its protagonist Anthony Spates.  
 It endures just as many changes and upheavals over the years as Spates, including various ignominies heaped upon it over six decades. It is Kirkbridge Manor, the setting for the play and which we visit in various incarnations.

@@ -88,8 +88,8 @@ An original manuscript for the musical adaptation of *The Boy Who Fell Into A Bo
 **The Boy Who Fell into A Book**  
 *Steve Pratt, The Stage, 23 July 2014 (online)*  
 **The Boy Who Fell Into A Book**  
-*Sam Marlowe, The Times, 24 July 2014  
-The Boy Who Fell Into A Book  
-Ron Simpson, whatsonstage.com, 31 July 2014*
+*Sam Marlowe, The Times, 24 July 2014*  
+*The Boy Who Fell Into A Book*  
+*Ron Simpson, whatsonstage.com, 31 July 2014*
 
 *All research for this page by Simon Murgatroyd.*

@@ -8,21 +8,14 @@ order: 528
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:** It's A Wise Child  
+**Author:** Laurence E Johnson  
+**First performance:** 1956 (Date to be confirmed)  
+**Venue:** Connaught Theatre, Worthing  
+**Staging:** End-stage  
+**Director:** Unknown
 
-**First performance:  
-Venue:  
-Staging:**
-
-**Director:**  It's A Wise Child  
-Laurence E Johnson
-
-1956 (Date to be confirmed)  
-Connaught Theatre, Worthing  
-End-stage
-
-Unknown   **Character**  
+**Character**  
 Unknown **Actor**  
 Alan Ayckbourn No other company details known
 

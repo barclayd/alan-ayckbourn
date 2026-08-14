@@ -8,19 +8,19 @@ order: 448
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Harold Pinter  
+**Venue:**  
+**Location:**  
+**Staging:**Harold Pinter  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**23 November 1976  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**23 November 1976  
 24 November 1976  
 11 December 1976
 
@@ -28,9 +28,9 @@ Final performance:**23 November 1976
 
 **Director:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Asst. Stage Manager:**Alan Ayckbourn
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Asst. Stage Manager:**Alan Ayckbourn
 
 David Millard  
 Christopher Gray  

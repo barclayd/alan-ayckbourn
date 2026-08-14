@@ -10,8 +10,8 @@ order: 621
 
 **Author:**
 
-**Broadcast:  
-Channel:**Leslie Fennell
+**Broadcast:**  
+**Channel:**Leslie Fennell
 
 25 May 1966 @ 8.40pm  
 BBC Light Programme**Director:**Alan Ayckbourn**Character**  

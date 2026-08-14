@@ -19,5 +19,5 @@ The final piece in the *Countdown* puzzle is a television adaptation, which was 
 
 *Mixed Doubles* has been published by both Methuen and Samuel French and remains popular to this day.
 
-*"This still crops up occasionally. Mixed Doubles was pretty successful, though it had an awkward first night with eight authors all sitting together in the stalls."  
-(Alan Ayckbourn, 1989)*
+*"This still crops up occasionally. Mixed Doubles was pretty successful, though it had an awkward first night with eight authors all sitting together in the stalls."*  
+*(Alan Ayckbourn, 1989)*

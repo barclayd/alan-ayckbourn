@@ -5,14 +5,14 @@ order: 1552
 play: "callisto-5"
 ---
 
-**Callisto 5  
-Cast:** 2 male / 1 female  
+**Callisto 5**  
+**Cast:** 2 male / 1 female  
 **Running time:** To be confirmed.  
 **Availability:** *Callisto 5* is available for both professional and amateur production.  
 **Acting edition:** Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/1170/callisto-5/)**
 
-**Callisto#7  
-Cast:** 2 male / 2 female  
+**Callisto#7**  
+**Cast:** 2 male / 2 female  
 **Running time:** 1 Hour and 10 minutes (no interval).  
 **Availability:** *Callisto#7* is available for both professional and amateur production.  
 **Acting edition:** *Callisto#7* has not been published.

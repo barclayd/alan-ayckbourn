@@ -11,8 +11,8 @@ play: "the-party-game"
 
 Anything else that can be said about *The Party Game* is purely conjecture and cannot be backed up by fact. It is more than likely one of a number of plays written by Alan as a 16 - 17 year old interested in writing and experimenting with different forms. It is notable for showing an early eye for writing characters.
 
-*"I can't actually recall a word of the play or the characters, so presumably the thing sank without trace back into my subconscious for several decades. Who can fathom the mysteries of the author's jumbled mind? Certainly never the author himself!"  
-Alan Ayckbourn, 2008*
+*"I can't actually recall a word of the play or the characters, so presumably the thing sank without trace back into my subconscious for several decades. Who can fathom the mysteries of the author's jumbled mind? Certainly never the author himself!"*  
+*Alan Ayckbourn, 2008*
 
 In 2010, the first ever public read-through of *The Party Game* was held at Scarborough Public Library in The Concert Room where the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** was based between 1955 and 1976. Participants from the Ayckbourn 2010 weekend event took the parts under the direction of Paul Elsam, who had discovered the manuscript in 2007, with Alan Ayckbourn's Archivist Simon Murgatroyd as dramaturge. This reading was approved by the playwright with the understanding it would be both the first and final public performance of the play. *The Party Game* is not available to produce nor will it ever be published.
 

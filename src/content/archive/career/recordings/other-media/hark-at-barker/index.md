@@ -17,8 +17,8 @@ This page contains details of Alan Ayckbourn screen-writing contribution to Ronn
 
 **Production:** LWT
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD (R2):** 2008 (deleted)  
 **Blu-ray:** Not available  
 **Digital:** Not available  **Director**
@@ -41,8 +41,8 @@ Moira Foot
 
 ![](./_images/stacks-image-d4cd454-200x202.jpg)
 
-*Ronnie Barker as Lord Rustless  
-(Copyright: LWT)*
+*Ronnie Barker as Lord Rustless*  
+*(Copyright: LWT)*
 
 ### Alan Ayckbourn & Hark At Barker
 

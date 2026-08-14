@@ -8,11 +8,11 @@ order: 661
 
 ### Production Details
 
-**Author:  
-Adaptor:**
+**Author:**  
+**Adaptor:**
 
-**Broadcast:  
-Channel:**Stanley Middleton  
+**Broadcast:**  
+**Channel:**Stanley Middleton  
 Brian Thompson
 
 22 April 1968 @ 8.30pm  

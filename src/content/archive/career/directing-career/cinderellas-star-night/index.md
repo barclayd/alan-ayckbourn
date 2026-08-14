@@ -8,33 +8,33 @@ order: 423
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Herb Gardner  
+**Venue:**  
+**Location:**  
+**Staging:**Herb Gardner  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**21 November 1984  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**21 November 1984  
 21 November 1984  
 15 December 1984
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Francis Lynch  
 Edward Lipscomb  
 Paul Todd

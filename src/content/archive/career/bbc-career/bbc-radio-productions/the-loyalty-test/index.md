@@ -10,8 +10,8 @@ order: 642
 
 **Author:**
 
-**Broadcast:  
-Channel:**Patrick Clifford
+**Broadcast:**  
+**Channel:**Patrick Clifford
 
 4 October 1967 @ 3pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

@@ -18,12 +18,12 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and A
 
 **Production:** MCA
 
-**Availability  
-Vinyl:** 1975 (deleted)  
+**Availability**  
+**Vinyl:** 1975 (deleted)  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Director**
+**Digital:** Not available**Director**  
+**Director**
 
 **Character**  
 Bertie Wooster  

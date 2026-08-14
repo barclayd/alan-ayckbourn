@@ -9,8 +9,8 @@ play: "a-chorus-of-disapproval"
 
 ### Arranging The Chorus (2012)
 
-*"I liked the idea of writing about an amateur drama group as it contains a very good cross-section of every level of society and this group is doing The Beggar's Opera. This is usually filled with romanticised pimps, prostitutes and highwaymen but here we see their modern equivalent as property developers, dodgy builders and bored housewives.”  
-Alan Ayckbourn*
+*"I liked the idea of writing about an amateur drama group as it contains a very good cross-section of every level of society and this group is doing The Beggar's Opera. This is usually filled with romanticised pimps, prostitutes and highwaymen but here we see their modern equivalent as property developers, dodgy builders and bored housewives.”*  
+*Alan Ayckbourn*
 
 Sexual politics, power struggles, shady dealings and even the odd play. Apparently just a normal day for the average amateur dramatic society. Or so it appeared to Alan Ayckbourn who, in 1984, was looking for a microcosm of society that would reflect the world at large for his latest play. Inspiration came from a friend recalling his own eye-opening experiences in an amateur drama society and the politics of all kinds which seemed to dominate the society far more than the tedious business of producing theatre.
 

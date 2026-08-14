@@ -31,8 +31,8 @@ This page contains details of publications & articles relating to *Time Of My Li
 **Michael Holt: Alan Ayckbourn\***  
 *pp.50-52 (Northcote Press, 1999, ISBN 0746308590)*  
 **Duncan Wu: Six Contemporary Playwrights\***  
-*pp.131-139 (Macmillan, 1996, ISBN 033367086X)  
-\* indicates out of print*
+*pp.131-139 (Macmillan, 1996, ISBN 033367086X)*  
+*\* indicates out of print*
 
 ### Articles
 

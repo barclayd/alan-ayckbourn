@@ -10,8 +10,8 @@ order: 614
 
 **Author:**
 
-**Broadcast:  
-Channel:**David Mosey
+**Broadcast:**  
+**Channel:**David Mosey
 
 6 January 1970 @ 11.30am  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

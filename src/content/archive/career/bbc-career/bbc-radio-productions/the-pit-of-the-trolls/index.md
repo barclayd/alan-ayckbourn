@@ -10,8 +10,8 @@ order: 653
 
 **Author:**
 
-**Broadcast:  
-Channel:**Jim Andrew
+**Broadcast:**  
+**Channel:**Jim Andrew
 
 15 April 1967 @ 2.15pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

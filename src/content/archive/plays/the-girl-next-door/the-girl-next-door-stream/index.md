@@ -21,9 +21,9 @@ play: "the-girl-next-door"
 **DVD:** Not available  
 **Blu-Ray:** Not available  
 **Digital:** Not available**Director:**  
-**Director of Photography:  
-Sound Capture:  
-Design:**  
+**Director of Photography:**  
+**Sound Capture:**  
+**Design:**  
 **Lighting:**  
 **Sound:**  
 **Sound Associate:**

@@ -10,14 +10,14 @@ order: 675
 
 **Author:**
 
-**Broadcast from:  
-Channel:  
-Episodes:**Roy Clarke
+**Broadcast from:**  
+**Channel:**  
+**Episodes:**Roy Clarke
 
 18 January 1968 @ 7.45pm  
 BBC Radio 2  
-6**Director:  
-Theme Music:**Alan Ayckbourn  
+6**Director:**  
+**Theme Music:**Alan Ayckbourn  
 Trevor Holroyd**Episode Titles:**○ F8 And Then Infinity  
 ○ Light The Blue Touch Paper & Retire  
 ○ The Minestrone Thickens & Is Stirred  

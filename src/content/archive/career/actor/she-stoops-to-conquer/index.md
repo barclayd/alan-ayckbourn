@@ -8,51 +8,29 @@ order: 530
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:** She Stoops To Conquer  
+**Author:** Oliver Goldsmith  
+**First performance:** 18 March 1957  
+**Venue:** Leatherhead Theatre Club  
+**Staging:** End-stage  
+**Director:** Stafford Byrne
 
-**First performance:  
-Venue:  
-Staging:**
-
-**Director:**  She Stoops To Conquer  
-Oliver Goldsmith
-
-18 March 1957  
-Leatherhead Theatre Club  
-End-stage
-
-Stafford Byrne   **Character**  
-Mrs Hardcastle  
-Mr Hardcastle  
-Tony Lumpkin  
-Kate Hardcastle  
-Constance Neville  
-Stingo  
-Topers  
-Topers  
-Marlow  
-Hastings  
-Diggory  
-Roger  
-Pimple  
-Jeremy  
-Sir Charles Marlow **Actor**  
-Gwen Bacon  
-Michael Bird  
-Kerry Jordan  
-Irene Sutcliffe  
-Patricia Rogers  
-Michael Marriott  
-Rodney Wood  
-Michael Friend  
-Derek Martinus  
-Brian Spink  
-David Crosse  
-Alan Ayckbourn  
-Mary West  
-Michael Friend  
-George Cormack
+**Character** **Actor**  
+**Mrs Hardcastle** Gwen Bacon  
+**Mr Hardcastle** Michael Bird  
+**Tony Lumpkin** Kerry Jordan  
+**Kate Hardcastle** Irene Sutcliffe  
+**Constance Neville** Patricia Rogers  
+**Stingo** Michael Marriott  
+**Topers** Rodney Wood  
+**Topers** Michael Friend  
+**Marlow** Derek Martinus  
+**Hastings** Brian Spink  
+**Diggory** David Crosse  
+**Roger** Alan Ayckbourn  
+**Pimple** Mary West  
+**Jeremy** Michael Friend  
+**Sir Charles Marlow** George Cormack
 
 ### Quotes & Notes
 

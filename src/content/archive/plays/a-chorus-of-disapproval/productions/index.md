@@ -56,8 +56,8 @@ Paul Todd
 
 ### London Premiere (1985)
 
-**First Performance: *25 July 1986*  
-Premiere:** 1 August 1985  
+**First Performance: *25 July 1986***  
+**Premiere:** 1 August 1985  
 **Final Performance:** 29 May 1986  
 **Venue:** The Olivier, National Theatre, London  
 **Staging:** End-stage  

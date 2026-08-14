@@ -8,19 +8,19 @@ order: 377
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Patrick Hamilton  
+**Venue:**  
+**Location:**  
+**Staging:**Patrick Hamilton  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**29 June 1961  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**29 June 1961  
 29 June 1961  
 26 July 1961
 

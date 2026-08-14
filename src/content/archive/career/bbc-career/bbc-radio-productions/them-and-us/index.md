@@ -10,8 +10,8 @@ order: 662
 
 **Author:**
 
-**Broadcast:  
-Channel:**Pam Tickell
+**Broadcast:**  
+**Channel:**Pam Tickell
 
 17 April 1966  
 North of England Home Service**Director:**Alan Ayckbourn**Character**  

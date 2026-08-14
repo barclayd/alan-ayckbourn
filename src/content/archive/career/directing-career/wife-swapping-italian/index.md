@@ -8,19 +8,19 @@ order: 504
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Leon Katz  
+**Venue:**  
+**Location:**  
+**Staging:**Leon Katz  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**15 June 1970  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**15 June 1970  
 15 June 1970  
 12 August 1970
 
@@ -28,9 +28,9 @@ Final performance:**15 June 1970
 
 **Director:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn
 
 Philip Randell  
 Graham Phoenix  

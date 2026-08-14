@@ -8,33 +8,20 @@ order: 591
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Ted's Cathedral  
+**Author:** Alan Plater  
+**First performance:** 30 September 1963  
+**Venue:** LAMDA, London  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Ted's Cathedral  
-Alan Plater
-
-30 September 1963  
-LAMDA, London  
-Round
-
-Peter Cheeseman   **Character**  
-Ted  
-Joe  
-Anderson  
-Mrs Venables  
-Edna  
-Stan **Actor**  
-Peter King  
-Stanley Page  
-Alan Ayckbourn  
-Elizabeth Bell  
-Heather Stoney  
-Bernard Gallagher
+**Character** **Actor**  
+**Ted** Peter King  
+**Joe** Stanley Page  
+**Anderson** Alan Ayckbourn  
+**Mrs Venables** Elizabeth Bell  
+**Edna** Heather Stoney  
+**Stan** Bernard Gallagher
 
 ### Quotes & Notes
 

@@ -8,37 +8,22 @@ order: 547
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Easter  
+**Author:** August Strindberg  
+**First performance:** 2 July 1959  
+**Final performance:** 8 July 1959  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Rodney Wood
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Easter  
-August Strindberg
-
-2 July 1959  
-8 July 1959  
-The Library Theatre, Scarborough  
-Round
-
-Rodney Wood   **Character**  
-Elis, a teacher  
-Kristina, his fiancée  
-Mrs Heyst, his mother  
-Eleonora, his sister  
-Benjamin, a student  
-Lina, the maid  
-Lindkvist **Actor**  
-Alan Ayckbourn  
-Faynia Jeffery  
-Penelope Davies  
-Dona Martyn  
-Lewis Teasdale  
-Ann Hughesdon  
-Rodney Wood
+**Character** **Actor**  
+**Elis, a teacher** Alan Ayckbourn  
+**Kristina, his fiancée** Faynia Jeffery  
+**Mrs Heyst, his mother** Penelope Davies  
+**Eleonora, his sister** Dona Martyn  
+**Benjamin, a student** Lewis Teasdale  
+**Lina, the maid** Ann Hughesdon  
+**Lindkvist** Rodney Wood
 
 ### Quotes & Notes
 

@@ -10,9 +10,10 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Play Number: "50"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/10725/the-champion-of-paribanou/)"
+  Other Media: "No"
   Short Synopsis: "Loosely inspired by the *Arabian Nights*' tale of the Flying Carpet, it follows the adventures of Ahmed as he becomes the Princess Paribanou's champion against the evil Schaibar's champion and his former best friend Murgannah."
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/10725/the-champion-of-paribanou/)"
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-Other Media:** No
+

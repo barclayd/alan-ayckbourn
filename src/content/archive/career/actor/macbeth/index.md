@@ -8,18 +8,18 @@ order: 327
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:**  
+**Author:**
 
-**First performance:  
-Venue:  
-Staging:**
+**First performance:**  
+**Venue:**  
+**Staging:**
 
 **Director:**
 
-**USA Tour  
-Opening Night:  
-Venue:**  Macbeth  
+**USA Tour**  
+**Opening Night:**  
+**Venue:**  Macbeth  
 William Shakespeare
 
 23 March 1956  
@@ -30,65 +30,38 @@ Edgar Matthews
 
 12 April 1956  
 Venue: John Hancock Hall, Boston **Note:** The cast is taken from The Haileyburian & ISC Chronicle  
-(June 1956) and only initials are given for the actor's names.  **Character**  
-Macduff  
-Duncan  
-Malcolm  
-Donalbain  
-Macbeth  
-Banquo  
-Lennox  
-Ross  
-Menteith  
-Angus  
-Caithness  
-Fleance  
-Siward  
-Young Siward  
-Seyton  
-Boy  
-A Scotch Doctor  
-A Porter  
-An Old Man  
-Murderer  
-Murderer  
-Attendent  
-Attendent  
-Lady Macbeth  
-Lady Macduff  
-Gentlewoman  
-Witch  
-Witch  
-Witch **Actor**  
-Alan Ayckbourn  
-W.G.B. Harvey  
-D.C. Poulton  
-A.T. House  
-C.J. Greatorex  
-D.J.L. Smith  
-A.H. Mead  
-D.H.M. Tetther  
-A. LeQ. Herbert  
-N.W. Smyth  
-T.H. Bees  
-B.K.P. Moll  
-C.K.L. Davidson  
-T. Skan  
-M.J.G. Thomas  
-M.R.E. Matthews  
-C.H. Mansell  
-P.J. De Veulle  
-R.G. May  
-J.R. Buttle  
-D.A.F. Cowling  
-M.E. Roach  
-D. Jackson  
-Mrs Matthews  
-Miss Matthews  
-Miss Turtle  
-C.J. Ledger  
-K.M. Green  
-B.L. Caulfield
+(June 1956) and only initials are given for the actor's names.
+
+**Character** **Actor**  
+**Macduff** Alan Ayckbourn  
+**Duncan** W.G.B. Harvey  
+**Malcolm** D.C. Poulton  
+**Donalbain** A.T. House  
+**Macbeth** C.J. Greatorex  
+**Banquo** D.J.L. Smith  
+**Lennox** A.H. Mead  
+**Ross** D.H.M. Tetther  
+**Menteith** A. LeQ. Herbert  
+**Angus** N.W. Smyth  
+**Caithness** T.H. Bees  
+**Fleance** B.K.P. Moll  
+**Siward** C.K.L. Davidson  
+**Young Siward** T. Skan  
+**Seyton** M.J.G. Thomas  
+**Boy** M.R.E. Matthews  
+**A Scotch Doctor** C.H. Mansell  
+**A Porter** P.J. De Veulle  
+**An Old Man** R.G. May  
+**Murderer** J.R. Buttle  
+**Murderer** D.A.F. Cowling  
+**Attendent** M.E. Roach  
+**Attendent** D. Jackson  
+**Lady Macbeth** Mrs Matthews  
+**Lady Macduff** Miss Matthews  
+**Gentlewoman** Miss Turtle  
+**Witch** C.J. Ledger  
+**Witch** K.M. Green  
+**Witch** B.L. Caulfield
 
 ### Quotes & Notes
 

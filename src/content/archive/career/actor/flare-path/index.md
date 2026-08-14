@@ -8,41 +8,24 @@ order: 531
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:** Flare Path  
+**Author:** Terence Rattigan  
+**First performance:** 25 March 1957  
+**Venue:** Leatherhead Theatre Club  
+**Staging:** End-stage  
+**Director:** Stafford Byrne
 
-**First performance:  
-Venue:  
-Staging:**
-
-**Director:**  Flare Path  
-Terence Rattigan
-
-25 March 1957  
-Leatherhead Theatre Club  
-End-stage
-
-Stafford Byrne   **Character**  
-Countess Skriczevinsky  
-Peter Kyle  
-Mrs Oakes  
-Sgt. Dusty Miller  
-Percy  
-Count Skriczevinsky  
-Flt. Lt. Teddy Graham  
-Patricia Graham  
-Mrs Miller  
-Sqn. Ldr. Swanson **Actor**  
-Betty Bowden  
-David Crosse  
-Betty Romaine  
-Kerry Jordan  
-Alan Ayckbourn  
-Brian Spink  
-Derek Martinus  
-Phyllis Partridge  
-Hazel Vincent Wallace  
-George Cormack
+**Character** **Actor**  
+**Countess Skriczevinsky** Betty Bowden  
+**Peter Kyle** David Crosse  
+**Mrs Oakes** Betty Romaine  
+**Sgt. Dusty Miller** Kerry Jordan  
+**Percy** Alan Ayckbourn  
+**Count Skriczevinsky** Brian Spink  
+**Flt. Lt. Teddy Graham** Derek Martinus  
+**Patricia Graham** Phyllis Partridge  
+**Mrs Miller** Hazel Vincent Wallace  
+**Sqn. Ldr. Swanson** George Cormack
 
 ### Quotes & Notes
 

@@ -10,8 +10,8 @@ order: 666
 
 **Author:**
 
-**Broadcast:  
-Channel:**John Wainwright
+**Broadcast:**  
+**Channel:**John Wainwright
 
 19 July 1967 @ 8.15pm  
 BBC Light Programme**Director:**Alan Ayckbourn**Character**  

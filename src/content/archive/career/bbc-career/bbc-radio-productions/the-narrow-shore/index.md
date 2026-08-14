@@ -10,8 +10,8 @@ order: 648
 
 **Author:**
 
-**Broadcast:  
-Channel:**Louis Battye
+**Broadcast:**  
+**Channel:**Louis Battye
 
 27 September 1967 @ 3pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

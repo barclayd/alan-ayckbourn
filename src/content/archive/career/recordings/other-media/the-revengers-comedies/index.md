@@ -20,11 +20,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Duration:** 90mins each  
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Karen Knightly  
@@ -79,18 +79,18 @@ Ian Masters
 **Production:** Artisan  
 **Production:** IMA
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** 2012 (deleted)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Photography  
-Editing  
-Design  
-Design  
-Music  
-Sound**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Photography**  
+**Editing**  
+**Design**  
+**Design**  
+**Music**  
+**Sound**
 
 **Character**  
 Henry Bell  

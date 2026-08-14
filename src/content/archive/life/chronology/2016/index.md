@@ -28,8 +28,8 @@ During 2016, Alan Ayckbourn…
 
 ![](./_images/stacks-image-ecd225d.jpg)
 
-*Alan Ayckbourn with The Karaoke Theatre Company cast.  
-© Tony Bartholomew*
+*Alan Ayckbourn with The Karaoke Theatre Company cast.*  
+*© Tony Bartholomew*
 
 ### World Premieres
 

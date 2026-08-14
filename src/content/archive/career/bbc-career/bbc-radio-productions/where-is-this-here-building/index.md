@@ -10,8 +10,8 @@ order: 671
 
 **Author:**
 
-**Broadcast:  
-Channel:**Don Haworth
+**Broadcast:**  
+**Channel:**Don Haworth
 
 5 September 1970 @ 2pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

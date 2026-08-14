@@ -68,8 +68,8 @@ Stephen Joseph Theatre, Scarborough
 
 ![](./_images/stacks-image-0ec77a7.png)
 
-*Alan Ayckbourn with his cat Scampston.  
-© Daily Telegraph (TBC)*
+*Alan Ayckbourn with his cat Scampston.*  
+*© Daily Telegraph (TBC)*
 
 </aside>
 

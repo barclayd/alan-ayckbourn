@@ -12,10 +12,10 @@ This page offers an at-a-glance timeline to Alan Ayckbourn's relationship with t
 
 **1973**  
 **○** Peter Hall, Artistic Director of the National Theatre, sees Alan Ayckbourn's play *Absurd Person Singular* in the West End.  
-**1974  
-○** Hall asks Alan to write a new play for the Lyttelton as part of the National Theatre's opening season for its new home on the South Bank. Alan agrees.  
-**1975  
-○** Alan and Hall meet for the first time and Alan sees the under construction Lyttelton for the first time.  
+**1974**  
+**○** Hall asks Alan to write a new play for the Lyttelton as part of the National Theatre's opening season for its new home on the South Bank. Alan agrees.  
+**1975**  
+**○** Alan and Hall meet for the first time and Alan sees the under construction Lyttelton for the first time.  
 **○** World premiere of *Bedroom Farce* at the Library Theatre, Scarborough.  
 **○** Hall visits Scarborough for the first time to see *Bedroom Farce*.  
 **1977**  

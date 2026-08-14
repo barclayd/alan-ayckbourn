@@ -10,14 +10,14 @@ order: 657
 
 **Author:**
 
-**Broadcast from:  
-Channel:  
-Episodes:**C.S. Abraham
+**Broadcast from:**  
+**Channel:**  
+**Episodes:**C.S. Abraham
 
 16 December 1969  
 BBC Radio 2  
-16**Director:  
-Theme:**Alan Ayckbourn  
+16**Director:**  
+**Theme:**Alan Ayckbourn  
 Trevor Holroyd**Character**  
 Gladys  
 Captain Turner  

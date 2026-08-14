@@ -95,5 +95,5 @@ play: "round-and-round-the-garden"
 
 **And…** Somewhere or other, somewhere in the world, in some language or other, individually or all together, there’s usually a performance of *The Norman Conquests* going on. Nice that.
 
-*Alan Ayckbourn  
-2013*
+*Alan Ayckbourn*  
+*2013*

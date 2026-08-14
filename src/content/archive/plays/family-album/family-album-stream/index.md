@@ -21,8 +21,8 @@ play: "family-album"
 **DVD:** Not available  
 **Blu-Ray:** Not available  
 **Digital:** Not available**Director:**  
-**Director of Photography:  
-Sound Capture:**  
+**Director of Photography:**  
+**Sound Capture:**  
 **Design:**  
 **Lighting:**  
 **Sound:**  

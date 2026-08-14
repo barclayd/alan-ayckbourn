@@ -8,49 +8,28 @@ order: 539
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Henry IV  
+**Author:** Luigi Pirandello  
+**First performance:** 10 February 1958  
+**Venue:** Oxford Playhouse  
+**Staging:** End-stage  
+**Director:** Frank Dunlop  
+**Design:** Michael Richardson  
+**Costumes:** Jane Greenwood
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:  
-Costumes:** Henry IV  
-Luigi Pirandello
-
-10 February 1958  
-Oxford Playhouse  
-End-stage
-
-Frank Dunlop  
-Michael Richardson  
-Jane Greenwood   **Character**  
-Valet  
-Landolfo  
-Arialdo  
-Ordulfo  
-Bertoldo  
-Giovanni  
-Marquis Carlo di Nolli  
-Baron Tito Belcredi  
-Dr. Dionisio Genoni  
-Countess Matilda Spina  
-Frida  
-'The Emperor Henry IV' **Actor**  
-Michael Simpson  
-Michael Poole  
-Alan Ayckbourn  
-Ian Curteis  
-Christopher Hancock  
-David Buxton  
-Christopher Guinee  
-Joss Ackland  
-Robert Bernal  
-Pat Keen  
-Ruth Meyers  
-Edgar Wreford
+**Character** **Actor**  
+**Valet** Michael Simpson  
+**Landolfo** Michael Poole  
+**Arialdo** Alan Ayckbourn  
+**Ordulfo** Ian Curteis  
+**Bertoldo** Christopher Hancock  
+**Giovanni** David Buxton  
+**Marquis Carlo di Nolli** Christopher Guinee  
+**Baron Tito Belcredi** Joss Ackland  
+**Dr. Dionisio Genoni** Robert Bernal  
+**Countess Matilda Spina** Pat Keen  
+**Frida** Ruth Meyers  
+**'The Emperor Henry IV'** Edgar Wreford
 
 ### Quotes & Notes
 

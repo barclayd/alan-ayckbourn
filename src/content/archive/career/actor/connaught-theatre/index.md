@@ -15,23 +15,23 @@ The following are quotes by Alan Ayckbourn about his experiences at Worthing, Le
 
 ![](./_images/stacks-image-c9131cf.jpg)
 
-*Alan (left) in She Stoops To Conquer at Leatherhead Theatre Club in 1957.  
-© The Leatherhead Theatre Company Ltd*
+*Alan (left) in She Stoops To Conquer at Leatherhead Theatre Club in 1957.*  
+*© The Leatherhead Theatre Company Ltd*
 
 ![](./_images/stacks-image-6237779.jpg)
 
-*Programme details from She Stoops To Conquer at Leatherhead Theatre Club in 1957.  
-© The Leatherhead Theatre Company Ltd*
+*Programme details from She Stoops To Conquer at Leatherhead Theatre Club in 1957.*  
+*© The Leatherhead Theatre Company Ltd*
 
 ![](./_images/stacks-image-70680f8.jpg)
 
-*Alan (right) in The Happiest Days Of Your Life at Leatherhead Theatre Club in 1957.  
-© The Leatherhead Theatre Company Ltd*
+*Alan (right) in The Happiest Days Of Your Life at Leatherhead Theatre Club in 1957.*  
+*© The Leatherhead Theatre Company Ltd*
 
 ![](./_images/stacks-image-ec3e8e6.jpg)
 
-*Alan (left) in The Rainmaker at Leatherhead Theatre Club in 1957.  
-© The Leatherhead Theatre Company Ltd*
+*Alan (left) in The Rainmaker at Leatherhead Theatre Club in 1957.*  
+*© The Leatherhead Theatre Company Ltd*
 
 </aside>
 

@@ -10,8 +10,8 @@ Between 1965 and 1970, Alan Ayckbourn worked as a Radio Drama Producer for the B
 
 ![](./_images/stacks-image-4155d89.jpg)
 
-*Alan Ayckbourn (left) & Alfred Bradley (right) at the BBC.  
-© BBC*
+*Alan Ayckbourn (left) & Alfred Bradley (right) at the BBC.*  
+*© BBC*
 
 *[Roy Clarke: Classic BBC Radio Thrillers available from Audible](http://www.amazon.co.uk/Roy-Clarke-Classic-Radio-Thrillers/dp/B0B3S5G2ML/ref=sr_1_1/)*
 
@@ -57,5 +57,5 @@ Although very little is recorded about this professional period of his life, thi
 
 ○ In December 2011, Alan was asked to celebrate the 85th anniversary of Alfred Bradley's birth for the BBC Alfred Bradley Bursary Award. He wrote the following contribution.
 
-*"In the mid-sixties, I worked alongside Alfred for five years as a fellow radio drama producer at the BBC Woodhouse Lane Studios in Leeds. Alfred was, I believe, instrumental in me getting the job. Indeed the post was only created in response to the enormous backlog of unproduced new play scripts that had accumulated on his desk, a victim of his own successful, self-generated, one man new play policy. Alfred was hugely influential and encouraging to this fledgling producer, who prior to his arrival in Leeds had never even set foot inside a sound studio."  
-"Although only a dozen or so years older than I, Alfred turned out to be what I later referred to as one of my 'guardian uncles'; those remarkable people whom I was lucky enough to meet in my early years who subsequently shaped and informed my life. I remain indebted to him."*
+*"In the mid-sixties, I worked alongside Alfred for five years as a fellow radio drama producer at the BBC Woodhouse Lane Studios in Leeds. Alfred was, I believe, instrumental in me getting the job. Indeed the post was only created in response to the enormous backlog of unproduced new play scripts that had accumulated on his desk, a victim of his own successful, self-generated, one man new play policy. Alfred was hugely influential and encouraging to this fledgling producer, who prior to his arrival in Leeds had never even set foot inside a sound studio."*  
+*"Although only a dozen or so years older than I, Alfred turned out to be what I later referred to as one of my 'guardian uncles'; those remarkable people whom I was lucky enough to meet in my early years who subsequently shaped and informed my life. I remain indebted to him."*

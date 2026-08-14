@@ -10,8 +10,8 @@ order: 660
 
 **Author:**
 
-**Broadcast:  
-Channel:**Alan Plater
+**Broadcast:**  
+**Channel:**Alan Plater
 
 1 February 1967 @ 3pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

@@ -8,35 +8,35 @@ order: 501
 
 ### Production Details
 
-**Adaptation:  
-Author:  
-New Play:**
+**Adaptation:**  
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Mary Morris  
+**Venue:**  
+**Location:**  
+**Staging:**Mary Morris  
 Morris Gleitzman  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**3 August 1994  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**3 August 1994  
 9 August 1994  
 10 September 1994
 
 ### Company Details
 
-**Director:  
-Assistant Director:  
-Musical Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Assistant Director:**  
+**Musical Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**Alan Ayckbourn  
 Kate Valentine  
 Simon Cryer  
 Jackie Staines  
@@ -44,22 +44,15 @@ Roger Glossop
 John Pattison
 
 Philip Rees  
-Jackie Hurd **Character**  
-Mum / Aussie Matron / Iris  
-Dad / Aussie Doctor / Bob / Griff / Captain/ Spanish Tourist  
-Colin  
-Luke / Alastair / Guard / Patient / Student Doctor / Aussie Doctor / Businessman  
-Cop / Pompous Pommy Doctor / Ted  
-Aussie Nurse / Flight Attendant / American Tourist / Student Doctor / Cafe Woman / Pommy Nurse / Doctor Graham / Airport Woman **Actor**  
-Sophia Winter  
-Philip Bird
+Jackie Hurd
 
-Tamblyn Lord  
-Sean Mackenzie
-
-Peter Forbes
-
-Dorothy Atkinson
+**Character** **Actor**  
+**Mum / Aussie Matron / Iris** Sophia Winter  
+**Dad / Aussie Doctor / Bob / Griff / Captain/ Spanish Tourist** Philip Bird  
+**Colin** Tamblyn Lord  
+**Luke / Alastair / Guard / Patient / Student Doctor / Aussie Doctor / Businessman** Sean Mackenzie  
+**Cop / Pompous Pommy Doctor / Ted** Peter Forbes  
+**Aussie Nurse / Flight Attendant / American Tourist / Student Doctor / Cafe Woman / Pommy Nurse / Doctor Graham / Airport Woman** Dorothy Atkinson
 
 ### Notes
 

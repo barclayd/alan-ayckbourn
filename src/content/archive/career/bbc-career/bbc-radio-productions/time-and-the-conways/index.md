@@ -10,8 +10,8 @@ order: 665
 
 **Author:**
 
-**Broadcast:  
-Channel:**J.B. Priestley
+**Broadcast:**  
+**Channel:**J.B. Priestley
 
 3 February 1969 @ 8.30pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

@@ -10,8 +10,8 @@ order: 669
 
 **Author:**
 
-**Broadcast:  
-Channel:**Sheila Cregeen
+**Broadcast:**  
+**Channel:**Sheila Cregeen
 
 21 February 1966 @ 8.30pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

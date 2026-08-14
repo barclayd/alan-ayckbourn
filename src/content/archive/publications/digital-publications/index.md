@@ -64,8 +64,8 @@ This page offers a guide to digital editions and ebooks of Alan Ayckbourn's play
 *These volumes contain multiple Ayckbourn plays.*
 
 **○ Alan Ayckbourn: Plays 1**  
-Contains: *A Small Family Business*, *A Chorus Of Disapproval*, *Henceforward...*, *Man Of The Moment  
-Faber, 2014, ISBN 0571176801*
+Contains: *A Small Family Business*, *A Chorus Of Disapproval*, *Henceforward...*, *Man Of The Moment*  
+*Faber, 2014, ISBN 0571176801*
 
 **○ Alan Ayckbourn: Plays 2**  
 Contains: *Invisible Friends*, *Ernie's Incredible Illucinations*, *This Is Where We Came In*, *My Very Own Story*, *The Champion Of Paribanou*  

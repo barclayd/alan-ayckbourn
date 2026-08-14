@@ -10,8 +10,8 @@ order: 619
 
 **Author:**
 
-**Broadcast:  
-Channel:**Ray H. Dunbobbin
+**Broadcast:**  
+**Channel:**Ray H. Dunbobbin
 
 3 March 1966 @ 8.30pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

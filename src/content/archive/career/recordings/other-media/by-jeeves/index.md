@@ -18,8 +18,8 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and A
 
 **Production:** Really Useful Records
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 1996 (deleted)  
 **Digital:** Not available**Director**
 
@@ -56,12 +56,12 @@ Richard Long**Notes:** *By Jeeves* was released as a limited edition CD in 1996 
 
 **Production:** SJT
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptor  
-Producer**
+**Digital:** Not available**Director**  
+**Adaptor**  
+**Producer**
 
 **Character**  
 Bertie Wooster  
@@ -100,8 +100,8 @@ Denise Silvey / Giles Taylor / Mike Windsor**Note:** This production was special
 
 **Production:** Polydor
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 1996 (deleted)  
 **Digital:** 2013 (available)**Director**
 
@@ -137,17 +137,17 @@ Richard Long
 
 **Production:** Canadian Broadcasting Company
 
-**Availability  
-Video:** 2002 (deleted)  
+**Availability**  
+**Video:** 2002 (deleted)  
 **DVD (R2):** 2002 (deleted)  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**  
 **Film Director**  
 **Music**  
-**Design  
-Costume Design  
-Choreographer  
-Musical Director**
+**Design**  
+**Costume Design**  
+**Choreographer**  
+**Musical Director**
 
 **Character**  
 Honoria Glossop  
@@ -188,8 +188,8 @@ Steve Wilson
 **Production:** Universal  
 **Production:** Decca
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2001 (deleted)  
 **Digital:** Not available**Director**
 

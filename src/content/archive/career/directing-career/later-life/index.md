@@ -8,30 +8,30 @@ order: 465
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**A.R. Gurney  
+**Venue:**  
+**Location:**  
+**Staging:**A.R. Gurney  
 No
 
 Stephen Joseph Theatre  
 The McCarthy  
-End-stage**First performance:  
-Opening night:  
-Final performance:**28 August 1998  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**28 August 1998  
 28 August 1998  
 25 September 1998
 
 ### Company Details
 
-**Director:  
-Design:  
-Lighting:**
+**Director:**  
+**Design:**  
+**Lighting:**
 
-**Stage Manager:  
-Deputy Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**Alan Ayckbourn  
 Pip Leckenby  
 Kath Geraghty
 

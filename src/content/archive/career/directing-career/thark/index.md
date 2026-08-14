@@ -8,33 +8,33 @@ order: 491
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Ben Travers  
+**Venue:**  
+**Location:**  
+**Staging:**Ben Travers  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**30 November 1983  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**30 November 1983  
 30 November 1983  
 23 December 1983
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:**
+**Director:**  
+**Lighting:**  
+**Design:**
 
-**Stage Manager:  
-Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Francis Lynch  
 Edward Lipscomb
 

@@ -60,8 +60,8 @@ The Karaoke Theatre Company
 Living Together  
 Life & Beth  
 Life Of Riley  
-*Love After All  
-Making Tracks*  
+*Love After All*  
+*Making Tracks*  
 Man Of The Moment  
 Miss Yesterday  
 Mr A's Amazing Maze Plays  
@@ -84,9 +84,9 @@ Show & Tell
 Sisterly Feelings  
 A Small Family Business  
 Snake In The Grass  
-*The Sparrow  
-The Square Cat  
-Standing Room Only*  
+*The Sparrow*  
+*The Square Cat*  
+*Standing Room Only*  
 Suburban Strains  
 Sugar Daddies  
 Surprises  
@@ -97,8 +97,8 @@ Things We Do For Love
 This Is Where We Came In  
 Time And Time Again  
 Time Of My Life  
-*The Trial of Romeo Oscar  
-Virtual Reality*  
+*The Trial of Romeo Oscar*  
+*Virtual Reality*  
 Way Upstream  
 Welcome to the Family  
 Whenever  
@@ -307,8 +307,8 @@ Yes
 Yes  
 Yes  
 Yes  
-*No  
-No*  
+*No*  
+*No*  
 Yes  
 Yes  
 Yes  
@@ -331,9 +331,9 @@ Yes
 Yes  
 Yes  
 Yes  
-*No  
-No  
-No*  
+*No*  
+*No*  
+*No*  
 Yes  
 Yes  
 Yes  
@@ -429,8 +429,8 @@ Yes
 Yes  
 Yes  
 Yes  
-*No  
-No*  
+*No*  
+*No*  
 Yes  
 Yes  
 Yes  
@@ -453,9 +453,9 @@ Yes
 Yes  
 Yes  
 Yes  
-*No  
-No  
-No*  
+*No*  
+*No*  
+*No*  
 Yes  
 Yes  
 Yes  

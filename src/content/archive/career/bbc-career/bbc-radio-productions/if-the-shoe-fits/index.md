@@ -10,8 +10,8 @@ order: 635
 
 **Author:**
 
-**Broadcast:  
-Channel:**Guy Compton with Pat Keen & David Mahlowe
+**Broadcast:**  
+**Channel:**Guy Compton with Pat Keen & David Mahlowe
 
 19 May 1965 @ 3pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

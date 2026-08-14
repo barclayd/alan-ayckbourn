@@ -67,8 +67,8 @@ Stephen Joseph Theatre, Scarborough
 
 ![](./_images/stacks-image-cfba9f4.jpg)
 
-*Alan Ayckbourn during rehearsals for Constant Companions  
-© Tony Bartholomew*
+*Alan Ayckbourn during rehearsals for Constant Companions*  
+*© Tony Bartholomew*
 
 ![](./_images/stacks-image-c53f938.jpg)
 

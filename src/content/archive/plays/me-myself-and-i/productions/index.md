@@ -9,8 +9,8 @@ play: "me-myself-and-i"
 
 ### World Premiere (1982)
 
-**Me  
-World premiere:** 2 June 1981  
+**Me**  
+**World premiere:** 2 June 1981  
 **Final performance:** 1 September 1981  
 **Venue:** Stephen Joseph Theatre In The Round, Scarborough  
 **Staging:** End-stage
@@ -20,8 +20,8 @@ World premiere:** 2 June 1981
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch
 
-**Myself  
-World premiere:** 8 July 1981  
+**Myself**  
+**World premiere:** 8 July 1981  
 **Final performance:** 2 September 1981  
 **Venue:** Stephen Joseph Theatre In The Round, Scarborough  
 **Staging:** End-stage
@@ -31,8 +31,8 @@ World premiere:** 8 July 1981
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch
 
-**I  
-World premiere:** 9 July 1981  
+**I**  
+**World premiere:** 9 July 1981  
 **Final performance:** 3 September 1981  
 **Venue:** Stephen Joseph Theatre In The Round, Scarborough  
 **Staging:** End-stage

@@ -11,7 +11,12 @@ facts:
   Short Synopsis: "A one act comedy about two honeymooning couples double-booked into the same decrepit cottage."
   Premiere: "circa March 1962"
   Premiere Venue: "The Library Theatre, Scarborough"
-  Director: "Margaret Boden  Character"
+  Director: "Margaret Boden"
+  Character: "Actor"
+  Mr Poulton Smiith: "Ken Boden"
+  Mrs Poulton Smith: "Unknown"
+  Young Man: "Alan Ayckbourn"
+  Young Woman: "Unknown"
 ---
 
 **Published / Available to Stage:** No
@@ -29,17 +34,6 @@ The play was directed by Margaret Boden for Scarborough Theatre Guild and Alan A
 The one act comedy centres on a middle-aged couple who each believe they are cheating on each other and have hired two young private investigators to find the truth; unfortunately the older man hires a young woman and the older woman hires a young man. Naturally the appearance of two young strangers confirms each of the couple's suspicions about their illicit affairs. As matters quickly degenerate between the older couple, the investigators decide to slip off together.
 
 Only two copies of the original manuscript for *Follow The Lover* are known to exist with one held in the Ayckbourn Archive at the **[Borthwick Institute for Archives](/research)** at the University Of York.
-
-### World Premiere (1962)
-
-Mr Poulton Smiith  
-Mrs Poulton Smith  
-Young Man  
-Young Woman **Actor**  
-Ken Boden  
-Unknown  
-Alan Ayckbourn  
-Unknown
 
 ### Further Reading
 

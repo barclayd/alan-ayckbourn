@@ -14,14 +14,14 @@ play: "bedroom-farce"
 
 **Production:** Granada TV
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Design  
-Title Music  
-Producer**
+**Digital:** Not available**Director**  
+**Design**  
+**Title Music**  
+**Producer**
 
 **Character**  
 Ernest  
@@ -55,12 +55,12 @@ Maria Aitken**Notes**: *Bedroom Farce* was based on the National Theatre's 1977 
 
 **Production:** Jarvis & Ayres for the BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Music**
+**Digital:** Not available**Director**  
+**Music**
 
 **Character**  
 Ernest  

@@ -12,12 +12,11 @@ facts:
   London Premiere Venue: "New Arts Theatre"
   Play Number: "6"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/11068/mr-whatnot/)"
+  Other Media: "No"
   Short Synopsis: "A silent piano tuner's visit to a country house turns into an extraordinary and surrealistic adventure as he falls in love with a soon-to-be-married aristocratic young woman."
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/11068/mr-whatnot/)"
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
-
-Other Media:** No
 
 **Availability**
 

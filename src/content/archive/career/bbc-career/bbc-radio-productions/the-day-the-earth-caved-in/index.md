@@ -10,8 +10,8 @@ order: 623
 
 **Author:**
 
-**Broadcast:  
-Channel:**Neil Kingsley
+**Broadcast:**  
+**Channel:**Neil Kingsley
 
 18 July 1966 @ 8pm  
 BBC Light Programme**Director:**Alan Ayckbourn**Character**  

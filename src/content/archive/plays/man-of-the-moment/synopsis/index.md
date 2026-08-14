@@ -10,8 +10,8 @@ play: "man-of-the-moment"
 **Availability:** *Man Of The Moment* is available for both professional and amateur production.  
 **Acting edition:** Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/1554/man-of-the-moment/)**.
 
-*Man Of The Moment is set in the paved patio / pool area of a modern, moderate-sized villa in a Spanish speaking area of the Mediterranean. The villa can be glimpsed with doors leading from the living room to a shaded area. This leads to a sunken sunbathing area and the visible raised, angled corner of the deep end of the swimming pool.  
-Man of the Moment is set in the late 1980s / early 1990s. The playwright does not believe it should be set in any period other than this and has repeatedly refused production requests to allow the play to be updated.*
+*Man Of The Moment is set in the paved patio / pool area of a modern, moderate-sized villa in a Spanish speaking area of the Mediterranean. The villa can be glimpsed with doors leading from the living room to a shaded area. This leads to a sunken sunbathing area and the visible raised, angled corner of the deep end of the swimming pool.*  
+*Man of the Moment is set in the late 1980s / early 1990s. The playwright does not believe it should be set in any period other than this and has repeatedly refused production requests to allow the play to be updated.*
 
 ### Act 1
 

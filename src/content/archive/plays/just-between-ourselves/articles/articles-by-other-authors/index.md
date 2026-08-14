@@ -5,8 +5,8 @@ order: 1226
 play: "just-between-ourselves"
 ---
 
-*This section contains various articles about Just Between Ourselves written by Alan Ayckbourn. Click on a link in the column below to access other articles.  
-This article consists of Alan Ayckbourn's response to an enquiry about Just Between Ourselves and its character in 1992.*
+*This section contains various articles about Just Between Ourselves written by Alan Ayckbourn. Click on a link in the column below to access other articles.*  
+*This article consists of Alan Ayckbourn's response to an enquiry about Just Between Ourselves and its character in 1992.*
 
 ### State of the Nation by Michael Billington (extract)
 

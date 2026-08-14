@@ -10,8 +10,8 @@ order: 645
 
 **Author:**
 
-**Broadcast:  
-Channel:**Mel Dinelli
+**Broadcast:**  
+**Channel:**Mel Dinelli
 
 15 January 1968 @ 8.30pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

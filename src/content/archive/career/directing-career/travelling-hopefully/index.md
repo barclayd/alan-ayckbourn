@@ -8,32 +8,32 @@ order: 499
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Ken Whitmore  
+**Venue:**  
+**Location:**  
+**Staging:**Ken Whitmore  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**25 July 1978  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**25 July 1978  
 26 July 1978  
 27 September 1978
 
 ### Company Details
 
-**Director:  
-Design:  
-Costumes:**
+**Director:**  
+**Design:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 David Millard  
 Frances Upton
 

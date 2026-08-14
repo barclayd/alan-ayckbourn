@@ -8,31 +8,31 @@ order: 467
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Leonard Barras  
+**Venue:**  
+**Location:**  
+**Staging:**Leonard Barras  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**3 July 1969  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**3 July 1969  
 3 July 1969  
 3 September 1969
 
 ### Company Details
 
-**Director:  
-Lighting:**
+**Director:**  
+**Lighting:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Peter Boden
 
 Robin Holmes  

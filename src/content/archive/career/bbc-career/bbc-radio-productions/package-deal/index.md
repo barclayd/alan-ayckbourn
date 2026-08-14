@@ -10,8 +10,8 @@ order: 650
 
 **Author:**
 
-**Broadcast:  
-Channel:**Derek Bickerton
+**Broadcast:**  
+**Channel:**Derek Bickerton
 
 23 August 1965 @ 8pm  
 BBC Light Programme**Director:**Alan Ayckbourn**Character**  

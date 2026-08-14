@@ -8,32 +8,32 @@ order: 488
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Anton Chekhov  
+**Venue:**  
+**Location:**  
+**Staging:**Anton Chekhov  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**1 May 1979  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**1 May 1979  
 2 May 1979  
 16 June 1979
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Jeremy Turner
 
 Sean O'Neill  

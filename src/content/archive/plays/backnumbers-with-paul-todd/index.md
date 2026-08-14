@@ -52,8 +52,8 @@ By the time *Backnumbers* was produced, Alan and Paul had six collaborations bet
 
 ### Premiere Production Details
 
-**World Premiere  
-Premiere - Part 1:** 19 July 1983  
+**World Premiere**  
+**Premiere - Part 1:** 19 July 1983  
 **Premiere - Part 2:** 21 July 1983
 
 Michael Cashman  

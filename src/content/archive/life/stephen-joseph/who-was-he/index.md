@@ -14,8 +14,8 @@ It’s a fair question. Who was Stephen Joseph? Even in Scarborough, where a the
 
 ![](./_images/stacks-image-7378af4.jpg)
 
-*Stephen Joseph  
-(© Scarborough Theatre Trust)*
+*Stephen Joseph*  
+*(© Scarborough Theatre Trust)*
 
 </aside>
 

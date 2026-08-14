@@ -10,8 +10,8 @@ order: 620
 
 **Author:**
 
-**Broadcast:  
-Channel:**David Bramley
+**Broadcast:**  
+**Channel:**David Bramley
 
 20 September 1969 @ 2pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

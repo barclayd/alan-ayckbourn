@@ -12,8 +12,8 @@ order: 59
 
 ![](./_images/stacks-image-260bac1.jpg)
 
-*Edgar Matthews  
-(© To be confirmed)*
+*Edgar Matthews*  
+*(© To be confirmed)*
 
 </aside>
 

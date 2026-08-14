@@ -10,8 +10,8 @@ order: 628
 
 **Author:**
 
-**Broadcast:  
-Channel:**Albert Dobson
+**Broadcast:**  
+**Channel:**Albert Dobson
 
 14 June 1969 @ 2pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

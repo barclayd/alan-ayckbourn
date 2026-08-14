@@ -8,29 +8,18 @@ order: 562
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Little Brother, Little Sister  
+**Author:** David Campton  
+**First performance:** 22 June 1961  
+**Final performance:** 28 June 1961  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Little Brother, Little Sister  
-David Campton
-
-22 June 1961  
-28 June 1961  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Cook  
-Sir  
-Madam **Actor**  
-Alan Ayckbourn  
-David Jarrett  
-Rosamund Dickson
+**Character** **Actor**  
+**Cook** Alan Ayckbourn  
+**Sir** David Jarrett  
+**Madam** Rosamund Dickson
 
 ### Quotes & Notes
 

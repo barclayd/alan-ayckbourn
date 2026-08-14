@@ -10,8 +10,8 @@ order: 618
 
 **Author:**
 
-**Broadcast:  
-Channel:**Trevor Griffiths
+**Broadcast:**  
+**Channel:**Trevor Griffiths
 
 10 December 1969 @ 3pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

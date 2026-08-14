@@ -8,23 +8,15 @@ order: 585
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Rainbow Machine  
+**Author:** Alan Plater  
+**First performance:** 10 June 1963  
+**Final performance:** 27 July 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Rainbow Machine  
-Alan Plater
-
-10 June 1963  
-27 July 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Alan Ayckbourn   **Character**  
+**Character**  
 Jordan **Actor**  
 Alan Ayckbourn
 

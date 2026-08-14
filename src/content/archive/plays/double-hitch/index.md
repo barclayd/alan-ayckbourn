@@ -12,7 +12,12 @@ facts:
   Short Synopsis: "A one act comedy about two honeymooning couples double-booked into the same decrepit cottage."
   Premiere: "1960"
   Premiere Venue: "The Library Theatre, Scarborough"
-  Director: "Margaret Boden  Character"
+  Director: "Margaret Boden"
+  Character: "Actor"
+  George Crewe: "Ken Boden"
+  Phyllis Crewe: "Evelyn Emmerson"
+  Brenda Maddox: "Vicki Smart"
+  David Maddox: "Nick Carter"
 ---
 
 **Published / Available to Stage:** No
@@ -36,17 +41,6 @@ Unlike the other plays intended for amateur performance from that period, *Doubl
 *Double Hitch* was staged at the Fourth In-The-Round Festival, at the Library Theatre, Scarborough, by Anlaby Youth Drama Group and directed by Harry Mays. This production took place on 21 September, 1963. A second production was presented by Scarborough Technical College Drama Group at the British Drama League Combined Theatre Festival at Theatre in the Round at the Library Theatre in 1963. The adjudication was by Alan Ayckbourn's mentor Stephen Joseph - who was presumably aware of the play's providence.
 
 The only known complete original copy of *Double Hitch* is held in the Lord Chamberlain's Collection at the British Library.
-
-### Premiere Production Details (1960)
-
-George Crewe  
-Phyllis Crewe  
-Brenda Maddox  
-David Maddox **Actor**  
-Ken Boden  
-Evelyn Emmerson  
-Vicki Smart  
-Nick Carter
 
 ### Further Reading
 

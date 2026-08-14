@@ -8,30 +8,30 @@ order: 426
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Stephen Mallatratt  
+**Venue:**  
+**Location:**  
+**Staging:**Stephen Mallatratt  
 Yes
 
 The Library Theatre  
 Lecture Room, Scarborough Library  
-Three-sided**First performance:  
-Opening night:  
-Final performance:**15 October 1975  
+Three-sided**First performance:**  
+**Opening night:**  
+**Final performance:**15 October 1975  
 15 October 1975  
 17 January 1976
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Helga Wood
 
 David Millard  

@@ -8,28 +8,28 @@ order: 494
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Blake Heathcote  
+**Venue:**  
+**Location:**  
+**Staging:**Blake Heathcote  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Studio  
-End-stage**First performance:  
-Opening night:  
-Final performance:**4 July 1990  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**4 July 1990  
 4 July 1990  
 5 September 1990
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**Alan Ayckbourn  
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**Alan Ayckbourn  
 Fiona Lewry  
 Juliet Nichols  
 John Pattison**Character**  

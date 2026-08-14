@@ -8,19 +8,19 @@ order: 443
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
 **Venue:**
 
-**Location:  
-Staging:**
+**Location:**  
+**Staging:**
 
-**First performance (Pt 1):  
-First performance (Pt 2):  
-Opening night:  
-Final performance (Pt 1):  
-Final performance (Pt 2)**Christopher Fry & Kerry Gardner  
+**First performance (Pt 1):**  
+**First performance (Pt 2):**  
+**Opening night:**  
+**Final performance (Pt 1):**  
+**Final performance (Pt 2)**Christopher Fry & Kerry Gardner  
 Yes
 
 Stephen Joseph Theatre In The Round  
@@ -31,18 +31,18 @@ Round
 12 October 1985  
 11 / 12 October 1985  
 6 December 1985  
-7 December 1985**Director:  
-Lighting:  
-Design:  
-Costumes:  
-Music:**
+7 December 1985**Director:**  
+**Lighting:**  
+**Design:**  
+**Costumes:**  
+**Music:**
 
-**Stage Manager:  
-Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Thomas  
 Adrian P Smith  
 Edward Lipscomb  

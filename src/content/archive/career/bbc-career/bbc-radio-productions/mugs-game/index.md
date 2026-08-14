@@ -10,8 +10,8 @@ order: 647
 
 **Author:**
 
-**Broadcast:  
-Channel:**Robert Storey
+**Broadcast:**  
+**Channel:**Robert Storey
 
 31 August 1966 @ 3pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

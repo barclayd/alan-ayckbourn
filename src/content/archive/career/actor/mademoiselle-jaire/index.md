@@ -8,63 +8,35 @@ order: 537
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Mademoiselle Jaire  
+**Author:** Michel de Ghelderode  
+**First performance:** 12 November 1957  
+**Venue:** Oxford Playhouse  
+**Staging:** End-stage  
+**Director:** Minos Volankis  
+**Design:** Francis Thomas  
+**Costumes:** Francis Thomas
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:  
-Costumes:** Mademoiselle Jaire  
-Michel de Ghelderode
-
-12 November 1957  
-Oxford Playhouse  
-End-stage
-
-Minos Volankis  
-Francis Thomas  
-Francis Thomas   **Character**  
-Jaire  
-Kaliphas  
-A Neighbour  
-Jaire's wife  
-A Joiner  
-Cloribus  
-Antiqua Makabena  
-Jacquelin  
-Marieke Vos  
-Marieke Pouf  
-Marieke Crok  
-Man with Red Hair  
-Blandine  
-A Carpenter  
-His Apprentice  
-Lazarus  
-A Street Singer  
-An Old Man  
-The Rabble Monger **Actor**  
-Edgar Wreford  
-John Rees  
-Marie Seaborne  
-Pat Keen  
-Christopher Hancock  
-Malcolm Rogers  
-Dona Martyn  
-George Roubicek  
-June Speight  
-Sheila Gill  
-Claudine Morgan  
-Joss Ackland  
-Ruth Meyers  
-Ian Curteis  
-Alan Ayckbourn  
-Joss Ackland  
-Christopher Hancock  
-Michael Simpson  
-Ian Curteis
+**Character** **Actor**  
+**Jaire** Edgar Wreford  
+**Kaliphas** John Rees  
+**A Neighbour** Marie Seaborne  
+**Jaire's wife** Pat Keen  
+**A Joiner** Christopher Hancock  
+**Cloribus** Malcolm Rogers  
+**Antiqua Makabena** Dona Martyn  
+**Jacquelin** George Roubicek  
+**Marieke Vos** June Speight  
+**Marieke Pouf** Sheila Gill  
+**Marieke Crok** Claudine Morgan  
+**Man with Red Hair** Joss Ackland  
+**Blandine** Ruth Meyers  
+**A Carpenter** Ian Curteis  
+**His Apprentice** Alan Ayckbourn  
+**Lazarus** Joss Ackland  
+**A Street Singer** Christopher Hancock  
+**An Old Man** Michael Simpson  
+**The Rabble Monger** Ian Curteis
 
 ### Quotes & Notes
 

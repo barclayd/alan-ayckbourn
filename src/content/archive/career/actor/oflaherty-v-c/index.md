@@ -8,31 +8,19 @@ order: 571
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** O'Flaherty V.C.  
+**Author:** George Bernard Shaw  
+**First performance:** 21 June 1962  
+**Final performance:** 15 August 1962  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** O'Flaherty V.C.  
-George Bernard Shaw
-
-21 June 1962  
-15 August 1962  
-The Library Theatre, Scarborough  
-Round
-
-Peter Cheeseman   **Character**  
-Private O'Flaherty V.C.  
-General Sir Madigan  
-Mrs O'Flaherty  
-Teresa Driscoll **Actor**  
-Alan Ayckbourn  
-Richard Gill  
-Marie Adams  
-Elizabeth Bell
+**Character** **Actor**  
+**Private O'Flaherty V.C.** Alan Ayckbourn  
+**General Sir Madigan** Richard Gill  
+**Mrs O'Flaherty** Marie Adams  
+**Teresa Driscoll** Elizabeth Bell
 
 ### Quotes & Notes
 

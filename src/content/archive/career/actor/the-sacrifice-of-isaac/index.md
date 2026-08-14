@@ -8,29 +8,18 @@ order: 551
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Sacrifice of Isaac  
+**Author:** The Brome Manuscript  
+**First performance:** c.Easter 1960  
+**Final performance:** c.Easter 1960  
+**Venue:** Tour  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Sacrifice of Isaac  
-The Brome Manuscript
-
-c.Easter 1960  
-c.Easter 1960  
-Tour  
-Round
-
-Stephen Joseph   **Character**  
-Angel  
-Abraham  
-Isaac **Actor**  
-David Jarrett  
-Alan Ayckbourn  
-Rosamund Dickson
+**Character** **Actor**  
+**Angel** David Jarrett  
+**Abraham** Alan Ayckbourn  
+**Isaac** Rosamund Dickson
 
 ### Quotes & Notes
 

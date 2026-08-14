@@ -8,31 +8,31 @@ order: 422
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter King  
+**Venue:**  
+**Location:**  
+**Staging:**Peter King  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**15 July 1974  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**15 July 1974  
 15 July 1974  
 4 September 1974
 
 ### Company Details
 
-**Director:  
-Costumes:**
+**Director:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Christine Welch
 
 David Millard  

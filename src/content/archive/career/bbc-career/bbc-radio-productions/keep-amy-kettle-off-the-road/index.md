@@ -10,8 +10,8 @@ order: 637
 
 **Author:**
 
-**Broadcast:  
-Channel:**Pam Tickell
+**Broadcast:**  
+**Channel:**Pam Tickell
 
 9 September 1970 @ 8pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

@@ -8,36 +8,36 @@ order: 476
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter Robert Scott  
+**Venue:**  
+**Location:**  
+**Staging:**Peter Robert Scott  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**9 January 1992  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**9 January 1992  
 14 January 1992  
 1 February 1992
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:  
-Staff Director:  
-Fitness Consultant:  
-Rowing Consultant:  
-Fitness Assistant:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**  
+**Staff Director:**  
+**Fitness Consultant:**  
+**Rowing Consultant:**  
+**Fitness Assistant:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Mick Hughes  
 Roger Glossop  
 John Pattison  

@@ -10,8 +10,8 @@ order: 641
 
 **Author:**
 
-**Broadcast:  
-Channel:**Willis Hall
+**Broadcast:**  
+**Channel:**Willis Hall
 
 29 July 1968 @ 8.30pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

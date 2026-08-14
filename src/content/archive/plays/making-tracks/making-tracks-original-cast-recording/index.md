@@ -13,11 +13,11 @@ play: "making-tracks"
 
 **Production:** SJTITR
 
-**Availability  
-Cassette:** 1981 (deleted)  
+**Availability**  
+**Cassette:** 1981 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Rog, a sound engineer  

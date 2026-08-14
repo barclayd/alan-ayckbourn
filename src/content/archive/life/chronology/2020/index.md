@@ -53,8 +53,8 @@ Audio-stream: 1 December, SJT website
 
 ![](./_images/stacks-image-dbd29c1.jpg)
 
-*Alan Ayckbourn & wife, Heather Stoney  
-© Tony Bartholomew*
+*Alan Ayckbourn & wife, Heather Stoney*  
+*© Tony Bartholomew*
 
 ### Quotes
 
@@ -144,8 +144,8 @@ Audio-stream: 1 December, SJT website
 “When the lockdown started I thought I might as well carry on writing. I’ve finished two plays since then, neither of which I suspect will get done in my lifetime. I think I’m like one of those old battleships where they say ‘pull astern’ and it still takes another two or three miles to stop. So I’ve probably stopped the engines long ago but I’m still moving forwards. I’m probably writing out of reflex, though I do still have the urge. I’ve bugger all else to do apart from watching Netflix...”  
 *(Yorkshire Post, 21 November 2020)*
 
-*“Over the years, I have always enjoyed creating off-stage characters almost as much as on-stage ones. They serve to provide, at their simplest, a depth and perspective to an overall stage picture.”  
-(The Press, 27 November 2020)*
+*“Over the years, I have always enjoyed creating off-stage characters almost as much as on-stage ones. They serve to provide, at their simplest, a depth and perspective to an overall stage picture.”*  
+*(The Press, 27 November 2020)*
 
 “I’m still optimistic for the future of theatre, but not so optimistic for myself. We’re in the vulnerable bracket. Days of jumping into rehearsals with a lot of actors breathing all over each other is not a good idea, so I’m not going to be doing that. The other thing is, how long will I keep going? The only dispiriting feeling is thinking, ‘Are my new plays going to get done?’. There are four or five now. Normally, a play is written and then it’s performed and that’s wonderful encouragement, but for me, until a play is done, has run the gamut of rehearsals, performances, audience response and post-mortem, I’m marking time, but the plays keep coming.”  
 *(The Press, 27 November 2020)*

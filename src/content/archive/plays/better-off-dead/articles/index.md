@@ -49,14 +49,14 @@ The man from the Revenue promptly left prior to Partridge’s death, but informe
 
 During the same year, Swift - under his own name - also wrote *An Elegy On The Supposed Death of Mr Partridge, the Almanac Maker*.
 
-*Here, five feet deep, lies on his back  
-A cobbler, starmonger, and quack,  
-Who to the stars in pure good will  
-Does to his best look upward still:  
-Weep, all you customers that use  
-His pills, his almanacks, or shoes.  
-And you that did your fortunes seek,  
-Step to his grave but once a week.*
+*Here, five feet deep, lies on his back*  
+*A cobbler, starmonger, and quack,*  
+*Who to the stars in pure good will*  
+*Does to his best look upward still:*  
+*Weep, all you customers that use*  
+*His pills, his almanacks, or shoes.*  
+*And you that did your fortunes seek,*  
+*Step to his grave but once a week.*
 
 Partridge apparently did not respond to these slanders himself, despite the fact they were widely believed and had been published in Europe; there is even a story that he was woken by the sexton calling at the house to see if there were any requests for his funeral sermon!
 

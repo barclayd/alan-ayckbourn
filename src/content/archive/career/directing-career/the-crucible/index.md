@@ -8,32 +8,32 @@ order: 452
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Arthur Miller  
+**Venue:**  
+**Location:**  
+**Staging:**Arthur Miller  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**6 November 1979  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**6 November 1979  
 7 November 1979  
 24 November 1979
 
 ### Company Details
 
-**Director:  
-Design:  
-Music:**
+**Director:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Holt  
 Paul Todd
 

@@ -19,12 +19,12 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** Jarvis & Ayres
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Sound Design  
-Producer**
+**Digital:** Not available**Director**  
+**Sound Design**  
+**Producer**
 
 **Character**  
 Jack  
@@ -63,8 +63,8 @@ Matthew Wolf
 **Streaming:** 12 June 2014  
 **Production:** NT Live
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**  

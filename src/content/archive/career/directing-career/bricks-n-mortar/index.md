@@ -8,36 +8,36 @@ order: 442
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Michael Cashman  
+**Venue:**  
+**Location:**  
+**Staging:**Michael Cashman  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**22 August 1984  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**22 August 1984  
 22 August 1984  
 22 September 1984
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Sound:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Sound:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Francis Lynch  
 Francis Lynch  
 John Hallé  

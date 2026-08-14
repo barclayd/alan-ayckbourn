@@ -16,23 +16,23 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Company:** Palisades
 
-**Availability  
-Video:** 1991 (deleted)  
+**Availability**  
+**Video:** 1991 (deleted)  
 **DVD (R2):** 2007 (deleted)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Screenplay  
-Photography  
-Photography  
-Editor  
-Executive Editor  
-Design  
-Music  
-Choreography  
-Sound  
-Sound  
-Sound  
-Sound**
+**Digital:** Not available**Director**  
+**Screenplay**  
+**Photography**  
+**Photography**  
+**Editor**  
+**Executive Editor**  
+**Design**  
+**Music**  
+**Choreography**  
+**Sound**  
+**Sound**  
+**Sound**  
+**Sound**
 
 **Character**  
 Dafydd Ap Llewellyn  

@@ -8,29 +8,18 @@ order: 587
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Caretaker  
+**Author:** Harold Pinter  
+**First performance:** 29 July 1963  
+**Final performance:** 3 August 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Caretaker  
-Harold Pinter
-
-29 July 1963  
-3 August 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Alan Ayckbourn   **Character**  
-Mick  
-Aston  
-Davies **Actor**  
-Peter King  
-Alan Ayckbourn  
-Stanley Page
+**Character** **Actor**  
+**Mick** Peter King  
+**Aston** Alan Ayckbourn  
+**Davies** Stanley Page
 
 ### Quotes & Notes
 

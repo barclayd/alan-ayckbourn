@@ -17,12 +17,12 @@ play: "jeeves"
 
 **Production:** MCA
 
-**Availability  
-Vinyl:** 1975 (deleted)  
+**Availability**  
+**Vinyl:** 1975 (deleted)  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Director**
+**Digital:** Not available**Director**  
+**Director**
 
 **Character**  
 Bertie Wooster  
@@ -59,8 +59,8 @@ David Wood
 
 **Production:** Really Useful Records
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 1996 (deleted)  
 **Digital:** Not available**Director**
 
@@ -97,8 +97,8 @@ Richard Long**Note:** *By Jeeves* was released as a limited edition CD in 1996 a
 
 **Production:** Polydor
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 1996 (deleted)  
 **Digital:** 2013 (available)**Director**
 
@@ -135,12 +135,12 @@ Richard Long
 
 **Production:** SJT
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptor  
-Producer**
+**Digital:** Not available**Director**  
+**Adaptor**  
+**Producer**
 
 **Character**  
 Bertie Wooster  
@@ -178,17 +178,17 @@ Denise Silvey / Giles Taylor / Mike Windsor**Note:** This production was special
 
 **Production:** Canadian Broadcasting Company
 
-**Availability  
-Video:** 2002 (deleted)  
+**Availability**  
+**Video:** 2002 (deleted)  
 **DVD (R2):** 2002 (available)  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**  
 **Director**  
 **Music**  
-**Design  
-Costume Design  
-Choreographer  
-Musical Director**
+**Design**  
+**Costume Design**  
+**Choreographer**  
+**Musical Director**
 
 **Character**  
 Honoria Glossop  
@@ -229,8 +229,8 @@ Steve Wilson
 **Production:** Universal  
 **Production:** Decca
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2001 (deleted)  
 **Digital:** Not available**Director**
 

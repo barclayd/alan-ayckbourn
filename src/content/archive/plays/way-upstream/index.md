@@ -16,8 +16,8 @@ facts:
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/1858/way-upstream/)"
   Other Media: "Television; radio"
   Short Synopsis: "Ideally set on a water-filled stage, the play follows a cruiser on the river orb, which is hijacked by modern day pirates. As events spiral out of control and become ever more extreme, can an ordinary couple save the day by taking extraordinary steps?"
+  Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/1858/way-upstream/)"
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/clients/sir-alan-ayckbourn/)"
 ---
 
-**Availability  
-Amateur:** Apply to **[Concord Theatricals](http://www.concordtheatricals.co.uk/p/1858/way-upstream/)**
+

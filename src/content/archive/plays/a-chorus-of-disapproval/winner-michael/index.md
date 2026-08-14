@@ -7,8 +7,8 @@ play: "a-chorus-of-disapproval"
 
 *In this article, Alan Ayckbourn's Archivist Simon Murgatroyd looks at correspondence held in the Ayckbourn archive to highlight the background to and history of Michael Winner's film adaptation of A Chorus Of Disapproval.*
 
-*“I’m quite pleased with the result and I think, whatever else, it satisfies my determination to remain to some degree theatrically exciting. The stage plays of mine that seem to me most successful are the ones that really couldn’t be done as well in another medium, whether it’s TV or film.”  
-Alan Ayckbourn's thoughts on his play A Chorus Of Disapproval in the immediate aftermath of writing it.*
+*“I’m quite pleased with the result and I think, whatever else, it satisfies my determination to remain to some degree theatrically exciting. The stage plays of mine that seem to me most successful are the ones that really couldn’t be done as well in another medium, whether it’s TV or film.”*  
+*Alan Ayckbourn's thoughts on his play A Chorus Of Disapproval in the immediate aftermath of writing it.*
 
 Alan Ayckbourn's passion for film is well documented and it is something which he has frequently cited as informing his playwriting. Despite this, Alan works solely in the theatre. He writes plays, not screenplays, and has shunned the opportunity to work in film and television. He also has a strong conviction that his plays do not adapt well into other mediums; which given the varying quality of the screen adaptations of his work is a fair point. Alan Ayckbourn’s plays are intended for the theatre and despite their often cinematic feel, generally do not transfer well to the screen.
 

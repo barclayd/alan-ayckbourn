@@ -10,8 +10,8 @@ order: 656
 
 **Author:**
 
-**Broadcast:  
-Channel:**Peter Russell
+**Broadcast:**  
+**Channel:**Peter Russell
 
 10 December 1966 @ 2.15pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

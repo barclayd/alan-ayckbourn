@@ -10,8 +10,8 @@ order: 622
 
 **Author:**
 
-**Broadcast:  
-Channel:**Ugo Betti
+**Broadcast:**  
+**Channel:**Ugo Betti
 
 23 June 1969 @ 8.30pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

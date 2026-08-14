@@ -9,25 +9,16 @@ play: "dracula-sketch-from"
 
 ### What The Devil! (Touring)
 
-**Act 1**  
-○ Hypnosis  
-○ What the Devil! (by Bob Eaton & Polly Warren)  
-○ The Gravestones (by Bob Eaton)  
-○ The World That I Knew (by Peggy Seeger)  
-○ Hitch-Hiker (by Ken Campbell)  
-○ I Will Still Be Here (by Bob Eaton)  
-○ The Exorcist (by Bob Eaton)  
-○ My Mum's a Witch (by Polly Warren)  
-○ The Two Magicians (traditional song) **Act 2**  
-○ 'Enry Albert's Ghost (by Alan Ayckbourn and Bob Eaton)  
-○ I Would go to Sea (by Bob Eaton)  
-○ King Henry (traditional song)  
-○ The Chicken (by Ken Campbell)  
-○ The Horrible Hand of Glory (by Malcolm Hebden)  
-○ The Green Mist (by Polly Warren)  
-○ Barquest (by Bob Eaton)  
-○ The Devil & the Butcher (by Bob Eaton)  
-○ What the Devil! (by Bob Eaton & Peggy Warren)
+**Act 1** **Act 2**  
+**○ Hypnosis** ○ 'Enry Albert's Ghost (by Alan Ayckbourn and Bob Eaton)  
+**○ What the Devil! (by Bob Eaton & Polly Warren)** ○ I Would go to Sea (by Bob Eaton)  
+**○ The Gravestones (by Bob Eaton)** ○ King Henry (traditional song)  
+**○ The World That I Knew (by Peggy Seeger)** ○ The Chicken (by Ken Campbell)  
+**○ Hitch-Hiker (by Ken Campbell)** ○ The Horrible Hand of Glory (by Malcolm Hebden)  
+**○ I Will Still Be Here (by Bob Eaton)** ○ The Green Mist (by Polly Warren)  
+**○ The Exorcist (by Bob Eaton)** ○ Barquest (by Bob Eaton)  
+**○ My Mum's a Witch (by Polly Warren)** ○ The Devil & the Butcher (by Bob Eaton)  
+**○ The Two Magicians (traditional song)** ○ What the Devil! (by Bob Eaton & Peggy Warren)
 
 ### What The Devil! (Theatre in the Round at the Library Theatre)
 

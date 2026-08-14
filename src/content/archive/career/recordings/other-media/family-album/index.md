@@ -22,8 +22,8 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **DVD:** Not available  
 **Blu-Ray:** Not available  
 **Digital:** Not available**Director:**  
-**Director of Photography:  
-Sound Capture:**  
+**Director of Photography:**  
+**Sound Capture:**  
 **Design:**  
 **Lighting:**  
 **Sound:**  

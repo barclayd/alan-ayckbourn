@@ -8,63 +8,35 @@ order: 540
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Cards Of Identity  
+**Author:** Nigel Dennis  
+**First performance:** April 1958  
+**Venue:** Oxford Playhouse  
+**Staging:** End-stage  
+**Director:** Frank Hauser  
+**Design:** Michael Richardson
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:** Cards Of Identity  
-Nigel Dennis
-
-April 1958  
-Oxford Playhouse  
-End-stage
-
-Frank Hauser  
-Michael Richardson   **Character**  
-Captain Mallet  
-Beaufort  
-Mrs Paradise  
-Jellicoe  
-Mrs Mallet  
-Dr Towzer  
-Stapleton  
-Miss Tray  
-President  
-Dr. Bitterling  
-Miss Black-Planorbis  
-Dr. Scavenger  
-Youth  
-Mother  
-Vinson  
-Custodian  
-Radio Commentator 1  
-Radio Commentator 2  
-Father Golden Orfe  
-Bank Manager **Actor**  
-Joss Ackland  
-Alan Dobie  
-Pat Keen  
-Richard Butler  
-Rachel Roberts  
-Christopher Hancock  
-Alan Ayckbourn  
-Ruth Meyers  
-Robert Bernal  
-John Boyd-Brent  
-June Speight  
-Gilbert Vernon  
-Gilbert Vernon  
-Lee Fox  
-Ian Curteis  
-Michael Simpson  
-Lee Fox  
-Michael Poole  
-Harold Lang  
-Lee Fox
+**Character** **Actor**  
+**Captain Mallet** Joss Ackland  
+**Beaufort** Alan Dobie  
+**Mrs Paradise** Pat Keen  
+**Jellicoe** Richard Butler  
+**Mrs Mallet** Rachel Roberts  
+**Dr Towzer** Christopher Hancock  
+**Stapleton** Alan Ayckbourn  
+**Miss Tray** Ruth Meyers  
+**President** Robert Bernal  
+**Dr. Bitterling** John Boyd-Brent  
+**Miss Black-Planorbis** June Speight  
+**Dr. Scavenger** Gilbert Vernon  
+**Youth** Gilbert Vernon  
+**Mother** Lee Fox  
+**Vinson** Ian Curteis  
+**Custodian** Michael Simpson  
+**Radio Commentator 1** Lee Fox  
+**Radio Commentator 2** Michael Poole  
+**Father Golden Orfe** Harold Lang  
+**Bank Manager** Lee Fox
 
 ### Quotes & Notes
 

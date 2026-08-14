@@ -8,19 +8,19 @@ order: 497
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**John Ford  
+**Venue:**  
+**Location:**  
+**Staging:**John Ford  
 No
 
 National Theatre  
 The Olivier  
-End-stage**First performance:  
-Opening night:  
-Final performance:**3 March 1988  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**3 March 1988  
 To be confirmed  
 4 August 1988
 

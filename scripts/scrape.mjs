@@ -183,12 +183,110 @@ function segments(url) {
 const NAV_STACKS =
   '.com_yourhead_stack_button_stack, .com_elixir_stacks_flatbutton2_stack, .flat_button_2_alignment';
 
+/**
+ * A column's `<br>`-separated lines, each flagged if all of its text is bold.
+ * Read before clean() rewrites them, so bold is still a style on a <span>.
+ *
+ * A <dl> is a table this pass has already zipped, and counts as one line per
+ * row: that is what lets a three-column table pair its outer column against
+ * the two inner ones.
+ */
+function brLines($, column) {
+  const lines = [{ text: '', bold: true }];
+  const walk = (node, bold) => {
+    for (const n of $(node).contents().toArray()) {
+      if (n.type === 'text') {
+        lines.at(-1).text += n.data;
+        if (n.data.trim()) {
+          lines.at(-1).bold &&= bold;
+        }
+      } else if (n.type === 'tag' && n.tagName === 'br') {
+        lines.push({ text: '', bold: true });
+      } else if (n.type === 'tag' && n.tagName === 'dl') {
+        /* One line per row, carrying the label column's text so an enclosing
+           test still sees a header where the table had one. */
+        const [labels, values] = ['dt', 'dd'].map((part) =>
+          brLines($, $(n).children(part).get(0)),
+        );
+        const rows = Math.max(labels.length, values.length);
+        for (let i = 0; i < rows; i++) {
+          if (labels[i]) {
+            lines.at(-1).text += labels[i].text;
+            lines.at(-1).bold &&= labels[i].bold;
+          }
+          if (i < rows - 1) {
+            lines.push({ text: '', bold: true });
+          }
+        }
+      } else if (n.type === 'tag') {
+        walk(
+          n,
+          bold ||
+            n.tagName === 'strong' ||
+            n.tagName === 'b' ||
+            /font-weight:\s*bold/i.test($(n).attr('style') || ''),
+        );
+      }
+    }
+  };
+  walk(column, false);
+  return lines
+    .map(({ text, bold }) => ({ text: text.replace(/\s+/g, ' ').trim(), bold }))
+    .filter((line) => line.text);
+}
+
 function clean($) {
   const content = $('#content');
   content
     .find('script, style, noscript, .contentSpacer, .clear, .clearer')
     .remove();
   content.find(NAV_STACKS).remove();
+
+  /*
+   * Stacks' "two columns" is a layout stack, so flattening it prints the left
+   * column and then the right — right for a sidebar, wrong for a table. Two of
+   * these rows are tables drawn as columns: one whose left column is nothing
+   * but labels ("Play:", "○ 1956:"), and one whose columns are equal-length
+   * lists under a bold heading each ("Character" / "Actor"). 187 rows across
+   * the career section, where flattening printed all seven labels and then all
+   * seven values, and paired no character with an actor.
+   *
+   * Retagged, not rewritten, so the rest of clean() still runs over the
+   * contents. `blocksOf` zips the columns back into rows.
+   */
+  /* Innermost rows first, then out: a credit page nests its data sheet and its
+     cast list inside one outer row, and the cast-size table is three columns
+     built as two rows deep. An outer pairing can only be counted once the
+     inner table is a column of rows, and retagging takes a row out of the
+     `div.s3_row` set it is chosen from. */
+  for (let paired = true; paired; ) {
+    paired = false;
+    for (const row of content.find('div.s3_row').toArray()) {
+      if ($(row).find('div.s3_row').length) {
+        continue;
+      }
+      const cols = $(row).children('.s3_column').toArray();
+      if (cols.length !== 2) {
+        continue;
+      }
+      const [left, right] = cols.map((col) => brLines($, col));
+      if (left.length < 3 || left.length !== right.length) {
+        continue;
+      }
+      const labelled = left.every((line) => line.text.endsWith(':'));
+      const headed =
+        left[0].bold &&
+        right[0].bold &&
+        ![...left.slice(1), ...right.slice(1)].some((line) => line.bold);
+      if (!labelled && !headed) {
+        continue;
+      }
+      row.tagName = 'dl';
+      cols[0].tagName = 'dt';
+      cols[1].tagName = 'dd';
+      paired = true;
+    }
+  }
 
   // Pull-out boxes ("Behind The Scenes: …") become semantic asides. The box is
   // the inner `*_float` div — its parent stack also holds the page's main flow.
@@ -229,15 +327,21 @@ function clean($) {
 }
 
 const PARA_BREAK = /((?:<br>\s*){2,})/;
+const LINE_BREAK = /((?:<br>\s*)+)/;
 
 /**
  * Emphasis markers must hug their text (`*foo *bar` is not italic) and must not
  * straddle a line or paragraph break, or the markers end up unbalanced.
+ *
+ * A break of either length ends the run: Stacks writes a whole bold list as one
+ * span, and `**a<br>b**` puts an opening marker on one line and its closing
+ * marker on the next, which is nineteen years of the careers timeline in a
+ * single unclosed bold run.
  */
 function emphasise(inner, marker) {
-  if (PARA_BREAK.test(inner)) {
+  if (LINE_BREAK.test(inner)) {
     return inner
-      .split(PARA_BREAK)
+      .split(LINE_BREAK)
       .map((part, i) => (i % 2 ? part : emphasise(part, marker)))
       .join('');
   }
@@ -257,6 +361,33 @@ const escapeMd = (text) =>
     .replace(/\s+/g, ' ')
     .replace(/([\\`*[\]<>])/g, '\\$1');
 
+/**
+ * The rows of a table clean() found drawn as two columns, one markdown line
+ * each: `**label** value`, which is how the archive writes a data sheet when it
+ * does not reach for columns — and reads down a phone, which two columns of
+ * names never did.
+ */
+function zipRows($, node, links) {
+  const [labels, values] = ['dt', 'dd'].map((part) =>
+    inlineMd($, $(node).children(part).get(0), links)
+      .split('<br>')
+      .map((line) => line.trim())
+      .filter(Boolean),
+  );
+  /* clean() counted the rows in the DOM and a cell can still empty between
+     there and here — an image that resolves to nothing, a link whose text was
+     only whitespace. Walk the longer column so no cell is dropped. */
+  return Array.from(
+    { length: Math.max(labels.length, values.length) },
+    (_, i) => {
+      const label = labels[i];
+      const bold =
+        !label || /^\*\*[^*]+\*\*$/.test(label) ? label : `**${label}**`;
+      return [bold, values[i]].filter(Boolean).join(' ');
+    },
+  );
+}
+
 /** Serialises one node, keeping `<br>` as a marker for the block split. */
 function inlineNode($, n, links) {
   if (n.type === 'text') {
@@ -268,6 +399,10 @@ function inlineNode($, n, links) {
   switch (n.tagName) {
     case 'br':
       return '<br>';
+    /* A table nested inside another table's cell: its rows become the cell's
+       lines, so the column enclosing it pairs against them one for one. */
+    case 'dl':
+      return zipRows($, n, links).join('<br>');
     case 'em':
     case 'i':
       return emphasise(inlineMd($, n, links), '*');
@@ -347,6 +482,13 @@ function blocksOf($, root, links) {
     } else if (tag === 'aside') {
       flush();
       blocks.push({ type: 'aside', blocks: blocksOf($, node, links) });
+    } else if (tag === 'dl') {
+      flush();
+      blocks.push({
+        type: 'p',
+        sheet: true,
+        text: zipRows($, node, links).join('  \n'),
+      });
     } else if (tag === 'img') {
       flush();
       const src = links.image($(node).attr('src'));
@@ -381,9 +523,14 @@ const linkText = (block) =>
     .join('')
     .replace(/\([^)]*\)/g, '').length;
 
-/** A paragraph that is almost entirely links is the old sibling-nav, not prose. */
+/**
+ * A paragraph that is almost entirely links is the old sibling-nav, not prose —
+ * unless it is a zipped data sheet, where every value being a link to the play
+ * or the venue it names is the sheet doing its job.
+ */
 const isNavBlock = (block) =>
   block.type === 'p' &&
+  !block.sheet &&
   (block.text.match(/\]\(/g) || []).length >= 2 &&
   linkText(block) / Math.max(block.text.replace(/\([^)]*\)/g, '').length, 1) >
     0.6;

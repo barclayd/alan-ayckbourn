@@ -15,10 +15,10 @@ Some of the solutions to this challenge can be found on this page. Unfortunately
 
 **Note: as of July 2026, drawings of the original production have been found and this article will be updated to reflect them in the near future.**
 
-*“The lights come up on the main set to reveal two living rooms. Not a composite setting but with the two rooms contained and overlapping in the same area. Only the furnishings themselves, both in colour and style, indicate clearly which belongs to which room. Also, perhaps, a certain lighting emphasis from time to time.  
-The FOSTERS’ (FIONA and FRANK'S) is smart period reproduction - A settee, matching armchair and a small coffee table.  
-The PHILLIPS’ (TERESA and BOB'S) has identical items, but more modern trendy and badly looked after.  
-Common to both rooms, a sideboard. At one end of this the FOSTERS’ drinks are arranged. At the other, the PHILLIPS’ muddle.”*
+*“The lights come up on the main set to reveal two living rooms. Not a composite setting but with the two rooms contained and overlapping in the same area. Only the furnishings themselves, both in colour and style, indicate clearly which belongs to which room. Also, perhaps, a certain lighting emphasis from time to time.*  
+*The FOSTERS’ (FIONA and FRANK'S) is smart period reproduction - A settee, matching armchair and a small coffee table.*  
+*The PHILLIPS’ (TERESA and BOB'S) has identical items, but more modern trendy and badly looked after.*  
+*Common to both rooms, a sideboard. At one end of this the FOSTERS’ drinks are arranged. At the other, the PHILLIPS’ muddle.”*
 
 Sadly, there are no clear photographs of the set either, but a picture exists of the dinner sequence (fig.1) which shows how the table was laid out in the original production. Descriptions of the set from contemporary reviews do suggest that there was more split furniture (furniture which contained elements of both households) than was found in subsequent productions, but without more detailed plans or images, it is difficult to substantiate this.
 

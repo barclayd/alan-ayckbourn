@@ -8,32 +8,32 @@ order: 454
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**A.R. Gurney  
+**Venue:**  
+**Location:**  
+**Staging:**A.R. Gurney  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**24 October 1984  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**24 October 1984  
 24 October 1984  
 17 November 1984
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:**
+**Director:**  
+**Lighting:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Francis Lynch  
 Janet Scarfe
 

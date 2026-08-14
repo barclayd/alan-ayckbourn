@@ -18,16 +18,16 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Duration:** 90mins  
 **Production:** ATV
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Design  
-Music  
-Associate producer  
-Executive producer  
-MCC Cricket Advisor**
+**Digital:** Not available**Director**  
+**Design**  
+**Music**  
+**Associate producer**  
+**Executive producer**  
+**MCC Cricket Advisor**
 
 **Character**  
 Leonard  

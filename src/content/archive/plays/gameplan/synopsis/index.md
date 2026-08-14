@@ -15,8 +15,8 @@ play: "gameplan"
 ### Characters
 
 ○ Sorrel Saxon *(Schoolgirl, 16)*  
-○ Lynette Saxon *(Her mother, former business  
-woman, 40)*  
+○ Lynette Saxon *(Her mother, former business*  
+*woman, 40)*  
 ○ Kelly Butcher *(Sorrel's friend, schoolgirl, 16)*  
 ○ Leo Tyler *(Retired dry cleaner, 40s)*  
 ○ Dan Endicott *(Police detective sergeant, 40s)*  

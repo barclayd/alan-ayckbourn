@@ -8,32 +8,32 @@ order: 470
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Robert Bolt  
+**Venue:**  
+**Location:**  
+**Staging:**Robert Bolt  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**8 November 1977  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**8 November 1977  
 9 November 1977  
 3 December 1977
 
 ### Company Details
 
-**Director:  
-Design:  
-Costume Design:**
+**Director:**  
+**Design:**  
+**Costume Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Holt  
 David Harvey-Jones
 

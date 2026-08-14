@@ -10,8 +10,8 @@ order: 631
 
 **Author:**
 
-**Broadcast:  
-Channel:**Edward Crowley
+**Broadcast:**  
+**Channel:**Edward Crowley
 
 18 June 1969 @ 8.15pm  
 BBC Radio 2**Director:**Alan Ayckbourn**Character**  

@@ -64,8 +64,8 @@ BBC Radio 4: 31 December
 
 ![](./_images/stacks-image-8d4a832.jpg)
 
-*Alan Ayckbourn during rehearsals for Family Album  
-© Tony Bartholomew*
+*Alan Ayckbourn during rehearsals for Family Album*  
+*© Tony Bartholomew*
 
 ### Quotes
 

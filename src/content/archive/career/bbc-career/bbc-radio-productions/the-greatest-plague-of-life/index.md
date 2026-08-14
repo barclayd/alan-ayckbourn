@@ -8,18 +8,18 @@ order: 632
 
 ### Production Details
 
-**Author:  
-Adaptor:**
+**Author:**  
+**Adaptor:**
 
-**Broadcast from:  
-Channel:  
-Episodes:**The Brothers Mayhew  
+**Broadcast from:**  
+**Channel:**  
+**Episodes:**The Brothers Mayhew  
 Brian Morris
 
 21 September 1970 @ 4.30pm  
 BBC Radio 4  
-6**Director:  
-Music:**Alan Ayckbourn  
+6**Director:**  
+**Music:**Alan Ayckbourn  
 Trevor Holroyd**Character**  
 Reader**Actor**  
 Daphne Oxenford

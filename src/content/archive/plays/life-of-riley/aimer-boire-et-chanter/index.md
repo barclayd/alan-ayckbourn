@@ -22,15 +22,15 @@ play: "life-of-riley"
 **Production:** France 2 Cinéma  
 **Production:** Solivagus
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** 2015 (available)  
 **Blu-ray:** 2015 (available)  
 **Digital:** 2015 (available)**Director**  
-**Adaptation  
-Photography  
-Music  
-Sound Design**  
+**Adaptation**  
+**Photography**  
+**Music**  
+**Sound Design**  
 **Production Design**
 
 **Character**  

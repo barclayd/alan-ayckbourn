@@ -23,8 +23,8 @@ play: "mr-as-amazing-maze-plays"
 
 </aside>
 
-*“I immensely enjoy writing plays for children, or really what I prefer to call the 'family' audience, because it's probably as hard, if not harder, than writing for adults.”  
-Alan Ayckbourn*
+*“I immensely enjoy writing plays for children, or really what I prefer to call the 'family' audience, because it's probably as hard, if not harder, than writing for adults.”*  
+*Alan Ayckbourn*
 
 One of the most significant, yet frequently ignored, strands of Alan Ayckbourn’s writing is his plays for children and young people. Since 1988, these ‘family’ plays have become an important aspect of his writing and the author treats them as seriously as any of his ‘adult’ plays and draws no distinction between them.
 

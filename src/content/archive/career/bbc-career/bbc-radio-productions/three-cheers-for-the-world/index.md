@@ -10,8 +10,8 @@ order: 663
 
 **Author:**
 
-**Broadcast:  
-Channel:**Brian Morris
+**Broadcast:**  
+**Channel:**Brian Morris
 
 31 January 1968 @ 3pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

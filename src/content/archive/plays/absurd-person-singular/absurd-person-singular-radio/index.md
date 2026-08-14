@@ -14,13 +14,13 @@ play: "absurd-person-singular"
 
 **Production:** BBC
 
-**Availability  
-Streaming:** BBC Sounds (2024)  
+**Availability**  
+**Streaming:** BBC Sounds (2024)  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director:  
-Adaptor:  
-Producer:**
+**Digital:** Not available**Director:**  
+**Adaptor:**  
+**Producer:**
 
 **Character**  
 Sidney Hopcroft  
@@ -53,12 +53,12 @@ Sheila Butler
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Streaming:** Available on BBC iPlayer until August 2027**Director:  
-Designer:**  
+**Streaming:** Available on BBC iPlayer until August 2027**Director:**  
+**Designer:**  
 **Lighting:**  
 **Sound:**  
 **Graphic Design:**  

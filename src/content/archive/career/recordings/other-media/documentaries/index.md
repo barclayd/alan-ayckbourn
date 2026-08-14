@@ -386,10 +386,10 @@ Yorkshire
 *Way Upstream*  
 Career  
 Behind the scenes at SJT  
-*The 7 Deadly Virtues  
-A Chorus Of Disapproval  
-Intimate Exchanges  
-Intimate Exchanges*  
+*The 7 Deadly Virtues*  
+*A Chorus Of Disapproval*  
+*Intimate Exchanges*  
+*Intimate Exchanges*  
 Career  
 Career  
 25th anniversary of first play  
@@ -428,11 +428,11 @@ Stephen Joseph Theatre
 Stephen Joseph Theatre  
 Stephen Joseph Theatre  
 Playwriting  
-*Comic Potential  
-Virtual Reality*  
-*House & Garden  
-House & Garden  
-House & Garden*  
+*Comic Potential*  
+*Virtual Reality*  
+*House & Garden*  
+*House & Garden*  
+*House & Garden*  
 Career  
 Career  
 Career  
@@ -440,8 +440,8 @@ Scarborough
 Directing masterclass  
 *GamePlan*  
 Discussing *The Empty Space* 30 years on  
-*The Jollies  
-Sugar Daddies*  
+*The Jollies*  
+*Sugar Daddies*  
 *Drowning On Dry Land*  
 Stephen Joseph Theatre  
 Career  
@@ -465,8 +465,8 @@ Career at BBC
 Career  
 Life  
 *Roundelay*  
-Career / *Roundelay  
-The Karaoke Theatre Company*  
+Career / *Roundelay*  
+*The Karaoke Theatre Company*  
 Career  
 Sir Peter Hall  
 The actress Elisabeth Sladen  

@@ -10,8 +10,8 @@ order: 617
 
 **Author:**
 
-**Broadcast:  
-Channel:**Roy Clarke
+**Broadcast:**  
+**Channel:**Roy Clarke
 
 22 June 1966 @ 8.40pm  
 BBC Light Programme**Director:**Alan Ayckbourn**Character**  

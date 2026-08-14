@@ -8,27 +8,17 @@ order: 550
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Then...  
+**Author:** David Campton  
+**First performance:** February 1960  
+**Final performance:** To be confirmed  
+**Venue:** Tour  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Then...  
-David Campton
-
-February 1960  
-To be confirmed  
-Tour  
-Round
-
-Stephen Joseph   **Character**  
-Mr Phythick  
-Miss Europe **Actor**  
-Alan Ayckbourn  
-Dona Martyn
+**Character** **Actor**  
+**Mr Phythick** Alan Ayckbourn  
+**Miss Europe** Dona Martyn
 
 ### Quotes & Notes
 

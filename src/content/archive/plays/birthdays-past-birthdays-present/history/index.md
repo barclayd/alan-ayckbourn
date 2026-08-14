@@ -20,8 +20,8 @@ Written during October 2018, *Birthdays Past, Birthdays Present* was not initial
 
 <aside>
 
-**Behind The Scenes: Like A Virgin  
-Spoilers:** The actor Jamie Baughan - who played Adrian in the world premiere - felt his character was tremendously sad and lonely. On first experience, this does not necessarily seem obvious, but if the play is run 'backwards' (i.e. time runs normally), it becomes apparent Adrian is a lonely, sad and frustrated man. It's also arguable that this 'Lothario' has never had sex - or at least certainly not satisfying sex - during his entire life and his single longest relationship is a marriage which has essentially been doomed from the wedding night!
+**Behind The Scenes: Like A Virgin**  
+**Spoilers:** The actor Jamie Baughan - who played Adrian in the world premiere - felt his character was tremendously sad and lonely. On first experience, this does not necessarily seem obvious, but if the play is run 'backwards' (i.e. time runs normally), it becomes apparent Adrian is a lonely, sad and frustrated man. It's also arguable that this 'Lothario' has never had sex - or at least certainly not satisfying sex - during his entire life and his single longest relationship is a marriage which has essentially been doomed from the wedding night!
 
 </aside>
 

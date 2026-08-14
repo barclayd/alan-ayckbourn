@@ -8,19 +8,19 @@ order: 489
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Leonard Barras  
+**Venue:**  
+**Location:**  
+**Staging:**Leonard Barras  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**16 July 1970  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**16 July 1970  
 16 July 1970  
 2 September 1970
 
@@ -28,10 +28,10 @@ Final performance:**16 July 1970
 
 **Director:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn
 
 Philip Randell  
 Graham Phoenix  

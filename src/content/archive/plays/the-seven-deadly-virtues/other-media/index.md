@@ -14,11 +14,11 @@ TSJTITR002
 
 **Company:** Stephen Joseph Theatre In The Round
 
-**Availability  
-Cassette:** 1984 (deleted)  
+**Availability**  
+**Cassette:** 1984 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Actor**  
 Lavinia Bertram  
@@ -42,8 +42,8 @@ Paul Todd (synthesiser)
 
 **Company:** BBC North
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Actor**  

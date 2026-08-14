@@ -82,7 +82,7 @@ Alan has always been grateful for the many opportunities Peter Hall and the Nati
 
 ![](./_images/stacks-image-c2a94f0.jpg)
 
-*Peter Hall & Alan Ayckbourn at the National Theatre in 1977.  
-© National Theatre*
+*Peter Hall & Alan Ayckbourn at the National Theatre in 1977.*  
+*© National Theatre*
 
 [![](./_images/stacks-image-df3e164.jpg)](/plays/bedroom-farce)    [![](./_images/stacks-image-64bafe8.jpg)](/plays/sisterly-feelings)    [![](./_images/stacks-image-a5a4302.jpg)](/plays/way-upstream)    [![](./_images/stacks-image-5c23b64.jpg)](/plays/a-chorus-of-disapproval)    [![](./_images/stacks-image-7be550d.jpg)](/plays/a-small-family-business)    [![](./_images/stacks-image-888f4ec.jpg)](/plays/mr-as-amazing-maze-plays)    [![](./_images/stacks-image-96f7bef.jpg)](/plays/invisible-friends)    [![](./_images/stacks-image-9e83421.jpg)](/plays/house-and)    [![](./_images/stacks-image-9b46370.jpg)](/plays/seasons-greetings)    [![](./_images/stacks-image-bd544a7.jpg)](/plays/a-small-family-business)

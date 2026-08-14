@@ -10,8 +10,8 @@ order: 643
 
 **Author:**
 
-**Broadcast:  
-Channel:**Peter Russell with Alan Rothwell
+**Broadcast:**  
+**Channel:**Peter Russell with Alan Rothwell
 
 22 October 1966 @ 2.15pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

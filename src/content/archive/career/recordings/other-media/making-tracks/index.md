@@ -18,11 +18,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 
 **Production:** SJTITR
 
-**Availability  
-Cassette:** 1981 (deleted)  
+**Availability**  
+**Cassette:** 1981 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Rog, a sound engineer  

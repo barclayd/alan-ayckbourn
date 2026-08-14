@@ -10,12 +10,12 @@ order: 639
 
 **Author:**
 
-**Broadcast:  
-Channel:**Denise Robertson
+**Broadcast:**  
+**Channel:**Denise Robertson
 
 14 September 1970 @ 11.30am  
-BBC Radio 4**Director:  
-Music:**Alan Ayckbourn  
+BBC Radio 4**Director:**  
+**Music:**Alan Ayckbourn  
 Trevor Holroyd**Character**  
 Role not known  
 Role not known  

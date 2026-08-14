@@ -8,33 +8,33 @@ order: 424
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Derrick Goodwin  
+**Venue:**  
+**Location:**  
+**Staging:**Derrick Goodwin  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**8 August 1990  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**8 August 1990  
 13 August 1990  
 22 September 1990
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Roger Glossop
 
 Richard Pattison  

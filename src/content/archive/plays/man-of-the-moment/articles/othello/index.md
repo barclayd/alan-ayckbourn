@@ -11,8 +11,8 @@ play: "man-of-the-moment"
 
 ### Inspirations
 
-*“I knew it \[Man Of The Moment\] would eventually play in tandem with Othello but I wasn’t trying to write my version of Shakespeare which might not quite stand up. Othello is a play about jealousy and the fall of a hero: my play is about the public taste for anti-heroes.”  
-Alan Ayckbourn in The Guardian, 8 August 1988*
+*“I knew it \[Man Of The Moment\] would eventually play in tandem with Othello but I wasn’t trying to write my version of Shakespeare which might not quite stand up. Othello is a play about jealousy and the fall of a hero: my play is about the public taste for anti-heroes.”*  
+*Alan Ayckbourn in The Guardian, 8 August 1988*
 
 One of the more obscure footnotes of Alan Ayckbourn’s career is the rarely reported connection between *Man Of The Moment* and Shakespeare’s *Othello*, as *Man Of The Moment* was conceived with *Othello* in mind.
 
@@ -30,8 +30,8 @@ All this was largely irrelevant though as by March 1989, the entire project had 
 
 ### The Great Train Robbery
 
-*“The interesting footnote to the story behind the play is that the man who coshed the driver of the train, Buster Edwards, indeed became - in a much smaller way - a celebrity. There was a film made about him - starring Phil Collins; he became a flower-seller at Waterloo Station, and people used to come and have a look at him: ‘See, that's the train robber’. He was a minor celebrity. But he hanged himself only a year or so ago, it's a very strange and sad end to the story. Heaven knows if it was in any way connected, I don't know. The moralist in me would try and link it. But I really know none of the robbers, I've used the events only to inspire a story which in the end has no reference to the actual robbery at all.”  
-Alan Ayckbourn, 1996*
+*“The interesting footnote to the story behind the play is that the man who coshed the driver of the train, Buster Edwards, indeed became - in a much smaller way - a celebrity. There was a film made about him - starring Phil Collins; he became a flower-seller at Waterloo Station, and people used to come and have a look at him: ‘See, that's the train robber’. He was a minor celebrity. But he hanged himself only a year or so ago, it's a very strange and sad end to the story. Heaven knows if it was in any way connected, I don't know. The moralist in me would try and link it. But I really know none of the robbers, I've used the events only to inspire a story which in the end has no reference to the actual robbery at all.”*  
+*Alan Ayckbourn, 1996*
 
 *Man Of The Moment* was partly inspired by the Great Train Robbery; one of the most infamous heists in British history and which made celebrities of several of the gang members.
 

@@ -14,7 +14,14 @@ facts:
   Final performance: "29 November 1975"
   Venue: "The Lecture Room, Theatre in the Round at the Library Theatre, Scarborough"
   Staging: "Thrust"
-  Directors: "Bob Eaton & Polly Warren  Character"
+  Directors: "Bob Eaton & Polly Warren"
+  Character: "Actor"
+  Dracula: "Stephen Mallatratt"
+  Squelch: "Malcolm Hebden"
+  Seth: "Bob Eaton"
+  Martha: "Alison Skilbeck"
+  Deidre: "Polly Warren"
+  Note: "*Dracula* was presented as part of the revue *What The Devil!*"
 ---
 
 **Published / Available to Stage:** No
@@ -36,19 +43,6 @@ Intriguingly in 2003, the song was published as part of a 'festschrift' for Albe
 It was largely believed this was the only production of *Dracula*, but in 1992 it formed part of another revue - again directed by Bob Eaton - at the New Victoria Theatre, Newcastle-under-Lyme. *Dracula* was revived as part of *The Night Before The Morning After Show*, which ran at the venue between January and March 1992.
 
 The one act play also provided the inspiration for *Horror Story*, one of the pieces presented within Alan Ayckbourn's ***[The Karaoke Theatre Company](/plays/the-karaoke-theatre-company)***, first presented at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, in 2016. Although not a direct copy of the original piece, it is very much inspired by *Dracula* and includes the same ending with the \[spoilers!\] 'heroine' unexpectedly being a werewolf.
-
-### Premiere Production Details (1975)
-
-Dracula  
-Squelch  
-Seth  
-Martha  
-Deidre **Actor**  
-Stephen Mallatratt  
-Malcolm Hebden  
-Bob Eaton  
-Alison Skilbeck  
-Polly Warren  **Note:** *Dracula* was presented as part of the revue *What The Devil!*
 
 ### Further Reading
 

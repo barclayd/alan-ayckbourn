@@ -10,8 +10,8 @@ order: 674
 
 **Author:**
 
-**Broadcast:  
-Channel:**Roy Clarke
+**Broadcast:**  
+**Channel:**Roy Clarke
 
 7 September 1968 @ 2pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

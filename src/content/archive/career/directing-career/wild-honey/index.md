@@ -8,31 +8,31 @@ order: 505
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Michael Frayn  
+**Venue:**  
+**Location:**  
+**Staging:**Michael Frayn  
 No
 
 Stephen Joseph Theatre  
 The Round  
-Round**First performance:  
-Opening night:  
-Final performance:**5 June 1996  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**5 June 1996  
 11 June 1996  
 6 July 1996
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**Alan Ayckbourn  
 Paul Towson  
 Jan Bee Brown  
 John Pattison

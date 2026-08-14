@@ -19,8 +19,8 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 
@@ -53,8 +53,8 @@ Jamie Glover
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

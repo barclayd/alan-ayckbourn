@@ -8,35 +8,13 @@ order: 573
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Birds And The Well-Wishers  
-William Norfolk
-
-5 July 1962  
-11 July 1962  
-The Library Theatre, Scarborough  
-Round
-
-Peter Cheeseman   **Character**  
-Mrs Trigger  
-Vi  
-Maisie  
-Fred  
-Bob  
-Stage Manager **Actor**  
-Heather Stoney  
-Marie Adams  
-Elizabeth Bell  
-Alan Ayckbourn  
-Richard Gill  
-Arnold Beck
+****Play:** The Birds And The Well-Wishers** **Character** **Actor**  
+****Author:** William Norfolk** **Mrs Trigger** Heather Stoney  
+****First performance:** 5 July 1962** **Vi** Marie Adams  
+****Final performance:** 11 July 1962** **Maisie** Elizabeth Bell  
+****Venue:** The Library Theatre, Scarborough** **Fred** Alan Ayckbourn  
+****Staging:** Round** **Bob** Richard Gill  
+****Director:** Peter Cheeseman** **Stage Manager** Arnold Beck
 
 ### Quotes & Notes
 

@@ -10,8 +10,8 @@ This page contains details of publications & articles relating to *A Word From O
 ### Published Editions
 
 **A Word From Our Sponsor** (click **[here](http://www.concordtheatricals.co.uk/s/11353/a-word-from-our-sponsor/)** to buy)  
-*Samuel French Ltd, 1996, ISBN 057081050  
-(The vocal score can also be hired from Samuel French Ltd)*
+*Samuel French Ltd, 1996, ISBN 057081050*  
+*(The vocal score can also be hired from Samuel French Ltd)*
 
 ### Reference Books
 

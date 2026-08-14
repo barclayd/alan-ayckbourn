@@ -18,17 +18,14 @@ play: "standing-room-only"
 **Director:** Stephen Joseph  
 **Costumes:** Christine Roland  
 **Design:** Stephen Joseph  
-**Music for the *Busman’s Anthem*:** Philip Clifford  **Character**  
-Neeta  
-Nemo  
-Cora  
-Pa  
-John **Actor**  
-Rosamund Dickson  
-David Jarrett  
-Hazel Burt  
-Stanley Page  
-Alan Ayckbourn
+**Music for the *Busman’s Anthem*:** Philip Clifford
+
+**Character** **Actor**  
+**Neeta** Rosamund Dickson  
+**Nemo** David Jarrett  
+**Cora** Hazel Burt  
+**Pa** Stanley Page  
+**John** Alan Ayckbourn
 
 ### Revival (1963)
 
@@ -37,19 +34,15 @@ Alan Ayckbourn
 **Venue:** Victoria Theatre, Stoke-on-Trent  
 **Staging:** Round
 
-**Director:** Alan Ayckbourn  **Character**  
-Neeta  
-Nemo  
-Cora  
-Pa  
-John  
-Ellie **Actor**  
-Elizabeth Bell  
-David Halliwell  
-Caroline Smith  
-Stanley Page  
-Peter King  
-Heather Stoney
+**Director:** Alan Ayckbourn
+
+**Character** **Actor**  
+**Neeta** Elizabeth Bell  
+**Nemo** David Halliwell  
+**Cora** Caroline Smith  
+**Pa** Stanley Page  
+**John** Peter King  
+**Ellie** Heather Stoney
 
 ### London Premiere (1966)
 
@@ -58,19 +51,17 @@ Heather Stoney
 **Company:** Cygnet Productions
 
 **Director:** Peter Bevis  
-**Design:** Ariane Gastambide  **Character**  
-Pa  
-Cora  
-Nita  
-Ellie  
-Paul  
-John **Actor**  
-Alan Gerrard  
-Heather Stoney  
-Carol Mauray  
-Elsie Winsor  
-Ken Duncan  
-Jonathan Fryer  **Note:** In 2008, it was discovered *Standing Room Only* had been performed professionally for one night in 1966 in London; details of this production had previously been unrecorded. The company, Cygnet Productions - commissioned by the British Council - staged professional productions for foreign students highlighting the best of British drama.
+**Design:** Ariane Gastambide
+
+**Character** **Actor**  
+**Pa** Alan Gerrard  
+**Cora** Heather Stoney  
+**Nita** Carol Mauray  
+**Ellie** Elsie Winsor  
+**Paul** Ken Duncan  
+**John** Jonathan Fryer
+
+**Note:** In 2008, it was discovered *Standing Room Only* had been performed professionally for one night in 1966 in London; details of this production had previously been unrecorded. The company, Cygnet Productions - commissioned by the British Council - staged professional productions for foreign students highlighting the best of British drama.
 
 ### Rehearsed Reading (2019)
 
@@ -81,16 +72,14 @@ Jonathan Fryer  **Note:** In 2008, it was discovered *Standing Room Only* had be
 **Director:** John Cotgrave  
 **Design:** Richard McArtney  
 **Music:** Paul Chamberlain  
-**Advisor:** Simon Murgatroyd  **Character**  
-Pa  
-Cora  
-Nita  
-Ellie  
-Paul  
-John **Actor**  
-Leslie Davidoff  
-Leah Grey-Scaife  
-Hannah Sims  
-Maria Sykes  
-Darren Jeffries  
-Joe Geddes  **Note:** In 2019, Alan Ayckbourn gave permission for Dick & Lottie theatre company to give a one-off professional rehearsed reading of *Standing Room Only* to mark his 80th birthday, his 60th playwriting anniversary and the 15th anniversary of the company. It was preceded by a talk by Alan Ayckbourn's Archivist, Simon Murgatroyd.*All research for this page by Simon Murgatroyd.*
+**Advisor:** Simon Murgatroyd
+
+**Character** **Actor**  
+**Pa** Leslie Davidoff  
+**Cora** Leah Grey-Scaife  
+**Nita** Hannah Sims  
+**Ellie** Maria Sykes  
+**Paul** Darren Jeffries  
+**John** Joe Geddes
+
+**Note:** In 2019, Alan Ayckbourn gave permission for Dick & Lottie theatre company to give a one-off professional rehearsed reading of *Standing Room Only* to mark his 80th birthday, his 60th playwriting anniversary and the 15th anniversary of the company. It was preceded by a talk by Alan Ayckbourn's Archivist, Simon Murgatroyd.*All research for this page by Simon Murgatroyd.*

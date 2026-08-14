@@ -8,29 +8,29 @@ order: 419
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Michael Fosbrook  
+**Venue:**  
+**Location:**  
+**Staging:**Michael Fosbrook  
 Yes
 
 Stephen Joseph Theatre  
 The Restaurant  
-End-stage**First performance:  
-Opening night:  
-Final performance:**12 June 1998  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**12 June 1998  
 12 June 1998  
 11 August 1998
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**Alan Ayckbourn  
 Pip Leckenby
 
 Dawn Erica Dyson  

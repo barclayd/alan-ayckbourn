@@ -8,31 +8,31 @@ order: 420
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Robert Shearman  
+**Venue:**  
+**Location:**  
+**Staging:**Robert Shearman  
 Yes
 
 Stephen Joseph Theatre  
 The Round  
-Round**First performance:  
-Opening night:  
-Final performance:**20 August 1997  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**20 August 1997  
 26 August 1997  
 20 September 1997
 
 ### Company Details
 
-**Director:  
-Design:  
-Lighting:**
+**Director:**  
+**Design:**  
+**Lighting:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Holt  
 Paul Towson
 

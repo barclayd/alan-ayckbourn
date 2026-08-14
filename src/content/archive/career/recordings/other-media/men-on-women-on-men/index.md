@@ -18,11 +18,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 
 **Production:** SJTITR
 
-**Availability  
-Cassette:** 1978 (deleted)  
+**Availability**  
+**Cassette:** 1978 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Actor**  
 Malcolm Hebden  
@@ -44,15 +44,15 @@ Paul Todd (piano / percussion)
 
 **Production:** BBC North
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Musical Director  
-Design  
-Arrangements  
-Arrangements**
+**Digital:** Not available**Director**  
+**Musical Director**  
+**Design**  
+**Arrangements**  
+**Arrangements**
 
 **Actor**  
 Malcolm Hebden  

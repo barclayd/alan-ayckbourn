@@ -24,19 +24,19 @@ play: "private-fears-in-public-places"
 **Production:** SFP Cinéma  
 **Production:** BIM Distribuzione
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** 2007 (available)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Photography  
-Matte Painting  
-Editing  
-Design  
-Costumes  
-Music  
-Sound**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Photography**  
+**Matte Painting**  
+**Editing**  
+**Design**  
+**Costumes**  
+**Music**  
+**Sound**
 
 **Character**  
 Charlotte  

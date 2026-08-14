@@ -23,5 +23,5 @@ facts:
 
 ![](./_images/stacks-image-c07afcd.jpg)
 
-*The Standing Room Only section of this website is dedicated to  
-Dick & Lottie theatre company & Simon Murgatroyd.*
+*The Standing Room Only section of this website is dedicated to*  
+*Dick & Lottie theatre company & Simon Murgatroyd.*

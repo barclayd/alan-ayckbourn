@@ -8,31 +8,31 @@ order: 473
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Stephen Mallatratt  
+**Venue:**  
+**Location:**  
+**Staging:**Stephen Mallatratt  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**25 August 1976  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**25 August 1976  
 25 August 1976  
 8 September 1976
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager**Alan Ayckbourn  
+**Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager**Alan Ayckbourn  
 Helga Wood
 
 Simon Somers  

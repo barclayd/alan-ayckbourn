@@ -8,53 +8,30 @@ order: 584
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** A Man For All Seasons  
+**Author:** Robert Bolt  
+**First performance:** 13 May 1963  
+**Final performance:** 1 June 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman  
+**Music:** Gilbert Kennedy
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Music:** A Man For All Seasons  
-Robert Bolt
-
-13 May 1963  
-1 June 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman  
-Gilbert Kennedy   **Character**  
-The Common Man  
-Thomas More  
-Richard Rich  
-The Duke  
-Alice More  
-Margaret More  
-The Cardinal  
-Thomas Cromwell  
-The Ambassador  
-His Attendent  
-William Roper  
-The King  
-A Woman  
-The Archbishop **Actor**  
-David Halliwell  
-Alan Ayckbourn  
-David Jarrett  
-Dan Cornwall  
-Elizabeth Bell  
-Heather Stoney  
-Stanley Stewart  
-Stanley Page  
-John Powrie  
-Arnold Beck  
-Norman Coburn  
-Peter King  
-Caroline Smith  
-Stanley Stewart
+**Character** **Actor**  
+**The Common Man** David Halliwell  
+**Thomas More** Alan Ayckbourn  
+**Richard Rich** David Jarrett  
+**The Duke** Dan Cornwall  
+**Alice More** Elizabeth Bell  
+**Margaret More** Heather Stoney  
+**The Cardinal** Stanley Stewart  
+**Thomas Cromwell** Stanley Page  
+**The Ambassador** John Powrie  
+**His Attendent** Arnold Beck  
+**William Roper** Norman Coburn  
+**The King** Peter King  
+**A Woman** Caroline Smith  
+**The Archbishop** Stanley Stewart
 
 ### Quotes & Notes
 

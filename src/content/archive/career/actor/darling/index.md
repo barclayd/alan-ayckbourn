@@ -8,39 +8,23 @@ order: 538
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Darling  
+**Author:** Andre Roussin  
+**First performance:** 20 January 1958  
+**Venue:** Oxford Playhouse  
+**Staging:** End-stage  
+**Director:** Frank Hauser  
+**Design:** Michael Richardson
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:** Darling  
-Andre Roussin
-
-20 January 1958  
-Oxford Playhouse  
-End-stage
-
-Frank Hauser  
-Michael Richardson   **Character**  
-Tinini  
-Bob  
-Simon  
-Michael  
-Aunt Edmee  
-Esther  
-Stepha  
-Mick **Actor**  
-Ann Walford  
-Christopher Hancock  
-Edgar Wreford  
-Joss Ackland  
-Winifred Evans  
-Mary Laura Wood  
-Mai Zetterling  
-Alan Ayckbourn
+**Character** **Actor**  
+**Tinini** Ann Walford  
+**Bob** Christopher Hancock  
+**Simon** Edgar Wreford  
+**Michael** Joss Ackland  
+**Aunt Edmee** Winifred Evans  
+**Esther** Mary Laura Wood  
+**Stepha** Mai Zetterling  
+**Mick** Alan Ayckbourn
 
 ### Quotes & Notes
 

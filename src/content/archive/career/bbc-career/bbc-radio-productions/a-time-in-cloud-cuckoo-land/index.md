@@ -10,8 +10,8 @@ order: 667
 
 **Author:**
 
-**Broadcast:  
-Channel:**Don Haworth
+**Broadcast:**  
+**Channel:**Don Haworth
 
 12 July 1969 @ 1.45pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

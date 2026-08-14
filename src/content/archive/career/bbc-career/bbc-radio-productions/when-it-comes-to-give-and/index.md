@@ -10,8 +10,8 @@ order: 670
 
 **Author:**
 
-**Broadcast:  
-Channel:**Pam Tickell
+**Broadcast:**  
+**Channel:**Pam Tickell
 
 13 November 1968 @ 3pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

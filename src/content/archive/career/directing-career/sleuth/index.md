@@ -8,31 +8,31 @@ order: 490
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Anthony Shaffer  
+**Venue:**  
+**Location:**  
+**Staging:**Anthony Shaffer  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**19 April 1977  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**19 April 1977  
 20 April 1977  
 31 August 1977
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Terry Brown
 
 Janet Fox  

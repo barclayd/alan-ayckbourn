@@ -8,39 +8,14 @@ order: 534
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Stage Manager:** The Ornamental Hermit  
-Catherine Prynne
-
-1 August 1957  
-6 September 1957  
-The Library Theatre, Scarborough  
-Round
-
-Rodney Wood  
-Alan Ayckbourn   **Character**  
-Bensted  
-Michael Bridges  
-Violet  
-Emma Totteridge  
-Sue  
-Lewis Finbow  
-Jack Bensted **Actor**  
-Frank Mills  
-Clive Goodwin  
-Anne Taylor  
-Betty Cardno  
-Shirley Jacobs  
-Malcolm Rogers  
-Alan Ayckbourn
+****Play:** The Ornamental Hermit** **Character** **Actor**  
+****Author:** Catherine Prynne** **Bensted** Frank Mills  
+****First performance:** 1 August 1957** **Michael Bridges** Clive Goodwin  
+****Final performance:** 6 September 1957** **Violet** Anne Taylor  
+****Venue:** The Library Theatre, Scarborough** **Emma Totteridge** Betty Cardno  
+****Staging:** Round** **Sue** Shirley Jacobs  
+****Director:** Rodney Wood** **Lewis Finbow** Malcolm Rogers  
+****Stage Manager:** Alan Ayckbourn** **Jack Bensted** Alan Ayckbourn
 
 ### Quotes & Notes
 

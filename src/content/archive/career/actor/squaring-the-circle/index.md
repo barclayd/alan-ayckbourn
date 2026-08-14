@@ -8,33 +8,20 @@ order: 546
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Squaring The Circle  
+**Author:** Valentin Kataev  
+**First performance:** 29 December 1958  
+**Final performance:** 3 January 1959  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Rodney Wood
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Squaring The Circle  
-Valentin Kataev
-
-29 December 1958  
-3 January 1959  
-The Library Theatre, Scarborough  
-Round
-
-Rodney Wood   **Character**  
-Vasya  
-Ludmilla  
-Tonya  
-Abrahm  
-Emilian **Actor**  
-David Sutton  
-Faynia Jeffery  
-Dona Martyn  
-Alan Ayckbourn  
-Rodney Wood
+**Character** **Actor**  
+**Vasya** David Sutton  
+**Ludmilla** Faynia Jeffery  
+**Tonya** Dona Martyn  
+**Abrahm** Alan Ayckbourn  
+**Emilian** Rodney Wood
 
 ### Quotes & Notes
 

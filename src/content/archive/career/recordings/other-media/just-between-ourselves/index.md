@@ -19,8 +19,8 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** YTV
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**
@@ -48,11 +48,11 @@ Constance Chapman
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Dennis  
@@ -76,8 +76,8 @@ Frances Jeater**Note:** It is believed this production was actually first broadc
 
 **Production:** LA Theatre Works
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2000 (deleted)  
 **Digital:** 2011 (available)**Director**
 
@@ -104,11 +104,11 @@ Gia Carides
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Dennis  

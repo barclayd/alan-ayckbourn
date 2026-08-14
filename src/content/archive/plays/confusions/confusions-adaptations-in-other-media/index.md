@@ -14,8 +14,8 @@ play: "confusions"
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 
@@ -38,11 +38,11 @@ Diane Bull**Notes**: Only *Mother Figure* was recorded for broadcast. It was pro
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Lucy  
@@ -82,8 +82,8 @@ Adrian Egan
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**Dan Garrett
 
@@ -98,8 +98,8 @@ No casting details known**Note:** *Confusions* was broadcast as part of the *For
 
 **Production:** BBC Pebble Mill
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

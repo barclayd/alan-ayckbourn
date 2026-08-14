@@ -8,37 +8,22 @@ order: 572
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Usher  
+**Author:** David Campton (see **notes**)  
+**First performance:** 28 June 1962  
+**Final performance:** 29 August 1962  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** David Campton
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Usher  
-David Campton (see **notes**)
-
-28 June 1962  
-29 August 1962  
-The Library Theatre, Scarborough  
-Round
-
-David Campton   **Character**  
-Roderick Usher  
-Madeline Usher  
-Edwin Allen  
-Lucy  
-Doctor  
-Oliver  
-Finn **Actor**  
-Alan Ayckbourn  
-Elizabeth Bell  
-Peter King  
-Marie Adams  
-Stanley Page  
-Arnold Beck  
-Richard Gill
+**Character** **Actor**  
+**Roderick Usher** Alan Ayckbourn  
+**Madeline Usher** Elizabeth Bell  
+**Edwin Allen** Peter King  
+**Lucy** Marie Adams  
+**Doctor** Stanley Page  
+**Oliver** Arnold Beck  
+**Finn** Richard Gill
 
 ### Quotes & Notes
 

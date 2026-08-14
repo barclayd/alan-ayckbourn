@@ -8,43 +8,25 @@ order: 575
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Death At The New Year  
+**Author:** R.G. Gregory  
+**First performance:** 13 September 1962  
+**Final performance:** 15 September 1962  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Death At The New Year  
-R.G. Gregory
-
-13 September 1962  
-15 September 1962  
-The Library Theatre, Scarborough  
-Round
-
-Peter Cheeseman   **Character**  
-Martin  
-Catherine  
-Narrator  
-Pop Singer  
-Martin's Mother  
-Martin's Stepfather  
-Officer  
-Catherine's Father  
-Medium  
-Vicar **Actor**  
-Peter King  
-Elizabeth Bell  
-Alan Ayckbourn  
-Richard Gill  
-Marie Adams  
-Alan Ayckbourn  
-Stanley Page  
-Richard Gill  
-Marie Adams  
-Stanley Page
+**Character** **Actor**  
+**Martin** Peter King  
+**Catherine** Elizabeth Bell  
+**Narrator** Alan Ayckbourn  
+**Pop Singer** Richard Gill  
+**Martin's Mother** Marie Adams  
+**Martin's Stepfather** Alan Ayckbourn  
+**Officer** Stanley Page  
+**Catherine's Father** Richard Gill  
+**Medium** Marie Adams  
+**Vicar** Stanley Page
 
 ### Quotes & Notes
 

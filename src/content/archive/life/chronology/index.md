@@ -8,8 +8,8 @@ order: 44
 
 <aside>
 
-**In-Depth  
-Click on a button**
+**In-Depth**  
+**Click on a button**
 
 ![](./_images/arrow-up.jpg)
 

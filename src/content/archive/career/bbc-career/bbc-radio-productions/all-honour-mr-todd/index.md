@@ -10,8 +10,8 @@ order: 616
 
 **Author:**
 
-**Broadcast:  
-Channel:**Peter Terson
+**Broadcast:**  
+**Channel:**Peter Terson
 
 30 January 1970 @ 8.30pm  
 BBC Radio 3**Director:**Alan Ayckbourn**Character**  

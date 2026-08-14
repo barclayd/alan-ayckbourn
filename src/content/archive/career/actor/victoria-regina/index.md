@@ -8,51 +8,29 @@ order: 561
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Victoria Regina  
+**Author:** Laurence Hausman  
+**First performance:** 12 June 1961  
+**Final performance:** 17 June 1961  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Victoria Regina  
-Laurence Hausman
-
-12 June 1961  
-17 June 1961  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Lord Conyngham  
-Archbishop of Canterbury  
-Duchess Of Kent  
-Queen Victoria  
-Second Footman  
-Lord Melbourne  
-Prince Ernest  
-Prince Albert  
-John Brown  
-Lord Beaconsfield  
-The Doctor  
-Mrs Manson  
-The Dean Of Windsor  
-A Royal Princess **Actor**  
-Alan Ayckbourn  
-David Jarrett  
-Rosamund Dickson  
-Hazel Burt  
-Philip Clifford  
-Stanley Page  
-David Jarrett  
-Alan Ayckbourn  
-David Jarrett  
-Stanley Page  
-David Campton  
-Rosamund Dickson  
-Alan Ayckbourn  
-Rosamund Dickson
+**Character** **Actor**  
+**Lord Conyngham** Alan Ayckbourn  
+**Archbishop of Canterbury** David Jarrett  
+**Duchess Of Kent** Rosamund Dickson  
+**Queen Victoria** Hazel Burt  
+**Second Footman** Philip Clifford  
+**Lord Melbourne** Stanley Page  
+**Prince Ernest** David Jarrett  
+**Prince Albert** Alan Ayckbourn  
+**John Brown** David Jarrett  
+**Lord Beaconsfield** Stanley Page  
+**The Doctor** David Campton  
+**Mrs Manson** Rosamund Dickson  
+**The Dean Of Windsor** Alan Ayckbourn  
+**A Royal Princess** Rosamund Dickson
 
 ### Quotes & Notes
 

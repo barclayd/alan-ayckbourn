@@ -11,8 +11,8 @@ play: "the-karaoke-theatre-company"
 
 ### The Karaoke Theatre Company
 
-**Simon Murgatroyd: Your latest work is called *The Karaoke Theatre Company*, what can you tell us about it?  
-Alan Ayckbourn:** *The Karaoke Theatre Company* is an idea I’ve carried around in my head for a long time and it continues in my pursuit of the idea that theatre is live - and there’s nothing more live than The Karaoke Theatre Company!  
+**Simon Murgatroyd: Your latest work is called *The Karaoke Theatre Company*, what can you tell us about it?**  
+**Alan Ayckbourn:** *The Karaoke Theatre Company* is an idea I’ve carried around in my head for a long time and it continues in my pursuit of the idea that theatre is live - and there’s nothing more live than The Karaoke Theatre Company!  
 It’s ostensibly about a small touring fringe group improvising their shows with the encouragement and participation of the audience. During the course of the evening, four short plays of varying genres are presented: a farce, a period-comedy, a sub-titled piece of BBC4 foreign drama and a full-blown gothic horror.  
 I’ve been working over the years towards defying the Stephen Joseph Theatre - and the audience - to know exactly what’s going to happen on any one night of my shows and *The Karaoke Theatre Company* is certainly never going to be same any single night.
 

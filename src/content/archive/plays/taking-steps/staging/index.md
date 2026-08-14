@@ -5,8 +5,8 @@ order: 1286
 play: "taking-steps"
 ---
 
-*"Three floors, then, linked by two flights of stairs; but to simplify - or perhaps to complicate - matters, all floors are at the same level."  
-Author’s note to Taking Steps*
+*"Three floors, then, linked by two flights of stairs; but to simplify - or perhaps to complicate - matters, all floors are at the same level."*  
+*Author’s note to Taking Steps*
 
 Ever since he began writing in 1959, the vast majority of Alan Ayckbourn’s plays have been premiered in-the-round. Most of them are conceived with this performance space in mind and undoubtedly work best in it. Of course they also generally adapt to other spaces and the majority of theatre-goers have probably only seen Ayckbourn plays in an end-stage / proscenium space.
 
@@ -18,8 +18,8 @@ This juxtaposition, a development of an idea first used by the playwright in *Ho
 
 The floor gags replace the door gags which are typical of most farces and, as a result, the floor is vital to the play. For it to work effectively, the audience has to see and comprehend the conceit of the overlaid floors. Unfortunately for most people approaching *Taking Steps*, there is no clear illustration of how this effect was achieved or even how it worked in the round. The Samuel French edition has a layout for the proscenium arch, but this is a highly unsatisfactory design and gives little indication of the author’s original intent.
 
-*“I think it’s a play which works especially well in the round as the logic of the rooms sitting on top of each other as it were is more apparent.”  
-Alan Ayckbourn*
+*“I think it’s a play which works especially well in the round as the logic of the rooms sitting on top of each other as it were is more apparent.”*  
+*Alan Ayckbourn*
 
 Figure (1) is Alan’s original sketch for the world premiere of *Taking Steps* in 1979. Vague as it is, the flat steps and certain features of the house are made clear. Alongside it are other designs and photographs of the stage in which it becomes easier to understand how the floors are overlaid.
 
@@ -29,14 +29,14 @@ Unfortunately, no images of the London staging are held in archive to illustrate
 
 Generally speaking though, to stage it in the proscenium compromises the play to such an extent that much of the play becomes almost meaningless. The only solution Alan Ayckbourn has been able to offer to the end-stage dilemma is that utilised by the Stephen Joseph Theatre In The Round company during its tour of the play in 1980. The author explains:
 
-*"The way we solved it was to put it all on a very step rake so the whole floor was visible to all the audience. This sloped platform was surrounded by an open skeletal framework with a few doorless doorways. Very un-naturalistic, but at least the audience got the joke.  
-The only problem with the raked version is that the furniture needs to be screwed down, And the only problem with that is that the actors only have to walk into it once…."  
-Alan Ayckbourn*
+*"The way we solved it was to put it all on a very step rake so the whole floor was visible to all the audience. This sloped platform was surrounded by an open skeletal framework with a few doorless doorways. Very un-naturalistic, but at least the audience got the joke.*  
+*The only problem with the raked version is that the furniture needs to be screwed down, And the only problem with that is that the actors only have to walk into it once…."*  
+*Alan Ayckbourn*
 
 Sadly, no images or plans are held in archive of this production, but it did allow the audience to see the entire floor and appreciate the juxtaposition of different characters on different floors. Although obviously less than ideal - and hard work for the cast - it is the only solution to the end-stage problem that Alan thinks has ever worked and served the play well.
 
-*"This enormous rake that we had was quite difficult. It was like walking up the south face of the Eiger. It was very steep, but nonetheless people got used to it. It allowed us to share the joke with the audience and have the stair rods and I have never seen it so satisfactorily \[in the end-stage\] without the rake.”  
-Alan Ayckbourn*
+*"This enormous rake that we had was quite difficult. It was like walking up the south face of the Eiger. It was very steep, but nonetheless people got used to it. It allowed us to share the joke with the audience and have the stair rods and I have never seen it so satisfactorily \[in the end-stage\] without the rake.”*  
+*Alan Ayckbourn*
 
 ![](./_images/stacks-image-869157c-280x282.jpg)
 
@@ -52,10 +52,10 @@ Alan Ayckbourn*
 
 ![](./_images/stacks-image-94f84f0-280x204.jpg)
 
-*(4) Copyright: Scarborough  
-Theatre Trust*
+*(4) Copyright: Scarborough*  
+*Theatre Trust*
 
 ![](./_images/stacks-image-48d66dc-280x168.jpg)
 
-*(5) Copyright: Scarborough  
-Theatre Trust*
+*(5) Copyright: Scarborough*  
+*Theatre Trust*

@@ -44,8 +44,8 @@ During 1996, Alan Ayckbourn…
 
 ![](./_images/stacks-image-7e846b4.jpg)
 
-*Steven Pacey as Bertie Wooster & Malcolm Sinclair as Jeeves in By Jeeves.  
-© Tony Bartholomew*
+*Steven Pacey as Bertie Wooster & Malcolm Sinclair as Jeeves in By Jeeves.*  
+*© Tony Bartholomew*
 
 ### World Premieres
 

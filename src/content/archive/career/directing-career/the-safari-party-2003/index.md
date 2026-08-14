@@ -8,25 +8,25 @@ order: 485
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**Tim Firth  
+**Venue:**  
+**Staging:**Tim Firth  
 No
 
 Hampstead Theatre  
-End-stage**First performance:  
-Opening night:  
-Final performance:**5 March 2003  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**5 March 2003  
 5 March 2003  
 To be confirmed 2003
 
 ### Company Details
 
-**Director:  
-Design:  
-Lighting:**
+**Director:**  
+**Design:**  
+**Lighting:**
 
 **Stage Manager:**Alan Ayckbourn  
 Michael Holt  

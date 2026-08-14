@@ -8,26 +8,26 @@ order: 9999
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Will Evans & Valentine  
+**Venue:**  
+**Location:**  
+**Staging:**Will Evans & Valentine  
 No
 
 National Theatre  
 The Lyttelton  
-End-stage**First performance:  
-Opening night:  
-Final performance:**6 November 1986  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**6 November 1986  
 16 November 1986  
 29 August 1987
 
 ### Company Details
 
-**Director:  
-Design:**  
+**Director:**  
+**Design:**  
 **Lighting:**  
 **Music:**  
 **Costumes:**Alan Ayckbourn  

@@ -8,53 +8,30 @@ order: 536
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Life With Father  
+**Author:** Clarence Day  
+**First performance:** December 1957  
+**Venue:** Oxford Playhouse  
+**Staging:** End-stage  
+**Director:** David Buxton
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Life With Father  
-Clarence Day
-
-December 1957  
-Oxford Playhouse  
-End-stage
-
-David Buxton   **Character**  
-Annie  
-Mother  
-Clarence  
-John  
-Whitney  
-Harlan  
-Father  
-Margaret  
-Cousin Cora  
-Mary Skinner  
-The Reverend Dr. Lloyd  
-Delia  
-Nora  
-Dr. Humphreys  
-Dr. Somers  
-Maggie **Actor**  
-Claudine Morgan  
-Monica Stewart  
-Christopher Hancock  
-Alan Ayckbourn  
-R.T. Meyers  
-S.K. Astrid  
-Joss Ackland  
-Gwyneth Parry  
-Pat Keen  
-Rosemary Kirkcaldy  
-Malcolm Rogers  
-June Speight  
-Marie Seaborne  
-John Rees  
-Ian Curteis  
-Jane Greenwood
+**Character** **Actor**  
+**Annie** Claudine Morgan  
+**Mother** Monica Stewart  
+**Clarence** Christopher Hancock  
+**John** Alan Ayckbourn  
+**Whitney** R.T. Meyers  
+**Harlan** S.K. Astrid  
+**Father** Joss Ackland  
+**Margaret** Gwyneth Parry  
+**Cousin Cora** Pat Keen  
+**Mary Skinner** Rosemary Kirkcaldy  
+**The Reverend Dr. Lloyd** Malcolm Rogers  
+**Delia** June Speight  
+**Nora** Marie Seaborne  
+**Dr. Humphreys** John Rees  
+**Dr. Somers** Ian Curteis  
+**Maggie** Jane Greenwood
 
 ### Quotes & Notes
 

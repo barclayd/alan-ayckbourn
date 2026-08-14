@@ -8,17 +8,17 @@ order: 447
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**Harold Pinter  
+**Venue:**  
+**Staging:**Harold Pinter  
 No
 
 Victoria Theatre, Stoke-on-Trent  
-Round**First performance:  
-Opening night:  
-Final performance:**22 October 1962  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**22 October 1962  
 22 October 1962  
 3 August 1963
 
@@ -26,9 +26,9 @@ Final performance:**22 October 1962
 
 **Director:**
 
-**Stage Manager:  
-Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn
+**Stage Manager:**  
+**Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn
 
 Arnold Beck  
 David Wehner  

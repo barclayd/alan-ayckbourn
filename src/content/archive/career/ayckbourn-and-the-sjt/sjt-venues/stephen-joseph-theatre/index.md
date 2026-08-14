@@ -14,8 +14,8 @@ order: 324
 
 ![](./_images/stacks-image-dea2a66.jpg)
 
-*The exterior of the Stephen Joseph Theatre, Scarborough.  
-© James Drawneek*
+*The exterior of the Stephen Joseph Theatre, Scarborough.*  
+*© James Drawneek*
 
 </aside>
 

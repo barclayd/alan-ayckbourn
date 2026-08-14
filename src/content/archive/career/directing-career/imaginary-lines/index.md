@@ -8,34 +8,34 @@ order: 462
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**R.R. Oliver  
+**Venue:**  
+**Location:**  
+**Staging:**R.R. Oliver  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**12 June 1985  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**12 June 1985  
 12 June 1985  
 31 July 1985
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Francis Lynch  
 Adrian P Smith  
 Paul Todd

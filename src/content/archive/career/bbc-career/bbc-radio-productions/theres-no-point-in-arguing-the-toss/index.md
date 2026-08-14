@@ -10,8 +10,8 @@ order: 337
 
 **Author:**
 
-**Broadcast:  
-Channel:**Don Haworth
+**Broadcast:**  
+**Channel:**Don Haworth
 
 6 April 1967 @ 8pm  
 Network 3**Director:**Alan Ayckbourn**Character**  

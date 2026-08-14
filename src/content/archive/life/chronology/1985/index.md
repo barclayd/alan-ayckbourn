@@ -32,8 +32,8 @@ During 1985, Alan Ayckbourn…
 
 ![](./_images/stacks-image-6bf6f0c.jpg)
 
-*Russell Dixon, Barry McCarthy & Ursula Jones in the world premiere of Woman In Mind.  
-© Scarborough Theatre Trust*
+*Russell Dixon, Barry McCarthy & Ursula Jones in the world premiere of Woman In Mind.*  
+*© Scarborough Theatre Trust*
 
 ### World Premieres
 

@@ -8,35 +8,21 @@ order: 559
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Five Finger Exercise  
+**Author:** Peter Shaffer  
+**First performance:** 12 December 1960  
+**Final performance:** 17 December 1960  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph  
+**Design:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:** Five Finger Exercise  
-Peter Shaffer
-
-12 December 1960  
-17 December 1960  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph  
-Stephen Joseph   **Character**  
-Stanley Harrington  
-Louise Harrington  
-Clive  
-Pamela  
-Walter Langer **Actor**  
-Stanley Page  
-Hazel Burt  
-David Jarrett  
-Rosamund Dickson  
-Alan Ayckbourn
+**Character** **Actor**  
+**Stanley Harrington** Stanley Page  
+**Louise Harrington** Hazel Burt  
+**Clive** David Jarrett  
+**Pamela** Rosamund Dickson  
+**Walter Langer** Alan Ayckbourn
 
 ### Quotes & Notes
 

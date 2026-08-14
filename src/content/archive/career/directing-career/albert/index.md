@@ -8,31 +8,31 @@ order: 433
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Richard Harris  
+**Venue:**  
+**Location:**  
+**Staging:**Richard Harris  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**24 June 1974  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**24 June 1974  
 24 June 1974  
 10 August 1974
 
 ### Company Details
 
-**Director:  
-Costumes:**
+**Director:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Christine Welch
 
 David Millard  

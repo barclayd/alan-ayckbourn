@@ -10,8 +10,8 @@ order: 654
 
 **Author:**
 
-**Broadcast:  
-Channel:**Don Haworth
+**Broadcast:**  
+**Channel:**Don Haworth
 
 5 September 1969 @ 8.10pm  
 BBC Radio 3**Director:**Alan Ayckbourn**Character**  

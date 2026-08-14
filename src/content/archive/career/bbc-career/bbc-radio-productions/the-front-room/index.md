@@ -10,8 +10,8 @@ order: 629
 
 **Author:**
 
-**Broadcast:  
-Channel:**Robert Storey
+**Broadcast:**  
+**Channel:**Robert Storey
 
 16 October 1968 @ 3pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

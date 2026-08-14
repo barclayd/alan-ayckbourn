@@ -8,36 +8,36 @@ order: 461
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Sandy Wilson  
+**Venue:**  
+**Location:**  
+**Staging:**Sandy Wilson  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Three-sided**First performance:  
-Opening night:  
-Final performance:**Sandy Wilson  
+Three-sided**First performance:**  
+**Opening night:**  
+**Final performance:**Sandy Wilson  
 19 December 1984  
 19 December 1984  
 19 January 1985
 
 ### Company Details
 
-**Director:  
-Musical Direction:  
-Lighting:  
-Sound:  
-Design:  
-Choreography:**
+**Director:**  
+**Musical Direction:**  
+**Lighting:**  
+**Sound:**  
+**Design:**  
+**Choreography:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Paul Todd  
 Francis Lynch  
 Francis Lynch  

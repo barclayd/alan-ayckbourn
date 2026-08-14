@@ -10,12 +10,12 @@ order: 672
 
 **Author:**
 
-**Broadcast:  
-Channel:**Elizabeth Holroyd
+**Broadcast:**  
+**Channel:**Elizabeth Holroyd
 
 2 September 1970 @ 11.30am  
-BBC Radio 4**Director:  
-Music:**Alan Ayckbourn  
+BBC Radio 4**Director:**  
+**Music:**Alan Ayckbourn  
 Trevor Holroyd**Character**  
 To be confirmed**Actor**  
 To be confirmed

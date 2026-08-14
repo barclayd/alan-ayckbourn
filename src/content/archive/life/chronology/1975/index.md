@@ -14,8 +14,8 @@ order: 269
 
 ![](./_images/stacks-image-395d2da.jpg)
 
-*Alan Ayckbourn & Heather Stoney  
-© Christopher Davies*
+*Alan Ayckbourn & Heather Stoney*  
+*© Christopher Davies*
 
 </aside>
 

@@ -17,21 +17,18 @@ play: "father-of-invention"
 **Sound:** Alan Ayckbourn
 
 **Stage Manager:** Fleur Beeley  
-**Stage Manager:** Sue Volans **Characters**  
-Esmé Lady Onsett  
-Rupert Ansett  
-Cecily Vickers-Onsett  
-Drusilla Onsett-Finch  
-Julius Finch  
-Belle Allington  
-Marv Resnick **Actors**  
-Liza Goddard  
-Laurence Pears  
-Elizabeth Boag  
-Frances Marshall  
-Paul Kemp  
-Naomi Petersen  
-Bill Champion **Notes**  
+**Stage Manager:** Sue Volans
+
+**Characters** **Actors**  
+**Esmé Lady Onsett** Liza Goddard  
+**Rupert Ansett** Laurence Pears  
+**Cecily Vickers-Onsett** Elizabeth Boag  
+**Drusilla Onsett-Finch** Frances Marshall  
+**Julius Finch** Paul Kemp  
+**Belle Allington** Naomi Petersen  
+**Marv Resnick** Bill Champion
+
+**Notes**  
 ◦ *Father of Invention* was written during 2021 but never produced. It was publicly performed for the first time in a rehearsed reading, directed by Alan Ayckbourn, as part of a fund-raising event for the Stephen Joseph Theatre in 2024.  
 ◦ The character of Marc Resnick would - in actual production - be a character on video.  
 ◦ The role of Rupert Onsett was originally cast with Jamie Baughan - who tragically died at the age of 42 during the summer of 2024.*All research for this page by Simon Murgatroyd.*

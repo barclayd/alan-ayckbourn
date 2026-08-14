@@ -8,11 +8,11 @@ order: 640
 
 ### Production Details
 
-**Author:  
-Adaptor:**
+**Author:**  
+**Adaptor:**
 
-**Broadcast:  
-Channel:**William Keenan  
+**Broadcast:**  
+**Channel:**William Keenan  
 David Bramley
 
 19 July 1969 @ 8.30pm  

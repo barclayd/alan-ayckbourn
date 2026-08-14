@@ -14,12 +14,12 @@ play: "things-we-do-for-love"
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Adaptation**
 
 **Character**  
 Barbara  

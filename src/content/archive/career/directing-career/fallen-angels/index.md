@@ -8,31 +8,31 @@ order: 457
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Noël Coward  
+**Venue:**  
+**Location:**  
+**Staging:**Noël Coward  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**28 March 1977  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**28 March 1977  
 29 March 1977  
 10 August 1977
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Helga Wood
 
 Janet Fox  

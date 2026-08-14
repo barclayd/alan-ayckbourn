@@ -10,8 +10,8 @@ order: 615
 
 **Author:**
 
-**Broadcast:  
-Channel:**Derek Wellman
+**Broadcast:**  
+**Channel:**Derek Wellman
 
 2 March 1966 @ 3pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

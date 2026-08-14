@@ -14,9 +14,10 @@ facts:
   New York Premiere Venue: "Circle In The Square Theatre"
   Play Number: "24"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/1779/taking-steps/)"
+  Other Media: "No"
   Short Synopsis: "Alan Ayckbourn's only true farce. Written specifically for theatre-in-the-round with all three floors of a building present on the same level, it follows a tongue-tied solicitor who has bitten off more than he can chew overseeing the sale of a crumbling, reportedly haunted, house."
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/1779/taking-steps/)"
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-Other Media:** No
+

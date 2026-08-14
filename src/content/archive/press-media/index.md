@@ -22,9 +22,9 @@ Enquiries for productions not directed by Alan Ayckbourn should be directed to t
 
 ### Press & Media FAQs
 
-**Interviews / Contacting Sir Alan  
-Who should I contact regarding face-to-face or phone interviews with Sir Alan?  
-i) Forthcoming Ayckbourn directed productions at the Stephen Joseph Theatre, Scarborough:** Contact Jeannie Swales, Press Officer at the Stephen Joseph Theatre, via: **[jeannie.swales@sjt.uk.com](mailto:jeannie.swales@sjt.uk.com)**.
+**Interviews / Contacting Sir Alan**  
+**Who should I contact regarding face-to-face or phone interviews with Sir Alan?**  
+**i) Forthcoming Ayckbourn directed productions at the Stephen Joseph Theatre, Scarborough:** Contact Jeannie Swales, Press Officer at the Stephen Joseph Theatre, via: **[jeannie.swales@sjt.uk.com](mailto:jeannie.swales@sjt.uk.com)**.
 
 **ii) Forthcoming West End / regional productions:** Contact the marketing company promoting the production. Please note, neither this website, the Stephen Joseph Theatre nor the playwright hold these details.
 
@@ -38,8 +38,8 @@ No. Sir Alan will only do in-person interviews in Scarborough or via the phone. 
 **How do I contact Sir Alan?**  
 Via Simon Murgatroyd or Jeannie Swales at the Stephen Joseph Theatre. Please do not attempt to contact Sir Alan via social media (Blue Sky, Facebook, X etc) to request an interview. These requests will be either ignored or immediately declined. Sir Alan does not engage with social media nor is it regularly checked.
 
-**Research and Image Requests  
-Where can I obtain an image of Sir Alan Ayckbourn for press / media usage?**  
+**Research and Image Requests**  
+**Where can I obtain an image of Sir Alan Ayckbourn for press / media usage?**  
 Email Simon Murgatroyd at **[press@alanayckbourn.net](mailto:admin@alanayckbourn.net)**, he can provide images for publicity / press / media / usage as well as answer any related enquiries.
 
 **I have research enquires about Sir Alan Ayckbourn and / or his plays, who should I contact?**  
@@ -51,8 +51,8 @@ Alan Ayckbourn's archivist, Simon Murgatroyd, is able to provide original commis
 **Can I reproduce articles from the website?**  
 Permission to reproduce articles from this website should always be applied for from the website administrator. Generally, permission will be granted, providing a specified copyright and credit is attributed; occasionally there is a reproduction fee for articles. Please send enquiries to **[press@alanayckbourn.net](mailto:admin@alanayckbourn.net)**.
 
-**Other Questions  
-Why can't the Stephen Joseph Theatre help with general press enquiries?**  
+**Other Questions**  
+**Why can't the Stephen Joseph Theatre help with general press enquiries?**  
 Since Alan Ayckbourn stepped down as the SJT's Artistic Director in 2009 and became Director Emeritus, the SJT's press office now only deal with requests directly pertaining to Sir Alan's work at the SJT. Any other enquiries will be forwarded to Simon Murgatroyd.
 
 **Who should I contact regarding information for forthcoming Ayckbourn productions not at the Stephen Joseph Theatre?**  

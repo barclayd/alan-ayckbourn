@@ -10,8 +10,8 @@ order: 659
 
 **Author:**
 
-**Broadcast:  
-Channel:**Jim Andrew
+**Broadcast:**  
+**Channel:**Jim Andrew
 
 20 August 1969 @ 8.15pm  
 BBC Radio 2**Director:**Alan Ayckbourn**Character**  

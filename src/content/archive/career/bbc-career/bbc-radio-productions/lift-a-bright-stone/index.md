@@ -10,8 +10,8 @@ order: 638
 
 **Author:**
 
-**Broadcast:  
-Channel:**Roy Clarke
+**Broadcast:**  
+**Channel:**Roy Clarke
 
 27 January 1968 @ 8.30pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

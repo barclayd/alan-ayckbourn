@@ -8,36 +8,13 @@ order: 570
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Hamlet  
-William Shakespeare
-
-29 January 1962  
-10 February 1962  
-Municipal Hall, Newcastle-under-Lyme  
-Round
-
-Stephen Joseph   **Character**  
-Hamlet  
-Claudius  
-Ophelia  
-Queen Gertrude  
-Laertes  
-Polonius **Actor**  
-David Jarrett  
-Alan Ayckbourn  
-Patricia England  
-Rosamund Dixon  
-Peter King  
-David Campton  
-No other company details known
+****Play:** Hamlet** **Character** **Actor**  
+****Author:** William Shakespeare** **Hamlet** David Jarrett  
+****First performance:** 29 January 1962** **Claudius** Alan Ayckbourn  
+****Final performance:** 10 February 1962** **Ophelia** Patricia England  
+****Venue:** Municipal Hall, Newcastle-under-Lyme** **Queen Gertrude** Rosamund Dixon  
+****Staging:** Round** **Laertes** Peter King  
+****Director:** Stephen Joseph** **Polonius** David CamptonNo other company details known
 
 ### Quotes & Notes
 

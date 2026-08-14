@@ -8,32 +8,32 @@ order: 503
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter Tinniswood  
+**Venue:**  
+**Location:**  
+**Staging:**Peter Tinniswood  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**5 June 1991  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**5 June 1991  
 11 June 1991  
 6 July 1991
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Jackie Staines  
 Juliet Nichols  
 John Pattison

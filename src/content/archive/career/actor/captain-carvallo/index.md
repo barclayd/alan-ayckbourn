@@ -8,39 +8,14 @@ order: 541
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Stage Manager:** Captain Carvallo  
-Denis Cannan
-
-10 July 1958  
-27 August 1958  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph  
-Alan Ayckbourn   **Character**  
-Anni (the maid)  
-Smilja Darde  
-The Baron  
-Professor Winke  
-Private Gross  
-Captain Carvallo  
-Caspar Darde **Actor**  
-Christine Roland  
-Pauline Devaney  
-Rodney Wood  
-Robert Fyfe  
-Alan Ayckbourn  
-David Sutton  
-Ian Curteis
+****Play:** Captain Carvallo** **Character** **Actor**  
+****Author:** Denis Cannan** **Anni (the maid)** Christine Roland  
+****First performance:** 10 July 1958** **Smilja Darde** Pauline Devaney  
+****Final performance:** 27 August 1958** **The Baron** Rodney Wood  
+****Venue:** The Library Theatre, Scarborough** **Professor Winke** Robert Fyfe  
+****Staging:** Round** **Private Gross** Alan Ayckbourn  
+****Director:** Stephen Joseph** **Captain Carvallo** David Sutton  
+****Stage Manager:** Alan Ayckbourn** **Caspar Darde** Ian Curteis
 
 ### Quotes & Notes
 

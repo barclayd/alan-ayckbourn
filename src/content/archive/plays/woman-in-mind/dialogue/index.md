@@ -47,8 +47,8 @@ All these lines are spoken by Bill Windsor:
 
 These lines are spoken by Susan:
 
-**... I grow hugh, summer few bald teddy know these two wonderful children, Lucy and Rick. I cannot tell you how heaply cowed siam.  
-Tinny beers a show. High december how rotten high trade fat haywood throw twig and throng hike hair share rents. Pie lank hod hat day lid! Hens, hang few saw paw up-short. Hang few. Hang few, hens, sizzle pie tart insole. Grey ice way chew...? Grey ice way...?  
-Hair growing, hens? Goosey? Gandy? Chair old? Hair shone? Tone show, fleas. Fleas, tone show. December bee? Choose ‘un. December choosey. December bee? December bee?**
+**... I grow hugh, summer few bald teddy know these two wonderful children, Lucy and Rick. I cannot tell you how heaply cowed siam.**  
+**Tinny beers a show. High december how rotten high trade fat haywood throw twig and throng hike hair share rents. Pie lank hod hat day lid! Hens, hang few saw paw up-short. Hang few. Hang few, hens, sizzle pie tart insole. Grey ice way chew...? Grey ice way...?**  
+**Hair growing, hens? Goosey? Gandy? Chair old? Hair shone? Tone show, fleas. Fleas, tone show. December bee? Choose ‘un. December choosey. December bee? December bee?**
 
 *... I know you, some of you already know these two wonderful children, Lucy and Rick. I cannot tell you how deeply proud I am. Many years ago. I remember how often I prayed that they would grow big and strong like their parents. I thank God that they did! Friends, thank you for your support. Thank you. Thank you, friends, with all my heart and soul. May I say to you...? May I say...? Where are you going, friends? Lucy? Andy? Gerald? Where’ve you gone? Don’t go, please. Please, don’t go. Remember me? Susan? Remember Susie? Remember me? Remember me?*

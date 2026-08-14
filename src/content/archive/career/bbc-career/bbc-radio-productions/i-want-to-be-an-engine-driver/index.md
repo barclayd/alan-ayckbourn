@@ -10,8 +10,8 @@ order: 636
 
 **Author:**
 
-**Broadcast:  
-Channel:**John Pennington
+**Broadcast:**  
+**Channel:**John Pennington
 
 27 January 1965 @ 3pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

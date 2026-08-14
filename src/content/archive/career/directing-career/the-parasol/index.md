@@ -8,35 +8,35 @@ order: 478
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Frank Dunai  
+**Venue:**  
+**Location:**  
+**Staging:**Frank Dunai  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**6 July 1988  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**6 July 1988  
 6 July 1988  
 10 September 1988
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Pianist:  
-Tenor:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Pianist:**  
+**Tenor:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Mick Thomas  
 Michael Holt  
 Vincent Billington  

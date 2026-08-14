@@ -8,21 +8,14 @@ order: 567
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Love Undertaken  
+**Author:** Roland Allen (Alan Ayckbourn)  
+**First performance:** October 1961  
+**Venue:** St Mary's Parish House, Scarborough  
+**Staging:** Round  
+**Director:** Ken Boden
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Love Undertaken  
-Roland Allen (Alan Ayckbourn)
-
-October 1961  
-St Mary's Parish House, Scarborough  
-Round
-
-Ken Boden   **Character**  
+**Character**  
 Characters roles  
 unknown **Actor (incomplete)**  
 Alan Ayckbourn  

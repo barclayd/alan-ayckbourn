@@ -11,8 +11,8 @@ play: "ten-times-table"
 
 ### Stray Bullets
 
-*“It’s a parable of our times, written by someone crouching in the middle along with most of the population, praying not to be hit by a stray bullet.”  
-Alan Ayckbourn*
+*“It’s a parable of our times, written by someone crouching in the middle along with most of the population, praying not to be hit by a stray bullet.”*  
+*Alan Ayckbourn*
 
 1976 was a time of change. For Alan Ayckbourn, it was a year dominated by often frustrating attempts to find a new home for his company. For the country, a tumultuous political period was developing.
 

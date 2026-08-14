@@ -8,21 +8,14 @@ order: 529
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:** South Sea Bubble  
+**Author:** Noël Coward  
+**First performance:** 1957 (Date to be confirmed)  
+**Venue:** Leatherhead Theatre Club  
+**Staging:** End-stage  
+**Director:** Stafford Byrne
 
-**First performance:  
-Venue:  
-Staging:**
-
-**Director:**  South Sea Bubble  
-Noël Coward
-
-1957 (Date to be confirmed)  
-Leatherhead Theatre Club  
-End-stage
-
-Stafford Byrne   **Character**  
+**Character**  
 Sanyamo **Actor**  
 Alan Ayckbourn No other company details known
 

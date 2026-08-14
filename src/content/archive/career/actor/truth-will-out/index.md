@@ -18,29 +18,20 @@ Sound: Alan Ayckbourn
 **Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans
 
-**Director:** Alan Ayckbourn **Characters**  
-George Oliver  
-Daphne Oliver  
-Donnie Oliver  
-Janet Tasselle  
-Sefton Crichton-Fleming  
-Ian Morton  
-Peggy Catwick  
-Katherine Hetcham  
-Bill Turpin  
-Tammy Shoehorn  
-Jim Tungsten **Actors**  
-John Branwell  
-Alexandra Mathie  
-Andy Cryer  
-Frances Marshall  
-Christopher Godwin  
-Richard Stacey  
-Tanya-Loretta Dee  
-Naomi Petersen  
-Leigh Symonds  
-Georgia Burnell  
-Alan Ayckbourn
+**Director:** Alan Ayckbourn
+
+**Characters** **Actors**  
+**George Oliver** John Branwell  
+**Daphne Oliver** Alexandra Mathie  
+**Donnie Oliver** Andy Cryer  
+**Janet Tasselle** Frances Marshall  
+**Sefton Crichton-Fleming** Christopher Godwin  
+**Ian Morton** Richard Stacey  
+**Peggy Catwick** Tanya-Loretta Dee  
+**Katherine Hetcham** Naomi Petersen  
+**Bill Turpin** Leigh Symonds  
+**Tammy Shoehorn** Georgia Burnell  
+**Jim Tungsten** Alan Ayckbourn
 
 ### Quotes & Notes
 

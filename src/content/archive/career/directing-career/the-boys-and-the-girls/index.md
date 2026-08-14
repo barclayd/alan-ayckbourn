@@ -8,19 +8,19 @@ order: 439
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**David Campton  
+**Venue:**  
+**Location:**  
+**Staging:**David Campton  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**26 December 1961  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**26 December 1961  
 26 December 1961  
 30 December 1961
 

@@ -8,33 +8,20 @@ order: 549
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Square Cat  
+**Author:** Roland Allen (Alan Ayckbourn)  
+**First performance:** 30 July 1959  
+**Final performance:** 2 September 1959  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Square Cat  
-Roland Allen (Alan Ayckbourn)
-
-30 July 1959  
-2 September 1959  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Sidney Glover  
-Alice, his wife  
-Steve, his son  
-Susan, his daughter  
-Jerry Wattis **Actor**  
-David Campton  
-Dona Martyn  
-William Elmhirst  
-Faynia Jeffery  
-Alan Ayckbourn
+**Character** **Actor**  
+**Sidney Glover** David Campton  
+**Alice, his wife** Dona Martyn  
+**Steve, his son** William Elmhirst  
+**Susan, his daughter** Faynia Jeffery  
+**Jerry Wattis** Alan Ayckbourn
 
 ### Quotes & Notes
 

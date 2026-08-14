@@ -10,8 +10,8 @@ order: 651
 
 **Author:**
 
-**Broadcast:  
-Channel:**Norman Swallow
+**Broadcast:**  
+**Channel:**Norman Swallow
 
 19 August 1969 @ 9.15pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

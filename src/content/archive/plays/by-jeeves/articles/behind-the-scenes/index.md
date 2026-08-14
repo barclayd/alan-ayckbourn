@@ -15,13 +15,13 @@ Theatre history records *Jeeves* as one of the most notorious flops to have been
 
 Jeeves does not begin with Alan Ayckbourn, but with Lloyd Webber and the lyricist Tim Rice who conceived a musical based around *Jeeves* at least two years prior to Alan’s involvement. Both men were fans of Wodehouse novels and felt the stories of Bertie Wooster and his manservant Jeeves were prime material for transfer to the stage.
 
-*“I have to take the blame for having thought of the whole idea in the first place. I've always found P.G. Wodehouse books terribly funny and thought there was something to be done with them in musical theatre. Jeeves was to be the follow-up to Jesus Christ Superstar and Joseph \[and the Amazing Technicolor Dreamcoat\]. I was going to do it with Tim Rice, and we thought it would be great fun.”  
-Andrew Lloyd Webber*
+*“I have to take the blame for having thought of the whole idea in the first place. I've always found P.G. Wodehouse books terribly funny and thought there was something to be done with them in musical theatre. Jeeves was to be the follow-up to Jesus Christ Superstar and Joseph \[and the Amazing Technicolor Dreamcoat\]. I was going to do it with Tim Rice, and we thought it would be great fun.”*  
+*Andrew Lloyd Webber*
 
 Together they produced a rough draft of the musical, but Rice was unhappy with his own contribution and realised he would have difficulty doing justice to the much-loved characters.
 
-*“It wasn’t very good, particularly the lyrics. The tunes were good, probably better than those in almost any other British musical, but the words were dire, they were mine, and the plot wasn’t working out. So I abandoned it.”  
-Tim Rice*
+*“It wasn’t very good, particularly the lyrics. The tunes were good, probably better than those in almost any other British musical, but the words were dire, they were mine, and the plot wasn’t working out. So I abandoned it.”*  
+*Tim Rice*
 
 The lyricist’s precise involvement in *Jeeves* from this point onwards is not clear as interviews with the key players contradict each other. Lloyd Webber was determined to continue despite Rice’s reticence and had even visited Wodehouse in New York to get the author’s blessing; he also began searching for someone to join them on the book, apparently in the hope that Rice would then be inspired to stay on board the project.
 
@@ -29,13 +29,13 @@ Enter Alan Ayckbourn.
 
 Encouraged by his agent Margaret ‘Peggy’ Ramsay to give serious consideration to writing the book for the musical in November 1973, Alan arranged to meet Lloyd Webber and Rice to discuss working together.
 
-*“We had a private meal between Tim Rice and myself and Andrew… and we talked about what a great idea it would be. Tim would write the lyrics and I’d do the book, which would be merely structuring them a storyline. And I said: “Well, I think I can hack one out for you.” And Andrew had already got some music sketches.”  
-Alan Ayckbourn*
+*“We had a private meal between Tim Rice and myself and Andrew… and we talked about what a great idea it would be. Tim would write the lyrics and I’d do the book, which would be merely structuring them a storyline. And I said: “Well, I think I can hack one out for you.” And Andrew had already got some music sketches.”*  
+*Alan Ayckbourn*
 
 Alan, also a Wodehouse fan, agreed to write the book, but Rice was still uncertain about his involvement and by March 1974 had decided to step away to concentrate on writing *Evita*. Alan and Lloyd Webber began discussing alternative plans - although at no point was it suggested Alan would write the lyrics.
 
-*“We’ll have, as they say, to hold ‘a most promising lyrics writer’ competition! Obviously the most important thing, finally, is to get someone who sparks you \[Lloyd Webber\] off and vice versa.”  
-Alan Ayckbourn*
+*“We’ll have, as they say, to hold ‘a most promising lyrics writer’ competition! Obviously the most important thing, finally, is to get someone who sparks you \[Lloyd Webber\] off and vice versa.”*  
+*Alan Ayckbourn*
 
 Despite the lyricist issues, the musical already had financial backing in the shape of the Australian producer Robert Stigwood. Based in Los Angeles with interests in music, television, film and theatre - but ironically apparently no interest in Wodehouse’s work according to Lloyd Webber - his diverse career had recently seen him produce the movie of Lloyd Webber and Rice’s *Jesus Christ Superstar*. Despite providing the finances, his presence was rarely felt and Alan recalls only meeting him twice and apparently only after *Jeeves* had opened in London. In his stead, Bob Swash was appointed to act as the executive producer and go-between for Stigwood.
 
@@ -43,8 +43,8 @@ The musical also lacked a director and for this, Alan suggested Eric Thompson. H
 
 Meanwhile, discussions had perhaps inevitably turned towards Alan contributing the lyrics.
 
-*“Andrew said I could do the lyrics because that's a piece of cake. It's taken me 20 years to come to terms with that! They were the very first lyrics written by me.”  
-Alan Ayckbourn*
+*“Andrew said I could do the lyrics because that's a piece of cake. It's taken me 20 years to come to terms with that! They were the very first lyrics written by me.”*  
+*Alan Ayckbourn*
 
 Having agreed to now provide both the book and lyrics, Alan’s submitted his first attempt at the songs - “for better for worse” - to Lloyd Webber on 2 May. Alan’s uncertainty highlighted when he wrote: “Writing them is like having chicken pox - almost impossible to stop picking at them - and that doesn’t necessarily make them any better.” He also added that if Lloyd Webber was not happy, he could always turn to an unspecified Plan B.
 
@@ -52,15 +52,15 @@ The situation seems to have been fluid though as by mid-May, Bob Swash confirmed
 
 The apparently haphazard approach to the musical shifted up a gear on the weekend of 4 July 1974, when Alan, Lloyd Webber and Thompson came together for the first time to begin, as a spokesman for the Library Theatre in Scarborough phrased it: “hammering out tunes, lyrics and ideas for three days.” The trio were based in a bedsit in Scarborough complete with a piano and a six week old kitten owned by the theatre’s scenic designer Helga Wood - who had also provided the piano. At the end of the weekend, the basic shape and plot of *Jeeves* had been agreed, lyrics had been approved, altered and drafted (with Thompson convinced he had positively contributed towards them) and an agreement made for a first draft to be completed by September, when the trio would meet again in America. The events of the weekend were chronicled several days later in the Yorkshire Post, in which Lloyd Webber spoke about Alan’s involvement in the collaboration.
 
-*“I saw Absurd Person Singular at London’s Criterion Theatre last year and decided that I must write to Alan and try to persuade him to join me in Jeeves. Alan is, without doubt, the best English comedy writer around today, and Eric Thompson is a director with an extraordinary talent for seeing humour in any given situation. I couldn’t have found a better team to work with… if it works.”  
-Andrew Lloyd Webber*
+*“I saw Absurd Person Singular at London’s Criterion Theatre last year and decided that I must write to Alan and try to persuade him to join me in Jeeves. Alan is, without doubt, the best English comedy writer around today, and Eric Thompson is a director with an extraordinary talent for seeing humour in any given situation. I couldn’t have found a better team to work with… if it works.”*  
+*Andrew Lloyd Webber*
 
 Alan meanwhile offered an insight into his thoughts on adapting Wodehouse for the stage: “The treatment we shall give *Jeeves* will have a contemporary slant. It won’t be a museum piece. The books are so dramatic in terms of theatre that one has to be fairly drastic.”
 
 By 14 July, Alan had supplied a second longer draft which Lloyd Webber worked on for the New York meeting, now scheduled for the first week of October. The most obvious problem at this stage - and one which would haunt *Jeeves* - was Alan admitted his inexperience with musicals meant the script was far too long.
 
-*“The script was heavily over-length, because the other thing, of course, I wasn’t used to was incorporating the songs: and as I’d written the lyrics I’d been pacing myself on a play, so we had something about one-and-a-half times too long.”  
-Alan Ayckbourn*
+*“The script was heavily over-length, because the other thing, of course, I wasn’t used to was incorporating the songs: and as I’d written the lyrics I’d been pacing myself on a play, so we had something about one-and-a-half times too long.”*  
+*Alan Ayckbourn*
 
 That Alan and Lloyd Webber were not in full control of the project was made clear in September when Swash told Lloyd Webber he was anxious for casting to start by October at the latest as he had theatres lined up for March; it is a sobering thought that casting did not actually begin until January, yet the show was still lined up to open in Bristol less than three months later. Clearly, the producers were dictating the pace of the show and had fixed ideas about how long the process should take. Alan’s response to this was sage, but perhaps prophetic: “I hope Bob Swash’s urgency won’t panic us into a rush job.”
 
@@ -68,9 +68,9 @@ At the start of October, Alan travelled to New York for the opening of *Absurd P
 
 With Thompson now free to concentrate all his energies on *Jeeves*, the first major doubts about the scale of the musical began to emerge. Alan had incorporated some elaborate staging including the exterior and interior set of Totleigh Towers on a revolve, the idea being that over the course of the play, Bertie and his antics wreak havoc on the stately home as these stage directions illustrate.
 
-*A pleasant looking country house frontage, complete with balconies, trellis work with climbing plants etc.  
-Jeeves and Bertie pull up at the front door and dismount. Jeeves packs away the car. The are admitted by the butler. They enter.  
-The house revolves through 180 degrees so we now look into it from the back, like a cross section of a open doll’s house.*
+*A pleasant looking country house frontage, complete with balconies, trellis work with climbing plants etc.*  
+*Jeeves and Bertie pull up at the front door and dismount. Jeeves packs away the car. The are admitted by the butler. They enter.*  
+*The house revolves through 180 degrees so we now look into it from the back, like a cross section of a open doll’s house.*
 
 This then leads at the end of the play to:
 
@@ -88,18 +88,18 @@ The New Year broke with the good news that Wodehouse had been knighted and that 
 
 The news was unexpected and would not be confirmed for another month; Hemmings was a bona fide star having made his name in the film *Blowup* in 1966, but had no experience of the West End stage and apparently his singing abilities were not strong. Lloyd Webber was not convinced by his leading man, who it appears may have been pushed onto *Jeeves* by the producers.
 
-*“\[He\] was an extraordinary individual, quite self-destructive. He would never go to bed, and during the previews you'd find him at three in the morning in the hotel bar, even though he'd have rehearsal early next day.  
-Andrew Lloyd Webber*
+*“\[He\] was an extraordinary individual, quite self-destructive. He would never go to bed, and during the previews you'd find him at three in the morning in the hotel bar, even though he'd have rehearsal early next day.*  
+*Andrew Lloyd Webber*
 
 Even Hemmings seems surprised to have landed the role and had given little thought as to what it would require of him.
 
-*“How did the role come up? I was feeling a bit restless at the time and I was shown Alan Ayckbourn’s script, which I found hilarious. Then I went to Andrew Lloyd Webber’s home to listen to the music. Many people were being considered it. I went for an audition at the Palace Theatre and sang Code Of The Woosters, from the show, just like that. It was a very frightening moment. Then the producers asked me.”  
-David Hemmings*
+*“How did the role come up? I was feeling a bit restless at the time and I was shown Alan Ayckbourn’s script, which I found hilarious. Then I went to Andrew Lloyd Webber’s home to listen to the music. Many people were being considered it. I went for an audition at the Palace Theatre and sang Code Of The Woosters, from the show, just like that. It was a very frightening moment. Then the producers asked me.”*  
+*David Hemmings*
 
 By the time the choreographer Christopher Bruce (who would go on to become one of the UK’s most pre-eminent choreographers) was appointed in February, it was a company of firsts: Neither Alan, Lloyd Webber, Thompson, Hemmings, Bruce or Voytek had any experience of West End musicals.
 
-*“It was the blind leading the blind. Though we were all experienced in our own fields, neither myself, the director, the leading actor, the choreographer nor Andrew had worked on a live theatre musical before. You can only afford so many firsts in a show.”  
-Alan Ayckbourn*
+*“It was the blind leading the blind. Though we were all experienced in our own fields, neither myself, the director, the leading actor, the choreographer nor Andrew had worked on a live theatre musical before. You can only afford so many firsts in a show.”*  
+*Alan Ayckbourn*
 
 On 12 February 1975, *Jeeves* was officially announced to the public with a press conference featuring Hemmings, Aldridge and the actress Gabrielle Drake - again not known for her musical experience. The noted actress Betty Marsden was also announced to play Aunt Dahlia in the £100,000 musical which would open at Her Majesty’s Theatre on 22 April.
 
@@ -115,8 +115,8 @@ Not the most auspicious start. To make matters worse, three days later the music
 
 Rehearsals for *Jeeves* began in the last week of February, just four weeks before the production opened for a two week pre-West run at the Bristol Hippodrome. The musical had gone through at least two more drafts. The first was 202 pages long and featured 18 songs, which become 158 pages and 19 songs for the original rehearsal draft. It is this draft which opened the show on 22 March at Bristol, running at 4½ hours and accompanied by a notorious incident with the orchestra.
 
-*“\[We\] had this disastrous experience in Bristol: on the first night, the band stopped playing 15 minutes before the end because the producers wouldn’t pay overtime. So these poor, non-singer actors were left completely adrift, without musical accompaniment. I remember walking back to the hotel with my son, who was then very young, and he broke a long silence by saying ‘I’m sure it’ll get better’. But it didn’t.”  
-Alan Ayckbourn*
+*“\[We\] had this disastrous experience in Bristol: on the first night, the band stopped playing 15 minutes before the end because the producers wouldn’t pay overtime. So these poor, non-singer actors were left completely adrift, without musical accompaniment. I remember walking back to the hotel with my son, who was then very young, and he broke a long silence by saying ‘I’m sure it’ll get better’. But it didn’t.”*  
+*Alan Ayckbourn*
 
 The critics in Bristol were not kind, but offered little indication of the bloodbath that was soon to follow. It was also patently obvious to both Alan and Lloyd Webber that there were major problems: with the latter noting *Jeeves* had opened in Bristol “taking water at every level.”
 
@@ -150,21 +150,21 @@ Despite all the time, effort and money that had gone into the production, its on
 
 Ironically, the effect of the closure was far less traumatic for Alan than might have been expected. Granted, there was a certain inevitability to the early closure and the reception of the play, but even so, Alan was sanguine about the whole experience:
 
-*“Jeeves left me very unaffected. Well, it took a lot of energy out of me - but the whole episode was so ridiculous and remote in a way, that any sadness I felt was for Andrew (whose career it was at stake) and not for me.”  
-Alan Ayckbourn*
+*“Jeeves left me very unaffected. Well, it took a lot of energy out of me - but the whole episode was so ridiculous and remote in a way, that any sadness I felt was for Andrew (whose career it was at stake) and not for me.”*  
+*Alan Ayckbourn*
 
 The experience was also tempered somewhat by the fact that as far as Alan was concerned, it was old news. He had finished writing his new play - the soon to be tremendous hit *Bedroom Farce* - on the very day *Jeeves* closed in London.
 
 With the production over and Alan and Lloyd Webber adamant that *Jeeves* had no future in its current form, there was nothing left but to chalk it up to experience and reminisce.
 
-*“I don’t think I could ever collaborate with another writer, but I did find collaborating with a musician very stimulating. The book, however, was eventually running for four hours. I could have cut it in about a day in Scarborough circumstances. But with a vehicle like that, by the time one got round to cutting, it was like treading on eggs. Actors all had their favourite bits, and so on. The producer of Jeeves I met twice as he spent most of his time in Los Angeles. We were all left to our own devices, which would have been alright if any of us had done this sort of show before. We badly needed Hal Prince, or someone like him. I did, however, develop a close working relationship with Lloyd Webber, which I hope might lead to something else, something conducted on our own terms.”  
-Alan Ayckbourn*
+*“I don’t think I could ever collaborate with another writer, but I did find collaborating with a musician very stimulating. The book, however, was eventually running for four hours. I could have cut it in about a day in Scarborough circumstances. But with a vehicle like that, by the time one got round to cutting, it was like treading on eggs. Actors all had their favourite bits, and so on. The producer of Jeeves I met twice as he spent most of his time in Los Angeles. We were all left to our own devices, which would have been alright if any of us had done this sort of show before. We badly needed Hal Prince, or someone like him. I did, however, develop a close working relationship with Lloyd Webber, which I hope might lead to something else, something conducted on our own terms.”*  
+*Alan Ayckbourn*
 
-*“Frankly, Jeeves should never had made it to London. No one on the team had a clue what they were doing, Stigwood never saw the show out of town and I really only had practical experience of musical theatre via Joseph and Jesus Christ Superstar, both of which had been heard on record before.  
-“We came into London to a deserved critical bloodbath. Alan and I couldn’t even watch the second act on opening night, we just buried our heads in far too much wine at the old Petit Club Francois.*
+*“Frankly, Jeeves should never had made it to London. No one on the team had a clue what they were doing, Stigwood never saw the show out of town and I really only had practical experience of musical theatre via Joseph and Jesus Christ Superstar, both of which had been heard on record before.*  
+*“We came into London to a deserved critical bloodbath. Alan and I couldn’t even watch the second act on opening night, we just buried our heads in far too much wine at the old Petit Club Francois.*
 
-*“\[We\] were shattered but we knew we had it coming. We felt in our bones that we had done some good things and we still felt a musical on the Jeeves stories could work. We also knew we’d created an outsized turkey. But two things happened during the fiasco. First, I think I learned as much the hard way about musicals in eight weeks as I’ve done in the past two decades. Secondly, Alan and I became close friends.’”  
-Andrew Lloyd Webber*
+*“\[We\] were shattered but we knew we had it coming. We felt in our bones that we had done some good things and we still felt a musical on the Jeeves stories could work. We also knew we’d created an outsized turkey. But two things happened during the fiasco. First, I think I learned as much the hard way about musicals in eight weeks as I’ve done in the past two decades. Secondly, Alan and I became close friends.’”*  
+*Andrew Lloyd Webber*
 
 Aside from a single heavily abridged student production at Dulwich College in 1981 to mark P.G. Wodehouse’s centennial, *Jeeves* was never again seen in the form it took in the West End. It was never forgotten though and over the next two decades both Alan and Lloyd Webber would talk about revising and reviving it. Convinced there was a good musical in there, they would eventually get the chance to prove it on the 21st anniversary of *Jeeves* when *By Jeeves* was chosen to open the Stephen Joseph Theatre, Scarborough, in 1996.
 

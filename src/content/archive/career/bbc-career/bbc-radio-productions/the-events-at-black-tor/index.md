@@ -10,15 +10,15 @@ order: 627
 
 **Author:**
 
-**Broadcast from:  
-Channel:  
-Episodes:**  
+**Broadcast from:**  
+**Channel:**  
+**Episodes:**  
 Roy Clarke
 
 18 April 1968 @ 7.45pm  
 BBC Radio 2  
-6**Director:  
-Music:**Alan Ayckbourn  
+6**Director:**  
+**Music:**Alan Ayckbourn  
 Trevor Holroyd**Episode Titles:**○ Such As Sit In Darkness  
 ○ The Unquiet Dead  
 ○ The Fires Of Hell  

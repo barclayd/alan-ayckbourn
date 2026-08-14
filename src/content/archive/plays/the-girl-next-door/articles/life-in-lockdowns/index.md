@@ -23,8 +23,8 @@ play: "the-girl-next-door"
 
 </aside>
 
-*“I was born in 1939, so my earliest memories are of a sort of lockdown: of crowding into Anderson shelters or subway stations; of sleeping in deckchairs or on my mother’s lap. Things have come full circle for me.”  
-Alan Ayckbourn, 2021*
+*“I was born in 1939, so my earliest memories are of a sort of lockdown: of crowding into Anderson shelters or subway stations; of sleeping in deckchairs or on my mother’s lap. Things have come full circle for me.”*  
+*Alan Ayckbourn, 2021*
 
 On a terraced street in Canonbury, London, on an August morning, two households are experiencing lockdown. But things are not quite what they seem.
 

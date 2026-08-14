@@ -10,8 +10,8 @@ order: 633
 
 **Author:**
 
-**Broadcast:  
-Channel:**John Wainwright
+**Broadcast:**  
+**Channel:**John Wainwright
 
 5 June 1968 @ 8.15pm  
 BBC Radio 2**Director:**Alan Ayckbourn**Character**  

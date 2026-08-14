@@ -8,35 +8,13 @@ order: 372
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Ring of Roses  
-David Campton
-
-22 December 1958  
-27 December 1958  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Stacey  
-Fred  
-Mum  
-Eric  
-Brewster  
-Milkman **Actor**  
-Faynia Jeffery  
-David Sutton  
-Dona Martyn  
-Alan Ayckbourn  
-Rodney Wood  
-Harold Goodwin
+****Play:** Ring of Roses** **Character** **Actor**  
+****Author:** David Campton** **Stacey** Faynia Jeffery  
+****First performance:** 22 December 1958** **Fred** David Sutton  
+****Final performance:** 27 December 1958** **Mum** Dona Martyn  
+****Venue:** The Library Theatre, Scarborough** **Eric** Alan Ayckbourn  
+****Staging:** Round** **Brewster** Rodney Wood  
+****Director:** Stephen Joseph** **Milkman** Harold Goodwin
 
 ### Quotes & Notes
 

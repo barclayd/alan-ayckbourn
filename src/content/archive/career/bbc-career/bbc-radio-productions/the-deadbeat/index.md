@@ -10,8 +10,8 @@ order: 624
 
 **Author:**
 
-**Broadcast:  
-Channel:**Gwyneth Jones
+**Broadcast:**  
+**Channel:**Gwyneth Jones
 
 4 December 1965 @ 2.15pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

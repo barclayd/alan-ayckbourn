@@ -391,9 +391,9 @@ Career
 Theatre  
 Career  
 Career  
-*Taking Steps  
-Suburban Strains  
-Suburban Strains*  
+*Taking Steps*  
+*Suburban Strains*  
+*Suburban Strains*  
 Career  
 SJT  
 Musicals  
@@ -404,19 +404,19 @@ Career
 Career  
 America  
 Career  
-*Intimate Exchanges  
-Way Upstream*  
+*Intimate Exchanges*  
+*Way Upstream*  
 Career  
 Career  
 *Way Upstream*  
 Career  
-*Making Tracks  
-Joking Apart  
-It Could Be Any One Of Us*  
+*Making Tracks*  
+*Joking Apart*  
+*It Could Be Any One Of Us*  
 Career  
-*A Chorus Of Disapproval  
-A Chorus Of Disapproval  
-Intimate Exchanges*  
+*A Chorus Of Disapproval*  
+*A Chorus Of Disapproval*  
+*Intimate Exchanges*  
 Career  
 Career  
 Career  
@@ -426,18 +426,18 @@ Career
 Favourite things  
 *Taking Steps*  
 Sabbatical  
-*Woman In Mind  
-A Chorus Of Disapproval*  
+*Woman In Mind*  
+*A Chorus Of Disapproval*  
 National Theatre  
-*Me, Myself And I  
-A Chorus Of Disapproval*  
+*Me, Myself And I*  
+*A Chorus Of Disapproval*  
 National Theatre  
 National Theatre  
 National Theatre  
 National Theatre  
 Career  
-*Woman In Mind  
-How The Other Half Loves*  
+*Woman In Mind*  
+*How The Other Half Loves*  
 National Theatre  
 Career  
 *Woman In Mind*  
@@ -454,9 +454,9 @@ National Theatre
 *A View From The Bridge*  
 National Theatre  
 Career  
-*A Small Family Business  
-A Small Family Business  
-Woman In Mind*  
+*A Small Family Business*  
+*A Small Family Business*  
+*Woman In Mind*  
 Career  
 *Henceforward…*  
 Career  
@@ -480,17 +480,17 @@ Career
 Theatre  
 *Henceforward…*  
 Career  
-*Mr A's Amazing Maze Plays  
-Mr A's Amazing Maze Plays*  
+*Mr A's Amazing Maze Plays*  
+*Mr A's Amazing Maze Plays*  
 Career  
-*Mr A's Amazing Maze Plays  
-National Theatre  
-Henceforward…*  
+*Mr A's Amazing Maze Plays*  
+*National Theatre*  
+*Henceforward…*  
 50th Birthday  
 50th Birthday  
 50th Birthday  
-*The Revengers' Comedies  
-The Revengers' Comedies*  
+*The Revengers' Comedies*  
+*The Revengers' Comedies*  
 Career  
 *The Revengers' Comedies*  
 Career  

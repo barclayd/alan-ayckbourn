@@ -8,23 +8,15 @@ order: 329
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:** The Strong Are Lonely  
+**Author:** Fritz Hochwaelder  
+**First performance:** 20 August 1956  
+**Final performance:** 8 September 1956  
+**Venue:** Lauriston Hall, Edinburgh Festival  
+**Staging:** End-stage  
+**Director:** Donald Wolfit
 
-**First performance:  
-Final performance:  
-Venue:  
-Staging:**
-
-**Director:**  The Strong Are Lonely  
-Fritz Hochwaelder
-
-20 August 1956  
-8 September 1956  
-Lauriston Hall, Edinburgh Festival  
-End-stage
-
-Donald Wolfit   **Character**  
+**Character**  
 Alfonzo Fernandez  
 Soldier **Actor**  
 Donald Wolfit  

@@ -8,35 +8,13 @@ order: 560
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Dad's Tale  
-Roland Allen (Alan Ayckbourn)
-
-19 December 1960  
-31 December 1960  
-The Library Theatre, Scarborough  
-Round
-
-Clifford Williams   **Character**  
-Martin  
-Auntie  
-Dad  
-Jenny  
-Various roles  
-Various roles **Actor**  
-David Jarrett  
-Rosamund Dickson  
-Stanley Page  
-Hazel Burt  
-Alan Ayckbourn  
-Clifford Williams
+****Play:** Dad's Tale** **Character** **Actor**  
+****Author:** Roland Allen (Alan Ayckbourn)** **Martin** David Jarrett  
+****First performance:** 19 December 1960** **Auntie** Rosamund Dickson  
+****Final performance:** 31 December 1960** **Dad** Stanley Page  
+****Venue:** The Library Theatre, Scarborough** **Jenny** Hazel Burt  
+****Staging:** Round** **Various roles** Alan Ayckbourn  
+****Director:** Clifford Williams** **Various roles** Clifford Williams
 
 ### Quotes & Notes
 

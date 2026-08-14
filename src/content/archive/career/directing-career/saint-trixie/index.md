@@ -8,26 +8,26 @@ order: 486
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Stephen Mallatratt  
+**Venue:**  
+**Location:**  
+**Staging:**Stephen Mallatratt  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Studio  
-Round**First performance:  
-Opening night:  
-Final performance:**23 June 1979  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**23 June 1979  
 23 June 1979  
 31 August 1979
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
 **Stage Manager:**  
 Alan Ayckbourn  

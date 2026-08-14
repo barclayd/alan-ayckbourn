@@ -8,29 +8,18 @@ order: 586
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Miss Julie  
+**Author:** August Strindberg  
+**First performance:** 10 June 1963  
+**Final performance:** 27 July 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Miss Julie  
-August Strindberg
-
-10 June 1963  
-27 July 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Alan Ayckbourn   **Character**  
-Miss Julie  
-Jean\*  
-Christine **Actor**  
-Elizabeth Bell  
-Peter King / Alan Ayckbourn  
-Caroline Smith
+**Character** **Actor**  
+**Miss Julie** Elizabeth Bell  
+**Jean\*** Peter King / Alan Ayckbourn  
+**Christine** Caroline Smith
 
 ### Quotes & Notes
 

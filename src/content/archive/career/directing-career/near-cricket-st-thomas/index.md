@@ -8,27 +8,27 @@ order: 474
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Nick Perry  
+**Venue:**  
+**Location:**  
+**Staging:**Nick Perry  
 Yes
 
 Stephen Joseph Theatre  
 The McCarthy  
-End-stage**First performance:  
-Opening night:  
-Final performance:**31 October 1997  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**31 October 1997  
 31 October 1997  
 15 November 1997
 
 ### Company Details
 
-**Director:  
-Design:  
-Lighting:**
+**Director:**  
+**Design:**  
+**Lighting:**
 
 **Stage Manager:**Alan Ayckbourn  
 Pip Leckenby  

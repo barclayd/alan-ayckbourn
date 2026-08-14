@@ -10,8 +10,8 @@ order: 339
 
 **Author:**
 
-**Broadcast:  
-Channel:**Don Haworth
+**Broadcast:**  
+**Channel:**Don Haworth
 
 5 July 1968 @ 8.05pm  
 BBC Radio 3**Director:**Alan Ayckbourn**Character**  

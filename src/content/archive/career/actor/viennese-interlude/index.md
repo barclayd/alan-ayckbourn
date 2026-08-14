@@ -8,27 +8,17 @@ order: 553
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Viennese Interlude  
+**Author:** Colin Wilson  
+**First performance:** 7 March 1960  
+**Venue:** Mahatma Ghandhi Hall, London  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Viennese Interlude  
-Colin Wilson
-
-7 March 1960  
-Mahatma Ghandhi Hall, London  
-Round
-
-Stephen Joseph   **Character**  
-Dr Otto Steinmetz  
-Franz, a waiter  
-August Strindberg **Actor**  
-David Campton  
-Alan Ayckbourn  
-William Elmhirst
+**Character** **Actor**  
+**Dr Otto Steinmetz** David Campton  
+**Franz, a waiter** Alan Ayckbourn  
+**August Strindberg** William Elmhirst
 
 ### Quotes & Notes
 

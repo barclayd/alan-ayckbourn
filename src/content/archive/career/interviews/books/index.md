@@ -87,8 +87,8 @@ Author: Jeannie Swales
 **○ A Chorus of Disapproval: A Study Guide**  
 *The Gale Group, 2002, e-book, ISBN B00006G3BD*
 
-**○ Confusions To Roundelay: Stages In Ayckbourn’s  
-Creative Work**  
+**○ Confusions To Roundelay: Stages In Ayckbourn’s**  
+**Creative Work**  
 Author: Albert-Reiner Glaap  
 *Wissenschaftlicher Verlag Trier, 2015, ISBN 9783868216295***○ Conversations With Ayckbourn**  
 Author: Ian Watson  

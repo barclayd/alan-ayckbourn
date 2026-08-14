@@ -10,8 +10,8 @@ order: 646
 
 **Author:**
 
-**Broadcast:  
-Channel:**David Ellis
+**Broadcast:**  
+**Channel:**David Ellis
 
 22 May 1967 @ 7.30pm  
 BBC Light Programme**Director:**Alan Ayckbourn**Character**  

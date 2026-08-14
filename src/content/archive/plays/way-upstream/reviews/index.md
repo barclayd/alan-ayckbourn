@@ -57,8 +57,8 @@ Gillian Bevan is his sophisticated partner in crime, and she was well cast in th
 Like almost all his other plays, *Way Upstream* is certainly destined for the West End, but should receive some tightening up and adjustments if it is to be as successful as his previous works."  
 *(The Stage, 15 October 1981)*
 
-*\* Way Upstream is Alan Ayckbourn's 27th full length play.  
-\*\* The theatre was not flooded to the depth of ten feet, it is probably a mis-type for inches, as Alan Ayckbourn has said the depth of the water was 10 inches for the original production.  
-\*\*\* This is entirely Thornber's own interpretation and - misplaced - conjecture. Alan Ayckbourn has always stated the play is not Political and felt that critics who compared it to the rise of the Social Democrat Party were taking a very small view of the play and not appreciative of the play's actual themes.*
+*\* Way Upstream is Alan Ayckbourn's 27th full length play.*  
+*\*\* The theatre was not flooded to the depth of ten feet, it is probably a mis-type for inches, as Alan Ayckbourn has said the depth of the water was 10 inches for the original production.*  
+*\*\*\* This is entirely Thornber's own interpretation and - misplaced - conjecture. Alan Ayckbourn has always stated the play is not Political and felt that critics who compared it to the rise of the Social Democrat Party were taking a very small view of the play and not appreciative of the play's actual themes.*
 
 *All reviews are copyright of the respective publication.*

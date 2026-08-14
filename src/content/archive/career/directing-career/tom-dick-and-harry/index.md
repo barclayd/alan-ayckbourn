@@ -8,19 +8,19 @@ order: 498
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter Blythe  
+**Venue:**  
+**Location:**  
+**Staging:**Peter Blythe  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**7 August 1972  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**7 August 1972  
 7 August 1972  
 13 September 1972
 
@@ -28,10 +28,10 @@ Final performance:**7 August 1972
 
 **Director:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn
 
 Jennifer Smith  
 David Millard  

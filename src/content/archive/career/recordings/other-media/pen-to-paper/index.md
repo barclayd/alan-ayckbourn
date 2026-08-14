@@ -19,11 +19,11 @@ This page contains details of Alan Ayckbourn and Paul Todd's contribution to the
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Presenter  
-Producer**
+**Digital:** Not available**Presenter**  
+**Producer**
 
 Brian Thompson  
 Kay Jamieson
