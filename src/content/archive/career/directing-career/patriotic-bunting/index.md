@@ -20,14 +20,22 @@ order: 479
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** David Millard **Jenny Ellis** Alison Skilbeck  
-**Costumes:** Frances Upton **Harry Goodenough** John Arthur  
+**Director:** Alan Ayckbourn  
+**Design:** David Millard  
+**Costumes:** Frances Upton  
+**Stage Manager:** Janet Fox  
+**Deputy Stage Manager:** Christopher Gray  
+**Assistant Stage Manager:** Dee Marsden  
+**Assistant Stage Manager:** Isobel Nimmo
+
+**Character** **Actor**  
+**Jenny Ellis** Alison Skilbeck  
+**Harry Goodenough** John Arthur  
 **Rupert Salmon** Robert Austin  
-**Stage Manager:** Janet Fox **Jack Hemsworth** Robin Herford  
-**Deputy Stage Manager:** Christopher Gray **Milly Frankland** Shelagh Stuttle  
-**Assistant Stage Manager:** Dee Marsden **Renate Burgholz** Lavinia Bertram  
-**Assistant Stage Manager:** Isobel Nimmo **Molly Frankland** Shelagh Stuttle
+**Jack Hemsworth** Robin Herford  
+**Milly Frankland** Shelagh Stuttle  
+**Renate Burgholz** Lavinia Bertram  
+**Molly Frankland** Shelagh Stuttle
 
 ### Notes
 

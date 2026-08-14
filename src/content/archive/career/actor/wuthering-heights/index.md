@@ -8,13 +8,21 @@ order: 554
 
 ### Production Details
 
-**Play:** Wuthering Heights **Character** **Actor**  
-**Author:** Jurneman Winch **Joseph** David Campton  
-**First performance:** 23 June 1960 **Nellie** Faynia Jeffery  
-**Final performance:** 31 August 1960 **Robert Earnshaw** Derrick Gilbert  
-**Venue:** The Library Theatre, Scarborough **Heathcliff** Alan Ayckbourn  
-**Staging:** Round **Cathy** Hazel Anne Lee  
-**Director:** Julian Herington **Edgar Linton** David Glover
+**Play:** Wuthering Heights  
+**Author:** Jurneman Winch  
+**First performance:** 23 June 1960  
+**Final performance:** 31 August 1960  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Julian Herington
+
+**Character** **Actor**  
+**Joseph** David Campton  
+**Nellie** Faynia Jeffery  
+**Robert Earnshaw** Derrick Gilbert  
+**Heathcliff** Alan Ayckbourn  
+**Cathy** Hazel Anne Lee  
+**Edgar Linton** David Glover
 
 ### Quotes & Notes
 

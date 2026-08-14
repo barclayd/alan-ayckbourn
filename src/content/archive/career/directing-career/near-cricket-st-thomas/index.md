@@ -20,10 +20,15 @@ order: 474
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Pip Leckenby **Officer** Martin Ball  
-**Lighting:** Paul Towson **Civilian** Paull Raffield  
-**Stage Manager:** Unknown **Landlord** Tyler Butterworth
+**Director:** Alan Ayckbourn  
+**Design:** Pip Leckenby  
+**Lighting:** Paul Towson  
+**Stage Manager:** Unknown
+
+**Character** **Actor**  
+**Officer** Martin Ball  
+**Civilian** Paull Raffield  
+**Landlord** Tyler Butterworth
 
 ### Notes
 

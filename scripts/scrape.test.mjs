@@ -125,10 +125,16 @@ const column = (...lines) => `
     ${lines.join('<br>')}
   </div></div>`;
 
-const row = (left, right) =>
-  markdown(`<div class="com_yourhead_stacks_two_columns_stack">
+const rowHtml = (left, right) =>
+  `<div class="com_yourhead_stacks_two_columns_stack">
     <div class="s3_row">${left}${right}</div>
-  </div>`);
+  </div>`;
+
+const row = (left, right) => markdown(rowHtml(left, right));
+
+/** A table drawn inside one column of another: the third and fourth columns. */
+const nest = (left, right) =>
+  `<div class="s3_column">${rowHtml(left, right)}</div>`;
 
 function markdown(html) {
   const $ = load(`<div id="content">${html}</div>`);
@@ -223,21 +229,83 @@ test('a column of labels shorter than its values is not paired', () => {
   assert.doesNotMatch(uneven, /\*\*Play:\*\* Dad/);
 });
 
-test('a table inside a table pairs three columns', () => {
-  // The cast-size table: play titles beside a nested cast / breakdown pair.
+test('a table inside a table is three columns, and a real table', () => {
+  /* The cast-size table: play titles beside a nested cast / breakdown pair.
+     Three columns run together as pairs — `**Play** **Cast** **Breakdown**` is
+     the whole header on one line — so this is where a table earns its markup. */
   assert.equal(
     row(
       column(b('Play'), 'Absent Friends', 'Bedroom Farce'),
-      `<div class="s3_column"><div class="com_yourhead_stacks_two_columns_stack">
-        <div class="s3_row">
-          ${column(b('Cast'), '6', '4')}
-          ${column(b('Breakdown'), '3m / 3f', '2m / 2f')}
-        </div>
-      </div></div>`,
+      nest(
+        column(b('Cast'), '6', '4'),
+        column(b('Breakdown'), '3m / 3f', '2m / 2f'),
+      ),
     ),
-    '**Play** **Cast** **Breakdown**  \n' +
-      '**Absent Friends** **6** 3m / 3f  \n' +
-      '**Bedroom Farce** **4** 2m / 2f',
+    '| Play | Cast | Breakdown |\n' +
+      '| --- | --- | --- |\n' +
+      '| Absent Friends | 6 | 3m / 3f |\n' +
+      '| Bedroom Farce | 4 | 2m / 2f |',
+  );
+});
+
+test('a data sheet beside a cast list stays two tables', () => {
+  /* Every credit page sets its production credits next to its cast, and the two
+     balance row for row by coincidence. Zipped, the four-column result read the
+     director against the first character. */
+  assert.equal(
+    row(
+      nest(
+        column(b('Director:'), b('Design:'), b('Lighting:')),
+        column('Alan Ayckbourn', 'Michael Holt', 'Paul Towson'),
+      ),
+      nest(
+        column(b('Character'), 'Pete', 'Jerry'),
+        column(b('Actor'), 'Bill Champion', 'Keith Bartlett'),
+      ),
+    ),
+    '**Director:** Alan Ayckbourn  \n' +
+      '**Design:** Michael Holt  \n' +
+      '**Lighting:** Paul Towson\n\n' +
+      '**Character** **Actor**  \n' +
+      '**Pete** Bill Champion  \n' +
+      '**Jerry** Keith Bartlett',
+  );
+});
+
+test('the headings above a table become its header row', () => {
+  /* The premieres and directing tables have no header row: the archive drew the
+     header as its own layout row, so it arrives as one heading per column. Left
+     standing they label nothing — only the last of the three survives
+     dropEmptyLabels — and the columns lose the only names they have. */
+  assert.equal(
+    markdown(
+      '<h2>Play</h2><h2>Date</h2><h2>Venue</h2>' +
+        rowHtml(
+          column('The Square Cat', 'Love After All', 'Dad&rsquo;s Tale'),
+          nest(
+            column('1959', '1959', '1960'),
+            column('Library', 'Library', 'Library'),
+          ),
+        ),
+    ),
+    '| Play | Date | Venue |\n' +
+      '| --- | --- | --- |\n' +
+      '| The Square Cat | 1959 | Library |\n' +
+      '| Love After All | 1959 | Library |\n' +
+      '| Dad’s Tale | 1960 | Library |',
+  );
+});
+
+test('a link over several rows links each of them', () => {
+  /* Three productions of Absent Friends share one anchor in the directing
+     tables, so the link opened on the first row and closed on the third —
+     leaving all three carrying the brackets as text. */
+  const href = 'http://absentfriends.alanayckbourn.net';
+  assert.equal(
+    markdown(
+      `<div class="text_stack"><a href="${href}">Absent Friends<br>Absent Friends</a></div>`,
+    ),
+    `[Absent Friends](${href})  \n[Absent Friends](${href})`,
   );
 });
 

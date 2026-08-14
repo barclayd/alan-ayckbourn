@@ -8,14 +8,23 @@ order: 375
 
 ### Production Details
 
-**Play:** An Inspector Calls **Character** **Actor**  
-**Author:** J B Priestley **Arthur Birling** Malcolm Rogers  
-**First performance:** 11 July 1957 **Gerald Croft** Frank Mills  
-**Final performance:** 28 August 1957 **Sheila Birling** Shirley Jacobs  
-**Venue:** The Library Theatre, Scarborough **Sybil Birling** Betty Cardno  
-**Staging:** Round **Eric Birling** Alan Ayckbourn  
-**Director:** Clive Goodwin **Inspector Goole** Rodney Wood  
-**Stage Manager:** Alan Ayckbourn **Edna** Anne Taylor
+**Play:** An Inspector Calls  
+**Author:** J B Priestley  
+**First performance:** 11 July 1957  
+**Final performance:** 28 August 1957  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Clive Goodwin  
+**Stage Manager:** Alan Ayckbourn
+
+**Character** **Actor**  
+**Arthur Birling** Malcolm Rogers  
+**Gerald Croft** Frank Mills  
+**Sheila Birling** Shirley Jacobs  
+**Sybil Birling** Betty Cardno  
+**Eric Birling** Alan Ayckbourn  
+**Inspector Goole** Rodney Wood  
+**Edna** Anne Taylor
 
 ### Quotes & Notes
 

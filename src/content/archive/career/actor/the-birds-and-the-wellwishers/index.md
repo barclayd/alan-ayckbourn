@@ -8,13 +8,21 @@ order: 514
 
 ### Production Details
 
-**Play:** The Birds And The Well-Wishers **Character** **Actor**  
-**Author:** William Norfolk **Mrs Trigger** Heather Stoney  
-**First performance:** 9 October 1962 **Vi** Caroline Smith  
-**Final performance:** 15 December 1962 **Maisie** Elizabeth Bell  
-**Venue:** Victoria Theatre, Stoke-on-Trent **Fred** Alan Ayckbourn  
-**Staging:** Round **Bob** Stanley Page  
-**Director:** Peter Cheeseman **Stage Manager** Arnold Beck
+**Play:** The Birds And The Well-Wishers  
+**Author:** William Norfolk  
+**First performance:** 9 October 1962  
+**Final performance:** 15 December 1962  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman
+
+**Character** **Actor**  
+**Mrs Trigger** Heather Stoney  
+**Vi** Caroline Smith  
+**Maisie** Elizabeth Bell  
+**Fred** Alan Ayckbourn  
+**Bob** Stanley Page  
+**Stage Manager** Arnold Beck
 
 ### Quotes & Notes
 

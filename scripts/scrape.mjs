@@ -501,8 +501,23 @@ function clean($) {
         const parallel = [left, right].every((col) =>
           col.every((line) => BULLETED.test(line.text)),
         );
+        /* A half that is already a table sends its label column up to this
+           reading, and a column of bare "Director:" labels is a data sheet
+           standing on its own. Every credit page sets one beside a
+           "Character"/"Actor" cast list; the two balance at eight rows by
+           coincidence, `tabular` accepted them, and the four-column result read
+           the director against the first character. `sheet` misses it because
+           the label arrives here without the value that follows its colon. */
+        const nested = cols.some((col) => $(col).find('dl').length > 0);
+        const sideBySide =
+          nested &&
+          [left, right].some(
+            (col) =>
+              col.filter((line) => line.text.endsWith(':')).length * 2 >
+              col.length,
+          );
         const table = labelled || (!prose && (headed || tabular));
-        if (!table || sheet || parallel) {
+        if (!table || sheet || parallel || sideBySide) {
           continue;
         }
         row.tagName = 'dl';
@@ -590,10 +605,16 @@ const escapeMd = (text) =>
     .replace(/([\\`*[\]<>])/g, '\\$1');
 
 /**
- * The rows of a table clean() found drawn as two columns, one markdown line
- * each: `**label** value`, which is how the archive writes a data sheet when it
- * does not reach for columns — and reads down a phone, which two columns of
- * names never did.
+ * A cell boundary, kept through serialisation the way `<br>` keeps a line
+ * boundary: a table nested in another table's cell has to reach the enclosing
+ * zip as cells, not as one joined string, or the third column is lost. `<`
+ * is escaped in content, so nothing but this can produce it.
+ */
+const CELL = '<td>';
+
+/**
+ * The rows of a table clean() found drawn as two columns — one array of cells
+ * per row.
  */
 function zipRows($, node, links) {
   /* A table whose columns line up on their blank lines, not on their content:
@@ -611,15 +632,23 @@ function zipRows($, node, links) {
      only whitespace. Walk the longer column so no cell is dropped. */
   return Array.from(
     { length: Math.max(labels.length, values.length) },
-    (_, i) => {
-      const label = labels[i];
-      /* Already bold, or already a zipped row of its own from a table nested in
-         this cell — either way it does not want another pair of asterisks. */
-      const bold = !label || label.includes('**') ? label : `**${label}**`;
-      return [bold, values[i]].filter(Boolean).join(' ');
-    },
+    (_, i) =>
+      [labels[i] ?? '', values[i] ?? ''].flatMap((cell) => cell.split(CELL)),
   );
 }
+
+/**
+ * A two-column row as the archive writes a data sheet when it does not reach
+ * for columns: `**label** value`. It reads down a phone, which two columns of
+ * names never did, and the bold carries the key.
+ */
+const pairLine = (cells) =>
+  cells
+    .map((cell, i) =>
+      i || !cell || cell.includes('**') ? cell : `**${cell}**`,
+    )
+    .filter(Boolean)
+    .join(' ');
 
 /** Serialises one node, keeping `<br>` as a marker for the block split. */
 function inlineNode($, n, links) {
@@ -633,9 +662,12 @@ function inlineNode($, n, links) {
     case 'br':
       return '<br>';
     /* A table nested inside another table's cell: its rows become the cell's
-       lines, so the column enclosing it pairs against them one for one. */
+       lines, so the column enclosing it pairs against them one for one, and its
+       own cells stay separate so the pair is a three-column row. */
     case 'dl':
-      return zipRows($, n, links).join('<br>');
+      return zipRows($, n, links)
+        .map((cells) => cells.join(CELL))
+        .join('<br>');
     case 'em':
     case 'i':
       return emphasise(inlineMd($, n, links), '*');
@@ -663,7 +695,20 @@ function inlineNode($, n, links) {
         return t;
       }
       const target = links(href);
-      return target ? `[${t}](${target})` : t;
+      if (!target) {
+        return t;
+      }
+      /* One anchor over several lines is how the archive links a run of rows
+         that share a play: three productions of Absent Friends under one link,
+         so `[a<br>b<br>c](url)` opened the link on the first row and closed it
+         on the third, and all three kept the brackets as text. Each line takes
+         its own link to the one target — which is what a row wants anyway. */
+      return t
+        .split(LINE_BREAK)
+        .map((part, i) =>
+          i % 2 || !part.trim() ? part : `[${part}](${target})`,
+        )
+        .join('');
     }
     case 'img': {
       const src = links.image($(n).attr('src'));
@@ -698,6 +743,30 @@ function splitParagraphs(run) {
     .filter(Boolean);
 }
 
+/**
+ * The header row of a multi-column table, where the archive drew it as its own
+ * layout row: `Play` / `Author` / `Venue` / `Year` arrive as four headings
+ * immediately above the table, one per column. Taken into the table rather than
+ * left standing, because `dropEmptyLabels` reads all but the last as a heading
+ * labelling nothing and the columns then lose the only names they have.
+ *
+ * ponytail: a table with neither a bold first row nor headings above it would
+ * promote its first row of data to the header. There is no such table in the
+ * archive — all 29 have one or the other.
+ */
+function withHeader(blocks, rows, width) {
+  const head = rows[0].filter(Boolean);
+  if (head.length && head.every((cell) => cell.includes('**'))) {
+    return rows;
+  }
+  const above = blocks.slice(-width);
+  if (above.length < width || !above.every((b) => b.type === 'h')) {
+    return rows;
+  }
+  blocks.length -= width;
+  return [above.map((b) => b.text), ...rows];
+}
+
 function blocksOf($, root, links) {
   const blocks = [];
   let run = '';
@@ -728,14 +797,26 @@ function blocksOf($, root, links) {
       blocks.push({ type: 'aside', blocks: blocksOf($, node, links) });
     } else if (tag === 'dl') {
       flush();
-      blocks.push({
-        type: 'p',
-        sheet: true,
-        /* A padded table's blank rows hold its columns in step and are dropped
-           only here, at the end: the row above already names the group they
-           separate, and a nested table still needs them to align. */
-        text: zipRows($, node, links).filter(Boolean).join('  \n'),
-      });
+      /* A padded table's blank rows hold its columns in step and are dropped
+         only here, at the end: the row above already names the group they
+         separate, and a nested table still needs them to align. */
+      const rows = zipRows($, node, links).filter((cells) =>
+        cells.some(Boolean),
+      );
+      /* Three columns is where pairs stop working: `**Author** Publication
+         **Date** Topic` is every cell of a row run together. Two columns are the
+         data sheets and the cast lists, and those read better as pairs than any
+         table of two columns would. */
+      const width = Math.max(0, ...rows.map((cells) => cells.length));
+      if (width > 2) {
+        blocks.push({ type: 'table', rows: withHeader(blocks, rows, width) });
+      } else {
+        blocks.push({
+          type: 'p',
+          sheet: true,
+          text: rows.map(pairLine).join('  \n'),
+        });
+      }
     } else if (tag === 'img') {
       flush();
       const src = links.image($(node).attr('src'));
@@ -904,6 +985,25 @@ function dropNavBlocks(blocks, title) {
   };
 }
 
+/**
+ * A GFM table. `|` is escaped only here: it means nothing anywhere else in this
+ * output, and inside a table it ends the cell.
+ */
+function renderTable(rows) {
+  const width = Math.max(...rows.map((cells) => cells.length));
+  const line = (cells) =>
+    `| ${Array.from({ length: width }, (_, i) =>
+      (cells[i] || '').replace(/\|/g, '\\|'),
+    ).join(' | ')} |`;
+  const [head, ...body] = rows;
+  return [
+    // The `<th>` carries the emphasis a header row typed in bold was asking for.
+    line(head.map((cell) => cell.replace(/\*\*/g, ''))),
+    `|${' --- |'.repeat(width)}`,
+    ...body.map(line),
+  ].join('\n');
+}
+
 function render(blocks, depth = 0) {
   return blocks
     .map((b) => {
@@ -917,6 +1017,9 @@ function render(blocks, depth = 0) {
         return b.items
           .map((it, i) => `${b.ordered ? `${i + 1}.` : '-'} ${it}`)
           .join('\n');
+      }
+      if (b.type === 'table') {
+        return renderTable(b.rows);
       }
       if (b.type === 'aside') {
         return depth > 0

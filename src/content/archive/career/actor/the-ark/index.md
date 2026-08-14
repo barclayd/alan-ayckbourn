@@ -8,13 +8,21 @@ order: 556
 
 ### Production Details
 
-**Play:** The Ark **Character** **Actor**  
-**Author:** James Saunders **Noah** David Campton  
-**First performance:** 21 July 1960 **Ham** Derrick Gilbert  
-**Final performance:** 17 August 1960 **Shem** David Glover  
-**Venue:** The Library Theatre, Scarborough **Shem's Wife** Hazel Anne Lee  
-**Staging:** Round **Japheth** Alan Ayckbourn  
-**Director:** Stephen Joseph **Japheth's wife** Faynia Jeffery
+**Play:** The Ark  
+**Author:** James Saunders  
+**First performance:** 21 July 1960  
+**Final performance:** 17 August 1960  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
+
+**Character** **Actor**  
+**Noah** David Campton  
+**Ham** Derrick Gilbert  
+**Shem** David Glover  
+**Shem's Wife** Hazel Anne Lee  
+**Japheth** Alan Ayckbourn  
+**Japheth's wife** Faynia Jeffery
 
 ### Quotes & Notes
 

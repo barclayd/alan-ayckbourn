@@ -20,11 +20,18 @@ order: 422
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Costumes:** Christine Welch **Mike** Christopher Godwin  
-**Stage Manager:** David Millard **Susan** Janet Dale  
-**Deputy Stage Manager:** Trevor John-Smith **Bernard** Ronald Herdman  
-**Assistant Stage Manager:** Helga Wood **Ken** Stephen Mallatratt  
-**Assistant Stage Manager:** Kevin Wood **Anna** Eileen O'Brien
+**Director:** Alan Ayckbourn  
+**Costumes:** Christine Welch  
+**Stage Manager:** David Millard  
+**Deputy Stage Manager:** Trevor John-Smith  
+**Assistant Stage Manager:** Helga Wood  
+**Assistant Stage Manager:** Kevin Wood
+
+**Character** **Actor**  
+**Mike** Christopher Godwin  
+**Susan** Janet Dale  
+**Bernard** Ronald Herdman  
+**Ken** Stephen Mallatratt  
+**Anna** Eileen O'Brien
 
 *All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

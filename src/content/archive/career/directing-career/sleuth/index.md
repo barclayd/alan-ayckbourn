@@ -20,12 +20,19 @@ order: 490
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Terry Brown **Andrew Wyke** Robert Austin  
-**Stage Manager:** Janet Fox **Milo Tindle** Robin Herford  
-**Deputy Stage Manager:** Christopher Gray **Inspector Doppler** Paul Keithley  
-**Assistant Stage Manager:** Anne Hawkins **Det. Sgt. Tarrant** Colin Tagg  
-**Assistant Stage Manager:** Simon Richardson **Police Constable Higgs** Peter Sedgewick
+**Director:** Alan Ayckbourn  
+**Design:** Terry Brown  
+**Stage Manager:** Janet Fox  
+**Deputy Stage Manager:** Christopher Gray  
+**Assistant Stage Manager:** Anne Hawkins  
+**Assistant Stage Manager:** Simon Richardson
+
+**Character** **Actor**  
+**Andrew Wyke** Robert Austin  
+**Milo Tindle** Robin Herford  
+**Inspector Doppler** Paul Keithley  
+**Det. Sgt. Tarrant** Colin Tagg  
+**Police Constable Higgs** Peter Sedgewick
 
 ### Notes
 

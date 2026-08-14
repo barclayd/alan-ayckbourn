@@ -20,17 +20,28 @@ order: 478
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Lighting:** Mick Thomas **Alexei** Peter Forbes  
-**Design:** Michael Holt **Yulia** Francesca Buller  
-**Pianist:** Vincent Billington **Dr Byelavin** Peter Laird  
-**Tenor:** Steven Welford **Panaurov** Jon Strickland  
+**Director:** Alan Ayckbourn  
+**Lighting:** Mick Thomas  
+**Design:** Michael Holt  
+**Pianist:** Vincent Billington  
+**Tenor:** Steven Welford  
+**Stage Manager:** Vaughan Curtis  
+**Deputy Stage Manager:** Kate Haswell  
+**Deputy Stage Manager:** David O'Neill  
+**Assistant Stage Manager:** Braco Dawson  
+**Assistant Stage Manager:** Sarah Percival
+
+**Character** **Actor**  
+**Alexei** Peter Forbes  
+**Yulia** Francesca Buller  
+**Dr Byelavin** Peter Laird  
+**Panaurov** Jon Strickland  
 **Fyodor** John Gillett  
-**Stage Manager:** Vaughan Curtis **Pochatkin** Daniel Collings  
-**Deputy Stage Manager:** Kate Haswell **Laptev** Graeme Eton  
-**Deputy Stage Manager:** David O'Neill **Polina** Lynette Edwards  
-**Assistant Stage Manager:** Braco Dawson **Yartsev** Simon Chandler  
-**Assistant Stage Manager:** Sarah Percival **Pyotr** Adam Godley
+**Pochatkin** Daniel Collings  
+**Laptev** Graeme Eton  
+**Polina** Lynette Edwards  
+**Yartsev** Simon Chandler  
+**Pyotr** Adam Godley
 
 ### Notes
 

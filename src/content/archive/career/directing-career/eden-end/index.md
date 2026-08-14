@@ -20,14 +20,23 @@ order: 456
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Lighting:** Mick Thomas **Wilfred** Adam Godley  
-**Costumes:** Lynn Aitken **Sarah** Doreen Andrew  
-**Stage Manager:** Vaughan Curtis **Lilian** Jenny Funnell  
-**Deputy Stage Manager:** Kate Haswell **Dr Kirby** Graeme Eton  
-**Deputy Stage Manager:** David O'Neill **Stella Kirby** Lesley Meade  
-**Assistant Stage Manager:** Braco Dawson **Geoffrey Farrant** John Gillett  
-**Assistant Stage Manager:** Sarah Percival **Charles Appleby** Simon Chandler
+**Director:** Alan Ayckbourn  
+**Lighting:** Mick Thomas  
+**Costumes:** Lynn Aitken  
+**Stage Manager:** Vaughan Curtis  
+**Deputy Stage Manager:** Kate Haswell  
+**Deputy Stage Manager:** David O'Neill  
+**Assistant Stage Manager:** Braco Dawson  
+**Assistant Stage Manager:** Sarah Percival
+
+**Character** **Actor**  
+**Wilfred** Adam Godley  
+**Sarah** Doreen Andrew  
+**Lilian** Jenny Funnell  
+**Dr Kirby** Graeme Eton  
+**Stella Kirby** Lesley Meade  
+**Geoffrey Farrant** John Gillett  
+**Charles Appleby** Simon Chandler
 
 ### Notes
 

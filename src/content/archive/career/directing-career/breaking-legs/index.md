@@ -20,13 +20,21 @@ order: 441
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Lighting:** Jackie Staines **Terence O'Keefe** Peter Bourke  
-**Design:** Juliet Nichols **Lou Graziano** Jeffrey Chiswick  
-**Dialect Coach:** Andrew Jack **Angie** Susan Denaker  
-**Stage Manager:** Jane Eliot-Webb **Mike Fransisco** Glyn Grain  
-**Deputy Stage Manager:** Erica Jane Fletcher **Tino de Felice** Robert Austin  
-**Assistant Stage Manager:** Kevin Riley **Frankie Salvucci** Barry McCarthy
+**Director:** Alan Ayckbourn  
+**Lighting:** Jackie Staines  
+**Design:** Juliet Nichols  
+**Dialect Coach:** Andrew Jack  
+**Stage Manager:** Jane Eliot-Webb  
+**Deputy Stage Manager:** Erica Jane Fletcher  
+**Assistant Stage Manager:** Kevin Riley
+
+**Character** **Actor**  
+**Terence O'Keefe** Peter Bourke  
+**Lou Graziano** Jeffrey Chiswick  
+**Angie** Susan Denaker  
+**Mike Fransisco** Glyn Grain  
+**Tino de Felice** Robert Austin  
+**Frankie Salvucci** Barry McCarthy
 
 ### Notes
 

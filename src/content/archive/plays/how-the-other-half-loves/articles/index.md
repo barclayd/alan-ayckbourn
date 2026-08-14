@@ -11,6 +11,15 @@ play: "how-the-other-half-loves"
 
 ### How The Other Half Loves
 
+<aside>
+
+**Articles by Alan Ayckbourn**  
+○ *[How The Other Half Loves](/plays/how-the-other-half-loves/articles/windsor-theatre)*[(1973)](/plays/how-the-other-half-loves/articles/windsor-theatre)  
+○ *[How The Other Half Loves](/plays/how-the-other-half-loves/articles/how-the-other-loves)*[(date unknown)](/plays/how-the-other-half-loves/articles/how-the-other-loves)  
+○ *[Characters](/plays/how-the-other-half-loves/articles/characters)*
+
+</aside>
+
 This is my seventh play to see its first light of day in Scarborough and, like the others, it's a comedy.
 
 I suppose it's inevitable that comparisons will be drawn between this and *Relatively Speaking*. In fact, it's an exploration of the same sort of theme but with a few decided differences.

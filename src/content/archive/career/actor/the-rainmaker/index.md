@@ -8,14 +8,21 @@ order: 532
 
 ### Production Details
 
-**Play:** The Rainmaker **Character** **Actor**  
-**Author:** N. Richard Nash **H.C. Curry** Richard Vernon  
+**Play:** The Rainmaker  
+**Author:** N. Richard Nash  
+**First performance:** 13 May 1957  
+**Venue:** Leatherhead Theatre Club  
+**Staging:** End-stage  
+**Director:** Stafford Byrne
+
+**Character** **Actor**  
+**H.C. Curry** Richard Vernon  
 **Noah Curry** George Cooper  
-**First performance:** 13 May 1957 **Jim Curry** Alan Ayckbourn  
-**Venue:** Leatherhead Theatre Club **Lizzie Curry** Phyllis Partridge  
-**Staging:** End-stage **File** Derek Martinus  
+**Jim Curry** Alan Ayckbourn  
+**Lizzie Curry** Phyllis Partridge  
+**File** Derek Martinus  
 **Sherriff Thomas** David Crosse  
-**Director:** Stafford Byrne **Bill Starbuck** Michael Allinson
+**Bill Starbuck** Michael Allinson
 
 ### Quotes & Notes
 

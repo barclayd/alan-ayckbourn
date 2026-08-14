@@ -80,8 +80,8 @@ For in-depth details on specific plays, click on the play title.
 
 ### Contributions (works with contributions from Alan Ayckbourn)
 
-**1962…..[Mixed Doubles](/plays/countdown)** 1982…..[Cinderella's Star Night](/)[  
-**1973…..[Mixed Blessings](http://www.theatre-in-the-round.com/)** ](/life/ayckbourn-faqs/acting)1993…..[Millennium attraction](/encyclopaedia)  
+**1962…..[Mixed Doubles](/plays/countdown)** 1982…..[Cinderella's Star Night](/)  
+**1973…..[Mixed Blessings](http://www.theatre-in-the-round.com/)** 1993…..[Millennium attraction](/encyclopaedia)  
 **1975…..[What The Devil!](/plays/dracula-sketch-from)** 2011…..[Where's My Seat?](/publications)  
 **1981…..[Pen To Paper](/life)** 2016…..[Where Is Peter Rabbit?](/plays)
 

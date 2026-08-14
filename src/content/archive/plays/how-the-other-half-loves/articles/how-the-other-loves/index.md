@@ -11,6 +11,15 @@ play: "how-the-other-half-loves"
 
 ### How The Other Half Loves
 
+<aside>
+
+**Articles by Alan Ayckbourn**  
+○ *[How The Other Half Loves](/plays/how-the-other-half-loves/articles)*[(1969)](/plays/how-the-other-half-loves/articles)  
+○ *[How The Other Half Loves](/plays/how-the-other-half-loves/articles/windsor-theatre)*[(1973)](/plays/how-the-other-half-loves/articles/windsor-theatre)  
+○ *[Characters](/plays/how-the-other-half-loves/articles/characters)*
+
+</aside>
+
 I’ve always been interested in Time. Stage Time that is. How a writer is able - and often does - bend time to suit his story-telling. ‘Heavens,’ cries some character, ‘I’ve been here over an hour and nobody’s even offered me a drink.’ In reality, of course, while it’s an hour for the character, for the audience it’s been only 15 minutes. It’s a device used one way or another in practically every play that’s ever been written. In *How The Other Half Loves*, I’ve explored this a little more than is normal.
 
 Similarly with space. Stage Space that is. The same area of stage can be used to denote, say, a forest or a sitting room or a mineshaft – often with very little setting, particularly on the open stages that I normally use. Again, *How The Other Half Loves* plays around quite considerably with space. In fact, playing describes the whole piece rather exactly.

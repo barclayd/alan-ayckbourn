@@ -10,36 +10,36 @@ It also stocks souvenir publications related to Alan Ayckbourn and theatre-in-th
 
 If you have any enquiries regarding this page, the publications on offer or specific books or programmes you are searching for, please contact Simon Murgatroyd at **[admin@alanayckbourn.net](mailto:admin@alanayckbourn.net)**.
 
-**[A Theatrical Revolution**  
-**](/publications/book-store/a-theatrical-revolution)***by Simon Murgatroyd*  
+**[A Theatrical Revolution](/publications/book-store/a-theatrical-revolution)**  
+*by Simon Murgatroyd*  
 £10 (inc. UK P&P)
 
-**[Unseen Ayckbourn**  
-**](/publications/book-store/unseen-ayckbourn)***by Simon Murgatroyd*  
+**[Unseen Ayckbourn](/publications/book-store/unseen-ayckbourn)**  
+*by Simon Murgatroyd*  
 £15 (inc. UK P&P)
 
-**[A Round 50**  
-**](/publications/book-store/a-round-50)***by Simon Murgatroyd*  
+**[A Round 50](/publications/book-store/a-round-50)**  
+*by Simon Murgatroyd*  
 £10 (inc. UK P&P)
 
-**[The SJT:**  
-**A Photographic Record**  
-**](/publications/book-store/the-sjt-a-photographic-record)***by Adrian Gatie*  
+**[The SJT:](/publications/book-store/the-sjt-a-photographic-record)**  
+**[A Photographic Record](/publications/book-store/the-sjt-a-photographic-record)**  
+*by Adrian Gatie*  
 £8 (inc. UK P&P)
 
-**[A Chorus**  
-**of Approval**  
-**](/publications/book-store/a-chorusof-approval)***by Jeannie Swales*  
+**[A Chorus](/publications/book-store/a-chorusof-approval)**  
+**[of Approval](/publications/book-store/a-chorusof-approval)**  
+*by Jeannie Swales*  
 £10 (inc. UK P&P)
 
-**[Celebrating 20 Years**  
-**at Westwood**  
-**](/publications/book-store/celebrating-20-yearsat-westwood)***by Alan Ayckbourn*  
+**[Celebrating 20 Years](/publications/book-store/celebrating-20-yearsat-westwood)**  
+**[at Westwood](/publications/book-store/celebrating-20-yearsat-westwood)**  
+*by Alan Ayckbourn*  
 £10 (inc. UK P&P)
 
-**[A History of the**  
-**Friends of the SJT**  
-**](/publications/book-store/a-history-of-thefriends-of-the-sjt)***by Ren Yaldren*  
+**[A History of the](/publications/book-store/a-history-of-thefriends-of-the-sjt)**  
+**[Friends of the SJT](/publications/book-store/a-history-of-thefriends-of-the-sjt)**  
+*by Ren Yaldren*  
 £8 (inc. UK P&P)
 
 ### Programmes, Ephemera & Other Books

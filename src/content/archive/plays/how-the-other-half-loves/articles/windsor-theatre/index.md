@@ -11,6 +11,15 @@ play: "how-the-other-half-loves"
 
 ### How The Other Half Loves
 
+<aside>
+
+**Articles by Alan Ayckbourn**  
+○ *[How The Other Half Loves](/plays/how-the-other-half-loves/articles)*[(1969)](/plays/how-the-other-half-loves/articles)  
+○ *[How The Other Half Loves](/plays/how-the-other-half-loves/articles/how-the-other-loves)*[(date unknown)](/plays/how-the-other-half-loves/articles/how-the-other-loves)  
+○ *[Characters](/plays/how-the-other-half-loves/articles/characters)*
+
+</aside>
+
 "Why?" asked a certain lady in the audience when *How the Other Half Loves* was on its pre-London tour, "why are they all acting in the same room when it's obviously supposed to be two totally different rooms?" Her companion's answer was succinct and knowledgeable. "They're economising on the scenery, dear," she replied.
 
 Actually, the piece started, like all my others, in a tiny theatre in Scarborough, in a public library where we present new plays to entertain often very wet holidaymakers. It's an in-the-round theatre, so we were able to economise still further by having no scenery at all.

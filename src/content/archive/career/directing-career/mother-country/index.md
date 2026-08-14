@@ -20,13 +20,20 @@ order: 473
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Helga Wood **Dorothy** Alison Skilbeck  
+**Director:** Alan Ayckbourn  
+**Design:** Helga Wood  
+**Stage Manager:** Simon Somers  
+**Assistant Stage Manager:** Christopher Gray  
+**Assistant Stage Manager:** Wendy Murray  
+**Assistant Stage Manager** Nigel LeVaillant
+
+**Character** **Actor**  
+**Dorothy** Alison Skilbeck  
 **Geraldine** Elspeth Charlton  
-**Stage Manager:** Simon Somers **Shakespeare** Elaine Strickland  
-**Assistant Stage Manager:** Christopher Gray **Peter** Robin Herford  
-**Assistant Stage Manager:** Wendy Murray **Nobby** Stephen Lowe  
-**Assistant Stage Manager** Nigel LeVaillant **Vic** Christopher Godwin
+**Shakespeare** Elaine Strickland  
+**Peter** Robin Herford  
+**Nobby** Stephen Lowe  
+**Vic** Christopher Godwin
 
 ### Notes
 

@@ -20,14 +20,22 @@ order: 449
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Costumes:** Tina Bicat **Captain Field** Ray Jewers  
-**Music:** Barrie Davenport **Ivan** David Hayward  
+**Director:** Alan Ayckbourn  
+**Costumes:** Tina Bicat  
+**Music:** Barrie Davenport  
+**Stage Manager:** Jennifer Smith  
+**Deputy Stage Manager:** David Millard  
+**Assistant Stage Manager:** David Hayward  
+**Assistant Stage Manager:** Sue Rogers
+
+**Character** **Actor**  
+**Captain Field** Ray Jewers  
+**Ivan** David Hayward  
 **Laura** Philippa Urquhart  
-**Stage Manager:** Jennifer Smith **Madame Perrodon** Matyelok Gibbs  
-**Deputy Stage Manager:** David Millard **Colonel Smithson** Piers Rogers  
-**Assistant Stage Manager:** David Hayward **Carmilla** Jennifer Piercey  
-**Assistant Stage Manager:** Sue Rogers **Dr Spielsberg** Christopher Godwin
+**Madame Perrodon** Matyelok Gibbs  
+**Colonel Smithson** Piers Rogers  
+**Carmilla** Jennifer Piercey  
+**Dr Spielsberg** Christopher Godwin
 
 ### Notes
 
