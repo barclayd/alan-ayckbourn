@@ -17,7 +17,7 @@ When the play premiered on Broadway, the budget had obviously increased as the p
 
 Of course there is no definitive way to stage the play, but each of these three major productions tackled the play in an equally valid way. When *Absurd Person Singular* was revived by Alan Ayckbourn at the Stephen Joseph Theatre In The Round in 1989 and the Stephen Joseph Theatre in 2012, the staging was much as the original demonstrating perhaps that more complex is not necessarily better.
 
-![](./_images/stacks-image-cf16aa7.jpg)
+![Black-and-white production photograph staged in the round: a chequered kitchen floor with a woman crouched at a washing machine, two men standing behind her, and a table and chairs in the foreground](./_images/stacks-image-cf16aa7.jpg)
 
 ![](./_images/stacks-image-e96fce2.jpg)
 
@@ -26,3 +26,5 @@ Of course there is no definitive way to stage the play, but each of these three 
 ![](./_images/stacks-image-78a17b3.jpg)
 
 *3) Edward Burbridge's two revolve design for the Hopcroft kitchen for the 1974 Broadway production. (copyright: Edward Burbridge, reproduced from the Samuel French edition)*
+
+*All images are copyright of the respective copyright holder and should not be reproduced without permission.*

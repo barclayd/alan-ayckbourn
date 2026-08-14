@@ -12,4 +12,4 @@ You can find out more about Alan Ayckbourn and his relationship with the company
 
 ### Plays Produced / Directed / Premiered in Scarborough
 
-![](./_images/footer-the-sjt.jpg)
+![A strip of archive photographs: the Library Theatre entrance under its Theatre in the Round sign, Stephen Joseph in horn-rimmed glasses, the concentric-ring theatre logo, the Victorian Westwood building, Alan Ayckbourn sitting back in a chair, the round Stephen Joseph Theatre in the Round stamp, the converted Odeon that became the Stephen Joseph Theatre, Alan Ayckbourn in later life, and the SJT monogram](./_images/footer-the-sjt.jpg)

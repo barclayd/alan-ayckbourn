@@ -9,6 +9,7 @@ facts:
   World Premiere: "26 November 1975"
   World Premiere Venue: "Theatre in the Round at the Library Theatre, Scarborough"
   Play Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A one act sketch in which the vampire Dracula arrives at a strange farmhouse during a full moon. It was presented as part of the revue *What The Devil!*"
   First performance: "26 November 1975"
   Final performance: "29 November 1975"
@@ -23,8 +24,6 @@ facts:
   Deidre: "Polly Warren"
   Note: "*Dracula* was presented as part of the revue *What The Devil!*"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -53,3 +52,7 @@ An original manuscript for *What The Devil!* - which includes *Dracula* - is hel
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
+
+**Reviews (world premiere)**  
+*Treats From The Devil* (The Scarborough Evening News, 27 November 1975)  
+*What The Devil!* (The Stage, 24 December 1975)

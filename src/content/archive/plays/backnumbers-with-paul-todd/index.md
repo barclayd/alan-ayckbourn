@@ -9,14 +9,13 @@ facts:
   World Premiere: "19 July 1983"
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Play Description: "Grey Play"
+  Published / Available To Stage: "No"
   Short Synopsis: "Two revues consisting of songs from previous collaborations between Alan Ayckbourn and the composer Paul Todd."
   Venue: "Stephen Joseph Theatre in the Round, Scarborough"
   Director: "Alan Ayckbourn"
   Musical Director: "Paul Todd"
   Design: "Edward Lipscomb"
 ---
-
-**Published / Available To Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -76,3 +75,6 @@ An original manuscript for *Backnumbers* is held in the Ayckbourn Archive in the
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
+
+**Reviews**  
+*Musical Insight Into Ayckbourn And Todd* (Scarborough Evening News, 20 July 1983)

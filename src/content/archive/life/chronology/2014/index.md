@@ -136,3 +136,6 @@ Streaming: 12 June, NT Live
 
 "Nowadays, one of the interests for me as a writer is to surprise and intrigue the audience through the way you tell the story, as much as the story itself."  
 *(2014)*
+
+"All stories, I believe, have been told before. The art is in the re-telling."  
+*(2014)*

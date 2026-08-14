@@ -12,7 +12,7 @@ order: 268
 
 <aside>
 
-![](./_images/stacks-image-c4bdc61.jpg)
+![Studio portrait of Alan Ayckbourn in a cable-knit jumper, chin propped on both fists](./_images/stacks-image-c4bdc61.jpg)
 
 </aside>
 
@@ -133,4 +133,7 @@ Television: 20 May, BBC2
 *(Interview, November 1974)*
 
 "I'm not awfully good at funny lines, which is probably why I've kept away from television, which is much more immediate. I'm rather bad at writing jokes. I'm tending to like more and more the sort of development of character for humour, rather than just simple visual or verbal gags."  
+*(Interview, November 1974)*
+
+"I think every writer ought to have the right to fail."  
 *(Interview, November 1974)*

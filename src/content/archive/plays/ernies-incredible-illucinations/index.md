@@ -11,6 +11,9 @@ facts:
   Description: "Play for children / young people"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/1286/ernies-incredible-illucinations/)"
   Media: "Television, Radio"
+  Short Synopsis: "Ernie's concerned parents take him to see a doctor about his 'illucinations', but are they really all in his mind?"
+  Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/1286/ernies-incredible-illucinations/)."
+  Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
 

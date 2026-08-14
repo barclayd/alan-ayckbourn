@@ -12,7 +12,7 @@ order: 306
 
 <aside>
 
-![](./_images/stacks-image-f38022a.jpg)
+![Black-and-white portrait of Alan Ayckbourn lit from the side against a dark ground](./_images/stacks-image-f38022a.jpg)
 
 *© Andrew Higgins*
 
@@ -137,3 +137,5 @@ Radio: 10 June, BBC Radio 3
 
 "The Cultural Olympiad promised us an awful lot, but have come up with zilch so we’re very proud to be part of that and financing the Cultural Olympiad." \*  
 *(2012)*
+
+\* *This refers to the London 2012 Festival which accompanied the 2012 London Olympics. It was initially suggested that arts venues around the country might receive funding to participate in the festival. What actually happened was the majority of events were existing events which received a London 2012 label with no support or funding from the festival itself.*

@@ -8,10 +8,9 @@ facts:
   World Premiere: "1991"
   World Premiere Venue: "National Theatre, London"
   Play Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A one act sketch concerning a love triangle between a theatre lighting technician, sound designer and special effects technician."
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -34,3 +33,8 @@ An original manuscript for *Ron & Julie* is held in the Ayckbourn Archive in the
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
+
+**Reviews**  
+*Scenes Unseen* (Neil Cooper, The Herald, 14 March 2013)  
+*Scenes Unseen* (Mark Brown, Daily Telegraph, 14 March 2013)  
+*Scenes Unseen* (Allan Radcliffe, The Times, 14 March 2013)

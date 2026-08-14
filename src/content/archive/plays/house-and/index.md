@@ -20,4 +20,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***House & Garden* quote**  
+"I think you're the only real friend Teddy has. I mean, nobody likes him very much, let's face it. Except for that half-witted dog. Isn't there some way you could forgive and forget?"  
+**House & Garden**

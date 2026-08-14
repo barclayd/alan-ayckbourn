@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Haunting Julia (1994)
 
-![](./_images/stacks-image-4aa54ba.jpg)
-
 ![](./_images/stacks-image-2927b75-876x1200.jpg)
 
 This letter from Alan Ayckbourn to the West End producer Michael Codron is the earliest known reference to *Haunting Julia*. It also confirms the play was an unscheduled choice due to funding issues at the Stephen Joseph Theatre in the Round, Scarborough, in 1994.
@@ -19,8 +17,6 @@ This letter from Alan Ayckbourn to the West End producer Michael Codron is the e
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-729aac5.jpg)
 
 ![](./_images/stacks-image-afcb38f-860x1200.jpg)
 
@@ -31,8 +27,6 @@ A concept for the original poster for the world premiere of *Haunting Julia* in 
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-d47fc7d.jpg)
-
 ![](./_images/stacks-image-66c6f64.jpg)
 
 The programme cover for the tour of Alan Ayckbourn Ayckbourn's 1999 revival of *Haunting Julia* at the Stephen Joseph Theatre, Scarborough. This production marked the first time, the play had been performed in the end-stage as it was initially conceived.
@@ -41,8 +35,6 @@ The programme cover for the tour of Alan Ayckbourn Ayckbourn's 1999 revival of *
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-d70249c.jpg)
 
 ![](./_images/stacks-image-96a07a9-1200x876.jpg)
 
@@ -54,4 +46,4 @@ During the Covid-19 pandemic of 2020 which closed all the UK's theatres, Alan Ay
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

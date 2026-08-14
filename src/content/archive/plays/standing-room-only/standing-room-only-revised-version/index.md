@@ -54,6 +54,6 @@ Although the play has not been staged as a full production since 1966, extracts 
 
 *Standing Room Only* has not been published and is not available for production. A variety of different versions of the play are held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/)** at The University Of York and the British Library also holds the original produced script.
 
-![](./_images/stacks-image-c07afcd.jpg)
+![Banner: Alan Ayckbourn's Standing Room Only beside the red bus from the poster — "Dedicated to Dick & Lottie and Simon Murgatroyd to mark the play's 2019 rehearsed reading."](./_images/stacks-image-c07afcd.jpg)
 
 *The Standing Room Only section of this website is dedicated to Dick & Lottie theatre company & Simon Murgatroyd.*

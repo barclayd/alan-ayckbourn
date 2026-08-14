@@ -18,6 +18,13 @@ facts:
   Short Synopsis: "Notable for its composite set of two over-laid living rooms allowing for simultaneous action in two places, *How The Other Half Loves* centres on three couples. Fiona Foster and Bob Philips are having an illicit affair unbeknownst to each other's partners and their cover-story involves helping an unaware third couple, the Featherstones, leading to farcical misunderstandings and events."
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/906/how-the-other-half-loves/)"
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
+  How the Other Half Loves: "[![How The Other Half Loves, a play by Alan Ayckbourn, at The Old Vic, 29 July to 19 September 2026](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)"
 ---
 
+**Availability**
 
+***How The Other Half Loves* quote**  
+"It's difficult for him. He's never been wrong before, you see."  
+**How The Other Half Loves: Upcoming Productions**  
+**The Old Vic, London:** 29 July - 19 September 2026  
+Full details and bookings **[here](http://www.oldvictheatre.com/stage/other-half/)**

@@ -13,19 +13,21 @@ facts:
   Play Number: "18"
   Published: "No"
   Other Media: "Original cast recording"
+  Amateur / Professional: "*Jeeves* is not available for production."
   New York Premiere: "28 October 2001"
   New York Premiere Venue: "Helen Hayes Theatre"
   Short Synopsis: "Two musicals written with the composer Andrew Lloyd Webber based on the *Jeeves* novels by P.G. Wodehouse. The original 1975 musical *Jeeves* was completely revised as *By Jeeves* in 1996."
+  Amateur: "Apply to [Andrew Lloyd Webber Show Licensing](http://alwshowlicensing.com/show/byjeeves/)"
+  Professional: "Apply to [Andrew Lloyd Webber Show Licensing](http://alwshowlicensing.com/show/byjeeves/)"
 ---
 
 *Jeeves* & *By Jeeves* are not the same musical and are considered separate works.
 
 ### Jeeves
 
-**Availability (Jeeves only)**  
-**Amateur / Professional:** *Jeeves* is not available for production.
+**Availability (Jeeves only)**
 
-![](./_images/stacks-image-faeaba6.jpg)
+![Programme cover for By Jeeves at the Duke of York's Theatre, with a cartoon of Bertie Wooster strumming a banjo and Jeeves standing behind him](./_images/stacks-image-faeaba6.jpg)
 
 ### By Jeeves
 
@@ -37,3 +39,6 @@ facts:
 **Play Number:** 18  
 **Published:** No  
 **Other Media:** Television; Radio; Original cast recording
+
+**Availability (*By Jeeves* only)**  
+**Jeeves / By Jeeves**

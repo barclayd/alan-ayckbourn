@@ -84,3 +84,11 @@ order: 100
 
 **On his legacy...**  
 "I listen to Radio 3 and they say, 'Here's music by a contemporary of Mozart called Bogliatore whose Second Symphony was the most popular at the time. He eclipsed Mozart and is now completely forgotten.' And I think, 'Here's an object lesson for us all.'" (2014)
+
+**And a final thought.**  
+I am a playwright. Right?  
+Writing is part of my ancient rite.  
+It is my god-given right to write.  
+I exercise that, quite rightly, and  
+Write, write, write….  
+(2004)

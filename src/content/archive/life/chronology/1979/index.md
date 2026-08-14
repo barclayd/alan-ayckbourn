@@ -12,7 +12,7 @@ order: 273
 
 <aside>
 
-![](./_images/stacks-image-4147e41.jpg)
+![Black-and-white photograph of Alan Ayckbourn in cricket whites, a sun hat and wicketkeeping gloves](./_images/stacks-image-4147e41.jpg)
 
 </aside>
 
@@ -132,4 +132,7 @@ Radio: 14 September, BBC Radio 4
 *(Northern Echo, 17 September 1979)*
 
 "Interrupt tragedy and you'll often find comedy. Many situations that are devastating from the inside can be viewed from the outside as very funny."  
+*(Readers Digest, 1 November 1979)*
+
+"I aim to create recognisable human beings in familiar predicaments, so that people will understand each other better."  
 *(Readers Digest, 1 November 1979)*

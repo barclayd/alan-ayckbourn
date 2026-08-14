@@ -55,3 +55,6 @@ Television: 16 December, BBC2
 
 "All my plays are written under tremendous pressure, which is why I still use Scarborough. I reckon with a bit of luck I've got one play in me a year. That's all! I never write anything else. Even then I only do it under extreme protest."  
 *(Plays & Players, September 1972)*
+
+"Stephen Joseph once gave me this advice: You must have a central character A who wants B and if he gets it it's a comedy and if he doesn't then it's a tragedy."  
+*(Plays & Players, September 1972)*

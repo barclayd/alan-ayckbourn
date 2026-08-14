@@ -14,6 +14,8 @@ facts:
   Translation: "Vera Liber"
   Published: "No"
   Note: "*Dear Uncle* is Alan Ayckbourn's adaptation of Vera Liber's translation of Anton Chekhov's play *Uncle Vanya*."
+  Amateur: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
+  Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
 

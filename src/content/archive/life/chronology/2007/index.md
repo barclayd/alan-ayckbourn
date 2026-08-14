@@ -91,3 +91,6 @@ UK tour
 
 "In general, I want to celebrate the live event through an empathy between two sets of live people, cast and audience. I hope at best to hold us up to the light and occasionally help people to view things from a different angle. I don’t really want to change the world, I don’t think that’s my job, but I don’t mind bringing about the occasional beneficial change in the individual. Even if it’s only to see the funny side of themselves. All the worst people, in my experience, tend to take themselves far too seriously."  
 *(2007)*
+
+"I hope, at its best, my style walks a delicate tightrope between comedy and drama, between laughter and pain. Light and shadow."  
+*(2007)*

@@ -12,7 +12,7 @@ order: 279
 
 <aside>
 
-![](./_images/stacks-image-524eca5.jpg)
+![Studio portrait of Alan Ayckbourn in a dark jumper over an open-necked shirt](./_images/stacks-image-524eca5.jpg)
 
 </aside>
 
@@ -112,3 +112,6 @@ Radio: 28 December, BBC Radio 4
 
 "I think that the Ayckbourn tradition is shifting. It is not as light or as naturalistic as it used to be: there is now an increased element of surrealism in my plays."  
 *(Yorkshire Evening Press, 24 October 1985)*
+
+"I always had the door opened to me. Even at the very beginning of my career. I have never in my life had a script rejected. Of course, some might say 'about time he did'…"  
+*(Midweek, 31 October 1985)*

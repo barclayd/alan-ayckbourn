@@ -9,6 +9,7 @@ facts:
   World Premiere: "22 July 1989"
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "Play for children / young people"
+  Published / Available to Stage: "No"
   Short Synopsis: "A very serious slide show is interrupted when the assistant falls into the slides!"
   World premiere: "22 July 1989"
   World premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
@@ -20,8 +21,6 @@ facts:
   Mrs Grimshaw: "Doreen Andrew"
   Clyde: "Martin Sadler"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -41,3 +40,11 @@ It is believed just two original manuscripts for *The Inside Outside Slide Show*
 ◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
 ◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.  
 ◦ A clean top copy of the manuscript is also held by the British Library in The Modern Playscripts Collection.
+
+**Reviews (world premiere)**  
+**Many A Slip In The Slide Show**  
+*Scarborough Evening News, 24 July 1989*  
+**The Inside Outside Slide Show**  
+*David Jeffels, The Stage, 10 August 1989*  
+**The Inside Outside Slide Show**  
+*Yorkshire Post, 31 July 1989*

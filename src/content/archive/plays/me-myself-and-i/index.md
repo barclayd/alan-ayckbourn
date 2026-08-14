@@ -10,6 +10,9 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "Revue"
   Composer: "Paul Todd"
+  Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/1548/me-myself-and-i/)"
+  Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/s/1548/me-myself-and-i/)"
+  Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
 

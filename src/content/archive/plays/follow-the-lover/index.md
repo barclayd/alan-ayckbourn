@@ -8,6 +8,7 @@ facts:
   World Premiere: "Circa March 1962"
   World Premiere Venue: "The Library Theatre, Scarborough"
   Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A one act comedy about two honeymooning couples double-booked into the same decrepit cottage."
   Premiere: "circa March 1962"
   Premiere Venue: "The Library Theatre, Scarborough"
@@ -18,8 +19,6 @@ facts:
   Young Man: "Alan Ayckbourn"
   Young Woman: "Unknown"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -41,3 +40,6 @@ Only two copies of the original manuscript for *Follow The Lover* are known to e
 
 **Manuscripts (research & reference)**  
 An original manuscript for *Follow The Lover* is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.
+
+**Reference Books**  
+*Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)

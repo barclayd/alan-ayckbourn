@@ -6,17 +6,6 @@ order: 44
 
 *The Chronology section offers a guide to Alan Ayckbourn's life and thoughts. Click on a year in the right-hand column to get more in-depth details for each year including quotes from the playwright*
 
-<aside>
-
-**In-Depth**  
-**Click on a button**
-
-![](./_images/arrow-up.jpg)
-
-![](./_images/arrow-down.jpg)
-
-</aside>
-
 **[1939:](/life/chronology/pre-1955)** Born 12 April in Hampstead to Irene Maud Worley (‘Lolly’) and Horace Ayckbourn.
 
 **[1946:](/life/chronology/pre-1955)** Attends Wisborough Lodge in Billinghurst, West Sussex.

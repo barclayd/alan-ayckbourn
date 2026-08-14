@@ -102,9 +102,10 @@ play / decade / section. A genuine upgrade on the current search, which mostly p
   originals** as an archive so they're preserved and reprocessable without bloating git.
 - Accessible lightbox with keyboard nav and captions. Note the 300×300 ceiling — present at modest
   size rather than pretending to high resolution.
-- **Alt text:** derive from nearest caption, heading or surrounding prose. Genuinely decorative
-  images get `alt=""` so screen readers skip them rather than reading gibberish. Everything the
-  scraper can't caption goes into a review list. No invented facts about archival documents.
+- **Alt text:** an image the archive already describes — its own italic caption, an Expose
+  lightbox's written note, a poster beside its printed title — takes `alt=""`, because repeating
+  that text into the alt only reads it out twice. Chrome gets `alt=""` too. Everything left is
+  described by hand from the image itself, and the scraper names anything still waiting.
 
 ### Everything else
 - **News / What's On / Blog** — modelled as proper content collections so entries can be added by
@@ -158,7 +159,7 @@ broken internal links across all 3,640 pages.
 
 ## Migration status — verified 14 Aug 2026
 
-2,428 pages, 1,165 images and 6 documents written from 141 hosts. Every number the
+2,428 pages, 810 images and 6 documents written from 155 hosts. Every number the
 scraper reports as a gap has been reconciled against the live original site:
 
 | Reported | What it actually is |
@@ -169,10 +170,49 @@ scraper reports as a gap has been reconciled against the live original site:
 | 7 unresolved links | Outbound or dead: the Woman in Black production site, `archiving.` (redirects off-domain to Simon Murgatroyd's own site), and the mistyped SJT hosts. |
 | 0 broken internal links | Across 2,902 built pages. |
 
-**Open, and deliberately not invented:** 1,165 images carry no alt text. Every
-original is `alt="Stacks Image 1234"`, and nothing in the markup says what the
-photograph shows — so `scraped/report.json` lists all of them by page as a review
-list rather than the scraper guessing at archival production stills.
+**Closed:** the alt text. Every original was `alt="Stacks Image 1234"`, and no
+`title`, `longdesc` or `<figcaption>` anywhere in the archive says what a
+photograph shows — but the archive does answer for most of its own images, and
+finding where cut the work from 1,165 images to 133 written by hand:
+
+- **354** were Expose thumbnails standing beside the same document at full size,
+  which the lightbox already presents with the archive's own written description.
+  Deduplicated away, which is most of how 1,165 images became 810.
+- **129** are play posters, described by the templates that render them —
+  `Poster artwork for <title>`, with the title printed beside the image either way.
+- **80** the archive captions itself, in an italic paragraph set directly beneath
+  the image, which is where the lightbox already reads its caption from. An image
+  described by the text next to it takes `alt=""`; repeating the caption into the
+  alt only reads it out twice.
+- **28** looked captioned but were not — `*© Tony Bartholomew*` credits a
+  photographer without describing anything, so those stayed on the list. Drawing
+  that line is what stopped the chronology from falsely reading as done.
+- **2** were the RapidWeaver theme's scroll arrows, pointing at a button list that
+  was navigation and already gone. Furniture, not content; dropped in `clean()`.
+
+The remaining **133** are described in `scripts/alt.json`, written by looking at
+each image: what is visible and nothing more — no naming an actor the image does
+not name — with posters, programme covers, banners, set plans and press cuttings
+transcribed, and organisations named for logos. Keyed by content hash, so one
+entry covers every page reproducing the same image. `scraped/report.json` still
+carries `imagesWithoutAlt`; it now reports 0.
+
+**Closed:** two content losses the word-count audit turned up while checking the
+alt text hadn't cost anything. Counting every written page against the cached
+original it came from — image syntax and table pipes stripped, since a described
+image would otherwise read as content the original never had — the archive now
+carries 100.5% of the original's words, and the pages still short of it are short
+by exactly the sibling-nav lists the redesign replaces with generated navigation.
+Two were real, though:
+
+- The footer credit is sometimes glued to the end of a real paragraph rather than
+  set on its own. `father-of-invention` closed its data sheet, its play title and
+  the note explaining what a Grey Play is inside the very paragraph carrying the
+  copyright notice, and the notice — tested against the whole block — took all of
+  it. Matched line by line now, so only the notice leaves; 22 blocks came back.
+- `Published / Available to Stage` is a data-sheet key with a slash in it, which
+  the key pattern did not admit, so that row stood alone in the prose on 24 pages
+  instead of joining the sheet in frontmatter.
 
 **Closed:** the reconstructed tables. 29 pages whose original three- and
 four-column Stacks layouts had been flattening to `**Author** Publication **Date**
@@ -197,4 +237,4 @@ was leaving literal `[`/`](url)` fragments across them.
 | 300×300 image ceiling limits visual impact | Design around modest image sizes; lean on typography for drama |
 | Build time at 3,640 pages | Astro handles this fine; measure in Phase 3, shard only if needed |
 | Scraping load on the old host | Rate-limit and cache locally; scrape once, iterate on cached HTML |
-| Alt text gaps | Review list; no invented descriptions |
+| Alt text gaps | Closed: the archive describes most of its own images; the rest written by hand in `scripts/alt.json`, none invented |

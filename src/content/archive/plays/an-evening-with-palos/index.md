@@ -9,6 +9,7 @@ facts:
   World Premiere: "4 October 1987"
   World Premiere Venue: "Lyric Theatre, London"
   Play Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A one-act sketch in which members of Pendon Amateur Light Operatic Society attempt to stage an epic verse poem."
   Premiere: "4 October 1987"
   Premiere Venue: "Lyric Theatre, London"
@@ -23,8 +24,6 @@ facts:
   Rebecca Huntley Pike: "Moira Redmond"
   Linda Washbrook: "Caroline Webster"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -47,3 +46,6 @@ A copy of the manuscript of *An Evening With PALOS* is held in the Ayckbourn Arc
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
+
+**Reviews**  
+*Blakely Celebration* (Martin Hoyle, Financial Times, October 1987)

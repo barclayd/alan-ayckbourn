@@ -11,4 +11,4 @@ If the catalogue content does not appear in the frame, the actual online catalog
 
 *The Research page is presented in association with the* ***[Borthwick Institute for Archives](/research/the-ayckbourn-archive)*** *at the University of York, where the Ayckbourn Archive is held. Further details about other collections and researching Alan Ayckbourn can be found in the* ***[Research](/research)*** *section of the website.*
 
-*If you have any research enquiries regarding Service Not Included, please contact Alan Ayckbourn's archivist Simon Murgatroyd at* ***[research@alanayckbourn.net](mailto:research@alanayckbourn.net)***.  [![](./_images/web-175-dpi.jpg)](/research/the-ayckbourn-archive)
+*If you have any research enquiries regarding Service Not Included, please contact Alan Ayckbourn's archivist Simon Murgatroyd at* ***[research@alanayckbourn.net](mailto:research@alanayckbourn.net)***.  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/research/the-ayckbourn-archive)

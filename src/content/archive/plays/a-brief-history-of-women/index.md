@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***A Brief History of Women* quote**  
+"Houses. They never forget you. They always remember you."  
+**A Brief History of Women**

@@ -118,3 +118,6 @@ UK tour
 
 "Most of my characters are based on me, I think, or elements of me. It’s inevitable as a writer if you’re trying to write honestly and truthfully that you’re bound to include bits of oneself. Male or female, young and old. Recently, I was conscious of getting very close to writing a young version of me - though I did disguise it by making the character a nine year old, black schoolgirl!"  
 *(2011)*
+
+"I have this phobia, which probably goes back to my childhood, I still have to go to bed with a tidy script. Often I write until I’m knackered and then I stop and just do a tidy, which of course on a computer is so easy as it reformats and takes out the mistakes. It’s much, much easier. In the old days, I would trawl back through several pages of typing and possibly blot things out with Tip-ex or at the long- hand stage, most of my scripts were covered in arrows! Move that line back there - it isn’t what you say, but the order you say it in!"  
+*(2011)*

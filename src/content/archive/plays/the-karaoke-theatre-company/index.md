@@ -11,6 +11,8 @@ facts:
   Description: "Play with improvisational elements."
   Published: "No"
   Short Synopsis: "An evening where no-one can precisely say what is going to happen when *The Karaoke Theatre Company* performs - with the aid of the audience."
+  Amateur: "Not available for production."
+  Professional: "Not available for production."
 ---
 
 

@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Life of Riley (2010)
 
-![](./_images/stacks-image-0e79f7f.jpg)
-
 ![](./_images/stacks-image-1742d93.jpg)
 
 The title of *Life of Riley* was initially conceived for an earlier, different play. These handwritten notes by Alan Ayckbourn were written circa 2008 and some of the character names would be recycled for his 2009 play *My Wonderful Day*.
@@ -20,8 +18,6 @@ The title of *Life of Riley* was initially conceived for an earlier, different p
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-1ab8b75.jpg)
-
 ![](./_images/stacks-image-cca4acb.jpg)
 
 A sketch by Alan Ayckbourn of the set for his world premiere production of Life of Riley at the Stephen Joseph Theatre, Scarborough, during 2010. Note, the in-the-round set is a composite set with several different locations present throughout the play.
@@ -30,8 +26,6 @@ A sketch by Alan Ayckbourn of the set for his world premiere production of Life 
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-f328280.jpg)
 
 ![](./_images/stacks-image-1bfb413.jpg)
 
@@ -43,4 +37,4 @@ The poster for Alain Resnais's film adaptation of *Life of Riley*, released in 2
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

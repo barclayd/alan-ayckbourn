@@ -37,7 +37,7 @@ The play opened on 8 October 1974 at the Music Box Theatre to excellent reviews 
 
 Even though the play was a success, Langner’s views on swapping the two acts led to the very famous story that statisticians were brought in to count the laughs in the play. Preposterous as the story sounds, the figures are held in the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York and can be revealed here.
 
-![](./_images/stacks-image-cd060e0-800x196.jpg)
+![Table counting the laughs at the 6 November performance of Absurd Person Singular. Chuckles: 149 in Act 1, 130 in Act 2, 95 in Act 3. Belly-laughs: 56, 41, 28. Roll-em-in-the-aisles: none, 4, 1. Act totals 205, 175 and 124, giving an entire total of 504](./_images/stacks-image-cd060e0-800x196.jpg)
 
 Quite what Langner intended to prove is a mystery. The experiment was conducted six weeks after the play had opened and all it confirms is there are fewer laughs in the third act than the second; something which Alan was patently aware of as the play had deliberately been written that way.
 

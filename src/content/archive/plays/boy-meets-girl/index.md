@@ -11,6 +11,7 @@ facts:
   Description: "Revue"
   Composer: "Paul Todd"
   Synopsis: "Two inter-connected musical revues set in a restaurant taking a wry look at relationships."
+  Published / Available to Stage: "No"
   World premiere: "23 May 1985"
   Final performance: "17 September 1985"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
@@ -21,8 +22,6 @@ facts:
   Lighting: "Francis Lynch"
   Musician: "Alex Stacey"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -54,3 +53,7 @@ Kathryn-Anne Woodward
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
+
+**Reviews**  
+*Boy Meets Girl For A Happy Ending* (Lynne Curry, Scarborough Evening News, 24 May 1985)  
+*A Harsh Look At Love* (Scarborough Evening News, 7 June 1985)

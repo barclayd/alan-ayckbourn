@@ -20,4 +20,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Private Fears in Public Places* quote**  
+"My heart used to leap and sing. It really did. At the thought of seeing you after two - three months. It did what they say it does. It literally leapt. But coming here to meet you today, it sort of sank. I'm sorry. It did."  
+**Private Fears in Public Places**

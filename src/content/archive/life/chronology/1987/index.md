@@ -163,3 +163,6 @@ Television: 11 November, BBC 1
 
 "I've always been a little bit defensive about laughter - but I would be honest and say that a lot of my joy comes through making people laugh."  
 *(When & Where, 19 November 1987)*
+
+"The greatest laughter for me though is the laugh of recognition, not laughing at gag lines, but from getting the laughter of recognition."  
+*(When & Where, 19 November 1987)*

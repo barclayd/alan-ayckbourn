@@ -22,4 +22,27 @@ During 1957, Alan Ayckbourn…
 
 ○ wrote a number of unproduced plays (between 1957 and 1959) which included: ***[The Season](/plays/childrens-plays-index/early-writing-plays)***; ***[Relative Values](/plays/childrens-plays-index/early-writing-plays)***; ***[Mind Over Murder](/plays/childrens-plays-index/early-writing-plays)***; ***[The Party Game](/plays/childrens-plays-index/early-writing-plays)***. Most of these plays are now lost and none have been performed.
 
-![](./_images/stacks-image-9d54e48.jpg)
+![Black-and-white photograph of Alan Ayckbourn in shirtsleeves leaning over stage equipment, an older man in a checked shirt working at a desk behind him](./_images/stacks-image-9d54e48.jpg)
+
+### Professional Acting
+
+○ ***Flare Path*** (Percy)  
+Leatherhead Theatre Club  
+○ ***The Happiest Days Of Your Life*** (Hopcroft Mi)  
+Leatherhead Theatre Club  
+○ ***The Rainmaker*** (Jim Curry)  
+Leatherhead Theatre Club  
+○ ***South Sea Bubble*** (Sanyamo)  
+Leatherhead Theatre Club  
+○ ***She Stoops To Conquer*** (Roger)  
+Leatherhead Theatre Club  
+○ ***An Inspector Calls*** (Eric Birling)  
+The are in the Round at the Library Theatre, Scarborough  
+○ ***The Ornamental Hermit*** (Jack Bensted)  
+Theatre in the Round at the Library Theatre, Scarborough  
+○ ***Under Milk Wood*** (First Drowned / Willy Nilly)  
+Oxford Playhouse  
+○ ***Life With My Father*** (John)  
+Oxford Playhouse  
+○ ***Mademoiselle Jaire*** (Carpenter's Apprentice)  
+Oxford Playhouse

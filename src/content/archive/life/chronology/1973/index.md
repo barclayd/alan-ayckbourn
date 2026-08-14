@@ -83,3 +83,6 @@ During 1973, Alan Ayckbourn…
 
 "I like to forge a bond so that people recognise themselves. I want people to laugh together."  
 *(Northern Echo, 21 July 1973)*
+
+"Some critics can't decide whether I'm serious or joking. I suppose the answer is I'm serious about joking."  
+*(Northern Echo, 21 July 1973)*

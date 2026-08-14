@@ -12,7 +12,7 @@ order: 283
 
 <aside>
 
-![](./_images/stacks-image-61ca009.jpg)
+![Black-and-white portrait of Alan Ayckbourn in a light raincoat, trees behind him](./_images/stacks-image-61ca009.jpg)
 
 *© John Haynes*
 
@@ -120,3 +120,6 @@ Television: 24 December, BBC2
 
 "I suppose my brand of comedy is comedy of disillusion. I get a bit depressed occasionally. Anyone who's lived more than thirty years tends to do so because you see the same things going round again."  
 *(Daily Express, 16 October 1989)*
+
+"There is a joke, which I think I may have started, that I'm rewriting all my adult plays for kids. This \[*Invisible Friends*\] is gentler. You don't send the little girl stark reaving made \[like *Woman In Mind*\]."  
+*(Daily Telegraph, 17 November 1989)*

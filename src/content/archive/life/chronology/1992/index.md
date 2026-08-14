@@ -12,7 +12,7 @@ order: 286
 
 <aside>
 
-![](./_images/stacks-image-eb3787f.jpg)
+![Alan Ayckbourn in a blue jacket sitting on the tarmac of a path, one hand resting on the ground](./_images/stacks-image-eb3787f.jpg)
 
 *© John Haynes*
 
@@ -111,3 +111,6 @@ Original cast recording (Scarborough)
 
 "Drama is a matter of strife. I don't think people are evil or malign. They usually intend well, but people harm each other entirely by accident - by loving them too much, like parents, or by marrying them."  
 *(Oxford Today, 1992)*
+
+"I took over Stephen Joseph's house in the old town and I found myself running his theatre and even sitting in his study. I thought, this is eerie, I must get out, but something about Scarborough held me - not just the people, but mainly the freedom of being a writer-director with a theatre to play with."  
+*(1992)*

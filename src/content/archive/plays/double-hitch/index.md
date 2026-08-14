@@ -9,6 +9,7 @@ facts:
   World Premiere: "Circa 1960"
   World Premiere Venue: "The Library Theatre, Scarborough"
   Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A one act comedy about two honeymooning couples double-booked into the same decrepit cottage."
   Premiere: "1960"
   Premiere Venue: "The Library Theatre, Scarborough"
@@ -19,8 +20,6 @@ facts:
   Brenda Maddox: "Vicki Smart"
   David Maddox: "Nick Carter"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -48,3 +47,6 @@ The only known complete original copy of *Double Hitch* is held in the Lord Cham
 
 **Manuscripts (research & reference)**  
 An original manuscript of Alan Ayckbourn's *Double Hitch* is held in the Lord Chamberlain's Collection at the British Library.
+
+**Reference Books**  
+*Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)

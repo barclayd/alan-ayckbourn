@@ -49,4 +49,7 @@ In 2000, Alan Ayckbourn had the opportunity to revive the play at the Stephen Jo
 *(4) Alan Ayckbourn revived Bedroom Farce at the Stephen Joseph Theatre, Scarborough in 2000. For the first time he was able to stage it in the round in a design by Pip Leckenby.*  
 *(copyright: Pip Leckenby)*
 
-![](./_images/stacks-image-4165338-250x122.jpg)
+![Line plan of the Bedroom Farce set, dividing the stage into three bedrooms side by side](./_images/stacks-image-4165338-250x122.jpg)
+
+*(5) Alan Ayckbourn re-directed the Stephen Joseph Theatre's 2000 production of Bedroom Farce in the venue's end-stage The McCarthy in preparation for a UK tour. This is Pip Leckenby's end-stage design of the set.*  
+*(copyright: Pip Leckenby)*

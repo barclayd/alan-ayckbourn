@@ -7,7 +7,7 @@ play: "christmas-v-mastermind"
 
 *This page reproduces a scene from the play offering an insight into and a taste of the unpublished work. The dialogue is reproduced in the style of the original including grammatical choices / errors.*
 
-![](./_images/stacks-image-85c7264-1.jpg)
+![Page 13 of the typescript of Christmas v Mastermind, a scene of dialogue between F.C., the GHOST, FLURY and SCRUNGE](./_images/stacks-image-85c7264-1.jpg)
 
 **Act 2** (pages 11 - 13)  
 *Father Christmas’s toy factory. His fairy secretary is leading Scrunch on a tour of the facility.*  
@@ -51,3 +51,13 @@ Scrunch: Quite evidently. Ought to be replaced.
 **Gnome:** How?  
 **Scrunch:** Don't think I’m interfering. Don't think that. It's just lucky for you that I came over when I did....  
 **Gnome:** *(Secretively)* Come in the workshop, we won't be overheard...
+
+### Notes
+
+This scene is reproduced from the one of the few surviving original manuscripts of *Christmas V Mastermind*, which is held in the Lord Chamberlain's Collection at the British Library.  
+*Christmas V Mastermind* was Alan Ayckbourn's second attempt (following *[Dad's Tale](/plays/dads-tale)* in 1960) at a seasonal play for the family. The combined failure of both plays to find an audience led Alan to stop writing family plays until 1988 with the considerably more successful *[Mr A's Amazing Maze Plays](/plays/mr-as-amazing-maze-plays)*.  
+To be fair there is little to be construed about Alan's development as a writer from this play and there is even a suggestion - from the playwright himself - that many of the scenes were developed through improvisation with the actors.  
+However, it does bear some relation to his later more fantasy orientated plays by placing the fantastic in the utterly mundane (notably in the likes of *[Dreams From A Summer House](/plays/dreams-from-a-summer-house)* and *[Wildest Dreams](/plays/wildest-dreams)*). Here's Santa's workshop proves to be a depressingly normal shop floor and factory and the juxtaposition is dramatically interesting and relatively funny.  
+Trust also Alan to create a class hierarchy within the realm of fairies with the blue collar gnomes so dismissive of the white collar elves. All of which is quite amusing - with the caveat - possibly more so for adults than children, which is an issue considering this was very specifically a children's rather than an adult play.  
+What stands out - and this in a play which Alan considers probably the low-mark of his early writing career - is there is a wealth of ideas, which do create a vivid image of Santa's workshop in a short scene.  
+*The Scene, Archive Images and Research pages are presented in association with the [Borthwick Institute for Archives](/) at the University of York, where the Ayckbourn Archive is held.*

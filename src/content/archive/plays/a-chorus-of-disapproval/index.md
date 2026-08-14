@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***A Chorus of Disapproval* quote**  
+"I just want you to know, I think you are a total and utter bastard. And my one prayer is that one of these days, you'll get what's coming to you. OK? That's all I have to say to you. Having said that, all the very best for the show and I hope it really goes well for you. Good luck."  
+**A Chorus of Disapproval**

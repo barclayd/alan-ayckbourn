@@ -167,3 +167,6 @@ Radio: 30 August, BBC Radio 4
 
 "My work is about man's inhumanity to woman and woman's inhumanity to man. It is about the whole physical world's inhumanity to us all."  
 *(West Australian, 27 October 1990)*
+
+"The marriages I do see are either fraught or dull. There are one or two happy ones, but that's probably because they're new. In general, I don't think people were meant to live with each other too long. As soon as people feel that they are married, there's a sense of entrapment."  
+*(West Australian, 27 October 1990)*

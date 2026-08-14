@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### A Small Family Business (1987)
 
-![](./_images/stacks-image-a456618.jpg)
-
 ![](./_images/stacks-image-81a5639.jpg)
 
 Extract from a letter, dated 4 April 1986, from Alan Ayckbourn's agent to the playwright which refers to the play by its original, temporary title of *Take It Or Leave It* instead rather than *A Small Family Business*.
@@ -19,8 +17,6 @@ Extract from a letter, dated 4 April 1986, from Alan Ayckbourn's agent to the pl
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-63473b6.jpg)
 
 ![](./_images/stacks-image-008269f.jpg)
 
@@ -31,8 +27,6 @@ The poster for the world premiere of *A Small Family Business* at the National T
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-75e8e24.jpg)
-
 ![](./_images/stacks-image-f76b239.jpg)
 
 The cover for the Playbill for the New York premiere of *A Small Family Business* at the Manhattan Theater Club in 1992.
@@ -41,8 +35,6 @@ The cover for the Playbill for the New York premiere of *A Small Family Business
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-086e97e.jpg)
 
 ![](./_images/stacks-image-5b38822.jpg)
 
@@ -54,4 +46,4 @@ The National Theatre's 2014 revival of *A Small Family Business* also marked the
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

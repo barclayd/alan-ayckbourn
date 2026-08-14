@@ -12,7 +12,7 @@ order: 288
 
 <aside>
 
-![](./_images/stacks-image-dec78c7.jpg)
+![Alan Ayckbourn in a cream suit and flat cap, arms folded, standing in front of a lit stage set](./_images/stacks-image-dec78c7.jpg)
 
 *© To be confirmed*
 
@@ -92,4 +92,7 @@ Film: 15 December, world premiere
 *(River North News, 21 May 1994)*
 
 "We were friends in a way that the average eight-year-old boy seldom was with his mother. And she had a lot of female friends so I got very used to the company of women. I was a child among adults much of the time, and female adults at that. Those years formed me as a writer. I've lived in the North, on and off, since the end of the fifties. I've written 46 plays now and all but one has been set in the South. You go back to your roots, don't you?"  
+*(OK, September 1994)*
+
+"I hope that in a decade that I shall have retained the ability constantly to surprise myself. Like Stephen Joseph, I never want to settle into a rut."  
 *(OK, September 1994)*

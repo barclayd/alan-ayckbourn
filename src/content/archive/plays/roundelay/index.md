@@ -16,4 +16,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Roundelay* quote**  
+"It was years ago. It’s a part of my life I don’t want to remember. If you must know, it makes me want to cry to think about it - to cry for what I was. For what I used to be."  
+**Roundelay**

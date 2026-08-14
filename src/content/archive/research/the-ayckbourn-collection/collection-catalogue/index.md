@@ -9,7 +9,7 @@ order: 864
 ### The Ayckbourn Collection Catalogue
 
 *Please note, this is currently the basic catalogue and listings. A more detailed catalogue of the Ayckbourn Collection will be available soon.*  
-[![](./_images/stacks-image-a312a99.png)](http://scarboroughmuseumsandgalleries.org.uk/)
+[![The Scarborough Museums and Galleries logo, with the line "Shaping the world around you"](./_images/stacks-image-a312a99.png)](http://scarboroughmuseumsandgalleries.org.uk/)
 
 ### Related Pages
 
@@ -21,4 +21,4 @@ order: 864
 
 *Details from some of the posters which are part of The Ayckbourn Collection (© Tony Bartholomew)*
 
-[![](./_images/stacks-image-243a22c.png)](http://scarboroughmuseumsandgalleries.org.uk/)   The Ayckbourn Collection pages of Alan Ayckbourn's Official Website have been created in partnership with **[Scarborough Museums and Galleries](http://scarboroughmuseumsandgalleries.org.uk/)**, home of The Ayckbourn Collection since 2023. Facilitated by Simon Murgatroyd M.A. and donated by Sir Alan and Lady Ayckbourn, this collection of material celebrates the contribution of Alan Ayckbourn, Stephen Joseph and theatre in the round to Scarborough's theatrical history and heritage.
+[![The Scarborough Museums and Galleries logo, with the line "Shaping the world around you"](./_images/stacks-image-243a22c.png)](http://scarboroughmuseumsandgalleries.org.uk/)   The Ayckbourn Collection pages of Alan Ayckbourn's Official Website have been created in partnership with **[Scarborough Museums and Galleries](http://scarboroughmuseumsandgalleries.org.uk/)**, home of The Ayckbourn Collection since 2023. Facilitated by Simon Murgatroyd M.A. and donated by Sir Alan and Lady Ayckbourn, this collection of material celebrates the contribution of Alan Ayckbourn, Stephen Joseph and theatre in the round to Scarborough's theatrical history and heritage.

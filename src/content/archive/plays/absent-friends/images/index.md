@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Absent Friends (1974)
 
-![](./_images/stacks-image-e4aed01.jpg)
-
 ![](./_images/stacks-image-90442cd.jpg)
 
 *Absent Friends* is one of the earliest Ayckbourn plays to have the playwright's early notes and ideas survive in the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York. They offer a fascinating insight into the origins of the play and its very different initial concept.
@@ -19,8 +17,6 @@ A collection of archive material, posters, rehearsal and production images perta
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-b38b9b9.jpg)
 
 ![](./_images/stacks-image-9fb95e8.jpg)
 
@@ -31,8 +27,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-7e8baec.jpg)
-
 ![](./_images/stacks-image-cf8fcb2.jpg)
 
 *Absent Friends* is one of the earliest Ayckbourn plays to have the playwright's early notes and ideas survive in the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York. This page again features early concepts for the play - very different to what the playwright eventually wrote - as well as some different character names.
@@ -41,8 +35,6 @@ A collection of archive material, posters, rehearsal and production images perta
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-39611fb.jpg)
 
 ![](./_images/stacks-image-21b1fe5.jpg)
 
@@ -53,8 +45,6 @@ An interesting quirk of Theatre in the Round at the Library Theatre, Scarborough
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-5fc7d25.jpg)
-
 ![](./_images/stacks-image-5ca6220.jpg)
 
 The poster for the West End premiere of *Absent Friends* in 1975. Despite an impressive cast and the director Eric Thompson - who had previously directed *Absurd Person Singular* and *The Norman Conquests* to great success - the production was not a success and Alan believed its transfer from an intimate theatre-in-the-round to a vast proscenium arch space did the play no favours.
@@ -63,8 +53,6 @@ The poster for the West End premiere of *Absent Friends* in 1975. Despite an imp
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-b6e3004.jpg)
 
 ![](./_images/stacks-image-5e51eed.jpg)
 
@@ -75,8 +63,6 @@ During 1982, Alan Ayckbourn toured the Stephen Joseph Theatre in the Round compa
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-56c895b.jpg)
-
 ![](./_images/stacks-image-4683aef.jpg)
 
 The poster for the acclaimed 2021 revival of *Absent Friends*, directed by Jeremy Herrin. Alan's plays are frequently noted for the difficulty in creating appealing poster images and, as a result, this clever design has subsequently frequently been copied since.
@@ -85,8 +71,6 @@ The poster for the acclaimed 2021 revival of *Absent Friends*, directed by Jerem
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-bdf0273.jpg)
 
 ![](./_images/stacks-image-59dac2b.jpg)
 
@@ -98,4 +82,4 @@ The company of the 2012 West End revival of *Absent Friends*, which received muc
 *Do not reproduce images without permission of the copyright holder.*  
 *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

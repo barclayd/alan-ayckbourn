@@ -45,4 +45,6 @@ With the play having been Americanised for New York audiences, it is no surprise
 
 *3) An image of the set of the London premiere production of How The Other Half Loves in 1970. Note the alternating flats at the rear, designed by Alan Tagg, and which Alan Ayckbourn believes were not a good design decision, overly complicating the set and distracting to the play.*
 
-![](./_images/stacks-image-0f133cf.jpg)
+![Line plan of the How The Other Half Loves set, in which the Fosters' and Phillipses' living rooms are overlaid on one stage. Labelled items include the Phillips' door and the Foster door, a partition and rail, the Phillips' rolltop desk, book shelves and baby stroller, the Foster sofa and coffee table, the Phillips' chair, rocker and swivel chair, and a bar, with the seat positions of Frank, William, Terry, Bob and Fiona marked](./_images/stacks-image-0f133cf.jpg)
+
+*4) A floorplan for the Broadway premiere of How The Other Half Loves in 1971, designed by David Mitchell (copyright: David Mitchell).*

@@ -16,4 +16,4 @@ The complete collection of Alan Ayckbourn's published plays can be found in *The
 
 *All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
 
-![](./_images/stacks-image-4872589.jpg)
+![A strip of twelve black-and-white portraits of Alan Ayckbourn across his life, from a young actor with a clarinet, a guitar and monkey-mask make-up, through the doorway of the Library Theatre under a "THE ROUND" sign, to old age](./_images/stacks-image-4872589.jpg)

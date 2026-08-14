@@ -12,7 +12,9 @@ order: 254
 
 <aside>
 
-![](./_images/stacks-image-e170535.jpg)
+![Black-and-white production photograph in the round: two young men in shirtsleeves face each other across a white rostrum, one holding up a doll, a woman standing between them](./_images/stacks-image-e170535.jpg)
+
+*Alan Ayckbourn with Stephen Joseph*
 
 </aside>
 
@@ -41,3 +43,17 @@ Date unknown: The Library Theatre, Scarborough
 9 February: Studio Theatre tour  
 ○ ***Love After All*** (Revival)  
 30 June: The Library Theatre, Scarborough
+
+### Professional Acting
+
+○ ***Then...*** (Mr Phythick)  
+Studio Theatre tour  
+○ ***Viennese Interlude*** (Franz) \*  
+○ '***Prentice Pillar*** (Prentice) \*  
+○ ***Wuthering Heights*** (Heathcliff) \*  
+○ ***Love After All*** (Peter Jones) \*  
+○ ***The Ark*** (Japheth) \*  
+○ ***Soldier From The Wars Returning*** (The Barman) \*  
+○ ***Five Finger Exercise*** (Walter Langer) \*  
+○ ***Dad's Tale*** (Various roles) \*  
+\* Theatre in the Round at the Library Theatre, Scarborough

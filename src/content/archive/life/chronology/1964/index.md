@@ -24,3 +24,14 @@ During 1964, Alan Ayckbourn…
 
 ○ ***Mr Whatnot*** (West End premiere)  
 6 August: New Arts Theatre, London
+
+### Professional Acting
+
+○ ***The Jew Of Malta*** (Unknown role)  
+The Victoria Theatre, Stoke On Trent  
+○ ***The Doctor And The Devils*** (Unknown role)  
+Cardiff New  
+○ ***Two For The Seesaw*** (Jerry Ryan)  
+Civic Theatre, Rotherham  
+○ ***Much Ado About Nothing*** (Conrade / Messenger)  
+Living Shakesepeare LP recording

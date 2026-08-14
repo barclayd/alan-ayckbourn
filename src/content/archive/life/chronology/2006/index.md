@@ -83,3 +83,6 @@ Radio: 26 August, BBC Radio 4
 
 "During that first night of the stroke. There was one poor nurse I think I almost reduced to tears. I was holding her hand and saying, 'I can't be here. There are all these things I have to do.' And she said, 'Well, you won't be able to.'"  
 *(The Guardian, 4 October 2006)*
+
+"Extraordinary things happen with strokes. When your arm first returns, it's a bit uncontrollable, a bit Dr Strangelove."  
+*(The Guardian, 4 October 2006)*

@@ -16,4 +16,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***This Is Where We Came In* quote**  
+"I've been waiting here a very long time. At least, I think I have."  
+**This Is Where We Came In**

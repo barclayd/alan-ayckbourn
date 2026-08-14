@@ -12,7 +12,9 @@ order: 257
 
 <aside>
 
-![](./_images/stacks-image-854b87c.jpg)
+![Black-and-white photograph of Alan Ayckbourn in a white shirt playing a clarinet](./_images/stacks-image-854b87c.jpg)
+
+*Alan Ayckbourn in The Rainbow Machine*
 
 </aside>
 
@@ -44,3 +46,20 @@ During 1963, Alan Ayckbourn…
 ○ ***The Mating Season*** \*  
 ○ ***The Rainbow Machine*** \*  
 ○ ***Miss Julie*** \*
+
+### Professional Acting
+
+○ ***Teds's Cathedral***  (Anderson) \*  
+○ ***The Rehearsal*** (The Count) \*  
+○ ***Waiting For Godot*** (Vladimir) \*  
+○ ***An Awkward Number*** (Robert) \*  
+○ ***A Man For All Seasons*** (Thomas More) \*  
+○ ***The Rainbow Machine*** (Jordan) \*  
+○ ***Miss Julie*** (Jean) \*  
+○ ***Two For The Seesaw*** (Jerry Ryan) \*  
+○ ***The Dumb Waiter*** (Ben) \*  
+○ ***The Collection*** (Harry) \*  
+○ ***Gaslight*** (Mr Manningham) \*  
+○ ***The Caretaker*** (Aston) \*  
+○ ***The Prisoner*** (The Interrogator) \*  
+\* The Victoria Theatre, Stoke-on-Trent

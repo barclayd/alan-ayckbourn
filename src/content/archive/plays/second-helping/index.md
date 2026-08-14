@@ -10,14 +10,13 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "Revue"
   Composer: "Paul Todd"
+  Published / Available to Stage: "No"
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
   Musical Director: "Paul Todd"
   Stage Manager: "Amanda Saunders"
   Piano: "Paul Todd"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -59,3 +58,6 @@ Susan Uebel
 **Research**  
 ◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
 ◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.
+
+**Reviews (world premiere)**  
+Affectionate Look At Love's Old Story *(Scarborough Evening News, 6 August 1980)*

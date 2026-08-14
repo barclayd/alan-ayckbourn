@@ -107,3 +107,6 @@ UK tour
 
 "I always felt that I’m probably very calm and I hope pleasant person, but whenever I’ve hurt people, they’re always people I love, because it’s a sort of defensive thing. Over the years, when I was very young, I got quite aggressive to some people with whom I should have known better."  
 *(2016)*
+
+"Once I asked Stephen Joseph, 'What’s the secret of directing?' and he said, 'The secret to directing is to create an atmosphere in which other people feel free to create.' That is the most extraordinarily easy answer and the most difficult thing to achieve. Because you get a group of actors who are different, they’re fairly centred a lot of them, and you can persuade them, cajole them, to work together and sometimes they do very willingly and sometimes with great reluctance. It’s most interesting and informative thing for a dramatist and also I think it brings me a lot closer to the psychology of what makes people tick."  
+*(2016)*

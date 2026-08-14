@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Suburban Strains* quote**  
+"Funny thing is, we were in a way. Made for each other. I think I was made for him to some extent, Kevin was made for me. Only unfortunately, I think he was made for a lot of other women as well."  
+**Suburban Strains**

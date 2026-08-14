@@ -12,7 +12,7 @@ order: 290
 
 <aside>
 
-![](./_images/stacks-image-c7f0116.jpg)
+![Close portrait of Alan Ayckbourn in a red anorak, one hand at his chin](./_images/stacks-image-c7f0116.jpg)
 
 *© Tony Bartholomew*
 
@@ -147,4 +147,7 @@ A lot of my writing, funnily enough, is informed by film and film writing. Much 
 *(Country Living, August 1996)*
 
 "The most rewarding remark I ever heard came from a man who told me after a show 'If I'd known what I had been laughing at in there, I wouldn't have laughed.'"  
+*(The Scotsman, August 1996)*
+
+"Comedy is a very good way of drawing people in. We help people come together in a live experience and discuss emotional and, dare one say it, spiritual matters not discussed elsewhere."  
 *(The Scotsman, August 1996)*

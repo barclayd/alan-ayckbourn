@@ -44,3 +44,6 @@ Other parts played by members of the SJT company
 **Research**  
 ◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
 ◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.
+
+**Reviews (world premiere)**  
+*Reflections On Spoiling Your Child* (Scarborough Evening News, 21 June 2004)

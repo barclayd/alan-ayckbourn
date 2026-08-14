@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Man of the Moment* quote**  
+"So, don't take this wrong, but I was hoping this - meeting - might help to exorcise you. If you follow me. I told you it would sound peculiar."  
+**Man of the Moment**

@@ -12,7 +12,7 @@ order: 295
 
 <aside>
 
-![](./_images/stacks-image-061ae45.jpg)
+![Alan Ayckbourn in a green jacket over a white T-shirt, leaning back against a kitchen counter](./_images/stacks-image-061ae45.jpg)
 
 *© Tony Bartholomew*
 
@@ -145,3 +145,6 @@ Original cast recording (New York)
 
 "I think the plays are popular because people do not tend to laugh at just the jokes, more at the recognition they glean from the characters and the way they react."  
 *(Bolton Evening News, 11 October 2001)*
+
+"Directing is actually a very under-practised art as far as I am concerned. If you're a stage designer you have to have a portfolio, if you're an actor you have your audition speech, but if you're a director you don't really need to have anything and can just walk into a room, but it's a very powerful and influential role. Many of us within the profession have been talking over the last year or so about forming a proper training environment for directors rather than the haphazard way I was trained as an actor plucked from the ranks and expected to know how to direct. It does require enormous skills, not least a great knowledge of the art of the theatre, whichever branch you're in, but also the great man-management skills. You're drawing together the actors most importantly, but there's a whole range of different people with vital creative skills, all of which require professional guidance. You've got to make them at least face in the right direction and work on the same lines. We're all trying to do the same show. That is really the directors job, to give any production an identity."  
+*(2001)*

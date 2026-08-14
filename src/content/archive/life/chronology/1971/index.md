@@ -64,3 +64,6 @@ Theatre in the Round at the Library Theatre, Scarborough
 
 "It's \[Scarborough\] such a great place to work. You can have your cake and eat it. Most places you have to work in the theatre are also the densest areas off population… and besides I'm also a pinball addict."  
 *(Financial Times, 8 July 1971)*
+
+"As a result of my acting experience you will never find a 'what say you, m'lord' bit part in my plays. There are no postmen or butlers. I try to give everyone in the cast a real part. When I was acting and simply standing on stage like a piece of scenery I would start asking myself what I was doing there and wondering whether to walk off"  
+*(Evening News, 13 August 1971)*

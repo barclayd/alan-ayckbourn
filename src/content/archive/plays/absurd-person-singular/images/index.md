@@ -9,8 +9,6 @@ To celebrate the 50th anniversary of Absurd Person Singular in 2022, an expanded
 
 ### Absurd Person Singular (1972)
 
-![](./_images/stacks-image-907975d.jpg)
-
 ![](./_images/stacks-image-87ad748.jpg)
 
 Alan Ayckbourn's handwritten notes for the first scene of *Absurd Person Singular* including his thumbnail sketches for the sets for each act.
@@ -18,16 +16,12 @@ Alan Ayckbourn's handwritten notes for the first scene of *Absurd Person Singula
 **Copyright:** Haydonning Ltd  
 **Holding:** Borthwick Institute for Archives
 
-![](./_images/stacks-image-f78bf09.png)
-
 ![](./_images/stacks-image-bdeaab6.png)
 
 The first page of an original manuscript for the world premiere of *Absurd Person Singular* at Theatre in the Round at the Library Theatre, Scarborough, in 1972.
 
 **Copyright:** Haydonning Ltd  
 **Holding:** Borthwick Institute for Archives
-
-![](./_images/stacks-image-9944ad2.jpg)
 
 ![](./_images/stacks-image-2960b41.jpg)
 
@@ -38,16 +32,12 @@ An advertisement for the world premiere production of *Absurd Person Singular*; 
 
 *© Scarborough Theatre Trust, 1972, all rights reserved. Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-1190c75.jpg)
-
 ![](./_images/stacks-image-2bfc5e3.jpg)
 
 *Absurd Person Singular* is the first world premiere by Alan Ayckbourn at Theatre in the Round at the Library Theatre, Scarborough, to have a promotional image. This lino print, commissioned by Alan Ayckbourn, was only used for flyers though.
 
 **Copyright:** Haydonning Ltd  
 **Holding:** Private Collection
-
-![](./_images/stacks-image-d36869b.jpg)
 
 ![](./_images/stacks-image-aa16fe3.jpg)
 
@@ -58,8 +48,6 @@ Details from the interior of the programmes for the world premiere of *Absurd Pe
 
 *© Scarborough Theatre Trust, 1972, all rights reserved. Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-61c5500.jpg)
-
 ![](./_images/stacks-image-6703a88.jpg)
 
 A flyer for the West End premiere of *Absurd Person Singular* at the Criterion Theatre during 1973.
@@ -69,16 +57,12 @@ A flyer for the West End premiere of *Absurd Person Singular* at the Criterion T
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-ef33cd8.jpg)
-
 ![](./_images/stacks-image-3728232.jpg)
 
 Correspondence from Peter Hall, Artistic Director of the National Theatre, to Alan Ayckbourn congratulating him on Absurd Person Singular, asking him to consider writing a play for the National Theatre.
 
 **Copyright:** Haydonning Ltd  
 **Holding:** Borthwick Institute for Archives
-
-![](./_images/stacks-image-78af86f.jpg)
 
 ![](./_images/stacks-image-a0caacc.jpg)
 

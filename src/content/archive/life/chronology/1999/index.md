@@ -127,3 +127,6 @@ Radio: 26 December, BBC Radio 4
 
 "In playwriting the only thing you can't plan for is the first idea. Once you have that (inspiration, perhaps?) you have to work to develop it. Choose the space, the form, the time frame in which to set it - what I call the when, the how and the where. The nuts and bolts, if you like. Playwriting is above all a technical skill."  
 *(1999)*
+
+"To write truthfully about people, it is important that it's written from inside you. From the heart, if you like. Good comedy - good tragedy, too - relies on the audience believing the characters. When they believe they care. When the audience care, they laugh and cry for the characters."  
+*(1999)*

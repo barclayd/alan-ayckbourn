@@ -42,4 +42,4 @@ Quotes By Alan Ayckbourn
 
 To find out more about details about Alan Ayckbourn's various professional careers, visit the [Careers](/career) section of the website.
 
-![](./_images/stacks-image-99c89a4.jpg)
+![A strip of twelve black-and-white portraits of Alan Ayckbourn across his life, from a young actor with a clarinet, a guitar and monkey-mask make-up, through the doorway of the Library Theatre under a "THE ROUND" sign, to old age](./_images/stacks-image-99c89a4.jpg)

@@ -12,7 +12,9 @@ order: 282
 
 <aside>
 
-![](./_images/stacks-image-6aeff40.jpg)
+![Black-and-white photograph of Alan Ayckbourn with a cat draped over each shoulder, in a T-shirt printed "Marooned, Antigua" around a desert island](./_images/stacks-image-6aeff40.jpg)
+
+*Alan Ayckbourn with his cat Bollinger.*
 
 </aside>
 
@@ -117,3 +119,5 @@ Radio: 28 August, BBC Radio 4
 
 "Creative artists often do detach themselves from the real world, and they plunder from it quite freely. People tell you things and then look at you reproachfully as they see it all trotted back."  
 *(Country Homes & Interiors, December 1988)*
+
+\* *This isn't true. Alan's first professional commission as a writer was in 1959 and his first directorial job was in 1961. He has however directed far more plays than he has written.*

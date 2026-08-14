@@ -8,7 +8,7 @@ This section is dedicated to the resources available to researchers and students
 
 ### The Ayckbourn Archive
 
-The Ayckbourn Archive at The Borthwick Institute for Archives is the world's largest public archive relating to Alan Ayckbourn containing manuscripts, correspondence, programmes, multi-media, publicity materials and more.   [![](./_images/stacks-image-b73adf7.jpg)](http://www.york.ac.uk/borthwick/holdings/what-we-hold/samuel-storey/)
+The Ayckbourn Archive at The Borthwick Institute for Archives is the world's largest public archive relating to Alan Ayckbourn containing manuscripts, correspondence, programmes, multi-media, publicity materials and more.   [![Logo of the Borthwick Institute for Archives, University of York](./_images/stacks-image-b73adf7.jpg)](http://www.york.ac.uk/borthwick/holdings/what-we-hold/samuel-storey/)
 
 ### The Library Theatre / Stephen Joseph Collection at Scarborough Library
 

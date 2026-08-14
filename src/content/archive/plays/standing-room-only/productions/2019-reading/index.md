@@ -35,14 +35,14 @@ Dick & Lottie is a professional theatre company dedicated to performing the work
 **Music** Paul Chamberlain  
 **Advisor** Simon Murgatroyd
 
-![](./_images/stacks-image-2e8b213.jpg)
+![Poster: a red Routemaster bus destined for Hammersmith Brdwy against turquoise rays, its side reading "The government cares — take your vitamins everyday". Dick & Lottie present Alan Ayckbourn's Standing Room Only, a full-cast rehearsed reading. Ayckbourn at 80, 60 years of playwriting. One performance only on Thursday 4th July 2019, Square Chapel Arts Centre, Copper Auditorium, Halifax. Box office 01422 349 422, www.squarechapel.co.uk](./_images/stacks-image-2e8b213.jpg)
 
-![](./_images/stacks-image-8697252.png)
+![Dick & Lottie, handwritten in black brush script](./_images/stacks-image-8697252.png)
 
-![](./_images/stacks-image-0dc9a17.jpg)
+![Six actors sit shoulder to shoulder on a bench on stage in 1960s dress — three men in suits and a bus conductor's peaked cap, three women in a red waistcoat, a beret and a tartan coat](./_images/stacks-image-0dc9a17.jpg)
 
-![](./_images/stacks-image-224e13d.jpg)
+![The reading in performance: five actors crowded around two trestle tables on a low wooden platform, one gesturing mid-line, while a sixth stands at the side reading from a script](./_images/stacks-image-224e13d.jpg)
 
 *All research for this page by Simon Murgatroyd. Poster and images copyright of Richard McArtney. Please do note reproduce without permission of the copyright holder.*
 
-![](./_images/stacks-image-c07afcd.jpg)
+![Banner: Alan Ayckbourn's Standing Room Only beside the red bus from the poster — "Dedicated to Dick & Lottie and Simon Murgatroyd to mark the play's 2019 rehearsed reading."](./_images/stacks-image-c07afcd.jpg)

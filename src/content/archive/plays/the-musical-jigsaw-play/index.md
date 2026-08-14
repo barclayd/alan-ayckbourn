@@ -16,4 +16,8 @@ facts:
   Professional: "Not available for production."
 ---
 
+**Availability**
 
+***The Musical Jigsaw Play* quote**  
+"Sing through life. Make that our choice. And join together with one voice."  
+**The Musical Jigsaw Play**

@@ -14,11 +14,17 @@ Alan left Scarborough in 1962 as a founding member of the **[Victoria Theatre](/
 
 <aside>
 
-![](./_images/stacks-image-002926d.jpg)
+![Black-and-white photograph of a young actor in a lamé jacket and wide white tie, an acoustic guitar across his knee](./_images/stacks-image-002926d.jpg)
 
-![](./_images/stacks-image-aa9c053.jpg)
+*Alan starring in his first play The Square Cat at Theatre in the Round at the Library Theatre in 1959.*
 
-![](./_images/stacks-image-47ba744.jpg)
+![Black-and-white production photograph: two young men in shirtsleeves face each other across a white rostrum, one holding a doll up to the other](./_images/stacks-image-aa9c053.jpg)
+
+*Alan (left) with Stephen Joseph (right) during rehearsals in 1960.*
+
+![Black-and-white production photograph of a young actor in white tie and tails, holding up a card and looking past it](./_images/stacks-image-47ba744.jpg)
+
+*Alan acting in one of his own plays for the final time at Theatre in the Round at the Library Theatre with Standing Room Only (1961)*
 
 </aside>
 
@@ -57,3 +63,6 @@ The quotes below relate to Alan's acting experiences in Scarborough.
 
 "I'd have got no further \[if he'd continued acting\] than perhaps playing second leads, although I did have ambition to be famous and mobbed by crowds. It would have all been very frustrating."  
 *(Wigan Evening Post, 1981)*
+
+"I realised that I was no great actor; that I am better as a writer than as an actor. But it was very useful to have done it. I can see actors from the inside now. And I wanted to direct. That doesn't go very well together with acting either. For a director is objective. But to direct and to write that's a very good combination."  
+*(The Literary Review, 1980)*

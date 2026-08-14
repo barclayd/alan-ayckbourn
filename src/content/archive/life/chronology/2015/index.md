@@ -79,3 +79,6 @@ Radio: 14 March, BBC Radio 4
 
 "It’s not uncommon for playwrights to start out as actors. From Shakespeare onwards. It’s very important, a sort of apprenticeship, really. Nothing like doing it for actually learning the craft. A bit like learning an instrument before embarking on composition."  
 *(2015)*
+
+"In general, as many have observed, the work has gradually grown darker in tone. I put this down less to an increasing pessimism about human nature brought about by old age - though there’s certainly a bit of that - but more to the plays favouring exploration of character over plot. The deeper you dig, the darker it tends to get."  
+*(2015)*

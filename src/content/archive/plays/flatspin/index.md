@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***FlatSpin* quote**  
+"This time I am walking first, Sam. I mean, yes, in truth, you are somewhat unique. You're certainly the first man who's walked away before we've been to bed - but all in all you're just another bloody man and I've had it up to here with them, Sam, I really have."  
+**FlatSpin**

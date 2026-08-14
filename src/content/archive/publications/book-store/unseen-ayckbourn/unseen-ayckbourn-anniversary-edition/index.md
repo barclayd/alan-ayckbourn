@@ -10,7 +10,7 @@ This updated and revised edition of the book was only available during 2019 and 
 
 The edition number and owners can be found below.
 
-![](./_images/stacks-image-388402c-300x428.png)
+![Cover of "Unseen Ayckbourn: Anniversary Edition" by Simon Murgatroyd, the title in white on navy above a photograph of Alan Ayckbourn seated in front of his bookshelves](./_images/stacks-image-388402c-300x428.png)
 
 ### Unseen Ayckbourn: Anniversary Edition (Limited Edition: 50 Copies)
 

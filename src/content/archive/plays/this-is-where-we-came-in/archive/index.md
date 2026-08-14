@@ -26,3 +26,5 @@ If we accept Good we must also accept Evil. And learn to recognise both, prefera
 
 Sorry to preach but as you may gather I do feel strongly and take my work very seriously. I would hate you to go away with the impression that any word, good or bad, appeared in a play of mine didn’t get there without a great deal of thought and consideration.  
 *The Archive pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

@@ -16,4 +16,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***Anno Domino* quote**  
+"I think after the first twenty-five years, the rest is down to sheer stamina after that. You realise, from then on, you're in for the long haul. All you can do is grit your teeth and stagger on to the finish line."  
+**Anno Domino**

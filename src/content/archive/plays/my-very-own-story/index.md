@@ -16,4 +16,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***My Very Own Story* quote**  
+"Listen, this can be sorted out very quickly. There's obviously been a double - triple booking here. Quite easily sorted out. No need for aggravation, I'm sure. After all, we're all members of this wonderful brotherhood of show business."  
+**My Very Own Story**

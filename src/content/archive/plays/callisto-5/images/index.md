@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Callisto 5 (1990) / Callisto#7 (1999)
 
-![](./_images/stacks-image-582dd6f.png)
-
 ![](./_images/stacks-image-fbfb329.png)
 
 The poster for the world premiere of *Callisto 5* at the Stephen Joseph Theatre in the Round, Scarborough, in 1990.
@@ -20,8 +18,6 @@ The poster for the world premiere of *Callisto 5* at the Stephen Joseph Theatre 
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-539420e.jpg)
-
 ![](./_images/stacks-image-bf82396.jpg)
 
 One of Alan Ayckbourn's storyboards for the video elements which feature prominently in the *Callisto* plays; this one show the planet Jupiter with the moon of Ganymede.
@@ -30,8 +26,6 @@ One of Alan Ayckbourn's storyboards for the video elements which feature promine
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-78d6dd3.jpg)
 
 ![](./_images/stacks-image-6c5f248.jpg)
 

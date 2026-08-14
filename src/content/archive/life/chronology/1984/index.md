@@ -12,7 +12,7 @@ order: 278
 
 <aside>
 
-![](./_images/stacks-image-83f9d5e.jpg)
+![Black-and-white portrait of Alan Ayckbourn in a T-shirt printed "Palos, Pendon Amateur Light Operatic Society"](./_images/stacks-image-83f9d5e.jpg)
 
 </aside>
 
@@ -137,3 +137,6 @@ Original cast recording (Scarborough)
 
 "There's no fun in writing at all. My first love is directing."  
 *(International Herald Tribune, 20 September 1984)*
+
+"One knows instinctively, I think, when you're doing too much, because the ideas just aren't bubbling up and the enjoyment's gone. And I think that was happening a bit too. It was getting a bit of a slog. And I don't think writing in the end - it has to be a slog in the first bit of it, getting it all down - but doing it, directing it, interpreting it, and rediscovering it should always be a tremendous joy in that. And if there isn't suddenly, forget it. The theory of sports-car racing really - it's to do with the flash and panache. There's something so important and live about theatre which mustn't be lost."  
+*(Kaleidoscope, 21 November 1984)*

@@ -25,3 +25,8 @@ During 1968, Alan Ayckbourn…
 ○ ***Mr Whatnot*** (Revival) \*  
 5 November: Leeds Civic Theatre  
 \* Amateur production directed by Alan Ayckbourn
+
+### Professional Directing
+
+○ ***The Wizard of Oz*** (Revival)  
+York Theatre Royal

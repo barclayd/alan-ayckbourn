@@ -72,7 +72,7 @@ Radio: 25 December, BBC Radio 4
 ○ ***Jeeves***  
 Original cast recording (London)
 
-![](./_images/stacks-image-8896321.jpg)
+![Black-and-white photograph of Alan Ayckbourn in a black polo neck, cigarette in hand, beside a large poster of Buster Keaton](./_images/stacks-image-8896321.jpg)
 
 *© Christopher Davies*
 
@@ -151,4 +151,7 @@ Original cast recording (London)
 *(Sunday News, 14 December 1975)*
 
 "I have a rhythm of about one play a year. The first 11½ months are spent sketching - not with notes, but in my head - and the last two weeks, or one, are spent writing. I tend to let them turn over and over, and then, usually close to the first rehearsal, put it down. There's rarely more than a month between the final script and the first night."  
+*(Sunday News, 14 December 1975)*
+
+"Theatre is about actors meeting an audience. Ultimately, the audience haven't come to see a director, they haven't come to see a scene designer, they've come to see actors."  
 *(Sunday News, 14 December 1975)*

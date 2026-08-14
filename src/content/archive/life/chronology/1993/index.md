@@ -12,7 +12,7 @@ order: 287
 
 <aside>
 
-![](./_images/stacks-image-6a96103.jpg)
+![Alan Ayckbourn in a cream jacket on a green field, holding an ice cream cone](./_images/stacks-image-6a96103.jpg)
 
 </aside>
 
@@ -129,4 +129,7 @@ Vaudeville Theatre, London
 *(Sunday Express, 12 December 1993)*
 
 "I sort of like my earlier plays, but I'm much more interested in what I'm doing next."  
+*(1993)*
+
+"My dream? To encourage and develop a whole generation of new dramatists who share my own desire to enlighten yet still entertain; to moralise but not to preach; to give everyone a damn good evening out whoever they are, wherever they live."  
 *(1993)*

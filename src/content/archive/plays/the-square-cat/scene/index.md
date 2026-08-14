@@ -8,7 +8,7 @@ play: "the-square-cat"
 *This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.*  
 *Dialogue in italics indicates material cut from the performed script.*
 
-![](./_images/stacks-image-78ea3ec-83.jpg)
+![Page I.17 of the typescript of The Square Cat, marked up in pen with cuts and revisions and watermarked "Copyright: Alan Ayckbourn". Dad and Mum are quarrelling over her letters to a man Dad calls "an international gigolo of the first order"; she calls him possessive and selfish, he tells her that "adultery, thank God, even in this decadent civilisation has not yet been classified as an amusement", and the page ends with the two of them standing glaring at one another](./_images/stacks-image-78ea3ec-83.jpg)
 
 **Act I** (pages 16 - 18)  
 **Mum:** (Summoning strength - determined.) Sidney, you can't stay here.  
@@ -38,3 +38,12 @@ play: "the-square-cat"
 **Mum:** Very well. If you won't go, I won't make you.  
 **Dad:** I can assure you, Alice, if I leave you leave with me.  
 **Mum:** I invited Jerry down here and I intend to stay.
+
+### Notes
+
+This scene, reproduced from an original manuscript held in the Ayckbourn Archive at the University Of York, is one of the most interesting sections of *The Square Cat*. The play is a farce and offers very little indication of the direction the playwright would eventually take in his writing.  
+However, this scene - which stands in contrast with the actions of Alice and Sidney later in the play - is possibly the one which we would consider today the most reflective of Ayckbourn's themes. The relationship between Alice and Sidney is pushed to breaking point and - as written - is quite harsh and sees Alice at her strongest and most interesting.  
+As the cut dialogue shows though (in italics), the character was watered down for performance considerably though and is a far more compliant and subdued character more in line with the woman who capitulates totally by the end of the play and is restored to a conventional and happy relationship with Sidney.  
+What remains though is an early example of the type of dysfunctional Ayckbourn male figure in the form of Sidney, which would become a prevalent part of his writing, epitomised by Dennis from ***[Just Between Ourselves](/plays/just-between-ourselves)***.  
+Although *The Square Cat* is resolved with a happy ending where all relationships are restored to the status quo and the events of the play are deemed largely inconsequential, this scene offers the one brief peek at one of the themes which Ayckbourn will develop extensively throughout his writing career.  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*

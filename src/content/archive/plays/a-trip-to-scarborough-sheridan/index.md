@@ -14,6 +14,8 @@ facts:
   Translation: "N/A"
   Published: "No"
   Note: "*A Trip To Scarborough* is Alan Ayckbourn's adaptation of R.B. Sheridan's play *A Trip To Scarborough*."
+  Amateur: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
+  Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
 

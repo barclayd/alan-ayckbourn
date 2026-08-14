@@ -49,3 +49,5 @@ Studio Theatre tour
 ○ ***Standing Room Only*** (John) \*  
 ○ ***Stranger In The Family*** (Toby Hart) \*  
 ○ ***The Boys And The Girls*** (Various roles) \*
+
+\* Theatre in the Round at the Library Theatre, Scarborough

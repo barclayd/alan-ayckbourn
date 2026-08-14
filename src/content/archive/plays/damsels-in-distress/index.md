@@ -20,3 +20,9 @@ facts:
 ---
 
 **Damsels In Distress London Premiere:** 7 September 2002
+
+**Availability**
+
+***Damsels in Distress* (*GamePlan*) quote**  
+*"We're all children underneath, Sorrel. Didn't you know that? We appear to grow older - visibly anyway - our faces sag, our boobs droop, our bums drop, but the irony is that inside we all feel the same as we always did. It's other people that change us."*  
+**Damsels in Distress**

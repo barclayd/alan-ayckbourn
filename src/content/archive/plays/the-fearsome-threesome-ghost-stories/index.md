@@ -9,6 +9,7 @@ facts:
   World Premiere: "29 December 1989"
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Play Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A short ghost story monologue about a couple and a friend, whose jealousy reaches murderous and haunting heights."
   First performance: "29 December 1989"
   World premiere: "29 December 1989"
@@ -19,8 +20,6 @@ facts:
   Narrator: "*To be confirmed*"
   Ghost: "Jeannie Swales"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -65,3 +64,9 @@ An original manuscript for *The Fearsome Threesome* is held in the Ayckbourn Arc
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
+
+### SpotLight on Ayckbourn: The Supernatural Plays
+
+**SpotLight on Ayckbourn: The Supernatural Plays**  
+*Posted: 31 October 2022*  
+Alan Ayckbourn's Archivist Simon Murgatroyd looks at Alan Ayckbourn's supernatural plays from 1975 to 2014, including *The Fearsome Threesome*.

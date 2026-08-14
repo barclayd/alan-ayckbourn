@@ -20,4 +20,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Season's Greetings* quote**  
+"Now we don't want to start Christmas like this, do we?"  
+**Season's Greetings**

@@ -51,3 +51,6 @@ Municipal Hall, Newcastle-under-Lyme
 The Victoria Theatre, Stoke-on-Trent  
 ○ **Christmas V Mastermind** (The Crimson Gollywog)  
 The Victoria Theatre, Stoke-on-Trent
+
+\* Theatre in the Round at the Library Theatre, Scarborough  
+\*\* Also performed at the Victoria Theatre, Stoke-on-Trent

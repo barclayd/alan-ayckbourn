@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Ten Times Table (1977)
 
-![](./_images/stacks-image-7f8e7d5.jpg)
-
 ![](./_images/stacks-image-112463f.jpg)
 
 Alan Ayckbourn rewrote *Ten Times Table* after getting approximately half-way through the play. His early notes indicate the play was substantially different including - as can be seen here - a multi-location set in-the-round as opposed to the single location set of the actual play.
@@ -19,8 +17,6 @@ Alan Ayckbourn rewrote *Ten Times Table* after getting approximately half-way th
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-91ca291.jpg)
 
 ![](./_images/stacks-image-dae748e.jpg)
 
@@ -31,8 +27,6 @@ More early notes by Alan Ayckbourn for *Ten Times Table* for a substantially dif
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-1dc9e52.jpg)
-
 ![](./_images/stacks-image-6ff69dd.jpg)
 
 A structure for the earliest concept for *Ten Times Table* showing the relationship between the various characters. Again, not how central Charlotte is to the piece and the difference in certain character names and relationships from the actual play.
@@ -41,8 +35,6 @@ A structure for the earliest concept for *Ten Times Table* showing the relations
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-4cace9e.jpg)
 
 ![](./_images/stacks-image-a93de9f.jpg)
 
@@ -54,4 +46,4 @@ The cover for the first night programme for the world premiere of *Ten Times Tab
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*   [![](./_images/stacks-image-4df62dc.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*   [![Logo of the Borthwick Institute for Archives, University of York](./_images/stacks-image-4df62dc.jpg)](/)

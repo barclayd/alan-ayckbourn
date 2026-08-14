@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Sisterly Feelings* quote**  
+"In films, if the wife jumps out in front of the car waving her arms, the husband generally pulls up with a scream of brakes. Patrick accelerates and drives straight at me."  
+**Sisterly Feelings**

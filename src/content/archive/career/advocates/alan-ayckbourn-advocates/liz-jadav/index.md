@@ -31,3 +31,5 @@ I’ve decided I can't bear press nights - there’s so many distractions and he
 I think Alan is a person who shows people what people are like and he does it beautifully. He has a real gift and his use of language is beautiful. His writing is so beautifully human - so beautifully and affectionately observed.
 
 He writes people with all their faults with great affection. That is almost the most valuable thing. Every single person is a flawed human being but you have to love them anyway - that’s what I believe. And Alan writes with love, flawed people.
+
+That’s probably why I enjoyed this job so much!

@@ -86,3 +86,6 @@ Original cast recording (Scarborough)
 
 "We \[Scarborough's Library Theatre\] were the first of the fringe theatres. I think it would be fair to say that Stephen Joseph started a sort of underground fringe company. And indeed, as all fringe groups are, we were all suspect communists and suspect everything else. As an actor in that company, you didn't mention you worked for it if you were auditioning for another company."  
 *(Unknown publication, August 1981)*
+
+"I've got a great fondness for silent film, all the old classics, particularly the Buster Keatons and the Harold Lloyds and people like that, rather more than Chaplin."  
+*(Unknown publication, August 1981)*

@@ -12,7 +12,7 @@ order: 302
 
 <aside>
 
-![](./_images/stacks-image-1acf398.jpg)
+![Alan Ayckbourn in a striped brown shirt, seated against the red-panelled wall of a rehearsal room](./_images/stacks-image-1acf398.jpg)
 
 *© James Drawneek*
 
@@ -32,7 +32,7 @@ During 2008, Alan Ayckbourn…
 
 ○ saw ***[Just Between Ourselves](/plays/just-between-ourselves)*** broadcast by BBC Radio.
 
-![](./_images/stacks-image-f09ab1e.jpg)
+![Alan Ayckbourn on a veranda beside a climbing vine, in a white T-shirt printed with a bowler hat](./_images/stacks-image-f09ab1e.jpg)
 
 *© Tony Bartholomew*
 
@@ -142,3 +142,6 @@ Original cast recording (Scarborough)
 
 "I think, apart from the writing, obviously, I'd like my time as Artistic Director of the Stephen Joseph Theatre to be remembered for the new plays we put on. That and the fact that I took on Stephen Joseph's work and his dream of performing theatre in the round. And long may it continue."  
 *(Yorkshire Life, September 2008)*
+
+"I learnt very early that the longer you draw your shadows, the brighter your light becomes and the better your laughter."  
+*(The Independent, 3 October 2008)*

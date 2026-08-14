@@ -325,4 +325,4 @@ play: "how-the-other-half-loves"
 **William Featherstone** Adam Gillen  
 **Mary Featherstone** Laura Elsworthy
 
-[![](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)  *All research for this page by Simon Murgatroyd.*
+[![How The Other Half Loves, a play by Alan Ayckbourn, at The Old Vic, 29 July to 19 September 2026](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)  *All research for this page by Simon Murgatroyd.*

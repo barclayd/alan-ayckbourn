@@ -21,4 +21,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***Bedroom Farce* quote**  
+"Dear me. My mother used to say, Delia, if S-E-X ever rears its ugly head, close your eyes before you see the rest of it."  
+**Bedroom Farce**
