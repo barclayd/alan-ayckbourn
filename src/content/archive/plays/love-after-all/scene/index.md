@@ -47,5 +47,3 @@ Angelica: Oh - on a horse?
 **Angelica:** Ooh, what a good idea.  
 **Minta:** And don't let your father see you. When he comes be ready to run like mad.  
 **Angelica:** Oh, Minta - wedding bells.
-
-### Notes

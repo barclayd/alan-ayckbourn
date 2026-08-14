@@ -9,8 +9,6 @@ This page has basic details about the New York productions of Alan Ayckbourn's p
 
 **Notes:** The list includes Broadway, Off Broadway and Off Off Broadway productions of the plays. Plays not available for production have been omitted from the list. Plays are listed in the order they were written.
 
-### Play Title
-
 ### Premiere
 
 8 October 1974  

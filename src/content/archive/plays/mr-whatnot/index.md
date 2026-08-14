@@ -23,5 +23,3 @@ Other Media:** No
 
 ***Mr Whatnot* quote**  
 "Piano tuner chappie - eh."
-
-**Mr Whatnot**

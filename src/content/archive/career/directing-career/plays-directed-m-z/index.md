@@ -8,12 +8,6 @@ This is a list of all the plays Alan Ayckbourn has directed in alphabetical orde
 
 **Note:** The Library Theatre, Scarborough, should more accurately be referred to as Theatre in the Round at the Library Theatre, Scarborough, but is contracted here due to space.
 
-### Play
-
-### Author
-
-### Venue
-
 ### Year
 
 [Make Yourself At Home](/plays/the-norman-conquests)  

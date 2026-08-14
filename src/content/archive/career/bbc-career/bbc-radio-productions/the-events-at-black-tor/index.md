@@ -6,8 +6,6 @@ order: 627
 
 *Between 1965 and 1970, Alan Ayckbourn was employed as a Radio Drama Producer by the BBC. He was responsible for directing dozens of works for the radio, sadly details of the majority of which have been lost. These pages contain details for specific productions where known.*
 
-### The Events At Black Tor (1968)
-
 ### Production Details
 
 **Author:**

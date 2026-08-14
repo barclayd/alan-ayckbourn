@@ -11,11 +11,10 @@ facts:
   Description: "Play for children / young people"
   Short Synopsis: "Am adaptation of the fairytale *The Princess And The Pea*."
   World premiere: "11 December 2002"
-  World premiere Final performance: "18 December 2002"
+  Final performance: "18 December 2002"
   Venue: "Stephen Joseph Theatre, Scarborough"
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
-  Director Director: "Laurie Sansom"
   Design: "Pip Leckenby"
   Lighting: "Dave Jackson"
   Puppet Design: "Lee Threadgold"
@@ -32,6 +31,7 @@ The first of these plays was a new adaptation of the famous fairy tale *The Prin
 
 ### Premiere Production Details (2002)
 
+**Director:** Laurie Sansom  
 The Princess  
 Puppeteers**Actor**  
 Carol Walton  

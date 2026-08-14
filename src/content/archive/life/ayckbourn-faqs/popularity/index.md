@@ -4,7 +4,7 @@ source: "http://biography.alanayckbourn.net/styled-5/styled-18/BiographyFAQPopul
 order: 97
 ---
 
-*This page contains FAQs concerning the popularity of Alan Ayckbourn's plays. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](/life)*** *page.*
+*This page contains FAQs concerning the popularity of Alan Ayckbourn's plays. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](http://biography.alanayckbourn.net/contact-form/Contact.php)*** *page.*
 
 **1)** Alan Ayckbourn is often quoted as being the second most performed playwright after Shakespeare. Is this true and where did it originate?  
 **2)** It is frequently quoted that an Ayckbourn play is being performed somewhere every day of the year. Is this possible?  

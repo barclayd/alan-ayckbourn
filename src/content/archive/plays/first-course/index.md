@@ -11,7 +11,7 @@ facts:
   Description: "Revue"
   Composer: "Paul Todd"
   World premiere: "8 July 1980"
-  World premiere Final performance: "2 September 1980"
+  Final performance: "2 September 1980"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Staging: "End-stage"
   Director: "Alan Ayckbourn"

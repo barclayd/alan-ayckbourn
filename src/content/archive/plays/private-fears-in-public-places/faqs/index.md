@@ -5,7 +5,7 @@ order: 1888
 play: "private-fears-in-public-places"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Private Fears In Public Places. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Private Fears In Public Places. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Why are there no ages for the characters in the published play text?**  
 A good question. *Private Fears In Public Places* was written to be performed by a specific acting company; having been working with his company at the Stephen Joseph Theatre in 2004 on *Drowning On Dry Land*, Alan was inspired to write another play for this company. As a result, knowing the production did not have to be cast, the manuscript just listed the character's names and this was then reproduced when the play was published.  

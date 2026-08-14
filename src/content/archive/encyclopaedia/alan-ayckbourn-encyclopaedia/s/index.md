@@ -58,7 +58,7 @@ order: 702
 
 **Sisterly Touches:** One of several unused titles considered for *Sisterly Feelings*.
 
-**[The SJT - In-Depth:](/plays/studio-theatre-ltd)** A subsidiary website of Alan Ayckbourn's Official Website dedicated to the history of his home theatre, the Stephen Joseph Theatre in Scarborough, from 1955 to the present day. It offers a background to the single most important theatre in Alan Ayckbourn's life as well as a comprehensive guide to every production staged by the company.
+**[The SJT - In-Depth:](http://thesjt.alanayckbourn.net/)** A subsidiary website of Alan Ayckbourn's Official Website dedicated to the history of his home theatre, the Stephen Joseph Theatre in Scarborough, from 1955 to the present day. It offers a background to the single most important theatre in Alan Ayckbourn's life as well as a comprehensive guide to every production staged by the company.
 
 **[A Small Family Business:](/plays/a-small-family-business)** Alan Ayckbourn's 33rd play premiered at the National Theatre, London, on 21 May 1987 and was revived at the same venue in 2014. It was commissioned by the National Theatre and written to cope with the demands of the large Olivier stage; the play being produced while Alan was a Company Director at the theatre. The acclaimed play centres on morality in the modern world and how simple compromises in a business lead from minor misdemeanours to murder. In 2014, it was revived at the National, the first time an Ayckbourn play had been produced twice at the National Theatre, and also streamed as part of NT Live; the first Ayckbourn production to be live-streamed.
 

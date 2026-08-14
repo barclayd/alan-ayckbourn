@@ -5,7 +5,7 @@ order: 1693
 play: "comic-potential"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Comic Potential. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Comic Potential. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **The play is written to have 10 actors plays 20 roles, can I use more actors?**  
 There's no reason why not in this case. The doubling (occasionally tripling of roles) was a device by the playwright to allow a far larger cast of characters. If you have more actors available, then there is no reason why all 20 roles can't be individually cast; although be aware some of the 'doubling' roles are literally no more than a walk-on part.

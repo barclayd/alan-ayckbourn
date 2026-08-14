@@ -16,4 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/clients/sir-alan-ayckbourn/)."
 ---
 
-**Availability**
+

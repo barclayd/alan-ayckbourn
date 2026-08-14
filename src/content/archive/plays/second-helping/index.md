@@ -11,7 +11,6 @@ facts:
   Description: "Revue"
   Composer: "Paul Todd"
   The Songs: "1. Friday the Thirteenth"
-  The Songs World Premiere: "5 August 1980"
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
   Musical Director: "Paul Todd"
@@ -41,6 +40,9 @@ There is no plot to the piece, presenting as it does ten different views of love
 10. Love Song
 
 ### Premiere Production Details 1980)
+
+**World Premiere:** 5 August 1980  
+**Venue:** Stephen Joseph Theatre In The Round, Scarborough
 
 David Bamber  
 Ronald Herdman  

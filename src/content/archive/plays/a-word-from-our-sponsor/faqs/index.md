@@ -5,7 +5,7 @@ order: 1659
 play: "a-word-from-our-sponsor"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's A Word From Our Sponsor. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's A Word From Our Sponsor. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Where can I obtain the vocal score for *A Word From Our Sponsor*?**  
 The vocal score can be obtained from Concord Theatricals / Samuel French, who also license the play for amateur performance. The vocal score is available via the *A Word From Our Sponsor* page on the website **[here](http://www.concordtheatricals.co.uk/s/11353/a-word-from-our-sponsor/)**.

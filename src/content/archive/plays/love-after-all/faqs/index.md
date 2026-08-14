@@ -5,7 +5,7 @@ order: 914
 play: "love-after-all"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Love After All. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Love After All. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Why is *Love After All* attributed to Roland Allen rather than Alan Ayckbourn?**  
 Alan Ayckbourn wrote his first four plays under the pseudonym Roland Allen and the reasons are two-fold. In the case of *The Square Cat*, it was to reflect the fact he co-wrote the play with his first wife, Christine Roland; the name is an amalgam of Christine's surname (Roland) and Alan's Christian name (Allen). The second reason is that Alan was an established actor with the Theatre in the Round at the Library Theatre company in Scarborough by this time and the pseudonym differentiated him as a writer from his established role as an actor.

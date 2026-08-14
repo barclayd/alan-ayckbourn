@@ -5,7 +5,7 @@ order: 2295
 play: "truth-will-out"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Truth Will Out. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Truth Will Out. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Will *Truth Will Out* ever be produced?**  
 *Truth Will Out* had its first - possibly only - public airing in a rehearsed reading on 17 September 2023 at the Stephen Joseph Theatre. It is unknown whether the success of this will lead to a future full production.

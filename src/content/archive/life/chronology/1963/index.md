@@ -44,5 +44,3 @@ During 1963, Alan Ayckbourn…
 ○ ***The Mating Season*** \*  
 ○ ***The Rainbow Machine*** \*  
 ○ ***Miss Julie*** \*
-
-### Professional Acting

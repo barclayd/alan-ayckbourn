@@ -37,5 +37,3 @@ Dialogue in italics indicates material cut from the performed script.*
 **Evie:** You know something? I think you're ever so slightly a bit of a stark raving nut-head.  
 **Tony:** What gives you that impression?  
 **Evie:** I've been thinking it out.
-
-### Notes

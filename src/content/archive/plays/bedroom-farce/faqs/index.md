@@ -5,7 +5,7 @@ order: 1196
 play: "bedroom-farce"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Bedroom Farce. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Bedroom Farce. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Is *Bedroom Farce* a farce?**  
 No. The title is a play on the phrase 'bedroom farce' but it is not actually a farce. The playwright prefers not to label his work as anything other than 'palays', but Bedroom Farce is a comedy rather than a farce. It does not meet the traditional prerequisite elements to be classified as a farce - there are no mistaken identities or general farcical behaviour. It should also never be approached as a farce from a director's point of view as it will completely misrepresent the play's intentions and, in all likelihood, fail as a production.

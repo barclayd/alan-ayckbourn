@@ -31,5 +31,3 @@ During 2026, Alan Ayckbourn…
 6 January (press night), Duke of York's Theatre  
 ○ ***How The Other Half Loves*** *(West End)*  
 11 August (press night), The Old Vic
-
-### Professional Directing

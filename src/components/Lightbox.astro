@@ -1,0 +1,83 @@
+---
+/**
+ * Opens an archive image at its own size. 422 of the 1,184 images are wider than
+ * the reading measure and arrive downscaled — production photographs, cast
+ * lists, programme pages — and those are exactly the ones worth a closer look.
+ *
+ * ponytail: <dialog> is the whole thing. Escape to close, focus trapped, the
+ * backdrop and the return of focus all native. No library, no focus manager.
+ */
+---
+
+<dialog
+  id="lightbox"
+  aria-label="Enlarged image"
+  class="max-h-dvh max-w-full bg-transparent backdrop:bg-chrome/85 backdrop:backdrop-blur-sm"
+>
+  <form method="dialog" class="grid max-h-dvh place-items-center p-3 sm:p-8">
+    {/*
+      The whole surface is the close button — a full-bleed submit is how a
+      lightbox is expected to behave, and `method="dialog"` closes without JS.
+      The image is inside it, so any click lands on the button.
+    */}
+    <button
+      type="submit"
+      aria-label="Close"
+      class="grid max-h-dvh cursor-zoom-out place-items-center focus-visible:outline-offset-8"
+    >
+      <img
+        alt=""
+        class="max-h-[calc(100dvh-6rem)] max-w-full rounded-sm shadow-2xl shadow-black/60"
+      />
+    </button>
+    <p
+      class="mt-4 max-w-prose text-center font-ui text-xs text-chrome-muted empty:hidden"
+    >
+    </p>
+  </form>
+</dialog>
+
+<script>
+  const dialog = document.querySelector<HTMLDialogElement>('#lightbox');
+  const image = dialog?.querySelector('img');
+  const caption = dialog?.querySelector('p');
+
+  if (dialog && image && caption) {
+    /*
+     * Only the images the measure actually shrinks are offered — a 175px poster
+     * has nothing more to show, and a zoom cursor over one is a broken promise.
+     * Measured after load, because an unloaded image reports naturalWidth 0.
+     */
+    const offer = (img: HTMLImageElement) => {
+      if (img.naturalWidth <= img.clientWidth) return;
+      img.dataset.zoom = '';
+      img.style.cursor = 'zoom-in';
+    };
+
+    const candidates = document.querySelectorAll<HTMLImageElement>(
+      '.prose-archive img',
+    );
+    for (const img of candidates) {
+      if (img.complete) offer(img);
+      else img.addEventListener('load', () => offer(img), { once: true });
+    }
+
+    document.addEventListener('click', (event) => {
+      const img = (event.target as HTMLElement).closest<HTMLImageElement>(
+        '.prose-archive img[data-zoom]',
+      );
+      if (!img) return;
+
+      image.src = img.currentSrc || img.src;
+      image.alt = img.alt;
+      /* The archive writes its credits as an italic paragraph under the image
+         ("© Tony Bartholomew"), which is the caption it never marked up. */
+      const next = img.closest('p')?.nextElementSibling;
+      caption.textContent =
+        next?.matches('p:has(em)') && !next.querySelector('img')
+          ? (next.textContent?.trim() ?? '')
+          : '';
+      dialog.showModal();
+    });
+  }
+</script>

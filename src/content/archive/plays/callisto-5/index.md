@@ -6,7 +6,6 @@ play: "callisto-5"
 poster: "./_images/stacks-image-6bd3854-57.jpg"
 facts:
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
-  Venue Venue: "Stephen Joseph Theatre, Scarborough"
   Play Number: "41"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/1170/callisto-5/) (*Callisto 5* only)"
   Other Media: "No"
@@ -17,6 +16,5 @@ facts:
 
 **Callisto 5 Premiere:** 12 December 1990
 
-**Callisto#7 Premiere:** 4 December 1999
-
-**Availability**
+**Callisto#7 Premiere:** 4 December 1999  
+**Venue:** Stephen Joseph Theatre, Scarborough

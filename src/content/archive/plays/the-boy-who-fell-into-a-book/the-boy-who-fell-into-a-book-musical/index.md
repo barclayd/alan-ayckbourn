@@ -29,5 +29,3 @@ The musical itself is extremely faithful to the original play but introduces 12 
 *The Boy Who Fell Into A Book* opened at the Stephen Joseph Theatre on 23 July 2014 (production details can be found **[here](/plays/the-boy-who-fell-into-a-book/productions)**) and immediately won critical praise and proved to be a big hit with audiences.
 
 **Note:** It should be noted the musical was not written by Alan Ayckbourn and should be referred to as an adaption of the Alan Ayckbourn play by Paul James, Cathy Shostak and Eric Angus. As such, it is not listed in the canonical list of Alan Ayckbourn's musicals as he had no direct involvement in the musical adaptation other than directing the first production.
-
-### The Songs Of The Boy Who Fell Into A Book

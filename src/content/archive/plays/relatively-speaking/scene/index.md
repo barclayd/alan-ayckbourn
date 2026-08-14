@@ -61,5 +61,3 @@ For Relatively Speaking, the final page of the original production of the play a
 *(Sheila claps her hands delightedly and moves on to the terrace, to go out through the DS door, leaving Philip gazing at the slippers, dumbfounded)*
 
 **END**
-
-### Notes

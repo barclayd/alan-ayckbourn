@@ -15,8 +15,6 @@ facts:
   Gizmo: "(click [here](http://www.concordtheatricals.co.uk/s/11329/gizmo/) to buy)"
 ---
 
-**Availability**
-
 ### History
 
 *Gizmo* is an unusual piece by Alan Ayckbourn and is comparable to ***[Ernie's Incredible Illucinations](/plays/ernies-incredible-illucinations)***. Like *Ernie's*, *Gizmo* was written specifically for performance by young people and as a result is rarely performed professionally.

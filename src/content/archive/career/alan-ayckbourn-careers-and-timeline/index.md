@@ -31,5 +31,3 @@ Playwright, Director & Actor (1962 - 1964)
 
 Visiting Professor  
 (1992)
-
-### Alan Ayckbourn: A Careers Timeline

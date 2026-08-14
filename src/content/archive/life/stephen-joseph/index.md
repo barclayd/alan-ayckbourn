@@ -17,9 +17,3 @@ Stephen's impact can be singularly seen in Alan's decision to run Theatre in the
 Stephen Joseph, himself, was a British theatre pioneer during the 1950s and 1960s who, amongst many other achievements, was the founder of the Library Theatre in 1955, the UK's first professional theatre-in-the-round company.
 
 This section explores Stephen Joseph's influence on Alan Ayckbourn as well as offering a brief overview of this influential figure in British theatre. A more comprehensive look at Stephen Joseph's life and contribution to theatre in the round can be found on our sister site **[A Round Town](http://www.a-round-town.com/)**.
-
-### Who was Stephen Joseph?
-
-### Alan Ayckbourn & Stephen Joseph
-
-### The 'A Round Town' Website

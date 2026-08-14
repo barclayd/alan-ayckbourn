@@ -9,8 +9,6 @@ This page contains basic details about the London premieres and revivals of Alan
 
 **Notes:** The dates are the official opening dates (i.e. press nights) and do not include previews. Plays not available for production have been omitted from the list. Plays are listed in the order they were written.
 
-### Play Title
-
 ### Premiere
 
 1 August 1985  

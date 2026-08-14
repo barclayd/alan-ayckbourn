@@ -5,7 +5,7 @@ order: 1704
 play: "the-boy-who-fell-into-a-book"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Boy Who Fell Into A Book. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Boy Who Fell Into A Book. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **The cast list indicates most of the roles in *The Boy Who Fell Into A Book* are intended to be doubled up, can they be cast individually?**  
 Certainly. if you have a company large enough to do it without doubling, that's perfectly acceptable. Both the play and musical adaptation were only doubled originally as obviously Alan Ayckbourn wrote it with a certain size company in mind - this means it can be tackled by a larger company if desired.

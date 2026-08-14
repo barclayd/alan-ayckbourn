@@ -22,7 +22,7 @@ During 2017, Alan Ayckbourn…
 
 ○ marked the 50th anniversary of the West End premiere of his first London hit, ***[Relatively Speaking](/plays/relatively-speaking)***.
 
-○ marked the 50th anniversary of the death of his mentor, **[Stephen Joseph](/life)** at the Stephen Joseph Theatre with a talk alongside Dr Paul Elsam and his Archivist **[Simon Murgatroyd](/plays/administrator)** and opened an exhibition dedicated to Joseph's work in Scarborough.
+○ marked the 50th anniversary of the death of his mentor, **[Stephen Joseph](/life)** at the Stephen Joseph Theatre with a talk alongside Dr Paul Elsam and his Archivist **[Simon Murgatroyd](http://archiving.alanayckbourn.net/)** and opened an exhibition dedicated to Joseph's work in Scarborough.
 
 ○ saw Samuel French publish ***[Life Of Riley](/plays/life-of-riley)***.
 

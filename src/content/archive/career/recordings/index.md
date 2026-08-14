@@ -8,8 +8,6 @@ The **Encyclopaedia** is an alphabetical and date-related tour of Alan Ayckbourn
 
 This section also includes other resources such as key dates regarding Alan Ayckbourn, an index of Ayckbourn character names, an index of actors who have appeared in significant Ayckbourn productions and a guide to Alan's plays in other media.
 
-### Encyclopaedia
-
 ### Other Resources
 
 ![](./_images/stacks-image-78fad8f.jpg)

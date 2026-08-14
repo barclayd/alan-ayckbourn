@@ -9,5 +9,3 @@ Alan Ayckbourn is most recognised as one of the world's most successful and perf
 As of 2026, he has written **92** full-length plays.
 
 This section offers a comprehensive guide to his playwriting with in-depth details about every play available from the **[Plays](/plays)** section of the website.
-
-### Alan Ayckbourn: Playwright

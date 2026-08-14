@@ -5,7 +5,7 @@ order: 1596
 play: "time-of-my-life"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Time Of My Life. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Time Of My Life. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **I'm struggling to understand the structure, could you explain how the play works?**  
 *Time Of My Life* is a difficult play to explain and doesn't necessarily lend itself to reading from the script. It does, however, make perfect sense on stage and audiences tend to grasp the structure very quickly in performance.  

@@ -4,7 +4,7 @@ source: "http://publications.alanayckbourn.net/styled/"
 order: 849
 ---
 
-This page contains responses to frequently asked questions about Alan Ayckbourn's plays and publications. If you have a question not covered by this page, please contact the website administrator via the **[Contact Us](/)** page.
+This page contains responses to frequently asked questions about Alan Ayckbourn's plays and publications. If you have a question not covered by this page, please contact the website administrator via the **[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)** page.
 
 **○ Is an Ayckbourn play in print?**  
 The majority of Alan Ayckbourn's plays have been published. If the play has ever been published by Samuel French as an acting edition (the vast majority of Ayckbourn published plays), it is in print and available to buy from **[The Alan Ayckbourn Collection](http://www.concordtheatricals.co.uk/collections/perform/1495/)** on the Concord Theatricals website. A full list of published Ayckbourn plays can be found **[here](/publications/buy-the-plays)**.

@@ -10,10 +10,6 @@ Conversely, as a result of Alan Ayckbourn playing an integral part of the histor
 
 You can find out more about Alan Ayckbourn and his relationship with the company by clicking on the links below. To find out more in-depth details about Theatre in the Round at the Library Theatre and the Stephen Joseph Theatre in the Round, visit the website **[www.a-round-town.com](http://www.a-round-town.com/)**.
 
-### Timeline & Key Events
-
-### The Venues
-
 ### Plays Produced / Directed / Premiered in Scarborough
 
 ![](./_images/footer-the-sjt.jpg)

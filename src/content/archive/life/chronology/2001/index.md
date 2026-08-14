@@ -32,7 +32,7 @@ During 2001, Alan Ayckbourn…
 
 ○ saw *House & Garden* nominated for Best Comedy at the Olivier Awards.
 
-○ saw **[www.alanayckbourn.net](/)** launched by **[Simon Murgatroyd](/plays/administrator)** as The Alan Ayckbourn Resource Guide.
+○ saw **[www.alanayckbourn.net](/)** launched by **[Simon Murgatroyd](http://archiving.alanayckbourn.net/)** as The Alan Ayckbourn Resource Guide.
 
 ○ redirected his 2000 production of ***[Bedroom Farce](/plays/bedroom-farce)*** for the end-stage and touring. It became the first play at the Stephen Joseph Theatre to be staged in both The Round and the end-stage The McCarthy spaces.
 

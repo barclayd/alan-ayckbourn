@@ -5,7 +5,7 @@ order: 2403
 play: "by-jeeves"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Jeeves & By Jeeves. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Jeeves & By Jeeves. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Are *Jeeves* and *By Jeeves* the same musical?**  
 No. They're significantly different. *Jeeves* was written and performed in just one production - a notorious West End flop - in 1975. Alan Ayckbourn and Andrew Lloyd Webber decided to have another crack at the material during the 1990s and created *By Jeeves*. Alan Ayckbourn virtually rewrote the entire book - the plot is completely different to *Jeeves* - although six songs from the original musical were kept alongside five new songs. Objectively, the plays are very different pieces and whilst *Jeeves* is an acknowledged flop, *By Jeeves* is an award-winning, critically acclaimed and popular musical which has been produced numerous times around the world. The differences are explored **[here](/plays/by-jeeves/flop-or-not)**.

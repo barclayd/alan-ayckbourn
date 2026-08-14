@@ -11,8 +11,6 @@ Alan was Artistic Director of the company at all three of its homes: Theatre in 
 \* indicates new play.....(S) indicates Studio at the Stephen Joseph Theatre In The Round  
 (M) indicates The McCarthy at the Stephen Joseph Theatre.....(R) indicates The Restaurant / Bistro at the Stephen Joseph Theatre.
 
-### Plays Produced Whilst Artistic Director in Scarborough
-
 ### Play Title
 
 **1969**  

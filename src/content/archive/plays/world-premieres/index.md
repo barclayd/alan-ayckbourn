@@ -9,10 +9,6 @@ facts:
 
 This page has basic details about the World premieres of Alan Ayckbourn's plays, click on a play title to find out more about the play. Details of the London, New York and North American premieres of Alan Ayckbourn's plays can be found via the links above.
 
-### Play Title
-
-### World Premiere
-
 ### Venue
 
 [The Square Cat](/plays/the-square-cat)  

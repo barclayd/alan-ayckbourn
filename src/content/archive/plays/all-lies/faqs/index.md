@@ -5,7 +5,7 @@ order: 2122
 play: "all-lies"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's All Lies. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's All Lies. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **What is *All Lies*?**  
 *All Lies* is Alan Ayckbourn's 86th full-length play.

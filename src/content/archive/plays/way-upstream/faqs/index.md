@@ -5,7 +5,7 @@ order: 1337
 play: "way-upstream"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Way Upstream. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Way Upstream. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Does *Way Upstream* have to be set on actual water?**  
 Ideally, it does. The play was conceived as being set on water and there is no doubt that the play works best when presented this way. It emphasises the extraordinary theatrical element of the play to enter an auditorium and see a water-filled stage with a cabin-cruiser, upon which rain will also fall. That being said, the play can be done without water and there have been some ingenious solutions in the past to achieve this and give the impression of a moving boat; if nothing else the boat should be capable of movement with or without water.
