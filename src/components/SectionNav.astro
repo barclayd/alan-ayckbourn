@@ -1,54 +1,97 @@
 ---
-import { isCurrent, siblingsOf } from '@/lib/siblings';
+import { branchOf, isCurrent } from '@/lib/section';
 
 /**
- * The bar of sibling pages that runs under the header on phones and tablets.
- * On a desktop the same list is a right-hand column instead — see SectionRail —
- * because the archive's own prose sends readers there, and one list said twice
- * a centimetre apart is one list too many.
+ * The same section list on phones and tablets, folded into a disclosure under
+ * the header. On a desktop it is the right-hand column instead — see SectionRail.
+ *
+ * It was a sideways-scrolling bar, which put fourteen pages in a viewport three
+ * labels wide and hid the rest behind a gesture with no edge to see. A list that
+ * runs down the page is the shape a phone already scrolls, and folding it shut
+ * keeps it from pushing the article it belongs to off the screen. Closed by
+ * default: a reader who followed a link came for the page, not the index.
  */
 type Props = { id: string };
 
 const { id } = Astro.props;
-const { root, pages } = await siblingsOf(id);
+const { root, pages, nested } = await branchOf(id);
 ---
 
 {
   pages.length > 0 && (
-    /* Not indexed: it is the same list of sibling titles on all fourteen pages
-       of a section, and each of those pages is its own search result. */
+    /* Not indexed: it is the same list of titles on all fourteen pages of a
+       section, and each of those pages is its own search result. */
     <nav
       aria-label={`${root?.data.title ?? 'Section'} pages`}
-      class="sticky top-14 z-30 border-rule border-b bg-surface/95 backdrop-blur-sm lg:hidden"
+      class="border-rule border-b lg:hidden"
       data-pagefind-ignore
     >
-      <div class="shell flex items-center gap-4">
-        {root && (
-          <a
-            href={`/${root.id}`}
-            aria-current={id === root.id ? 'page' : undefined}
-            class="shrink-0 border-transparent border-b-2 py-3 font-display text-sm uppercase leading-none tracking-wide aria-[current]:border-accent"
+      <details class="group">
+        <summary class="shell flex cursor-pointer list-none items-center gap-3 py-3.5 [&::-webkit-details-marker]:hidden">
+          <span class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent">
+            In this section
+          </span>
+          <span class="font-ui text-[0.7rem] text-muted tabular-nums">
+            {pages.length} pages
+          </span>
+          {/* A plus that turns into a close: one glyph, no icon set, and the
+              rotation says which way the panel is about to go. */}
+          <span
+            aria-hidden="true"
+            class="ml-auto text-lg text-muted leading-none transition-transform duration-200 group-open:rotate-45"
           >
-            {root.data.title}
-          </a>
-        )}
+            +
+          </span>
+        </summary>
 
-        {/* One scrolling row: fourteen sections wrap to four rows on a phone,
-            and this bar is sticky. */}
-        <ul class="flex min-w-0 flex-1 items-center gap-4 overflow-x-auto [scrollbar-width:thin]">
+        {/* The hairline belongs on the list, not on the shell: the tick crosses
+            it by 0.4rem, and on the shell that puts it off the left of a phone. */}
+        <div class="shell pb-6">
+        <ul class="border-rule border-l">
+          {root && (
+            <li>
+              <a
+                href={`/${root.id}`}
+                aria-current={id === root.id ? 'page' : undefined}
+                class="relative block py-2 pl-4 font-display text-sm uppercase leading-none tracking-wide transition-colors before:absolute before:top-[0.85rem] before:-left-[0.4rem] before:hidden before:h-px before:w-[1.1rem] before:bg-accent aria-[current]:before:block"
+              >
+                {root.data.title}
+              </a>
+            </li>
+          )}
+
           {pages.map((page) => (
-            <li class="shrink-0">
+            <li>
               <a
                 href={`/${page.id}`}
                 aria-current={isCurrent(id, page.id) ? 'page' : undefined}
-                class="block whitespace-nowrap border-transparent border-b-2 py-3 font-ui text-[0.72rem] uppercase tracking-[0.14em] text-muted transition-colors hover:text-body aria-[current]:border-accent aria-[current]:text-body"
+                class="relative block py-2 pl-4 font-ui text-[0.85rem] leading-snug text-muted transition-colors before:absolute before:top-[1rem] before:-left-[0.4rem] before:hidden before:h-px before:w-[1.1rem] before:bg-accent aria-[current]:text-body aria-[current]:before:block"
               >
-                {page.data.title}
+                {page.label}
               </a>
+
+              {isCurrent(id, page.id) && nested.length > 0 && (
+                <ul class="mb-2 ml-4 border-rule border-l">
+                  {nested.map((child) => (
+                    <li>
+                      <a
+                        href={`/${child.id}`}
+                        aria-current={
+                          isCurrent(id, child.id) ? 'page' : undefined
+                        }
+                        class="relative block py-1.5 pl-3.5 font-ui text-[0.78rem] leading-snug text-muted transition-colors before:absolute before:top-[0.85rem] before:-left-[0.35rem] before:hidden before:h-px before:w-[0.9rem] before:bg-accent aria-[current]:text-body aria-[current]:before:block"
+                      >
+                        {child.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </li>
           ))}
         </ul>
-      </div>
+        </div>
+      </details>
     </nav>
   )
 }

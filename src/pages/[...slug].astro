@@ -6,7 +6,7 @@ import Lightbox from '@/components/Lightbox.astro';
 import SectionNav from '@/components/SectionNav.astro';
 import SectionRail from '@/components/SectionRail.astro';
 import Base from '@/layouts/Base.astro';
-import { siblingsOf } from '@/lib/siblings';
+import { branchOf, labelOf, printsOwnIndex } from '@/lib/section';
 
 /**
  * Every page of the archive except the handful with a page of their own. One
@@ -75,23 +75,21 @@ const synopsis = facts?.['Short Synopsis'];
 const playNumber = facts?.['Play Number'];
 
 /*
- * Where the section list appears — as a bar on a phone, as a right-hand column
- * on a desktop.
+ * Where the section list appears — as a disclosure on a phone, as a right-hand
+ * column on a desktop.
  *
- * Not on the page the list belongs to: `/career` and a play landing are the head
- * of their own section, so their siblings *are* the children they already lay
- * out below, and the two would say the same thing a centimetre apart. Everywhere
- * under that head the two lists differ — reading "The National Theatre" you get
- * the rest of Career beside you and the National Theatre's own pages below — so
- * both are worth having, and a five-thousand-word article should not make the
- * way out of it wait until the end.
+ * On every page of a section, the head included. A play landing used to print
+ * its fourteen pages at the foot of the article instead, which is the one place
+ * a reader looking for the way on has already decided there isn't one; now the
+ * same list stands beside the page from the top of the screen and does not move
+ * when they scroll.
  *
  * Asked here as well as inside the components because the desktop grid reserves
  * a column for the rail, and a reserved column with nothing in it would narrow
  * the prose for nothing.
  */
-const { root, pages: siblings } = await siblingsOf(entry.id);
-const showNav = siblings.length > 0 && root?.id !== entry.id;
+const { pages: siblings } = await branchOf(entry.id);
+const showNav = siblings.length > 0;
 
 /* A play landing is often nothing but its data sheet once the facts are lifted
    into frontmatter, and an empty prose wrapper still prints its own line-height
@@ -129,17 +127,24 @@ const where = [section, ...trail.slice(1).map((step) => step.title)].join(
   ' › ',
 );
 
-/* A child titled after its parent ("Alan Ayckbourn Encyclopaedia: A") says the
-   parent's name again in a list sitting directly under the parent's own h1. */
-const labelOf = (child: CollectionEntry<'archive'>) =>
-  child.data.title.replace(`${title}: `, '');
+/* A child titled after its parent says the parent's name again in a list sitting
+   directly under the parent's own h1 — see `labelOf`. */
+const labels = new Map(
+  children.map((child) => [child.id, labelOf(child, entry.data.title)]),
+);
 
 /* An A–Z is a rail of letters, not twenty-six full-width cards each carrying one
-   character of information. The page's own prose says "click on a letter". Five
-   characters because the actors index runs "A - C" to "V - Z"; across the whole
-   archive nothing else has seven children whose labels are that short. */
+   character of information — see `printsOwnIndex`, which is also what the
+   right-hand column asks before offering to carry the same list. */
 const isRail =
-  children.length > 6 && children.every((child) => labelOf(child).length <= 5);
+  children.length > 6 &&
+  children.every((child) => (labels.get(child.id)?.length ?? 0) <= 5);
+
+/* Above the prose, not below it: Chronology puts 26,000 characters of essay
+   between its heading and its 72 years, and a catalogue's contents are what the
+   page is for. "Contents" rather than "In this section", which is the name the
+   list of the section's other pages already goes by a centimetre above it. */
+const showContents = printsOwnIndex([...labels.values()]);
 ---
 
 <Base
@@ -241,6 +246,62 @@ const isRail =
   >
     <div class="min-w-0">
       {
+        showContents && (
+          /* Not indexed: every title in here is a page with its own entry, so
+             indexing the list makes a section index match all of its children. */
+          <nav aria-labelledby="contents" class="mb-14" data-pagefind-ignore>
+            <h2
+              id="contents"
+              class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+            >
+              Contents
+            </h2>
+            {/* Rows under hairlines rather than padded plates: a plate's text sits
+                its own padding inside the column, so a grid of them ran 20px right
+                of every other thing on the page. The rule carries the division and
+                the text starts where the heading above it starts — which is also
+                how the data sheet at the top of the page is set. */}
+            <ul
+              class:list={[
+                'mt-6',
+                isRail
+                  ? 'flex flex-wrap gap-2'
+                  : 'grid gap-x-8 sm:grid-cols-2 lg:grid-cols-3',
+              ]}
+            >
+              {children.map((child) => (
+                <li data-reveal>
+                  <a
+                    href={`/${child.id}`}
+                    class:list={[
+                      'group flex transition-colors',
+                      /* No `h-full` on the rail: it is not in a grid row to fill,
+                         and paired with `h-14` the two heights race in the sheet
+                         and the letter tile collapses to its line box. */
+                      isRail
+                        ? 'h-14 min-w-14 items-center justify-center rounded-sm border border-rule bg-surface px-4 hover:bg-surface-raised'
+                        : 'h-full items-baseline gap-3 border-rule border-t pt-3.5 pb-5 hover:border-accent',
+                    ]}
+                  >
+                    <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">
+                      {labels.get(child.id)}
+                    </span>
+                    {child.data.year && (
+                      <span
+                        class="ml-auto font-ui text-xs text-muted tabular-nums"
+                      >
+                        {child.data.year}
+                      </span>
+                    )}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        )
+      }
+
+      {
         /* The data sheet before the prose: dates and venues are what most people
            came for, and the archive's own pages open with them too. */
         isPlay && facts && (
@@ -263,61 +324,6 @@ const isRail =
           </div>
         )
       }
-    {
-      children.length > 0 && (
-        /* Not indexed: every title in here is a page with its own entry, so
-           indexing the list makes a section index match all of its children. */
-        <nav aria-labelledby="in-section" class="mt-16" data-pagefind-ignore>
-          <h2
-            id="in-section"
-            class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
-          >
-            In this section
-          </h2>
-          {/* Rows under hairlines rather than padded plates: a plate's text sits
-              its own padding inside the column, so a grid of them ran 20px right
-              of every other thing on the page. The rule carries the division and
-              the text starts where the heading above it starts — which is also
-              how the data sheet at the top of the page is set. */}
-          <ul
-            class:list={[
-              'mt-6',
-              isRail
-                ? 'flex flex-wrap gap-2'
-                : 'grid gap-x-8 sm:grid-cols-2 lg:grid-cols-3',
-            ]}
-          >
-            {children.map((child) => (
-              <li data-reveal>
-                <a
-                  href={`/${child.id}`}
-                  class:list={[
-                    'group flex transition-colors',
-                    /* No `h-full` on the rail: it is not in a grid row to fill,
-                       and paired with `h-14` the two heights race in the sheet
-                       and the letter tile collapses to its line box. */
-                    isRail
-                      ? 'h-14 min-w-14 items-center justify-center rounded-sm border border-rule bg-surface px-4 hover:bg-surface-raised'
-                      : 'h-full items-baseline gap-3 border-rule border-t pt-3.5 pb-5 hover:border-accent',
-                  ]}
-                >
-                  <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">
-                    {labelOf(child)}
-                  </span>
-                  {child.data.year && (
-                    <span
-                      class="ml-auto font-ui text-xs text-muted tabular-nums"
-                    >
-                      {child.data.year}
-                    </span>
-                  )}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </nav>
-      )
-    }
     </div>
 
     {showNav && <SectionRail id={entry.id} />}

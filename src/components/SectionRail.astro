@@ -1,25 +1,29 @@
 ---
-import { isCurrent, siblingsOf } from '@/lib/siblings';
+import { branchOf, isCurrent } from '@/lib/section';
 
 /**
- * The section's pages as a right-hand column, from `lg` up.
+ * The section as a right-hand column, from `lg` up.
  *
- * The archive's own prose still says "use the links in the right-hand column",
- * and on the original site that column vanished below 900px. Putting it back on
- * the right — against the convention that nav goes left — makes those sentences
- * true again, and it gives the empty half of a wide screen the job it used to
- * have. Below `lg` the same list is the scrolling bar in SectionNav.
+ * The archive's own prose says "use the links in the right-hand column" on 208
+ * pages, and on the original site that column vanished below 900px. Putting it
+ * back on the right — against the convention that nav goes left — makes those
+ * sentences true again, and it gives the empty half of a wide screen the job it
+ * used to have. Below `lg` the same list is the disclosure in SectionNav.
+ *
+ * It stands on every page of a section including the head, so a play landing
+ * signposts its fourteen pages from the top of the screen rather than from the
+ * foot of the article.
  */
 type Props = { id: string };
 
 const { id } = Astro.props;
-const { root, pages } = await siblingsOf(id);
+const { root, pages, nested } = await branchOf(id);
 ---
 
 {
   pages.length > 0 && (
-    /* Not indexed: the same list of sibling titles repeats on every page of a
-       section, and each of those titles is already its own search result. */
+    /* Not indexed: the same list of titles repeats on every page of a section,
+       and each of those titles is already its own search result. */
     <nav
       aria-label={`${root?.data.title ?? 'Section'} pages`}
       class="hidden lg:block"
@@ -28,12 +32,15 @@ const { root, pages } = await siblingsOf(id);
       {/* The negative margin buys the scroll box room for the tick that crosses
           the rule: `overflow-y` clips the other axis too. */}
       <div
-        class="sticky top-20 -ml-3 max-h-[calc(100svh-9rem)] overflow-y-auto pl-3 [scrollbar-width:thin]"
+        class="sticky top-20 -ml-4 max-h-[calc(100svh-9rem)] overflow-y-auto pl-4 [scrollbar-width:thin]"
       >
         {root && (
+          /* The head sits outdented above the hairline, so its own marker sits
+             in the margin rather than crossing a rule it is not on. */
           <a
             href={`/${root.id}`}
-            class="block font-ui text-[0.65rem] uppercase tracking-[0.22em] text-accent transition-opacity hover:opacity-70"
+            aria-current={id === root.id ? 'page' : undefined}
+            class="relative block font-ui text-[0.65rem] uppercase tracking-[0.22em] text-accent transition-opacity before:absolute before:top-[0.4rem] before:-left-[0.85rem] before:hidden before:h-px before:w-[0.4rem] before:bg-accent hover:opacity-70 aria-[current]:before:block"
           >
             {root.data.title}
           </a>
@@ -50,8 +57,29 @@ const { root, pages } = await siblingsOf(id);
                 aria-current={isCurrent(id, page.id) ? 'page' : undefined}
                 class="relative block py-2 pl-4 font-ui text-[0.78rem] leading-snug text-muted transition-colors before:absolute before:top-[0.95rem] before:-left-[0.4rem] before:hidden before:h-px before:w-[1.1rem] before:bg-accent hover:text-body aria-[current]:text-body aria-[current]:before:block"
               >
-                {page.data.title}
+                {page.label}
               </a>
+
+              {isCurrent(id, page.id) && nested.length > 0 && (
+                /* The one group that opens, and it opens because the reader is
+                   inside it: a fold in the same edge rather than a second list.
+                   Nothing to toggle, so nothing to leave in the wrong state. */
+                <ul class="mb-2 ml-4 border-rule border-l">
+                  {nested.map((child) => (
+                    <li>
+                      <a
+                        href={`/${child.id}`}
+                        aria-current={
+                          isCurrent(id, child.id) ? 'page' : undefined
+                        }
+                        class="relative block py-1.5 pl-3.5 font-ui text-[0.72rem] leading-snug text-muted transition-colors before:absolute before:top-[0.8rem] before:-left-[0.35rem] before:hidden before:h-px before:w-[0.9rem] before:bg-accent hover:text-body aria-[current]:text-body aria-[current]:before:block"
+                      >
+                        {child.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </li>
           ))}
         </ul>
