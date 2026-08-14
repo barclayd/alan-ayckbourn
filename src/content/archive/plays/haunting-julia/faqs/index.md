@@ -5,7 +5,7 @@ order: 1638
 play: "haunting-julia"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Haunting Julia. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Haunting Julia. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Does Joe see his daughter's ghost at the climax of the play?**  
 That is for the audience to decide as, obviously, only Joe sees what is on the bed (although the audience and other characters see physical manifestations of the event). Alan Ayckbourn's own interpretation is that Joe is seeing a 'real' ghost rather than a product of his imagination; however, he also feels it can be interpreted as either a physical manifestation of Julia or a product of Joe's obsession with his daughter; Joe is both a haunted and haunting character whether literally or metaphorically and both interpretations are valid. Unlike *Snake In The Grass*, the play is slightly less ambiguous about the supernatural though as whilst only Joe sees Julia, the other men do experience her manifestation through the physical effects in the room and the bleeding on the bed.

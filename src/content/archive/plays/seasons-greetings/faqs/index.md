@@ -5,7 +5,7 @@ order: 1318
 play: "seasons-greetings"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Season's Greetings. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Season's Greetings. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **I'm directing / staging the play and think it would benefit from seeing the children on-stage. Can I add them?**  
 No. If you feel the need to add children to *Season's Greetings*, you have either not read the play or completely misunderstood its intentions and should probably tackle another play. Skipping the obvious point that if Alan Ayckbourn had wanted to write children into the play, he would have written children into the play, the play is obviously not about the children, who are left to our imaginations. The play is about the adults and how they essentially regress to childish behaviour at Christmas. To put children into the play is a distraction and does not benefit the play in any appreciable way - plus it breaks the performance license as it is an unapproved alteration to the script.

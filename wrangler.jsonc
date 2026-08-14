@@ -2,8 +2,13 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "alan-ayckbourn",
   "compatibility_date": "2026-08-01",
-  // Pure static site: no Worker script, just assets on the CDN.
-  // A Worker route gets added in PR 8 for the contact form.
+  // Pure static site: no Worker script, just assets on the CDN. /contact
+  // signposts the archive's own enquiries form rather than posting to one of
+  // ours, so there is nothing here for a Worker to do.
+  //
+  // No _redirects either: the old paths are subdomains of alanayckbourn.net,
+  // which is not ours to redirect. Old links keep going to the real archive,
+  // which is the right outcome. `404-page` catches anything unmatched here.
   "assets": {
     "directory": "./dist",
     "not_found_handling": "404-page"

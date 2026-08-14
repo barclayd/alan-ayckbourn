@@ -1,0 +1,54 @@
+---
+/**
+ * The one condition on giving this a public URL: it says what it is, above the
+ * fold, on arrival — no password gate, because Alan just clicks the link.
+ *
+ * Sits above the sticky header rather than inside it, so it scrolls away once
+ * read and never takes a strip of viewport again. Visible by default and
+ * dismissed by class, so a blocked script leaves the notice showing rather than
+ * hiding it: this is the one element on the site that must fail visible.
+ *
+ * ponytail: localStorage, not a cookie — nothing about this needs to reach a
+ * server, and /contact promises we store nothing.
+ */
+---
+
+<div
+  id="site-notice"
+  class="border-chrome-rule/70 border-b bg-chrome text-chrome-muted [.notice-read_&]:hidden"
+>
+  <p
+    class="mx-auto flex max-w-6xl items-center gap-3 px-4 py-2 font-ui text-xs leading-snug sm:px-6"
+  >
+    <span class="text-chrome-accent" aria-hidden="true">&#9679;</span>
+    <span>
+      An unofficial design concept &mdash; all content &copy; Haydonning Ltd.
+    </span>
+    {/* Hidden until we know a script can act on it, so no-JS gets no dead button. */}
+    <button
+      id="notice-dismiss"
+      type="button"
+      aria-label="Dismiss this notice"
+      class="ml-auto hidden shrink-0 rounded-full px-2 py-1 text-chrome-muted transition-colors hover:text-chrome-ink [.js_&]:block"
+    >
+      <svg
+        class="size-3.5"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        aria-hidden="true"
+      >
+        <path d="M6 6l12 12M18 6L6 18"></path>
+      </svg>
+    </button>
+  </p>
+</div>
+
+<script>
+  document.getElementById('notice-dismiss')?.addEventListener('click', () => {
+    localStorage.setItem('notice', 'read');
+    document.documentElement.classList.add('notice-read');
+  });
+</script>

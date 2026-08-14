@@ -5,7 +5,7 @@ order: 1936
 play: "life-and-beth"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Life & Beth. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Life & Beth. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Is Gordon a ghost or a figment of Beth's imagination?**  
 Much of this depends on your interpretation of the play as, arguably, the play can be interpreted either way. Beth could be exorcising both real or imagined ghosts. Essentially, the play is about a widow coming to terms with the fact she is able to cope and live her life to the full after her husband's death; so whether it's real or all in her mind, the outcome is the same. Beth moves forward in her life having realised she is fully capable of a fulfilling life without Gordon.  

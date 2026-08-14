@@ -5,7 +5,7 @@ order: 1479
 play: "man-of-the-moment"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Man Of The Moment. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Man Of The Moment. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Can *Man Of The Moment* be performed without a real swimming pooi?**  
 No. The swimming pool is an integral part of *Man Of The Moment*'s plot and has to be present as a physical pool with actual water within it. The need for the characters to frequently interact with the pool and for it to be obviously a real pool that people can fall into, swim the length of and - ultimately - drown in, makes it impossible to stage the play without a real pool. Whilst Alan Ayckbourn's previous play to substantially feature water - *Way Upstream* - can be staged in an 'imaginary' canal, it isn't possible to have 'imaginary' water in the pool for *Man Of The Moment*; the play depends on this element of realism.

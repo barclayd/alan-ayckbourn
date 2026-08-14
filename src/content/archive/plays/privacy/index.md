@@ -30,9 +30,9 @@ Any other material - including images - is the copyright of the respective creat
 No. All images are predominantly the copyright of Scarborough Theatre Trust or the respective photographer and should not be reprinted or stored in any format without express permission from the photographer / organisation which holds the copyright. Please note, photographers can and do scour the website looking for unauthorised reproductions of their photos and can take legal action against offenders.
 
 **○ Who should I contact regarding reproducing images from the site?**  
-Any enquiries regarding photograph reproduction should be directed to this website via the **[Copyright Enquires](http://copyright.alanayckbourn.net/contact-form/)** page.
+Any enquiries regarding photograph reproduction should be directed to this website via the **[Copyright Enquires](/contact)** page.
 
 **○ Surely anything on the internet is in the public domain and can be reproduced regardless?**  
 The internet is not public domain, it is a publishing medium to which copyright laws apply. Copyright applies to all material published on the internet - be it photographs, articles or any other creative endeavour - and is subject to the same laws. It is a common - and dangerous - fallacy that the internet is public domain and one that will not hold up if legal action is taken by copyright holders.
 
-If you have any queries about copyright, please contact us via **[Copyright Enquires](http://copyright.alanayckbourn.net/contact-form/)**.
+If you have any queries about copyright, please contact us via **[Copyright Enquires](/contact)**.

@@ -6,7 +6,7 @@ order: 604
 
 Alan Ayckbourn has had a strong relationship with the National Theatre and was a **[Company Director](/career/national-theatre/nt-company-director)** between 1986 and 1988. The National Theatre is the most important venue Alan Ayckbourn is associated with outside of his home theatre in Scarborough.
 
-This page contains some frequently asked questions regarding Alan Ayckbourn and the National Theatre. If you have any other questions, please contact the website **[here](http://www.alanayckbourn.net/contact-form/Contacts.php)**.
+This page contains some frequently asked questions regarding Alan Ayckbourn and the National Theatre. If you have any other questions, please contact the website **[here](/contact)**.
 
 ## Alan Ayckbourn & The National Theatre: Frequently Asked Questions
 

@@ -5,7 +5,7 @@ order: 941
 play: "standing-room-only"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Standing Room Only. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Standing Room Only. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Why is *Standing Room Only* attributed to both Roland Allen and Alan Ayckbourn?**  
 When *Standing Room Only* was premiered at Theatre in the Round at the Library Theatre, Scarborough, in 1961, it was credited to Alan Ayckbourn's writing pseudonym Roland Allen (see below). When Alan moved to the Victoria Theatre, Stoke-on-Trent, the following year, a revival of *Standing Room Only* - directed by Alan - was subsequently staged in 1963 and Alan credited the play to his own name. The only other subsequent production of the play was also credited to Alan Ayckbourn. As a result, the play has been credited to both Roland Allen and Alan Ayckbourn and, consequently, is considered both the final Ayckbourn play to be credited to his pseudonym Roland Allen as well as the first play to be credited to Alan Ayckbourn.

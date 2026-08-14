@@ -5,7 +5,7 @@ order: 1402
 play: "a-chorus-of-disapproval"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's A Chorus Of Disapproval. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's A Chorus Of Disapproval. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **I'm studying *A Chorus Of Disapproval*, should I watch the film if I'm unable to see the play?**  
 I'd avoid watching it. It is not recommended as Michael Winner's film adaptation of *A Chorus Of Disapproval* is very specifically his own interpretation / adaptation of the play and is at considerable odds with the playwright's intentions. It also makes substantial cuts to the dialogue (the film runs an hour shorter than the average stage performance of the play), practically excludes all references to *The Beggar's Opera* and is presented as a farce / sex comedy. It in no way reflects the play as written, deliberately makes decisions which are not supported by the original text and went against both the playwright's stated intentions and wishes.

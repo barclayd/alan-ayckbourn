@@ -4,7 +4,7 @@ source: "http://biography.alanayckbourn.net/styled-5/styled-13/BiographyFAQSJT.h
 order: 361
 ---
 
-*This page contains FAQs concerning Alan Ayckbourn and his association with the Stephen Joseph Theatre. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](http://biography.alanayckbourn.net/contact-form/Contact.php)*** *page*.
+*This page contains FAQs concerning Alan Ayckbourn and his association with the Stephen Joseph Theatre. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](/contact)*** *page*.
 
 **1)** When did Alan Ayckbourn become the Artistic Director of the Stephen Joseph Theatre?  
 **2)** Who was Stephen Joseph?  

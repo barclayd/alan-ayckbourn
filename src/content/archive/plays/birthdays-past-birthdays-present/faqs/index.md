@@ -5,7 +5,7 @@ order: 2092
 play: "birthdays-past-birthdays-present"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Men, Meals & Me If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Men, Meals & Me If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Is *Birthdays Past, Birthdays Present* available to perform?**  
 Yes, performance rights for both professional and amateur were released in August 2021 and it is now available to perform. Professional enquires regarding this play should be directed to Alan Ayckbourn's agents **[Casarotto Ramsay](http://www.casarotto.co.uk/clients/sir-alan-ayckbourn/)**, whilst amateur applications should be made via **[Concord Theatricals](http://www.concordtheatricals.co.uk/p/93392/birthdays-past-birthdays-present/)**.

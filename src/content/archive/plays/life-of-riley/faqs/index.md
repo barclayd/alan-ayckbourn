@@ -5,7 +5,7 @@ order: 1977
 play: "life-of-riley"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Life Of Riley. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Life Of Riley. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Can the character of Tilly be omitted from productions of the play given she only appears briefly in the final scene?**  
 No. Alan Ayckbourn feels very strongly about this and has often noted that "all my characters are there for a purpose." Tilly's presence at the funeral is to throw the other characters and their selfishness into relief; hers is the only genuine reaction to George's death. The playwright feels very strongly that 16 year old Tilly is vital for the scene as she was the last one to see George alive and her genuine reaction to his death stands in stark contrast to the other characters who are too self-involved to appreciate what George has done for them.  

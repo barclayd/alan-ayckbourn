@@ -5,7 +5,7 @@ order: 2437
 play: "table-manners"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Norman Conquests. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Norman Conquests. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Is there a correct order to see / produce *The Norman Conquests* trilogy?**  
 No. The plays can be seen or produced in any combination; there is no correct order to seeing *The Norman Conquests* and no particular advantage in seeing one play before another. It's not even possible to see them chronologically as *Round And Round The Garden* contains both the earliest of the first scenes and the latest of the final scenes!  

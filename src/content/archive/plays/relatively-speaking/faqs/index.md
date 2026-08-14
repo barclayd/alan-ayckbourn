@@ -5,7 +5,7 @@ order: 987
 play: "relatively-speaking"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Relatively Speaking. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Relatively Speaking. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Can I modernise / update the play?**  
 No. This is a play set firmly at the time it was written of 1965. It is a play which reflects its time of writing and Alan Ayckbourn firmly believes the majority of his plays are period pieces which should be performed in those same periods. It makes no sense to update or modernise the play because it will no longer be credible - particularly due to the lack of mobile phones. The attitudes of the characters are also firmly based in the era when they are written. It's worth bearing in mind that according to the playwright, as written, Greg is a character born in 1938 - patently he is not going to act the same way or have the same frame of references as someone of his equivalent age in the 21st century.  

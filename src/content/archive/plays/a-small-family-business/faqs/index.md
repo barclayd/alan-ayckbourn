@@ -5,7 +5,7 @@ order: 1442
 play: "a-small-family-business"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's A Small Family Business. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's A Small Family Business. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **What is happening with Samantha at the end of the play?**  
 The - rather dark - implication is that Samantha is now using the drugs which are being distributed by the family business after Jack allowed the business to become a front and distribution chain for the Rivetti's drug-dealing business. Alan Ayckbourn has emphasised on several occasions that Samantha is essentially overdosing at the climax of the play.

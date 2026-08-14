@@ -4,7 +4,7 @@ source: "http://www.alanayckbourn.net/styled-5/styled-26/FAQs.html"
 order: 61
 ---
 
-*This page contains Frequently Asked Questions regarding 'how do I…?' queries regarding Alan Ayckbourn and his plays. If you have any other questions, please contact the website via the [Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php) Page.*
+*This page contains Frequently Asked Questions regarding 'how do I…?' queries regarding Alan Ayckbourn and his plays. If you have any other questions, please contact the website via the [Contact Us](/contact) Page.*
 
 **○ How do I obtain Alan Ayckbourn's autograph?**  
 Whilst Alan Ayckbourn has historically signed autographs, there has - in recent years - been a noticeable increase in autograph requests which we are aware have immediately gone on re-sale on auction or shop sites. As a result of this, we have had to make the unfortunate decision that autograph requests will be considered on a case-by-case basis and only to **personalised requests** of supplied memorabilia. To request an autograph, please follow the steps below.  

@@ -1,0 +1,53 @@
+---
+import Base from '@/layouts/Base.astro';
+
+/**
+ * `not_found_handling: "404-page"` in wrangler.jsonc serves this for anything
+ * unmatched, so the archive's old URLs — six thousand of them across twenty
+ * years of links, none of which are ours — land somewhere useful rather than on
+ * Cloudflare's own blank 404.
+ *
+ * ponytail: no search-suggestion cleverness off the missing path. Search is one
+ * click away and the sections are listed; guessing from a slug that came off
+ * `styled-3/page-110/` would guess wrong.
+ */
+---
+
+<Base title="Page not found" indexed={false}>
+  <div class="mx-auto max-w-3xl px-4 pt-16 pb-24 sm:px-6">
+    <p
+      class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+      data-reveal
+    >
+      404
+    </p>
+    <h1
+      class="mt-4 font-display text-[clamp(2.5rem,7vw,4.5rem)] uppercase leading-[0.9]"
+      data-reveal
+    >
+      Not in this archive
+    </h1>
+    <p class="mt-5 max-w-[54ch] text-muted" data-reveal>
+      The page you asked for is not here. It may still be on <a
+        href="https://www.alanayckbourn.net"
+        class="text-accent underline decoration-accent/40 underline-offset-4 hover:decoration-accent"
+        rel="external">the official website</a
+      >, which this concept is a re-reading of &mdash; or try the search.
+    </p>
+
+    <div class="mt-10 flex flex-wrap gap-3" data-reveal>
+      <a
+        href="/search"
+        class="bg-accent px-5 py-3 font-ui text-sm text-accent-ink transition-opacity hover:opacity-90"
+      >
+        Search the archive
+      </a>
+      <a
+        href="/"
+        class="border border-rule px-5 py-3 font-ui text-sm transition-colors hover:bg-surface-raised"
+      >
+        Back to the beginning
+      </a>
+    </div>
+  </div>
+</Base>

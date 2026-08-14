@@ -5,7 +5,7 @@ order: 2288
 play: "father-of-invention"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Father of Invention. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Father of Invention. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Will *Father of Invention* ever be produced?**  
 *Father of Invention* had its first - possibly only - public airing in a rehearsed reading on 15 September 2024 at the Stephen Joseph Theatre. It is unknown whether it will ever be released for production.

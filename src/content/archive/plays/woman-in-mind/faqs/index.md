@@ -5,7 +5,7 @@ order: 1421
 play: "woman-in-mind"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Woman In Mind. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Woman In Mind. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Some commentators have suggested that *Woman In Mind* is autobiographical and the role of Susan is inspired by Alan Ayckbourn's mother. Is this true?**  
 Alan Ayckbourn has always denied this to be the case and has gone on the record as saying *Woman In Mind* is no more or less autobiographical than any other play he has written. When questioned directly in 2016 as to whether his mother had inspired any of the characters in his plays, he responded that she'd probably most inspired the unseen mother in *The Norman Conquests*; no mention of *Woman In Mind* was made at all.

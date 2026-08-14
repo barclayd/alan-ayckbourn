@@ -5,7 +5,7 @@ order: 2018
 play: "arrivals-and-departures"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Arrivals & Departures. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Arrivals & Departures. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **The play is written to have 11 actors plays 30 roles, can I use more actors?**  
 There's no reason why not in this case. The doubling (occasionally tripling of roles) was a device by the playwright to allow a far larger cast of characters. If you have more actors available, then there is no reason why all 30 roles can't be individually cast.

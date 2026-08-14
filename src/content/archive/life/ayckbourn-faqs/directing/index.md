@@ -4,7 +4,7 @@ source: "http://biography.alanayckbourn.net/styled-5/styled-17/BiographyFAQDirec
 order: 365
 ---
 
-*This page contains FAQs concerning Alan Ayckbourn and his directing career. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](http://biography.alanayckbourn.net/contact-form/Contact.php)*** *page.*
+*This page contains FAQs concerning Alan Ayckbourn and his directing career. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **1)** When did Alan Ayckbourn first begin directing?  
 **2)** What was the first Ayckbourn play to be directed by Alan Ayckbourn himself?  

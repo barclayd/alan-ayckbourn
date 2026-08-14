@@ -5,7 +5,7 @@ order: 2068
 play: "a-brief-history-of-women"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's A Brief History Of Women. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's A Brief History Of Women. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Can you tell me what the piano music used between scenes in the world premiere production is and who composed it?**  
 It is a piece of music called *Divenire* by the composer Ludovico Einaudi and widely available.

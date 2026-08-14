@@ -5,7 +5,7 @@ order: 1716
 play: "house-and"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's House & Garden. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's House & Garden. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Do you have to see both plays?**  
 No, each play stands on its own and can be seen independently of the other. However for full enjoyment and appreciation of *House & Garden* - and for the full story - it is preferable to see both parts.

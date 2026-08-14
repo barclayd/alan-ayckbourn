@@ -5,7 +5,7 @@ order: 2306
 play: "stage-a-play"
 ---
 
-This page contains frequently asked questions regarding staging Alan Ayckbourn's plays. If you have a question not covered by this page, please use the **[Contact Us](http://plays.alanayckbourn.net/contact-form/)** page form.
+This page contains frequently asked questions regarding staging Alan Ayckbourn's plays. If you have a question not covered by this page, please use the **[Contact Us](/contact)** page form.
 
 ### Frequently Asked Questions
 

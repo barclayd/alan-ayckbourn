@@ -5,7 +5,7 @@ order: 1515
 play: "the-revengers-comedies"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Revengers' Comedies. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's The Revengers' Comedies. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/contact)*** *page.*
 
 **Do I have to see both parts of *The Revengers' Comedies* to appreciate it?**  
 Yes, although it is in two parts, *The Revengers' Comedies* is a single play. It is probably better regarded as a single four act play. Although Part 1 does end at a satisfying climax, it is a cliff-hanger ending and the play is only resolved by seeing Part 2. Likewise, Part 2 would make very little sense if Part 1 had not already even seen.

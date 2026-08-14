@@ -5,7 +5,7 @@ order: 1649
 play: "the-musical-jigsaw-play"
 ---
 
-Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's *The Musical Jigsaw Play*. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the **[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)** page.
+Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's *The Musical Jigsaw Play*. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the **[Contact Us](/contact)** page.
 
 **Is *The Musical Jigsaw Play* available to produce?**  
 No. During 2020, the playwright confirmed *The Musical Jigsaw Play* is now considered a withdrawn work and not available to produce.
