@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "dev": "astro dev",
-    "build": "rm -rf dist && astro build && pagefind --site dist",
+    "build": "rm -rf dist node_modules/.astro && astro build && pagefind --site dist",
     "preview": "astro preview",
     "check": "astro check",
     "types": "astro sync && tsc --noEmit",
@@ -16,11 +16,12 @@
     "scrape:sample": "node scripts/scrape.mjs",
     "blog": "node scripts/blog.mjs",
     "blog:dry": "node scripts/blog.mjs --no-upload",
-    "test": "node --test 'scripts/*.test.mjs'",
+    "test": "node --test '**/*.test.mjs'",
     "links": "node scripts/links.mjs",
     "deploy": "bun run build && bun run links && wrangler deploy"
   },
   "dependencies": {
+    "@astrojs/markdown-satteri": "0.3.5",
     "astro": "7.1.6",
     "zod": "^4.4.3"
   },
@@ -30,6 +31,7 @@
     "@tailwindcss/vite": "^4.3.3",
     "@types/node": "^26.1.2",
     "cheerio": "^1.1.2",
+    "satteri": "0.9.5",
     "lefthook": "^2.1.10",
     "pagefind": "^1.4.0",
     "tailwindcss": "^4.3.3",
