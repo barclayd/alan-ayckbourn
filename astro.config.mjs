@@ -1,7 +1,9 @@
 // @ts-check
 
+import { satteri } from '@astrojs/markdown-satteri';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig, fontProviders } from 'astro/config';
+import timelinePlugin from './src/lib/timeline.mjs';
 
 export default defineConfig({
   site: 'https://alanayckbourn.pages.dev',
@@ -9,6 +11,10 @@ export default defineConfig({
   trailingSlash: 'never',
   build: { format: 'directory' },
   vite: { plugins: [tailwindcss()] },
+  /* Astro's own processor, with one plugin added: fifty-six of the archive's
+     pages are chronologies typed as prose, and this reads them back as
+     timelines. Every other page comes through untouched. */
+  markdown: { processor: satteri({ hastPlugins: [timelinePlugin] }) },
   /*
    * `optimizedFallbacks: false` on every family: it makes Astro fetch a font
    * file purely to measure it, and a runner once got a 404 from gstatic for a

@@ -353,6 +353,198 @@
     text-transform: uppercase;
     color: var(--color-accent);
   }
+
+  /*
+   * Timelines, from the chronology pages src/lib/timeline.mjs rebuilds.
+   *
+   * The measure is 68ch and the prose is flush left inside a wider container,
+   * so there is no room to hang the dateline outside it. The gutter lives
+   * inside the measure instead, which leaves ~57ch of prose — still a
+   * comfortable line for entries that are one sentence long.
+   *
+   * Bands and gaps declare the SAME two columns from the same left edge rather
+   * than nesting grids, so the dateline aligns down the whole timeline without
+   * subgrid. The year shares its row with the band's first entry: a year that
+   * sat on a row of its own read as belonging to the gap above it.
+   */
+  & .timeline {
+    --tl-gutter: 4.5rem;
+    --tl-gap: 1.75rem;
+    padding-left: 0;
+    list-style: none;
+    /* The spine: one hairline, drawn as a background so it needs no element
+       and cannot break between bands. */
+    background-image: linear-gradient(var(--color-rule), var(--color-rule));
+    background-repeat: no-repeat;
+    background-position: calc(var(--tl-gutter) + var(--tl-gap) / 2) 0;
+    background-size: 1px 100%;
+  }
+
+  & .tl-band,
+  & .tl-gap {
+    display: grid;
+    grid-template-columns: var(--tl-gutter) 1fr;
+    column-gap: var(--tl-gap);
+  }
+
+  & .tl-band {
+    scroll-margin-top: 5rem;
+  }
+
+  & .tl-band + .tl-band {
+    margin-top: 1.6em;
+  }
+
+  & .tl-year {
+    grid-column: 1;
+    /* Optical, not metric: display caps at 1.6rem against body text at 1.7
+       line-height sit high unless nudged onto the first line's cap height. */
+    padding-top: 0.3rem;
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    text-align: right;
+    color: var(--color-muted);
+    transition: color 0.2s var(--ease-stage);
+  }
+
+  /* A year that leads to its own in-depth page keeps the archive's link, and
+     with it the accent rule every other link in the prose wears. A year that
+     leads nowhere is plain text, so the two are told apart at a glance. */
+  & .tl-year a {
+    color: inherit;
+    text-underline-offset: 0.22em;
+  }
+
+  & .tl-year:has(a:hover),
+  & .tl-band:target .tl-year {
+    color: var(--color-accent);
+  }
+
+  /* The archivist's own section heads: "Oliviers (London)", "As Director". */
+  & .tl-label {
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    line-height: 1.5;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+
+  & .tl-label strong {
+    font-weight: inherit;
+  }
+
+  & .tl-label + .timeline {
+    margin-top: 0.9em;
+  }
+
+  /* A head belongs to what follows it, so it sits nearer that than the section
+     it ends. The prose default spaces both sides alike. */
+  & .timeline + .tl-label {
+    margin-top: 2.2em;
+  }
+
+  & .tl-events {
+    grid-column: 2;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  & .tl-event {
+    position: relative;
+  }
+
+  & .tl-event + .tl-event {
+    margin-top: 0.85em;
+  }
+
+  /* The finer date, when the band's year is not the whole of it: "30 May" above
+     the entry it belongs to. It cannot go in the gutter — the year is there. */
+  & .tl-when {
+    margin: 0 0 0.15em;
+    font-family: var(--font-ui);
+    font-size: 0.68rem;
+    font-weight: 500;
+    line-height: 1.35;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  /* The node the archivist typed as a "○" and we promoted to structure. Filled
+     with the surface so the spine does not show through the middle of it. */
+  & .tl-event::before {
+    content: "";
+    position: absolute;
+    top: 0.6em;
+    left: calc(var(--tl-gap) / -2);
+    width: 9px;
+    height: 9px;
+    translate: -50% -50%;
+    border: 1px solid var(--color-rule);
+    border-radius: 50%;
+    background-color: var(--color-surface);
+    transition: border-color 0.2s var(--ease-stage);
+  }
+
+  & .tl-event:hover::before,
+  & .tl-band:target .tl-event::before {
+    border-color: var(--color-accent);
+  }
+
+  & .tl-what > * + * {
+    margin-top: 0.5em;
+  }
+
+  /*
+   * An empty stretch is the one thing a list of events cannot show and a
+   * timeline can. The background-colour masks the spine so the break in it is
+   * a real break, and the dotted segment carries on across the gap.
+   */
+  & .tl-gap {
+    align-items: center;
+    margin: 1.1em 0;
+    padding: 0.3rem 0;
+    background-color: var(--color-surface);
+    background-image: repeating-linear-gradient(
+      var(--color-rule) 0 2px,
+      transparent 2px 6px
+    );
+    background-repeat: no-repeat;
+    background-position: calc(var(--tl-gutter) + var(--tl-gap) / 2) 0;
+    background-size: 1px 100%;
+  }
+
+  & .tl-gap > span {
+    grid-column: 2;
+    font-family: var(--font-ui);
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  /* Narrow: the gutter collapses and the spine moves to the far left. The
+     dateline stacks above its entry rather than shrinking to fit beside it. */
+  @media (width < 40rem) {
+    & .timeline {
+      --tl-gutter: 0rem;
+      --tl-gap: 1.4rem;
+    }
+
+    & .tl-year {
+      /* Spanning both columns pushes the entries onto the row below it. */
+      grid-column: 1 / -1;
+      padding-top: 0;
+      padding-left: var(--tl-gap);
+      margin-bottom: 0.35em;
+      text-align: left;
+    }
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
