@@ -156,6 +156,30 @@ broken internal links across all 3,640 pages.
 
 ---
 
+## Migration status — verified 14 Aug 2026
+
+2,428 pages, 1,165 images and 6 documents written from 141 hosts. Every number the
+scraper reports as a gap has been reconciled against the live original site:
+
+| Reported | What it actually is |
+|---|---|
+| 119 failures | 107 are second hostnames for pages already scraped — `directing.alanayckbourn.net/page4/pageNN/` is `careers.alanayckbourn.net/page4/pageNN/`, and the archive's own redirect between them is broken. The other two are dead upstream: a href containing the literal string `(null)`, and `directing…/page4.html`. |
+| 6 uncrawled hosts | Five are duplicate hosts for content already in the site (`theplays`, `thegirlnextdoor`, `howtheotherloves`, `chloewithlove`, the bare apex). `the-sjt` does not exist — it is a typo in a link on the original site. |
+| 2 empty pages | `NewsInDepth.html` under `page-2/` and `page-6/`. Abandoned Stacks pages: the live site serves four unconfigured "Button Label" placeholders and a footer. There is nothing there to migrate. |
+| 7 unresolved links | Outbound or dead: the Woman in Black production site, `archiving.` (redirects off-domain to Simon Murgatroyd's own site), and the mistyped SJT hosts. |
+| 0 broken internal links | Across 2,902 built pages. |
+
+**Open, and deliberately not invented:** 1,165 images carry no alt text. Every
+original is `alt="Stacks Image 1234"`, and nothing in the markup says what the
+photograph shows — so `scraped/report.json` lists all of them by page as a review
+list rather than the scraper guessing at archival production stills.
+
+**Open, awaiting a design decision:** the reconstructed three- and four-column
+tables render as `**Author** Publication **Date** Topic` — complete and legible,
+but cells run together, because there is no table CSS in the project.
+
+---
+
 ## Risks
 
 | Risk | Mitigation |
