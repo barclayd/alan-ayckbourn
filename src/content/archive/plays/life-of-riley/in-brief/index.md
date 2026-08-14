@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://lifeofriley.alanayckbourn.net/page-6/"
-order: 1970
+order: 1968
 play: "life-of-riley"
 ---
 

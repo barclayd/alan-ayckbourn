@@ -1,7 +1,7 @@
 ---
 title: "The Ayckbourn Archive at the Borthwick Institute for Archives"
 source: "http://writingabsurdpersonsingular.alanayckbourn.net/page-10/page18.html"
-order: 2556
+order: 2523
 play: "absurd-person-singular"
 ---
 

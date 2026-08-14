@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://ernies.alanayckbourn.net/page9/Media_Ernies.html"
-order: 732
+order: 731
 play: "ernies-incredible-illucinations"
 ---
 

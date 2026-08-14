@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://manofthemoment.alanayckbourn.net/styled/"
-order: 1468
+order: 1467
 play: "man-of-the-moment"
 ---
 

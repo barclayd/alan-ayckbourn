@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page183/"
-order: 592
+order: 591
 ---
 
 ## Gaslight (1963)

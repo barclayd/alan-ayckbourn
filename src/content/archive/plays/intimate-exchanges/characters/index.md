@@ -1,7 +1,7 @@
 ---
 title: "Character Notes"
 source: "http://intimateexchanges.alanayckbourn.net/styled-11/"
-order: 1364
+order: 1363
 play: "intimate-exchanges"
 ---
 

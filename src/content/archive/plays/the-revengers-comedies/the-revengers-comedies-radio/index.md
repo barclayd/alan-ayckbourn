@@ -1,7 +1,7 @@
 ---
 title: "The Revengers' Comedies: Adaptations In Other Media"
 source: "http://therevengerscomedies.alanayckbourn.net/styled-9/page17.html"
-order: 753
+order: 752
 play: "the-revengers-comedies"
 ---
 

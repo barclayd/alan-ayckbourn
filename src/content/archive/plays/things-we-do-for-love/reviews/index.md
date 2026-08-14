@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://thingswedoforlove.alanayckbourn.net/styled-6/"
-order: 1676
+order: 1675
 play: "things-we-do-for-love"
 ---
 

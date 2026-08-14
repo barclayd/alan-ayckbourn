@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: K"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-11/K.html"
-order: 694
+order: 693
 ---
 
 **Karaoke Play:** An abandoned concept for a play intended for the 2005 summer season at the Stephen Joseph Theatre, Scarborough. What little clues exist point to the play involving the audience and partaking in the drama, influencing the outcome of the play. Some of the ideas for the play were re-imagined for the 2016 play *The Karaoke Theatre Company*.

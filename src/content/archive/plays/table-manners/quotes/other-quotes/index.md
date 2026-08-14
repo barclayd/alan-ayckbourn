@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Quotes by Other People"
 source: "http://tablemanners.alanayckbourn.net/styled-5/styled-18/"
-order: 2466
+order: 2438
 play: "table-manners"
 ---
 

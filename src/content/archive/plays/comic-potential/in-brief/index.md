@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://comicpotential.alanayckbourn.net/page-6/"
-order: 1684
+order: 1682
 play: "comic-potential"
 ---
 

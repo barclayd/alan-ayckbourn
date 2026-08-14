@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://christmasvmastermind.alanayckbourn.net/styled-5/"
-order: 948
+order: 947
 play: "christmas-v-mastermind"
 ---
 

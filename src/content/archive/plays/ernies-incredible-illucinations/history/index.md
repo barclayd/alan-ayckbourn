@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://ernies.alanayckbourn.net/styled/"
-order: 2208
+order: 2206
 play: "ernies-incredible-illucinations"
 ---
 

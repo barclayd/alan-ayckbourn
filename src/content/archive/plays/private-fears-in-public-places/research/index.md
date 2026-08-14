@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://privatefears.alanayckbourn.net/page-10/"
-order: 1887
+order: 1885
 play: "private-fears-in-public-places"
 ---
 

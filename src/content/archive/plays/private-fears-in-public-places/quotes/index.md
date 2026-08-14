@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://privatefears.alanayckbourn.net/styled-5/"
-order: 1881
+order: 1879
 play: "private-fears-in-public-places"
 ---
 

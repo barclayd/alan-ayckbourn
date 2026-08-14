@@ -1,6 +1,6 @@
 ---
 title: "The 7 Deadly Virtues"
-source: "http://sevendeadlyvirtues.alanayckbourn.net/"
+source: "http://the7deadlyvirtues.alanayckbourn.net/"
 order: 212
 play: "the-7-deadly-virtues"
 year: 1984

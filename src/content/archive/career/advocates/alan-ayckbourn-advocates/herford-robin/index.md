@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Robin Herford"
 source: "http://advocates.alanayckbourn.net/page/page-13/"
-order: 739
+order: 738
 ---
 
 *Robin Herford is a director and actor. He is one of the most prolific actors with regard to world premieres of Ayckbourn's work and most notably was in the world and West End premieres of Intimate Exchanges; which required him and Lavinia Bertram to memorise more than 16 hours of dialogue for a two hander play with 16 potential endings. As a director he found fame as the director of the world and West End premieres of The Woman In Black - which he has directed around the world - and he is regarded as one of the finest directors of Alan Ayckbourn's plays.*

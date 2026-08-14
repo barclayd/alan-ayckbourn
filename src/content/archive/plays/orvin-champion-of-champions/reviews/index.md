@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://orvin.alanayckbourn.net/styled-6/"
-order: 1849
+order: 1847
 play: "orvin-champion-of-champions"
 ---
 

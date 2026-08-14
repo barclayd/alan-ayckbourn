@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://bedroomfarce.alanayckbourn.net/styled-5/"
-order: 1188
+order: 1187
 play: "bedroom-farce"
 ---
 

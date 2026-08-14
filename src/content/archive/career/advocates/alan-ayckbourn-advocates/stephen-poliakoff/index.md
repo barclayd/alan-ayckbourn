@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Stephen Poliakoff"
 source: "http://advocates.alanayckbourn.net/page/page-24/"
-order: 2360
+order: 2358
 ---
 
 *Stephen Poliakoff CBE is a playwright, writer and director acclaimed for his television dramas.*

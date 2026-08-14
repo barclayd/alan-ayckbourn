@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - September"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-37/Z.html"
-order: 781
+order: 780
 ---
 
 **2 September:** West End premiere of ***[Taking Steps](/plays/taking-steps)*** at the Lyric Theatre in 1980; world premiere of Alain Resnais's film adaptation of ***[Private Fears In Public Places](/plays/private-fears-in-public-places/coeurs)*** in 2007.

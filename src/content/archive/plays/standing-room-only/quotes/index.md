@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://standingroomonly.alanayckbourn.net/styled-5/"
-order: 932
+order: 931
 play: "standing-room-only"
 ---
 

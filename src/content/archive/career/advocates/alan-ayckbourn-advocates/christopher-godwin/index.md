@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Christopher Godwin"
 source: "http://advocates.alanayckbourn.net/page/page-56/"
-order: 2324
+order: 2322
 ---
 
 *Christopher Godwin is an actor who worked extensively with Alan Ayckbourn during the 1970s. Since then he has worked with the RSC, the National Theatre and Shakespeare's Globe theatre as well as appearing extensively on screen. He is most famous for originating several of Alan Ayckbourn's most famous characters such as Norman in The Norman Conquests, Trevor in Bedroom Farce, Dennis in Just Between Ourselves and Algy in Better Off Dead.*

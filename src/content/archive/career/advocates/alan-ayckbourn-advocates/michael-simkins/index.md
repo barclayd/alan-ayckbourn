@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Michael Simkins"
 source: "http://advocates.alanayckbourn.net/page/page-25/"
-order: 2336
+order: 2334
 ---
 
 *Michael Simkins is a stage and screen actor and writer. He has worked with Alan Ayckbourn on both the World and London premieres of his work.*

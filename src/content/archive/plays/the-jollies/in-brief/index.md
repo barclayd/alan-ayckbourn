@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://thejollies.alanayckbourn.net/page-2/"
-order: 1824
+order: 1822
 play: "the-jollies"
 ---
 

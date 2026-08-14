@@ -1,7 +1,7 @@
 ---
 title: "Season's Greetings: Quotes by Other People"
 source: "http://seasonsgreetings.alanayckbourn.net/styled-5/styled-11/"
-order: 1320
+order: 1319
 play: "seasons-greetings"
 ---
 

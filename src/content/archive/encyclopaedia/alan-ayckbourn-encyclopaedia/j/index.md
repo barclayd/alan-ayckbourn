@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: J"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-10/J.html"
-order: 693
+order: 692
 ---
 
 **James, Mary:** The professional name of Alan's mother, Irene Maud Worley, during her writing career.

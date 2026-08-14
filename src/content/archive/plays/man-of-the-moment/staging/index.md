@@ -1,7 +1,7 @@
 ---
 title: "Staging"
 source: "http://manofthemoment.alanayckbourn.net/page18/"
-order: 1474
+order: 1473
 play: "man-of-the-moment"
 ---
 

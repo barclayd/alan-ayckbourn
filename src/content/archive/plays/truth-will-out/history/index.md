@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://truthwillout.alanayckbourn.net/styled-2/"
-order: 2291
+order: 2289
 play: "truth-will-out"
 ---
 

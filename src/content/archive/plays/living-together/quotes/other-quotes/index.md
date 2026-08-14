@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Quotes by Other People"
 source: "http://livingtogether.alanayckbourn.net/styled-5/styled-18/"
-order: 2496
+order: 2468
 play: "living-together"
 ---
 

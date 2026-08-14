@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://gameplan.alanayckbourn.net/styled-5/"
-order: 1759
+order: 1757
 play: "gameplan"
 ---
 

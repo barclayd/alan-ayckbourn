@@ -1,7 +1,7 @@
 ---
 title: "Staging Notes"
 source: "http://wayupstream.alanayckbourn.net/styled-12/"
-order: 1331
+order: 1330
 play: "way-upstream"
 ---
 

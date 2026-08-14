@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://howtheotherhalfloves.alanayckbourn.net/styled-5/styled-10/"
-order: 1025
+order: 1024
 play: "how-the-other-half-loves"
 ---
 

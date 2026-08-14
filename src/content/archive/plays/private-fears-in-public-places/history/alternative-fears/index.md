@@ -1,7 +1,7 @@
 ---
 title: "The Unseen Private Fears"
 source: "http://privatefears.alanayckbourn.net/styled/styled-3/"
-order: 1889
+order: 1887
 play: "private-fears-in-public-places"
 ---
 

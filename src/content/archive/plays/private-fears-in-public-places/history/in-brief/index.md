@@ -1,7 +1,7 @@
 ---
 title: "Absent Friends: In Brief"
 source: "http://privatefears.alanayckbourn.net/styled/page-9/"
-order: 1890
+order: 1888
 play: "private-fears-in-public-places"
 ---
 

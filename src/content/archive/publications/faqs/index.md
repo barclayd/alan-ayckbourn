@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Publications: Frequently Asked Questions"
 source: "http://publications.alanayckbourn.net/styled/"
-order: 849
+order: 848
 ---
 
 This page contains responses to frequently asked questions about Alan Ayckbourn's plays and publications. If you have a question not covered by this page, please contact the website administrator via the **[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)** page.

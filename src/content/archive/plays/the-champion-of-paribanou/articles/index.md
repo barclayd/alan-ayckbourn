@@ -1,7 +1,7 @@
 ---
 title: "Articles by Alan Ayckbourn"
 source: "http://thechampionofparibanou.alanayckbourn.net/styled-6/"
-order: 1665
+order: 1664
 play: "the-champion-of-paribanou"
 ---
 

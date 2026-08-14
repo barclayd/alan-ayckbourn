@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Tim Auld"
 source: "http://advocates.alanayckbourn.net/page/page-41/"
-order: 2345
+order: 2343
 ---
 
 *Tim Auld is a journalist and theatre critic whose work has been published in the Daily Telegraph, The Guardian, The Wall Street Journal and The Stage among may others. He taught English Literature at Oxford University and has a DPhil on the theatre of Alan Ayckbourn.*

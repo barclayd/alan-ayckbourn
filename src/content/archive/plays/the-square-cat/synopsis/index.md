@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://thesquarecat.alanayckbourn.net/styled-4/"
-order: 885
+order: 884
 play: "the-square-cat"
 ---
 

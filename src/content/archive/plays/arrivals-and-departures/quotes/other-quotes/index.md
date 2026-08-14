@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://arrivalsanddepartures.alanayckbourn.net/styled-4/styled-11/"
-order: 2023
+order: 2021
 play: "arrivals-and-departures"
 ---
 

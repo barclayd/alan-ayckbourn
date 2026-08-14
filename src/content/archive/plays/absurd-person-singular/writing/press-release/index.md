@@ -1,7 +1,7 @@
 ---
 title: "Press Release"
 source: "http://writingabsurdpersonsingular.alanayckbourn.net/page-7/page18.html"
-order: 2561
+order: 2528
 play: "absurd-person-singular"
 ---
 

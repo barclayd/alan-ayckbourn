@@ -1,7 +1,7 @@
 ---
 title: "Artistic Director"
 source: "http://careers.alanayckbourn.net/styled-6/page-112/"
-order: 516
+order: 515
 ---
 
 Alan Ayckbourn was the Artistic Director of the Stephen Joseph Theatre, Scarborough, between 1972 and 2009. In depth details about the Stephen Joseph Theatre and its history can also be found in the **[Ayckbourn & The Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt)** section of the website.

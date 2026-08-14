@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Charles Spencer"
 source: "http://advocates.alanayckbourn.net/page/page-45/"
-order: 2363
+order: 2361
 ---
 
 *Charles Spencer is a journalist, theatre critic and writer who was the chief critic for the Daily telegraph from 1991 to 2014.*

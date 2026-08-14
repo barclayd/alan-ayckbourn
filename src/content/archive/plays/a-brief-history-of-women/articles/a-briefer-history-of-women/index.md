@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://abriefhistoryofwomen.alanayckbourn.net/page-3/page-4/"
-order: 2072
+order: 2070
 play: "a-brief-history-of-women"
 ---
 

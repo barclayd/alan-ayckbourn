@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://lifeandbeth.alanayckbourn.net/styled/"
-order: 1926
+order: 1924
 play: "life-and-beth"
 ---
 

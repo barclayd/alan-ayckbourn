@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
-source: "http://sevendeadlyvirtues.alanayckbourn.net/page/"
-order: 2257
+source: "http://the7deadlyvirtues.alanayckbourn.net/page/"
+order: 2255
 play: "the-7-deadly-virtues"
 ---
 

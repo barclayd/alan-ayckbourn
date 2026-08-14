@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Kevin Spacey"
 source: "http://advocates.alanayckbourn.net/page/page-35/"
-order: 2339
+order: 2337
 ---
 
 *Kevin Spacey is an actor and director, who was the Artistic Director of the Old Vic; he was responsible for commissioning The Old Vic's 2008 award-winning revival of Alan Ayckbourn's The Norman Conquests.*

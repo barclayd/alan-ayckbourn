@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://betteroffdead.alanayckbourn.net/styled-3/"
-order: 2076
+order: 2074
 play: "better-off-dead"
 ---
 

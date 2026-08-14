@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://takingsteps.alanayckbourn.net/styled-4/"
-order: 1282
+order: 1281
 play: "taking-steps"
 ---
 

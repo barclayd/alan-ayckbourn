@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: F"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-6/F.html"
-order: 689
+order: 688
 ---
 
 **59E59 Theaters:** An Off-Broadway theatre venue in New York which has staged the New York premieres of a number of Alan Ayckbourn's plays during its annual Brits Off Broadway festival. This includes the critically acclaim and lauded North American premiere of *Private Fears In Public Places* during 2005.

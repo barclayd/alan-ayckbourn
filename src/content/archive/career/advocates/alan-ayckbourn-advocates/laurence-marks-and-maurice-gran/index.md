@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Laurence Marks and Maurice Gran"
 source: "http://advocates.alanayckbourn.net/page/page-80/"
-order: 2354
+order: 2352
 ---
 
 *Laurence Marks and Maurice Gran are a BAFTA award-winning writing duo whose work as screenwriters includes hits such as Birds of A Feather and Goodnight Sweetheart. The pair made their playwriting debut at the Stephen Jospeh Theatre, Scarborough, in 2005 with 'Playing God'.*

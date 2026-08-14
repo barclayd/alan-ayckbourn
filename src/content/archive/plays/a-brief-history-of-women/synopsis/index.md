@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://abriefhistoryofwomen.alanayckbourn.net/styled-3/"
-order: 2061
+order: 2059
 play: "a-brief-history-of-women"
 ---
 

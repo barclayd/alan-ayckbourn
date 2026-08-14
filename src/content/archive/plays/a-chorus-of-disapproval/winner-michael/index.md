@@ -1,7 +1,7 @@
 ---
 title: "From Page To Stage To Screen"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-10/"
-order: 769
+order: 768
 play: "a-chorus-of-disapproval"
 ---
 

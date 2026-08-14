@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Terry Teachout"
 source: "http://advocates.alanayckbourn.net/page/page-52/"
-order: 2366
+order: 2364
 ---
 
 *Terry Teachout is an American author, journalist, theatre critic, playwright and director. He is the drama critic of the Wall Street Journal.*

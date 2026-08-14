@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Nadim Naaman"
 source: "http://advocates.alanayckbourn.net/page/page-70/"
-order: 2332
+order: 2330
 ---
 
 *Nadim Naaman is an actor who worked with Alan Ayckbourn in his acclaimed 2017 revival of By Jeeves at the Old Laundry Theatre, Bowness-on-Windermere. He is well-known for his roles in the musical theatre including The Phantom of the Opera in the West End.*

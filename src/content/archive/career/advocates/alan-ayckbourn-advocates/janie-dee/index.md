@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Janie Dee"
 source: "http://advocates.alanayckbourn.net/page/page-34/"
-order: 2320
+order: 2318
 ---
 
 *Janie Dee is an Olivier Award winning actress who has worked extensively with Alan Ayckbourn in Scarborough and London. She has appeared in the world, West End and New York premieres of his work including Comic Potential, House & Garden and Woman In Mind. For her role of Jacie Triplethree in Comic Potential she notably won the Olivier, Evening Standard for Critics' Circle Awards for Best Actress.*

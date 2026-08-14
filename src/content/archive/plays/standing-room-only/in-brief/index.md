@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://standingroomonly.alanayckbourn.net/page-5/"
-order: 930
+order: 929
 play: "standing-room-only"
 ---
 

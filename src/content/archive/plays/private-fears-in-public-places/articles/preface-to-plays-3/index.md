@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://privatefears.alanayckbourn.net/page-6/page-7/"
-order: 1894
+order: 1892
 play: "private-fears-in-public-places"
 ---
 

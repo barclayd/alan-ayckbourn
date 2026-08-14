@@ -1,7 +1,7 @@
 ---
 title: "Celebrating 20 Years at Westwood"
 source: "http://publications.alanayckbourn.net/page-2/page-6/page22.html"
-order: 856
+order: 855
 ---
 
 An original A4 souvenir programme published to celebrate the final production of the Stephen Jospeh Theatre in the Round in January 1996 - the second home of theatre-in-the-round in Scarborough.

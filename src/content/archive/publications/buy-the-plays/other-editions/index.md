@@ -1,7 +1,7 @@
 ---
 title: "Other Editions"
 source: "http://publications.alanayckbourn.net/styled-11/page/page19.html"
-order: 850
+order: 849
 ---
 
 Whilst the vast majority of Alan Ayckbourn's plays are currently in print and published by Samuel French (click **[here](/publications/buy-the-plays)**), there have been other publishers and publications of Alan Ayckbourn's plays. This page lists other, generally out-of-print, editions of his plays and collections.**○ Absent Friends**  

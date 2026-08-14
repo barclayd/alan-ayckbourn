@@ -1,7 +1,7 @@
 ---
 title: "Henceforward…: In Brief"
 source: "http://henceforward.alanayckbourn.net/page-11/"
-order: 1450
+order: 1449
 play: "henceforward"
 ---
 

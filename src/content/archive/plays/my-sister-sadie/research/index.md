@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://mysistersadie.alanayckbourn.net/page-4/"
-order: 1862
+order: 1860
 play: "my-sister-sadie"
 ---
 

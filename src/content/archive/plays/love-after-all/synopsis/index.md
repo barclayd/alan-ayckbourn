@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://loveafterall.alanayckbourn.net/styled-4/"
-order: 905
+order: 904
 play: "love-after-all"
 ---
 

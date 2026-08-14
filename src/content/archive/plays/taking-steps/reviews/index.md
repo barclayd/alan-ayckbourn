@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://takingsteps.alanayckbourn.net/styled-8/"
-order: 1288
+order: 1287
 play: "taking-steps"
 ---
 

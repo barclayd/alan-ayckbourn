@@ -1,7 +1,7 @@
 ---
 title: "Actors Index: D - F"
 source: "http://encyclopedia.alanayckbourn.net/page-11/page-13/page50.html"
-order: 802
+order: 801
 ---
 
 This is a comprehensive list of the actors (surnames D - F) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Janet Dale:** The Norman Conquests (WP 1973); Absent Friends (WP 1974); Confusions (WP 1974); Bedroom Farce (WP 1975); Just Between Ourselves (WP 1976); Ten Times Table (WP 1977); Invisible Friends (NT 1991)  

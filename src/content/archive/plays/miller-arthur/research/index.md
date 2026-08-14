@@ -1,7 +1,7 @@
 ---
 title: "A View From The Bridge: Research Resources"
 source: "http://aviewfromthebridge.alanayckbourn.net/page/"
-order: 2389
+order: 2387
 play: "miller-arthur"
 ---
 

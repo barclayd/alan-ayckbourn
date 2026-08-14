@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Research Resources"
 source: "http://tablemanners.alanayckbourn.net/page/"
-order: 2464
+order: 2436
 play: "table-manners"
 ---
 

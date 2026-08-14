@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
-source: "http://sevendeadlyvirtues.alanayckbourn.net/styled-13/"
-order: 2256
+source: "http://the7deadlyvirtues.alanayckbourn.net/styled-13/"
+order: 2254
 play: "the-7-deadly-virtues"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Actors Index: M - O"
 source: "http://encyclopedia.alanayckbourn.net/page-11/page-16/page50.html"
-order: 805
+order: 804
 ---
 
 This is a comprehensive list of the actors (surnames M - O) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**David McAlister:** Dreams From A Summer House (WP 1992)  

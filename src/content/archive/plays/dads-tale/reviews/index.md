@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://dadstale.alanayckbourn.net/styled-8/"
-order: 925
+order: 924
 play: "dads-tale"
 ---
 

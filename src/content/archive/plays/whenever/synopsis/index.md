@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://whenever.alanayckbourn.net/styled-4/"
-order: 1736
+order: 1734
 play: "whenever"
 ---
 

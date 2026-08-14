@@ -1,7 +1,7 @@
 ---
 title: "Articles by Alan Ayckbourn"
 source: "http://myveryownstory.alanayckbourn.net/styled-6/"
-order: 1580
+order: 1579
 play: "my-very-own-story"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://thetrialofromeooscar.alanayckbourn.net/styled-3/"
-order: 2174
+order: 2172
 play: "the-trial-of-romeo-oscar"
 ---
 

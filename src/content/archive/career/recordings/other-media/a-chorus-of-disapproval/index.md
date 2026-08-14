@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page43/Media_Chorus_Of.html"
-order: 816
+order: 815
 ---
 
 ### A Chorus of Disapproval

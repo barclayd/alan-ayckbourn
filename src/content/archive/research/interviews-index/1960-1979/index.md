@@ -1,7 +1,7 @@
 ---
 title: "Interviews 1963 - 1979"
 source: "http://research.alanayckbourn.net/page/page-15/Interviews_60s.html"
-order: 871
+order: 870
 ---
 
 *This page provides an index to significant articles and interviews with Alan Ayckbourn prior to 1979.*

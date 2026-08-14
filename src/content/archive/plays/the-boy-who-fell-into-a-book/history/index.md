@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://theboywhofell.alanayckbourn.net/styled/"
-order: 1695
+order: 1693
 play: "the-boy-who-fell-into-a-book"
 ---
 

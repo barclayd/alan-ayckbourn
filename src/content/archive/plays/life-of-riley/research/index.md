@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://lifeofriley.alanayckbourn.net/page-4/"
-order: 1978
+order: 1976
 play: "life-of-riley"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Eric Thompson (1929 - 1982)"
 source: "http://advocates.alanayckbourn.net/page/page-8/"
-order: 2375
+order: 2373
 ---
 
 *Eric Thompson was a director and actor who worked extensively in theatre and television - he is well known for writing and narrating the English narration for The Magic Roundabout. He worked closely with Alan Ayckbourn in the West End and Broadway during the 1970s, directing hit productions such as Absurd Person Singular and The Norman Conquests.*

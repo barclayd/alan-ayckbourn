@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-9/page17.html"
-order: 712
+order: 711
 play: "absurd-person-singular"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Simon Murgatroyd: Alan Ayckbourn's Archivist"
 source: "http://writingabsurdpersonsingular.alanayckbourn.net/page-3/page18.html"
-order: 2557
+order: 2524
 play: "absurd-person-singular"
 ---
 

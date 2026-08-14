@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://intimateexchanges.alanayckbourn.net/styled-8/"
-order: 1366
+order: 1365
 play: "intimate-exchanges"
 ---
 

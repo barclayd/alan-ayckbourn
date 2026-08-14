@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page34/Media_Intimate_Exchanges.html"
-order: 826
+order: 825
 ---
 
 ### Intimate Exchanges

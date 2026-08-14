@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://drowningondryland.alanayckbourn.net/page-6/"
-order: 1865
+order: 1863
 play: "drowning-on-dry-land"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Stephen Joseph Papers at The John Rylands Library"
 source: "http://research.alanayckbourn.net/page-12/"
-order: 862
+order: 861
 ---
 
 *These pages relate to tThe Stephen Joseph Papers at The John Rylands Library at the University of Manchester. This is the largest single collection of material relating to there British theatre pioneer who was also the single most influential figure in Alan Ayckbourn's life.*

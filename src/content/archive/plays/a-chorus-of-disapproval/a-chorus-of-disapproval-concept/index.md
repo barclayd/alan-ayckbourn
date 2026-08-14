@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled/"
-order: 723
+order: 722
 play: "a-chorus-of-disapproval"
 ---
 

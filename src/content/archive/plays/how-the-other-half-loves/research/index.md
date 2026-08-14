@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://howtheotherhalfloves.alanayckbourn.net/page-4/"
-order: 1023
+order: 1022
 play: "how-the-other-half-loves"
 ---
 

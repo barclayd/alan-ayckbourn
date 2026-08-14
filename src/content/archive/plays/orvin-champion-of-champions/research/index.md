@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://orvin.alanayckbourn.net/page-6/"
-order: 1852
+order: 1850
 play: "orvin-champion-of-champions"
 ---
 

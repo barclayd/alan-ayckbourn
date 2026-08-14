@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://flatspin.alanayckbourn.net/styled-5/"
-order: 1776
+order: 1774
 play: "flatspin"
 ---
 

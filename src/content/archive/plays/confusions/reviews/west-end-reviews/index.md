@@ -1,7 +1,7 @@
 ---
 title: "West End Reviews"
 source: "http://confusions.alanayckbourn.net/styled-8/styled-11/"
-order: 1146
+order: 1145
 play: "confusions"
 ---
 

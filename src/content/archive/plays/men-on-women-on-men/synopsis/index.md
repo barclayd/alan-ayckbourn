@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://menonwomen.alanayckbourn.net/styled-4/page11.html"
-order: 2244
+order: 2242
 play: "men-on-women-on-men"
 ---
 

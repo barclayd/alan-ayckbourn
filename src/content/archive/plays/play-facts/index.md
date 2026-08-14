@@ -1,7 +1,7 @@
 ---
 title: "Play Facts"
 source: "http://plays.alanayckbourn.net/styled-12/"
-order: 2300
+order: 2298
 play: "play-facts"
 ---
 

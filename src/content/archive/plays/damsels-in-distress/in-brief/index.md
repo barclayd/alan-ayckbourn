@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://damselstrilogy.alanayckbourn.net/styled-3/"
-order: 1746
+order: 1744
 play: "damsels-in-distress"
 ---
 

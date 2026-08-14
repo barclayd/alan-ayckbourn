@@ -1,7 +1,7 @@
 ---
 title: "Advocates: J W Lambert"
 source: "http://advocates.alanayckbourn.net/page/page-81/"
-order: 2351
+order: 2349
 ---
 
 *J.W. Lambert was a former literary editor of the Sunday Times, a broadcaster and editor of books with a particular interest in contemporary drama. As well as editing several volumes of Penguin’s New English Dramatists, Lambert was also a Saki aficionado and edited selections of his short stories.*

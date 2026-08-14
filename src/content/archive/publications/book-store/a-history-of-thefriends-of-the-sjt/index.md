@@ -1,7 +1,7 @@
 ---
 title: "A History of the Friends of the SJT"
 source: "http://publications.alanayckbourn.net/page-2/page-8/page22.html"
-order: 857
+order: 856
 ---
 
 A 24 page booklet published by the Stephen Joseph Theatre to celebrate the history of the Friends of the Stephen Joseph Theatre - ironically just before the organisation was disbanded by the theatre, rebranded and relaunched.

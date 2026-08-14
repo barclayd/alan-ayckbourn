@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://thesquarecat.alanayckbourn.net/styled-8/"
-order: 891
+order: 890
 play: "the-square-cat"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://thingswedoforlove.alanayckbourn.net/styled-4/"
-order: 1673
+order: 1672
 play: "things-we-do-for-love"
 ---
 

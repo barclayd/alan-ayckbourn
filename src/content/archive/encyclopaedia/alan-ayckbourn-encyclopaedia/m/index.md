@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: M"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-13/M.html"
-order: 696
+order: 695
 ---
 
 **Mahatma Ghandi Hall:** The London venue on Fitzroy Street where Alan Ayckbourn first saw Stephen Joseph's Studio Theatre Company and a live performance in-the-round. The performance was the first British production of Sartre's *Huis Clos*.

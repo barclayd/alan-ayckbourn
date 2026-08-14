@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Robert Shearman"
 source: "http://advocates.alanayckbourn.net/page/page-33/"
-order: 2362
+order: 2360
 ---
 
 *Robert Shearman is a playwright and writer who came to Alan Ayckbourn's attention after receiving an award at the National Student Drama Festival. he would go on to write a number of plays which were produced at the Stephen Joseph Theatre, several of which were directed by Alan, whom he credits as a great influence. Robert is also a multi-award winning prose writer and most known for writing the Doctor Who episode 'Dalek' in 2005, which reintroduced the iconic villains to the small screen after an absence of 17 years.*

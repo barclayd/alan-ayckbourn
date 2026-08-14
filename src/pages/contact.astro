@@ -1,0 +1,93 @@
+---
+import Base from '@/layouts/Base.astro';
+
+/**
+ * The footer links "Contact" from all 2,458 pages, so the route has to exist.
+ *
+ * ponytail: no form. This is an unofficial design concept, and a form here would
+ * post to an inbox that is not the archive's — while the archive's own enquiries
+ * form still works and is where every "contact us" link in the content already
+ * points. Signposting the real address is both less code and the honest answer.
+ * The Worker-backed form the plan describes goes in the day there is somewhere
+ * for it to send: a recipient address, a mail provider key, Turnstile keys.
+ */
+const routes = [
+  {
+    href: 'http://www.alanayckbourn.net/contact-form/Contacts.php',
+    label: 'The official enquiries form',
+    blurb:
+      'Questions about the plays, the research, performing rights, images and permissions. Answered by Alan Ayckbourn’s archivist.',
+  },
+  {
+    href: 'https://www.sjt.uk.com',
+    label: 'Stephen Joseph Theatre',
+    blurb:
+      'Tickets, current productions and the theatre in Scarborough where most of these plays opened.',
+  },
+  {
+    href: 'https://www.alanayckbourn.net',
+    label: 'The official website',
+    blurb:
+      'Two decades of scholarship by Simon Murgatroyd, and the source of every word in this archive.',
+  },
+];
+---
+
+<Base
+  title="Contact"
+  description="Where to send an enquiry about the work of Sir Alan Ayckbourn."
+  indexed={false}
+>
+  <div class="mx-auto max-w-3xl px-4 pt-16 pb-24 sm:px-6">
+    <p
+      class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+      data-reveal
+    >
+      Enquiries
+    </p>
+    <h1
+      class="mt-4 font-display text-[clamp(2.5rem,7vw,4.5rem)] uppercase leading-[0.9]"
+      data-reveal
+    >
+      Contact
+    </h1>
+    <p class="mt-5 max-w-[54ch] text-muted" data-reveal>
+      This site is an unofficial design concept, not the archive itself &mdash; so
+      enquiries are best sent to the people who wrote it.
+    </p>
+
+    <ul class="mt-12 space-y-px overflow-hidden rounded-sm bg-rule">
+      {
+        routes.map((route, i) => (
+          <li data-reveal style={`--reveal-delay: ${i * 0.06}s`}>
+            <a
+              href={route.href}
+              rel="external"
+              class="group flex flex-col gap-2 bg-surface p-6 transition-colors hover:bg-surface-raised"
+            >
+              <span class="flex items-baseline gap-3">
+                <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">
+                  {route.label}
+                </span>
+                <span
+                  aria-hidden="true"
+                  class="ml-auto font-ui text-muted transition-transform group-hover:translate-x-1"
+                >
+                  &rarr;
+                </span>
+              </span>
+              <span class="max-w-[52ch] text-sm text-muted">{route.blurb}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    {/* The archive's own privacy page promises to collect nothing. Worth saying
+        on the one page a visitor might expect to be asked for something. */}
+    <p class="mt-10 max-w-[54ch] text-sm text-muted" data-reveal>
+      This concept asks nothing of you and stores nothing: no accounts, no
+      analytics, no cookies.
+    </p>
+  </div>
+</Base>

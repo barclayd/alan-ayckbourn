@@ -1,7 +1,7 @@
 ---
 title: "Actors Index: S - U"
 source: "http://encyclopedia.alanayckbourn.net/page-11/page-18/page50.html"
-order: 807
+order: 806
 ---
 
 This is a comprehensive list of the actors (surnames S - U) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Martin Sadler:** The Revengers' Comedies (WP 1989); The Inside Outside Slide Show (WP 1989)  

@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://theboywhofell.alanayckbourn.net/styled-3/"
-order: 1697
+order: 1695
 play: "the-boy-who-fell-into-a-book"
 ---
 

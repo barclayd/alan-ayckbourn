@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Richard Briers (1934 - 2013)"
 source: "http://advocates.alanayckbourn.net/page/page-6/"
-order: 2314
+order: 2312
 ---
 
 *Richard Briers CBE was one of the actors most associated with Alan Ayckbourn during his early West End successes, playing Greg in Relatively Speaking and Colin in Absent Friends as well as appearing as Reg in the television adaptation of The Norman Conquests. His career spanned stage and screen and he was well-known for his role In The Good Life and Ever Decreasing Circles. He would later work extensively with Kenneth Branagh and appear in several of his Shakespeare film adaptations as well as his stage productions.*

@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-13/"
-order: 1401
+order: 1400
 play: "a-chorus-of-disapproval"
 ---
 

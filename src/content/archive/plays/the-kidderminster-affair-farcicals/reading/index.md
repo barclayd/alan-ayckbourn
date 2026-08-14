@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Further Reading"
 source: "http://thekidderminsteraffair.alanayckbourn.net/styled-4/"
-order: 2550
+order: 2517
 play: "the-kidderminster-affair-farcicals"
 ---
 

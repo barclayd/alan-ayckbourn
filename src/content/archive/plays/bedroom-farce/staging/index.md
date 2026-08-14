@@ -1,7 +1,7 @@
 ---
 title: "Staging The Play"
 source: "http://bedroomfarce.alanayckbourn.net/page18/"
-order: 1190
+order: 1189
 play: "bedroom-farce"
 ---
 

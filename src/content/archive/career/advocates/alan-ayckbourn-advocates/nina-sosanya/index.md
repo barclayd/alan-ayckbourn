@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Nina Sosanya"
 source: "http://advocates.alanayckbourn.net/page/page-68/"
-order: 2338
+order: 2336
 ---
 
 *Nina Sosanya is an English actress who has found acclaim on both stage and screen. She has performed with both the Royal Shakespeare Company and the National Theatre - for the latter she played Pearl in Alan Ayckbourn's 2000 production of House & Garden.*

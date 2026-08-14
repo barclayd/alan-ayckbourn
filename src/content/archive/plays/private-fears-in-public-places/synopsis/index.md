@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://privatefears.alanayckbourn.net/styled-4/"
-order: 1879
+order: 1877
 play: "private-fears-in-public-places"
 ---
 

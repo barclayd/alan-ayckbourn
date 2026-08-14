@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Synopsis"
 source: "http://farcicals.alanayckbourn.net/styled-2/"
-order: 2194
+order: 2192
 play: "chloe-with-love-farcicals"
 ---
 

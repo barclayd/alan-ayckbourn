@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://awakingbeauty.alanayckbourn.net/page18/"
-order: 1950
+order: 1948
 play: "awaking-beauty"
 ---
 

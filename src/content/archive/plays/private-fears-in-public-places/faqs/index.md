@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 source: "http://privatefears.alanayckbourn.net/styled-16/"
-order: 1888
+order: 1886
 play: "private-fears-in-public-places"
 ---
 

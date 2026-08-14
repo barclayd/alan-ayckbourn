@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Peggy Ramsay (1908 - 1991)"
 source: "http://advocates.alanayckbourn.net/page/page-44/"
-order: 2378
+order: 2376
 ---
 
 *Margaret 'Peggy' Ramsay was a renowned literary agent. She represented many of the most influential and notable playwrights of the second half of the 20th century including J.B. Priestley and David Hare. She became Alan's agent in 1962 and was a great supporter of his work and writing.*

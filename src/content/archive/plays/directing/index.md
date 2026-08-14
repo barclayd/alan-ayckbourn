@@ -1,7 +1,7 @@
 ---
 title: "Director"
 source: "http://directing.alanayckbourn.net/"
-order: 2306
+order: 2304
 play: "directing"
 ---
 

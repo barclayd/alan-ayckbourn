@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn  & the Stephen Joseph Theatre: The Venues"
 source: "http://careers.alanayckbourn.net/page-80/page-83/"
-order: 609
+order: 608
 ---
 
 Alan Ayckbourn has been an intrinsic part of all three homes of the Stephen Joseph Theatre in Scarborough. From this page, you can click on a venue to find out details about Alan's history with each venue and well as a general history of each venue from the company's creation in 1955 to Alan Ayckbourn retiring as Artistic Director in 2009.

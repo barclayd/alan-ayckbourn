@@ -1,7 +1,7 @@
 ---
 title: "Early Concepts / Correspondence"
 source: "http://intimateexchanges.alanayckbourn.net/styled-10/styled-14/"
-order: 1372
+order: 1371
 play: "intimate-exchanges"
 ---
 

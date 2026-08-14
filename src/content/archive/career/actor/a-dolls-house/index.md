@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page163/"
-order: 569
+order: 568
 ---
 
 ## A Doll's House (1962)

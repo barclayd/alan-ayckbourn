@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://womaninmind.alanayckbourn.net/styled-5/styled-12/"
-order: 1423
+order: 1422
 play: "woman-in-mind"
 ---
 

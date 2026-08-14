@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://lifeofriley.alanayckbourn.net/styled/"
-order: 1968
+order: 1966
 play: "life-of-riley"
 ---
 

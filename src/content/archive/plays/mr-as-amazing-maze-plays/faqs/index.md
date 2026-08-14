@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: Frequently Asked Questions"
 source: "http://mrasamazing.alanayckbourn.net/styled-9/"
-order: 1502
+order: 1501
 play: "mr-as-amazing-maze-plays"
 ---
 

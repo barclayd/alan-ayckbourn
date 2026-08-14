@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - June"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-34/Z.html"
-order: 778
+order: 777
 ---
 
 **1 June:** Officially announces in 2007, his retirement as Artistic Director of the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**in 2009; radio premiere of the BBC's adaptation of ***[The Revengers' Comedies](/plays/the-revengers-comedies/the-revengers-comedies-radio)*** part 1 in 1996.

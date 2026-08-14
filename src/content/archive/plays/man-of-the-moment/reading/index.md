@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://manofthemoment.alanayckbourn.net/styled-13/"
-order: 1478
+order: 1477
 play: "man-of-the-moment"
 ---
 

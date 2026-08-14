@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://abriefhistoryofwomen.alanayckbourn.net/page-6/"
-order: 2069
+order: 2067
 play: "a-brief-history-of-women"
 ---
 

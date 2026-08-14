@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://manofthemoment.alanayckbourn.net/page-2/"
-order: 1471
+order: 1470
 play: "man-of-the-moment"
 ---
 

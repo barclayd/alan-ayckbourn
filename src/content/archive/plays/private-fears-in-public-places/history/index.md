@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://privatefears.alanayckbourn.net/styled/"
-order: 1877
+order: 1875
 play: "private-fears-in-public-places"
 ---
 

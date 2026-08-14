@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: D"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-4/D.html"
-order: 687
+order: 686
 ---
 
 **[Dad's Tale:](/plays/dads-tale)** Alan Ayckbourn's 3rd play premiered at the Library Theatre, Scarborough, on 19 December 1960. It was a co-production with the British Dance Drama Theatre. The plot involves several scenes revolving around a poor family's dreams for happier times. Alan wrote the play under the pseudonym Roland Allen which has been withdrawn from production by the playwright and has never been published.

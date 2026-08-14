@@ -1,7 +1,7 @@
 ---
 title: "The Revengers' Comedies: In Brief"
 source: "http://therevengerscomedies.alanayckbourn.net/page-4/"
-order: 1505
+order: 1504
 play: "the-revengers-comedies"
 ---
 

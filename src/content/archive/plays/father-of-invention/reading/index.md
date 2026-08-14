@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://fatherofinvention.alanayckbourn.net/styled-5/"
-order: 2289
+order: 2287
 play: "father-of-invention"
 ---
 

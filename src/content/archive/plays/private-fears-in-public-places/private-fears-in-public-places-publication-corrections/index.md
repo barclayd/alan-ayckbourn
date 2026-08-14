@@ -1,7 +1,7 @@
 ---
 title: "Publication Corrections"
 source: "http://privatefears.alanayckbourn.net/styled-15/"
-order: 859
+order: 858
 play: "private-fears-in-public-places"
 ---
 

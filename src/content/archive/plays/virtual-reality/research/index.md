@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://virtualreality.alanayckbourn.net/page-4/"
-order: 1732
+order: 1730
 play: "virtual-reality"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://thechampionofparibanou.alanayckbourn.net/page-4/"
-order: 1662
+order: 1661
 play: "the-champion-of-paribanou"
 ---
 

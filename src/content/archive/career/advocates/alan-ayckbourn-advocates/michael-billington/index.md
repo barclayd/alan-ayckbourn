@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Michael Billington"
 source: "http://advocates.alanayckbourn.net/page/page-73/"
-order: 2346
+order: 2344
 ---
 
 *Michael Billington OBE is an author, broadcaster and one of the UK's leading theatre critics; he is considered the UK's longest serving theatre critic having been a drama critic in The Guardian since 1971. He has written extensively on theatre and his published work includes books on the National Theatre, Harold Pinter and Alan Ayckbourn.*

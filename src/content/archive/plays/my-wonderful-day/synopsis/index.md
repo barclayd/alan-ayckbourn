@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://mywonderfulday.alanayckbourn.net/styled-4/"
-order: 1957
+order: 1955
 play: "my-wonderful-day"
 ---
 

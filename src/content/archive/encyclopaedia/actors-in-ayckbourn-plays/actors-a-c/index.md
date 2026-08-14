@@ -1,7 +1,7 @@
 ---
 title: "Actors Index: A - C"
 source: "http://encyclopedia.alanayckbourn.net/page-11/page-12/page49.html"
-order: 801
+order: 800
 ---
 
 This is a comprehensive list of the actors (surnames A - C) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Peter Ackerman:** Making Tracks (WP 1981)  

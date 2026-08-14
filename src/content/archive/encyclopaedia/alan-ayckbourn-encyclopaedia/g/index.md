@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: G"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-7/G.html"
-order: 690
+order: 689
 ---
 
 **[Gambon, Michael:](/career/advocates/alan-ayckbourn-advocates/michael-gambon)** Award-winning actor who appeared in more West End productions of Alan Ayckbourn's plays than any other actor. Gambon frequently stated Alan Ayckbourn was one of the best directors he has worked with and the actor won three Olivier Awards for his performances in plays directed by Alan Ayckbourn.

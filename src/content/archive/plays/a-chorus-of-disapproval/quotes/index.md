@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-5/"
-order: 1394
+order: 1393
 play: "a-chorus-of-disapproval"
 ---
 

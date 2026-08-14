@@ -1,7 +1,7 @@
 ---
 title: "Advocates: J. Michael Straczynski"
 source: "http://advocates.alanayckbourn.net/page/page-74/"
-order: 2365
+order: 2363
 ---
 
 *Joseph Michael Straczynski is an American screenwriter, producer, director and writer. He is most famous for creating the television series Babylon 5 as well as his writing or Marvel and DC comics.*

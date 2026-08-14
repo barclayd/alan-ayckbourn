@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://virtualreality.alanayckbourn.net/styled-6/"
-order: 1731
+order: 1729
 play: "virtual-reality"
 ---
 

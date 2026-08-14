@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 source: "http://roleplay.alanayckbourn.net/styled-9/index.html"
-order: 1800
+order: 1798
 play: "roleplay"
 ---
 

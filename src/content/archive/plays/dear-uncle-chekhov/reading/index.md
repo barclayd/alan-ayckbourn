@@ -1,7 +1,7 @@
 ---
 title: "Dear Uncle: Further Reading"
 source: "http://dearuncle.alanayckbourn.net/styled-13/"
-order: 2241
+order: 2239
 play: "dear-uncle-chekhov"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: Archive Images"
 source: "http://mrasamazing.alanayckbourn.net/page/"
-order: 1497
+order: 1496
 play: "mr-as-amazing-maze-plays"
 ---
 

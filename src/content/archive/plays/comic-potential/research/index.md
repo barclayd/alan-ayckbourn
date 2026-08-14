@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://comicpotential.alanayckbourn.net/page-2/"
-order: 1692
+order: 1690
 play: "comic-potential"
 ---
 

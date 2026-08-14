@@ -1,7 +1,7 @@
 ---
 title: "Publication Corrections"
 source: "http://improbablefiction.alanayckbourn.net/styled-6/"
-order: 1914
+order: 1912
 play: "improbable-fiction"
 ---
 

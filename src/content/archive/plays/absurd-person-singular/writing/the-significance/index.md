@@ -1,7 +1,7 @@
 ---
 title: "The Significance of the Absurd Person Singular Manuscripts"
 source: "http://writingabsurdpersonsingular.alanayckbourn.net/page-5/NewsInDepth.html"
-order: 2555
+order: 2522
 play: "absurd-person-singular"
 ---
 

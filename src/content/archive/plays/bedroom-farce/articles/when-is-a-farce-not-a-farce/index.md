@@ -1,7 +1,7 @@
 ---
 title: "Articles by Other Authors"
 source: "http://bedroomfarce.alanayckbourn.net/page-2/page-7/"
-order: 1203
+order: 1202
 play: "bedroom-farce"
 ---
 

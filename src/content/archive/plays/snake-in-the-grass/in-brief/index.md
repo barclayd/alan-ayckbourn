@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://snakeinthegrass.alanayckbourn.net/page-10/"
-order: 1809
+order: 1807
 play: "snake-in-the-grass"
 ---
 

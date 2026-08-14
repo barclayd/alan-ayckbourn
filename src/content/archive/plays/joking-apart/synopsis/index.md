@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://jokingapart.alanayckbourn.net/styled-4/"
-order: 1245
+order: 1244
 play: "joking-apart"
 ---
 

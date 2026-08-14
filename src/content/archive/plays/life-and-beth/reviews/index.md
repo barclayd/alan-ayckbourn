@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://lifeandbeth.alanayckbourn.net/styled-9/"
-order: 1934
+order: 1932
 play: "life-and-beth"
 ---
 

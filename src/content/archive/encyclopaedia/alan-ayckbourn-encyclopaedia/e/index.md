@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: E"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-5/E.html"
-order: 688
+order: 687
 ---
 
 **[Early Writing:](/plays/childrens-plays-index/early-writing-plays)** Alan began writing as a child. His notable work during his youth includes a performed school play based on the *Jennings* novels, a published poem *Dawn* and contributions to his school magazine which he also edited.

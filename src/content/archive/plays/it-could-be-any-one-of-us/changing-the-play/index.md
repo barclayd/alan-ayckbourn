@@ -1,7 +1,7 @@
 ---
 title: "Changing The Play"
 source: "http://itcouldbe.alanayckbourn.net/styled-3/"
-order: 1385
+order: 1384
 play: "it-could-be-any-one-of-us"
 ---
 

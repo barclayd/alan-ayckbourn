@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://drowningondryland.alanayckbourn.net/styled-8/"
-order: 1872
+order: 1870
 play: "drowning-on-dry-land"
 ---
 

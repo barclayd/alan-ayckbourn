@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://thenormanconquests.alanayckbourn.net/page/"
-order: 1099
+order: 1098
 play: "the-norman-conquests"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 source: "http://flatspin.alanayckbourn.net/styled-9/"
-order: 1782
+order: 1780
 play: "flatspin"
 ---
 

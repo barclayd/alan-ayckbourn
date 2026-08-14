@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page17/Media_Absurd_Person.html"
-order: 811
+order: 810
 ---
 
 ### Absurd Person Singular

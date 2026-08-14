@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://roleplay.alanayckbourn.net/styled-7/index.html"
-order: 1796
+order: 1794
 play: "roleplay"
 ---
 

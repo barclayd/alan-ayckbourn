@@ -1,7 +1,7 @@
 ---
 title: "Timeline"
 source: "http://lifeandbeth.alanayckbourn.net/styled-2/"
-order: 1927
+order: 1925
 play: "life-and-beth"
 ---
 

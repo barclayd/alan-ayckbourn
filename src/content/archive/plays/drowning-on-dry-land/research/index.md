@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://drowningondryland.alanayckbourn.net/page-4/"
-order: 1873
+order: 1871
 play: "drowning-on-dry-land"
 ---
 

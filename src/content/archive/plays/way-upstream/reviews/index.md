@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://wayupstream.alanayckbourn.net/styled-8/"
-order: 1333
+order: 1332
 play: "way-upstream"
 ---
 

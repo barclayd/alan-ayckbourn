@@ -1,7 +1,7 @@
 ---
 title: "Articles By Other Authors"
 source: "http://awakingbeauty.alanayckbourn.net/styled-5/"
-order: 1946
+order: 1944
 play: "awaking-beauty"
 ---
 

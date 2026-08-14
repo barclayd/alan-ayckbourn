@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://thekaraoketheatrecompany.alanayckbourn.net/styled-3/"
-order: 2276
+order: 2274
 play: "the-karaoke-theatre-company"
 ---
 

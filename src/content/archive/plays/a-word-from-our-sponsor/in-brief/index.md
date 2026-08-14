@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://awordfromoursponsor.alanayckbourn.net/page/"
-order: 1652
+order: 1651
 play: "a-word-from-our-sponsor"
 ---
 

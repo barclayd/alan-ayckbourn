@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://absentfriends.alanayckbourn.net/styled-16/"
-order: 1122
+order: 1121
 play: "absent-friends"
 ---
 

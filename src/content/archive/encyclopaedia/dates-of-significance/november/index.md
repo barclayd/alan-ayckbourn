@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - November"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-39/Z.html"
-order: 783
+order: 782
 ---
 
 **2 November:** Alan Ayckbourn is reported in 1983 - for the first time - in the media to be more **[popular than Shakespeare](/life/ayckbourn-faqs/popularity)**, leading to many inaccurate statements over the subsequent years; broadcast premiere of *Desert Island Discs* featuring Alan Ayckbourn on BBC Radio 4 in 1974.

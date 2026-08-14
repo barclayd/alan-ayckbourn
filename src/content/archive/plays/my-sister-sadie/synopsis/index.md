@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://mysistersadie.alanayckbourn.net/styled-4/"
-order: 1857
+order: 1855
 play: "my-sister-sadie"
 ---
 

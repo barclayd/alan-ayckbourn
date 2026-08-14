@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://damselstrilogy.alanayckbourn.net/page/page-2/"
-order: 1749
+order: 1747
 play: "damsels-in-distress"
 ---
 

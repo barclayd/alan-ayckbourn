@@ -1,7 +1,7 @@
 ---
 title: "INTERVIEW: RESNAIS"
 source: "http://lifeofriley.alanayckbourn.net/page18/styled-9/"
-order: 1980
+order: 1978
 play: "life-of-riley"
 ---
 

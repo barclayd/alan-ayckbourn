@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Research Resources"
 source: "http://thekidderminsteraffair.alanayckbourn.net/page/"
-order: 2551
+order: 2518
 play: "the-kidderminster-affair-farcicals"
 ---
 

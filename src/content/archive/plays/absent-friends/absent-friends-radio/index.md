@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://absentfriends.alanayckbourn.net/styled-9/page17.html"
-order: 710
+order: 709
 play: "absent-friends"
 ---
 

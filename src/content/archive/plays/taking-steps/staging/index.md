@@ -1,7 +1,7 @@
 ---
 title: "Staging The Play"
 source: "http://takingsteps.alanayckbourn.net/styled-9/page17.html"
-order: 1286
+order: 1285
 play: "taking-steps"
 ---
 

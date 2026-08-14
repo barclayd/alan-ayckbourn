@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 source: "http://comicpotential.alanayckbourn.net/styled-11/"
-order: 1693
+order: 1691
 play: "comic-potential"
 ---
 

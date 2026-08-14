@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://manofthemoment.alanayckbourn.net/styled-9/page17.html"
-order: 746
+order: 745
 play: "man-of-the-moment"
 ---
 

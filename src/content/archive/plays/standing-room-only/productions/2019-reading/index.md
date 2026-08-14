@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Rehearsed Reading - July 4 2019"
 source: "http://standingroomonly.alanayckbourn.net/page16/page-2/"
-order: 944
+order: 943
 play: "standing-room-only"
 ---
 

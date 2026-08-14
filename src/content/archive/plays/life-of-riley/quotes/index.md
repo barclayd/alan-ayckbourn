@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://lifeofriley.alanayckbourn.net/styled-4/"
-order: 1972
+order: 1970
 play: "life-of-riley"
 ---
 

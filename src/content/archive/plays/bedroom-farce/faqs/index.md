@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 source: "http://bedroomfarce.alanayckbourn.net/styled-12/"
-order: 1196
+order: 1195
 play: "bedroom-farce"
 ---
 

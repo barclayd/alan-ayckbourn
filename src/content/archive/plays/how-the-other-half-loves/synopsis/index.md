@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://howtheotherhalfloves.alanayckbourn.net/styled-4/"
-order: 1014
+order: 1013
 play: "how-the-other-half-loves"
 ---
 

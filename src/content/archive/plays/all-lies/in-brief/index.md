@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://alllies.alanayckbourn.net/page-9/"
-order: 2117
+order: 2115
 play: "all-lies"
 ---
 

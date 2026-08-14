@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://bedroomfarce.alanayckbourn.net/styled-4/"
-order: 1187
+order: 1186
 play: "bedroom-farce"
 ---
 

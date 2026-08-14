@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://wildestdreams.alanayckbourn.net/page/"
-order: 1563
+order: 1562
 play: "wildest-dreams"
 ---
 

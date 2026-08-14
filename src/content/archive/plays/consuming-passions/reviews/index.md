@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://consumingpassions.alanayckbourn.net/styled-7/"
-order: 2054
+order: 2052
 play: "consuming-passions"
 ---
 

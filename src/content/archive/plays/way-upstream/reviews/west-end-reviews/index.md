@@ -1,7 +1,7 @@
 ---
 title: "London Premiere Reviews"
 source: "http://wayupstream.alanayckbourn.net/styled-8/styled-10/"
-order: 1340
+order: 1339
 play: "way-upstream"
 ---
 

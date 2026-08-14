@@ -1,7 +1,7 @@
 ---
 title: "Interviews 1980 - 1989"
 source: "http://research.alanayckbourn.net/page/page-16/Interviews_80s.html"
-order: 872
+order: 871
 ---
 
 *This page provides an index to significant articles and interviews with Alan Ayckbourn between 1980 and 1989.*

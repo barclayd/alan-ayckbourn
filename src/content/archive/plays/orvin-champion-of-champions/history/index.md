@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://orvin.alanayckbourn.net/page-2/"
-order: 1844
+order: 1842
 play: "orvin-champion-of-champions"
 ---
 

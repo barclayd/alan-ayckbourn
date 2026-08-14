@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://improbablefiction.alanayckbourn.net/page-3/"
-order: 1907
+order: 1905
 play: "improbable-fiction"
 ---
 

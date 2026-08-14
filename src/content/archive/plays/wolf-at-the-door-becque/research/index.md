@@ -1,7 +1,7 @@
 ---
 title: "Wolf at the Door: Research Resources"
 source: "http://wolfatthedoor.alanayckbourn.net/page/"
-order: 2231
+order: 2229
 play: "wolf-at-the-door-becque"
 ---
 

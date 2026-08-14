@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - October"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-38/Z.html"
-order: 782
+order: 781
 ---
 
 **1 October:** London revival of ***[Bedroom Farce](/plays/bedroom-farce)*** at the Rose Theatre in 2009.

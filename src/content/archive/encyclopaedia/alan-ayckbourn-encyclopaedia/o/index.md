@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: O"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-15/O.html"
-order: 698
+order: 697
 ---
 
 **[The Old House:](/plays/childrens-plays-index/miscellaneous-writing)** The earliest known published work by Alan Ayckbourn is his poem, *The Old House*. Written at the age of nine, it was published in the first edition of *The Lodgean*, the magazine for Wisborough Lodge Scholastic's which he attended from 1946 until 1951.

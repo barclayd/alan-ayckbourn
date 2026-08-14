@@ -1,7 +1,7 @@
 ---
 title: "A View From The Bridge: Production Details"
 source: "http://aviewfromthebridge.alanayckbourn.net/page16/"
-order: 2388
+order: 2386
 play: "miller-arthur"
 ---
 

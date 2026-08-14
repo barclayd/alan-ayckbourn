@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://wayupstream.alanayckbourn.net/styled-9/page17.html"
-order: 766
+order: 765
 play: "way-upstream"
 ---
 

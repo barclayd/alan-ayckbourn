@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://thisiswherewecamein.alanayckbourn.net/styled-16/"
-order: 1543
+order: 1542
 play: "this-is-where-we-came-in"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://mywonderfulday.alanayckbourn.net/page-2/page-4/"
-order: 1967
+order: 1965
 play: "my-wonderful-day"
 ---
 

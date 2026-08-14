@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://lifeandbeth.alanayckbourn.net/styled-10/"
-order: 1936
+order: 1934
 play: "life-and-beth"
 ---
 

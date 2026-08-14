@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://mysistersadie.alanayckbourn.net/styled-7/"
-order: 1861
+order: 1859
 play: "my-sister-sadie"
 ---
 

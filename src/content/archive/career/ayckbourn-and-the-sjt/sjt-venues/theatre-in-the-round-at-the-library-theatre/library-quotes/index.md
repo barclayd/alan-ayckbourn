@@ -1,7 +1,7 @@
 ---
 title: "Theatre in the Round at the Library Theatre: Alan Ayckbourn's Thoughts"
 source: "http://careers.alanayckbourn.net/page-80/page-83/styled-7/styled-8/"
-order: 610
+order: 609
 ---
 
 *This page contains quotes about Theatre in the Round at the Library Theatre, Scarborough, by Alan Ayckbourn.*

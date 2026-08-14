@@ -1,8 +1,10 @@
 ---
-title: "Careers & Timeline"
+title: "Careers at a Glance"
 source: "http://careers.alanayckbourn.net/styled-16/"
 order: 9999
 ---
+
+## Alan Ayckbourn: Careers & Timeline
 
 Although primarily known as a playwright & director, Alan Ayckbourn's career in theatre is wide-ranging and his position as Artistic Director of the Stephen Joseph Theatre is as crucial to understanding Ayckbourn as his playwriting & directing careers.
 

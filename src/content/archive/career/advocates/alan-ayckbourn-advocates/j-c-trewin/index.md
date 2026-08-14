@@ -1,7 +1,7 @@
 ---
 title: "Advocates: J.C. Trewin (1908 - 1990)"
 source: "http://advocates.alanayckbourn.net/page/page-22/"
-order: 2368
+order: 2366
 ---
 
 *John Courtenay Trewin OBE was a journalist and theatre critic.*

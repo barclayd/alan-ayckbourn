@@ -1,7 +1,7 @@
 ---
 title: "Publications About Alan Ayckbourn"
 source: "http://research.alanayckbourn.net/page-14/PublicationsTexts.html"
-order: 863
+order: 862
 ---
 
 This page contains details of books and publications dedicated to or with significant contributions concerning Alan Ayckbourn, his plays and his career in theatre. A guide to publications by Alan Ayckbourn including playtexts can be found in the **[Publications](/publications)** section of this website. **○ The Crafty Art of Playmaking**  

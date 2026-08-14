@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://mysistersadie.alanayckbourn.net/page-3/"
-order: 1856
+order: 1854
 play: "my-sister-sadie"
 ---
 

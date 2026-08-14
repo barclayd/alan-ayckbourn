@@ -1,7 +1,7 @@
 ---
 title: "London Premiere Reviews"
 source: "http://comicpotential.alanayckbourn.net/styled-8/styled-10/"
-order: 1694
+order: 1692
 play: "comic-potential"
 ---
 

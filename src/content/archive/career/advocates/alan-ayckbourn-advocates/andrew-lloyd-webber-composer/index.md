@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Andrew Lloyd Webber"
 source: "http://advocates.alanayckbourn.net/page/page-75/"
-order: 2377
+order: 2375
 ---
 
 *Andrew Lloyd Webber - Baron Lloyd Webber - is one of the world's most successful living composers with his popular and award-winning works such as Phantom of the Opera and Cats being mainstays of the West End, Broadway and theatres around the world. He is one of the few people to have received an Oscar, Tony, Grammy and Emmy Awards for his work. In 1975, he collaborated on Jeeves with Alan Ayckbourn, a renowned flop musical adaptation of P.G. Wodehouse's Wooster novels. In 1996, they revised and successfully revived the piece as By Jeeves, which opened the Stephen Joseph Theatre before transferring to the West End and, later, Broadway.*

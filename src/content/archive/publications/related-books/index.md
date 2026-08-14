@@ -1,7 +1,7 @@
 ---
 title: "Publications Relating To Alan Ayckbourn"
 source: "http://publications.alanayckbourn.net/styled-7/PublicationsOthers.html"
-order: 847
+order: 846
 ---
 
 This page contains details of books and publications which contain references to or contributions from Alan Ayckbourn.  

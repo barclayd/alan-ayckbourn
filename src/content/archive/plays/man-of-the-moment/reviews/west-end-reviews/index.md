@@ -1,7 +1,7 @@
 ---
 title: "Michael Billington's West End review"
 source: "http://manofthemoment.alanayckbourn.net/styled-8/styled-4/"
-order: 1483
+order: 1482
 play: "man-of-the-moment"
 ---
 

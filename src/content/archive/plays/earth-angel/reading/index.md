@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://earthangel.alanayckbourn.net/styled-5/"
-order: 2169
+order: 2167
 play: "earth-angel"
 ---
 

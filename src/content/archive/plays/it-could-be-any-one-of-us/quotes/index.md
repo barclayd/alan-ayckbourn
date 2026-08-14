@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://itcouldbe.alanayckbourn.net/styled-5/"
-order: 1383
+order: 1382
 play: "it-could-be-any-one-of-us"
 ---
 

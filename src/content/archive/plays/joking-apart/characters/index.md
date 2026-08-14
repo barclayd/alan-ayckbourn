@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://jokingapart.alanayckbourn.net/styled-16/"
-order: 1248
+order: 1247
 play: "joking-apart"
 ---
 

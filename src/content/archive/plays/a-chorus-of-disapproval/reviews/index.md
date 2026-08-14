@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-8/"
-order: 1399
+order: 1398
 play: "a-chorus-of-disapproval"
 ---
 

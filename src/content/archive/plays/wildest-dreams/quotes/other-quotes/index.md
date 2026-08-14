@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://wildestdreams.alanayckbourn.net/styled-5/styled-9/"
-order: 1574
+order: 1573
 play: "wildest-dreams"
 ---
 

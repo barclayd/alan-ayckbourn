@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://itcouldbe.alanayckbourn.net/styled-13/"
-order: 1389
+order: 1388
 play: "it-could-be-any-one-of-us"
 ---
 

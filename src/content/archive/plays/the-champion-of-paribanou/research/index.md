@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://thechampionofparibanou.alanayckbourn.net/page-2/"
-order: 1669
+order: 1668
 play: "the-champion-of-paribanou"
 ---
 

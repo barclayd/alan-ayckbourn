@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://roleplay.alanayckbourn.net/page-11/index.html"
-order: 1792
+order: 1790
 play: "roleplay"
 ---
 

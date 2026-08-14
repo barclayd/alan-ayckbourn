@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://showandtell.alanayckbourn.net/styled-4/"
-order: 2155
+order: 2153
 play: "show-and-tell"
 ---
 

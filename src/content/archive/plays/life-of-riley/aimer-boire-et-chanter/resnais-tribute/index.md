@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn's Tribute To Alain Resnais"
 source: "http://lifeofriley.alanayckbourn.net/page18/styled-11/"
-order: 1981
+order: 1979
 play: "life-of-riley"
 ---
 

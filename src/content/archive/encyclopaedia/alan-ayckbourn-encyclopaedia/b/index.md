@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: B"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-2/B.html"
-order: 685
+order: 684
 ---
 
 **[Backnumbers:](/plays/backnumbers-with-paul-todd)** One of the Grey Plays (produced but unpublished), *Backnumbers* was premiered in 1983 as a lunchtime entertainment at the Stephen Joseph Theatre in The Round, Scarborough. The two revues (*Backnumbers 1-10* & *11-20*) comprise songs drawn from the prior musical collaborations between Alan Ayckbourn and composer Paul Todd.

@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://orvin.alanayckbourn.net/page-5/"
-order: 1845
+order: 1843
 play: "orvin-champion-of-champions"
 ---
 

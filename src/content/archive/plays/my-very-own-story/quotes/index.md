@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://myveryownstory.alanayckbourn.net/styled-5/"
-order: 1579
+order: 1578
 play: "my-very-own-story"
 ---
 

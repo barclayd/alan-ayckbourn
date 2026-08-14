@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Adaptations: The 7 Deadly Deadly Virtues"
-source: "http://sevendeadlyvirtues.alanayckbourn.net/page9/Media_Seven_Deadly.html"
-order: 755
+source: "http://the7deadlyvirtues.alanayckbourn.net/page9/Media_Seven_Deadly.html"
+order: 754
 play: "the-7-deadly-virtues"
 ---
 

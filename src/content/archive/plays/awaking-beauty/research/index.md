@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://awakingbeauty.alanayckbourn.net/page-3/"
-order: 1952
+order: 1950
 play: "awaking-beauty"
 ---
 

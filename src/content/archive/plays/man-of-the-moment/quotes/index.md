@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://manofthemoment.alanayckbourn.net/styled-5/"
-order: 1472
+order: 1471
 play: "man-of-the-moment"
 ---
 

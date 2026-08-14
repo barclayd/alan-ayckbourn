@@ -1,7 +1,7 @@
 ---
 title: "Birthdays Past, Birthdays Present Synopsis"
 source: "http://birthdayspastbirthdayspresent.alanayckbourn.net/styled-3/"
-order: 2086
+order: 2084
 play: "birthdays-past-birthdays-present"
 ---
 

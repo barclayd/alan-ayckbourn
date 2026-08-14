@@ -1,8 +1,10 @@
 ---
-title: "Life & Career"
+title: "Advocates"
 source: "http://advocates.alanayckbourn.net/"
-order: 2309
+order: 2307
 ---
+
+## Alan Ayckbourn: Life & Career
 
 The Life & Career section of the website offers a comprehensive guide to Alan Ayckbourn's life and career in theatre. Click on a button to go to the relevant section.
 

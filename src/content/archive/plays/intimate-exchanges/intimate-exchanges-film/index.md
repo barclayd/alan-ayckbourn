@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://intimateexchanges.alanayckbourn.net/styled-9/page17.html"
-order: 742
+order: 741
 play: "intimate-exchanges"
 ---
 

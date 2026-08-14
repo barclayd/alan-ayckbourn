@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://relativelyspeaking.alanayckbourn.net/styled-5/"
-order: 978
+order: 977
 play: "relatively-speaking"
 ---
 

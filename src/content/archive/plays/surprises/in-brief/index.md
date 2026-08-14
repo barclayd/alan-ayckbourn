@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://surprises.alanayckbourn.net/page-5/"
-order: 1997
+order: 1995
 play: "surprises"
 ---
 

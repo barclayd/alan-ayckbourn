@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - December"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-40/Z.html"
-order: 784
+order: 783
 ---
 
 **1 December:** World premiere of ***[The Musical Jigsaw Musical Play](/plays/the-musical-jigsaw-play)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** in 1994; premiere of audio play adaptation of ***[Haunting Julia](/plays/haunting-julia)*** streamed via the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** website in 2020.

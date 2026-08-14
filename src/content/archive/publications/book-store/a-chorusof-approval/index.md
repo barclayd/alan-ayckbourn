@@ -1,7 +1,7 @@
 ---
 title: "A Chorus of Approval"
 source: "http://publications.alanayckbourn.net/page-2/page-7/page22.html"
-order: 855
+order: 854
 ---
 
 *A Chorus of Approval* was published in 1999 to celebrate Sir Alan Ayckbourn's 60th birthday marked by the *A Chorus of Approval* event at the Stephen Joseph Theatre, Scarborough, that year. The cover features art by the celebrated artist Gerald Scarfe.

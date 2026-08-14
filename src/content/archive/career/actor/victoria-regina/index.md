@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page154/"
-order: 561
+order: 560
 ---
 
 ## Victoria Regina (1961)

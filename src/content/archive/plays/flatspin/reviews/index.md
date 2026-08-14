@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://flatspin.alanayckbourn.net/styled-7/"
-order: 1778
+order: 1776
 play: "flatspin"
 ---
 

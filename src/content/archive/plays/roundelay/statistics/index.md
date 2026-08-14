@@ -1,7 +1,7 @@
 ---
 title: "Statistics"
 source: "http://roundelay.alanayckbourn.net/page21/"
-order: 2034
+order: 2032
 play: "roundelay"
 ---
 

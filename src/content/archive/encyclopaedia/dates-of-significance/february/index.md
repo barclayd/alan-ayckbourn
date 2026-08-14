@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - February"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-30/Z.html"
-order: 774
+order: 773
 ---
 
 **1 February:** Alan Ayckbourn receives his **[CBE](/life/awards)** in 1987; London revival of ***[By Jeeves](/plays/jeeves)*** at the Landor Theatre in 2011; the stage adaptation of the novel ***[The Divide](/plays/the-divide)*** opens at the Old Vic, London, in 2018.

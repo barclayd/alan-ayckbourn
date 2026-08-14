@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://arrivalsanddepartures.alanayckbourn.net/styled-3/"
-order: 2012
+order: 2010
 play: "arrivals-and-departures"
 ---
 

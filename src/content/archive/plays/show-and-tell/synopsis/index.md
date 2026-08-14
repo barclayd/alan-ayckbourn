@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://showandtell.alanayckbourn.net/styled-3/"
-order: 2154
+order: 2152
 play: "show-and-tell"
 ---
 

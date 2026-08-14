@@ -36,9 +36,44 @@ const SECTION_SITES = {
 // inside the archive. `advocates` alone is 83 pages of advocacy writing.
 const EXTRA_SITES = {
   advocates: 'career/advocates',
-  interviews: 'career/interviews',
   recordings: 'career/recordings',
   artisticdirector: 'career/artistic-director',
+};
+
+/*
+ * Two hosts, one site, path for path: `interviews` is the research section under
+ * an earlier name, and the seven deadly virtues answers on both its spelt and
+ * its numeric host. Folded at the door, so the crawl fetches one copy, every
+ * link resolves to it, and neither turns up as a second research section under
+ * `career/` nor as a phantom second entry on the plays index.
+ *
+ * Not aliased: the hosts several plays genuinely share — the Norman Conquests
+ * trilogy, Jeeves and By Jeeves, the two Farcicals one-acts. Those pages repeat
+ * because two plays really are one site, and each play still needs its own
+ * place on the index.
+ */
+const HOST_ALIASES = {
+  interviews: 'research',
+  sevendeadlyvirtues: 'the7deadlyvirtues',
+};
+
+/*
+ * Three pages whose <h1> names a section of the nav bar instead of the page. Two
+ * are subdomain roots the archive only ever links from the nav, so the heading
+ * they carry is the nav's: 83 essays about Ayckbourn's advocates sit under "Life
+ * & Career", the recordings and adaptations under "Encyclopaedia, Research &
+ * Other Media". The third is an at-a-glance summary of the careers with their
+ * dates, headed "Careers & Timeline" — which is also the name of the section
+ * front it sits inside, so untouched it lists itself as one of its own children.
+ *
+ * A heading correction, not a content one: each replacement is a phrase the
+ * archive uses for that page's own subject elsewhere on the site.
+ */
+const TITLE_FIXES = {
+  'http://advocates.alanayckbourn.net/': 'Advocates',
+  'http://recordings.alanayckbourn.net/':
+    'Recordings & Adaptations in Other Media',
+  'http://careers.alanayckbourn.net/styled-16/': 'Careers at a Glance',
 };
 
 // One play per era: the 60s hit, the 70s tragi-comedy, the trilogy, the 80s
@@ -126,6 +161,10 @@ function normalise(href, base) {
   u.hash = '';
   u.search = '';
   u.protocol = 'http:';
+  const alias = HOST_ALIASES[subdomain(u.hostname)];
+  if (alias) {
+    u.hostname = `${alias}.${DOMAIN}`;
+  }
   if (!u.pathname.includes('.') && !u.pathname.endsWith('/')) {
     u.pathname += '/';
   }
@@ -137,16 +176,25 @@ const hostOf = (url) => new URL(url).hostname;
 const subdomain = (host) => host.replace(`.${DOMAIN}`, '');
 const isInternal = (url) => hostOf(url).endsWith(DOMAIN);
 
+/** The old PHP mailer's four wrappers: general, copyright, memories, one spare. */
+const CONTACT_FORM = /(^|\/)contact-form(-\d+)?\//;
+
 /**
  * A page, as opposed to a file the archive happens to host. The interview
  * section publishes six of its transcripts as PDFs, and crawling those produced
  * six entries with a title and no body whatsoever — a dead end with our chrome
- * around it. `.php` is the old mail handler, which was never a page either.
- * Anything without an extension is a directory, which is how most of the site
- * is published.
+ * around it. `.php` is the old mail handler, which was never a page either, and
+ * neither is the `contact-form/` directory wrapped around it: crawled, it yields
+ * a page of field labels with no fields — "Your Name: *", "Spam Protection:
+ * Please don't fill this in" — four times over. Anything without an extension is
+ * a directory, which is how most of the site is published.
  */
 const isPage = (url) => {
-  const last = new URL(url).pathname.split('/').pop() ?? '';
+  const u = new URL(url);
+  if (CONTACT_FORM.test(u.pathname)) {
+    return false;
+  }
+  const last = u.pathname.split('/').pop() ?? '';
   return !last.includes('.') || /\.(html?|shtml)$/i.test(last);
 };
 
@@ -1022,7 +1070,8 @@ async function run() {
   );
   for (const url of order) {
     const page = pages.get(url);
-    page.title = page.$('#content h1').first().text().trim();
+    page.title =
+      TITLE_FIXES[url] ?? page.$('#content h1').first().text().trim();
     const base = baseOf(url);
     const seg = segments(url).at(-1);
     const label = labels.get(url)?.text;
@@ -1069,6 +1118,12 @@ async function run() {
   const routeFor = (url) => {
     if (routes.has(url)) {
       return `/${routes.get(url)}`;
+    }
+    /* Never crawled, by `isPage`. Our own contact page says where enquiries go
+       now, which is nearer the mark than the section index the prefix fallback
+       below would otherwise pick — "Contact Us" landing on the plays list. */
+    if (CONTACT_FORM.test(new URL(url).pathname)) {
+      return '/contact';
     }
     uncrawled.add(hostOf(url));
     const prefix = prefixOf(hostOf(url));
@@ -1319,6 +1374,7 @@ export {
   extractFacts,
   isLabel,
   isPage,
+  normalise,
   render,
   segments,
   slugify,

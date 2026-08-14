@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://improbablefiction.alanayckbourn.net/page-2/"
-order: 1906
+order: 1904
 play: "improbable-fiction"
 ---
 

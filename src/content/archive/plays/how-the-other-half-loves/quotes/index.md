@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://howtheotherhalfloves.alanayckbourn.net/styled-5/"
-order: 1015
+order: 1014
 play: "how-the-other-half-loves"
 ---
 

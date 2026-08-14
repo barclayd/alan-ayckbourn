@@ -1,7 +1,7 @@
 ---
 title: "Character Notes"
 source: "http://mywonderfulday.alanayckbourn.net/styled-7/"
-order: 1960
+order: 1958
 play: "my-wonderful-day"
 ---
 

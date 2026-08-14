@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://snakeinthegrass.alanayckbourn.net/styled-5/"
-order: 1811
+order: 1809
 play: "snake-in-the-grass"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://privatefears.alanayckbourn.net/styled-8/"
-order: 1884
+order: 1882
 play: "private-fears-in-public-places"
 ---
 

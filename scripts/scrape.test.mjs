@@ -8,6 +8,7 @@ import {
   extractFacts,
   isLabel,
   isPage,
+  normalise,
   render,
 } from './scrape.mjs';
 
@@ -211,4 +212,32 @@ test('emphasis does not straddle a line break', () => {
     markdown(`<div class="text_stack">${b('1956:<br>1957:')}</div>`),
     '**1956:**  \n**1957:**',
   );
+});
+
+test('an alias host folds onto the site it mirrors', () => {
+  /* Path for path, so the mirror's pages read from the canonical host's cache
+     and every link into the mirror resolves to the one copy. */
+  assert.equal(
+    normalise('http://interviews.alanayckbourn.net/page-4/page18.html'),
+    'http://research.alanayckbourn.net/page-4/page18.html',
+  );
+  assert.equal(
+    normalise('http://sevendeadlyvirtues.alanayckbourn.net/'),
+    'http://the7deadlyvirtues.alanayckbourn.net/',
+  );
+  /* A host several plays share is not an alias: folding it would drop a play. */
+  assert.equal(
+    normalise('http://tablemanners.alanayckbourn.net/'),
+    'http://tablemanners.alanayckbourn.net/',
+  );
+});
+
+test('the old mailer is not a page', () => {
+  /* Crawled, it yielded four pages of field labels with no fields. */
+  assert.equal(isPage('http://plays.alanayckbourn.net/contact-form/'), false);
+  assert.equal(
+    isPage('http://plays.alanayckbourn.net/page-7/contact-form-2/'),
+    false,
+  );
+  assert.equal(isPage('http://plays.alanayckbourn.net/page-7/'), true);
 });

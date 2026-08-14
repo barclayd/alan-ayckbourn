@@ -1,7 +1,7 @@
 ---
 title: "Staging"
 source: "http://absurdpersonsingular.alanayckbourn.net/page18/"
-order: 1067
+order: 1066
 play: "absurd-person-singular"
 ---
 

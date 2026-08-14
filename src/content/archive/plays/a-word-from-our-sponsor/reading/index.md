@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://awordfromoursponsor.alanayckbourn.net/styled-7/"
-order: 1657
+order: 1656
 play: "a-word-from-our-sponsor"
 ---
 

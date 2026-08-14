@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://thesparrow.alanayckbourn.net/styled-3/"
-order: 1003
+order: 1002
 play: "the-sparrow"
 ---
 

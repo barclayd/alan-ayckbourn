@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://thesquarecat.alanayckbourn.net/styled-5/styled-10/"
-order: 896
+order: 895
 play: "the-square-cat"
 ---
 

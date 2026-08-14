@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://comicpotential.alanayckbourn.net/styled-4/"
-order: 1685
+order: 1683
 play: "comic-potential"
 ---
 

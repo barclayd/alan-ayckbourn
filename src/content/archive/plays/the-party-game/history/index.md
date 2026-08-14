@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://thepartygame.alanayckbourn.net/styled/"
-order: 2297
+order: 2295
 play: "the-party-game"
 ---
 

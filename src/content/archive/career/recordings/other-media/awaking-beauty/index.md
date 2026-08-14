@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page45/Media_Awaking_Beauty.html"
-order: 813
+order: 812
 ---
 
 ### Awaking Beauty

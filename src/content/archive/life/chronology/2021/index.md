@@ -18,7 +18,7 @@ During 2021, Alan Ayckbourn…
 
 ○ saw *The Girl Next Door* become the first Ayckbourn world premiere production to be filmed. The film - also the first Ayckbourn production in-the-round to be filmed - is streamed over two periods by the SJT during the year.
 
-○ was featured in the interview film In ***[Conversation with Alan Ayckbourn](/career/interviews)***, conducted with Dr Paul Elsam and premiered at the Big Ideas by the Sea festival in Scarborough.
+○ was featured in the interview film In ***[Conversation with Alan Ayckbourn](/research)***, conducted with Dr Paul Elsam and premiered at the Big Ideas by the Sea festival in Scarborough.
 
 ### World Premieres
 

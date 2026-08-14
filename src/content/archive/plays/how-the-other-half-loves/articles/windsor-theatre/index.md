@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://howtheotherhalfloves.alanayckbourn.net/page-5/page-6/"
-order: 1028
+order: 1027
 play: "how-the-other-half-loves"
 ---
 

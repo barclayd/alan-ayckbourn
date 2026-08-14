@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://lifeofriley.alanayckbourn.net/page-2/page-3/"
-order: 1982
+order: 1980
 play: "life-of-riley"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://intimateexchanges.alanayckbourn.net/styled-13/"
-order: 1368
+order: 1367
 play: "intimate-exchanges"
 ---
 

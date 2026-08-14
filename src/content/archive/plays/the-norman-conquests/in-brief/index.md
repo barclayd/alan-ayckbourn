@@ -1,7 +1,7 @@
 ---
 title: "Facts"
 source: "http://thenormanconquests.alanayckbourn.net/page-18/"
-order: 1088
+order: 1087
 play: "the-norman-conquests"
 ---
 

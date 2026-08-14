@@ -1,7 +1,7 @@
 ---
 title: "Rewriting History: The Creation of Absurd Person Singular"
 source: "http://writingabsurdpersonsingular.alanayckbourn.net/styled/NewsInDepth.html"
-order: 2552
+order: 2519
 play: "absurd-person-singular"
 ---
 

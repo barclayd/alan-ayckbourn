@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Further Reading"
 source: "http://farcicals.alanayckbourn.net/styled-4/"
-order: 2197
+order: 2195
 play: "chloe-with-love-farcicals"
 ---
 

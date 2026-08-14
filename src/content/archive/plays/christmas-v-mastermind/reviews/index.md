@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://christmasvmastermind.alanayckbourn.net/styled-8/"
-order: 953
+order: 952
 play: "christmas-v-mastermind"
 ---
 

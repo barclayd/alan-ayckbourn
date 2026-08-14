@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://christmasvmastermind.alanayckbourn.net/styled-13/"
-order: 955
+order: 954
 play: "christmas-v-mastermind"
 ---
 

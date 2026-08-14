@@ -1,7 +1,7 @@
 ---
 title: "Dear Uncle: World Premiere Reviews"
 source: "http://dearuncle.alanayckbourn.net/styled-8/"
-order: 2239
+order: 2237
 play: "dear-uncle-chekhov"
 ---
 

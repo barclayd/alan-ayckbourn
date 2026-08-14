@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://thejollies.alanayckbourn.net/styled-6/"
-order: 1828
+order: 1826
 play: "the-jollies"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://thesquarecat.alanayckbourn.net/styled-5/"
-order: 886
+order: 885
 play: "the-square-cat"
 ---
 

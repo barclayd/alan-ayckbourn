@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://drowningondryland.alanayckbourn.net/styled-3/"
-order: 1866
+order: 1864
 play: "drowning-on-dry-land"
 ---
 

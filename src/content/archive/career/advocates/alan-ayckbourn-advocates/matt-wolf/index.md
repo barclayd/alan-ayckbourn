@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Matt Wolf"
 source: "http://advocates.alanayckbourn.net/page/page-60/"
-order: 2369
+order: 2367
 ---
 
 *Matt Wolf is a journalist and theatre critic who has worked for the New York Times and The Guardian amongst many other publications.*

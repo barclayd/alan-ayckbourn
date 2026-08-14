@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://gameplan.alanayckbourn.net/styled-4/"
-order: 1758
+order: 1756
 play: "gameplan"
 ---
 

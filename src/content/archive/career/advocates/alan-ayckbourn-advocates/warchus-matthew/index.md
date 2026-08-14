@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Matthew Warchus"
 source: "http://advocates.alanayckbourn.net/page/page-36/"
-order: 765
+order: 764
 ---
 
 *Matthew Warchus is a theatre director and the Artistic Director of the Old Vic theatre. As a student in Yorkshire, he was a frequent visitor to the Stephen Joseph Theatre in Scarborough where he experienced the work of Alan Ayckbourn. He notably directed The Old Vic's acclaimed and award-winning revival of The Norman Conquests, converting the theatre into an in-the-round space as a direct result of his experiences in Scarborough. The production transferred to Broadway where he received a Tony Award for Best Director.*

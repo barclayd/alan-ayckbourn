@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: Articles"
 source: "http://mrasamazing.alanayckbourn.net/page-3/"
-order: 1496
+order: 1495
 play: "mr-as-amazing-maze-plays"
 ---
 

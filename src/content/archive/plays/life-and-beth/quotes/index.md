@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://lifeandbeth.alanayckbourn.net/styled-5/"
-order: 1930
+order: 1928
 play: "life-and-beth"
 ---
 

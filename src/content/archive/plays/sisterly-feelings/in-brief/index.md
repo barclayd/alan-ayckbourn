@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://sisterlyfeelings.alanayckbourn.net/page-6/"
-order: 1263
+order: 1262
 play: "sisterly-feelings"
 ---
 

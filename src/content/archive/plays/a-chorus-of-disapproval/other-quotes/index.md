@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-14/"
-order: 1395
+order: 1394
 play: "a-chorus-of-disapproval"
 ---
 

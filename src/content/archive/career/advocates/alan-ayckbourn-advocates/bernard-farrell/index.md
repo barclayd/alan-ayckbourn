@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Bernard Farrell"
 source: "http://advocates.alanayckbourn.net/page/page-42/"
-order: 2348
+order: 2346
 ---
 
 *Bernard Farrell is an Irish dramatist who has worked extensively on stage, m screen and radio. His first play, I Do Not Like Thee, Doctor Fell is probably his best known work.*

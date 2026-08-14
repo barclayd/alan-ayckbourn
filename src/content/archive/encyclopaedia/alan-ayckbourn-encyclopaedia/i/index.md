@@ -1,14 +1,14 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: I"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-9/I.html"
-order: 692
+order: 691
 ---
 
 **[I:](/plays/me-myself-and-i)** One part of Alan Ayckbourn and Paul Todd's revue *Me, Myself And I*.
 
 **[If I Were You:](/plays/if-i-were-you)** Alan Ayckbourn's 71st play premiered at the Stephen Joseph Theatre, Scarborough, on 17 October 2006. It was the first new Ayckbourn play to be premiered after the playwright's stoke in February 2006, although the actual play had been completed just prior to the stroke. Mal and Jill Rodale's marriage is on rocky grounds, but when an unexpected event puts them in each other's shoes, they begin to better appreciate and understand each other.
 
-**[Imagine:](/career/interviews)** On 16 November 2011, the BBC arts documentary series *Imagine* broadcast *Alan Ayckbourn: Greetings From Scarborough*, a 70 minute documentary looking at his career and popularity around the world.
+**[Imagine:](/research)** On 16 November 2011, the BBC arts documentary series *Imagine* broadcast *Alan Ayckbourn: Greetings From Scarborough*, a 70 minute documentary looking at his career and popularity around the world.
 
 **[Improbable Fiction:](/plays/improbable-fiction)** Alan Ayckbourn's 69th play premiered at the Stephen Joseph Theatre, Scarborough, on 31 May 2005. It was written to mark the 50th anniversary of the Stephen Joseph Theatre. It features Pendon Writer's Circle and what happens when their combined imaginations are unleashed.
 

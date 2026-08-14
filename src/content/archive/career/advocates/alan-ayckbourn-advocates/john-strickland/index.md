@@ -1,7 +1,7 @@
 ---
 title: "Advocates: John Strickland"
 source: "http://advocates.alanayckbourn.net/page/page-58/"
-order: 2341
+order: 2339
 ---
 
 *John Strickland is an actor who worked extensively with Alan Ayckbourn at the Stephen Joseph Theatre In The Round during the 1980s. He notably originated the role of Douglas in Man Of The Moment and Henry Bell in The Revengers' Comedies.*

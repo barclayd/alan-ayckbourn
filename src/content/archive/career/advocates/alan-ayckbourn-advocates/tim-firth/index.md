@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Tim Firth"
 source: "http://advocates.alanayckbourn.net/page/page-11/"
-order: 2349
+order: 2347
 ---
 
 *Bernard Farrell is an Irish dramatist who has worked extensively on stage, m screen and radio. His first play, I Do Not Like Thee, Doctor Fell is probably his best known work.*

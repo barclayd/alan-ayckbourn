@@ -1,7 +1,7 @@
 ---
 title: "Interviews 1990 - 1999"
 source: "http://research.alanayckbourn.net/page/page-17/interviews_90s.html"
-order: 873
+order: 872
 ---
 
 *This page provides an index to significant articles and interviews with Alan Ayckbourn between 1990 and 1999.*

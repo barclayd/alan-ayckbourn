@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Brigid Larmour"
 source: "http://advocates.alanayckbourn.net/page/page-65/"
-order: 2370
+order: 2368
 ---
 
 *Brigid Larmour is a producer, director, dramaturge and teacher who has worked in theatre and television. As Artistic Director and Chief Executive of Watford Palace, she has directed several Ayckbourn works.*

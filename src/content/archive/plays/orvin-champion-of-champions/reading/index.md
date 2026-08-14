@@ -1,7 +1,7 @@
 ---
 title: "Further reading"
 source: "http://orvin.alanayckbourn.net/styled-7/"
-order: 1851
+order: 1849
 play: "orvin-champion-of-champions"
 ---
 

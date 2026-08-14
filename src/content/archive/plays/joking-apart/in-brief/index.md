@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://jokingapart.alanayckbourn.net/page-11/"
-order: 1244
+order: 1243
 play: "joking-apart"
 ---
 

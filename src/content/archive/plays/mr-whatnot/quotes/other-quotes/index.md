@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://mrwhatnot.alanayckbourn.net/styled-5/styled-9/"
-order: 971
+order: 970
 play: "mr-whatnot"
 ---
 

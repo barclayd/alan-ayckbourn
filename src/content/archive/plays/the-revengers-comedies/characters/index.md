@@ -1,7 +1,7 @@
 ---
 title: "The Revengers' Comedies: Character Notes by Alan Ayckbourn"
 source: "http://therevengerscomedies.alanayckbourn.net/styled-16/"
-order: 1511
+order: 1510
 play: "the-revengers-comedies"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Publication Corrections"
 source: "http://snakeinthegrass.alanayckbourn.net/styled-12/"
-order: 860
+order: 859
 play: "snake-in-the-grass"
 ---
 

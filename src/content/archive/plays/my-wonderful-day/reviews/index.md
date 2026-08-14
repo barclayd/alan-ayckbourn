@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://mywonderfulday.alanayckbourn.net/styled-8/"
-order: 1961
+order: 1959
 play: "my-wonderful-day"
 ---
 

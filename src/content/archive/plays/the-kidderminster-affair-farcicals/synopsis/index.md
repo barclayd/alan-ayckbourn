@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Synopsis"
 source: "http://thekidderminsteraffair.alanayckbourn.net/styled-2/"
-order: 2547
+order: 2514
 play: "the-kidderminster-affair-farcicals"
 ---
 

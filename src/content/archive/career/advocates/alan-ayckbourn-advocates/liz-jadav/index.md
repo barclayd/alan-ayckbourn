@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Liz Jadav"
 source: "http://advocates.alanayckbourn.net/page/page-63/"
-order: 2325
+order: 2323
 ---
 
 *Liz Jadav is an actor whose first experience of Alan Ayckbourn was working in his acclaimed 40th anniversary revival of Joking Apart and the world premiere of Better Off Dead at the Stephen Joseph Theatre in 2018. Her previous stage work includes productions at Nottingham Playhouse and with Illyria as well as work on the popular television programmes Emmerdale and Coronation Street.*

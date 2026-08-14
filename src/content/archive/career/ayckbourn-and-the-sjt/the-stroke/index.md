@@ -1,7 +1,7 @@
 ---
 title: "The Stroke"
 source: "http://careers.alanayckbourn.net/page-80/styled-11/ArtisticDirector.html"
-order: 520
+order: 519
 ---
 
 *On 21 February 2006, Alan Ayckbourn suffered a stroke at his home in Scarborough. Rushed to Scarborough Hospital, he was in convalescence for a week before the news was made public on 28 February 2006; by which point it had become clear he would make a good recovery. The next six months were spent recuperating before he returned to the Stephen Joseph Theatre to direct his latest play 'If I Were You', which he had completed just days before the stroke.*

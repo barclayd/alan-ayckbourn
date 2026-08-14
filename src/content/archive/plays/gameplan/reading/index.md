@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://gameplan.alanayckbourn.net/styled-8/"
-order: 1763
+order: 1761
 play: "gameplan"
 ---
 

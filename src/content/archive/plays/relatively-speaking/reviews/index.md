@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://relativelyspeaking.alanayckbourn.net/styled-8/"
-order: 984
+order: 983
 play: "relatively-speaking"
 ---
 

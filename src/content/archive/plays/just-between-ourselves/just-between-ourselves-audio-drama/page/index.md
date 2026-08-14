@@ -1,7 +1,7 @@
 ---
 title: "The Television Adaptation"
 source: "http://justbetweenourselves.alanayckbourn.net/styled-9/styled-11/"
-order: 1223
+order: 1222
 play: "just-between-ourselves"
 ---
 

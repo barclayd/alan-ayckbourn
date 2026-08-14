@@ -1,7 +1,7 @@
 ---
 title: "Tons Of Money: History"
 source: "http://tonsofmoney.alanayckbourn.net/styled/"
-order: 2222
+order: 2220
 play: "tons-of-money-evans-and-valentine"
 ---
 
