@@ -270,8 +270,8 @@ const isRail =
                 : 'grid gap-px overflow-hidden rounded-sm bg-rule sm:grid-cols-2 lg:grid-cols-3',
             ]}
           >
-            {children.map((child, i) => (
-              <li data-reveal style={`--reveal-delay: ${Math.min(i, 8) * 0.04}s`}>
+            {children.map((child) => (
+              <li data-reveal>
                 <a
                   href={`/${child.id}`}
                   class:list={[

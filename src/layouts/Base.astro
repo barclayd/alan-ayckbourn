@@ -109,13 +109,29 @@ const fullTitle =
       } else {
         const io = new IntersectionObserver(
           (entries) => {
+            /*
+             * The stagger belongs to the batch that crossed the fold together,
+             * not to the element's index in its list. Set per call site as
+             * `i * 0.06s`, the homepage's 137-card grid queued its last card
+             * 8.16s behind its first — so a reader who scrolled faster than the
+             * queue arrived at a screen of nothing and waited three seconds for
+             * it. A batch is at most a couple of rows, and it cascades in a
+             * third of a second however long the list it came from.
+             */
+            let n = 0;
             for (const { target, isIntersecting } of entries) {
               if (!isIntersecting) continue;
+              (target as HTMLElement).style.setProperty(
+                '--reveal-delay',
+                `${Math.min(n++, 6) * 0.05}s`,
+              );
               target.setAttribute('data-reveal', 'in');
               io.unobserve(target);
             }
           },
-          { rootMargin: '0px 0px -12% 0px' },
+          /* Positive, so a section starts its fade just before it arrives rather
+             than 12% after — the difference between fading in and being late. */
+          { rootMargin: '0px 0px 15% 0px' },
         );
         for (const el of revealed) io.observe(el);
       }

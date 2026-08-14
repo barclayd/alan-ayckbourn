@@ -116,11 +116,10 @@ const boardUpdated = longDate(new Date(bulletins.updated));
 
       <ul class="mt-2">
         {
-          board.map((item, i) => (
+          board.map((item) => (
             <li
               class="border-rule/60 border-b last:border-0"
               data-reveal
-              style={`--reveal-delay: ${Math.min(i, 6) * 0.04}s`}
             >
               <details class="group">
                 <summary
@@ -224,7 +223,6 @@ const boardUpdated = longDate(new Date(bulletins.updated));
                 <li
                   class="dispatch grid grid-cols-[3.25rem_1fr] gap-x-4 sm:grid-cols-[5rem_1fr] sm:gap-x-6"
                   data-reveal
-                  style={`--reveal-delay: ${Math.min(i, 8) * 0.04}s`}
                 >
                   <time
                     datetime={post.data.date.toISOString()}

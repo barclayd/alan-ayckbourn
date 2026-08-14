@@ -127,12 +127,11 @@ const decades = [
       class="shell grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5"
     >
       {
-        plays.map((play, i) => (
+        plays.map((play) => (
           <li
             data-decade={decadeOf(play.data.year)}
             data-sort-key={sortKey(play.data.title)}
             data-reveal
-            style={`--reveal-delay: ${Math.min(i, 9) * 0.05}s`}
           >
             <PlayCard play={play} />
           </li>

@@ -58,8 +58,8 @@ const routes = [
 
     <ul class="mt-12 space-y-px overflow-hidden rounded-sm bg-rule">
       {
-        routes.map((route, i) => (
-          <li data-reveal style={`--reveal-delay: ${i * 0.06}s`}>
+        routes.map((route) => (
+          <li data-reveal>
             <a
               href={route.href}
               rel="external"
