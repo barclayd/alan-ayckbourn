@@ -83,3 +83,6 @@ BBC Radio 4: 31 December
 
 “I’ve been writing for a very long time and living for slightly longer,” Ayckbourn says. “When you get to my age, the choices open to you as far as writing is concerned are fairly limited. I mean, anyone in their eighties now has to either look backwards or look forwards.I don’t think I could write a really astute play about contemporary times, because I feel I’m slightly out of it.”  
 *(Big Issue North, September 2022)*
+
+“Writing for in-the-round is very much right for company theatres – teams of actors rather than one star, and three subsidiaries. For performers, theatre in the round is a great leveller. If you’ve got one guy on stage who’s got the story, you’ve got the other guy on who’s the listener. Both of them dominate the audience equally and they both share the audience in the round. Those of you without a clear view of the storyteller are then almost forced per se to watch the listener, and so the responsibility for the listener is that much greater. I always try and make the listener’s role as important as the narrator themselves.”  
+*(Big Issue North, September 2022)*

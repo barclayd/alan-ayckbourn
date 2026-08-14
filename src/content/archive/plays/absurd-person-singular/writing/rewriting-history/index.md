@@ -23,21 +23,13 @@ Even the playwright himself was impressed by the discovery and the retelling of 
 
 “Whilst my focus is ever forward and always on my next play, I’m delighted that the archive exists at York for people to come and make similar discoveries of the many things that have been forgotten over time - I’m sure there is much still to discover!”
 
-![](./_images/1972-250-02-haydonning-ltd-copy.jpg)
-
 ![](./_images/1972-900-haydonning-ltd.jpg)
-
-![](./_images/1972-aps-lino-250.jpeg)
 
 ![](./_images/1972-aps-lino-900.jpeg)
 
 The original lino-cut for the flyer for the world premiere of *Absurd Person Singular* in 1972. Held in a private collection & gratefully reproduced.
 
-![](./_images/aps-250-scarborough-theatre-trust-copy.jpg)
-
 ![](./_images/aps-700-haydonning-ltd.jpg)
-
-![](./_images/simon-murgatroyd-01-credit-kath-dunn-mines-copy.jpg)
 
 ![](./_images/simon-murgatroyd-01-credit-kath-dunn-mines.jpg)
 

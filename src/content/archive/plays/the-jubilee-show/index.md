@@ -49,3 +49,6 @@ Michael Garrick
 
 **Manuscripts (research & reference)**  
 An original manuscript for *The Jubilee Show* is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.
+
+**Reference Books**  
+*Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)

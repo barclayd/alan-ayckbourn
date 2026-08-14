@@ -12,6 +12,11 @@ facts:
   Published: "No"
   Other Media: "No"
   Short Synopsis: "In a wired world, where everyone is constantly talking to someone but not actually communicating with each other, a designer of hi-tech 'Viewdows' (electronic windows) has a mid-life crisis and an affair with a young actress, which has unforeseen consequences for the lives of his family and friends."
+  Amateur: "Not available for production."
+  Professional: "Not available for production."
 ---
 
-
+**Availability**  
+**Virtual Reality**  
+***Virtual Reality* quote**  
+"Let's face it, we've no real sense of self at all. These days all most of us can rely on for that are other people, friends, family, sociologists, the media, they're the ones who tell us who we are. I mean, let's face it, if tomorrow you or I lost everyone around us, we'd instantly become sort of non-people, wouldn't we? Don't you think? I would certainly. I wouldn't have a clue who I was. What I was doing here."

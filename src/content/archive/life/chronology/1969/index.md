@@ -53,3 +53,6 @@ Television: 2 March, BBC1
 
 "There is always the temptation when you do write a hit play to let yourself be gathered up in some sycophantic set. Successful young playwrights are, after all, nice things to be able to have at your party. But one of the beauties of living in Leeds is that it helps you keep your feet on the ground. Most people around here, for instance, would be a lot more impressed to know I'd written an episode of a television soap opera than a play which ran in the West End."  
 *(Radio Times, 27 February 1969)*
+
+"I suppose there must be room for one clown in the writing business. I mean, I know people are dying, but people are also living. And living, at that, in extraordinary and hilarious situations."  
+*(Radio Times, 27 February 1969)*

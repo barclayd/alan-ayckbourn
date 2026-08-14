@@ -72,3 +72,6 @@ Film stream: 28 June, SJT Website
 
 "Most theatres are in the middle of huge urban conurbations. In Scarborough, you can walk along the beach to work and that’s got to be a bonus. Or as my first manager said to me, ‘worth ten quid in you pay-packet, lad.”  
 *(BBC Today, 23 July 2021)*
+
+"Everyone - thanks to internet - has a version of what’s happening. One just doesn’t know what the truth is. Who’s lying? I don’t know the answer, I wish I did."  
+*(BBC Today, 23 July 2021)*

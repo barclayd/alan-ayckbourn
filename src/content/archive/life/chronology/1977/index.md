@@ -12,7 +12,7 @@ order: 271
 
 <aside>
 
-![](./_images/stacks-image-9c62061.jpg)
+![Black-and-white photograph of Alan Ayckbourn in a pale safari shirt, sitting back in a canvas chair with one hand raised mid-sentence](./_images/stacks-image-9c62061.jpg)
 
 </aside>
 
@@ -98,3 +98,6 @@ Radio: Date TBC, BBC World Service
 
 "I'm not really an urban creature but theatre people as a rule have to live near large population centres. Scarborough being smaller than a city but larger than a village is a happy compromise. Professionally, I have a theatre there to write for and a company I can run in relative calm and with plenty of sea air. Privately I feel an identity with the place."  
 *(National Theatre, March 1977)*
+
+"I write quickly and think slowly. For 360 days I think, I work for four and collapse on the other one."  
+*(San Francisco Chronicle, 30 August 1977)*

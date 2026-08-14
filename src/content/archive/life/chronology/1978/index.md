@@ -90,3 +90,6 @@ Original cast recording (Scarborough)
 
 "There are actor-directors, but once you've tasted the megalomania of directing, you don't want to go back."  
 *(Huddersfield Examiner, 11 August 1978)*
+
+"I rather thrive on deadlines. I need that pressure physically. I've got too many ideas. Then someone says, well it's got to be delivered on Monday, so you decide and you do it."  
+*(Huddersfield Examiner, 11 August 1978)*

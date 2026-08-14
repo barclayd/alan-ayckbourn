@@ -78,3 +78,6 @@ Stephen Joseph Theatre, Scarborough
 
 "It’s becoming increasingly difficult to write science fiction because, back in Arthur C. Clarke or Isaac Asimov’s day, it was pretty astonishing they foresaw quite as much as they did. It took several decades before some of the things they foresaw happened. Now, it’s sometimes several days!"  
 *(Interview with Simon Murgatroyd, March 2023)*
+
+How many people do you know who have animals - dogs and cats - that they live with, that if truth be told would say, ‘I’m much happier with my dog than my husband / wife. They’re much more reliable and less frightening really. They’re constant. No matter how good the relationship, there’s always some drawbacks that you have to accommodate. That’s part of humanity and the easy option is to settle for the safety of a constancy, where you also tend to make less effort obviously."  
+*(Interview with Simon Murgatroyd, March 2023)*

@@ -10,6 +10,7 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "Revue"
   Composer: "Paul Todd"
+  Published / Available to Stage: "No"
   First performance: "12 January 1983"
   World premiere: "12 January 1983"
   Final performance: "22 January 1983"
@@ -19,8 +20,6 @@ facts:
   Design: "Edward Lipscomb"
   Lighting: "Francis Lynch"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -90,3 +89,17 @@ For details of other significant productions, click **[here](/plays/incidental-m
 *Irving Wardle, The Times, 14 January 1983*  
 **Incidental Music**  
 *Desmond Pratt, Yorkshire Evening Press, 13 January 1983*
+
+**Reviews (London premiere)**  
+**Charles Spencer Sees A New Ayckbourn**  
+*Charles Spencer, Evening Standard, 5 December 1983*  
+**Incidental Music**  
+*B.A. Young, Financial Times, 5 December 1983*  
+**Incidental Music**  
+*Michael Billington, The Guardian, 6 December 1983*  
+**Incidental Music**  
+*Morning Star, 14 December 1983*  
+**Incidental Music**  
+*Geoffrey Howard, 22 December 1983*  
+**Incidental Music**  
+*Time Out, 15 December 1983*

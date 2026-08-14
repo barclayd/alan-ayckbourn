@@ -59,3 +59,5 @@ The play opened on 5 September 2017 at the Stephen Joseph Theatre running in rev
 A strong audience reaction to the play was joined by four star reviews from several publications and although most noted there were slight pacing issues with the play, that it was a strong Ayckbourn work which built to a second half.
 
 *A Brief History Of Women* went onto a short in-the-round tour in Autumn 2017 before transfering to the 59e59 Theaters, New York, from 26 April - 27 May 2018 as part of the *Brits Off Broadway* festival. Well received, the play was a New York Times Critic's Pick and received an excellent review from this most influential of newspapers. It went on to break the record for the most attended SJT production at the venue attracting 6,300 during the course of its month-long run (see press release here).
+
+*A Brief History of Women* was published as an acting edition by Samuel French during 2020 and was also in eluded in the Faber collection *Alan Ayckbourn: Plays 6*, which was published in 2018 and included plays which had been performed as part of the *Brits Off Broadway* festival in New York City.

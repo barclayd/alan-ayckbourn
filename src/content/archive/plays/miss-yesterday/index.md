@@ -12,6 +12,8 @@ facts:
   Published: "No"
   Other Media: "No"
   Short Synopsis: "After a tragic accident, teenager Tamara is given the opportunity to alter time, but with unforeseen consequences. With the fate of the world in her hands, Tamara must make the hardest decision of her life."
+  Amateur: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
+  Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
 ***Miss Yesterday* quote**  

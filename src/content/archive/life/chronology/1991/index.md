@@ -12,7 +12,7 @@ order: 285
 
 <aside>
 
-![](./_images/stacks-image-f202a56.jpg)
+![Black-and-white portrait of Alan Ayckbourn in a patterned shirt against foliage](./_images/stacks-image-f202a56.jpg)
 
 *© To be confirmed*
 
@@ -188,3 +188,6 @@ Strand Theatre, London
 
 "I'm a bit dull really. I just get on with the next job. I don't consciously remember having celebrated any of the successes. On the other hand, the nice thing is that I've never really been hung up by the failures. And there have been some."  
 *(Christian Science Monitor, 4 December 1991)*
+
+"I like the prospect of writing plays and I’m delighted once I’ve finished, but the bit in the middle is sheer purgatory. What I really enjoy is directing the plays once they’re written. But then, if I haven’t written them I can’t direct them, can I? So I’m forced to keep writing them."  
+*(Correspondence, 1991)*

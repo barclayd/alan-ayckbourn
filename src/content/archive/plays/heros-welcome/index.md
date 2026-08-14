@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***Hero's Welcome* Quote**  
+"No need to be upset or frightened of anything or anyone. I'm here for you, darling. Don't forget, I'm a hero, aren't I? Your very own private hero, eh?"  
+**Hero's Welcome**

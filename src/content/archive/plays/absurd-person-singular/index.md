@@ -24,3 +24,8 @@ facts:
 
 ***Absurd Person Singular* quote**  
 "I mean, this may sound ridiculous, but I've never to this day really known what most women think about anything. Completely closed book to me. I mean, God bless them, what would we do without them? But I've never understood them."
+
+### Writing Absurd Person Singular
+
+An accompanying website looks at archival discoveries in 2022 which altered the understanding of how *Absurd Person Singular* developed and was written. This website - produced in conjunction with the Borthwick Institute for Archives at the University of York - can be accessed by clicking the **[button](/plays/absurd-person-singular/writing)**.  
+**Absurd Person Singular**

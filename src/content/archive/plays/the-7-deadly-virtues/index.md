@@ -10,6 +10,10 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "Revue"
   Composer: "Paul Todd"
+  Published: "No"
+  Other Media: "Original cast recording; television"
+  Amateur: "Not available for production."
+  Professional: "Not available for production."
 ---
 
 

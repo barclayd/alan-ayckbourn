@@ -30,7 +30,7 @@ During 2005, Alan Ayckbourn…
 
 ○ began negotiations with the University of York to acquire his archive; this would eventually be achieved in 2011.
 
-![](./_images/stacks-image-450b091.jpg)
+![Alan Ayckbourn in a red shirt sitting sideways across a seat in an empty auditorium](./_images/stacks-image-450b091.jpg)
 
 *© Tony Bartholomew*
 
@@ -132,4 +132,7 @@ UK tour
 *(Yorkshire Post, 9 August 2005)*
 
 "If you are fortunate in life you meet key figures - who I call my guardian uncles and aunts who were there at that point, and you are lucky to see them. But you have to have the wit to listen to them, and engage with them and sometimes ignore them."  
+*(2005)*
+
+"I don't think men and women will ever truly understand one another (they approach everything from totally opposite directions) which is fine by me because it does make life more interesting. What does worry me though is that often, because they don't understand each other, they're not very nice to each other either. And that is far more worrying. We really do need to understand our differences a bit more."  
 *(2005)*

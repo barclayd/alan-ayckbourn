@@ -10,7 +10,9 @@ order: 249
 
 <aside>
 
-![](./_images/stacks-image-244bd75.jpg)
+![Black-and-white photograph of a boy in a belted overcoat and short trousers standing on a seaside street beside a woman in a long coat and gloves](./_images/stacks-image-244bd75.jpg)
+
+*Alan Ayckbourn with his mother 'Lolly'.*
 
 </aside>
 
@@ -29,3 +31,5 @@ Between 1939 and 1955, Alan Ayckbourn…
 **○ 1951:** received a Barclays Bank scholarship to attend Haileybury and Imperial Service College near Hertford; now known simply as Haileybury.
 
 **○ 1954:** had his first professionally published work with the poem ***[Dawn](/plays/childrens-plays-index/miscellaneous-writing)*** printed in the December issue of Collins' Young Elizabethan magazine.
+
+**○ 1955:** toured the Netherlands in a Haileybury production of ***[Romeo And Juliet](/career/actor/romeo-and-juliet)***, in which he played Peter.

@@ -55,4 +55,4 @@ No other production details are known
 **Note:** *Ernie's Incredible Illucinations* was initially broadcast on BBC1 on 11 November 1987; it was then repeated on BBC2 at 11.35am on 15 November 1987 and on BBC1 on 15 June 1989 at 4.35pm. It is believed these are the only times the adaptation has been broadcast on television.  
 *All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
 
-![](./_images/stacks-image-62ab1e7.jpg)
+![Magenta banner lettered in green script, "Plays for Children & Young People supported by Brett Bayne"](./_images/stacks-image-62ab1e7.jpg)

@@ -31,3 +31,10 @@ During 2026, Alan Ayckbourn…
 6 January (press night), Duke of York's Theatre  
 ○ ***How The Other Half Loves*** *(West End)*  
 11 August (press night), The Old Vic
+
+### Professional Directing
+
+○ ***The Trial of Romeo Oscar***  
+Stephen Joseph Theatre, Scarborough  
+○ ***Welcome to the Family*** *(rehearsed reading)*  
+Stephen Joseph Theatre, Scarborough

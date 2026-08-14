@@ -10,7 +10,7 @@ Next pa**[Next page \>\>\>](/life/chronology/2019)**
 
 <aside>
 
-![](./_images/stacks-image-5058908.jpg)
+![Alan Ayckbourn in a blue jumper over a checked shirt, in an armchair with patterned curtains behind him](./_images/stacks-image-5058908.jpg)
 
 *© Katherine Dunn Mines*
 
@@ -90,3 +90,6 @@ Stephen Joseph Theatre, Scarborough
 
 "I can remember all the plots, and so when I tackle a new one, I'll be thinking, 'oh, that happened in that one', and so the path of taking a conclusively new path is getting more difficult, and I hope that now some of my plays are getting so old, no critic will remember them all, but at least you'd be plagiarising yourself,"  
 *(The Press, 13 September 2018)*
+
+"People ask me, 'why do you keep writing?' and I say, 'just in the hope of getting better. I'll get it right, one day."  
+*(Sydney Morning Herald, 26 October 2018)*

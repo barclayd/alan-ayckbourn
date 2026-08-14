@@ -12,7 +12,7 @@ order: 303
 
 <aside>
 
-![](./_images/stacks-image-8096dab.jpg)
+![Alan Ayckbourn in a black coat beside a wall plaque reading "The Round, sponsored by Alan Ayckbourn"](./_images/stacks-image-8096dab.jpg)
 
 *© Tony Bartholomew*
 
@@ -148,3 +148,6 @@ Radio: 12 April, BBC Radio 3
 
 "I got a very jaundiced view of men because my mother's views of men were pretty much unprintable and I've been influenced by that ever since. I think female disappointment ran through my blood pretty early in my life and I have to say I prefer women's company en bloc."  
 *(The Press, 16 October 2009)*
+
+"I’m only very happy when I’m working. I’ve also been fortunate in having Stephen Joseph’s encouragement to start with, and then with his very premature death in his forties, the offer of taking it over as director, which gave me a sort of wonderful work space of my own work. And I commissioned myself year after year, and that’s the reason for the prolificness. When the opportunity is there, a writer will take it."  
+*(Time Out, 18 November 2009)*

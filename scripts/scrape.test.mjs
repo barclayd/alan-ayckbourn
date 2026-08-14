@@ -1,11 +1,15 @@
 import assert from 'node:assert/strict';
+import { readdirSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import { test } from 'node:test';
 import { load } from 'cheerio';
 import {
   blocksOf,
   clean,
   dropEmptyLabels,
+  dropNavBlocks,
   extractFacts,
+  hasCaption,
   isLabel,
   isPage,
   normalise,
@@ -94,6 +98,22 @@ test('a fact following a premiere is not swallowed by it', () => {
     sheet('**World Premiere:** 1975', '**Play Number:** 18'),
   );
   assert.deepEqual(facts, { 'World Premiere': '1975', 'Play Number': '18' });
+});
+
+test('a key that asks the question two ways is still a key', () => {
+  /* The Grey Play sheets label one row `Published / Available to Stage`, and a key
+     charset without the slash left that row alone in the prose on 24 pages. */
+  const { facts, blocks } = extractFacts(
+    sheet(
+      '**Play Description:** Grey Play',
+      '**Published / Available to Stage:** No',
+    ),
+  );
+  assert.deepEqual(facts, {
+    'Play Description': 'Grey Play',
+    'Published / Available to Stage': 'No',
+  });
+  assert.deepEqual(blocks, []);
 });
 
 test('pages and files are told apart', () => {
@@ -345,4 +365,139 @@ test('the old mailer is not a page', () => {
     false,
   );
   assert.equal(isPage('http://plays.alanayckbourn.net/page-7/'), true);
+});
+
+test('every alt description names an image that exists', () => {
+  /* alt.json is written by hand against the images on disk, so a key that
+     matches nothing is a description silently applying to no image — and the
+     rename or re-scrape that orphaned it left some image undescribed. */
+  const names = new Set();
+  (function walk(dir) {
+    for (const entry of readdirSync(dir, { withFileTypes: true })) {
+      if (entry.isDirectory()) {
+        walk(join(dir, entry.name));
+      } else {
+        names.add(entry.name);
+      }
+    }
+  })(new URL('../src/content/archive', import.meta.url).pathname);
+
+  const alt = JSON.parse(
+    readFileSync(new URL('./alt.json', import.meta.url), 'utf8'),
+  );
+  assert.deepEqual(
+    Object.keys(alt).filter((name) => !names.has(name)),
+    [],
+  );
+  /* An empty string is `alt=""`, which says "decorative" — a real claim about
+     the image, and not one to make by leaving a key blank. Omit it instead. */
+  assert.deepEqual(
+    Object.entries(alt).filter(([, text]) => !text.trim()),
+    [],
+  );
+});
+
+test('a credit is not a description of the photograph', () => {
+  /* The archive's own italic caption is a real description, and an image beside
+     one takes `alt=""` rather than repeating it. A caption that only credits the
+     photographer describes nothing, though, so those images stay on the review
+     list — 28 of them, or the chronology would have looked done. */
+  const page = (caption) =>
+    `text\n\n![](./_images/stacks-image-abc.jpg)\n\n*${caption}*  \n*© Tony Bartholomew*\n`;
+
+  assert.equal(
+    hasCaption(page('Michael Gambon in A Small Family Business.'), 'abc.jpg'),
+    true,
+  );
+  assert.equal(hasCaption(page('© Tony Bartholomew'), 'abc.jpg'), false);
+  assert.equal(
+    hasCaption(page('(4) Copyright: Scarborough'), 'abc.jpg'),
+    false,
+  );
+  assert.equal(
+    hasCaption(page('Image copyright: National Theatre.'), 'abc.jpg'),
+    false,
+  );
+  assert.equal(
+    hasCaption(
+      page('All research for this page by Simon Murgatroyd.'),
+      'abc.jpg',
+    ),
+    false,
+  );
+  /* Numbered captions are how the staging pages label a sequence of set designs,
+     and they do describe. Only the numbering is skipped, not the caption. */
+  assert.equal(
+    hasCaption(
+      page("(1) Alan Ayckbourn's first set sketch from 1976."),
+      'abc.jpg',
+    ),
+    true,
+  );
+  /* Prose is not a caption. The paragraph under an image is only one when the
+     archive set it in italics on its own. */
+  assert.equal(
+    hasCaption(
+      '![](./_images/stacks-image-abc.jpg)\n\nIn 1984, Peter Hall\n',
+      'abc.jpg',
+    ),
+    false,
+  );
+});
+
+test('describing an image cannot turn a row of thumbnails into navigation', () => {
+  /* The National Theatre page sets ten poster thumbnails in a row, each linking
+     to its play. The alt text sits inside the link's own brackets, so measured
+     as link text it decided whether the row was content — the row survived
+     while the images had no descriptions and vanished when they got them. */
+  const row = (alt) => ({
+    type: 'p',
+    text: [
+      'bedroom-farce',
+      'sisterly-feelings',
+      'way-upstream',
+      'a-chorus-of-disapproval',
+    ]
+      .map((play) => `[![${alt}](./_images/${play}.jpg)](/plays/${play})`)
+      .join('    '),
+  });
+  const kept = (block) => dropNavBlocks([block], 'The National Theatre').blocks;
+  assert.deepEqual(kept(row('')), [row('')]);
+  const described = row(
+    'National Theatre poster: a buttoned pink headboard against a pink ground',
+  );
+  assert.deepEqual(kept(described), [described]);
+  /* And the verdict the markup does earn still stands: one banner image wrapped
+     in a link to somewhere off the archive is the promo strip, not content. */
+  const banner = (alt) => ({
+    type: 'p',
+    text: `[![${alt}](./_images/banner.png)](http://www.oldvictheatre.com/stage/other-half/)`,
+  });
+  assert.deepEqual(kept(banner('')), []);
+  assert.deepEqual(kept(banner('At The Old Vic, 29 July to 19 September')), []);
+});
+
+test('the footer credit leaves the paragraph it was glued to, not the paragraph', () => {
+  /* `father-of-invention` sets its data sheet, its play title, the Grey Plays
+     note and the copyright notice as one <br>-separated paragraph. Tested whole,
+     the notice took two facts and a paragraph of prose with it. */
+  const sheet = [
+    '**Play Description:** Grey Play',
+    '**Published / Available to Stage:** No',
+    '**Father of Invention**',
+    '*The Grey Plays are acknowledged miscellaneous pieces by Alan Ayckbourn.*',
+  ];
+  const notice =
+    '*All research and original material in the Father of Invention section is by Simon Murgatroyd M.A. and copyright of Haydonning Ltd.*  \n*To navigate, use the links in the bar above or to the right.*';
+  const { blocks, credits } = dropNavBlocks(
+    [{ type: 'p', text: `${sheet.join('  \n')}  \n${notice}` }],
+    'Father of Invention',
+  );
+  assert.deepEqual(blocks, [{ type: 'p', text: sheet.join('  \n') }]);
+  assert.equal(credits, 0);
+
+  /* A paragraph that is nothing but the notice still goes, and still counts. */
+  const alone = dropNavBlocks([{ type: 'p', text: notice }], 'x');
+  assert.deepEqual(alone.blocks, []);
+  assert.equal(alone.credits, 1);
 });

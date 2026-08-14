@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Sugar Daddies* quote**  
+"People like you don't have friends, Val. Your hands have been that deep in shit for so long, anyone you touch they finish up as filthy and greedy and twisted as you are."  
+**Sugar Daddies**

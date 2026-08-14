@@ -16,4 +16,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Improbable Fiction* quote**  
+*"I mean, I only ask because this is a writers' group, you know. I just wondered when you were going to get down to the actual business of writing…"*  
+**Improbable Fiction**

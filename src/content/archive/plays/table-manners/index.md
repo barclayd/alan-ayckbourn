@@ -28,4 +28,8 @@ facts:
 
 **Availability**
 
+***The Norman Conquests* quote**  
+"Is that wrong of me? To want to see you happy?"  
+**The Norman Conquests**
+
 *The Norman Conquests section of the website is supported by Geofferson with the Table Manners pages supported by Valerie Stack Dodge.*

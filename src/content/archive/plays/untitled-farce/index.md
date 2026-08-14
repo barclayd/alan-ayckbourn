@@ -8,6 +8,7 @@ facts:
   World Premiere: "13 August 2005"
   World Premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Play Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A one act, unfinished farce written to celebrate the 50th anniversary of the founding of the Stephen Joseph Theatre, Scarborough."
   Premiere: "13 August 2005"
   Premiere Venue: "Stephen Joseph Theatre, Scarborough"
@@ -24,8 +25,6 @@ facts:
   Pamela: "Laura Doddington"
   Bodyguard: "Sam Taylor"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -49,3 +48,6 @@ The play is also an exceptionally rare foray into pure farce for the playwright 
 
 **Manuscripts (research & reference)**  
 An original manuscript for *Untitled Farce* is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.
+
+**Reference Books**  
+*Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)

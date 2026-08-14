@@ -12,6 +12,8 @@ facts:
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/1204/a-cut-in-the-rates/)"
   Other Media: "Television"
   Short Synopsis: "A tax inspector has an unexpected encounter with an illusionist and his assistant."
+  Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/1204/a-cut-in-the-rates/)."
+  Professional: "Not available for production."
 ---
 
 

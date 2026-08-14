@@ -10,7 +10,9 @@ order: 60
 
 <aside>
 
-![](./_images/stacks-image-3501902.jpg)
+![A man holding up a white T-shirt printed in red with "THEATRE IN THE ROUND SCARBOROUGH"](./_images/stacks-image-3501902.jpg)
+
+*Sir Peter Hall*
 
 ## Resources
 

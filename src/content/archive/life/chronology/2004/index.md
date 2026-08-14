@@ -24,7 +24,7 @@ During 2004, Alan Ayckbourn…
 
 ○ saw the second edition of *A Guided Tour Through Ayckbourn Country* by Albert-Reiner Glaap published.
 
-![](./_images/stacks-image-fe7f210.jpg)
+![Alan Ayckbourn leaning on a railing high above Scarborough, red pantile roofs below him and South Bay and the headland behind](./_images/stacks-image-fe7f210.jpg)
 
 *© Tony Bartholomew*
 
@@ -113,4 +113,7 @@ UK Tour
 *(2004)*
 
 "I do sometimes feel that Theatre has a bad habit of taking itself terribly seriously. I think it can say serious things, indeed it must, but a little humour really helps to say them."  
+*(2004)*
+
+"The sheer pleasure of it all inspires me. Not just the writing, but the casting and the rehearsing and the assembling of the whole piece right through to the first performances. I feel like a ship builder but one who not only draws up the blueprints but does a lot of the riveting, hand picks the crew and finally breaks the bottle of champagne. I then stand on the dockside and wave it off. I'm in a very privileged position."  
 *(2004)*

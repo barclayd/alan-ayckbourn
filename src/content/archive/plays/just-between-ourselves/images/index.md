@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Just Between Ourselves (1976)
 
-![](./_images/stacks-image-9f64aa9.jpg)
-
 ![](./_images/stacks-image-7d05751.jpg)
 
 Alan Ayckbourn's early notes for *Just Between Ourselves* reveal considerable differences with the final play. Here the notes indicate that it is not just Vera heading for a breakdown, but that Dennis is also struggling with mental issues too.
@@ -19,8 +17,6 @@ Alan Ayckbourn's early notes for *Just Between Ourselves* reveal considerable di
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-78c5130.jpg)
 
 ![](./_images/stacks-image-b4b8d88.jpg)
 
@@ -31,8 +27,6 @@ More of Alan Ayckbourn's early notes for *Just Between Ourselves* at which point
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-caa151d.jpg)
-
 ![](./_images/stacks-image-02c416d.jpg)
 
 The first sketch by Alan Ayckbourn of the set for *Just Between Ourselves* showing the garage and patio which features in the final play.
@@ -41,8 +35,6 @@ The first sketch by Alan Ayckbourn of the set for *Just Between Ourselves* showi
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-0b2d805.jpg)
 
 ![](./_images/stacks-image-9c4e376.jpg)
 
@@ -53,8 +45,6 @@ A more detailed sketch of the *Just Between Ourselves* set by Alan Ayckbourn for
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-38378a8.jpg)
-
 ![](./_images/stacks-image-fadc431.jpg)
 
 *Just Between Ourselves* was the first Alan Ayckbourn production to tour overseas from Theatre in the Round at the Library Theatre, Scarborough. This is a poster for its European left leg of the tour.
@@ -64,8 +54,6 @@ A more detailed sketch of the *Just Between Ourselves* set by Alan Ayckbourn for
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-ab7b958.jpg)
-
 ![](./_images/stacks-image-2418be4.jpg)
 
 A flyer for the 1977 West End premiere of *Just Between Ourselves* at the Queen's Theatre.
@@ -74,8 +62,6 @@ A flyer for the 1977 West End premiere of *Just Between Ourselves* at the Queen'
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-61cb344.jpg)
 
 ![](./_images/stacks-image-cf9c14f.jpg)
 
@@ -87,4 +73,4 @@ Alan Ayckbourn was due to revive *Just Between Ourselves* at the Stephen Joseph 
 *Do not reproduce images without permission of the copyright holder.*  
 *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

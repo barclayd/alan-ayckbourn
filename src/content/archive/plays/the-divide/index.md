@@ -10,6 +10,7 @@ facts:
   Publisher: "PS Publishing"
   Published: "12 September 2019"
   Short Synopsis: "Alan Ayckbourn's first fictional prose work and debut novel is a tragic love story set in a post-catastrophic England where the sexes are segregated by the Divide."
+  Note: "Although conceived as and written as a novel, *The Divide* has been adapted for the stage and details of this can be found on the [Staged Adaptations](/plays/the-divide/the-divide-edinburgh-international-festival) page."
 ---
 
 **Format: [Hardcover](http://www.pspublishing.co.uk/the-divide-hardcover-alan-ayckbourn-4900-p.asp)** (ISBN: 9781786364470)  

@@ -88,3 +88,6 @@ Greenwich Theatre, London
 
 "Here \[in Scarborough\] I am always reminded of the fact that it takes ten years to build up an audience, but only three minutes to lose it if you do the wrong thing."  
 *(Daily Mail, 15 November 1983)*
+
+"My plays are full of politics. But please Good they remain hidden. They certainly have no party politics. I hate all politicians equally and mistrust them. I have never voted for any of them."  
+*(1983)*

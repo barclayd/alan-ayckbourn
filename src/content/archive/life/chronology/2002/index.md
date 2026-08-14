@@ -114,3 +114,6 @@ UK tour
 
 "I feel society has to live by certain guidelines, but it's difficult to know where to look. Politicians tried preaching family values and were caught with their trousers round their ankles. And the church has been so busy being all things to everybody that it seems to have no views, though I've great hopes of the new Archbishop of Canterbury. In the end, I suppose I believe in loving your neighbour, respect for other people and the principle of the nuclear family. But I'm in an awful position as a writer, because I love it when things break up."  
 *(The Guardian, 4 September 2002)*
+
+"I'm a bit wary of influences. Most young writers would say they were influenced by Scrobadov, a rare Polish playwright who wrote one play and drowned himself, rather than an Establishment figure like me. But along with others, I suppose what I've done is to encourage the unresolved ending. I've also tried to mix the different elements of comedy and tragedy. What I've tried to do is bring these elements together, which is a bit like dancing on the edge of a razor blade."  
+*(The Guardian, 4 September 2002)*

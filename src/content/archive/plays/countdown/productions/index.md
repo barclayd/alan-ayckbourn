@@ -95,4 +95,4 @@ Resting Place (David Campton)
 The Figures Of Authority (George Melly)  
 *All research for this page by Simon Murgatroyd.*
 
-![](./_images/stacks-image-d9eb54c.jpg)
+![Red banner lettered in white, "The One-Act Plays supported by Brett Bayne"](./_images/stacks-image-d9eb54c.jpg)

@@ -16,5 +16,8 @@ facts:
   Professional: "Not currently available for professional production."
 ---
 
-**Availability**  
-**The Trial of Romeo Oscar**
+### The Trial of Romeo Oscar Upcoming Productions
+
+**◦ [Stephen Joseph Theatre](http://sjt.uk.com/events/the-trial-of-romeo-oscar/), Scarborough:** 4 September - 3 October 2026  
+**◦ [The Victoria Wood Theatre](http://victoriawoodtheatre.com/whats-on/the-trial-of-romeo-oscar/), Bowness-on-Windermere:** 13 - 17 October 2026  
+**◦ [The New Vic](http://www.newvictheatre.org.uk/productions/the-trial-of-romeo-oscar/), Newcastle-under-Lyme:** 21 - 31 October 2026

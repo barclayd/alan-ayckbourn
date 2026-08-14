@@ -84,3 +84,5 @@ When originally writing *Communicating Doors*, Alan Ayckbourn kept a note of wha
 
 **2014**  
 ○ At this point: Reece is 70, Jessica is (presumably) 65, Phoebe is 33.
+
+*\* Julian also comes back to 1994 from 2014, but slips on a bar of soap and is killed whilst attempting to murder Phoebe (Poopay). His body disappears shortly after his 1994 counterpart falls from the balcony as he obviously did not live until 2014 to come back through the communicating door.*

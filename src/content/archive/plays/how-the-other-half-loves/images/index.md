@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### How The Other Half Loves (1969)
 
-![](./_images/stacks-image-931f57f.jpg)
-
 ![](./_images/stacks-image-07bdfa6.jpg)
 
 A letter to the Arts Council from Ken Boden, manager of Scarborough's The Library Theatre, noting the planned 1969 summer season including an untitled play by Alan Ayckbourn, which he believes will be called *Silver Collection;* this had also been considered as a title for Alan's 1967 play *The Sparrow*. The play would be officially titled *How The Other Half Loves* in July.
@@ -19,8 +17,6 @@ A letter to the Arts Council from Ken Boden, manager of Scarborough's The Librar
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-4b6aeca.jpg)
 
 ![](./_images/stacks-image-e0a8493.jpg)
 
@@ -31,8 +27,6 @@ A report in The Stage newspaper, published on 3 July 1969, noting the new Ayckbo
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-5f7da07.jpg)
-
 ![](./_images/stacks-image-a5732ef.png)
 
 A letter to Alan Ayckbourn from his literary agent Margaret 'Peggy' Ramsay, dated 28 July 1969, offering congratulations on *How The Other Half Loves* and potential issues with the famed 'dinner-party scene'. Peter Bridge, referenced in the letter, had produced *Relatively Speaking* in the West End but had previously declined to produce plays he thought might be difficult to transfer - no matter their appeal.
@@ -41,8 +35,6 @@ A letter to Alan Ayckbourn from his literary agent Margaret 'Peggy' Ramsay, date
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-2d7e796.jpg)
 
 ![](./_images/stacks-image-cd7ecf9.jpg)
 
@@ -53,8 +45,6 @@ A cast list for the world premiere production of *How The Other Half Loves* at T
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-aee816a.png)
-
 ![](./_images/stacks-image-512a885.png)
 
 A letter from Alan Ayckbourn to the producer Peter Bridge reporting on progress of *How The Other Half Love*'s West End try-out in Leicester. Note how Alan says he is unhappy with the climax of the play and is still re-writing it.
@@ -63,8 +53,6 @@ A letter from Alan Ayckbourn to the producer Peter Bridge reporting on progress 
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-e4814d6.jpg)
 
 ![](./_images/stacks-image-bdeacb4.jpg)
 
@@ -75,8 +63,6 @@ A flyer for the pre-West End tour of *How The Other Half Loves* in 1969. Despite
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-22f3c44.jpg)
-
 ![](./_images/stacks-image-1a7b8a1.jpg)
 
 The Times newspaper report from 7 August 1970 reporting on how Alan Ayckbourn nearly missed the West End premiere of *How The Other Half Loves* due to rushing to complete his new play for Scarborough and the need to immediately return for rehearsals.
@@ -85,8 +71,6 @@ The Times newspaper report from 7 August 1970 reporting on how Alan Ayckbourn ne
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-69c3345.jpg)
 
 ![](./_images/stacks-image-1513973.jpg)
 
@@ -97,8 +81,6 @@ The cover for the Playbill for the Broadway premiere of *How The Other Half Love
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-fb55fda.jpg)
-
 ![](./_images/stacks-image-da981de.jpg)
 
 Al Hirschfeld's drawing of the cast of the Broadway production of *How The Other Half Loves* for the New York Times review in 1971.
@@ -107,8 +89,6 @@ Al Hirschfeld's drawing of the cast of the Broadway production of *How The Other
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-1d859a4.jpg)
 
 ![](./_images/stacks-image-e8f3f7f.jpg)
 
@@ -119,8 +99,6 @@ Programme details and image for the Actors' Company 1976 revival of *How The Oth
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-fd02ce0.png)
-
 ![](./_images/stacks-image-5a8b00e.png)
 
 A letter from Alan Ayckbourn to his agent Margaret 'Peggy' Ramsay from 12 January 1975. Within it, he rebuffs a request to adapt *How The Other How Loves* for television by Anglia TV, noting the play is not suitable for adaptation and also his desire not to re-associate the play with Robert Morley.
@@ -129,8 +107,6 @@ A letter from Alan Ayckbourn to his agent Margaret 'Peggy' Ramsay from 12 Januar
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-3b277c8.png)
 
 ![](./_images/stacks-image-dc58d87.png)
 
@@ -141,8 +117,6 @@ An interesting letter from Alan Ayckbourn, dated 6 June 1976, in which he offers
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-e9039a1.png)
-
 ![](./_images/stacks-image-01893f5.png)
 
 An extraordinary letter - and a gem in the Ayckbourn Archive - in which Alan's agent, Margaret 'Peggy' Ramsay responds on Alan's behalf to a request for a West Coast revival of *How The Other Half Loves* with two of the couples now same-sex with a chimpanzee somehow also in the mix. Easily one of the most usual requests for an Ayckbourn production ever!
@@ -151,8 +125,6 @@ An extraordinary letter - and a gem in the Ayckbourn Archive - in which Alan's a
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-20ef26b.jpg)
 
 ![](./_images/stacks-image-8f3101f.jpg)
 
@@ -163,8 +135,6 @@ The programme cover for Alan Strachan's 1988 revival of *How The Other Half Love
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-f4200ae.jpg)
-
 ![](./_images/stacks-image-63d107e.jpg)
 
 Aside from possibly vying for the most boring poster image for *How The Other Half Loves* ever produced, this is notably the cover of the programme which neglected to credit Alan Ayckbourn as author of the play anywhere aside from his biography! This is despite the fact Alan directed this production at his home theatre in Scarborough. It is fair to say the playwright was not impressed by the Communications Manager who approved this!
@@ -173,8 +143,6 @@ Aside from possibly vying for the most boring poster image for *How The Other Ha
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-9421dbf.jpg)
 
 ![](./_images/stacks-image-a04f2b2.jpg)
 
@@ -186,4 +154,4 @@ A poster for the 2016 West End revival of *How The Other Half Loves* - again dir
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images page is presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

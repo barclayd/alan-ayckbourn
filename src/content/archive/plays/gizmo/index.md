@@ -41,3 +41,7 @@ Set in the near future, it is about an amazing device which when fitted allows a
 **Research**  
 ◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
 ◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.
+
+**Articles**  
+**Alan Ayckbourn Plays At Seeing Double**  
+*Catherine Milner, Sunday Telegraph, 11 April 1999*

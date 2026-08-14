@@ -68,7 +68,9 @@ I suppose what I have got from my time at the National Theatre is the excitement
 
 *(This article was first published by the Sunday Telegraph on 21 February 1988).*
 
-![](./_images/stacks-image-c2a94f0.jpg)
+**Ayckbourn & The National**
+
+![Two men in conversation on a dimly lit stage, one seated in a dark suit, the other standing in a pale suit with his hand raised](./_images/stacks-image-c2a94f0.jpg)
 
 *Peter Hall & Alan Ayckbourn at the National Theatre in 1977.*  
 *© National Theatre*

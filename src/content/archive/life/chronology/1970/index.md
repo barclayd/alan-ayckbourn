@@ -12,7 +12,7 @@ order: 264
 
 <aside>
 
-![](./_images/stacks-image-28e3d5b.jpg)
+![Black-and-white photograph of Alan Ayckbourn in a suit standing inside a fairground cage wagon lettered "Ferocious Animals"](./_images/stacks-image-28e3d5b.jpg)
 
 </aside>
 
@@ -66,4 +66,7 @@ During 1970, Alan Ayckbourn…
 *(The Author, 1970)*
 
 "It's in the comparative peace and calm of the provinces that the bulk of serious new work has to be carried out. This is not to presume that theatres in smaller county towns haven't got their own problems but the advantage they do have, if they're doing anything like a worthwhile job, is a positive, sometimes very personal, relationship with their audience."  
+*(The Author, 1970)*
+
+"To adapt the saying slightly - playwrights may be born but they're also made. Their growth of talent is, to some extent, controlled by the treatment they receive from the medium they write for. It is an extraordinary and dedicated man who can, indefinitely, write for actors and improve, yet never hear his words spoken on a stage."  
 *(The Author, 1970)*

@@ -6,7 +6,9 @@ order: 243
 
 <aside>
 
-![](./_images/stacks-image-7378af4.jpg)
+![Black-and-white photograph of Stephen Joseph in shirtsleeves, sitting astride a bentwood chair against a brick wall](./_images/stacks-image-7378af4.jpg)
+
+*Stephen Joseph*
 
 </aside>
 

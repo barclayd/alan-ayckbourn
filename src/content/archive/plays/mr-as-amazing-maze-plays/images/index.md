@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Mr A's Amazing Maze Plays (1988)
 
-![](./_images/stacks-image-1c6fcf9.jpg)
-
 ![](./_images/stacks-image-de8e3d7.jpg)
 
 *Mr A's Amazing Plays* has a complex structure in which the path through Mr A's house is determined by the audience. This is the earliest surviving sketch by the playwright of the play's second act structure and all the options for moving through the house.
@@ -19,8 +17,6 @@ A collection of archive material, posters, rehearsal and production images perta
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-6315652.jpg)
 
 ![](./_images/stacks-image-fd55698.jpg)
 
@@ -31,8 +27,6 @@ A more refined sketch of the structure for *Mr A's Amazing Maze Plays* by Alan A
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-967c370.jpg)
-
 ![](./_images/stacks-image-840ea70.jpg)
 
 Surprisingly the world premiere production of *Mr A's Amazing Maze Plays* had neither a poster nor a programme. All that was produced was this sheet of A4 paper with basic details that was used by the audience to help indicate their choices when hands were raised during the course of the play.
@@ -42,8 +36,6 @@ Surprisingly the world premiere production of *Mr A's Amazing Maze Plays* had ne
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-495ca9c.jpg)
-
 ![](./_images/stacks-image-1399352.jpg)
 
 The London premiere of *Mr A's Amazing Maze Plays* is a little known production by Polka Theatre which took place in 1989. This is the programme cover for the production.
@@ -52,8 +44,6 @@ The London premiere of *Mr A's Amazing Maze Plays* is a little known production 
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-4135ea8.jpg)
 
 ![](./_images/stacks-image-e1147d2.jpg)
 
@@ -65,4 +55,4 @@ In 1993, the National Theatre revived *Mr A's Amazing Maze Plays* and commission
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

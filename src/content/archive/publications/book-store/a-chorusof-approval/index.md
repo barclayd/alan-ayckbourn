@@ -24,7 +24,7 @@ If you have any enquiries about *A Chorus of Approval* or are enquiring about in
 **Format:** Softcover, A4, glossy  
 **Publisher:** Stephen Joseph Theatre  
 **ISBN:** N/A  
-[![](./_images/stacks-image-e293e8e-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+[![Cover of A Chorus Of Approval: a caricature of Alan Ayckbourn in a T-shirt lettered with the title, standing beside a stack of his plays as high as his shoulder, each spine hand-written with a different title](./_images/stacks-image-e293e8e-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

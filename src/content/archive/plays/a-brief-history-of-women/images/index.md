@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### A Brief History of Women (2017)
 
-![](./_images/stacks-image-b264421.jpg)
-
 ![](./_images/stacks-image-3c4def3.jpg)
 
 Early notes by Alan Ayckbourn for *A Brief History of Women* breaking down characters names and roles in each scene. Note the lead character, Spates, is called Chatterton here.
@@ -19,8 +17,6 @@ Early notes by Alan Ayckbourn for *A Brief History of Women* breaking down chara
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-8ff2828.jpg)
 
 ![](./_images/stacks-image-7aed9f4.jpg)
 
@@ -31,8 +27,6 @@ More notes for *A Brief History of Women* by Alan Ayckbourn including cross-cast
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-6bb8572.jpg)
-
 ![](./_images/stacks-image-0c34a08.jpg)
 
 Alan Ayckbourn's sketch of the in-the-round layout of the set for the world premiere of *A Brief History of Women*. Set in the same location over 60 years, each of the four rooms had to be quickly changed for each scene as the house progressed from stately home to school to arts centre to hotel.
@@ -41,8 +35,6 @@ Alan Ayckbourn's sketch of the in-the-round layout of the set for the world prem
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-43c47ca.jpg)
 
 ![](./_images/stacks-image-63925c3.jpg)
 
@@ -53,8 +45,6 @@ The actual in-the-round set layout out for Scene 1 of *A Brief History of Women,
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-762983a.jpg)
-
 ![](./_images/stacks-image-0a847c8.jpg)
 
 Costume designs for the first scene of *A Brief History of Women*, designed by Kevin Jenkins. The first scene is set in a stately home in 1925.
@@ -63,8 +53,6 @@ Costume designs for the first scene of *A Brief History of Women*, designed by K
 **Holding:** The Bob Watson Archive
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-64d52bf.jpg)
 
 ![](./_images/stacks-image-1011959.jpg)
 
@@ -76,4 +64,4 @@ The poster for the North American premiere of *A Brief History of Women* at the 
 *Do not reproduce images without permission of the copyright holder.*  
 *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

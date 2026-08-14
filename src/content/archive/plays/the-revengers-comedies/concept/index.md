@@ -36,3 +36,5 @@ I think the feel of it is very English but the thing has a strange, slightly dar
 And, I suppose, dominating it all are the twin Revengers themselves - Henry and Imogen.
 
 Oh, and KAREN really does have this thing about fire. She is an arsonist. She terrifies one of her bosses at the office by feigning a fire alarm and getting him to jump off the roof. She sets fire to the country home (as mentioned) and there are rumours that she also burnt her parents to death in the summer house at the age of twelve!
+
+Perhaps the two figures, male and female, on Albert Bridge silhouetted by flames?

@@ -20,4 +20,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Communicating Doors* quote**  
+"I'm going to have to keep an eye on him for the remainder of his days. He's become a liability. Nothing like imminent death, is there, for bringing out a guilty conscience. Wouldn't you agree?"  
+**Communicating Doors**

@@ -12,7 +12,7 @@ order: 292
 
 <aside>
 
-![](./_images/stacks-image-261bdcb.jpg)
+![Alan Ayckbourn in a white suit and yellow shirt standing at a road junction outside the Stephen Joseph Theatre, its Theatre and Cinema signs above the corner entrance](./_images/stacks-image-261bdcb.jpg)
 
 *© To be confirmed*
 
@@ -126,3 +126,6 @@ Film: Release date TBC
 
 "I worked at the National Theatre for two years and swear some people didn't know they were in a theatre."  
 *(Daily Mail, 16 August 1998)*
+
+"Never do today what you can put off 'til tomorrow. Never believe your own publicity. Take your work seriously but never yourself."  
+*(1998)*

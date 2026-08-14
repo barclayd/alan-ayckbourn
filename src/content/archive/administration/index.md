@@ -17,6 +17,8 @@ Aside from a life-long interest in Alan Ayckbourn's work; my MA specialised in A
 **○ Where is the information for the website drawn from?**  
 The information is drawn from a number of sources (programmes, critical works, interviews with Alan Ayckbourn etc), predominantly held in the Digital Ayckbourn Archive (held by Simon Murgatroyd and Haydonning Ltd), the Ayckbourn Archive held at the University Of York and The Bob Watson Archive at the Stephen Joseph Theatre. Where possible it has been consistently cross-checked for accuracy.
 
+**○ Who holds copyright on the website / can I reproduce material from the website?**
+
 **○ How is it administered?**  
 The website is generally updated on a daily basis. The aim is to announce news as it happens, whilst continually improving the site and adding new material to it. The site currently stands at more than 4,000 pages of material relating to Alan Ayckbourn and the Stephen Joseph Theatre.
 

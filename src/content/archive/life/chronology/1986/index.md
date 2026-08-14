@@ -12,7 +12,7 @@ order: 280
 
 <aside>
 
-![](./_images/stacks-image-2a5a9b8.jpg)
+![Alan Ayckbourn leaning on a banister in front of a wall papered with posters for his plays — Absurd Person Singular, Time And Time Again, Bedroom Farce, Joking Apart, Just Between Ourselves, Table Manners — including sheets from the Scarborough Library Theatre, Amsterdam's Cultureel Centrum Amstelveen and Zurich's Theater 11](./_images/stacks-image-2a5a9b8.jpg)
 
 </aside>
 
@@ -156,4 +156,7 @@ Television: 24 December, BBC2
 *(Sydney Morning Herald, 14 September 1986)*
 
 "Some writers go out and look for a theme. I've never said: 'Right, now I'm going to write a very serious play about world shipping.' My characters just stagger in and start behaving."  
+*(Today, 9 November 1986)*
+
+"My great advantage as a dramatist is my greatest disadvantage as a human being: I have most of the faults of our race all in one person. I often catch myself behaving like my characters."  
 *(Today, 9 November 1986)*

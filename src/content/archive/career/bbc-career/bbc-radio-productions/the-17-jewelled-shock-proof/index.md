@@ -45,5 +45,5 @@ Trevor Holroyd
 ### Notes
 
 ○ *The 17 Jewelled Shockproof Swiss-Made Bomb* was a six-part serial with all the episodes directed by Alan Ayckbourn.  
-○ It was released in July 2022 as an audio **[download](http://www.penguin.co.uk/books/1447777/roy-clarke-classic-bbc-radio-thrillers/9781529196177.html)** by Penguin Random House alongside *The Events At Black Tor*.   [![](./_images/stacks-image-fd93bd4.jpg)](http://www.amazon.co.uk/Roy-Clarke-Classic-Radio-Thrillers/dp/B0B3S5G2ML/ref=sr_1_1/)  
+○ It was released in July 2022 as an audio **[download](http://www.penguin.co.uk/books/1447777/roy-clarke-classic-bbc-radio-thrillers/9781529196177.html)** by Penguin Random House alongside *The Events At Black Tor*.   [![Cover of the BBC audio release "Classic BBC Radio Thrillers": a figure in a trilby silhouetted against a lit doorway, lettered "Roy Clarke, directed by Alan Ayckbourn" above the titles "The Events At Black Tor" and "The 17-Jewelled Shockproof Swiss-Made Bomb"](./_images/stacks-image-fd93bd4.jpg)](http://www.amazon.co.uk/Roy-Clarke-Classic-Radio-Thrillers/dp/B0B3S5G2ML/ref=sr_1_1/)  
 *All research for this page by Simon Murgatroyd.*

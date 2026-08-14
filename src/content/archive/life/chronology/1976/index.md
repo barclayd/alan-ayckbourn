@@ -117,3 +117,5 @@ Television: 18 May, ITV
 
 "I get upset with people who think I am making an awful lot of money because if you live in this country you don't, you really don't. I'd be a lot richer living abroad, but I don't like abroad much."  
 *(Sunday Times, December 1976)*
+
+\[**Editor's note:** During much of the 1970s, the UK was working under Prime Minister Harold Wilson's 'progressive tax' system which featured a top rate of income tax at 83% with a 15% surcharge on 'un-earned income' resulting in a 98% tax rate for high earners.\]

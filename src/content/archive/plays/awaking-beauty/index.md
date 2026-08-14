@@ -16,4 +16,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***Awaking Beauty* quote**  
+"After a magical night filled with vigorous love, the blissful couple fell into a deep sleep and they both dreamt of living happily after."  
+**Awaking Beauty**

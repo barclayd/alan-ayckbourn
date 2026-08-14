@@ -22,6 +22,18 @@ During 1956, Alan Ayckbourn…
 
 <aside>
 
-![](./_images/stacks-image-49cdd67.jpg)
+![Studio portrait of Alan Ayckbourn as a teenager, in a cable-knit jumper and tie, head tilted and half smiling](./_images/stacks-image-49cdd67.jpg)
 
 </aside>
+
+### Professional Acting
+
+**○ *The Strong Are Lonely***  
+(Sentry)  
+Edinburgh Festival  
+**○ *The Corn Is Green***  
+(Unknown role)  
+Connaught Theatre, Worthing  
+**○ *It's A Wise Child***  
+(Unknown role)  
+Connaught Theatre, Worthing

@@ -32,7 +32,7 @@ The contents include…
 **Format:** Softcover, A5  
 **Publisher:** Lulu Books  
 **ISBN:** 9781291789201  
-[![](./_images/stacks-image-78e64d4-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+[![Cover of "A Theatrical Revolution: Stephen Joseph and the Creation of Theatre in the Round at the Library Theatre" by Simon Murgatroyd, from The Ayckbourn Collection, above a black-and-white photograph of the Library Theatre's banked seating surrounding an empty central stage](./_images/stacks-image-78e64d4-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

@@ -10,7 +10,7 @@ Next pa**[Next page \>\>\>](/life/chronology/2020)**
 
 <aside>
 
-![](./_images/stacks-image-8247565.jpg)
+![Alan Ayckbourn at a table with his hands folded, floor-to-ceiling bookshelves behind him](./_images/stacks-image-8247565.jpg)
 
 *© Tony Bartholomew*
 
@@ -107,3 +107,6 @@ Stephen Joseph Theatre, Scarborough
 
 "I grew up in theatre and I think I was born at a very lucky time if I wanted to be in theatre because the world smiled a lot more generously on the theatre. The Government formed things like the Arts Council which actually cared about theatre, not like it does these days."  
 *(Sky News, 23 April 2019)*
+
+“I think I write about humanity and the things we all do to each other."  
+*(Yorkshire Post, 19 July 2019)*

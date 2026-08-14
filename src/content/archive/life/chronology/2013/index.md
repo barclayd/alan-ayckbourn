@@ -105,3 +105,6 @@ UK tour
 
 "I was very lucky I grew up at the crossroads for English drama. So I absorbed a lot of the old-fashioned, well-made plays, and then came John Osborne and Harold Pinter, who was an enormous influence of me. I even acted in an early production of *The Birthday Party*, which he directed. He was an extraordinarily unique voice. So I’m influenced by the Chekhovs through to the Pinters really. I was blessed with a double upbringing."  
 *(Memeteria, 8 October 2013)*
+
+"I found at a depressingly early age as a writer that there is nothing original in drama. The minute you feel you have created something entirely new there is always some critic or member of the audience ready to step forward and point out that so-and-so wrote that exact story years before. There are no original ideas just as there are no original jokes. But there are still endless ways to retell stories however familiar. In your own unique way."  
+*(2013)*

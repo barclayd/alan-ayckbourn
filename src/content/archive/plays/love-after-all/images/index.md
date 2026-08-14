@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Love After All (1959)
 
-![](./_images/stacks-image-cb9d427.jpg)
-
 ![](./_images/stacks-image-782250c.jpg)
 
 The cover of the only surviving manuscript of *Love After All*, held in the Lord Chamberlain's Collection at the British Library.
@@ -19,8 +17,6 @@ The cover of the only surviving manuscript of *Love After All*, held in the Lord
 **Holding:** British Library
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-7afc5d4.jpg)
 
 ![](./_images/stacks-image-f2f263e.jpg)
 
@@ -31,8 +27,6 @@ Until 2007, only a single page of an original *Love After All* manuscript was be
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-4d50575.jpg)
-
 ![](./_images/stacks-image-f4f7367.jpg)
 
 An extract from a story in The Stage newspaper about Alan Ayckbourn attending the first night of his new play, *Love After All*.
@@ -41,8 +35,6 @@ An extract from a story in The Stage newspaper about Alan Ayckbourn attending th
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-c54c59b.jpg)
 
 ![](./_images/stacks-image-40b9be4.jpg)
 
@@ -54,5 +46,5 @@ The original programme for the world premiere of *Love After All* at Theatre in 
 *Do not reproduce images without permission of the copyright holder.*  
 *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)  
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)  
 *All images are copyright of the respective individual / organisation and should not be reproduced without permission.*

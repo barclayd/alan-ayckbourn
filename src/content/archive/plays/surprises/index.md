@@ -15,4 +15,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+***Surprises* quote**  
+"If you do happen to argue - and believe me, if you spend any time in a woman's company, you're both of you almost certainly bound to argue eventually - never ever try and win. On the rare occasion that you do win, you'll almost certainly live to regret it."  
+**Surprises**

@@ -23,4 +23,6 @@ During 1965, Alan Ayckbourn…
 ○ ***Meet My Father*** (retitled: *Relatively Speaking*)  
 8 July: Theatre in the Round at the Library Theatre, Scarborough
 
-![](./_images/stacks-image-84b2e39.jpg)
+![Black-and-white production photograph: an actor flings sheets of paper into the air, caught blurred mid-flight, while a man holds an open case at the left and a woman watches from the right](./_images/stacks-image-84b2e39.jpg)
+
+*A scene from the world premiere of Meet My Father*

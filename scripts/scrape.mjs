@@ -26,6 +26,60 @@ const REPORT = join(ROOT, 'scraped/report.json');
 const DELAY_MS = 200;
 const DOMAIN = 'alanayckbourn.net';
 
+/**
+ * What each image shows, keyed by the file name it lands under in `_images/`.
+ * Written by looking at the images, because for these there is no other honest
+ * source: every original alt is `Stacks Image 1234`, and no `title` or
+ * `longdesc` anywhere in the archive says what the photograph shows.
+ *
+ * The names are content hashes RapidWeaver assigns, so one entry covers every
+ * page that reproduces the same image. A name absent from here renders `alt=""`
+ * — correct for the site's chrome and for anything the archive captions itself
+ * (see `hasCaption`), and `imagesWithoutAlt` names whatever else is waiting.
+ */
+const ALT = JSON.parse(
+  await readFile(new URL('./alt.json', import.meta.url), 'utf8'),
+);
+
+/** `[` and `]` end the alt text in `![...](src)`; nothing else in it is special. */
+const altFor = (src) =>
+  (ALT[src.slice(src.lastIndexOf('/') + 1)] ?? '').replace(
+    /([[\]\\])/g,
+    '\\$1',
+  );
+
+/**
+ * A caption that only credits the photographer says nothing about what the
+ * photograph shows, so the image is still undescribed. The chronology pages set
+ * 18 of these, and `plays/taking-steps/staging` numbers five of them.
+ */
+const CREDIT_ONLY =
+  /^(?:\(?\d+\)\s*)?(?:image\s+)?(?:©|copyright\b|all research\b)/i;
+
+/**
+ * The archive captions a photograph by setting an italic paragraph directly
+ * under it — `*Michael Gambon in A Small Family Business.*` — which is where
+ * `Lightbox.astro` already reads the caption from. That is the same case as the
+ * expose descriptions: an image described by the text beside it takes `alt=""`,
+ * because repeating the caption into the alt only reads it out twice.
+ *
+ * Checked against the finished markdown rather than the source DOM, so a
+ * caption the block filtering dropped cannot be claimed as a description.
+ */
+const hasCaption = (body, name) => {
+  const lines = body.split('\n');
+  const at = lines.findIndex((line) => line.includes(name));
+  const next =
+    lines
+      .slice(at + 1)
+      .find((line) => line.trim())
+      ?.trim() ?? '';
+  return (
+    /^\*[^*].*\*/.test(next) &&
+    !CREDIT_ONLY.test(next.replaceAll('*', '').trim())
+  );
+};
+
 // Subdomains that are sections of the main site rather than plays.
 const SECTION_SITES = {
   biography: 'life',
@@ -390,6 +444,32 @@ function clean($) {
     .find('script, style, noscript, .contentSpacer, .clear, .clearer')
     .remove();
   content.find(NAV_STACKS).remove();
+  /*
+   * The archive-image galleries are built from Joe Workman's Expose stack: a
+   * thumbnail in `.expose_launcher`, and beside it a hidden `.expose_lightbox`
+   * holding the same document full size with the archive's own description of
+   * it. Flattened, both images print, so all 61 gallery pages showed every
+   * letter, poster and programme page twice — once at thumbnail size and once
+   * full size, with nothing to say which was which.
+   *
+   * The thumbnail is the one to drop. All 307 stacks hold exactly one image
+   * either side and never the same file, so the lightbox copy is the larger
+   * scan, it sits with the description that names it, and it is the one worth
+   * offering for a closer look.
+   */
+  content.find('.expose_launcher').remove();
+  /* The description travels with the image out of the lightbox and prints
+     directly under it, which is what makes `alt=""` the right answer for these
+     307: an image described by the text beside it takes a null alt, and
+     repeating the description into the alt would only read it out twice. Marked
+     so the review list can tell them from the images nobody has described. */
+  content.find('.expose_lightbox img').attr('data-described', '');
+
+  /* `resources/Arrow_Up.jpg` and `Arrow_Down.jpg` are the RapidWeaver theme's
+     scroll arrows for a sidebar button list. The buttons themselves are
+     navigation and already gone, so the arrows were left pointing at nothing
+     under a "Click on a button" label — furniture, not content. */
+  content.find('img[src*="resources/Arrow_"]').remove();
 
   /*
    * A div is a block, so the flattening at the end of this function has to leave
@@ -711,8 +791,8 @@ function inlineNode($, n, links) {
         .join('');
     }
     case 'img': {
-      const src = links.image($(n).attr('src'));
-      return src ? `![](${src})` : '';
+      const src = links.image(n);
+      return src ? `![${altFor(src)}](${src})` : '';
     }
     default:
       return inlineMd($, n, links);
@@ -819,7 +899,7 @@ function blocksOf($, root, links) {
       }
     } else if (tag === 'img') {
       flush();
-      const src = links.image($(node).attr('src'));
+      const src = links.image(node);
       if (src) {
         blocks.push({ type: 'img', src });
       }
@@ -846,22 +926,36 @@ function blocksOf($, root, links) {
   return blocks;
 }
 
-const linkText = (block) =>
-  (block.text.match(/\[[^\]]*\]\([^)]*\)/g) || [])
-    .join('')
-    .replace(/\([^)]*\)/g, '').length;
+/*
+ * An image counts towards the ratio below — a row of thumbnails linking to
+ * plays is navigation whether or not it has words in it — but the alt text of
+ * one does not. Measured with the descriptions in, the ten poster thumbnails on
+ * the National Theatre page read as 95% link the moment they were described,
+ * and the row was dropped as navigation. Describing an image cannot be allowed
+ * to decide whether the block survives, so the alt comes out and the image
+ * stays: the verdict is the one the archive's own markup earns.
+ */
+const bareAlts = (text) => text.replace(/!\[[^\]]*\]\(/g, '![](');
+
+const linkText = (text) =>
+  (text.match(/\[[^\]]*\]\([^)]*\)/g) || []).join('').replace(/\([^)]*\)/g, '')
+    .length;
 
 /**
  * A paragraph that is almost entirely links is the old sibling-nav, not prose —
  * unless it is a zipped data sheet, where every value being a link to the play
  * or the venue it names is the sheet doing its job.
  */
-const isNavBlock = (block) =>
-  block.type === 'p' &&
-  !block.sheet &&
-  (block.text.match(/\]\(/g) || []).length >= 2 &&
-  linkText(block) / Math.max(block.text.replace(/\([^)]*\)/g, '').length, 1) >
-    0.6;
+const isNavBlock = (block) => {
+  if (block.type !== 'p' || block.sheet) {
+    return false;
+  }
+  const text = bareAlts(block.text);
+  return (
+    (text.match(/\]\(/g) || []).length >= 2 &&
+    linkText(text) / Math.max(text.replace(/\([^)]*\)/g, '').length, 1) > 0.6
+  );
+};
 
 /**
  * The Simon Murgatroyd research credit and the Haydonning copyright notice are
@@ -889,13 +983,29 @@ const OLD_CHROME =
 const plain = (s) => s.replace(/[\\*]/g, '').replace(/\s+/g, ' ').trim();
 
 /**
- * A heading, or a paragraph that is nothing but a bold run — the pull-out boxes
- * title themselves either way. Neither counts as the box's content, so a box
- * left holding only these once its navigation is stripped is an empty box.
+ * A heading, or a paragraph of nothing but bold runs — the pull-out boxes title
+ * themselves either way. Neither counts as the box's content, so a box left
+ * holding only these once its navigation is stripped is an empty box.
+ *
+ * Every line, not just a single run: the chronology's sidebar is titled
+ * `**In-Depth**` over `**Click on a button**` in one paragraph, and read as
+ * content that box outlived the buttons it was talking about.
  */
-const isLabel = (block) =>
-  block.type === 'h' ||
-  (block.type === 'p' && /^\*\*[^*]+\*\*$/.test(block.text.trim()));
+const isLabel = (block) => {
+  if (block.type === 'h') {
+    return true;
+  }
+  if (block.type !== 'p') {
+    return false;
+  }
+  const lines = block.text
+    .split('\n')
+    .map((line) => line.trim())
+    .filter(Boolean);
+  return (
+    lines.length > 0 && lines.every((line) => /^\*\*[^*]+\*\*$/.test(line))
+  );
+};
 
 /**
  * A label that labels nothing. The original site titled its navigation lists
@@ -938,7 +1048,7 @@ function dropNavBlocks(blocks, title) {
   const kept = [];
   let dropped = 0;
   let credits = 0;
-  for (const block of blocks) {
+  for (let block of blocks) {
     // The page's own <h1> becomes the template heading; don't repeat it in the body.
     if (
       kept.length === 0 &&
@@ -947,13 +1057,26 @@ function dropNavBlocks(blocks, title) {
     ) {
       continue;
     }
-    if (
-      block.type === 'p' &&
-      (BOILERPLATE.test(block.text) ||
-        OLD_CHROME.test(plain(block.text).trim()))
-    ) {
-      credits++;
-      continue;
+    /*
+     * A paragraph is a `<br>`-separated run of lines, and the archive sometimes
+     * glues the footer credit onto the end of one: `father-of-invention` closes
+     * its data sheet, its play title and the Grey Plays note in the very
+     * paragraph that carries the copyright notice. Tested whole, the block took
+     * all of that with it — two facts and a paragraph of real prose — so the
+     * notice is matched line by line and only the notice leaves.
+     */
+    if (block.type === 'p') {
+      const lines = block.text
+        .split('  \n')
+        .filter(
+          (line) =>
+            !BOILERPLATE.test(line) && !OLD_CHROME.test(plain(line).trim()),
+        );
+      if (lines.length === 0) {
+        credits++;
+        continue;
+      }
+      block = { ...block, text: lines.join('  \n') };
     }
     if (isNavBlock(block)) {
       dropped++;
@@ -1011,7 +1134,7 @@ function render(blocks, depth = 0) {
         return `${'#'.repeat(Math.min(b.level + 1, 6))} ${b.text}`;
       }
       if (b.type === 'img') {
-        return `![](${b.src})`;
+        return `![${altFor(b.src)}](${b.src})`;
       }
       if (b.type === 'list') {
         return b.items
@@ -1036,7 +1159,10 @@ function render(blocks, depth = 0) {
  * `**World Premiere:** 26 June 1972` lines are data, not prose. The label must
  * be a plain bold run — anything with nested emphasis is a sentence, not a key.
  */
-const FACT_LINE = /^\*\*([A-Z][A-Za-z' ]{1,30}?):?\*\*:?\s*(.+)$/;
+/* The slash is in the key charset because 24 data sheets ask the question two
+   ways at once — `**Published / Available to Stage:** No` — and without it those
+   lines were the one row of the sheet left standing in the prose. */
+const FACT_LINE = /^\*\*([A-Z][A-Za-z'/ ]{1,30}?):?\*\*:?\s*(.+)$/;
 
 function extractFacts(blocks) {
   const facts = {};
@@ -1463,11 +1589,8 @@ async function run() {
     untitled: [],
     emptyPages: [],
     unresolvedLinks: [],
-    /* The review list the plan promised, not just a tally: every original alt is
-       "Stacks Image 1234", and nothing in the markup says what the photograph
-       shows. Describing them is Simon's call, not the scraper's — inventing a
-       caption for an archival production still would state something about the
-       archive that nobody checked. Listed by page so they can be worked through. */
+    /* The images `alt.json` does not describe yet, by page, so the remainder can
+       be worked through rather than counted. */
     imagesWithoutAlt: [],
     failures,
   };
@@ -1521,7 +1644,9 @@ async function run() {
       }
       return to || target;
     };
-    links.image = (src) => {
+    // Takes the element, not its src: `data-described` decides the review list.
+    links.image = (node) => {
+      const src = $(node).attr('src');
       // The original publishes a handful of `src="(null)"` images. Drop them.
       if (!src || src.includes('(null)')) {
         return '';
@@ -1544,7 +1669,11 @@ async function run() {
             ? `${base.slice(0, dot)}-${n}${base.slice(dot)}`
             : `${base}-${n}`;
       }
-      pending.push({ abs, name });
+      pending.push({
+        abs,
+        name,
+        described: $(node).attr('data-described') !== undefined,
+      });
       return `./_images/${name}`;
     };
 
@@ -1616,13 +1745,31 @@ async function run() {
       continue;
     }
 
-    for (const { abs, name } of pending) {
+    /*
+     * `pending` is everything the page referenced while it was being read, and
+     * the reading happens before the blocks are filtered: 177 of 858 images
+     * belonged to a nav strip, a heading labelling nothing, or a data sheet
+     * lifted into frontmatter, and were written to disk for markdown that no
+     * longer mentions them. Matching against the finished page is the check
+     * that cannot drift — the poster too, which the body deliberately omits.
+     */
+    const kept = pending.filter(
+      ({ name }) => body.includes(name) || poster?.includes(name),
+    );
+    for (const { abs, name, described } of kept) {
       try {
         const bytes = await fetchCached(abs, { binary: true });
         await mkdir(join(dir, '_images'), { recursive: true });
         await writeFile(join(dir, '_images', name), bytes);
         report.images++;
-        report.imagesWithoutAlt.push(`${route || '.'}/${name}`);
+        /* The poster is the one image the templates describe themselves — the
+           play card and the play hero both set `Poster artwork for <title>`,
+           with the title printed beside it either way. Already answered for, so
+           it is not waiting on anyone. */
+        const isPoster = Boolean(poster?.includes(name));
+        if (!ALT[name] && !described && !isPoster && !hasCaption(body, name)) {
+          report.imagesWithoutAlt.push(`${route || '.'}/${name}`);
+        }
       } catch (err) {
         failures.push({ url: abs, error: err.message });
       }
@@ -1671,7 +1818,7 @@ async function run() {
   console.log(
     [
       `written:        ${report.written} pages`,
-      `images:         ${report.images} (${report.imagesWithoutAlt.length} awaiting alt text)`,
+      `images:         ${report.images} (${report.imagesWithoutAlt.length} still awaiting alt text)`,
       `files:          ${report.files} documents`,
       `nav dropped:    ${report.navBlocksDropped} blocks`,
       `untitled:       ${report.untitled.length}`,
@@ -1705,7 +1852,9 @@ export {
   brLines,
   clean,
   dropEmptyLabels,
+  dropNavBlocks,
   extractFacts,
+  hasCaption,
   isLabel,
   isPage,
   normalise,

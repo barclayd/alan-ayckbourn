@@ -12,6 +12,7 @@ facts:
   London Premiere Venue: "Lyttelton Buffet, National Theatre"
   Description: "Revue"
   Composer: "Paul Todd"
+  Published / Available to Stage: "No"
   World premiere: "22 May 1986"
   Final performance: "11 September 1986"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
@@ -32,8 +33,6 @@ facts:
   Sound: "Rob Barnard"
   Synthisiser: "Paul Todd"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -84,3 +83,8 @@ It was revived by Alan Ayckbourn at the **[National Theatre](/career/national-th
 **Reviews (world premiere)**  
 *Mere Soup Songs Recipe For Success* (Scarborough Evening News, 23 May 1986)  
 *Mere Soup Songs* (David Jeffels, The Stage, 19 June 1986)
+
+**Reviews (London premiere)**  
+*There's A Lie In My Soup* (Stephen Games, The Independent, 15 December 1986)  
+*Mere Soup Songs* (The Times, 15 December 1986)  
+*Mere Soup Songs* (What's On, 22 January 1987)

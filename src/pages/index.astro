@@ -1,8 +1,12 @@
 ---
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
+/* Kept in `src/assets` rather than imported out of `src/content/archive`: the
+   archive reproduces this banner on six pages, and which copies a scrape writes
+   depends on which pages survive block filtering. A hand-written page owns the
+   image it points at. */
+import onStage from '@/assets/on-stage-banner.png';
 import PlayCard from '@/components/PlayCard.astro';
-import onStage from '@/content/archive/life/_images/stacks-image-19d2a2b-1200x262.png';
 import Base from '@/layouts/Base.astro';
 
 /* Only the play landing pages — `plays/woman-in-mind`, not its sub-sections. */

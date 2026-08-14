@@ -31,4 +31,4 @@ This section offers an in-depth look at Alan Ayckbourn's many careers within pro
 ### Alan Ayckbourn: Life & Biography
 
 For a in-depth exploration of Alan Ayckbourn's life including biographies and a year-by-year guide to significant events, visit the [Life](/life) section of the website.  
-[![](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)
+[![How The Other Half Loves, a play by Alan Ayckbourn, at The Old Vic, 29 July to 19 September 2026](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)

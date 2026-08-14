@@ -11,7 +11,7 @@ It would be unlikely such an advert would appear in the media today as attribute
 
 <aside>
 
-![](./_images/stacks-image-fbe66b5.jpg)
+![Newspaper advertisement of press quotes for the film of A Chorus Of Disapproval, headed "A WINNER COMES ROMPING HOME" (Shaun Usher, Daily Mail) and "AYCKBOURN'S WINNER IS NO LOSER", with further quotes credited to the Sunday Times, Sunday Correspondent, Daily Express, Film 89, Sunday Express, Daily Mirror, LBC, The Independent, The Observer, Woman's Journal, The Listener, Financial Times, The Times and Punch](./_images/stacks-image-fbe66b5.jpg)
 
 </aside>
 

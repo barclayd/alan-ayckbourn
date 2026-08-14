@@ -10,6 +10,7 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Description: "Revue"
   Composer: "Denis King"
+  Published / Available to Stage: "No"
   First performance: "18 December 1998"
   World premiere: "21 December 1998"
   Final performance: "30 January 1999"
@@ -31,8 +32,6 @@ facts:
   Deputy Stage Manager: "Fleur Linden Beeley"
   Assistant Stage Manager: "Sara Wells"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -56,3 +55,9 @@ Apparently several members of the audience were expecting a real variety show an
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)  
 *Denis King: Key Changes - A Musical Memoir* (pp.261-268, Ledgewood Press, 2015, ISBN 9781508578017)
+
+**Reviews**  
+*Reg Reigns Over State Of Chaos* (Simon Murgatroyd, Scarborough Evening News, 22 December 1998)  
+*Cheap And Cheerful* (David Jeffels, The Stage, 7 January 1998)  
+*Cheap And Cheerful* (Charles Hutchinson, Yorkshire Evening Press, 22 December 1998)  
+*For Better And For Worse* (Lynda Murdin, Yorkshire Post, 23 December 1998)

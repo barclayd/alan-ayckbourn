@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Mr Whatnot (1963)
 
-![](./_images/stacks-image-41846eb.jpg)
-
 ![](./_images/stacks-image-4e2183f.jpg)
 
 The programme cover for the world premiere of *Mr Whatnot* at the Victoria Theatre, Stoke-on-Trent, in 1963.
@@ -19,8 +17,6 @@ The programme cover for the world premiere of *Mr Whatnot* at the Victoria Theat
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-518106f.jpg)
 
 ![](./_images/stacks-image-3c214ef.jpg)
 
@@ -31,8 +27,6 @@ The Times announcement that *Mr Whatnot* had been optioned for the West End by P
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-87e06b6.jpg)
-
 ![](./_images/stacks-image-c07d0f4.jpg)
 
 A flyer for the West End premiere of *Mr Whatnot* at the New Arts Theatre in 1964.
@@ -41,8 +35,6 @@ A flyer for the West End premiere of *Mr Whatnot* at the New Arts Theatre in 196
 **Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-3625584.jpg)
 
 ![](./_images/stacks-image-63aea1e.jpg)
 
@@ -54,4 +46,4 @@ Ronnie Barker's first night telegram to Alan Ayckbourn for the opening of *Mr Wh
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images page is presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

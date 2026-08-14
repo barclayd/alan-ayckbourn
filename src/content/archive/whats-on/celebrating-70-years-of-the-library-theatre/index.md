@@ -4,17 +4,17 @@ source: "http://www.alanayckbourn.net/styled/page-30/"
 order: 20
 ---
 
-![](./_images/stacks-image-45e4082.jpg)
+![Black and white portrait of a dark-haired young man in a white T-shirt, seated against a plain wall](./_images/stacks-image-45e4082.jpg)
 
-![](./_images/stacks-image-5a0823d.jpg)
+![Theatre in the round set up inside a panelled library hall: banks of raked seating on all four sides of a small central stage dressed with a table and chairs](./_images/stacks-image-5a0823d.jpg)
 
-![](./_images/stacks-image-c1e752d.png)
+![Two actors in seventeenth-century costume with plumed hats and brocade coats, on a round stage](./_images/stacks-image-c1e752d.png)
 
-![](./_images/stacks-image-c68651f.png)
+![A young man in shorts sits on the floor of a kitchen set beside a table holding a tea urn, while two other actors talk behind him](./_images/stacks-image-c68651f.png)
 
-![](./_images/stacks-image-e5580fc.jpg)
+![Three people on open moorland: a man in a dark jumper points into the distance while a woman in a pale period dress and a dark-haired man crouch beside him](./_images/stacks-image-e5580fc.jpg)
 
-![](./_images/stacks-image-d503074.png)
+![A man seated on a small chair holds out flowers to a woman standing over him in a pale summer dress and gloves](./_images/stacks-image-d503074.png)
 
 Celebrating 70 Years of  
 Theatre in the Round at the Library Theatre
@@ -52,14 +52,14 @@ It is supported by Haydonning Ltd and **[www.a-round-town.com](http://www.a-roun
 
 If you have an enquiry about the exhibition, please contact Simon Murgatroyd at: **[admin@alanayckbourn.net](mailto:admin@alanayckbourn.net)**.
 
-![](./_images/stacks-image-b2e7eb3.png)
+![A man fixes a placard reading "Just Between Ourselves" to a theatre sign board, under the words "The Round" and above "Tonight 7.45"](./_images/stacks-image-b2e7eb3.png)
 
-![](./_images/stacks-image-f3662de.jpg)
+![Street view of Scarborough Library, a stone civic building, with a 1930s car parked outside and pedestrians passing](./_images/stacks-image-f3662de.jpg)
 
-![](./_images/stacks-image-1c5c789.jpg)
+![An actor in a patterned dressing gown holds a large vacuum flask in one hand and a telephone receiver in the other, surrounded by scattered papers](./_images/stacks-image-1c5c789.jpg)
 
-![](./_images/stacks-image-06cd7b3.png)
+![Two actors on a round stage: one in a checked suit and hat reaches up towards the other, who stands on a table wrapped in a tartan blanket](./_images/stacks-image-06cd7b3.png)
 
-![](./_images/stacks-image-8f751e6.jpg)
+![A bespectacled man in a leather jacket and cardigan gestures as he speaks at a microphone](./_images/stacks-image-8f751e6.jpg)
 
-![](./_images/stacks-image-efe199d.jpg)
+![A bespectacled man stands on a chair in swimming trunks while a woman in a dark dress sits on the floor in front of him beside a telephone](./_images/stacks-image-efe199d.jpg)

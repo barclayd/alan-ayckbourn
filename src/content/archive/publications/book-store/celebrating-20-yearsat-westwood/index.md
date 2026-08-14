@@ -24,7 +24,7 @@ If you have any enquiries about *Celebrating 20 Years at Westwood* or are enquir
 **Format:** Softcover, A4  
 **Publisher:** Stephen Joseph Theatre in the Round  
 **ISBN:** N/A  
-[![](./_images/stacks-image-1676685-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+[![Cover of "Celebrating 20 Years At Westwood", the title over a large "76-96" and a small photograph of the Westwood building, printed on a background listing every production of those twenty years in fine script](./_images/stacks-image-1676685-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
+**Availability**
 
+***Things We Do For Love* quote**  
+"No, we all have a choice. Live alone or compromise. Take your pick. You want to compromise, that's your choice."  
+**Things We Do For Love**

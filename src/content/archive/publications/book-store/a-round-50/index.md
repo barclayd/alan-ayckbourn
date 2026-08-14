@@ -24,7 +24,7 @@ If you have any enquiries about *A Round 50* or are enquiring about internationa
 **Format:** Softcover, A4, glossy  
 **Publisher:** Stephen Joseph Theatre  
 **ISBN:** N/A  
-[![](./_images/stacks-image-98e0bbc-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+[![Cover of "A Round 50", the title curving over a ring made of dozens of production photographs in red duotone, with the Stephen Joseph Theatre 50th anniversary logo beneath](./_images/stacks-image-98e0bbc-300x424.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

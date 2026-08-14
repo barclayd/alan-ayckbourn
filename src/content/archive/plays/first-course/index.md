@@ -10,6 +10,7 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "Revue"
   Composer: "Paul Todd"
+  Published / Available to Stage: "No"
   World premiere: "8 July 1980"
   Final performance: "2 September 1980"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
@@ -19,8 +20,6 @@ facts:
   Piano: "Paul Todd"
   Stage Manager: "Amanda Saunders"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -54,3 +53,7 @@ Marcia Warren
 ### Further Reading
 
 *First Course* has not been published.
+
+**Research**  
+◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
+◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.

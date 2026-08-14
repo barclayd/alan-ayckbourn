@@ -142,3 +142,6 @@ I"'m a great lover of the Web, but I never go on things like Twitter and Faceboo
 
 "When you start writing, you can’t read or watch enough. All you can teach is theory and I remember David Edgar invited me to Birmingham to talk about playwriting, which I did for an hour and at the end of it there was a long pause and this woman looked at me and said: 'You make it sound extremely difficult.' I said 'Well, it is.' She said: 'Well, you’re making it sound more difficult than it really is, I’m sure.' I think everyone has a play in them. But writing is difficult. It’s easy enough to write, it’s more difficult to write successfully."  
 *(2010)*
+
+"Reviving shows is like looking at a snapshot of yourself. I’m not the same dramatist now as I was when I wrote *Relatively Speaking*. There are very few similarities between what I was writing then and now in terms of construction. I’m the same writer but I’ve moved on. I think it’s like not seeing someone who you knew many years ago as a child and then you see them again in five years and you see the difference in them. You suddenly see a snapshot of yourself , of your life and of your attitude to writing, which is so dramatically different and that is fascinating and also fun."  
+*(2010)*

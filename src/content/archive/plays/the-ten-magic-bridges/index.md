@@ -9,6 +9,7 @@ facts:
   World Premiere: "5 July 2003"
   World Premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Description: "Play for children / young people"
+  Published / Available to Stage: "No"
   Short Synopsis: "A young Princess is lost and must cross ten magic bridges to return home - but can only achieve this with the help of Clever Cat and her friends in the audience."
   World premiere: "5 July 2003"
   World premiere Venue: "Stephen Joseph Theatre, Scarborough"
@@ -19,8 +20,6 @@ facts:
   The Princess: "Sarah Moyle"
   Puppeteer: "Lee Threadgold"
 ---
-
-**Published / Available to Stage:** No
 
 ### History
 
@@ -43,3 +42,7 @@ Other roles plays by members of the SJT company
 ### Further Reading
 
 *The Ten Magic Bridges* has not been published.
+
+**Research**  
+◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
+◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.

@@ -9,6 +9,7 @@ facts:
   World Premiere: "23 April 1992"
   World Premiere Venue: "Etcetera Theatre Club, Wimbledon"
   Play Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A musical revue written by the composer Paul Todd (with lyrics by Alan Ayckbourn) based around a relationship between two actors."
   Songs: "(lyrics by Alan Ayckbourn)"
   World premiere: "23 April 1992"
@@ -23,8 +24,6 @@ facts:
   Stephen: "Stefan Bednarcyzk"
   Roger: "Simon Green"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -85,3 +84,6 @@ An original manuscript for *Between The Lines* is held in the Ayckbourn Archive 
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
+
+**Reviews**  
+*Between The Lines* (Peter Roberts, The Stage, 14 May 1992)

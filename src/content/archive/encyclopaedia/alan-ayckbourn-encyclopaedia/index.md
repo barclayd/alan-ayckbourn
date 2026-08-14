@@ -10,4 +10,4 @@ The **Encyclopaedia** is an alphabetical and date-related tour of Alan Ayckbourn
 
 *Original research for the The Alan Ayckbourn Encyclopaedia section is by Simon Murgatroyd and copyright of the author.*
 
-![](./_images/stacks-image-78fad8f.jpg)
+![A strip of twelve black-and-white portraits of Alan Ayckbourn across his life, from a young actor with a clarinet, a guitar and monkey-mask make-up, through the doorway of the Library Theatre under a "THE ROUND" sign, to old age](./_images/stacks-image-78fad8f.jpg)

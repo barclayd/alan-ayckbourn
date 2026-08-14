@@ -53,3 +53,5 @@ However, Alan believes this second version of the play was far less successful a
 Unfortunately, no known manuscripts from the second production are known to have survived, making it difficult to ascertain how substantially the play was changed. Our knowledge of the play is also restricted by the fact that the single copy of the original manuscript held by the British Library is pre-performance and does not include any alterations or notes that came during the rehearsal and performance process.
 
 Like *The Square Cat*, Alan has never allowed *Love After All* to be published or produced since 1960, saying it belongs to a period of his writing when he was still learning his craft. Although he has twice given permission for short extracts to be performed (once under his own direction at an anniversary event at the Stephen Joseph Theatre in 2017), his desire is that *Love After All* will never be produced again.
+
+For those wishing to research *Love After All*, the only surviving original manuscript is held by the British Library.

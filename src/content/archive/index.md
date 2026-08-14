@@ -15,4 +15,4 @@ The website is administered by the playwright's archivist **[Simon Murgatroyd](h
 *"Ayckbourn is quintessentially a man of the theatre, and Simon Murgatroyd's*  
 *achievement has been to celebrate and annotate that for posterity." (The Stage)*
 
-![](./_images/stacks-image-7278436.jpg)
+![A strip of twelve black-and-white portraits of Alan Ayckbourn across his life, from a young actor with a clarinet, a guitar and monkey-mask make-up, through the doorway of the Library Theatre under a "THE ROUND" sign, to old age](./_images/stacks-image-7278436.jpg)

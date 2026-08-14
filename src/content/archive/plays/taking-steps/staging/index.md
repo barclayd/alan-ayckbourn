@@ -38,24 +38,24 @@ Sadly, no images or plans are held in archive of this production, but it did all
 *"This enormous rake that we had was quite difficult. It was like walking up the south face of the Eiger. It was very steep, but nonetheless people got used to it. It allowed us to share the joke with the audience and have the stair rods and I have never seen it so satisfactorily \[in the end-stage\] without the rake.”*  
 *Alan Ayckbourn*
 
-![](./_images/stacks-image-869157c-280x282.jpg)
+![Pencil sketch on lined paper: a floor plan of the house drawn as one square, labelled master bed, bathroom floor, study/office, front door and stairs up to the first floor](./_images/stacks-image-869157c-280x282.jpg)
 
 *(1) Copyright: Alan Ayckbourn*
 
-![](./_images/stacks-image-96fd491-280x270.jpg)
+![Pencil floor plan with all three storeys overlaid in one square, labelled attic doorway, double bed, table and stool, hall and front door, with arrows marking the way to the attic and to the study](./_images/stacks-image-96fd491-280x270.jpg)
 
 *(2) Copyright: Alan Ayckbourn*
 
-![](./_images/stacks-image-ee7fd3d-280x262.jpg)
+![A more finished pencil plan of the overlaid floors, annotated with the banister and stair rods, the half-landing, the hall and front door, the bed and the bathroom, and arrows out to the bedroom and study](./_images/stacks-image-ee7fd3d-280x262.jpg)
 
 *(3) Copyright: Alan Ayckbourn*
 
-![](./_images/stacks-image-94f84f0-280x204.jpg)
+![Black-and-white photograph looking down on the in-the-round stage: beds and table lamps set out across the open floor with no walls between the rooms](./_images/stacks-image-94f84f0-280x204.jpg)
 
 *(4) Copyright: Scarborough*  
 *Theatre Trust*
 
-![](./_images/stacks-image-48d66dc-280x168.jpg)
+![Black-and-white photograph of the in-the-round stage from the seats above, a banister rail and stair rods laid flat around the edge of the floor to mark the stairways](./_images/stacks-image-48d66dc-280x168.jpg)
 
 *(5) Copyright: Scarborough*  
 *Theatre Trust*

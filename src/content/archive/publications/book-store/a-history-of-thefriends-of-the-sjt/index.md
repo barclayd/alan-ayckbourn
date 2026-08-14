@@ -24,7 +24,7 @@ If you have any enquiries about *Unseen Ayckbourn* or are enquiring about intern
 **Format:** Booklet, A5  
 **Publisher:** Stephen Joseph Theatre  
 **ISBN:** N/A  
-[![](./_images/stacks-image-378826b-300x430.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+[![Cover of "A History Of The Friends Of The Stephen Joseph Theatre Scarborough 1976-2010" by Ren Yaldren, with the SJT Friends logo above the title and an oval photograph of the floodlit theatre at night below](./_images/stacks-image-378826b-300x430.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£8**  
 UK only - includes  

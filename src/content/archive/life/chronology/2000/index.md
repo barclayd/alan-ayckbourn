@@ -12,7 +12,7 @@ order: 294
 
 <aside>
 
-![](./_images/stacks-image-c4a6eef.jpg)
+![Portrait of Alan Ayckbourn in a white linen shirt, hands clasped](./_images/stacks-image-c4a6eef.jpg)
 
 *© Tony Bartholomew*
 
@@ -146,3 +146,6 @@ Original cast recording (Scarborough)
 
 "I don't have a lot of faith in plays about happy marriages. What you really want to see in theatre, I think, is some relationship a little bit worse than your own. Then you feel encouraged.”  
 *(Financial Times, 5 August 2000)*
+
+"In the end, no story is new, particularly if you're dealing with the human condition."  
+*(Metro, 30 October 2000)*

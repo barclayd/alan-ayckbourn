@@ -12,7 +12,7 @@ order: 276
 
 <aside>
 
-![](./_images/stacks-image-73e3c74.jpg)
+![Black-and-white photograph of Alan Ayckbourn in a checked shirt with both arms raised, one finger pointing upwards, directing](./_images/stacks-image-73e3c74.jpg)
 
 </aside>
 
@@ -118,4 +118,7 @@ Alley Theatre, Houston
 *(Woman & Home, November 1982)*
 
 "Writing is the worst bit, a most painful business, very lonely, very desolate. I tend to put writing into as short a time as I can."  
+*(Woman & Home, November 1982)*
+
+"I have been part of the furniture here \[Scarborough\] for some time now. It suits me very well."  
 *(Woman & Home, November 1982)*

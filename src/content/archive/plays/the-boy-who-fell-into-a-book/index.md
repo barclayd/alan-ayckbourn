@@ -20,3 +20,9 @@ facts:
 **Venue:** Soho Theatre  
 **World premiere (musical adaptation):** 23 July 2014  
 **Venue:** Stephen Joseph Theatre, Scarborough
+
+**Availability (play)**
+
+***The Boy Who Fell Into A Book* quote**  
+"How can I go to sleep in the middle of a story?"  
+**The Boy Who Fell Into A Book**

@@ -7,10 +7,6 @@ play: "absurd-person-singular"
 
 <aside>
 
-![](./_images/simon-murgatroyd-01-credit-kath-dunn-mines-copy.jpg)
-
-Simon Murgatroyd M.A.
-
 ![](./_images/simon-murgatroyd-01-credit-kath-dunn-mines.jpg)
 
 Alan Ayckbourn's Archivist, Simon Murgatroyd, working with the *Absurd Person Singular* manuscripts © Kath Dunn-Mines

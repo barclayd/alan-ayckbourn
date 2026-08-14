@@ -18,4 +18,8 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
+**Availability**
 
+**RolePlay quote**  
+"Listen, I escaped. It wasn't your fault. You'd checked on me regular. You'd kept my door locked. What more could you have done? Nothing. You didn't know the silly bitch was going to climb out of a sixth floor window, did you? It wasn't your fault."  
+**RolePlay**

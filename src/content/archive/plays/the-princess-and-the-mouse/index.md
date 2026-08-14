@@ -9,6 +9,7 @@ facts:
   World Premiere: "11 December 2002"
   World Premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Description: "Play for children / young people"
+  Published / Available to Stage: "No"
   Short Synopsis: "Am adaptation of the fairytale *The Princess And The Pea*."
   World premiere: "11 December 2002"
   Final performance: "18 December 2002"
@@ -21,8 +22,6 @@ facts:
   Music: "John Pattison"
   Stage Manager: "Victoria Evan"
 ---
-
-**Published / Available to Stage:** No
 
 ### The Princess And The Mouse: History
 
@@ -48,3 +47,6 @@ Ben Strickland
 **Research**  
 ◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
 ◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.
+
+**Reviews**  
+*This Will Keep Little Ones Captivated* (Mike Park, Scarborough Evening News, 13 December 2002)

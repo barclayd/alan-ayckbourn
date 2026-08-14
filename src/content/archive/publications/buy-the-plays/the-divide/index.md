@@ -8,7 +8,7 @@ order: 851
 
 <aside>
 
-![](./_images/stacks-image-6efacae.jpg)
+![Cover of the novel The Divide by Alan Ayckbourn: two clasped hands in gold, printed over a dark red antique map of Salisbury Plain](./_images/stacks-image-6efacae.jpg)
 
 ### Formats
 

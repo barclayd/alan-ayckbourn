@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Roundelay (2014)
 
-![](./_images/stacks-image-490fb1b.jpg)
-
 ![](./_images/stacks-image-139e989.jpg)
 
 Very early notes by Alan Ayckbourn for the play which would become *Roundelay*. At this point, the play was called *The Party* and although it featured an unusual structure, it does not appear to have had the random elements of *Roundelay*.
@@ -19,8 +17,6 @@ Very early notes by Alan Ayckbourn for the play which would become *Roundelay*. 
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-67aa45b.jpg)
 
 ![](./_images/stacks-image-87c933f.jpg)
 
@@ -31,8 +27,6 @@ A diagram by Alan Ayckbourn showing how the *Roundelay* plays intersect with eac
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-1aefb82.jpg)
-
 ![](./_images/stacks-image-d6e1916.jpg)
 
 A sketch of the proposed set layout by Alan Ayckbourn for *The Agent* one act play within *Roundelay*. This was provided for the world premiere of the play at the Stephen Joseph Theatre, Scarborough, in 2014.
@@ -41,8 +35,6 @@ A sketch of the proposed set layout by Alan Ayckbourn for *The Agent* one act pl
 **Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-7d8ace8.jpg)
 
 ![](./_images/stacks-image-acd0550.jpg)
 
@@ -54,4 +46,4 @@ The poster for the world premiere of *Roundelay* (right) at the Stephen Joseph T
 *Do not reproduce images without permission of the copyright holder.*  
 *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

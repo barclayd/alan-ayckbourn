@@ -149,3 +149,5 @@ Audio-stream: 1 December, SJT website
 
 “I’m still optimistic for the future of theatre, but not so optimistic for myself. We’re in the vulnerable bracket. Days of jumping into rehearsals with a lot of actors breathing all over each other is not a good idea, so I’m not going to be doing that. The other thing is, how long will I keep going? The only dispiriting feeling is thinking, ‘Are my new plays going to get done?’. There are four or five now. Normally, a play is written and then it’s performed and that’s wonderful encouragement, but for me, until a play is done, has run the gamut of rehearsals, performances, audience response and post-mortem, I’m marking time, but the plays keep coming.”  
 *(The Press, 27 November 2020)*
+
+\* *Of interest, this quote was from an interview just prior to the unforeseen and extraordinary impact the Covid-19 pandemic had on the world.*

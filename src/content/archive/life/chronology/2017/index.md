@@ -103,3 +103,6 @@ The Old Laundry Theatre, Bowness-on-Windermere
 
 “I prefer to be called Mr Regional these days. I have withdrawn from the West End because of the hassle and its insistence on star casting, which is ludicrous. The damage is that some of them can’t do it and then some of them come with a preconceived image, so they bring their own fans who expect certain things. You get an actor who thinks ‘Thank God I’ve finally got out of playing the doctor in *Hollyoaks* and can be the psychopath on stage’. And that doesn’t please the fans when they see nice Doctor Williams slashing and cutting. It doesn’t do the play any good either. And the idea that someone is slightly more important in terms of billing or focus is wrong. Everyone in my rehearsal room has an equal weight.”  
 *(Daily Telegraph, 9 October 2017)*
+
+"Stephen Joseph's death was probably the saddest time of my life. That was the death of a rocket, falling into the sea. I guess for many of us, we remember the energy which he lifted us and thank him very much."  
+*(2017)*

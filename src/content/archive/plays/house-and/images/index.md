@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### House & Garden (1999)
 
-![](./_images/stacks-image-ecf4462.jpg)
-
 ![](./_images/stacks-image-fbd2b1b.jpg)
 
 The poster for the world premiere of *House & Garden* at the Stephen Joseph Theatre, Scarborough, during 1999.
@@ -20,8 +18,6 @@ The poster for the world premiere of *House & Garden* at the Stephen Joseph Thea
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-b917168.jpg)
-
 ![](./_images/stacks-image-abe61c0.jpg)
 
 The set of *House*, designed by Roger Glossop, for the world premiere of *House & Garden* at the Stephen Joseph Theatre, Scarborough, during 1999.
@@ -30,8 +26,6 @@ The set of *House*, designed by Roger Glossop, for the world premiere of *House 
 **Holding:** Ayckbourn Digital Archive
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-16dc3b7.jpg)
 
 ![](./_images/stacks-image-3711d6d.jpg)
 
@@ -43,4 +37,4 @@ The set of *Garden*, designed by Roger Glossop, for the world premiere of *House
 *Do not reproduce images without permission of the copyright holder.*  
 *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

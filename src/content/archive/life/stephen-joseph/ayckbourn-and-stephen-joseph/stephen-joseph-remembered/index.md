@@ -12,7 +12,9 @@ order: 396
 
 <aside>
 
-![](./_images/stacks-image-9a21fb5.jpg)
+![Black-and-white photograph of two men side by side, the older bearded and in shirtsleeves with his arms folded, the younger in a tweed jacket and tie](./_images/stacks-image-9a21fb5.jpg)
+
+*Rodney Wood & Alan Ayckbourn (1957)*
 
 </aside>
 
@@ -25,7 +27,9 @@ I think he collected me, in a way, because he took one look at me as this stage 
 
 <aside>
 
-![](./_images/stacks-image-52ea5dd.jpg)
+![Black-and-white production photograph in the round: two young men in shirtsleeves sit on white rostra either side of a woman standing between them, one of them holding a doll](./_images/stacks-image-52ea5dd.jpg)
+
+*Alan Ayckbourn, Dona Martyn & Stephen Joseph in rehearsal (1960)*
 
 </aside>
 
@@ -43,7 +47,9 @@ I think the key was he was a teacher really. He wasn’t, in my opinion, a frigh
 
 <aside>
 
-![](./_images/stacks-image-b3362b4.jpg)
+![Black-and-white production photograph: a man holds an open box while a woman flings papers into the air, a third figure watching from the right, with plain chairs and a stool on the bare floor](./_images/stacks-image-b3362b4.jpg)
+
+*Meet My Father publicity image (1965)*
 
 </aside>
 
@@ -59,7 +65,10 @@ We suddenly found - in those early days of theatre in the round - we’d pissed 
 
 <aside>
 
-![](./_images/stacks-image-a007ee9.jpg)
+![Black-and-white photograph of a rehearsal in a hall: a man sprawls back in a bentwood chair at a trestle table strewn with scripts while two figures stand over him, rows of watching company members behind](./_images/stacks-image-a007ee9.jpg)
+
+*Alan Ayckbourn & Stephen Joseph*  
+*(circa 1960)*
 
 </aside>
 

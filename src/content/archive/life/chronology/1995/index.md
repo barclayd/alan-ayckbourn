@@ -75,3 +75,6 @@ Gielgud Theatre, London
 
 "For many years, nobody would publish my plays, apart from Samuel French, because they had no literary content to them - that's what the editors would say. I suspect that (a) they were rather snobbish, but (b) it was to do with the fact that they were not dramatic people, and my writing is very much to be spoken - it's not to be read. It can be read, silently, but even people who know my work, when they come to a rehearsal and it's read out for the first time, they say: 'Oh! I see!'"  
 *(1995)*
+
+"I always insist that any play is idea led, not device led. You start with what you want to write about."  
+*(1995)*

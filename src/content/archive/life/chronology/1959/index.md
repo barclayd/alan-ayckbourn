@@ -43,4 +43,6 @@ Studio Theatre Ltd tour
 ○ ***The Square Cat*** (Jerry Wattis / Arthur Brummage) \*  
 \* Theatre in the Round at the Library Theatre, Scarborough
 
-![](./_images/stacks-image-e8645a7.jpg)
+![Black-and-white production photograph of two young actors, one in a lamé jacket and wide white tie holding an acoustic guitar, the other in a dark suit and heavy spectacles](./_images/stacks-image-e8645a7.jpg)
+
+*Alan Ayckbourn as Jerry & Arthur in The Square Cat.*

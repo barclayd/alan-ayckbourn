@@ -8,7 +8,9 @@ facts:
   World Premiere: "20 May 1974"
   Channel: "BBC2"
   Description: "Screenplay"
+  Published / Available to Stage: "No"
   Media: "Television"
+  Short Synopsis: "A waiter's eye view of a business conference party."
 ---
 
-**Published / Available to Stage:** No
+

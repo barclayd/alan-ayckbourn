@@ -19,3 +19,20 @@ During 1958, Alan Ayckbourn…
 ○ wrote a number of unproduced plays (between 1957 and 1959) which included: ***[The Season](/plays/childrens-plays-index/early-writing-plays)***; ***[Relative Values](/plays/childrens-plays-index/early-writing-plays)***; ***[Mind Over Murder](/plays/childrens-plays-index/early-writing-plays)***; ***[The Party Game](/plays/childrens-plays-index/early-writing-plays)***. Most of these plays are now lost and none have been performed.
 
 ○ became engaged to the actress Christine Roland - another member of the Studio Theatre Ltd company - whilst on tour in September / October to Leicester (immediately prior to this he had been engaged to one of the company's stage management team, Ann Summers, for several months).
+
+### Professional Acting
+
+○ ***Darling*** (Mick)  
+Oxford Playhouse  
+○ ***Henry IV*** (Arialdo)  
+Oxford Playhouse  
+○ ***Cards Of Identity*** (Stapleton)  
+Oxford Playhouse  
+○ ***Captain Carvallo*** (Private Gross) \*  
+○ ***Dial M For Murder*** (Constable Williams) \*  
+○ ***Love And Chance*** (Pasquin) \*  
+○ ***The Man With A Flower In His Mouth*** (Waiter) \*  
+○ ***Martine*** (Alfred) \*  
+○ ***Ring Of Roses*** (Eric) \*  
+○ ***Squaring The Circle*** (Abrahm) \*  
+\* Theatre in the Round at the Library Theatre, Scarborough

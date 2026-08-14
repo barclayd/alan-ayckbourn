@@ -8,6 +8,7 @@ facts:
   World Premiere: "4 October 1961"
   World Premiere Venue: "Church Institute, Kingston-upon-Hull"
   Description: "Grey Play"
+  Published / Available to Stage: "No"
   Short Synopsis: "A one act comedy about a love affair being clandestinely carried out in an undertaker's parlour."
   Premiere: "21 September 1961"
   Premiere Venue: "Church Institute, Kingston-upon-Hull"
@@ -16,8 +17,6 @@ facts:
   World premiere: "October 1961"
   World premiere Venue: "St Mary's Parish House, Scarborough"
 ---
-
-**Published / Available to Stage:** No
 
 *The Grey Plays are acknowledged miscellaneous minor pieces by Alan Ayckbourn, which have received limited performance but have never been published, are not available for production and are not included in the official canon of Ayckbourn plays.*
 
@@ -60,3 +59,6 @@ Vicki Smart
 
 **Manuscripts (research & reference)**  
 An original complete manuscript of Alan Ayckbourn's *Love Undertaken* is held in the Lord Chamberlain's Collection at the British Library.
+
+**Reference Books**  
+*Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)

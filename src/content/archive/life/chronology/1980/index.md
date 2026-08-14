@@ -12,7 +12,7 @@ order: 274
 
 <aside>
 
-![](./_images/stacks-image-4c62f46.jpg)
+![Black-and-white photograph of Alan Ayckbourn in a dark jacket over a printed T-shirt, framed by leaves](./_images/stacks-image-4c62f46.jpg)
 
 </aside>
 
@@ -130,3 +130,6 @@ Television: 28 September, ITV
 
 "I suppose I am a theatre writer. I live in theatres all the time. And besides being a writer, I am a director: I am fascinated by the whole mechanics and liveliness of theatre. It seems to me that there are things which are essentially theatre at a time when a lot of the extraneous trappings of theatre, the huge settings, have been stripped away by films and television. We are left with a liveliness and spontaneity. One had to ask the question: 'What argument can I put to people in this town, to persuade them to come to the theatre?' One cannot offer them spectacle. One cannot offer them *The Towering Inferno*. What we can offer them is spontaneous live performance."  
 *(Birmingham Post, 27 December 1980)*
+
+"I love the Yorkshire coast when the waves are high and the sea comes crashing in and the voices of the Brontës fly on the wind."  
+*(English Tourist Board article)*

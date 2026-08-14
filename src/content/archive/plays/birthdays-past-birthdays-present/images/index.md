@@ -9,8 +9,6 @@ A collection of archive material, posters, rehearsal and production images perta
 
 ### Birthdays Past, Birthdays Present (2019)
 
-![](./_images/stacks-image-705f560.png)
-
 ![](./_images/stacks-image-5ea2ec9.png)
 
 An unused concept design for the poster for the 2019 world premiere of *Birthdays Past, Birthdays Present* at the Stephen Joseph Theatre, Scarborough.
@@ -19,8 +17,6 @@ An unused concept design for the poster for the 2019 world premiere of *Birthday
 **Holding:** The Bob Watson Archive
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-ce26924.jpg)
 
 ![](./_images/stacks-image-e0116ad.jpg)
 
@@ -31,8 +27,6 @@ The poster for the world premiere of *Birthdays Past, Birthdays Present* at the 
 
 *Do not reproduce images without permission of the copyright holder.*
 
-![](./_images/stacks-image-53e7b9d.jpg)
-
 ![](./_images/stacks-image-0721f75.jpg)
 
 Costume designs by Kevin Jenkins for the first scene of the world premiere of *Birthdays Past, Birthdays Present* at the Stephen Joseph Theatre during 2019.
@@ -41,8 +35,6 @@ Costume designs by Kevin Jenkins for the first scene of the world premiere of *B
 **Holding:** The Bob Watson Archive
 
 *Do not reproduce images without permission of the copyright holder.*
-
-![](./_images/stacks-image-1918cc9.jpg)
 
 ![](./_images/stacks-image-d99c557.jpg)
 
@@ -54,4 +46,4 @@ Kevin Jenkins model box for the design of the set for scene 1 of the world premi
 *Do not reproduce images without permission of the copyright holder.*  
 *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![The Borthwick Institute for Archives logo: a white boar above a letter B on an orange shield](./_images/web-175-dpi.jpg)](/)

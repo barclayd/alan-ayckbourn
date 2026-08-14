@@ -12,6 +12,8 @@ facts:
   Published: "No"
   Other Media: "No"
   Short Synopsis: "Lorraine is a fabulously successful lawyer of a certain age. Jan Sixty is the janitor of her building, an android of indeterminate age. In a not-too-distant future humans have turned to artificial friends for companionship without compromise, can Lorraine and Jan find true love?"
+  Amateur: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
+  Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
 

@@ -13,23 +13,13 @@ What emerged is a transcription of approximately 95% of the notes - certain word
 
 Below are reproduced examples of both the concept pages and the 'abandoned draft', alongside Simon's transcriptions of the relevant pages.
 
-![](./_images/c1-s.png)
-
 ![](./_images/c1.jpg)
-
-![](./_images/c2-s.png)
 
 ![](./_images/c2.jpg)
 
-![](./_images/i1-s.png)
-
 ![](./_images/i1.jpg)
 
-![](./_images/i2-s.png)
-
 ![](./_images/i2p.jpg)
-
-![](./_images/i3-s.png)
 
 ![](./_images/i3.jpg)
 

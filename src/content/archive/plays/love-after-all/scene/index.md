@@ -7,7 +7,7 @@ play: "love-after-all"
 
 *This page reproduces a scene from the play offering an insight into and a taste of the unpublished work. The dialogue is reproduced in the style of the original including grammatical choices / errors.*
 
-![](./_images/stacks-image-b2dc9ce-1.jpg)
+![Page II.69 of the typescript of Love After All, a scene of dialogue between ANGELICA and MINTA, watermarked "Copyright: Alan Ayckbourn"](./_images/stacks-image-b2dc9ce-1.jpg)
 
 **Act 2** (pages 64 - 65)  
 **Minta:** Sssh. I've got a message for you.  
@@ -47,3 +47,14 @@ Angelica: Oh - on a horse?
 **Angelica:** Ooh, what a good idea.  
 **Minta:** And don't let your father see you. When he comes be ready to run like mad.  
 **Angelica:** Oh, Minta - wedding bells.
+
+### Notes
+
+This scene is reproduced from the only surviving original manuscript of *Love After All*, which is held at the British Library.  
+It offers a brief taste of the tone of *Love After All*, which is one of the few plays Alan Ayckbourn has written which he considers to be a farce (officially because both ***[The Square Cat](/plays/the-square-cat)*** and *Love After All* have been withdrawn, Alan considers only ***[Taking Steps](/plays/taking-steps)*** to be a true farce).  
+There is not much to take from *Love After All*, as it is a very conventional play (far more so even than his first play *The Square Cat*) with the plot borrowing heavily from *The Barber Of Seville*.  
+However, this scene does offer a glimpse of a recurring character trope in Ayckbourn plays with the bumbling, clueless rural upper class (epitomised by the characters in ***[Mr Whatnot](/plays/mr-whatnot)*** and again used to good effect in ***[The Revengers' Comedies](/plays/the-revengers-comedies)***).  
+As the scene demonstrates though, it is the secondary characters which are of far more interest and which drive the narrative. Minta the maid is the most pro-active of the characters and by far the more interesting of the women; whilst the men all come over as relatively stupid - in the case of the aristocratic pig-breeder Hodge, it does afford him some funny lines and he is an early example of the Ayckbourn bore, who can talk about meaningless subjects for an eternity (taken to its logical conclusion with Mark in *Taking Steps* who sends everyone to sleep whenever he begins talking!)  
+The scene also makes reference to one of the problems with the play. The kidnap is centred on the characters dressing as Indians with mixed identities thrown into the mix. The racial stereo-typing - from a contemporary perspective - is less problematic with the original production of the play as photos indicate it is more about the costumes as a disguise. However, when the play was revised and performed the following year, the director altered the script for no apparent reason to Chinese characters and the stereotyping - from today's perspective - is far more pronounced and more of an issue.  
+This scene, which in 2010 was also used for one of only two public performances of any part of *Love After All* since 1960, is likely to remain the only glimpse of the play for anyone not able to read the script at the British Library.  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*

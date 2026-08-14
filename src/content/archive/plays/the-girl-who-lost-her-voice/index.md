@@ -11,6 +11,7 @@ facts:
   Description: "Play for children / young people"
   Published: "No"
   Short Synopsis: "Tia Maria Perkins has not only lost her voice, but appears to have someone else's instead. How will she ever become a town-crier now!"
+  Professional / Amateur: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
   World premiere: "23 July 2005"
   World premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Staging: "End-stage"
@@ -20,9 +21,6 @@ facts:
   Mother: "Becky Hindley"
   Father: "Giles New"
 ---
-
-**Production Availability**  
-**Professional / Amateur:** Apply to **[Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)**.
 
 ### History
 
@@ -39,3 +37,8 @@ All other parts played by members of the SJT company.
 ### Further Reading
 
 *The Girl Who Lost Her Voice* has not been published.
+
+**Research**  
+◦ An original manuscript is held in the Ayckbourn Archive in the **[Borthwick Institute for Archives](/research)** at the University of York. The manuscript is accessible onsite for research purposes.  
+◦ Material relating to the play is also held in the Ayckbourn Archive at the Borthwick Institute for Archives. The holdings relevant to the play can be found in the archive catalogue by clicking **[here](http://borthcat.york.ac.uk/informationobject/browse/)**.  
+◦ A clean top copy of the manuscript is also held by the British Library in The Modern Playscripts Collection.

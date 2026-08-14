@@ -12,7 +12,7 @@ order: 261
 
 <aside>
 
-![](./_images/stacks-image-93b168c.jpg)
+![Black-and-white photograph of a man slumped face down on his folded arms at a table, a script open beside him](./_images/stacks-image-93b168c.jpg)
 
 </aside>
 
@@ -48,4 +48,4 @@ Theatre in the Round at the Library Theatre, Scarborough
 ○ ***Relatively Speaking***  
 Television: 21 July, BBC1
 
-![](./_images/stacks-image-e655b6b.jpg)
+![Black-and-white production photograph in the round: three actors on a stage strewn with newspapers and clothes, an armchair in the foreground and the audience close on all sides](./_images/stacks-image-e655b6b.jpg)

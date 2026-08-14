@@ -12,7 +12,9 @@ order: 321
 
 <aside>
 
-![](./_images/stacks-image-0c4a22d.jpg)
+![The entrance to Scarborough's Library Theatre beneath a "THEATRE IN THE ROUND" fascia, a man standing beside a "TONIGHT AT 8" board](./_images/stacks-image-0c4a22d.jpg)
+
+*Alan Ayckbourn standing outside Theatre in the Round at the Library Theatre in 1971.*
 
 ![](./_images/stacks-image-c96b09b.jpg)
 

@@ -12,7 +12,9 @@ order: 291
 
 <aside>
 
-![](./_images/stacks-image-0327940.jpg)
+![Alan Ayckbourn in a dark suit with a decoration on a ribbon at his neck, shaking hands with the Queen at a Buckingham Palace investiture](./_images/stacks-image-0327940.jpg)
+
+*Alan Ayckbourn knighted by Queen Elizabeth II*
 
 </aside>
 
@@ -104,4 +106,7 @@ Radio: 14 June, BBC World Service
 *(Bulletin, 11 September 1997)*
 
 "I could quite happily write all the time. But I don't - I 'starve' myself, then approach it all the more eagerly when the time comes."  
+*(Bulletin, 11 September 1997)*
+
+"I'll have A, B, C and D each going through a horrendous personal crisis, and I experience all those things in parallel. I can never really sleep when I'm writing. The characters are there all the time going 'whrrrrrrr' until I get rid of them. I come out feeling a bit wobbly."  
 *(Bulletin, 11 September 1997)*

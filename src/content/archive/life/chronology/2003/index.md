@@ -12,7 +12,7 @@ order: 297
 
 <aside>
 
-![](./_images/stacks-image-bc25b2e.jpg)
+![Alan Ayckbourn in a checked shirt with his palms pressed together, explaining something to a group around him in rehearsal](./_images/stacks-image-bc25b2e.jpg)
 
 *© Tony Bartholomew*
 
@@ -131,3 +131,6 @@ UK tour
 
 "I think the theatre has always been very important to society, but it is becoming increasingly so. Theatre will eventually be the places, rather than churches which are now somewhat deserted, where people will go to discuss the nature of human beings and feelings."  
 *(Sunday Sentinel, 12 October 2003)*
+
+"I like watching people. As a kid, I used to watch adults because children were never invited to join in the conversations. I got used to listening."  
+*(Livewire, December 2003)*

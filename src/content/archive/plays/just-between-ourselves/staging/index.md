@@ -38,4 +38,7 @@ The major challenge with the set of *Just Between Ourselves* has always been hav
 *(3) The set of the world premiere in 1976.*  
 *Copyright: Scarborough Theatre Trust*
 
-![](./_images/stacks-image-77aed73-250x144.jpg)
+![Line plan of the Just Between Ourselves set, showing a car in a garage with the labelled window, house door and front door around it](./_images/stacks-image-77aed73-250x144.jpg)
+
+*(4) The acting edition layout of the set.*  
+*Copyright: Samuel French Ltd*
