@@ -20,13 +20,20 @@ order: 467
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Lighting:** Peter Boden **Harriet Grantham** Stephanie Turner  
+**Director:** Alan Ayckbourn  
+**Lighting:** Peter Boden  
+**Stage Manager:** Robin Holmes  
+**Deputy Stage Manager:** Lesli Tomson  
+**Assistant Stage Manager:** Charles Boyle  
+**Assistant Stage Manager:** Sharon Duce
+
+**Character** **Actor**  
+**Harriet Grantham** Stephanie Turner  
 **John Grantham** Brian Miller  
-**Stage Manager:** Robin Holmes **Moira, their daughter** Elisabeth Sladen  
-**Deputy Stage Manager:** Lesli Tomson **Stan, their son** Jeremy Franklin  
-**Assistant Stage Manager:** Charles Boyle **Leslie O'Neil** Robert Peck  
-**Assistant Stage Manager:** Sharon Duce **P.C. Edgar Voss** Colin Edwynn
+**Moira, their daughter** Elisabeth Sladen  
+**Stan, their son** Jeremy Franklin  
+**Leslie O'Neil** Robert Peck  
+**P.C. Edgar Voss** Colin Edwynn
 
 ### Notes
 

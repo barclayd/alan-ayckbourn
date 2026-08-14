@@ -19,10 +19,15 @@ order: 447
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Stage Manager:** Arnold Beck **Mick** Peter King  
-**Stage Manager:** David Wehner **Aston** Alan Ayckbourn  
-**Assistant Stage Manager:** Caroline Smith **Davies** Stanley Page
+**Director:** Alan Ayckbourn  
+**Stage Manager:** Arnold Beck  
+**Stage Manager:** David Wehner  
+**Assistant Stage Manager:** Caroline Smith
+
+**Character** **Actor**  
+**Mick** Peter King  
+**Aston** Alan Ayckbourn  
+**Davies** Stanley Page
 
 ### Notes
 

@@ -29,8 +29,8 @@ The Play Index lists every produced Ayckbourn play and work chronologically with
 ○ [The Boy Who Fell Into A Book](/plays/the-boy-who-fell-into-a-book)  
 ○ [Cheap And Cheerful](/plays/cheap-and-cheerful) *(Revue)*  
 **1999**  
-○ [House  
-](/plays/house-and)○ [Garden](/plays/house-and)  
+○ [House](/plays/house-and)  
+○ [Garden](/plays/house-and)  
 ○ [The Forest](/plays/the-forest-ostrovsky) *(Adaptation)*  
 ○ [Gizmo](/plays/gizmo) *(Children's play)*  
 ○ [Callisto#7](/plays/callisto-5) *(Revised - Callisto 5)*  

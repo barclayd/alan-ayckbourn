@@ -8,12 +8,19 @@ order: 591
 
 ### Production Details
 
-**Play:** Gaslight **Character** **Actor**  
-**Author:** Patrick Hamilton **Mrs Manningham** Heather Stoney  
-**First performance:** 22 October 1963 **Mr Manningham** Alan Ayckbourn  
-**Venue:** Victoria Theatre, Stoke-on-Trent **Elizabeth** Caroline Smith  
-**Staging:** Round **Nancy** Elizabeth Bell  
-**Director:** Bernard Gallagher **Rough** Stanley Page
+**Play:** Gaslight  
+**Author:** Patrick Hamilton  
+**First performance:** 22 October 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Bernard Gallagher
+
+**Character** **Actor**  
+**Mrs Manningham** Heather Stoney  
+**Mr Manningham** Alan Ayckbourn  
+**Elizabeth** Caroline Smith  
+**Nancy** Elizabeth Bell  
+**Rough** Stanley Page
 
 ### Quotes & Notes
 

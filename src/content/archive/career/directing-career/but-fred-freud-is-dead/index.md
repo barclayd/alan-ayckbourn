@@ -26,12 +26,19 @@ End-stage
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Helga Wood **Fred Evans** Stanley Page  
-**Costumes:** Christine Welch **Mike, his son** Stephen Mallatratt  
-**Stage Manager:** David Millard **Dora, his wife** Janet Dale  
-**Assistant Stage Manager:** Kevin Wood **John Ansell, a friend** Christopher Godwin  
-**Assistant Stage Manager:** Richard Roscoe **Sue, Mike's girlfriend** Eileen O'Brien
+**Director:** Alan Ayckbourn  
+**Design:** Helga Wood  
+**Costumes:** Christine Welch  
+**Stage Manager:** David Millard  
+**Assistant Stage Manager:** Kevin Wood  
+**Assistant Stage Manager:** Richard Roscoe
+
+**Character** **Actor**  
+**Fred Evans** Stanley Page  
+**Mike, his son** Stephen Mallatratt  
+**Dora, his wife** Janet Dale  
+**John Ansell, a friend** Christopher Godwin  
+**Sue, Mike's girlfriend** Eileen O'Brien
 
 ### Notes
 

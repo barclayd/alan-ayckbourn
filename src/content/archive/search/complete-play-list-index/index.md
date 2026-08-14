@@ -18,15 +18,15 @@ As of 2026, Alan Ayckbourn had written **92** full-length plays. Click on a titl
 **1963…..[Mr Whatnot](/plays/mr-whatnot)** 1997…..[Things We Do For Love](/plays/things-we-do-for-love)  
 **1965…..[Relatively Speaking](/plays/relatively-speaking)** 1998…..[Comic Potential](/plays/comic-potential)  
 **1967…..[The Sparrow](/plays/the-sparrow)** 1998…..[The Boy Who Fell Into A Book](/plays/the-boy-who-fell-into-a-book)  
-**1969…..[How The Other Half Loves](/plays/how-the-other-half-loves)** 1999…..[House &  
-**1970…..[Family Circles](/plays/family-circles)** ](/plays/house-and)1999…..[Garden](/plays/house-and)  
+**1969…..[How The Other Half Loves](/plays/how-the-other-half-loves)** 1999…..[House &](/plays/house-and)  
+**1970…..[Family Circles](/plays/family-circles)** 1999…..[Garden](/plays/house-and)  
 **1971…..[Time And Time Again](/plays/time-and-time-again)** 2000…..[Virtual Reality](/plays/virtual-reality)  
 **1972…..[Absurd Person Singular](/plays/absurd-person-singular)** 2000…..[Whenever](/plays/whenever)  
 **1973…..[The Norman Conquests](/plays/the-norman-conquests) - *comprising*** 2001…..[Damsels In Distress](/plays/damsels-in-distress) - *comprising*  
 **1973…..[Table Manners](/plays/the-norman-conquests)** 2001…..[GamePlan](/plays/gameplan)  
-**1973…..[Living Together** 2001…..[FlatSpin](/plays/flatspin)  
-**](/plays/the-norman-conquests)1973…..[Round And Round The Garden** 2001…..[RolePlay](/plays/roleplay)  
-**](/plays/the-norman-conquests)1974…..[Absent Friends](/plays/absent-friends)** 2002…..[Snake In The Grass](/plays/snake-in-the-grass)  
+**1973…..[Living Together](/plays/the-norman-conquests)** 2001…..[FlatSpin](/plays/flatspin)  
+**1973…..[Round And Round The Garden](/plays/the-norman-conquests)** 2001…..[RolePlay](/plays/roleplay)  
+**1974…..[Absent Friends](/plays/absent-friends)** 2002…..[Snake In The Grass](/plays/snake-in-the-grass)  
 **1974…..[Confusions](/plays/confusions)** 2002…..[The Jollies](/plays/the-jollies)  
 **1975…..[Jeeves](/plays/jeeves) - *subsequently*** 2003…..[Sugar Daddies](/plays/sugar-daddies)  
 **1975*…..*[By Jeeves](/plays/jeeves) (1996)** 2003…..[Orvin - Champion Of Champions](/plays/orvin-champion-of-champions)  
@@ -72,9 +72,17 @@ As of 2026, Alan Ayckbourn had written **92** full-length plays. Click on a titl
 
 2016…..[The Karaoke Theatre Company](/plays/the-karaoke-theatre-company)
 
+### Early Writing (confirmed as written by and attributable to Alan Ayckbourn)
+
+1957 (circa)…..[The Season](/plays/childrens-plays-index/early-writing-plays/the-season)  
+1958 (circa)…..[The Party Game](/plays/the-party-game)  
+1959 (circa)…..[Mind Over Murder](/plays/childrens-plays-index/early-writing-plays/mind-over-murder)  
+1959 (circa)…..[The Honeymoon](/plays/childrens-plays-index/early-writing-plays/the-honeymoon)  
+1959 (circa)…..[Relative Values](/plays/childrens-plays-index/early-writing-plays/relative-values)
+
 ### Contributions (works with contributions from Alan Ayckbourn)
 
-**1962…..[Mixed Doubles](/plays/countdown)** 1982…..[Cinderella's Star Night](/)[  
-**1973…..[Mixed Blessings](/)** ](/copyright-privacy)1993…..[Millennium attraction](/)  
+**1962…..[Mixed Doubles](/plays/countdown)** 1982…..[Cinderella's Star Night](/)  
+**1973…..[Mixed Blessings](/)** 1993…..[Millennium attraction](/)  
 **1975…..[What The Devil!](/plays/dracula-sketch-from)** 2011…..[Where's My Seat?](/copyright-privacy/wheres-my-seat)  
 **1981…..[Pen To Paper](/search/play-index)** 2016…..[Where Is Peter Rabbit?](/)

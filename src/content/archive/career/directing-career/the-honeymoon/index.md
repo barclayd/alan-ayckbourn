@@ -20,11 +20,16 @@ order: 419
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Pip Leckenby **Dennis** Keith Bartlett  
+**Director:** Alan Ayckbourn  
+**Design:** Pip Leckenby  
+**Stage Manager:** Dawn Erica Dyson  
+**Deputy Stage Manager:** Fleur Linden Beeley
+
+**Character** **Actor**  
+**Dennis** Keith Bartlett  
 **Kathleen** Janie Dee  
-**Stage Manager:** Dawn Erica Dyson **Pat** Pippa Hinchley  
-**Deputy Stage Manager:** Fleur Linden Beeley **Ted** Nicholas Haverson
+**Pat** Pippa Hinchley  
+**Ted** Nicholas Haverson
 
 ### Notes
 

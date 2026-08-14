@@ -20,10 +20,15 @@ order: 448
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Stage Manager:** David Millard **Mick** Robin Herford  
-**Deputy Stage Manager:** Christopher Gray **Aston** Bob Eaton  
-**Asst. Stage Manager:** Wendy Murray **Davies** Stanley Page
+**Director:** Alan Ayckbourn  
+**Stage Manager:** David Millard  
+**Deputy Stage Manager:** Christopher Gray  
+**Asst. Stage Manager:** Wendy Murray
+
+**Character** **Actor**  
+**Mick** Robin Herford  
+**Aston** Bob Eaton  
+**Davies** Stanley Page
 
 ### Notes
 

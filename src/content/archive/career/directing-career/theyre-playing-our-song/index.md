@@ -22,15 +22,25 @@ order: 492
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Musical Supervisor:** John Pattison **Vernon Gersch** Bill Champion  
-**Musical Director:** Simon Cryer **Sonia Walsk** Janie Dee  
-**Choreographer:** Sheila Carter **The voice of Phil** Dermot McLaughlin  
-**Design:** Michael Holt **The voices of Sonia** Veronica Hart  
-**Lighting:** Kath Geraghty Tamzin Outhwaite  
-**Stage Manager:** Richard Clayton Jo Theaker  
-**Deputy Stage Manager:** Julie Wyman **The voices of Vernon** Dermot McLaughlin  
-**Assistant Stage Manager:** Gemma Brooks Grant Neal  
+**Director:** Alan Ayckbourn  
+**Musical Supervisor:** John Pattison  
+**Musical Director:** Simon Cryer  
+**Choreographer:** Sheila Carter  
+**Design:** Michael Holt  
+**Lighting:** Kath Geraghty  
+**Stage Manager:** Richard Clayton  
+**Deputy Stage Manager:** Julie Wyman  
+**Assistant Stage Manager:** Gemma Brooks
+
+**Character** **Actor**  
+**Vernon Gersch** Bill Champion  
+**Sonia Walsk** Janie Dee  
+**The voice of Phil** Dermot McLaughlin  
+**The voices of Sonia** Veronica Hart  
+Tamzin Outhwaite  
+Jo Theaker  
+**The voices of Vernon** Dermot McLaughlin  
+Grant Neal  
 Nick Searle  
 **Piano** Simon Cryer  
 **Keyboards** Paul Frankish  

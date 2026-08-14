@@ -20,10 +20,14 @@ order: 446
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
+**Director:** Alan Ayckbourn  
+**Stage Manager:** Arnold Beck  
+**Stage Manager:** David Wehner
+
+**Character** **Actor**  
 **Mick** Peter King  
-**Stage Manager:** Arnold Beck **Aston** Richard Gill  
-**Stage Manager:** David Wehner **Davies** Stanley Page
+**Aston** Richard Gill  
+**Davies** Stanley Page
 
 ### Notes
 

@@ -174,9 +174,18 @@ original is `alt="Stacks Image 1234"`, and nothing in the markup says what the
 photograph shows — so `scraped/report.json` lists all of them by page as a review
 list rather than the scraper guessing at archival production stills.
 
-**Open, awaiting a design decision:** the reconstructed three- and four-column
-tables render as `**Author** Publication **Date** Topic` — complete and legible,
-but cells run together, because there is no table CSS in the project.
+**Closed:** the reconstructed tables. 29 pages whose original three- and
+four-column Stacks layouts had been flattening to `**Author** Publication **Date**
+Topic` now emit real GFM tables, set like a programme's cast list — column names in
+the UI face above an accent rule, hairlines between rows, and the first column
+sticky so the play a row is about never scrolls away on a phone. Two-column data
+sheets and cast lists stay as `**label** value` pairs, which read better down a
+phone than a table of two columns would. Three root-cause fixes came out of it:
+~40 career credit pages were pairing a production's credits sheet against the
+adjacent cast list into one bogus four-column table (stating the director against
+the first character); header rows the archive drew as their own layout row were
+being dropped as headings labelling nothing; and one `<a>` spanning several rows
+was leaving literal `[`/`](url)` fragments across them.
 
 ---
 

@@ -20,14 +20,23 @@ order: 455
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Michael Holt **Nora** Claire Carrie  
-**Lighting:** Mick Hughes **Torvald Helmer** Richard Derrington  
-**Choreographer:** Sheila Carter **Dr Rank** Julian Forsyth  
-**Stage Manager:** Dawn Erica Dyson **Mrs Kristine Linde** Dorothy Atkinson  
-**Deputy Stage Manager:** Fleur Linden Beeley **Nils Krogstad** Robert Austin  
-**Assistant Stage Manager:** Keith Tunstall **Anne-Marie** Nicola Sloane  
-**Assistant Stage Manager:** Sara Wells **Helene** Charlie Hayes
+**Director:** Alan Ayckbourn  
+**Design:** Michael Holt  
+**Lighting:** Mick Hughes  
+**Choreographer:** Sheila Carter  
+**Stage Manager:** Dawn Erica Dyson  
+**Deputy Stage Manager:** Fleur Linden Beeley  
+**Assistant Stage Manager:** Keith Tunstall  
+**Assistant Stage Manager:** Sara Wells
+
+**Character** **Actor**  
+**Nora** Claire Carrie  
+**Torvald Helmer** Richard Derrington  
+**Dr Rank** Julian Forsyth  
+**Mrs Kristine Linde** Dorothy Atkinson  
+**Nils Krogstad** Robert Austin  
+**Anne-Marie** Nicola Sloane  
+**Helene** Charlie Hayes
 
 ### Notes
 

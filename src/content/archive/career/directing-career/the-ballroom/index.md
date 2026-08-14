@@ -20,15 +20,25 @@ order: 436
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Laura McLaughlin **Lil Powell** Lesley Meade  
-**Choreographer:** Angela Hardcastle **Jack Powell, her husband** Graeme Eton  
-**Musical Director:** John Pattison **David Powell, their son** Adam Godley  
-**Stage Manager:** Vaughn Curtis **Babs, her cousin** Jenny Funnell  
-**Deputy Stage Manager:** Kate Haswell **Gran, her mother-in-law** Doreen Andrew  
-**Deputy Stage Manager:** David O'Neill **Adrian Melrose** Simon Chandler  
-**Assistant Stage Manager:** Braco Dawson **Veronica Melrose** Lynette Edwards  
-**Assistant Stage Manager:** Sarah Percival **Phil Spear, a dance instructor** John Gillett
+**Director:** Alan Ayckbourn  
+**Design:** Laura McLaughlin  
+**Choreographer:** Angela Hardcastle  
+**Musical Director:** John Pattison  
+**Stage Manager:** Vaughn Curtis  
+**Deputy Stage Manager:** Kate Haswell  
+**Deputy Stage Manager:** David O'Neill  
+**Assistant Stage Manager:** Braco Dawson  
+**Assistant Stage Manager:** Sarah Percival
+
+**Character** **Actor**  
+**Lil Powell** Lesley Meade  
+**Jack Powell, her husband** Graeme Eton  
+**David Powell, their son** Adam Godley  
+**Babs, her cousin** Jenny Funnell  
+**Gran, her mother-in-law** Doreen Andrew  
+**Adrian Melrose** Simon Chandler  
+**Veronica Melrose** Lynette Edwards  
+**Phil Spear, a dance instructor** John Gillett
 
 ### Notes
 

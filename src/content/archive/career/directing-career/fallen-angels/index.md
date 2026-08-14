@@ -20,13 +20,20 @@ order: 457
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Helga Wood **Julia** Alison Skilbeck  
+**Director:** Alan Ayckbourn  
+**Design:** Helga Wood  
+**Stage Manager:** Janet Fox  
+**Deputy Stage Manager:** Christopher Gray  
+**Assistant Stage Manager:** Anne Hawkins  
+**Assistant Stage Manager:** Simon Richardson
+
+**Character** **Actor**  
+**Julia** Alison Skilbeck  
 **Fred, her husband** Malcolm Hebden  
-**Stage Manager:** Janet Fox **Saunders, her maid** Diane Bull  
-**Deputy Stage Manager:** Christopher Gray **Willy** Bob Eaton  
-**Assistant Stage Manager:** Anne Hawkins **Jane, his wife** Petronella Ford  
-**Assistant Stage Manager:** Simon Richardson **Maurice Duclos** Robin Herford
+**Saunders, her maid** Diane Bull  
+**Willy** Bob Eaton  
+**Jane, his wife** Petronella Ford  
+**Maurice Duclos** Robin Herford
 
 ### Notes
 

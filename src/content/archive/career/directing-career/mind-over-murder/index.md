@@ -20,13 +20,20 @@ order: 420
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** Michael Holt **Robert Hunter** Richard Freeman  
-**Lighting:** Paul Towson **Bob Hunter** Nicholas Haverson  
+**Director:** Alan Ayckbourn  
+**Design:** Michael Holt  
+**Lighting:** Paul Towson  
+**Stage Manager:** Richard Clayton  
+**Deputy Stage Manager:** Harry Teale  
+**Assistant Stage Manager:** Gemma Brooks
+
+**Character** **Actor**  
+**Robert Hunter** Richard Freeman  
+**Bob Hunter** Nicholas Haverson  
 **Karen Hunter** Fiona Hendley  
-**Stage Manager:** Richard Clayton **Carrie Brewer** Victoria Gay  
-**Deputy Stage Manager:** Harry Teale **Dominic Bradshaw** Colin Gourley  
-**Assistant Stage Manager:** Gemma Brooks **Bridget Bradshaw** Dorothy Atkinson
+**Carrie Brewer** Victoria Gay  
+**Dominic Bradshaw** Colin Gourley  
+**Bridget Bradshaw** Dorothy Atkinson
 
 ### Notes
 

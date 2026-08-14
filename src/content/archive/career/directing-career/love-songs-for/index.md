@@ -20,13 +20,21 @@ order: 469
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Musical Director:** John Pattison **Pete** Bill Champion  
-**Design:** Michael Holt **Jerry** Keith Bartlett  
-**Lighting:** Paul Towson **Glynn** John Branwell  
-**Choreography:** Sheila Carter **Adam** Nicholas Haverson  
-**Stage Manager:** Helen Reynolds **Michelle** Janie Dee  
-**Assistant Stage Manager:** Fleur Linden Beeley **Becky** Helen Pearson
+**Director:** Alan Ayckbourn  
+**Musical Director:** John Pattison  
+**Design:** Michael Holt  
+**Lighting:** Paul Towson  
+**Choreography:** Sheila Carter  
+**Stage Manager:** Helen Reynolds  
+**Assistant Stage Manager:** Fleur Linden Beeley
+
+**Character** **Actor**  
+**Pete** Bill Champion  
+**Jerry** Keith Bartlett  
+**Glynn** John Branwell  
+**Adam** Nicholas Haverson  
+**Michelle** Janie Dee  
+**Becky** Helen Pearson
 
 ### Notes
 

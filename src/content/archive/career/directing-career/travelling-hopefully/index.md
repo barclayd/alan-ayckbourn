@@ -20,13 +20,21 @@ order: 499
 
 ### Company Details
 
-**Director:** Alan Ayckbourn **Character** **Actor**  
-**Design:** David Millard **Vivien Dibbs** Alison Skilbeck  
-**Costumes:** Frances Upton **Fay Moon** Fiona Mathieson  
+**Director:** Alan Ayckbourn  
+**Design:** David Millard  
+**Costumes:** Frances Upton  
+**Stage Manager:** Janet Fox  
+**Deputy Stage Manager:** Christopher Gray  
+**Assistant Stage Manager:** Dee Marsden  
+**Assistant Stage Manager:** Derek Scriminger
+
+**Character** **Actor**  
+**Vivien Dibbs** Alison Skilbeck  
+**Fay Moon** Fiona Mathieson  
 **Brian Moon** Robin Murphy  
-**Stage Manager:** Janet Fox **Susan Blair** Lavinia Bertram  
-**Deputy Stage Manager:** Christopher Gray **Joe Blair** Robert Austin  
-**Assistant Stage Manager:** Dee Marsden **Marjorie Moon** Shelagh Stuttle  
-**Assistant Stage Manager:** Derek Scriminger **Desmond Dibbs** John Arthur
+**Susan Blair** Lavinia Bertram  
+**Joe Blair** Robert Austin  
+**Marjorie Moon** Shelagh Stuttle  
+**Desmond Dibbs** John Arthur
 
 *All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
