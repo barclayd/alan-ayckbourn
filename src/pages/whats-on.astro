@@ -137,8 +137,8 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
   section="What's On"
   indexed={false}
 >
-  <header class="bg-chrome px-4 pt-20 pb-16 text-chrome-ink sm:px-6">
-    <div class="mx-auto max-w-6xl">
+  <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
+    <div class="shell">
       <p
         class="animate-[rise-in_.6s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
       >
@@ -164,7 +164,7 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
     </div>
   </header>
 
-  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+  <div class="shell py-14">
     {
       intro && (
         <div

@@ -32,8 +32,8 @@ const decades = [
   description={`All ${plays.length} of Alan Ayckbourn's works for the stage, with premieres, casts, synopses and production histories.`}
   indexed={false}
 >
-  <header class="bg-chrome px-4 pt-20 pb-16 text-chrome-ink sm:px-6">
-    <div class="mx-auto max-w-6xl">
+  <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
+    <div class="shell">
       <p
         class="animate-[rise-in_.6s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
       >
@@ -55,9 +55,9 @@ const decades = [
   </header>
 
   <div
-    class="sticky top-14 z-30 border-rule border-b bg-surface/95 px-4 py-3 backdrop-blur-sm sm:px-6"
+    class="sticky top-14 z-30 border-rule border-b bg-surface/95 py-3 backdrop-blur-sm"
   >
-    <div class="mx-auto flex max-w-6xl items-center gap-4">
+    <div class="shell flex items-center gap-4">
       {/*
         Hidden until the script unhides it: a sort button that cannot sort is
         worse than no button. Without JS the page is still the whole oeuvre in
@@ -121,10 +121,10 @@ const decades = [
     </div>
   </div>
 
-  <section class="px-4 py-14 sm:px-6">
+  <section class="px-4 py-14">
     <ul
       id="play-grid"
-      class="mx-auto grid max-w-6xl grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5"
+      class="shell grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5"
     >
       {
         plays.map((play, i) => (

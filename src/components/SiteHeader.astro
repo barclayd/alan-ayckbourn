@@ -21,7 +21,7 @@ const isCurrent = (href: string) =>
   id="site-header"
   class="sticky top-0 z-40 border-chrome-rule/70 border-b bg-chrome/85 text-chrome-ink backdrop-blur-md"
 >
-  <div class="mx-auto flex h-14 max-w-6xl items-center gap-4 px-4 sm:px-6">
+  <div class="shell flex h-14 items-center gap-4">
     <a
       href="/"
       class="font-display text-lg uppercase leading-none tracking-wide transition-colors hover:text-chrome-accent"
@@ -95,7 +95,7 @@ const isCurrent = (href: string) =>
           aria-label="Sections"
           class="absolute inset-x-0 top-14 origin-top animate-[drop-in_.35s_var(--ease-stage)_both] border-chrome-rule/70 border-b bg-chrome"
         >
-          <ul class="mx-auto max-w-6xl px-4 py-2">
+          <ul class="shell py-2">
             {
               links.map(({ href, label }) => (
                 <li class="border-chrome-rule/50 border-b last:border-0">
