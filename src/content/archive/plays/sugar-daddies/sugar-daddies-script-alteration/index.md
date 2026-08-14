@@ -1,7 +1,7 @@
 ---
 title: "Script Alteration"
 source: "http://sugardaddies.alanayckbourn.net/styled-9/"
-order: 861
+order: 860
 play: "sugar-daddies"
 ---
 
@@ -13,8 +13,8 @@ The following text completely replaces the climax of the end of Act 2, Scene 4 (
 
 **VAL:** And keep away from that bastard downstairs, he’s a very bad influence.
 
-*VAL goes out, closing the door.  
-Alone, SASHA gives a little wail to herself.*  
+*VAL goes out, closing the door.*  
+*Alone, SASHA gives a little wail to herself.*  
 *CHLOË comes on from the bedroom. She is limping slightly from her accident.*
 
 **CHLOË:** I woke up just now, I thought I’d fallen asleep inside a polar bear’s arse. Who were you talking to?

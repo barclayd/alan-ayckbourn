@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://thesquarecat.alanayckbourn.net/page16/"
-order: 892
+order: 891
 play: "the-square-cat"
 ---
 
@@ -37,15 +37,13 @@ Alan Ayckbourn
 **Venue:** Municipal Hall, Newcastle-under-Lyme  
 **Staging:** Round
 
-**Director:** Stephen Joseph  
-**Character**  
-Sidney Glover  
-Alice Glover  
-Steve Glover  
-Susan Glover  
-Jerry Wattis / Arthur Brummage **Actor**  
-David Campton  
-Dona Martyn  
-William Elmhirst  
-Faynia Jeffery  
-Barry Boys  *All research for this page by Simon Murgatroyd.*
+**Director:** Stephen Joseph
+
+**Character** **Actor**  
+**Sidney Glover** David Campton  
+**Alice Glover** Dona Martyn  
+**Steve Glover** William Elmhirst  
+**Susan Glover** Faynia Jeffery  
+**Jerry Wattis / Arthur Brummage** Barry Boys
+
+*All research for this page by Simon Murgatroyd.*

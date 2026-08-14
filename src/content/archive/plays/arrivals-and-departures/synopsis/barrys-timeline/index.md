@@ -1,7 +1,7 @@
 ---
 title: "Barry's Timeline"
 source: "http://arrivalsanddepartures.alanayckbourn.net/styled-3/styled-14/"
-order: 2022
+order: 2020
 play: "arrivals-and-departures"
 ---
 

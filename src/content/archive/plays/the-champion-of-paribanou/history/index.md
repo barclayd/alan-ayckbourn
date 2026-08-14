@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://thechampionofparibanou.alanayckbourn.net/styled/"
-order: 1661
+order: 1660
 play: "the-champion-of-paribanou"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled/page-7/"
-order: 1404
+order: 1403
 play: "a-chorus-of-disapproval"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Character Notes"
 source: "http://drowningondryland.alanayckbourn.net/styled-2/"
-order: 1869
+order: 1867
 play: "drowning-on-dry-land"
 ---
 

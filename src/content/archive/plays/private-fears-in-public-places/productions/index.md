@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://privatefears.alanayckbourn.net/page16/"
-order: 1885
+order: 1883
 play: "private-fears-in-public-places"
 ---
 

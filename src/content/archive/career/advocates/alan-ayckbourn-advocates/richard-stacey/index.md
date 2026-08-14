@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Richard Stacey"
 source: "http://advocates.alanayckbourn.net/page/page-17/"
-order: 2340
+order: 2338
 ---
 
 *As an actor, Richard Stacey worked frequently with Alan Ayckbourn including appearing in the world and New York premieres of the playwright's work.*

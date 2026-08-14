@@ -1,34 +1,24 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page179/"
-order: 588
+order: 587
 ---
 
 ## Two For The Seesaw (1963)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Two For The Seesaw  
+**Author:** William Gibson  
+**First performance:** 1 July 1963  
+**Final performance:** 25 August 1963 (TBC)  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Caroline Smith
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Two For The Seesaw  
-William Gibson
-
-1 July 1963  
-25 August 1963 (TBC)  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Caroline Smith   **Character**  
-Jerry Ryan  
-Gittel Mosca **Actor**  
-Alan Ayckbourn  
-Heather Stoney
+**Character** **Actor**  
+**Jerry Ryan** Alan Ayckbourn  
+**Gittel Mosca** Heather Stoney
 
 ### Quotes & Notes
 

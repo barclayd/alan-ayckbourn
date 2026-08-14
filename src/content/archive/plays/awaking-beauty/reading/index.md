@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://awakingbeauty.alanayckbourn.net/styled-8/"
-order: 1951
+order: 1949
 play: "awaking-beauty"
 ---
 

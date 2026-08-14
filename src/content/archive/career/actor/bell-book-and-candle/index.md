@@ -8,35 +8,13 @@ order: 371
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Bell, Book & Candle  
-John van Druten
-
-16 June 1959  
-19 August 1959  
-The Library Theatre, Scarborough  
-Round
-
-Rodney Wood   **Character**  
-Gillian Holroyd  
-Anthony Henderson  
-Miss Holroyd  
-Nicholas Holroyd  
-Sidney Reditch  
-Pyewacket **Actor**  
-Dona Martyn  
-William Elmhirst  
-Faynia Jeffery  
-Alan Ayckbourn  
-David Campton  
-Joanna (a cat)
+****Play:** Bell, Book & Candle** **Character** **Actor**  
+****Author:** John van Druten** **Gillian Holroyd** Dona Martyn  
+****First performance:** 16 June 1959** **Anthony Henderson** William Elmhirst  
+****Final performance:** 19 August 1959** **Miss Holroyd** Faynia Jeffery  
+****Venue:** The Library Theatre, Scarborough** **Nicholas Holroyd** Alan Ayckbourn  
+****Staging:** Round** **Sidney Reditch** David Campton  
+****Director:** Rodney Wood** **Pyewacket** Joanna (a cat)
 
 ### Quotes & Notes
 

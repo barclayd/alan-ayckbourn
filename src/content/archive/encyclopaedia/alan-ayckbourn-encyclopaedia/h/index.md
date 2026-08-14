@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: H"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-8/H.html"
-order: 691
+order: 690
 ---
 
 **Haileybury:** Public boarding school near Hertford attended by Alan Ayckbourn (then called Haileybury and Imperial Service College). Most notable for introducing him to acting and a teacher, Edgar Matthews, who encouraged his passion for theatre.

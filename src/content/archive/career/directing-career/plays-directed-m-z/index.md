@@ -83,7 +83,7 @@ Round And Round The Garden](/plays/the-norman-conquests)
 [Season's Greetings  
 Season's Greetings](/plays/seasons-greetings)  
 [Second Helping](/plays/second-helping)  
-[The 7 Deadly Virtues](/plays/the-seven-deadly-virtues)  
+[The 7 Deadly Virtues](/plays/the-7-deadly-virtues)  
 [Show & Tell](/plays/show-and-tell)  
 [The Shy Gasman](/career/directing-career/the-shy-gasman)  
 [Sisterly Feelings  

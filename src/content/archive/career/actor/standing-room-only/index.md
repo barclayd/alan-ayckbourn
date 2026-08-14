@@ -1,42 +1,28 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page156/"
-order: 563
+order: 562
 ---
 
 ## Standing Room Only (1961)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Standing Room Only  
+**Author:** Roland Allen (Alan Ayckbourn)  
+**First performance:** 13 July 1961  
+**Final performance:** 8 September 1961  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph  
+**Costumes:** Christine Roland
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Costumes:** Standing Room Only  
-Roland Allen (Alan Ayckbourn)
-
-13 July 1961  
-8 September 1961  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph  
-Christine Roland   **Character**  
-Neeta  
-Nemo  
-Cora  
-Pa  
-John **Actor**  
-Rosamund Dickson  
-David Jarrett  
-Hazel Burt  
-Stanley Page  
-Alan Ayckbourn
+**Character** **Actor**  
+**Neeta** Rosamund Dickson  
+**Nemo** David Jarrett  
+**Cora** Hazel Burt  
+**Pa** Stanley Page  
+**John** Alan Ayckbourn
 
 ### Quotes & Notes
 

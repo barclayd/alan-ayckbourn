@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Michael Frayn"
 source: "http://advocates.alanayckbourn.net/page/page-50/"
-order: 2350
+order: 2348
 ---
 
 *Michael Frayn is a playwright and novelist best known for his play Noises Off, but who has had success in both staged and prose works.*

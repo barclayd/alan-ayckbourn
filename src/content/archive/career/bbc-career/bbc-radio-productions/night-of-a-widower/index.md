@@ -1,7 +1,7 @@
 ---
 title: "BBC Radio Plays"
 source: "http://careers.alanayckbourn.net/styled/styled-18/page-29/"
-order: 649
+order: 648
 ---
 
 *Between 1965 and 1970, Alan Ayckbourn was employed as a Radio Drama Producer by the BBC. He was responsible for directing dozens of works for the radio, sadly details of the majority of which have been lost. These pages contain details for specific productions where known.*
@@ -10,8 +10,8 @@ order: 649
 
 **Author:**
 
-**Broadcast:  
-Channel:**Pagan Muat
+**Broadcast:**  
+**Channel:**Pagan Muat
 
 2 September 1967 @ 8.30pm  
 BBC Home Service**Director:**Alan Ayckbourn**Character**  

@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://howtheotherhalfloves.alanayckbourn.net/page-5/styled-16/"
-order: 1026
+order: 1025
 play: "how-the-other-half-loves"
 ---
 

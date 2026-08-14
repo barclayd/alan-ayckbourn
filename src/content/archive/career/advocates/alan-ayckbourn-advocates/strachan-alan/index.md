@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Alan Strachan"
 source: "http://advocates.alanayckbourn.net/page/page-61/"
-order: 759
+order: 758
 ---
 
 *Alan Strachan is a director who has produced a number of Alan Ayckbourn's plays to great acclaim and success in the West End. He has also worked with the playwright at the Stephen Joseph Theatre in Scarborough.*

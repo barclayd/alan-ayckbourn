@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: V"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-22/V.html"
-order: 705
+order: 704
 ---
 
 **[Victoria Theatre:](/career/victoria-theatre)** The first purpose-built professional theatre-in-the-round in England. The theatre was designed and created by Stephen Joseph; Alan Ayckbourn moved from the Library Theatre, Scarborough, to become an Associate Director when the Victoria Theatre opened on 9 October 1962. Alan premiered two of his plays at the theatre; *Christmas V Mastermind* and *Mr Whatnot*, before leaving the theatre in 1964. The theatre is now known as the New Vic Theatre and is still in-the-round with close ties to the Stephen Joseph Theatre, Scarborough.

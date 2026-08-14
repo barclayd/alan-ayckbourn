@@ -1,7 +1,7 @@
 ---
 title: "BBC Radio Plays"
 source: "http://careers.alanayckbourn.net/styled/styled-18/page-57/"
-order: 659
+order: 658
 ---
 
 *Between 1965 and 1970, Alan Ayckbourn was employed as a Radio Drama Producer by the BBC. He was responsible for directing dozens of works for the radio, sadly details of the majority of which have been lost. These pages contain details for specific productions where known.*
@@ -10,8 +10,8 @@ order: 659
 
 **Author:**
 
-**Broadcast:  
-Channel:**Jim Andrew
+**Broadcast:**  
+**Channel:**Jim Andrew
 
 20 August 1969 @ 8.15pm  
 BBC Radio 2**Director:**Alan Ayckbourn**Character**  

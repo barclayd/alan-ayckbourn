@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://absentfriends.alanayckbourn.net/styled-8/"
-order: 1125
+order: 1124
 play: "absent-friends"
 ---
 

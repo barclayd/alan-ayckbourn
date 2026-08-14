@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Felicity Kendal"
 source: "http://advocates.alanayckbourn.net/page/page-20/"
-order: 2328
+order: 2326
 ---
 
 *Felicity Kendal CBE is an actress well known for her work on both stage and screen. Her breakout role was in the West End premiere of Alan Ayckbourn's The Norman Conquests for which she received the Variety Club's Most promising Newcomer award. She would go on to find fame in the BBC sitcom The Good Life. She is well known for her association with the playwright Tom Stoppard with whom she worked extensively during the 1980s and 1990s.*

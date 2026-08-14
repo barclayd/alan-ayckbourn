@@ -1,7 +1,7 @@
 ---
 title: "Characters"
 source: "http://thedivide.alanayckbourn.net/page20/"
-order: 2260
+order: 2258
 play: "the-divide"
 ---
 

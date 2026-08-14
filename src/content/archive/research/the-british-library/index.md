@@ -1,7 +1,7 @@
 ---
 title: "The British Library"
 source: "http://research.alanayckbourn.net/page-13/"
-order: 866
+order: 865
 ---
 
 The British Library in London holds a significant amount of archival material relating to Alan Ayckbourn - including many of his rarest manuscripts - and Theatre in the Round, including the majority of world premiere play scripts premiered by the company between 1955 and 1965.

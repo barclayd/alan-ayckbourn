@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://wayupstream.alanayckbourn.net/styled-4/"
-order: 1327
+order: 1326
 play: "way-upstream"
 ---
 

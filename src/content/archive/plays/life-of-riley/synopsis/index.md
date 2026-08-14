@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://lifeofriley.alanayckbourn.net/styled-3/"
-order: 1971
+order: 1969
 play: "life-of-riley"
 ---
 

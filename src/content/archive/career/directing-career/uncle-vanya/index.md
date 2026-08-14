@@ -8,31 +8,31 @@ order: 502
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Anton Chekhov  
+**Venue:**  
+**Location:**  
+**Staging:**Anton Chekhov  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**17 July 1972  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**17 July 1972  
 17 July 1972  
 30 August 1972
 
 ### Company Details
 
-**Director:  
-Costumes:**
+**Director:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Tina Bicat
 
 Jennifer Smith  

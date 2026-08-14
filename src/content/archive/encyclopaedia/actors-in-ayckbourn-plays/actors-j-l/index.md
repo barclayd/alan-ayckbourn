@@ -1,7 +1,7 @@
 ---
 title: "Actors Index: J - L"
 source: "http://encyclopedia.alanayckbourn.net/page-11/page-15/page50.html"
-order: 804
+order: 803
 ---
 
 This is a comprehensive list of the actors (surnames J - L) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Liz Jadav:** Joking Apart (AR 2018); Better Off Dead (WP 2018)  

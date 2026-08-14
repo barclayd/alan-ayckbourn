@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Articles by Alan Ayckbourn"
 source: "http://livingtogether.alanayckbourn.net/styled-6/page-7/"
-order: 2506
+order: 2478
 play: "living-together"
 ---
 
@@ -95,5 +95,5 @@ play: "living-together"
 
 **And…** Somewhere or other, somewhere in the world, in some language or other, individually or all together, there’s usually a performance of *The Norman Conquests* going on. Nice that.
 
-*Alan Ayckbourn  
-2013*
+*Alan Ayckbourn*  
+*2013*

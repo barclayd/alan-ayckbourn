@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Rehearsed Reading - July 4 2019"
 source: "http://standingroomonly.alanayckbourn.net/page16/page-2/"
-order: 944
+order: 943
 play: "standing-room-only"
 ---
 
@@ -23,29 +23,17 @@ Dick & Lottie is a professional theatre company dedicated to performing the work
 
 ### The Company
 
-**Character**  
-Pa  
-Cora  
-Nita  
-Ellie  
-Paul  
-John
-
-Director  
-Design  
-Music  
-Advisor **Actor**  
-Leslie Davidoff  
-Leah Grey-Scaife  
-Hannah Sims  
-Maria Sykes  
-Darren Jeffries  
-Joe Geddes
-
-John Cotgrave  
-Richard McArtney  
-Paul Chamberlain  
-Simon Murgatroyd
+**Character** **Actor**  
+**Pa** Leslie Davidoff  
+**Cora** Leah Grey-Scaife  
+**Nita** Hannah Sims  
+**Ellie** Maria Sykes  
+**Paul** Darren Jeffries  
+**John** Joe Geddes  
+**Director** John Cotgrave  
+**Design** Richard McArtney  
+**Music** Paul Chamberlain  
+**Advisor** Simon Murgatroyd
 
 ![](./_images/stacks-image-2e8b213.jpg)
 

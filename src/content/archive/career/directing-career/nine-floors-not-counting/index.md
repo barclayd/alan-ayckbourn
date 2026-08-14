@@ -8,8 +8,8 @@ order: 475
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
 **Venue:**
 
@@ -17,8 +17,8 @@ New Play:**
 No
 
 National Union of Townswomens' Guilds Drama Conference, London  
-To be confirmed**First performance:  
-Final performance:**To be confirmed 1962  
+To be confirmed**First performance:**  
+**Final performance:**To be confirmed 1962  
 To be confirmed 1962
 
 ### Company Details

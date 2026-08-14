@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://timeandtimeagain.alanayckbourn.net/styled-9/page17.html"
-order: 761
+order: 760
 play: "time-and-time-again"
 ---
 
@@ -14,16 +14,16 @@ play: "time-and-time-again"
 
 **Production:** ATV
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Design  
-Music  
-Associate producer  
-Executive producer  
-MCC Cricket Advisor**
+**Digital:** Not available**Director**  
+**Design**  
+**Music**  
+**Associate producer**  
+**Executive producer**  
+**MCC Cricket Advisor**
 
 **Character**  
 Leonard  

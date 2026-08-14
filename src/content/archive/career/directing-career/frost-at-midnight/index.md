@@ -8,34 +8,34 @@ order: 458
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**André Obey  
+**Venue:**  
+**Location:**  
+**Staging:**André Obey  
 No
 
 The Library Theatre  
 Lecture Room, Scarborough Library  
-Three-sided**First performance:  
-Opening night:  
-Final performance:**  
+Three-sided**First performance:**  
+**Opening night:**  
+**Final performance:**  
 27 December 1974  
 27 December 1974  
 11 January 1975
 
 ### Company Details
 
-**Director:  
-Design:  
-Costumes:  
-Music:**
+**Director:**  
+**Design:**  
+**Costumes:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Helga Wood  
 Christine Welch  
 Paul Todd

@@ -8,17 +8,17 @@ order: 482
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**Alan Plater  
+**Venue:**  
+**Staging:**Alan Plater  
 Yes
 
 Victoria Theatre, Stoke-on-Trent  
-Round**First performance:  
-Opening night:  
-Final performance:**January 1963  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**January 1963  
 21 January 1963  
 To be confirmed, 1963
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://mysistersadie.alanayckbourn.net/styled-5/"
-order: 1858
+order: 1856
 play: "my-sister-sadie"
 ---
 

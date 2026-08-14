@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://abriefhistoryofwomen.alanayckbourn.net/page-8/"
-order: 2060
+order: 2058
 play: "a-brief-history-of-women"
 ---
 

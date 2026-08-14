@@ -1,7 +1,7 @@
 ---
 title: "What The Critics said… And What They Actually Said!"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-10/page19/page17.html"
-order: 1409
+order: 1408
 play: "a-chorus-of-disapproval"
 ---
 

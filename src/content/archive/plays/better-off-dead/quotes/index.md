@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://betteroffdead.alanayckbourn.net/styled-4/"
-order: 2077
+order: 2075
 play: "better-off-dead"
 ---
 

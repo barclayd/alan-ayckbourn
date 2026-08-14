@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: Synopsis by Alan Ayckbourn"
 source: "http://mrasamazing.alanayckbourn.net/styled-4/"
-order: 1493
+order: 1492
 play: "mr-as-amazing-maze-plays"
 ---
 

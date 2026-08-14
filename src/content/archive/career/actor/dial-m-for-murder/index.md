@@ -1,44 +1,29 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page134/"
-order: 542
+order: 541
 ---
 
 ## Dial M For Murder (1958)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Dial M For Murder  
+**Author:** Frederick Knott  
+**First performance:** 26 June 1958  
+**Final performance:** 12 September 1958  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph  
+**Stage Manager:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Stage Manager:** Dial M For Murder  
-Frederick Knott
-
-26 June 1958  
-12 September 1958  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph  
-Alan Ayckbourn   **Character**  
-Sheila Wendice  
-Max Halliday  
-Tony Wendice  
-Captain Lesgate  
-Inspector Hubbard  
-Constable Williams **Actor**  
-Pauline Devaney  
-David Sutton  
-Robert Fyfe  
-Rodney Wood  
-Ian Curteis  
-Alan Ayckbourn
+**Character** **Actor**  
+**Sheila Wendice** Pauline Devaney  
+**Max Halliday** David Sutton  
+**Tony Wendice** Robert Fyfe  
+**Captain Lesgate** Rodney Wood  
+**Inspector Hubbard** Ian Curteis  
+**Constable Williams** Alan Ayckbourn
 
 ### Quotes & Notes
 

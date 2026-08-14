@@ -1,40 +1,27 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page163/"
-order: 569
+order: 568
 ---
 
 ## A Doll's House (1962)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** A Doll's House  
+**Author:** Henrik Ibsen  
+**First performance:** 15 January 1962  
+**Final performance:** 27 January 1962  
+**Venue:** Municipal Hall, Newcastle-under-Lyme  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** A Doll's House  
-Henrik Ibsen
-
-15 January 1962  
-27 January 1962  
-Municipal Hall, Newcastle-under-Lyme  
-Round
-
-Peter Cheeseman   **Character**  
-Torvald  
-Nora  
-Dr Rank  
-Christine  
-Krogstad **Actor**  
-Alan Ayckbourn  
-Patricia England  
-Stanley Page  
-Rosamund Dickson  
-Richard Gill
+**Character** **Actor**  
+**Torvald** Alan Ayckbourn  
+**Nora** Patricia England  
+**Dr Rank** Stanley Page  
+**Christine** Rosamund Dickson  
+**Krogstad** Richard Gill
 
 ### Quotes & Notes
 

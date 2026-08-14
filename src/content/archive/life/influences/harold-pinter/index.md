@@ -18,9 +18,9 @@ The following article by Alan Ayckbourn is reproduced from The Observer, publish
 
 ![](./_images/stacks-image-8ac90ad.jpg)
 
-*Alan Ayckbourn  
-& Harold Pinter  
-(© Tony Bartholomew)*
+*Alan Ayckbourn*  
+*& Harold Pinter*  
+*(© Tony Bartholomew)*
 
 ## Resources
 

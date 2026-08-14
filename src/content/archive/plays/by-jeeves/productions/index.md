@@ -1,7 +1,7 @@
 ---
 title: "Jeeves / By Jeeves: Significant Productions"
 source: "http://byjeeves.alanayckbourn.net/page16/"
-order: 2399
+order: 2397
 play: "by-jeeves"
 ---
 
@@ -17,8 +17,8 @@ play: "by-jeeves"
 **Final performance:** 5 April 1975  
 **Venue:** Bristol Hippodrome
 
-**London Premiere  
-Premiere:** 22 April 1975  
+**London Premiere**  
+**Premiere:** 22 April 1975  
 **Closed:** 24 May 1975  
 **Venue:** Her Majesty's Theatre, London  
 **Staging:** End-stage

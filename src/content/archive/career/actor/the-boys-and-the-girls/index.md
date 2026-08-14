@@ -1,30 +1,22 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page159/"
-order: 566
+order: 565
 ---
 
 ## The Boys And The Girls (1961)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Boys And The Girls  
+**Author:** David Campton  
+**First performance:** 26 December 1961  
+**Final performance:** 30 December 1961  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Boys And The Girls  
-David Campton
-
-26 December 1961  
-30 December 1961  
-The Library Theatre, Scarborough  
-Round
-
-Alan Ayckbourn   **Character**  
+**Character**  
 All actors played  
 various roles **Actor**  
 Rosamund Dickson  

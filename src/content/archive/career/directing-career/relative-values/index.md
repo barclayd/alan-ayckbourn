@@ -8,32 +8,32 @@ order: 418
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter Hawkins  
+**Venue:**  
+**Location:**  
+**Staging:**Peter Hawkins  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**23 June 1969  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**23 June 1969  
 23 June 1969  
 20 August 1969
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Music:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Music:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Peter Boden  
 Peter Hawkins  
 Trevor Holroyd

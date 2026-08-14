@@ -12,7 +12,7 @@ As an acclaimed director, he has worked extensively in the West End and at the N
 
 The website is administered by the playwright's archivist **[Simon Murgatroyd](http://www.simon-murgatroyd.com/)** and offers an indispensable guide to his plays and career. At more than 3,500 pages, it is the most comprehensive and in-depth resource dedicated to Alan Ayckbourn. Visit our sister site **[A Round Town](http://www.a-round-town.com/)** to learn about theatre in the round in Scarborough, which Alan Ayckbourn is synoymous with.
 
-*"Ayckbourn is quintessentially a man of the theatre, and Simon Murgatroyd's  
-achievement has been to celebrate and annotate that for posterity." (The Stage)*
+*"Ayckbourn is quintessentially a man of the theatre, and Simon Murgatroyd's*  
+*achievement has been to celebrate and annotate that for posterity." (The Stage)*
 
 ![](./_images/stacks-image-7278436.jpg)

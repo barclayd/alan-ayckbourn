@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://manofthemoment.alanayckbourn.net/styled/"
-order: 1468
+order: 1467
 play: "man-of-the-moment"
 ---
 
@@ -28,8 +28,8 @@ The play was also conceived with Shakespeare’s ***[Othello](/plays/man-of-the-
 
 The play is the first - and so far only - Ayckbourn play to be set in a foreign country and sees him continuing to explore wider social issues; which arguably began in 1984 with ***[A Chorus Of Disapproval](/plays/a-chorus-of-disapproval)*** and has continued ever since.
 
-*“It does deal with an issue, violence and our response to it. I’m usually know for writing about a lady having an unhappy life in Reading, or someone having a nervous breakdown in a garage. I've come out of the domestic arena. I’ve begun to formulate a few opinions. Until recently I had no opinions whatsoever.”  
-Alan Ayckbourn*
+*“It does deal with an issue, violence and our response to it. I’m usually know for writing about a lady having an unhappy life in Reading, or someone having a nervous breakdown in a garage. I've come out of the domestic arena. I’ve begun to formulate a few opinions. Until recently I had no opinions whatsoever.”*  
+*Alan Ayckbourn*
 
 <aside>
 
@@ -42,8 +42,8 @@ The original production was designed by Michael Holt, who was posed the challeng
 
 *Man Of The Moment* opened at the Stephen Joseph Theatre In The Round, Scarborough, on 10 August 1988 with Peter Laird as Vic and Jon Strickland as Douglas. It received predominantly excellent reviews with only The Independent expressing any notable criticism, feeling the characters were not strong enough to carry the themes of the play. The other critics did not agree, although most were quick to jump on the bandwagon that Alan’s plays were getting noticeably darker; something the playwright disagreed.
 
-*“The comedy is decidedly black, but, you know, I’ve always written in that vein. People simply didn’t recognise it. Perhaps they didn’t want to.”  
-Alan Ayckbourn*
+*“The comedy is decidedly black, but, you know, I’ve always written in that vein. People simply didn’t recognise it. Perhaps they didn’t want to.”*  
+*Alan Ayckbourn*
 
 The play’s opening inadvertently coincided with the pre-release schedule of the movie *Buster*, which obviously echoed the play’s theme of glamorising the nation’s villains and, as the critic Michael Billington points out, proved to be extremely topical with the media reporting a row about whether the Royal Family should attend a gala opening of the film, in the light of the fact it celebrated the life of one of the Great Train Robbers. Coincidentally, Alan’s other later play about the media, ***[Drowning On Dry Land](/plays/drowning-on-dry-land)*** (2004), also proved to be inadvertently topical; this play centres on a celebrity accused of having an affair with a clown which destroys his career and it premiered during the media furore about the celebrity couple Victoria and David Beckham and his alleged affair with his PA Rebecca Loos.
 
@@ -62,8 +62,8 @@ Although the planned double-bill with *Othello* fell through, plans moved ahead 
 
 Rehearsals began on 2 January 1990 with the show scheduled to open on 1 February; because of the complexities of building the swimming pool, the company was only able to rehearse on stage from 28 January! The frequent Ayckbourn collaborator, Roger Glossop, was given the task of designing the set for The Globe theatre and overcoming the problem of putting a swimming pool into a traditional proscenium arch theatre. There was quite a lot of media interest in this, as Alan had previously had the misfortune to see *Way Upstream* flood the National Theatre when the tank used for the play split; no doubt a number of journalists were hoping for a similar accident to occur here, which even Alan felt could be courting disaster.
 
-*“We could be tempting fate. This one has 36 tons of water in it. It’s one thing to flood the stalls at the National but if this tank goes in Shaftesbury Avenue we could close the Northern Line.”  
-Alan Ayckbourn*
+*“We could be tempting fate. This one has 36 tons of water in it. It’s one thing to flood the stalls at the National but if this tank goes in Shaftesbury Avenue we could close the Northern Line.”*  
+*Alan Ayckbourn*
 
 As it was, there were no such problems and a pool holding 5,000 gallons of water and weighing 36 tonnes was successfully built and later filled by the Fire Brigade, an event covered by many major newspapers \[see **[Images](/plays/man-of-the-moment/images)**\].
 

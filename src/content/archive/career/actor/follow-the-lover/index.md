@@ -1,36 +1,25 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page162/"
-order: 568
+order: 567
 ---
 
 ## Follow The Lover (1962)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Follow The Lover  
+**Author:** Roland Allen (Alan Ayckbourn)  
+**First performance:** Circa March 1962  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Margaret Boden
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Follow The Lover  
-Roland Allen (Alan Ayckbourn)
-
-Circa March 1962  
-The Library Theatre, Scarborough  
-Round
-
-Margaret Boden   **Character**  
-Mr Poulton Smiith  
-Mrs Poulton Smith  
-Young Man  
-Young Woman **Actor**  
-Ken Boden  
-Unknown  
-Alan Ayckbourn  
-Unknown
+**Character** **Actor**  
+**Mr Poulton Smiith** Ken Boden  
+**Mrs Poulton Smith** Unknown  
+**Young Man** Alan Ayckbourn  
+**Young Woman** Unknown
 
 ### Quotes & Notes
 

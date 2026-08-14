@@ -8,32 +8,32 @@ order: 441
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Tom Dulack  
+**Venue:**  
+**Location:**  
+**Staging:**Tom Dulack  
 No
 
 Stephen Joseph Theatre In The Round  
 Studio  
-End-stage**First performance:  
-Opening night:  
-Final performance:**19 July 1991  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**19 July 1991  
 26 July 1991  
 21 September 1991
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Dialect Coach:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Dialect Coach:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Jackie Staines  
 Juliet Nichols  
 Andrew Jack

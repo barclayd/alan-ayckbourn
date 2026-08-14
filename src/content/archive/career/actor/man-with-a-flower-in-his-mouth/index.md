@@ -1,42 +1,28 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page136/"
-order: 544
+order: 543
 ---
 
 ## The Man With A Flower In His Mouth (1958)
 
 ### Production Details
 
-**Play:**  
-**Author:  
-Translation:**
+**Play:** The Man With A Flower In His Mouth  
+**Author:** Marivaux  
+**Translation:** J.W. James  
+**First performance:** 24 July 1958  
+**Final performance:** 3 September 1958  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Rodney Wood  
+**Stage Manager:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Stage Manager:** The Man With A Flower In His Mouth  
-Marivaux  
-J.W. James
-
-24 July 1958  
-3 September 1958  
-The Library Theatre, Scarborough  
-Round
-
-Rodney Wood  
-Alan Ayckbourn   **Character**  
-Man  
-Traveller  
-Waiter  
-Woman **Actor**  
-Robert Fyfe  
-Ian Curteis  
-Alan Ayckbourn  
-Pauline Devaney
+**Character** **Actor**  
+**Man** Robert Fyfe  
+**Traveller** Ian Curteis  
+**Waiter** Alan Ayckbourn  
+**Woman** Pauline Devaney
 
 ### Quotes & Notes
 

@@ -1,7 +1,7 @@
 ---
 title: "A Chronological Synopsis"
 source: "http://surprises.alanayckbourn.net/styled-5/S_Synopis_2.html"
-order: 2000
+order: 1998
 play: "surprises"
 ---
 

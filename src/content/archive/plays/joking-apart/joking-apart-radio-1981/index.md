@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://jokingapart.alanayckbourn.net/styled-9/page17.html"
-order: 743
+order: 742
 play: "joking-apart"
 ---
 
@@ -14,8 +14,8 @@ play: "joking-apart"
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 
@@ -46,8 +46,8 @@ Sheridan Ball
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://roleplay.alanayckbourn.net/styled-5/index.html"
-order: 1794
+order: 1792
 play: "roleplay"
 ---
 

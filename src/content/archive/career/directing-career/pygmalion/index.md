@@ -8,31 +8,31 @@ order: 480
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**George Bernard Shaw  
+**Venue:**  
+**Location:**  
+**Staging:**George Bernard Shaw  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**11 October 1977  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**11 October 1977  
 12 October 1977  
 29 October 1977
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Holt
 
 Janet Fox  

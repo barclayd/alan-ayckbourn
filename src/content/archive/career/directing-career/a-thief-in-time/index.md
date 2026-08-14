@@ -8,19 +8,19 @@ order: 493
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Joan Macalpine  
+**Venue:**  
+**Location:**  
+**Staging:**Joan Macalpine  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**12 June 1962  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**12 June 1962  
 12 June 1962  
 12 September 1962
 
@@ -28,8 +28,8 @@ Final performance:**12 June 1962
 
 **Director:**
 
-**Stage Manager:  
-Stage Manager:**Alan Ayckbourn
+**Stage Manager:**  
+**Stage Manager:**Alan Ayckbourn
 
 Arnold Beck  
 David Wehner**Character**  

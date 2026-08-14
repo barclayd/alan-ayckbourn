@@ -8,26 +8,26 @@ order: 506
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**Alfred Bradley  
+**Venue:**  
+**Staging:**Alfred Bradley  
 Yes
 
 York Theatre Royal  
-End-stage**First performance:  
-Opening night:  
-Final performance:**8 August 1968  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**8 August 1968  
 8 August 1968  
 To be confirmed, 1968
 
 ### Company Details
 
-**Director:  
-Design:  
-Music:  
-Music:**Alan Ayckbourn  
+**Director:**  
+**Design:**  
+**Music:**  
+**Music:**Alan Ayckbourn  
 Helen Wilkinson  
 Trevor Holroyd  
 Barrie Davenport**Character**  

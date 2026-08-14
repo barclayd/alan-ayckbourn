@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://absentfriends.alanayckbourn.net/styled-9/page17.html"
-order: 710
+order: 709
 play: "absent-friends"
 ---
 
@@ -14,11 +14,11 @@ play: "absent-friends"
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Diana  
@@ -46,15 +46,15 @@ David Jason**Note:** For reasons not fully ascertained from archive, this adapta
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Lighting  
-Design  
-Music  
-Producer**
+**Digital:** Not available**Director**  
+**Lighting**  
+**Design**  
+**Music**  
+**Producer**
 
 **Character**  
 John  

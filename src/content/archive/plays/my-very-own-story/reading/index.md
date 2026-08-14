@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://myveryownstory.alanayckbourn.net/styled-13/"
-order: 1583
+order: 1582
 play: "my-very-own-story"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://itcouldbe.alanayckbourn.net/styled-4/"
-order: 1382
+order: 1381
 play: "it-could-be-any-one-of-us"
 ---
 

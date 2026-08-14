@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://consumingpassions.alanayckbourn.net/styled-2/"
-order: 2052
+order: 2050
 play: "consuming-passions"
 ---
 

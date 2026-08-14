@@ -1,7 +1,7 @@
 ---
 title: "BBC Radio Plays"
 source: "http://careers.alanayckbourn.net/styled/styled-18/page-35/"
-order: 675
+order: 674
 ---
 
 *Between 1965 and 1970, Alan Ayckbourn was employed as a Radio Drama Producer by the BBC. He was responsible for directing dozens of works for the radio, sadly details of the majority of which have been lost. These pages contain details for specific productions where known.*
@@ -10,14 +10,14 @@ order: 675
 
 **Author:**
 
-**Broadcast from:  
-Channel:  
-Episodes:**Roy Clarke
+**Broadcast from:**  
+**Channel:**  
+**Episodes:**Roy Clarke
 
 18 January 1968 @ 7.45pm  
 BBC Radio 2  
-6**Director:  
-Theme Music:**Alan Ayckbourn  
+6**Director:**  
+**Theme Music:**Alan Ayckbourn  
 Trevor Holroyd**Episode Titles:**○ F8 And Then Infinity  
 ○ Light The Blue Touch Paper & Retire  
 ○ The Minestrone Thickens & Is Stirred  

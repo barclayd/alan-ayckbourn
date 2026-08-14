@@ -1,7 +1,7 @@
 ---
 title: "History"
-source: "http://sevendeadlyvirtues.alanayckbourn.net/styled/"
-order: 2254
+source: "http://the7deadlyvirtues.alanayckbourn.net/styled/"
+order: 2252
 play: "the-7-deadly-virtues"
 ---
 

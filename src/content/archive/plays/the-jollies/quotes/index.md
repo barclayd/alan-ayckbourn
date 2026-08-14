@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://thejollies.alanayckbourn.net/styled-5/"
-order: 1826
+order: 1824
 play: "the-jollies"
 ---
 

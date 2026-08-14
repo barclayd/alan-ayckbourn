@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://asmallfamilybusiness.alanayckbourn.net/styled-9/page17.html"
-order: 757
+order: 756
 play: "a-small-family-business"
 ---
 
@@ -14,12 +14,12 @@ play: "a-small-family-business"
 
 **Production:** Jarvis & Ayres
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Sound Design  
-Producer**
+**Digital:** Not available**Director**  
+**Sound Design**  
+**Producer**
 
 **Character**  
 Jack  
@@ -61,15 +61,15 @@ Matthew Wolf
 
 **Production:** National Theatre
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Design  
-Lighting  
-Music  
-Sound**
+**Digital:** Not available**Director**  
+**Design**  
+**Lighting**  
+**Music**  
+**Sound**
 
 **Character**  
 Desmond Ayres  

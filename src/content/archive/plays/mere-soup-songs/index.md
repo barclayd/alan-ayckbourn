@@ -16,6 +16,7 @@ facts:
   Final performance: "11 September 1986"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Staging: "End-stage"
+  Musical Director: "Paul Todd"
   Design: "Clare Bracewell"
   Lighting: "Mick ThomasCharacter"
   First performance: "5 December 1986 (TBC)"
@@ -46,8 +47,7 @@ It was revived by Alan Ayckbourn at the **[National Theatre](/career/national-th
 
 ### Premiere Production Details (1986)
 
-**Director: Alan Ayckbourn  
-Musical Director:** Paul Todd  
+**Director: Alan Ayckbourn**  
 Charles  
 Janice  
 Michael  

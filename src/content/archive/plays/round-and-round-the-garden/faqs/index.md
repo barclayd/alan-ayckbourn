@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Frequently Asked Questions"
 source: "http://roundandroundthegarden.alanayckbourn.net/styled-12/"
-order: 2525
+order: 2497
 play: "round-and-round-the-garden"
 ---
 
@@ -22,8 +22,8 @@ Putting aside the practicalities and logistics of doing such a thing, the answer
 Generally speaking, scenes which do take place approximately at the same time generally do work together (although not quite as tightly as *House & Garden*), but there are a couple of instances when the timing is not accurate and it wouldn't be possible to run them together without altering the play (and thus the playwright's intentions). It's an interesting idea but both in theory and practise it would not work without making alterations to the structure of the play and compromising the author's original intent for the play (which was the three plays be produced in repertory with each other, not simultaneously with each other).  
 The playwright's intentions should also be considered. If he had intended *The Norman Conquests* to be performed simultaneously, he would have them written that way and produced them as such. Although he briefly considered writing *The Norman Conquests* as a duology to be performed simultaneously in two auditorium, he made the decision to instead write a trilogy of plays for repertory in the same space. He later revived the idea for a simultaneous duology for *House & Garden* in 1999.
 
-*"You can't run The Norman Conquests simultaneously. Somebody once tried to do all three plays simultaneously and they don't work. The timings are out."  
-Alan Ayckbourn*
+*"You can't run The Norman Conquests simultaneously. Somebody once tried to do all three plays simultaneously and they don't work. The timings are out."*  
+*Alan Ayckbourn*
 
 **Would Alan Ayckbourn ever consider writing a sequel or further parts to *The Norman Conquests*?**  
 Surprisingly, this is one of the most frequently asked questions regarding *The Norman Conquests*. The answer is a definite no from the playwright and he has frequently said he does not feel how a fourth part would add anything meaningful to the trilogy nor how the suggestion of a play revealing 'Mother' would add anything to the play; the potency of 'mother' is due entirely to her being off-stage and unseen. In personal correspondence from 2013, Alan himself stated his thought on the subject: "Sadly, I can't write a sequel to *The Norman Conquests*. If I had wanted to do that, I'd have done it long ago. No, I think the trilogy should exist as it is. Writing a follow-up, even one play, I feel could be regarded as 'cashing in'! Besides I wrote that then and for good or ill, hopefully one moves on as a writer."

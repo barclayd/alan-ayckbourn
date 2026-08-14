@@ -1,32 +1,23 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page-111/"
-order: 552
+order: 551
 ---
 
 ## The Way of the Cross (1960)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Way of the Cross  
+**Author:** Henri Gheon  
+**First performance:** c.Easter 1960  
+**Final performance:** c.Easter 1960  
+**Venue:** Tour  
+**Staging:** Round  
+**Director:** Stephen Joseph  
+**Designer:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Designer:** The Way of the Cross  
-Henri Gheon
-
-c.Easter 1960  
-c.Easter 1960  
-Tour  
-Round
-
-Stephen Joseph  
-Stephen Joseph    **Actor**  
+**Actor**  
 David Jarrett  
 Alan Ayckbourn  
 Rosamund Dickson  

@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://thetrialofromeooscar.alanayckbourn.net/styled-2/"
-order: 2172
+order: 2170
 play: "the-trial-of-romeo-oscar"
 ---
 

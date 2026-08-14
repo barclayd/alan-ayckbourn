@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://relativelyspeaking.alanayckbourn.net/styled-9/page17.html"
-order: 752
+order: 751
 play: "relatively-speaking"
 ---
 
@@ -19,9 +19,9 @@ play: "relatively-speaking"
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**  
-**Designer  
-In arrangement with  
-TV producer**
+**Designer**  
+**In arrangement with**  
+**TV producer**
 
 **Character**  
 Greg  
@@ -78,8 +78,8 @@ Celia Johnson**Note:** This is the first television adaptation of an Alan Ayckbo
 
 **Production:** BBC
 
-**Availability  
-Cassette:** 1990 (deleted)  
+**Availability**  
+**Cassette:** 1990 (deleted)  
 **CD:** Not available  
 **Digital:** Not available**Director**
 
@@ -108,12 +108,12 @@ Rosemary Leach
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Designer  
-Costumes  
-Music  
-Script Editor  
-Producer**
+**Digital:** Not available**Director**  
+**Designer**  
+**Costumes**  
+**Music**  
+**Script Editor**  
+**Producer**
 
 **Character**  
 Greg  

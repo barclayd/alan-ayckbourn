@@ -28,13 +28,13 @@ The Victoria Theatre would go on to became a theatre of immense regional importa
 
 ### Ayckbourn At The Victoria
 
-**As Director  
-1962**  
+**As Director**  
+**1962**  
 ○ *[The Caretaker](/career/directing-career/the-caretaker-1962)*  
 ○ *[Christmas V Mastermind](/plays/christmas-v-mastermind)*
 
-**As Writer  
-1962**  
+**As Writer**  
+**1962**  
 ○ *[Christmas V Mastermind](/plays/christmas-v-mastermind)*
 
 **1963**  

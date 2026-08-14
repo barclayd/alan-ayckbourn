@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://thetrialofromeooscar.alanayckbourn.net/page-4/"
-order: 2173
+order: 2171
 play: "the-trial-of-romeo-oscar"
 ---
 

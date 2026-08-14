@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Tom Littler"
 source: "http://advocates.alanayckbourn.net/page/page-66/"
-order: 2371
+order: 2369
 ---
 
 *Tom Littler is the Artistic Director and Executive Producer of Jermyn Street Theatre and a freelance theatre director. He was notably Associate Director with Sir Peter Hall on the Rose Theatre's acclaimed revival of Bedroom Farce and directed the first major revival of Alan Ayckbourn's Dear Uncle - an adaptation of Chekhov's Uncle Vanya.*

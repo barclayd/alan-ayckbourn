@@ -8,32 +8,32 @@ order: 449
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**David Campton  
+**Venue:**  
+**Location:**  
+**Staging:**David Campton  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**19 June 1972  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**19 June 1972  
 19 June 1972  
 6 September 1972
 
 ### Company Details
 
-**Director:  
-Costumes:  
-Music:**
+**Director:**  
+**Costumes:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Tina Bicat  
 Barrie Davenport
 

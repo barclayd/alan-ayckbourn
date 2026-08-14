@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://thejollies.alanayckbourn.net/styled-4/"
-order: 1825
+order: 1823
 play: "the-jollies"
 ---
 

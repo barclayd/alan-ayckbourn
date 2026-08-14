@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Sir Tom Courtenay"
 source: "http://advocates.alanayckbourn.net/page/page-43/"
-order: 2319
+order: 2317
 ---
 
 *Sir Tom Courtenay is an award-winning English stage and screen actor. He was nominated for an Academy Award for his performance in The Dresser (1983) and for many years was associated with Alan Ayckbourn's plays in the West End, drawing acclaim for his roles in Alan Ayckbourn's Time & Time Again and The Norman Conquests. He also appeared in the television adaptations of Time & Time Again and Absent Friends.*

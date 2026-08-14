@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page32/Media_Henceforward.html"
-order: 825
+order: 824
 ---
 
 ### Henceforward…
@@ -16,13 +16,13 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** LA Theatre Works
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2011 (deleted)  
-**Digital:** 2011 (available)**Director  
-Music  
-Music  
-Sound Design**
+**Digital:** 2011 (available)**Director**  
+**Music**  
+**Music**  
+**Sound Design**
 
 **Character**  
 Jerome  
@@ -54,13 +54,13 @@ Herself
 
 **Production:** Jarvis & Ayres
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Music  
-Music  
-Sound Design**
+**Digital:** Not available**Director**  
+**Music**  
+**Music**  
+**Sound Design**
 
 **Character**  
 Jerome  

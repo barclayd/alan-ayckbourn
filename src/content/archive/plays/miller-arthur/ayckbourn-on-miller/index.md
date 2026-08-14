@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn on Arthur Miller"
 source: "http://aviewfromthebridge.alanayckbourn.net/styled-2/"
-order: 2386
+order: 2384
 play: "miller-arthur"
 ---
 

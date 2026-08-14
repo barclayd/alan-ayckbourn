@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://wildestdreams.alanayckbourn.net/styled-16/"
-order: 1567
+order: 1566
 play: "wildest-dreams"
 ---
 

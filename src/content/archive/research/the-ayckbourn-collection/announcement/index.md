@@ -1,7 +1,7 @@
 ---
 title: "The Ayckbourn Collection at Scarborough Museums & Galleries"
 source: "http://research.alanayckbourn.net/page-7/page-8/page18.html"
-order: 870
+order: 869
 ---
 
 *These pages relate to the Ayckbourn Collection at Scarborough Museums & Galleries. This is a curated collection of material relating to Alan Ayckbourn, Stephen Joseph and the development of theatre in the round in Scarborough donated to the town by the playwright and his archivist, Simon Murgatroyd.*

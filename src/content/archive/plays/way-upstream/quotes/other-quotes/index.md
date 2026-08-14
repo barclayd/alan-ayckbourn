@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://wayupstream.alanayckbourn.net/styled-5/styled-11/"
-order: 1338
+order: 1337
 play: "way-upstream"
 ---
 

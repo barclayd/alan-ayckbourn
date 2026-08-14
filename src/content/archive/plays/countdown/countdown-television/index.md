@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://countdown.alanayckbourn.net/styled-9/page17.html"
-order: 728
+order: 727
 play: "countdown"
 ---
 
@@ -14,8 +14,8 @@ play: "countdown"
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**

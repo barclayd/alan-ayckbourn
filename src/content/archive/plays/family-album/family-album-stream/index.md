@@ -1,7 +1,7 @@
 ---
 title: "Other Media"
 source: "http://familyalbum.alanayckbourn.net/page-7/"
-order: 733
+order: 732
 play: "family-album"
 ---
 
@@ -21,8 +21,8 @@ play: "family-album"
 **DVD:** Not available  
 **Blu-Ray:** Not available  
 **Digital:** Not available**Director:**  
-**Director of Photography:  
-Sound Capture:**  
+**Director of Photography:**  
+**Sound Capture:**  
 **Design:**  
 **Lighting:**  
 **Sound:**  

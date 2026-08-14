@@ -8,31 +8,31 @@ order: 445
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Stephen Lowe  
+**Venue:**  
+**Location:**  
+**Staging:**Stephen Lowe  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**21 July 1976  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**21 July 1976  
 21 July 1976  
 1 September 1976
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Helga Wood
 
 Simon Somers  

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://justbetweenourselves.alanayckbourn.net/styled-5/styled-14/"
-order: 1220
+order: 1219
 play: "just-between-ourselves"
 ---
 

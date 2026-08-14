@@ -1,7 +1,7 @@
 ---
 title: "A Trip To Scarborough: Synopsis"
 source: "http://atriptoscarborough.alanayckbourn.net/styled-4/"
-order: 2214
+order: 2212
 play: "a-trip-to-scarborough-sheridan"
 ---
 

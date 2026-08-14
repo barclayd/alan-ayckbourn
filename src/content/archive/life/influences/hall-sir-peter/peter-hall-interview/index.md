@@ -14,8 +14,8 @@ By Valerie Grove
 
 ![](./_images/stacks-image-bb468d9.jpg)
 
-*Sir Peter Hall & Alan Ayckbourn  
-Copyright: National Theatre*
+*Sir Peter Hall & Alan Ayckbourn*  
+*Copyright: National Theatre*
 
 </aside>
 

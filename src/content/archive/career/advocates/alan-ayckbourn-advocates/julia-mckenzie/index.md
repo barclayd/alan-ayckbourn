@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Julia McKenzie"
 source: "http://advocates.alanayckbourn.net/page/page-46/"
-order: 2330
+order: 2328
 ---
 
 *Julia McKenzie CBE is an actor and director who has worked extensively in the West End, on Broadway and on television. Her performance as Diana in the television adaptation of Absent Friends led Alan Ayckbourn to cast her in the West End premiere of Woman In Mind, for which she won the Evening Standard Award for Best Actress.*

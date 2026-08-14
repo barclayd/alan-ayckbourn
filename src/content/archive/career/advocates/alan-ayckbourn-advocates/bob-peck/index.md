@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Bob Peck (1945 - 1999)"
 source: "http://advocates.alanayckbourn.net/page/page-23/"
-order: 2334
+order: 2332
 ---
 
 *Bob Peck was an acclaimed stage and screen actor who credited Alan Ayckbourn with giving him his first major break into professional acting. He worked with Alan at his home theatre in Scarborough as we'll as at the National Theatre as well as working with the RSC.*

@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://lifeandbeth.alanayckbourn.net/page-8/"
-order: 1928
+order: 1926
 play: "life-and-beth"
 ---
 

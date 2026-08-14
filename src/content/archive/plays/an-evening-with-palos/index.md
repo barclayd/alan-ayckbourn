@@ -14,7 +14,14 @@ facts:
   Premiere Venue: "Lyric Theatre, London"
   Director: "Alan Strachan"
   Design: "Alan Tagg"
-  Stage Manager: "Barry Bryant  Character"
+  Stage Manager: "Barry Bryant"
+  Character: "Actor"
+  Dafydd ap Llewellyn: "David Jason"
+  Crispin: "Daniel Flynn"
+  Ted Washbrook: "James Hayes"
+  Enid Washbrook: "Dorcas Jones"
+  Rebecca Huntley Pike: "Moira Redmond"
+  Linda Washbrook: "Caroline Webster"
 ---
 
 **Published / Available to Stage:** No
@@ -30,21 +37,6 @@ Colin Blakely's final major role in the West End was as Dafydd ap Llewellyn in t
 Colin Blakely was a renowned and popular figure in British theatre and to mark his death, a tribute evening was arranged at the Lyric Theatre on 4 October 1987. *Colin Blakely - A Celebration* included contributions from Alan Ayckbourn, Alan Bates, Harold Pinter, Michael Frayn and Vanessa Redgrave among others, alongside a host of renowned acting talent.
 
 Alan wrote an new piece, *An Evening with PALOS*, which was a short sketch centred around several members of Pendon Amateur Light Operatic Society. It featured David Jason as Dafydd with members of both the original National Theatre and the West End transfer cast reprising their roles. The plot revolves around the attempts of Dafydd to stage a reading of the late Murdoch Park's verse poem *A View From The Pump* (Parks being one of Pendon's most pre-eminent authors and a major influence behind Dylan Thomas - or possibly vice versa). Naturally, being PALOS, things do not run smoothly.
-
-### Premiere Production Details (1987)
-
-Dafydd ap Llewellyn  
-Crispin  
-Ted Washbrook  
-Enid Washbrook  
-Rebecca Huntley Pike  
-Linda Washbrook **Actor**  
-David Jason  
-Daniel Flynn  
-James Hayes  
-Dorcas Jones  
-Moira Redmond  
-Caroline Webster
 
 ### Further Reading
 

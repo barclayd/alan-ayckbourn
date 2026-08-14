@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn On The Victoria Theatre"
 source: "http://careers.alanayckbourn.net/page-2/page-4/NationalTheatre.html"
-order: 678
+order: 677
 ---
 
 *The quotes reproduced below offer some insight into Alan Ayckbourn's own thoughts about his experiences at the Victoria Theatre between 1962 and 1964.*

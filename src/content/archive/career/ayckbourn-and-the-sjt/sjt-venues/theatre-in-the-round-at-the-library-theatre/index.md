@@ -16,13 +16,13 @@ order: 321
 
 ![](./_images/stacks-image-c96b09b.jpg)
 
-*The interior of Theatre in the Round at the Library Theatre in 1955. Note the stage has just two entrances both on the same side.  
-© Studio Theatre Ltd*
+*The interior of Theatre in the Round at the Library Theatre in 1955. Note the stage has just two entrances both on the same side.*  
+*© Studio Theatre Ltd*
 
 ![](./_images/stacks-image-e727fd3.jpg)
 
-*A rare photograph of the large lecture room space where the 1957/58, 1974/75 and 1975/76 winter seasons were held. The size of the room precluded in-the-round performance and all productions were in a three-sided configuration.  
-© To be confirmed*
+*A rare photograph of the large lecture room space where the 1957/58, 1974/75 and 1975/76 winter seasons were held. The size of the room precluded in-the-round performance and all productions were in a three-sided configuration.*  
+*© To be confirmed*
 
 </aside>
 
@@ -38,8 +38,8 @@ In 1962, Stephen Joseph set up the UK's first purpose built theatre-in-the-round
 
 After Stephen Joseph's death in 1967, Alan was instrumental in helping to keeping Theatre in the Round at the Library Theatre operating and as well as writing plays for the venue, he was also appointed the Director Of Productions for the summer seasons of 1969, 1970 and 1972 (in the aftermath of Stephen's death, the permanent position of Artistic Director was replaced by the annually appointed seasonal post of Director Of Productions, which was held by several people between 1967 and 1971). In November 1972, Alan was offered the permanent position of **[Artistic Director](/career/artistic-director)** which he accepted and held until 2009.
 
-*"Theatre-in-the-rounds were completely unknown in England in 1955. It was an extraordinary idea to open a space in Scarborough. Stephen Joseph died very young actually in 1967 and I was persuaded - because I was the only person they knew really - to take it over and I started to try and develop it into a slightly more year round show. When it started it was just eight weeks - as soon as cricket week arrived we all packed up. We had an ambition to expand."  
-Alan Ayckbourn, 2015*
+*"Theatre-in-the-rounds were completely unknown in England in 1955. It was an extraordinary idea to open a space in Scarborough. Stephen Joseph died very young actually in 1967 and I was persuaded - because I was the only person they knew really - to take it over and I started to try and develop it into a slightly more year round show. When it started it was just eight weeks - as soon as cricket week arrived we all packed up. We had an ambition to expand."*  
+*Alan Ayckbourn, 2015*
 
 ### A History Of The Library Theatre
 
@@ -51,8 +51,8 @@ Stephen initially searched for a venue for his idea in London, but found nowhere
 
 Rehearsals for the first season took place in London, funded by the sale of Stephen’s motorbike, before the company moved to Scarborough for an eight week summer season. Theatre in the Round at the Library Theatre opened on 14 July with a season of four new plays by four new writers - three of whom were women. Obviously every aspect of this was a risk, the theatre was competing against a town replete with theatrical entertainment during the summer months, it was staging unknown plays by unknown writers and it was offering theatre-in-the-round, practically unknown in the UK at a time when the theatres were dominated by the proscenium arch. An early letter to the Scarborough Evening News illustrated the mixed reaction to the new theatre.
 
-*“Sir, one factor of utmost importance. Theatre in the Round has no settings. How can a modern audience, conditioned to the detailed scenic sets of film and television, be expected to enjoy a play performed in limbo?…. The directors of the Theatre in the Round have only themselves to blame if the audience, cheated of the spectacle, prefers to spend its shillings on the latest cinema-scope epic.”  
-Reginald Copper, 17 Lady Edith’s Avenue*
+*“Sir, one factor of utmost importance. Theatre in the Round has no settings. How can a modern audience, conditioned to the detailed scenic sets of film and television, be expected to enjoy a play performed in limbo?…. The directors of the Theatre in the Round have only themselves to blame if the audience, cheated of the spectacle, prefers to spend its shillings on the latest cinema-scope epic.”*  
+*Reginald Copper, 17 Lady Edith’s Avenue*
 
 Stephen was determined to make theatre-in-the-round work, despite the limitations of his initial venture. Theatre in the Round at the Library Theatre was basic on every level: the single toilet was shared by both company and audience, the dressing room was minuscule and the stage only had two entrances - one of which was also the audience entrance. The seating was built on portable rostra specially designed by Stephen Joseph and which could be assembled and disassembled relatively quickly and easily. While a lighting box was eventually installed, facilities remained limited throughout the company's 21 year tenure at the venue. With little money to fund the venture, Stephen was dependent on all the help he could get and found an enthusiastic supply in the local amateur dramatic scene. Members of Scarborough Theatre Guild were heavily involved in front of house and behind the scenes work, most prominent of whom was Ken Boden, a local insurance agent, who was involved in the theatre from the start and would go on to play a pivotal part in the theatre’s future.
 

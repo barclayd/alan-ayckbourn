@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://manofthemoment.alanayckbourn.net/styled-8/"
-order: 1476
+order: 1475
 play: "man-of-the-moment"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "INTERVIEW: RESNAIS"
 source: "http://lifeofriley.alanayckbourn.net/page18/styled-9/"
-order: 1980
+order: 1978
 play: "life-of-riley"
 ---
 
@@ -13,8 +13,8 @@ play: "life-of-riley"
 
 ![](./_images/stacks-image-e879892.jpg)
 
-*Alain Resnais directing Aimer, Boire et Chanter.  
-(Copyright: Eureka productions)*
+*Alain Resnais directing Aimer, Boire et Chanter.*  
+*(Copyright: Eureka productions)*
 
 </aside>
 
@@ -26,8 +26,8 @@ Keeping constantly in mind the standard answer I give the question, â€œWhy do yo
 
 ![](./_images/stacks-image-54c78dc.jpg)
 
-*A scene from Life Of Riley  
-(Copyright: Eureka Productions)*
+*A scene from Life Of Riley*  
+*(Copyright: Eureka Productions)*
 
 </aside>
 
@@ -39,8 +39,8 @@ Ayckbourn and I finally met, we had a beer, and I complimented him. He sighed, â
 
 ![](./_images/stacks-image-e0fdb12.jpg)
 
-*Alain Resnais  
-(Copyright: To be confirmed)*
+*Alain Resnais*  
+*(Copyright: To be confirmed)*
 
 </aside>
 

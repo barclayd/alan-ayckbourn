@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled/page-10/"
-order: 1075
+order: 1074
 play: "absurd-person-singular"
 ---
 

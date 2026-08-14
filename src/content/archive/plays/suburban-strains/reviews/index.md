@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://suburbanstrains.alanayckbourn.net/styled-8/"
-order: 1303
+order: 1302
 play: "suburban-strains"
 ---
 

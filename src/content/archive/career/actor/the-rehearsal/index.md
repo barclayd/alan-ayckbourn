@@ -1,44 +1,29 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page172/"
-order: 581
+order: 580
 ---
 
 ## The Rehearsal (1963)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Rehearsal  
+**Author:** Anonymous  
+**First performance:** 11 February 1963  
+**Final performance:** 17 June 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Rehearsal  
-Anonymous
-
-11 February 1963  
-17 June 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman   **Character**  
-The Count  
-The Countess  
-Hortensia  
-Hero  
-Villebosse  
-Monsieur Damiens  
-Lucile **Actor**  
-Alan Ayckbourn  
-Heather Stoney  
-Elizabeth Bell  
-David Halliwell  
-Peter King  
-Stanley Page  
-Caroline Smith
+**Character** **Actor**  
+**The Count** Alan Ayckbourn  
+**The Countess** Heather Stoney  
+**Hortensia** Elizabeth Bell  
+**Hero** David Halliwell  
+**Villebosse** Peter King  
+**Monsieur Damiens** Stanley Page  
+**Lucile** Caroline Smith
 
 ### Quotes & Notes
 

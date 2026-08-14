@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://truthwillout.alanayckbourn.net/page12/"
-order: 2293
+order: 2291
 play: "truth-will-out"
 ---
 
@@ -31,26 +31,19 @@ play: "truth-will-out"
 **Sound:** Alan Ayckbourn
 
 **Company Stage Manager:** Fleur Linden Beeley  
-**Deputy Stage Manager:** Sue Volans **Characters**  
-George Oliver  
-Daphne Oliver  
-Donnie Oliver  
-Janet Tasselle  
-Sefton Crichton-Fleming  
-Ian Morton  
-Peggy Catwick  
-Katherine Hetcham  
-Bill Turpin  
-Tammy Shoehorn  
-Jim Tungsten **Actors**  
-John Branwell  
-Alexandra Mathie  
-Andy Cryer  
-Frances Marshall  
-Christopher Godwin  
-Richard Stacey  
-Tanya-Loretta Dee  
-Naomi Petersen  
-Leigh Symonds  
-Georgia Burnell  
-Alan Ayckbourn **Note:** *Truth Will Out* was scheduled to premiere at the Stephen Joseph Theatre during the summer 2020 season (see above), but was cancelled due to the global Covid-19 pandemic. On 17 September 2023, it was publicly performed for the first time in a rehearsed reading, directed by Alan Ayckbourn, as part of a fund-raising event for the Stephen Joseph Theatre.*All research for this page by Simon Murgatroyd.*
+**Deputy Stage Manager:** Sue Volans
+
+**Characters** **Actors**  
+**George Oliver** John Branwell  
+**Daphne Oliver** Alexandra Mathie  
+**Donnie Oliver** Andy Cryer  
+**Janet Tasselle** Frances Marshall  
+**Sefton Crichton-Fleming** Christopher Godwin  
+**Ian Morton** Richard Stacey  
+**Peggy Catwick** Tanya-Loretta Dee  
+**Katherine Hetcham** Naomi Petersen  
+**Bill Turpin** Leigh Symonds  
+**Tammy Shoehorn** Georgia Burnell  
+**Jim Tungsten** Alan Ayckbourn
+
+**Note:** *Truth Will Out* was scheduled to premiere at the Stephen Joseph Theatre during the summer 2020 season (see above), but was cancelled due to the global Covid-19 pandemic. On 17 September 2023, it was publicly performed for the first time in a rehearsed reading, directed by Alan Ayckbourn, as part of a fund-raising event for the Stephen Joseph Theatre.*All research for this page by Simon Murgatroyd.*

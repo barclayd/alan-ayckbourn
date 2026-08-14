@@ -14,8 +14,8 @@ order: 284
 
 ![](./_images/stacks-image-c94696e.jpg)
 
-*Alan Ayckbourn with his Evening Standard Award for Man Of The Moment  
-© To be confirmed*
+*Alan Ayckbourn with his Evening Standard Award for Man Of The Moment*  
+*© To be confirmed*
 
 </aside>
 

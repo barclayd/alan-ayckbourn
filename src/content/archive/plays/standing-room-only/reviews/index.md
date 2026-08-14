@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://standingroomonly.alanayckbourn.net/styled-8/"
-order: 938
+order: 937
 play: "standing-room-only"
 ---
 

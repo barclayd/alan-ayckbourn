@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://loveafterall.alanayckbourn.net/styled-5/"
-order: 906
+order: 905
 play: "love-after-all"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Harold Pinter (1930 - 2008)"
 source: "http://advocates.alanayckbourn.net/page/page-47/"
-order: 2359
+order: 2357
 ---
 
 *Harold Pinter CBE was a Nobel prize winning playwright, writer, director and actor regarded as one of the most influential British playwrights of the 20th century. His plays include The Birthday Party, Homecoming and Betrayal and he also transitioned successful to screenplay writing. He directed Alan Ayckbourn in 1959 in The Birthday Party and was a huge influence on the young playwright, who cites Pinter as one of his major influences.*

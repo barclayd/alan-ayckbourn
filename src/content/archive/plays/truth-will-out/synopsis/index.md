@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://truthwillout.alanayckbourn.net/styled-3/"
-order: 2292
+order: 2290
 play: "truth-will-out"
 ---
 

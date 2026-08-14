@@ -8,16 +8,16 @@ order: 510
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**David Campton  
+**Venue:**  
+**Staging:**David Campton  
 No
 
 Wellingborough Festival  
-End-stage**First performance:  
-Final Performance:**2 November 1961  
+End-stage**First performance:**  
+**Final Performance:**2 November 1961  
 2 November 1961
 
 ### Company Details

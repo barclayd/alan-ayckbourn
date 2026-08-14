@@ -14,8 +14,8 @@ order: 39
 
 ![](./_images/stacks-image-1074790.jpg)
 
-*Alfred Bradley  
-(© To be confirmed)*
+*Alfred Bradley*  
+*(© To be confirmed)*
 
 </aside>
 

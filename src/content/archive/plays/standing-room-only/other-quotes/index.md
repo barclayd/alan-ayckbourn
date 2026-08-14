@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://standingroomonly.alanayckbourn.net/styled-2/"
-order: 933
+order: 932
 play: "standing-room-only"
 ---
 

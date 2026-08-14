@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://thekaraoketheatrecompany.alanayckbourn.net/page/"
-order: 2282
+order: 2280
 play: "the-karaoke-theatre-company"
 ---
 

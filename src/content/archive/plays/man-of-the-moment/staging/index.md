@@ -1,7 +1,7 @@
 ---
 title: "Staging"
 source: "http://manofthemoment.alanayckbourn.net/page18/"
-order: 1474
+order: 1473
 play: "man-of-the-moment"
 ---
 
@@ -21,18 +21,18 @@ The final pool structure was 20ft by 10ft with a depth of almost 5ft; it took 36
 
 ![](./_images/stacks-image-cc4fbbc.png)
 
-*The original production set designed by Michael Holt.  
-Copyright: Scarborough Theatre Trust*
+*The original production set designed by Michael Holt.*  
+*Copyright: Scarborough Theatre Trust*
 
 ![](./_images/stacks-image-cc3c9fd.png)
 
-*The original production set designed by Michael Holt.  
-Copyright: Scarborough Theatre Trust*
+*The original production set designed by Michael Holt.*  
+*Copyright: Scarborough Theatre Trust*
 
 ![](./_images/stacks-image-f3e5e92.png)
 
-*The West End set designed by Roger Glossop.  
-Copyright: John Haynes*
+*The West End set designed by Roger Glossop.*  
+*Copyright: John Haynes*
 
 Another important element of the design, which unfortunately cannot be seen from photographs of the set, was the ingenious inclusion of an air lock into the pool. This allowed the actors playing Vic and Sharon to remain submerged for a substantial period of time by putting their heads into the hidden airlock, allowing them to breathe, while giving the impression to the audience their bodies were still submerged in the pool.
 

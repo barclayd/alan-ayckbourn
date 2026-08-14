@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page47/Media_Making_Tracks.html"
-order: 832
+order: 831
 ---
 
 ### Making Tracks
@@ -18,11 +18,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 
 **Production:** SJTITR
 
-**Availability  
-Cassette:** 1981 (deleted)  
+**Availability**  
+**Cassette:** 1981 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Rog, a sound engineer  

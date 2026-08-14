@@ -1,7 +1,7 @@
 ---
 title: "Henceforward…: Articles by Alan Ayckbourn"
 source: "http://henceforward.alanayckbourn.net/page-3/page-9/"
-order: 1467
+order: 1466
 play: "henceforward"
 ---
 
@@ -11,8 +11,8 @@ play: "henceforward"
 
 ### Henceforward… & Back
 
-*“I thought it would be interesting to write a play about a man who whilst searching desperately, personally and professionally, for real love fails to recognise it from his own family. It is also a play about the creative process.  
-“And how dangerous it can be.”*
+*“I thought it would be interesting to write a play about a man who whilst searching desperately, personally and professionally, for real love fails to recognise it from his own family. It is also a play about the creative process.*  
+*“And how dangerous it can be.”*
 
 During the 1980s, Alan Ayckbourn’s plays stepped out into the world at large.
 
@@ -78,6 +78,6 @@ The same year, it transferred to the West End with Ian McKellen starring as Jero
 
 Whilst the scale of the plays of this period has precluded them from being as regularly revived as other Ayckbourn plays, there is no doubting that *Henceforward…* and its ilk defined Alan Ayckbourn for the ‘80s and that they have as much, if not more, to say today as they did when written.
 
-*“Ayckbourn began the decade with Way Upstream and a group of characters drifting aboard a cabin-cruiser towards Armageddon Bridge. He went on to tackle sanctioned greed in A Small Family Business, social disintegration and the technological nightmare in Henceforward..., the cult of the criminal in Man Of The Moment.  
-“Ayckbourn's genius is to make us laugh while exposing the moral bankruptcy of the age.”  
-Michael Billington.*
+*“Ayckbourn began the decade with Way Upstream and a group of characters drifting aboard a cabin-cruiser towards Armageddon Bridge. He went on to tackle sanctioned greed in A Small Family Business, social disintegration and the technological nightmare in Henceforward..., the cult of the criminal in Man Of The Moment.*  
+*“Ayckbourn's genius is to make us laugh while exposing the moral bankruptcy of the age.”*  
+*Michael Billington.*

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page44/Media_Private_Fears.html"
-order: 835
+order: 834
 ---
 
 ### Private Fears in Public Places
@@ -25,19 +25,19 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Production:** SFP Cinéma  
 **Production:** BIM Distribuzione
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** 2007 (available)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Photography  
-Matte Painting  
-Editing  
-Design  
-Costumes  
-Music  
-Sound**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Photography**  
+**Matte Painting**  
+**Editing**  
+**Design**  
+**Costumes**  
+**Music**  
+**Sound**
 
 **Character**  
 Charlotte  

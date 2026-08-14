@@ -1,44 +1,29 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page168/"
-order: 574
+order: 573
 ---
 
 ## The Rainmaker (1962)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Rainmaker  
+**Author:** N. Richard Nash  
+**First performance:** 30 August 1962  
+**Final performance:** 5 September 1962  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Arnold Beck
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Rainmaker  
-N. Richard Nash
-
-30 August 1962  
-5 September 1962  
-The Library Theatre, Scarborough  
-Round
-
-Arnold Beck   **Character**  
-Noah Curry  
-H.C. Curry  
-Jim Curry  
-Lizzie Curry  
-File  
-Sheriff Thomas  
-Bill Starbuck **Actor**  
-David Wehner  
-Stanley Page  
-Richard Gill  
-Marie Adams  
-Peter King  
-Arnold Beck  
-Alan Ayckbourn
+**Character** **Actor**  
+**Noah Curry** David Wehner  
+**H.C. Curry** Stanley Page  
+**Jim Curry** Richard Gill  
+**Lizzie Curry** Marie Adams  
+**File** Peter King  
+**Sheriff Thomas** Arnold Beck  
+**Bill Starbuck** Alan Ayckbourn
 
 ### Quotes & Notes
 

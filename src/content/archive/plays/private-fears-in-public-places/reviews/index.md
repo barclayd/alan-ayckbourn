@@ -1,12 +1,12 @@
 ---
 title: "World Premiere Reviews"
 source: "http://privatefears.alanayckbourn.net/styled-8/"
-order: 1884
+order: 1882
 play: "private-fears-in-public-places"
 ---
 
-*Note: It is worth bearing in mind that the original production of Private Fears In Public Places received a largely lukewarm reception from British critics. Only when the same production (with an unaltered script and a largely unchanged cast) opened in New York a year later to rapturous reviews (in particular from The New York Times), did it begin to gain a more positive response from British critics in later productions.  
-To show this progression, this page contains a selection of reviews from the world premiere production at Scarborough in 2004, Michael Billington's perceptive review of the same production at the Orange Tree Theatre, Richmond, in 2005, and finally Charles Isherwood's review of the 2005 transfer of this production to New York.*
+*Note: It is worth bearing in mind that the original production of Private Fears In Public Places received a largely lukewarm reception from British critics. Only when the same production (with an unaltered script and a largely unchanged cast) opened in New York a year later to rapturous reviews (in particular from The New York Times), did it begin to gain a more positive response from British critics in later productions.*  
+*To show this progression, this page contains a selection of reviews from the world premiere production at Scarborough in 2004, Michael Billington's perceptive review of the same production at the Orange Tree Theatre, Richmond, in 2005, and finally Charles Isherwood's review of the 2005 transfer of this production to New York.*
 
 **Private Fears In Public Places** (by Quentin Letts)  
 "Few things are more wrenching, on the first night after a family member has died, than the sight of his pyjamas.  
@@ -70,8 +70,8 @@ With Melanie Gutteridge's nervy Nicola and Adrian McLoughlin's secretly sad barm
 
 ### New York Premiere, 2005
 
-*The reception to Private Fears In Public Places American premiere at the Brits Off Broadway festival at 59E59 Theaters, New York, could not have been more different to the British reception. Not only did the play itself generate extraordinary reviews, but the American critics seemed to better grasp the play itself than most of their British counter-parts. It is debatable why this is the case, but it would seem fair to suggest that American critics are not weighed down by preconceptions of Alan Ayckbourn and his plays.  
-The New York Times, arguably the most influential publisher of reviews for Broadway, gave an extensive and extraordinary review of Private Fear In Public Places which is reprinted here.*
+*The reception to Private Fears In Public Places American premiere at the Brits Off Broadway festival at 59E59 Theaters, New York, could not have been more different to the British reception. Not only did the play itself generate extraordinary reviews, but the American critics seemed to better grasp the play itself than most of their British counter-parts. It is debatable why this is the case, but it would seem fair to suggest that American critics are not weighed down by preconceptions of Alan Ayckbourn and his plays.*  
+*The New York Times, arguably the most influential publisher of reviews for Broadway, gave an extensive and extraordinary review of Private Fear In Public Places which is reprinted here.*
 
 **All Are Together, And Everyone Is Alone** (by Charles Isherwood)  
 *Private Fears in Public Places* has sneaked into New York almost unheralded… as the jewel in the crown of the *Brits Off Broadway* festival. A minor-key comedy about six Londoners leading lives of quiet desperation, it is rueful, funny, touching and altogether wonderful. It runs only through July 3, which would break my heart if Sir Alan and his fine company hadn't already done the job.  

@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Stephen Mallatratt"
 source: "http://advocates.alanayckbourn.net/page/page-77/"
-order: 2353
+order: 2351
 ---
 
 *Stephen Mallatratt was a writer and actor who is best known for his stage adaptation of Susan Hill's novel The Woman In Black, which is the second longest running show in the West End and a global phenomenon. He first worked with Alan Ayckbourn as an actor at the Library Theatre, Scarborough, before being encouraged as a writer by Alan. He had numerous works staged by the company - including the world premiere of The Woman In Black, and was both resident writer and Associate Director at the company in Scarborough.*

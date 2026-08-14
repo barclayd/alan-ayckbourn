@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://memyselfandi.alanayckbourn.net/styled-4/page11.html"
-order: 2249
+order: 2247
 play: "me-myself-and-i"
 ---
 

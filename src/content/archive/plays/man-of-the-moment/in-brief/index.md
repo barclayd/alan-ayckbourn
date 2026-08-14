@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://manofthemoment.alanayckbourn.net/page-9/"
-order: 1469
+order: 1468
 play: "man-of-the-moment"
 ---
 

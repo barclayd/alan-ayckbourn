@@ -1,7 +1,7 @@
 ---
 title: "Archive Images"
 source: "http://abriefhistoryofwomen.alanayckbourn.net/page-2/"
-order: 2064
+order: 2062
 play: "a-brief-history-of-women"
 ---
 

@@ -1,36 +1,25 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page181/"
-order: 590
+order: 589
 ---
 
 ## The Collection (1963)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Collection  
+**Author:** Harold Pinter  
+**First performance:** 10 September 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Collection  
-Harold Pinter
-
-10 September 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman   **Character**  
-James  
-Harry  
-Stella  
-Bill **Actor**  
-Alan Ayckbourn  
-Stanley Page  
-Heather Stoney  
-Peter King
+**Character** **Actor**  
+**James** Alan Ayckbourn  
+**Harry** Stanley Page  
+**Stella** Heather Stoney  
+**Bill** Peter King
 
 ### Quotes & Notes
 

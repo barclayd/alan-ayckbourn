@@ -1,7 +1,7 @@
 ---
 title: "Absurd Person Singular: The Original Concept & Abandoned Draft"
 source: "http://writingabsurdpersonsingular.alanayckbourn.net/page/NewsInDepth.html"
-order: 2553
+order: 2520
 play: "absurd-person-singular"
 ---
 

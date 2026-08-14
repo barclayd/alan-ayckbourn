@@ -1,7 +1,7 @@
 ---
 title: "Structure"
 source: "http://intimateexchanges.alanayckbourn.net/styled-10/page18.html"
-order: 1361
+order: 1360
 play: "intimate-exchanges"
 ---
 

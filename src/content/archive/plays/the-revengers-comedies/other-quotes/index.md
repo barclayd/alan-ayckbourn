@@ -1,7 +1,7 @@
 ---
 title: "The Revengers' Comedies: Quotes by Other People"
 source: "http://therevengerscomedies.alanayckbourn.net/styled-2/"
-order: 1508
+order: 1507
 play: "the-revengers-comedies"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page9/Media_Absent_Friends.html"
-order: 810
+order: 809
 ---
 
 ### Absent Friends
@@ -19,11 +19,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Diana  
@@ -51,15 +51,15 @@ David Jason**Note:** For reasons not fully ascertained from archive, this adapta
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Lighting  
-Design  
-Music  
-Producer**
+**Digital:** Not available**Director**  
+**Lighting**  
+**Design**  
+**Music**  
+**Producer**
 
 **Character**  
 John  

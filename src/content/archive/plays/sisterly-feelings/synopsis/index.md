@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://sisterlyfeelings.alanayckbourn.net/styled-4/"
-order: 1264
+order: 1263
 play: "sisterly-feelings"
 ---
 

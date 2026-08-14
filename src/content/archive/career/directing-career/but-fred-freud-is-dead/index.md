@@ -8,30 +8,30 @@ order: 444
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter Terson  
+**Venue:**  
+**Location:**  
+**Staging:**Peter Terson  
 No
 
 The Sun Lounge, Filey  
-End-stage**First performance:  
-Opening night:  
-Final performance:**3 December 1974  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**3 December 1974  
 3 December 1974  
 21 December 1974
 
 ### Company Details
 
-**Director:  
-Design:  
-Costumes:**
+**Director:**  
+**Design:**  
+**Costumes:**
 
-**Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Helga Wood  
 Christine Welch
 

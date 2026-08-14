@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://tentimestable.alanayckbourn.net/styled/"
-order: 1227
+order: 1226
 play: "ten-times-table"
 ---
 

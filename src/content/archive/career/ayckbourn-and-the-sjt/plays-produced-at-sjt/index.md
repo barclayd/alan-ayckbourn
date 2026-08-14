@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn & the Stephen Joseph Theatre: Plays Produced"
 source: "http://careers.alanayckbourn.net/page-80/iframe/page191.html"
-order: 522
+order: 521
 ---
 
 This is a list of every play produced in Scarborough, whilst Alan Ayckbourn was the Director Of Productions (1969 - 1970) and Artistic Director (1972 - 2009) of the company.

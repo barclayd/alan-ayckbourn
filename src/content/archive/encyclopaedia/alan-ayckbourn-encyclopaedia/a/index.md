@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: A"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled/A.html"
-order: 684
+order: 683
 ---
 
 **[Abigail (Sisterly Feelings):](/plays/sisterly-feelings)** Although the play *Sisterly Feelings* has four possible permutations, only two are generally named - Abigail and Dorcas. It is common when the play is performed without the random elements for either and / or both of these permutations to be presented.

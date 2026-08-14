@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://henceforward.alanayckbourn.net/styled-16/"
-order: 1455
+order: 1454
 play: "henceforward"
 ---
 

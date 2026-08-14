@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://the-girl-next-door.alanayckbourn.net/styled-3/"
-order: 2106
+order: 2104
 play: "the-girl-next-door"
 ---
 

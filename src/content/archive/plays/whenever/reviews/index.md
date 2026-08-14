@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://whenever.alanayckbourn.net/styled-7/"
-order: 1739
+order: 1737
 play: "whenever"
 ---
 

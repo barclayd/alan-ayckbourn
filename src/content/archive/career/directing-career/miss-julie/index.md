@@ -8,16 +8,16 @@ order: 472
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**August Strindberg  
+**Venue:**  
+**Staging:**August Strindberg  
 No
 
 Victoria Theatre, Stoke-on-Trent  
-Round**First performance:  
-Final performance:**10 June 1963  
+Round**First performance:**  
+**Final performance:**10 June 1963  
 Unknown
 
 ### Company Details

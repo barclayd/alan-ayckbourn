@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://thetrialofromeooscar.alanayckbourn.net/page-5/"
-order: 2178
+order: 2176
 play: "the-trial-of-romeo-oscar"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://loveafterall.alanayckbourn.net/styled-5/styled-7/"
-order: 915
+order: 914
 play: "love-after-all"
 ---
 

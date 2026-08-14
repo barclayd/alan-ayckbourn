@@ -1,7 +1,7 @@
 ---
 title: "Damsels In Distress: Articles"
 source: "http://gameplan.alanayckbourn.net/page-2/page-3/"
-order: 1766
+order: 1764
 play: "gameplan"
 ---
 

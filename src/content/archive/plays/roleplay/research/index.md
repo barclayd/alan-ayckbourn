@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://roleplay.alanayckbourn.net/page-12/index.html"
-order: 1799
+order: 1797
 play: "roleplay"
 ---
 

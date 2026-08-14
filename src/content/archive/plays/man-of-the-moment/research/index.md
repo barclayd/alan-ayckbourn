@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://manofthemoment.alanayckbourn.net/page-7/"
-order: 1479
+order: 1478
 play: "man-of-the-moment"
 ---
 

@@ -1,44 +1,29 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page143/"
-order: 548
+order: 547
 ---
 
 ## Frankenstein (1959)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Frankenstein  
+**Author:** David Campton  
+**First performance:** 16 July 1959  
+**Final performance:** 12 August 1959  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Frankenstein  
-David Campton
-
-16 July 1959  
-12 August 1959  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Victor  
-Henri  
-Elizabeth  
-Justine  
-Mme. Couper  
-M. Clerval  
-The Creature **Actor**  
-William Elmhirst  
-Alan Ayckbourn  
-Dona Martyn  
-Faynia Jeffery  
-Ann Hughesdon  
-David Campton  
-Stephen Joseph
+**Character** **Actor**  
+**Victor** William Elmhirst  
+**Henri** Alan Ayckbourn  
+**Elizabeth** Dona Martyn  
+**Justine** Faynia Jeffery  
+**Mme. Couper** Ann Hughesdon  
+**M. Clerval** David Campton  
+**The Creature** Stephen Joseph
 
 ### Quotes & Notes
 

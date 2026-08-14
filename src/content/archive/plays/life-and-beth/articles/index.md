@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://lifeandbeth.alanayckbourn.net/page-2/"
-order: 1931
+order: 1929
 play: "life-and-beth"
 ---
 

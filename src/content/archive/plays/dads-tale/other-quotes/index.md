@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://dadstale.alanayckbourn.net/styled-3/"
-order: 921
+order: 920
 play: "dads-tale"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Revengers' Comedies: History"
 source: "http://therevengerscomedies.alanayckbourn.net/page-3/"
-order: 1504
+order: 1503
 play: "the-revengers-comedies"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Articles by Alan Ayckbourn"
 source: "http://comicpotential.alanayckbourn.net/styled-6/"
-order: 1688
+order: 1686
 play: "comic-potential"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://thenormanconquests.alanayckbourn.net/styled-5/styled-18/"
-order: 1101
+order: 1100
 play: "the-norman-conquests"
 ---
 

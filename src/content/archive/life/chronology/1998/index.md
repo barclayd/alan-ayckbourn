@@ -38,8 +38,8 @@ During 1998, Alan Ayckbourn…
 
 ![](./_images/stacks-image-7020e54.jpg)
 
-*Janie Dee in Comic Potential  
-© Tony Bartholomew*
+*Janie Dee in Comic Potential*  
+*© Tony Bartholomew*
 
 ### World Premieres
 

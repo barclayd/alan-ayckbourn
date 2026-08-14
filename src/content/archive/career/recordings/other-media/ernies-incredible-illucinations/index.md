@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page22/Media_Ernies.html"
-order: 821
+order: 820
 ---
 
 ### Ernie's Incredible Illucinations
@@ -19,14 +19,14 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's one
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Design  
-Producer**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Design**  
+**Producer**
 
 **Character**  
 Ernie  

@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Christine Kavanagh"
 source: "http://advocates.alanayckbourn.net/page/page-59/"
-order: 2326
+order: 2324
 ---
 
 *Christine Kavanagh is an actor who worked with Alan Ayckbourn at the Stephen Joseph Theatre In The Round who notably originated the role of Karen Knightley in The Revengers' Comedies.*

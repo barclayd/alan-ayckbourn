@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://bedroomfarce.alanayckbourn.net/styled-5/styled-11/"
-order: 1197
+order: 1196
 play: "bedroom-farce"
 ---
 

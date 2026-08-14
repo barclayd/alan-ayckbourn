@@ -1,38 +1,26 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page208/"
-order: 576
+order: 575
 ---
 
 ## O'Flaherty V.C. (1962)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** O'Flaherty V.C.  
+**Author:** George Bernard Shaw  
+**First performance:** 15 October 1962  
+**Final performance:** 20 October 1962  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** O'Flaherty V.C.  
-George Bernard Shaw
-
-15 October 1962  
-20 October 1962  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman   **Character**  
-Private O'Flaherty V.C.  
-General Sir Madigan  
-Mrs O'Flaherty  
-Teresa Driscoll **Actor**  
-Alan Ayckbourn  
-David Halliwell  
-Heather Stoney  
-Elizabeth Bell
+**Character** **Actor**  
+**Private O'Flaherty V.C.** Alan Ayckbourn  
+**General Sir Madigan** David Halliwell  
+**Mrs O'Flaherty** Heather Stoney  
+**Teresa Driscoll** Elizabeth Bell
 
 ### Quotes & Notes
 

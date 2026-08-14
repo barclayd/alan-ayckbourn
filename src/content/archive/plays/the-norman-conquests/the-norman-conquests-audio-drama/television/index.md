@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Discusses The Television Adaptation"
 source: "http://thenormanconquests.alanayckbourn.net/styled-9/styled-11/"
-order: 1115
+order: 1114
 play: "the-norman-conquests"
 ---
 
@@ -22,11 +22,11 @@ At far as affecting future box-office is concerned, the TV production of a stage
 **Channel:** ITV  
 **Duration:** 120mins each
 
-**Production:** Thames**Director  
-Design  
-Title Music  
-Producer  
-Producer**
+**Production:** Thames**Director**  
+**Design**  
+**Title Music**  
+**Producer**  
+**Producer**
 
 **Character**  
 Reg  

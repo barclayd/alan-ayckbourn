@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://henceforward.alanayckbourn.net/styled-9/page17.html"
-order: 738
+order: 737
 play: "henceforward"
 ---
 
@@ -13,13 +13,13 @@ play: "henceforward"
 
 **Production:** LA Theatre Works
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2011 (available)  
-**Digital:** 2011 (available)**Director  
-Music  
-Music  
-Sound Design**
+**Digital:** 2011 (available)**Director**  
+**Music**  
+**Music**  
+**Sound Design**
 
 **Character**  
 Jerome  
@@ -51,13 +51,13 @@ Herself
 
 **Production:** Jarvis & Ayres
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Music  
-Music  
-Sound Design**
+**Digital:** Not available**Director**  
+**Music**  
+**Music**  
+**Sound Design**
 
 **Character**  
 Jerome  

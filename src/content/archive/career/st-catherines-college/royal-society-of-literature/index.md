@@ -1,7 +1,7 @@
 ---
 title: "Professor of Contemporary Theatre at Oxford University"
 source: "http://careers.alanayckbourn.net/page-72/page-74/NationalTheatre.html"
-order: 680
+order: 679
 ---
 
 *In 1992, Alan Ayckbourn was appointed the annually appointed position of Cameron Mackintosh Professor of Contemporary Theatre at Oxford University. During a talk in 2017, he discussed some of his experiences during the year.*

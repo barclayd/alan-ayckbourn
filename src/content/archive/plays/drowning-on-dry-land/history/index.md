@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://drowningondryland.alanayckbourn.net/styled/"
-order: 1864
+order: 1862
 play: "drowning-on-dry-land"
 ---
 

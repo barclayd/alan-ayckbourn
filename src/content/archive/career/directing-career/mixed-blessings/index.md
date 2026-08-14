@@ -8,31 +8,31 @@ order: 421
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Blake Heathcote  
+**Venue:**  
+**Location:**  
+**Staging:**Blake Heathcote  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Studio  
-End-stage**First performance:  
-Opening night:  
-Final performance:**30 May 1991  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**30 May 1991  
 30 May 1991  
 5 September 1991
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Jackie Staines  
 Juliet Nichols  
 John Pattison

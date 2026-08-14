@@ -8,16 +8,16 @@ A breakdown of Alan Ayckbourn' awards and many nominations at The Oliver Awards 
 
 ### Awards
 
-**Oliviers (London)  
-1985:** Olivier Best Comedy Award (*A Chorus Of Disapproval*)  
+**Oliviers (London)**  
+**1985:** Olivier Best Comedy Award (*A Chorus Of Disapproval*)  
 **2009:** The Laurence Olivier Awards Special Award
 
-**Tonys (New York)  
-2009:** Tony For Best Revival Of A Play (*The Norman Conquests*)  
+**Tonys (New York)**  
+**2009:** Tony For Best Revival Of A Play (*The Norman Conquests*)  
 **2010:** Special Tony Award for Lifetime Achievement in the Theatre
 
-**Other Awards  
-1973:** Evening Standard Best Comedy Award (*Absurd Person Singular*)  
+**Other Awards**  
+**1973:** Evening Standard Best Comedy Award (*Absurd Person Singular*)  
 **1974:** Evening Standard Best Play Award (*The Norman Conquests*)  
 **1974:** Play and Players Best Play Award (*The Norman Conquests*)  
 **1974:** Variety Club of Great Britain Playwright of the Year  
@@ -90,8 +90,8 @@ Hon D. Litt is Honorary Doctor Of Letters.
 
 ### Major Nominations
 
-**Oliviers (London)  
-1976:** Best Comedy (*Confusions*)  
+**Oliviers (London)**  
+**1976:** Best Comedy (*Confusions*)  
 **1977:** Best Comedy (*Bedroom Farce*)  
 **1978:** Best Comedy (*Ten Times Table*)  
 **1980:** Best Comedy (*Sisterly Feelings*)  
@@ -110,20 +110,20 @@ Hon D. Litt is Honorary Doctor Of Letters.
 **2003:** Best Comedy (*RolePlay*)  
 **2010:** Best Revival (The Norman Conquests)
 
-**Tonys (New York)  
-1978-79:** Outstanding Direction  
+**Tonys (New York)**  
+**1978-79:** Outstanding Direction  
 *….……*(*Bedroom Farce*)  
 **1978-79:** Best Play (*Bedroom Farce*)
 
 **UK Theatre Awards**  
 **2013:** Best New Play (*Surprises*)
 
-**Outer Critics Circle (New York)  
-2000:** Outstanding Off-Broadway Play  
+**Outer Critics Circle (New York)**  
+**2000:** Outstanding Off-Broadway Play  
 *….……*(*Comic Potential*)
 
-**Drama Desk (New York)  
-2000:** Outstanding Play (*Comic Potential*)  
+**Drama Desk (New York)**  
+**2000:** Outstanding Play (*Comic Potential*)  
 **2006:** Outstanding Director  
 *….……*(*Private Fears In Public Places*)  
 **2008:** Outstanding Play (*Intimate Exchanges*)  

@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 source: "http://lifeofriley.alanayckbourn.net/styled-10/"
-order: 1979
+order: 1977
 play: "life-of-riley"
 ---
 

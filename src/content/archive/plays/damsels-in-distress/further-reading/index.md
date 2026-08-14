@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://damselstrilogy.alanayckbourn.net/styled-5/"
-order: 1748
+order: 1746
 play: "damsels-in-distress"
 ---
 

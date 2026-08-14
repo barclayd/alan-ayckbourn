@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: History"
 source: "http://mrasamazing.alanayckbourn.net/styled/"
-order: 1491
+order: 1490
 play: "mr-as-amazing-maze-plays"
 ---
 

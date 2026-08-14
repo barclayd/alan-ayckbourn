@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://snakeinthegrass.alanayckbourn.net/page-3/page-5/"
-order: 1821
+order: 1819
 play: "snake-in-the-grass"
 ---
 
@@ -19,8 +19,8 @@ play: "snake-in-the-grass"
 
 </aside>
 
-*“They’re really about children, their parents and what they occasionally do to each other and to innocent bystanders - all in the name of love. Not much change there.”  
-Alan Ayckbourn*
+*“They’re really about children, their parents and what they occasionally do to each other and to innocent bystanders - all in the name of love. Not much change there.”*  
+*Alan Ayckbourn*
 
 There are many things to be afraid of in *Snake In The Grass*: the encroaching darkness, voices from the past, tennis balls….
 

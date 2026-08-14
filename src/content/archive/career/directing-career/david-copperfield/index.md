@@ -8,19 +8,19 @@ order: 453
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Joan Macalpine  
+**Venue:**  
+**Location:**  
+**Staging:**Joan Macalpine  
 Yes
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**11 December 1961  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**11 December 1961  
 11 December 1961  
 23 December 1961
 

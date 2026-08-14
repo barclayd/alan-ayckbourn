@@ -8,33 +8,33 @@ order: 456
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**J.B. Priestley  
+**Venue:**  
+**Location:**  
+**Staging:**J.B. Priestley  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**2 June 1988  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**2 June 1988  
 2 June 1988  
 6 August 1988
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Costumes:**
+**Director:**  
+**Lighting:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Mick Thomas  
 Lynn Aitken
 

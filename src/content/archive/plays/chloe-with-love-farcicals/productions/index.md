@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Significant Productions"
 source: "http://farcicals.alanayckbourn.net/page11/"
-order: 2196
+order: 2194
 play: "chloe-with-love-farcicals"
 ---
 

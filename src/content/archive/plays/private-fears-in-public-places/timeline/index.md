@@ -1,7 +1,7 @@
 ---
 title: "A Timeline"
 source: "http://privatefears.alanayckbourn.net/styled-2/"
-order: 1878
+order: 1876
 play: "private-fears-in-public-places"
 ---
 

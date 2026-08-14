@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://asmallfamilybusiness.alanayckbourn.net/styled-5/styled-11/"
-order: 1444
+order: 1443
 play: "a-small-family-business"
 ---
 

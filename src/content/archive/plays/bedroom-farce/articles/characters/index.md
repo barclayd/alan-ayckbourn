@@ -1,7 +1,7 @@
 ---
 title: "Articles by Alan Ayckbourn"
 source: "http://bedroomfarce.alanayckbourn.net/page-2/page-6/"
-order: 1202
+order: 1201
 play: "bedroom-farce"
 ---
 

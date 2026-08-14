@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://lifeofriley.alanayckbourn.net/styled-6/"
-order: 1975
+order: 1973
 play: "life-of-riley"
 ---
 

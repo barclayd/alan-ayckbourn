@@ -1,7 +1,7 @@
 ---
 title: "House & Garden: Articles"
 source: "http://houseandgarden.alanayckbourn.net/page-3/page-5/"
-order: 1724
+order: 1722
 play: "house-and"
 ---
 
@@ -19,8 +19,8 @@ play: "house-and"
 
 </aside>
 
-*“These days, theatre needs events. I want people to say, 'Oh, something different's going on here.”  
-Alan Ayckbourn*
+*“These days, theatre needs events. I want people to say, 'Oh, something different's going on here.”*  
+*Alan Ayckbourn*
 
 It has become something of a tradition for Alan Ayckbourn that there is a major theatrical event every decade.
 
@@ -62,8 +62,8 @@ Since it premiered in 1982, *Intimate Exchanges* has only been re-staged once in
 
 Alan’s next major piece was *The Revengers’ Comedies*, which he wrote to celebrate his 50th birthday. The play, inspired by the film *Strangers On A Train*, runs over two plays for five hours. It is also the first time he really began talking about certain plays in terms of being events and, like *Intimate Exchanges* before it, he believes the scale of it allowed him as a writer to stretch himself.
 
-*“I'd made it to 50, so I thought I'd give people a present. You can't have an 'event' every year, or they become ordinary - but every two or three years, I like to do something a bit different.  
-“I wanted to do a big show, an event and you need to really challenge yourself now and again, otherwise you tend to churn out the same stuff. These feature two of the most complex people \[Henry & Karen\] I have ever written because I have been allowed to write them out over such a period of time.”*
+*“I'd made it to 50, so I thought I'd give people a present. You can't have an 'event' every year, or they become ordinary - but every two or three years, I like to do something a bit different.*  
+*“I wanted to do a big show, an event and you need to really challenge yourself now and again, otherwise you tend to churn out the same stuff. These feature two of the most complex people \[Henry & Karen\] I have ever written because I have been allowed to write them out over such a period of time.”*
 
 A decade later, Alan would challenge himself again with *House & Garden*, the plays which he supposed would never be performed again, but which transferred to the National Theatre with great success and has since become a stalwart of professional and amateur groups alike.
 

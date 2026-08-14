@@ -1,7 +1,7 @@
 ---
 title: "The Ayckbourn Archive at the Borthwick Institute For Archives"
 source: "http://research.alanayckbourn.net/page-4/page-5/page18.html"
-order: 868
+order: 867
 ---
 
 *These pages relate to the Ayckbourn Archive at the Borthwick Institute For Archives at the University of York. This is the largest single collection of material relating to Alan Ayckbourn in the world and largely comprises the playwright's personal archive.*

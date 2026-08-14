@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://thechampionofparibanou.alanayckbourn.net/styled-4/"
-order: 1663
+order: 1662
 play: "the-champion-of-paribanou"
 ---
 

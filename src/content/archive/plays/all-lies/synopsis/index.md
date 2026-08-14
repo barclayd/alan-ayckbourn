@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://alllies.alanayckbourn.net/styled-3/"
-order: 2118
+order: 2116
 play: "all-lies"
 ---
 

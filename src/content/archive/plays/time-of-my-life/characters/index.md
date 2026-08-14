@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://timeofmylife.alanayckbourn.net/styled-16/"
-order: 1590
+order: 1589
 play: "time-of-my-life"
 ---
 

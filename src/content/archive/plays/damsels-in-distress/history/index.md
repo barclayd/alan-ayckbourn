@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://damselstrilogy.alanayckbourn.net/page-9/"
-order: 1745
+order: 1743
 play: "damsels-in-distress"
 ---
 

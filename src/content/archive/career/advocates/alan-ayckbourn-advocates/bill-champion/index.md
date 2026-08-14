@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Bill Champion"
 source: "http://advocates.alanayckbourn.net/page/page-71/"
-order: 2317
+order: 2315
 ---
 
 *Bill Champion is an actor who is one of Alan Ayckbourn's most frequent collaborators. He first worked with the playwright in both he world and West End premieres of Comic Potential and has subsequently regularly worked with the playwright in both world premieres and revivals including the 2006 revival of Intimate Exchanges at the Stephen Joseph Theatre - only one of four actors worldwide to have performed the ambitious epic play cycle.*

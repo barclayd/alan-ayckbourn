@@ -1,7 +1,7 @@
 ---
 title: "Professor of Contemporary Theatre at Oxford University"
 source: "http://careers.alanayckbourn.net/page-72/page-73/NationalTheatre.html"
-order: 679
+order: 678
 ---
 
 *In 1992, Alan Ayckbourn was appointed the annually appointed position of Cameron Mackintosh Professor of Contemporary Theatre at Oxford University. In this article published in Oxford Today in 1992, he discusses his experiences of the year with Graham Topping.*

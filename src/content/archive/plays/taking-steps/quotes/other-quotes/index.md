@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://takingsteps.alanayckbourn.net/styled-5/styled-12/"
-order: 1293
+order: 1292
 play: "taking-steps"
 ---
 

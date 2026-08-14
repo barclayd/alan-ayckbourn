@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://achorusofdisapproval.alanayckbourn.net/page-2/"
-order: 1396
+order: 1395
 play: "a-chorus-of-disapproval"
 ---
 

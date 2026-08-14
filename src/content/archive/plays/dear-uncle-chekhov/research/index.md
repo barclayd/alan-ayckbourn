@@ -1,7 +1,7 @@
 ---
 title: "Dear Uncle: Research Resources"
 source: "http://dearuncle.alanayckbourn.net/page/"
-order: 2242
+order: 2240
 play: "dear-uncle-chekhov"
 ---
 

@@ -1,44 +1,29 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page206/"
-order: 578
+order: 577
 ---
 
 ## Usher (1962)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Usher  
+**Author:** David Campton  
+**First performance:** 5 November 1962  
+**Final performance:** 9 February 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:  
-Final performance:**  
-**Venue:  
-Staging:**
-
-**Director:** Usher  
-David Campton
-
-5 November 1962  
-9 February 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman   **Character**  
-Roderick Usher  
-Madeline Usher  
-Edwin Allen  
-Lucy  
-Doctor  
-Oliver  
-Finn **Actor**  
-Alan Ayckbourn  
-Elizabeth Bell  
-Peter King  
-Heather Stoney  
-David Wehner  
-Arnold Beck  
-David Halliwell
+**Character** **Actor**  
+**Roderick Usher** Alan Ayckbourn  
+**Madeline Usher** Elizabeth Bell  
+**Edwin Allen** Peter King  
+**Lucy** Heather Stoney  
+**Doctor** David Wehner  
+**Oliver** Arnold Beck  
+**Finn** David Halliwell
 
 ### Quotes & Notes
 

@@ -8,31 +8,31 @@ order: 427
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Harold Pinter  
+**Venue:**  
+**Location:**  
+**Staging:**Harold Pinter  
 No
 
 Stephen Joseph Theatre In The Round  
 Studio  
-End-stage**First performance:  
-Opening night:  
-Final performance:**21 August 1995  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**21 August 1995  
 28 August 1995  
 2 September 1995
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:**
+**Director:**  
+**Lighting:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Paul Towson  
 Jan Bee Brown
 

@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://dreamsfromasummerhouse.alanayckbourn.net/styled-13/"
-order: 1606
+order: 1605
 play: "dreams-from-a-summer-house"
 ---
 
@@ -10,8 +10,8 @@ This page contains details of publications & articles relating to *Dreams From A
 ### Published Editions
 
 **Dreams From A Summer House** (click **[here](http://www.concordtheatricals.co.uk/s/1253/dreams-from-a-summer-house/)** to buy)  
-*Samuel French Ltd, 1997 ISBN 0573081042  
-(The vocal score can also be hired from Samuel French Ltd)*
+*Samuel French Ltd, 1997 ISBN 0573081042*  
+*(The vocal score can also be hired from Samuel French Ltd)*
 
 ### Reference Books
 

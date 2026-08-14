@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://sisterlyfeelings.alanayckbourn.net/page16/"
-order: 1270
+order: 1269
 play: "sisterly-feelings"
 ---
 
@@ -23,29 +23,22 @@ This page contains details of significant productions of Alan Ayckbourn's *Siste
 **Deputy Stage Manager:** Christopher Gray  
 **Assistant Stage Manager:** Dee Marsden  
 **Assistant Stage Manager:** Isobel Nimmo  
-**Assistant Stage Manager:** Sarah Wynter  **Character**  
-Ralph  
-Abigail, his daughter  
-Dorcas, his daughter  
-Melvyn, his son  
-Len, Ralph’s brother-in-law  
-Rita, Len’s wife  
-Patrick, Abigail’s husband  
-Brenda, Melvyn’s fiancée  
-Simon, her brother  
-Stafford  
-Murphy **Actor**  
-Stanley Page  
-Alison Skilbeck  
-Judy Bridgland  
-Robin Bowerman  
-John Arthur  
-Shelagh Stuttle  
-James Bate  
-Lavinia Bertram  
-Robin Herford  
-Robin Murphy  
-Christopher Gray  \* Technically speaking the play was presented three-sided / thrust as almost all of one of the four seating blocks was taken out to allow for the incorporation of a hill into the set.
+**Assistant Stage Manager:** Sarah Wynter
+
+**Character** **Actor**  
+**Ralph** Stanley Page  
+**Abigail, his daughter** Alison Skilbeck  
+**Dorcas, his daughter** Judy Bridgland  
+**Melvyn, his son** Robin Bowerman  
+**Len, Ralph’s brother-in-law** John Arthur  
+**Rita, Len’s wife** Shelagh Stuttle  
+**Patrick, Abigail’s husband** James Bate  
+**Brenda, Melvyn’s fiancée** Lavinia Bertram  
+**Simon, her brother** Robin Herford  
+**Stafford** Robin Murphy  
+**Murphy** Christopher Gray
+
+\* Technically speaking the play was presented three-sided / thrust as almost all of one of the four seating blocks was taken out to allow for the incorporation of a hill into the set.
 
 ### Revival (1979) \*
 

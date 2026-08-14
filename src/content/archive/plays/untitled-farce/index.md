@@ -13,7 +13,16 @@ facts:
   Premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Director: "Alan Ayckbourn"
   Stage Manager: "Dawn Erica Dyson"
-  Technician: "Ben Vickers  Character"
+  Technician: "Ben Vickers"
+  Character: "Actor"
+  Sir Randolph: "Terence Booth"
+  Sage: "Neil Grainger"
+  Jemima: "Clare Swinburne"
+  Willie: "John Branwell"
+  Marigold: "Eileen Battye"
+  Hilary: "Laura Doddington"
+  Pamela: "Laura Doddington"
+  Bodyguard: "Sam Taylor"
 ---
 
 **Published / Available to Stage:** No
@@ -32,24 +41,7 @@ The play is also an exceptionally rare foray into pure farce for the playwright 
 
 ### Premiere Production Details (2005)
 
-Sir Randolph  
-Sage  
-Jemima  
-Willie  
-Marigold  
-Hilary  
-Marigold  
-Pamela  
-Bodyguard **Actor**  
-Terence Booth  
-Neil Grainger  
-Clare Swinburne  
-John Branwell  
-Eileen Battye  
-Laura Doddington  
-Becky Hindley  
-Laura Doddington  
-Sam Taylor
+**Marigold** Becky Hindley
 
 ### Further Reading
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://awakingbeauty.alanayckbourn.net/styled-4/"
-order: 1945
+order: 1943
 play: "awaking-beauty"
 ---
 

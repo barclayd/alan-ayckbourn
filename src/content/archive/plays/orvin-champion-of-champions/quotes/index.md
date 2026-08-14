@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://orvin.alanayckbourn.net/styled-4/"
-order: 1847
+order: 1845
 play: "orvin-champion-of-champions"
 ---
 

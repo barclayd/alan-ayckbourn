@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-5/styled-12/"
-order: 1076
+order: 1075
 play: "absurd-person-singular"
 ---
 

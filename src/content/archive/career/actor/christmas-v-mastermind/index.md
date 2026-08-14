@@ -1,48 +1,31 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page171/"
-order: 580
+order: 579
 ---
 
 ## Christmas V Mastermind (1962)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Christmas V Mastermind  
+**Author:** Alan Ayckbourn  
+**First performance:** 26 December 1962  
+**Final performance:** 19 January 1962  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Christmas V Mastermind  
-Alan Ayckbourn
-
-26 December 1962  
-19 January 1962  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman   **Character**  
-Father Christmas  
-A Fairy  
-A Gnome  
-The Crimson Gollywog  
-Angora  
-Nud  
-Scrunch  
-PC Fumble  
-Policewoman Trout **Actor**  
-Stanley Page  
-Heather Stoney  
-David Halliwell  
-Alan Ayckbourn  
-Elizabeth Bell  
-David Wehner  
-Peter King  
-Arnold Beck  
-Caroline Smith
+**Character** **Actor**  
+**Father Christmas** Stanley Page  
+**A Fairy** Heather Stoney  
+**A Gnome** David Halliwell  
+**The Crimson Gollywog** Alan Ayckbourn  
+**Angora** Elizabeth Bell  
+**Nud** David Wehner  
+**Scrunch** Peter King  
+**PC Fumble** Arnold Beck  
+**Policewoman Trout** Caroline Smith
 
 ### Quotes & Notes
 

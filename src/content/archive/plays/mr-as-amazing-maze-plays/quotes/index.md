@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: Quotes by Alan Ayckbourn"
 source: "http://mrasamazing.alanayckbourn.net/styled-5/"
-order: 1495
+order: 1494
 play: "mr-as-amazing-maze-plays"
 ---
 

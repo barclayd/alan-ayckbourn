@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://suburbanstrains.alanayckbourn.net/styled-5/"
-order: 1301
+order: 1300
 play: "suburban-strains"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ayckbourn Collection at Scarborough Museums & Galleries"
 source: "http://research.alanayckbourn.net/page-7/page-9/page18.html"
-order: 869
+order: 868
 ---
 
 *These pages relate to the Ayckbourn Collection at Scarborough Museums & Galleries. This is a curated collection of material relating to Alan Ayckbourn, Stephen Joseph and the development of theatre in the round in Scarborough donated to the town by the playwright and his archivist, Simon Murgatroyd.*
@@ -48,6 +48,6 @@ I'd like to thank Gary Brannan at the Borthwick Institute for supporting this an
 
 And, of course, to Sir Alan and Lady Ayckbourn for listening to and supporting my idea for the Collection and donation and allowing me to facilitate this wonderful new addition to Scarborough's collections. It's been a privilege to have initiated and guided this project.
 
-*Simon Murgatroyd  
-Alan Ayckbourn's Archivist  
-August 2023*   [![](./_images/stacks-image-243a22c.png)](http://scarboroughmuseumsandgalleries.org.uk/)   The Ayckbourn Collection pages of Alan Ayckbourn's Official Website have been created in partnership with **[Scarborough Museums and Galleries](http://scarboroughmuseumsandgalleries.org.uk/)**, home of The Ayckbourn Collection since 2023. Facilitated by Simon Murgatroyd M.A. and donated by Sir Alan and Lady Ayckbourn, this collection of material celebrates the contribution of Alan Ayckbourn, Stephen Joseph and theatre in the round to Scarborough's theatrical history and heritage.
+*Simon Murgatroyd*  
+*Alan Ayckbourn's Archivist*  
+*August 2023*   [![](./_images/stacks-image-243a22c.png)](http://scarboroughmuseumsandgalleries.org.uk/)   The Ayckbourn Collection pages of Alan Ayckbourn's Official Website have been created in partnership with **[Scarborough Museums and Galleries](http://scarboroughmuseumsandgalleries.org.uk/)**, home of The Ayckbourn Collection since 2023. Facilitated by Simon Murgatroyd M.A. and donated by Sir Alan and Lady Ayckbourn, this collection of material celebrates the contribution of Alan Ayckbourn, Stephen Joseph and theatre in the round to Scarborough's theatrical history and heritage.

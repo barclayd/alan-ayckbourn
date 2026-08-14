@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://relativelyspeaking.alanayckbourn.net/styled-5/styled-14/"
-order: 990
+order: 989
 play: "relatively-speaking"
 ---
 

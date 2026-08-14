@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://wildestdreams.alanayckbourn.net/styled-8/"
-order: 1568
+order: 1567
 play: "wildest-dreams"
 ---
 

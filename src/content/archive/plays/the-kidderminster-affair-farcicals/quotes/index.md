@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Quotes by Alan Ayckbourn"
 source: "http://thekidderminsteraffair.alanayckbourn.net/styled-3/"
-order: 2548
+order: 2515
 play: "the-kidderminster-affair-farcicals"
 ---
 

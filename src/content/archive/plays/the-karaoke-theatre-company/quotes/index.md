@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://thekaraoketheatrecompany.alanayckbourn.net/styled-4/"
-order: 2277
+order: 2275
 play: "the-karaoke-theatre-company"
 ---
 

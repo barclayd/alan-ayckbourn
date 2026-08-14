@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://missyesterday.alanayckbourn.net/styled-4/"
-order: 1900
+order: 1898
 play: "miss-yesterday"
 ---
 

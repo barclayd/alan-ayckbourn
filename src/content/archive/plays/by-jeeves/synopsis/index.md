@@ -1,7 +1,7 @@
 ---
 title: "By Jeeves: Synopsis"
 source: "http://byjeeves.alanayckbourn.net/styled-10/"
-order: 2394
+order: 2392
 play: "by-jeeves"
 ---
 

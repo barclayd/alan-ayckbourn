@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page21/Media_Cut_In.html"
-order: 819
+order: 818
 ---
 
 ### A Cut In The Rates
@@ -19,8 +19,8 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's one
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Director**

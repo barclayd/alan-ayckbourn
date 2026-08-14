@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page29/Media_Service_Not.html"
-order: 840
+order: 839
 ---
 
 ### Service Not Included
@@ -19,13 +19,13 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's scr
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Script editor  
-Designer**
+**Digital:** Not available**Director**  
+**Script editor**  
+**Designer**
 
 **Character**  
 Jace  

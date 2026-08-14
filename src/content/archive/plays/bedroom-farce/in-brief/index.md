@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://bedroomfarce.alanayckbourn.net/page-10/"
-order: 1185
+order: 1184
 play: "bedroom-farce"
 ---
 

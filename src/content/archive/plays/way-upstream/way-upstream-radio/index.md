@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://wayupstream.alanayckbourn.net/styled-9/page17.html"
-order: 766
+order: 765
 play: "way-upstream"
 ---
 
@@ -14,15 +14,15 @@ play: "way-upstream"
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not availabe  
 **Blu-ray:** Not available  
-**Digital:** Netflix**Director  
-Designer  
-Photography  
-Editor  
-Producer**
+**Digital:** Netflix**Director**  
+**Designer**  
+**Photography**  
+**Editor**  
+**Producer**
 
 **Character**  
 Alistair  
@@ -55,8 +55,8 @@ Veronica Clifford
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

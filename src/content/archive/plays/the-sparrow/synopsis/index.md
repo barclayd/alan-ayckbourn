@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://thesparrow.alanayckbourn.net/styled-4/"
-order: 1001
+order: 1000
 play: "the-sparrow"
 ---
 

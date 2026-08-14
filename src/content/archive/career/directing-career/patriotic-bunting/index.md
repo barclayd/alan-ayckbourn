@@ -8,32 +8,32 @@ order: 479
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Brian Thompson  
+**Venue:**  
+**Location:**  
+**Staging:**Brian Thompson  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**10 October 1978  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**10 October 1978  
 11 October 1978  
 28 October 1978
 
 ### Company Details
 
-**Director:  
-Design:  
-Costumes:**
+**Director:**  
+**Design:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 David Millard  
 Frances Upton
 

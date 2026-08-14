@@ -62,30 +62,30 @@ I suppose what I have got from my time at the National Theatre is the excitement
 
 ![](./_images/stacks-image-e3c6029.jpg)
 
-*Alan Ayckbourn & Michael Gambon during rehearsals at the National Theatre.  
-Copyright: National Theatre*
+*Alan Ayckbourn & Michael Gambon during rehearsals at the National Theatre.*  
+*Copyright: National Theatre*
 
 ![](./_images/stacks-image-dbace9c.jpg)
 
-*Alan Ayckbourn with his National Theatre company in 1986.  
-Copyright: National Theatre*
+*Alan Ayckbourn with his National Theatre company in 1986.*  
+*Copyright: National Theatre*
 
 ![](./_images/stacks-image-ec9ccb1.jpg)
 
-*Simon Cadell & Michael Gambon in Tons Of Money.  
-Copyright: National Theatre*
+*Simon Cadell & Michael Gambon in Tons Of Money.*  
+*Copyright: National Theatre*
 
 ![](./_images/stacks-image-abe06a8.jpg)
 
-*Michael Gambon & Suzan Sylvester in A View From The Bridge.  
-Copyright: National Theatre*
+*Michael Gambon & Suzan Sylvester in A View From The Bridge.*  
+*Copyright: National Theatre*
 
 ![](./_images/stacks-image-12f364a.jpg)
 
-*Michael Gambon in A Small Family Business.  
-Copyright: National Theatre*
+*Michael Gambon in A Small Family Business.*  
+*Copyright: National Theatre*
 
 ![](./_images/stacks-image-f0fa46c.jpg)
 
-*Rupert Graves in 'Tis Pity She's A Whore.  
-Copyright: National Theatre*
+*Rupert Graves in 'Tis Pity She's A Whore.*  
+*Copyright: National Theatre*

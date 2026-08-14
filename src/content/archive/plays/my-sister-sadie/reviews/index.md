@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://mysistersadie.alanayckbourn.net/styled-6/"
-order: 1859
+order: 1857
 play: "my-sister-sadie"
 ---
 

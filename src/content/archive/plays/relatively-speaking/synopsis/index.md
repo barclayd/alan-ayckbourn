@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://relativelyspeaking.alanayckbourn.net/styled-4/"
-order: 977
+order: 976
 play: "relatively-speaking"
 ---
 

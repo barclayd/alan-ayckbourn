@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://comicpotential.alanayckbourn.net/page16/"
-order: 1690
+order: 1688
 play: "comic-potential"
 ---
 
@@ -86,8 +86,8 @@ Suzannah Hirst
 
 ### New York Premiere (2000)
 
-**First performance:  
-Premiere:** 24 October 2000  
+**First performance:**  
+**Premiere:** 24 October 2000  
 **Final performance:** 7 January 2001  
 **Venue:** Manhattan Theatre Club  
 **Staging:** End-stage

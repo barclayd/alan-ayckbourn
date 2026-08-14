@@ -1,7 +1,7 @@
 ---
 title: "The Revengers' Comedies: Adaptations In Other Media"
 source: "http://therevengerscomedies.alanayckbourn.net/styled-9/page17.html"
-order: 753
+order: 752
 play: "the-revengers-comedies"
 ---
 
@@ -15,11 +15,11 @@ play: "the-revengers-comedies"
 **Duration:** 90mins each  
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**
 
 **Character**  
 Karen Knightly  
@@ -74,18 +74,18 @@ Ian Masters
 **Production:** Artisan  
 **Production:** IMA
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD (R1):** 2012 (available)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Photography  
-Editing  
-Design  
-Design  
-Music  
-Sound**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Photography**  
+**Editing**  
+**Design**  
+**Design**  
+**Music**  
+**Sound**
 
 **Character**  
 Henry Bell  

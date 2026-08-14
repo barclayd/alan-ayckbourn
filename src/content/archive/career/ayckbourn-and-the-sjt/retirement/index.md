@@ -1,7 +1,7 @@
 ---
 title: "Stepping Down as Artistic Director of the Stephen Joseph Theatre"
 source: "http://careers.alanayckbourn.net/page-80/styled-23/ArtisticDirector.html"
-order: 521
+order: 520
 ---
 
 On 1 June 2007, the Scarborough Theatre Trust board announced Alan Ayckbourn was to step down as Artistic Director of the Stephen Joseph Theatre, Scarborough, in 2009. Below are the pertinent details and comments.

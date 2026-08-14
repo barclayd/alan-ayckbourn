@@ -1,7 +1,7 @@
 ---
 title: "Dear Uncle: Significant Productions"
 source: "http://dearuncle.alanayckbourn.net/page16/"
-order: 2240
+order: 2238
 play: "dear-uncle-chekhov"
 ---
 

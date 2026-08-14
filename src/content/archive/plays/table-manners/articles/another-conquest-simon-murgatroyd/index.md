@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Articles by Alan Ayckbourn"
 source: "http://tablemanners.alanayckbourn.net/styled-6/page-8/"
-order: 2478
+order: 2450
 play: "table-manners"
 ---
 
@@ -19,8 +19,8 @@ play: "table-manners"
 
 </aside>
 
-*“I don’t think taking on The Norman Conquests is not a risk. It’s three different plays, which means it’s expensive. There are risks... So we’re not playing it safe.”  
-Kevin Spacey, 2006*
+*“I don’t think taking on The Norman Conquests is not a risk. It’s three different plays, which means it’s expensive. There are risks... So we’re not playing it safe.”*  
+*Kevin Spacey, 2006*
 
 **9 May 2006**  
 Three years after Alan Ayckbourn’s self-imposed moratorium on productions of his plays in the West End and the chances of seeing another major Ayckbourn production in London in the immediate future seem bleak.

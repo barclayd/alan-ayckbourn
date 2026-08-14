@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://earthangel.alanayckbourn.net/page12/"
-order: 2168
+order: 2166
 play: "earth-angel"
 ---
 
@@ -29,9 +29,9 @@ Daniel
 Gerald  
 Hugo
 
-**Company Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:****Actors**  
+**Company Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:****Actors**  
 Elizabeth Boag  
 Stuart Fox  
 Liza Goddard  

@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://lifeandbeth.alanayckbourn.net/styled-4/"
-order: 1929
+order: 1927
 play: "life-and-beth"
 ---
 

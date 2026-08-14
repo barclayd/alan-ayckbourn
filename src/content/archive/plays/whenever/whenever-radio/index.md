@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://whenever.alanayckbourn.net/page20/"
-order: 767
+order: 766
 play: "whenever"
 ---
 
@@ -13,11 +13,11 @@ play: "whenever"
 
 **Company:** SJT
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2000 (deleted)  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Emily  
@@ -51,12 +51,12 @@ Richard Banham **Note:** The *Whenever* original cast recording was never made c
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Producer  
-Music**
+**Digital:** Not available**Director**  
+**Producer**  
+**Music**
 
 **Character**  
 Martin / Bill / Nigel Chatterton-Brown / Droid  

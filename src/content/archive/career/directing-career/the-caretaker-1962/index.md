@@ -8,19 +8,19 @@ order: 446
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Harold Pinter  
+**Venue:**  
+**Location:**  
+**Staging:**Harold Pinter  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**16 August 1962  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**16 August 1962  
 16 August 1962  
 22 August 1962
 
@@ -28,8 +28,8 @@ Final performance:**16 August 1962
 
 **Director:**
 
-**Stage Manager:  
-Stage Manager:**Alan Ayckbourn
+**Stage Manager:**  
+**Stage Manager:**Alan Ayckbourn
 
 Arnold Beck  
 David Wehner**Character**  

@@ -1,7 +1,7 @@
 ---
 title: "A Trip To Scarborough: Quotes by Alan Ayckbourn"
 source: "http://atriptoscarborough.alanayckbourn.net/styled-5/"
-order: 2215
+order: 2213
 play: "a-trip-to-scarborough-sheridan"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://womaninmind.alanayckbourn.net/styled-6/page-5/"
-order: 1430
+order: 1429
 play: "woman-in-mind"
 ---
 
@@ -26,8 +26,8 @@ play: "woman-in-mind"
 Within the original and published texts for *Woman In Mind*, this is the first - and largely only - description of the set. Further exploration of the Samuel French edition of the script notes in the Prop List that “In the London production, the upstage ‘dream’ part of the garden changed each time Susan’s imagination family appeared, topiary arches, rose arch, swing and statue.”  
 A help or a hindrance in staging the play? Alan Ayckbourn has directed the play four times now, twice in Scarborough and twice in London. The original Scarborough production had a sparse and basic set; the original London production used a series of complicated gauzes to make Susan’s imaginary world real.
 
-*“Woman In Mind was designed very simply here \[at the Stephen Joseph Theatre In The Round\] - a basic grass stage with a few mounds. The lighting narrowed down to a fairly small area when Susan was in real time and then opened out and had a gentler feel to it when she entered her dream world as if the garden had assumed larger, more romantic proportions.  
-“The London production was much more complex with a small garden downstage backed by a series of gauzes behind which could be placed strategic props (a swing from a tree; a line of cypress trees; a maze) all slightly distorted with illusory perspectives to create her dream world. The effect was quite cunning but, in retrospect, I'm not sure how truly successful it was. The simpler the better, I think, which of course can happen easily in the round but is so much harder to achieve on an end stage. The thing can become pretentious once you enter the world of the 'black box'.”*
+*“Woman In Mind was designed very simply here \[at the Stephen Joseph Theatre In The Round\] - a basic grass stage with a few mounds. The lighting narrowed down to a fairly small area when Susan was in real time and then opened out and had a gentler feel to it when she entered her dream world as if the garden had assumed larger, more romantic proportions.*  
+*“The London production was much more complex with a small garden downstage backed by a series of gauzes behind which could be placed strategic props (a swing from a tree; a line of cypress trees; a maze) all slightly distorted with illusory perspectives to create her dream world. The effect was quite cunning but, in retrospect, I'm not sure how truly successful it was. The simpler the better, I think, which of course can happen easily in the round but is so much harder to achieve on an end stage. The thing can become pretentious once you enter the world of the 'black box'.”*
 
 Although Alan clearly favours the original production - as witnessed by his decision to return to the simplicity of its original staging for his 2008 revival at the Stephen Joseph Theatre - it is clear there is room for both interpretations of the play, but is one favourable?
 

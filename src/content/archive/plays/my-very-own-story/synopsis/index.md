@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://myveryownstory.alanayckbourn.net/styled-4/"
-order: 1578
+order: 1577
 play: "my-very-own-story"
 ---
 

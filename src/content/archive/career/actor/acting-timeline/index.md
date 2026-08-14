@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page113/"
-order: 525
+order: 524
 ---
 
 Alan Ayckbourn's professional theatre career began as an actor in **[Sir Donald Wolfit](/career/actor/donald-wolfit)**'s company in 1956. From there he worked as a volunteer student assistant stage manager at Connaught Theatre, **[Worthing](/career/actor/connaught-theatre)**, before becoming a stage manager at the **[Leatherhead Theatre Club](/career/actor/connaught-theatre)**, the **[Oxford Playhouse](/career/actor/connaught-theatre)** and the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. In all these venues he was also given the opportunity to act. By 1959 - the start of his playwriting career - he was primarily employed as an actor at Scarborough's Theatre in the Round at the Library Theatre and, from 1962, at the Victoria Theatre, Stoke-on-Trent. By the time he retired from professional acting in 1964, he was reckoned to be the most experienced professional in-the-round actor in the UK.

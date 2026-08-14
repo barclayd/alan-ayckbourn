@@ -8,33 +8,33 @@ order: 378
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Herb Gardner  
+**Venue:**  
+**Location:**  
+**Staging:**Herb Gardner  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**19 October 1994  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**19 October 1994  
 25 October 1994  
 26 November 1994
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Dialect Coach:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Dialect Coach:**
 
-**Stage Manager:  
-Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Jackie Staines  
 Jan Bee Brown  
 Judith Windsor

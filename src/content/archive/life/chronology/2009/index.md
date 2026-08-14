@@ -44,8 +44,8 @@ During 2009, Alan Ayckbourn…
 
 ![](./_images/stacks-image-a1c7a5c.jpg)
 
-*Alan Ayckbourn & Heather Stoney at the Olivier Awards.  
-© To be confirmed*
+*Alan Ayckbourn & Heather Stoney at the Olivier Awards.*  
+*© To be confirmed*
 
 ### World Premieres
 

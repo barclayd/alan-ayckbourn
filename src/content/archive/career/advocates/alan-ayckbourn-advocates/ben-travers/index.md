@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Ben Travers (1886 - 1980)"
 source: "http://advocates.alanayckbourn.net/page/page-53/"
-order: 2367
+order: 2365
 ---
 
 *Ben Travers CBE was a prolific playwright and author best known for his Aldwych farces. Alan Ayckbourn considered him to be the 'master farceur'.*

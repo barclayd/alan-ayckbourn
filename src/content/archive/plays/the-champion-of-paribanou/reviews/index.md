@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://thechampionofparibanou.alanayckbourn.net/styled-8/"
-order: 1666
+order: 1665
 play: "the-champion-of-paribanou"
 ---
 

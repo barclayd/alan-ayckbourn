@@ -1,7 +1,7 @@
 ---
 title: "Interviews 2010 - 2019"
 source: "http://research.alanayckbourn.net/page/page-19/interviews_10s.html"
-order: 875
+order: 874
 ---
 
 *This page provides an index to significant articles and interviews with Alan Ayckbourn between 2010 and 2019.*
@@ -284,15 +284,15 @@ TBC
 
 ### Topic
 
-*My Wonderful Day  
-My Wonderful Day  
-My Wonderful Day  
-My Wonderful Day  
-Private Fears In Public Places*  
+*My Wonderful Day*  
+*My Wonderful Day*  
+*My Wonderful Day*  
+*My Wonderful Day*  
+*Private Fears In Public Places*  
 Career  
-*Bedroom Farce  
-Taking Steps  
-Taking Steps*  
+*Bedroom Farce*  
+*Taking Steps*  
+*Taking Steps*  
 Career  
 Career  
 *Life Of Riley*  
@@ -305,66 +305,66 @@ Ayckbourn Archive
 *Dear Uncle*  
 *Dear Uncle*  
 Career  
-*Neighbourhood Watch  
-Neighbourhood Watch  
-Neighbourhood Watch*  
+*Neighbourhood Watch*  
+*Neighbourhood Watch*  
+*Neighbourhood Watch*  
 London 2012  
-*Neighbourhood Watch  
-Neighbourhood Watch  
-Neighbourhood Watch  
-Neighbourhood Watch  
-Absent Friends  
-Absurd Person Singular*  
+*Neighbourhood Watch*  
+*Neighbourhood Watch*  
+*Neighbourhood Watch*  
+*Neighbourhood Watch*  
+*Absent Friends*  
+*Absurd Person Singular*  
 BBC Radio career  
 *Surprises*  
 Career  
-*Time Of My Life  
-Life Of Riley  
-Surprises  
-Arrivals & Departures  
-Time Of My Life  
-Arrivals & Departures  
-Arrivals & Departures  
-Farcicals  
-Sugar Daddies  
-Sugar Daddies  
-Arrivals & Departures  
-Arrivals & Departures  
-Roundelay*  
+*Time Of My Life*  
+*Life Of Riley*  
+*Surprises*  
+*Arrivals & Departures*  
+*Time Of My Life*  
+*Arrivals & Departures*  
+*Arrivals & Departures*  
+*Farcicals*  
+*Sugar Daddies*  
+*Sugar Daddies*  
+*Arrivals & Departures*  
+*Arrivals & Departures*  
+*Roundelay*  
 Writing  
 Theatre  
 *Arrivals & Departures*  
 Career  
 Career  
-*Roundelay  
-Woman In Mind  
-Arrivals & Departures*  
+*Roundelay*  
+*Woman In Mind*  
+*Arrivals & Departures*  
 NT Live  
 *Roundelay*  
 Torben Betts  
-*The Boy Who Fell into Book  
-Roundelay  
-Roundelay  
-Roundelay*  
+*The Boy Who Fell into Book*  
+*Roundelay*  
+*Roundelay*  
+*Roundelay*  
 Career  
 Alain Resnais  
-*Hero’s Welcome  
-Hero's Welcome  
-The Karaoke Theatre Company  
-The Karaoke Theatre Company  
-Henceforward…*  
+*Hero’s Welcome*  
+*Hero's Welcome*  
+*The Karaoke Theatre Company*  
+*The Karaoke Theatre Company*  
+*Henceforward…*  
 Career  
 Career  
-*The Divide  
-The Divide  
-The Divide  
-A Brief History Of Women*  
+*The Divide*  
+*The Divide*  
+*The Divide*  
+*A Brief History Of Women*  
 Career  
 *A Brief History Of Women*  
 Career  
 Early plays  
-*Joking Apart  
-Better Off Dead*  
+*Joking Apart*  
+*Better Off Dead*  
 Career  
 Theatres  
 80th birthday  

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://manofthemoment.alanayckbourn.net/styled-5/styled-11/"
-order: 1481
+order: 1480
 play: "man-of-the-moment"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Musical"
 source: "http://theboywhofell.alanayckbourn.net/page18/"
-order: 718
+order: 717
 play: "the-boy-who-fell-into-a-book"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-9/page17.html"
-order: 724
+order: 723
 play: "a-chorus-of-disapproval"
 ---
 
@@ -13,23 +13,23 @@ play: "a-chorus-of-disapproval"
 
 **Company:** Palisades
 
-**Availability  
-Video:** 1991 (deleted)  
+**Availability**  
+**Video:** 1991 (deleted)  
 **DVD (R2):** 2007 (available)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Screenplay  
-Photography  
-Photography  
-Editor  
-Executive Editor  
-Design  
-Music  
-Choreography  
-Sound  
-Sound  
-Sound  
-Sound**
+**Digital:** Not available**Director**  
+**Screenplay**  
+**Photography**  
+**Photography**  
+**Editor**  
+**Executive Editor**  
+**Design**  
+**Music**  
+**Choreography**  
+**Sound**  
+**Sound**  
+**Sound**  
+**Sound**
 
 **Character**  
 Dafydd Ap Llewellyn  

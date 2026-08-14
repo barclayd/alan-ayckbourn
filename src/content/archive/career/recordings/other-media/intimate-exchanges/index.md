@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page34/Media_Intimate_Exchanges.html"
-order: 826
+order: 825
 ---
 
 ### Intimate Exchanges
@@ -25,12 +25,12 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 *A Pageant:* 28 August (3pm)  
 *Love In The Mist:* 28 August (8.15pm)
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Additional Dialogue**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Additional Dialogue**
 
 **Character**  
 Miles Coombes  
@@ -70,26 +70,26 @@ Additional dialogue was provided by Alan Ayckbourn for a short addition to the f
 **Production:** Camera One  
 **Production:** France 2 Cinéma
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD (R2):** 2005 (deleted) \*  
 **Blu-ray:** Not available  
 **Digital:** Not available
 
-\* The region 2 DVD of *Smoking* / *No Smoking* is in the French language and does not include English sub-titles. *Smoking* / *No Smoking* has never been commercially released with English sub-titles.**Director  
-Adaptation  
-Adaptation  
-Assistant Director  
-Assistant Director  
-Continuity  
-Photography  
-Editing  
-Set Designer  
-Drawings  
-Costume Designer  
-Music  
-Sound  
-Sound**
+\* The region 2 DVD of *Smoking* / *No Smoking* is in the French language and does not include English sub-titles. *Smoking* / *No Smoking* has never been commercially released with English sub-titles.**Director**  
+**Adaptation**  
+**Adaptation**  
+**Assistant Director**  
+**Assistant Director**  
+**Continuity**  
+**Photography**  
+**Editing**  
+**Set Designer**  
+**Drawings**  
+**Costume Designer**  
+**Music**  
+**Sound**  
+**Sound**
 
 **Character**  
 Celia Teasdale  

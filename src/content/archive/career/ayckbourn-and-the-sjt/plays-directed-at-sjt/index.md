@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn & the Stephen Joseph Theatre: Plays Directed"
 source: "http://careers.alanayckbourn.net/page-80/page-89/page18.html"
-order: 523
+order: 522
 ---
 
 Alan Ayckbourn is by far the most prolific director at theatre in the round in Scarborough with more than 200 productions directed at Theatre in the Round at the Library Theatre, Stephen Joseph Theatre In The Round and Stephen Joseph Theatre. This page lists all the productions he has directed in Scarborough since his professional directorial debut in 1961.

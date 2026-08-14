@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://comicpotential.alanayckbourn.net/styled-8/"
-order: 1689
+order: 1687
 play: "comic-potential"
 ---
 

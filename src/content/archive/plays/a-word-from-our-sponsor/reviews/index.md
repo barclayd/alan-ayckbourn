@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://awordfromoursponsor.alanayckbourn.net/styled-6/"
-order: 1655
+order: 1654
 play: "a-word-from-our-sponsor"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page46/Media_Dreams_From.html"
-order: 820
+order: 819
 ---
 
 ### Dreams From A Summer House
@@ -18,11 +18,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 
 **Production:** SJTITR
 
-**Availability  
-Cassette:** 1992 (deleted)  
+**Availability**  
+**Cassette:** 1992 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Robert, an artist  

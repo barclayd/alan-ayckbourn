@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Alain Resnais (1922 - 2014)"
 source: "http://advocates.alanayckbourn.net/page/page-16/"
-order: 2372
+order: 2370
 ---
 
 *Alain Resnais was a major French film director / auteur and screenwriter. Best known for his ground-breaking films Hiroshima Mon Amour and Last Year At Marienbad, he would adapt three of Alan Ayckbourn's plays into films (Intimate Exchanges, Private Fears In Public Places and Life Of Riley). A huge fan of Ayckbourn's work, he would frequently travel to Scarborough to see the world premieres of Alan's work, where the two men struck up a friendship. Alain would even marry Sabine Azema in Scarborough with Alan and his wife as the witnesses.*

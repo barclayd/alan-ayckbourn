@@ -1,7 +1,7 @@
 ---
 title: "Research: Television & Radio Documentaries"
 source: "http://research.alanayckbourn.net/page-2/Documentaries.html"
-order: 864
+order: 863
 ---
 
 This page offers an at-a-glance guide to some of the major television and radio documentaries which have featured Alan Ayckbourn over the years. It is by no means comprehensive and does not include the vast quantity of minor features on Alan Ayckbourn particularly on regional television and radio stations. Many thanks to John O'Rourke, Jenny Macleod and the BBC’s Genome Project for help in compiling this list.
@@ -386,10 +386,10 @@ Yorkshire
 *Way Upstream*  
 Career  
 Behind the scenes at SJT  
-*The 7 Deadly Virtues  
-A Chorus Of Disapproval  
-Intimate Exchanges  
-Intimate Exchanges*  
+*The 7 Deadly Virtues*  
+*A Chorus Of Disapproval*  
+*Intimate Exchanges*  
+*Intimate Exchanges*  
 Career  
 Career  
 25th anniversary of first play  
@@ -428,11 +428,11 @@ Stephen Joseph Theatre
 Stephen Joseph Theatre  
 Stephen Joseph Theatre  
 Playwriting  
-*Comic Potential  
-Virtual Reality*  
-*House & Garden  
-House & Garden  
-House & Garden*  
+*Comic Potential*  
+*Virtual Reality*  
+*House & Garden*  
+*House & Garden*  
+*House & Garden*  
 Career  
 Career  
 Career  
@@ -440,8 +440,8 @@ Scarborough
 Directing masterclass  
 *GamePlan*  
 Discussing *The Empty Space* 30 years on  
-*The Jollies  
-Sugar Daddies*  
+*The Jollies*  
+*Sugar Daddies*  
 *Drowning On Dry Land*  
 Stephen Joseph Theatre  
 Career  
@@ -465,8 +465,8 @@ Career at BBC
 Career  
 Life  
 *Roundelay*  
-Career / *Roundelay  
-The Karaoke Theatre Company*  
+Career / *Roundelay*  
+*The Karaoke Theatre Company*  
 Career  
 Sir Peter Hall  
 The actress Elisabeth Sladen  

@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://lifeofriley.alanayckbourn.net/styled-7/"
-order: 1977
+order: 1975
 play: "life-of-riley"
 ---
 

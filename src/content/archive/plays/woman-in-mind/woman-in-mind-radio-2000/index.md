@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://womaninmind.alanayckbourn.net/styled-9/page17.html"
-order: 772
+order: 771
 play: "woman-in-mind"
 ---
 
@@ -14,8 +14,8 @@ play: "woman-in-mind"
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 
@@ -48,8 +48,8 @@ Jamie Glover
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

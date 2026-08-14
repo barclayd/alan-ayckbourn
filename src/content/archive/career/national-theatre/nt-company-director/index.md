@@ -1,7 +1,7 @@
 ---
 title: "The National Theatre"
 source: "http://careers.alanayckbourn.net/styled-2/page-105/NationalTheatre.html"
-order: 601
+order: 600
 ---
 
 Alan Ayckbourn has had a strong relationship with the National Theatre and was a **[Company Director](/career/national-theatre/nt-company-director)** between 1986 and 1988. The National Theatre is the most important venue Alan Ayckbourn is associated with outside of his home theatre in Scarborough.
@@ -70,35 +70,35 @@ I suppose what I have got from my time at the National Theatre is the excitement
 
 ![](./_images/stacks-image-c2a94f0.jpg)
 
-*Peter Hall & Alan Ayckbourn at the National Theatre in 1977.  
-© National Theatre*
+*Peter Hall & Alan Ayckbourn at the National Theatre in 1977.*  
+*© National Theatre*
 
 ![](./_images/stacks-image-e3c6029.jpg)
 
-*Alan Ayckbourn & Michael Gambon during rehearsals at the National Theatre.  
-© National Theatre*
+*Alan Ayckbourn & Michael Gambon during rehearsals at the National Theatre.*  
+*© National Theatre*
 
 ![](./_images/stacks-image-dbace9c.jpg)
 
-*Alan Ayckbourn with his National Theatre company in 1986.  
-© National Theatre*
+*Alan Ayckbourn with his National Theatre company in 1986.*  
+*© National Theatre*
 
 ![](./_images/stacks-image-ec9ccb1.jpg)
 
-*Simon Cadell & Michael Gambon in Tons Of Money.  
-© National Theatre*
+*Simon Cadell & Michael Gambon in Tons Of Money.*  
+*© National Theatre*
 
 ![](./_images/stacks-image-abe06a8.jpg)
 
-*Michael Gambon & Suzan Sylvester in A View From The Bridge.  
-© National Theatre*
+*Michael Gambon & Suzan Sylvester in A View From The Bridge.*  
+*© National Theatre*
 
 ![](./_images/stacks-image-12f364a.jpg)
 
-*Michael Gambon in A Small Family Business.  
-© National Theatre*
+*Michael Gambon in A Small Family Business.*  
+*© National Theatre*
 
 ![](./_images/stacks-image-f0fa46c.jpg)
 
-*Rupert Graves in 'Tis Pity She's A Whore.  
-© National Theatre*
+*Rupert Graves in 'Tis Pity She's A Whore.*  
+*© National Theatre*

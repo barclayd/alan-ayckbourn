@@ -8,19 +8,19 @@ order: 460
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Stephen Mallatratt  
+**Venue:**  
+**Location:**  
+**Staging:**Stephen Mallatratt  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Studio  
-End-stage**First performance:  
-Opening night:  
-Final performance:**14 June 1988  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**14 June 1988  
 14 June 1988  
 6 September 1988
 

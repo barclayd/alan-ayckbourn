@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Research Resources"
 source: "http://farcicals.alanayckbourn.net/page/"
-order: 2198
+order: 2196
 play: "chloe-with-love-farcicals"
 ---
 

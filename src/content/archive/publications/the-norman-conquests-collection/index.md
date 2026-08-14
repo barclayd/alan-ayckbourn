@@ -1,7 +1,7 @@
 ---
 title: "Play Collections"
 source: "http://publications.alanayckbourn.net/styled-5/PublicationsCollections.html"
-order: 750
+order: 749
 ---
 
 This page lists the major collections of Alan Ayckbourn's plays. The majority of which are still available and in print. In several cases, these are the latest editions of the collections.

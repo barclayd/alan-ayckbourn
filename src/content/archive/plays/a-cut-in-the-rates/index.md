@@ -10,7 +10,8 @@ facts:
   World Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Description: "One act play"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/1204/a-cut-in-the-rates/)"
+  Other Media: "Television"
   Short Synopsis: "A tax inspector has an unexpected encounter with an illusionist and his assistant."
 ---
 
-Other Media:** Television
+

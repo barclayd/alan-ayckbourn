@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://menonwomen.alanayckbourn.net/page9/"
-order: 747
+order: 746
 play: "men-on-women-on-men"
 ---
 
@@ -13,11 +13,11 @@ play: "men-on-women-on-men"
 
 **Company:** Stephen Joseph Theatre In The Round
 
-**Availability  
-Cassette:** 1978 (deleted)  
+**Availability**  
+**Cassette:** 1978 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Actor**  
 Malcolm Hebden  
@@ -40,14 +40,14 @@ Paul Todd (piano / percussion)
 
 **Company:** BBC North
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Musical Director  
-Design  
-Arrangements**
+**Digital:** Not available**Director**  
+**Musical Director**  
+**Design**  
+**Arrangements**
 
 **Actor**  
 Malcolm Hebden  

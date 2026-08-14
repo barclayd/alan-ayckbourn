@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://suburbanstrains.alanayckbourn.net/page-5/"
-order: 1299
+order: 1298
 play: "suburban-strains"
 ---
 

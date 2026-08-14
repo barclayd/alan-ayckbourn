@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: Structure"
 source: "http://mrasamazing.alanayckbourn.net/styled-2/"
-order: 1494
+order: 1493
 play: "mr-as-amazing-maze-plays"
 ---
 

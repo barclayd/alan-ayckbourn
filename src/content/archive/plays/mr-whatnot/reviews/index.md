@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://mrwhatnot.alanayckbourn.net/styled-8/"
-order: 966
+order: 965
 play: "mr-whatnot"
 ---
 

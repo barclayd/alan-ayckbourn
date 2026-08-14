@@ -1,7 +1,7 @@
 ---
 title: "Publication Corrections"
 source: "http://improbablefiction.alanayckbourn.net/styled-6/"
-order: 1914
+order: 1912
 play: "improbable-fiction"
 ---
 
@@ -14,5 +14,5 @@ Page 30, Act I.
 **As printed:**  
 **Jess:** Doesn't stop him failing in love with practically everyone else.
 
-**Correct version (correction in bold italics):  
-Jess:** Doesn't stop him **falling** in love with practically everyone else.
+**Correct version (correction in bold italics):**  
+**Jess:** Doesn't stop him **falling** in love with practically everyone else.

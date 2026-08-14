@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Facts"
 source: "http://livingtogether.alanayckbourn.net/page-18/"
-order: 2482
+order: 2454
 play: "living-together"
 ---
 
@@ -10,8 +10,8 @@ play: "living-together"
 ### The Norman Conquests
 
 **Play Number:** 13 - 15  
-**World Premieres  
-*Table Manners*:** 18 June 1973  
+**World Premieres**  
+***Table Manners*:** 18 June 1973  
 ***Living Together*:** 25 June 1973  
 ***Round And Round The Garden*:** 2 July 1973  
 **Venue:** Theatre in the Round at the Library Theatre, Scarborough

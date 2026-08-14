@@ -1,7 +1,7 @@
 ---
 title: "Characters & Structure"
 source: "http://privatefears.alanayckbourn.net/styled-14/page23.html"
-order: 1880
+order: 1878
 play: "private-fears-in-public-places"
 ---
 

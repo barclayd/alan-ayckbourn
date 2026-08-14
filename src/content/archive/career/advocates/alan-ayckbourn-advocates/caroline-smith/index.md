@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Caroline Smith"
 source: "http://advocates.alanayckbourn.net/page/page-76/"
-order: 2374
+order: 2372
 ---
 
 *Caroline Smith is a director and actor with extensive experience in British theatre. She initially worked with Alan Ayckbourn at the Victoria Theatre, Stoke-on-Trent, in 1963 and 1964 acting and directing. In 1971, she was appointed the Associate Director of the Library Theatre, Scarborough, on Alan's suggestion.*

@@ -1,7 +1,7 @@
 ---
 title: "Damsels In Distress: Articles"
 source: "http://roleplay.alanayckbourn.net/page-2/page-7/index.html"
-order: 1805
+order: 1803
 play: "roleplay"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://mywonderfulday.alanayckbourn.net/styled-5/"
-order: 1958
+order: 1956
 play: "my-wonderful-day"
 ---
 

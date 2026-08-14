@@ -1,7 +1,7 @@
 ---
 title: "BBC Radio Plays"
 source: "http://careers.alanayckbourn.net/styled/styled-18/page-38/"
-order: 663
+order: 662
 ---
 
 *Between 1965 and 1970, Alan Ayckbourn was employed as a Radio Drama Producer by the BBC. He was responsible for directing dozens of works for the radio, sadly details of the majority of which have been lost. These pages contain details for specific productions where known.*
@@ -10,8 +10,8 @@ order: 663
 
 **Author:**
 
-**Broadcast:  
-Channel:**Brian Morris
+**Broadcast:**  
+**Channel:**Brian Morris
 
 31 January 1968 @ 3pm  
 BBC Radio 4**Director:**Alan Ayckbourn**Character**  

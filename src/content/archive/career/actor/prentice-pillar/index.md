@@ -1,42 +1,20 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page147/"
-order: 554
+order: 553
 ---
 
 ## 'Prentice Pillar (1960)
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** 'Prentice Pillar  
-Ruth Dixon
-
-15 June 1960  
-22 June 1960  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Dick  
-Essie  
-Prentice  
-Martha  
-Master Mason  
-The Tub **Actor**  
-David Campton  
-Hazel Burt  
-Alan Ayckbourn  
-Anita Robinson  
-David Glover  
-Faynia Jeffery
+****Play:** 'Prentice Pillar** **Character** **Actor**  
+****Author:** Ruth Dixon** **Dick** David Campton  
+****First performance:** 15 June 1960** **Essie** Hazel Burt  
+****Final performance:** 22 June 1960** **Prentice** Alan Ayckbourn  
+****Venue:** The Library Theatre, Scarborough** **Martha** Anita Robinson  
+****Staging:** Round** **Master Mason** David Glover  
+****Director:** Stephen Joseph** **The Tub** Faynia Jeffery
 
 ### Quotes & Notes
 

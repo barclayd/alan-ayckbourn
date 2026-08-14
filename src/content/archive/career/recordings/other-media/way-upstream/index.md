@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page31/Media_Way_Upstream.html"
-order: 844
+order: 843
 ---
 
 ### Way Upstream
@@ -19,15 +19,15 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Netflix**Director  
-Designer  
-Photography  
-Editor  
-Producer**
+**Digital:** Netflix**Director**  
+**Designer**  
+**Photography**  
+**Editor**  
+**Producer**
 
 **Character**  
 Alistair  
@@ -60,8 +60,8 @@ Veronica Clifford
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

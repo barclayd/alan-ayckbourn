@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://takingsteps.alanayckbourn.net/styled-5/"
-order: 1283
+order: 1282
 play: "taking-steps"
 ---
 

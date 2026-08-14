@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://timeofmylife.alanayckbourn.net/styled-5/styled-2/"
-order: 1597
+order: 1596
 play: "time-of-my-life"
 ---
 

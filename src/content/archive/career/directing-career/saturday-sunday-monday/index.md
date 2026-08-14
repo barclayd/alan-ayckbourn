@@ -8,31 +8,31 @@ order: 487
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Eduardo di Filippo  
+**Venue:**  
+**Location:**  
+**Staging:**Eduardo di Filippo  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**15 September 1982  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**15 September 1982  
 15 September 1982  
 30 October 1983
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**Alan Ayckbourn  
 Francis Lynch  
 Edward Lipscomb  
 Paul Todd

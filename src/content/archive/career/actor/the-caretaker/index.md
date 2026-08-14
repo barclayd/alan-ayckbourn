@@ -1,36 +1,25 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page170/"
-order: 577
+order: 576
 ---
 
 ## The Caretaker (1962)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Caretaker  
+**Author:** Harold Pinter  
+**First performance:** 16 August 1962  
+**Final performance:** 22 August 1962  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Alan Ayckbourn
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Caretaker  
-Harold Pinter
-
-16 August 1962  
-22 August 1962  
-The Library Theatre, Scarborough  
-Round
-
-Alan Ayckbourn   **Character**  
-Mick  
-Aston  
-Davies **Actor**  
-Peter King  
-Richard Gill  
-Stanley Page
+**Character** **Actor**  
+**Mick** Peter King  
+**Aston** Richard Gill  
+**Davies** Stanley Page
 
 ### Quotes & Notes
 

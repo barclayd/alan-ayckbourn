@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://jokingapart.alanayckbourn.net/styled-8/"
-order: 1250
+order: 1249
 play: "joking-apart"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-8/"
-order: 1070
+order: 1069
 play: "absurd-person-singular"
 ---
 

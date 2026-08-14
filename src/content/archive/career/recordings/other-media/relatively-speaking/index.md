@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page27/Media_Relatively_Speaking.html"
-order: 836
+order: 835
 ---
 
 ### Relatively Speaking
@@ -20,14 +20,14 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Production:** Agincourt  
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Designer  
-In arrangement with  
-TV producer**
+**Digital:** Not available**Director**  
+**Designer**  
+**In arrangement with**  
+**TV producer**
 
 **Character**  
 Greg  
@@ -53,13 +53,13 @@ Celia Johnson**Note**: This is the first ever television broadcast of an Alan Ay
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Lighting  
-Design**
+**Digital:** Not available**Director**  
+**Lighting**  
+**Design**
 
 **Character**  
 Greg  
@@ -84,8 +84,8 @@ Celia Johnson**Note**: This is the first television adaptation of an Alan Ayckbo
 
 **Production:** BBC
 
-**Availability  
-Cassette:** 1990 (deleted)  
+**Availability**  
+**Cassette:** 1990 (deleted)  
 **CD:** Not available  
 **Digital:** Not available**Director**
 
@@ -110,16 +110,16 @@ Rosemary Leach
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Designer  
-Costumes  
-Music  
-Script Editor  
-Producer**
+**Digital:** Not available**Director**  
+**Designer**  
+**Costumes**  
+**Music**  
+**Script Editor**  
+**Producer**
 
 **Character**  
 Greg  

@@ -36,9 +36,44 @@ const SECTION_SITES = {
 // inside the archive. `advocates` alone is 83 pages of advocacy writing.
 const EXTRA_SITES = {
   advocates: 'career/advocates',
-  interviews: 'career/interviews',
   recordings: 'career/recordings',
   artisticdirector: 'career/artistic-director',
+};
+
+/*
+ * Two hosts, one site, path for path: `interviews` is the research section under
+ * an earlier name, and the seven deadly virtues answers on both its spelt and
+ * its numeric host. Folded at the door, so the crawl fetches one copy, every
+ * link resolves to it, and neither turns up as a second research section under
+ * `career/` nor as a phantom second entry on the plays index.
+ *
+ * Not aliased: the hosts several plays genuinely share — the Norman Conquests
+ * trilogy, Jeeves and By Jeeves, the two Farcicals one-acts. Those pages repeat
+ * because two plays really are one site, and each play still needs its own
+ * place on the index.
+ */
+const HOST_ALIASES = {
+  interviews: 'research',
+  sevendeadlyvirtues: 'the7deadlyvirtues',
+};
+
+/*
+ * Three pages whose <h1> names a section of the nav bar instead of the page. Two
+ * are subdomain roots the archive only ever links from the nav, so the heading
+ * they carry is the nav's: 83 essays about Ayckbourn's advocates sit under "Life
+ * & Career", the recordings and adaptations under "Encyclopaedia, Research &
+ * Other Media". The third is an at-a-glance summary of the careers with their
+ * dates, headed "Careers & Timeline" — which is also the name of the section
+ * front it sits inside, so untouched it lists itself as one of its own children.
+ *
+ * A heading correction, not a content one: each replacement is a phrase the
+ * archive uses for that page's own subject elsewhere on the site.
+ */
+const TITLE_FIXES = {
+  'http://advocates.alanayckbourn.net/': 'Advocates',
+  'http://recordings.alanayckbourn.net/':
+    'Recordings & Adaptations in Other Media',
+  'http://careers.alanayckbourn.net/styled-16/': 'Careers at a Glance',
 };
 
 // One play per era: the 60s hit, the 70s tragi-comedy, the trilogy, the 80s
@@ -126,6 +161,10 @@ function normalise(href, base) {
   u.hash = '';
   u.search = '';
   u.protocol = 'http:';
+  const alias = HOST_ALIASES[subdomain(u.hostname)];
+  if (alias) {
+    u.hostname = `${alias}.${DOMAIN}`;
+  }
   if (!u.pathname.includes('.') && !u.pathname.endsWith('/')) {
     u.pathname += '/';
   }
@@ -137,16 +176,25 @@ const hostOf = (url) => new URL(url).hostname;
 const subdomain = (host) => host.replace(`.${DOMAIN}`, '');
 const isInternal = (url) => hostOf(url).endsWith(DOMAIN);
 
+/** The old PHP mailer's four wrappers: general, copyright, memories, one spare. */
+const CONTACT_FORM = /(^|\/)contact-form(-\d+)?\//;
+
 /**
  * A page, as opposed to a file the archive happens to host. The interview
  * section publishes six of its transcripts as PDFs, and crawling those produced
  * six entries with a title and no body whatsoever — a dead end with our chrome
- * around it. `.php` is the old mail handler, which was never a page either.
- * Anything without an extension is a directory, which is how most of the site
- * is published.
+ * around it. `.php` is the old mail handler, which was never a page either, and
+ * neither is the `contact-form/` directory wrapped around it: crawled, it yields
+ * a page of field labels with no fields — "Your Name: *", "Spam Protection:
+ * Please don't fill this in" — four times over. Anything without an extension is
+ * a directory, which is how most of the site is published.
  */
 const isPage = (url) => {
-  const last = new URL(url).pathname.split('/').pop() ?? '';
+  const u = new URL(url);
+  if (CONTACT_FORM.test(u.pathname)) {
+    return false;
+  }
+  const last = u.pathname.split('/').pop() ?? '';
   return !last.includes('.') || /\.(html?|shtml)$/i.test(last);
 };
 
@@ -183,12 +231,110 @@ function segments(url) {
 const NAV_STACKS =
   '.com_yourhead_stack_button_stack, .com_elixir_stacks_flatbutton2_stack, .flat_button_2_alignment';
 
+/**
+ * A column's `<br>`-separated lines, each flagged if all of its text is bold.
+ * Read before clean() rewrites them, so bold is still a style on a <span>.
+ *
+ * A <dl> is a table this pass has already zipped, and counts as one line per
+ * row: that is what lets a three-column table pair its outer column against
+ * the two inner ones.
+ */
+function brLines($, column) {
+  const lines = [{ text: '', bold: true }];
+  const walk = (node, bold) => {
+    for (const n of $(node).contents().toArray()) {
+      if (n.type === 'text') {
+        lines.at(-1).text += n.data;
+        if (n.data.trim()) {
+          lines.at(-1).bold &&= bold;
+        }
+      } else if (n.type === 'tag' && n.tagName === 'br') {
+        lines.push({ text: '', bold: true });
+      } else if (n.type === 'tag' && n.tagName === 'dl') {
+        /* One line per row, carrying the label column's text so an enclosing
+           test still sees a header where the table had one. */
+        const [labels, values] = ['dt', 'dd'].map((part) =>
+          brLines($, $(n).children(part).get(0)),
+        );
+        const rows = Math.max(labels.length, values.length);
+        for (let i = 0; i < rows; i++) {
+          if (labels[i]) {
+            lines.at(-1).text += labels[i].text;
+            lines.at(-1).bold &&= labels[i].bold;
+          }
+          if (i < rows - 1) {
+            lines.push({ text: '', bold: true });
+          }
+        }
+      } else if (n.type === 'tag') {
+        walk(
+          n,
+          bold ||
+            n.tagName === 'strong' ||
+            n.tagName === 'b' ||
+            /font-weight:\s*bold/i.test($(n).attr('style') || ''),
+        );
+      }
+    }
+  };
+  walk(column, false);
+  return lines
+    .map(({ text, bold }) => ({ text: text.replace(/\s+/g, ' ').trim(), bold }))
+    .filter((line) => line.text);
+}
+
 function clean($) {
   const content = $('#content');
   content
     .find('script, style, noscript, .contentSpacer, .clear, .clearer')
     .remove();
   content.find(NAV_STACKS).remove();
+
+  /*
+   * Stacks' "two columns" is a layout stack, so flattening it prints the left
+   * column and then the right — right for a sidebar, wrong for a table. Two of
+   * these rows are tables drawn as columns: one whose left column is nothing
+   * but labels ("Play:", "○ 1956:"), and one whose columns are equal-length
+   * lists under a bold heading each ("Character" / "Actor"). 187 rows across
+   * the career section, where flattening printed all seven labels and then all
+   * seven values, and paired no character with an actor.
+   *
+   * Retagged, not rewritten, so the rest of clean() still runs over the
+   * contents. `blocksOf` zips the columns back into rows.
+   */
+  /* Innermost rows first, then out: a credit page nests its data sheet and its
+     cast list inside one outer row, and the cast-size table is three columns
+     built as two rows deep. An outer pairing can only be counted once the
+     inner table is a column of rows, and retagging takes a row out of the
+     `div.s3_row` set it is chosen from. */
+  for (let paired = true; paired; ) {
+    paired = false;
+    for (const row of content.find('div.s3_row').toArray()) {
+      if ($(row).find('div.s3_row').length) {
+        continue;
+      }
+      const cols = $(row).children('.s3_column').toArray();
+      if (cols.length !== 2) {
+        continue;
+      }
+      const [left, right] = cols.map((col) => brLines($, col));
+      if (left.length < 3 || left.length !== right.length) {
+        continue;
+      }
+      const labelled = left.every((line) => line.text.endsWith(':'));
+      const headed =
+        left[0].bold &&
+        right[0].bold &&
+        ![...left.slice(1), ...right.slice(1)].some((line) => line.bold);
+      if (!labelled && !headed) {
+        continue;
+      }
+      row.tagName = 'dl';
+      cols[0].tagName = 'dt';
+      cols[1].tagName = 'dd';
+      paired = true;
+    }
+  }
 
   // Pull-out boxes ("Behind The Scenes: …") become semantic asides. The box is
   // the inner `*_float` div — its parent stack also holds the page's main flow.
@@ -229,15 +375,21 @@ function clean($) {
 }
 
 const PARA_BREAK = /((?:<br>\s*){2,})/;
+const LINE_BREAK = /((?:<br>\s*)+)/;
 
 /**
  * Emphasis markers must hug their text (`*foo *bar` is not italic) and must not
  * straddle a line or paragraph break, or the markers end up unbalanced.
+ *
+ * A break of either length ends the run: Stacks writes a whole bold list as one
+ * span, and `**a<br>b**` puts an opening marker on one line and its closing
+ * marker on the next, which is nineteen years of the careers timeline in a
+ * single unclosed bold run.
  */
 function emphasise(inner, marker) {
-  if (PARA_BREAK.test(inner)) {
+  if (LINE_BREAK.test(inner)) {
     return inner
-      .split(PARA_BREAK)
+      .split(LINE_BREAK)
       .map((part, i) => (i % 2 ? part : emphasise(part, marker)))
       .join('');
   }
@@ -257,6 +409,33 @@ const escapeMd = (text) =>
     .replace(/\s+/g, ' ')
     .replace(/([\\`*[\]<>])/g, '\\$1');
 
+/**
+ * The rows of a table clean() found drawn as two columns, one markdown line
+ * each: `**label** value`, which is how the archive writes a data sheet when it
+ * does not reach for columns — and reads down a phone, which two columns of
+ * names never did.
+ */
+function zipRows($, node, links) {
+  const [labels, values] = ['dt', 'dd'].map((part) =>
+    inlineMd($, $(node).children(part).get(0), links)
+      .split('<br>')
+      .map((line) => line.trim())
+      .filter(Boolean),
+  );
+  /* clean() counted the rows in the DOM and a cell can still empty between
+     there and here — an image that resolves to nothing, a link whose text was
+     only whitespace. Walk the longer column so no cell is dropped. */
+  return Array.from(
+    { length: Math.max(labels.length, values.length) },
+    (_, i) => {
+      const label = labels[i];
+      const bold =
+        !label || /^\*\*[^*]+\*\*$/.test(label) ? label : `**${label}**`;
+      return [bold, values[i]].filter(Boolean).join(' ');
+    },
+  );
+}
+
 /** Serialises one node, keeping `<br>` as a marker for the block split. */
 function inlineNode($, n, links) {
   if (n.type === 'text') {
@@ -268,6 +447,10 @@ function inlineNode($, n, links) {
   switch (n.tagName) {
     case 'br':
       return '<br>';
+    /* A table nested inside another table's cell: its rows become the cell's
+       lines, so the column enclosing it pairs against them one for one. */
+    case 'dl':
+      return zipRows($, n, links).join('<br>');
     case 'em':
     case 'i':
       return emphasise(inlineMd($, n, links), '*');
@@ -347,6 +530,13 @@ function blocksOf($, root, links) {
     } else if (tag === 'aside') {
       flush();
       blocks.push({ type: 'aside', blocks: blocksOf($, node, links) });
+    } else if (tag === 'dl') {
+      flush();
+      blocks.push({
+        type: 'p',
+        sheet: true,
+        text: zipRows($, node, links).join('  \n'),
+      });
     } else if (tag === 'img') {
       flush();
       const src = links.image($(node).attr('src'));
@@ -381,9 +571,14 @@ const linkText = (block) =>
     .join('')
     .replace(/\([^)]*\)/g, '').length;
 
-/** A paragraph that is almost entirely links is the old sibling-nav, not prose. */
+/**
+ * A paragraph that is almost entirely links is the old sibling-nav, not prose —
+ * unless it is a zipped data sheet, where every value being a link to the play
+ * or the venue it names is the sheet doing its job.
+ */
 const isNavBlock = (block) =>
   block.type === 'p' &&
+  !block.sheet &&
   (block.text.match(/\]\(/g) || []).length >= 2 &&
   linkText(block) / Math.max(block.text.replace(/\([^)]*\)/g, '').length, 1) >
     0.6;
@@ -875,7 +1070,8 @@ async function run() {
   );
   for (const url of order) {
     const page = pages.get(url);
-    page.title = page.$('#content h1').first().text().trim();
+    page.title =
+      TITLE_FIXES[url] ?? page.$('#content h1').first().text().trim();
     const base = baseOf(url);
     const seg = segments(url).at(-1);
     const label = labels.get(url)?.text;
@@ -922,6 +1118,12 @@ async function run() {
   const routeFor = (url) => {
     if (routes.has(url)) {
       return `/${routes.get(url)}`;
+    }
+    /* Never crawled, by `isPage`. Our own contact page says where enquiries go
+       now, which is nearer the mark than the section index the prefix fallback
+       below would otherwise pick — "Contact Us" landing on the plays list. */
+    if (CONTACT_FORM.test(new URL(url).pathname)) {
+      return '/contact';
     }
     uncrawled.add(hostOf(url));
     const prefix = prefixOf(hostOf(url));
@@ -1172,6 +1374,7 @@ export {
   extractFacts,
   isLabel,
   isPage,
+  normalise,
   render,
   segments,
   slugify,

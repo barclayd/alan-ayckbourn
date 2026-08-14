@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://ernies.alanayckbourn.net/page9/Media_Ernies.html"
-order: 732
+order: 731
 play: "ernies-incredible-illucinations"
 ---
 
@@ -28,14 +28,14 @@ No other production details are known**Note:** *Ernie's Incredible Illucinations
 
 **Production:** BBC
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Design  
-Producer**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Design**  
+**Producer**
 
 **Character**  
 Ernie  

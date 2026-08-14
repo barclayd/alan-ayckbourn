@@ -8,32 +8,32 @@ order: 507
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Henry Becque  
+**Venue:**  
+**Location:**  
+**Staging:**Henry Becque  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**27 September 1989  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**27 September 1989  
 3 October 1989  
 21 October 1989
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**Alan Ayckbourn  
 Francis Stevenson  
 Michael Holt  
 John Pattison

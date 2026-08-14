@@ -1,7 +1,7 @@
 ---
 title: "A Trip To Scarborough: Historical Notes"
 source: "http://atriptoscarborough.alanayckbourn.net/styled-8/"
-order: 2217
+order: 2215
 play: "a-trip-to-scarborough-sheridan"
 ---
 

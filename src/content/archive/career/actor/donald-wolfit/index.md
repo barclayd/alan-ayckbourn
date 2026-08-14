@@ -14,8 +14,8 @@ Also of interest is a letter held in the Ayckbourn Archive at the Borthwick Inst
 
 ![](./_images/stacks-image-043057d.jpg)
 
-*Sir Donald Wolfit, CBE  
-Copyright: To be confirmed*
+*Sir Donald Wolfit, CBE*  
+*Copyright: To be confirmed*
 
 ### Resources
 

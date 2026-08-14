@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://gameplan.alanayckbourn.net/styled-7/"
-order: 1761
+order: 1759
 play: "gameplan"
 ---
 

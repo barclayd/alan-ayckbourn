@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://dadstale.alanayckbourn.net/page16/"
-order: 926
+order: 925
 play: "dads-tale"
 ---
 
@@ -16,22 +16,16 @@ play: "dads-tale"
 **Staging:** Round
 
 **Director:** Clifford Williams  
-**Choreography:** Gerard Bagley  
-**Character**  
-Martin  
-Auntie  
-Dad  
-Jenny  
-Various roles  
-Various roles  
-British Dance Drama Theatre **Actor**  
-David Jarrett  
-Rosamund Dickson  
-Stanley Page  
-Hazel Burt  
-Alan Ayckbourn  
-Philip Clifford  
-Tonya Burcka, Jennifer Wright, Frances Harper, Brenda Elder, Robert Horobin
+**Choreography:** Gerard Bagley
+
+**Character** **Actor**  
+**Martin** David Jarrett  
+**Auntie** Rosamund Dickson  
+**Dad** Stanley Page  
+**Jenny** Hazel Burt  
+**Various roles** Alan Ayckbourn  
+**Various roles** Philip Clifford  
+**British Dance Drama Theatre** Tonya Burcka, Jennifer Wright, Frances Harper, Brenda Elder, Robert Horobin
 
 ### Revival (1962)
 

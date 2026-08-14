@@ -1,14 +1,14 @@
 ---
 title: "Interview with Alan Ayckbourn"
 source: "http://thedivide.alanayckbourn.net/page/"
-order: 2263
+order: 2261
 play: "the-divide"
 ---
 
 *This interview between Alan Ayckbourn and his archivist, Simon Murgatroyd, took place on 2 March 2017 subsequent to the announcement The Divide was be adapted for the stage with a world premiere at Edinburgh International Festival in 2017.*
 
-**Simon Murgatroyd: You wrote *The Divide* in 2015, where it had a single staged reading which ran to eight hours. What are your thoughts to see it adapted for the stage at the Edinburgh International Festival?  
-Alan Ayckbourn:** It is a nice surprise.
+**Simon Murgatroyd: You wrote *The Divide* in 2015, where it had a single staged reading which ran to eight hours. What are your thoughts to see it adapted for the stage at the Edinburgh International Festival?**  
+**Alan Ayckbourn:** It is a nice surprise.
 
 **How did you come to write *The Divide*?**  
 I wrote it under very extraordinary circumstances because I just wanted to write something I couldn’t even see myself directing. I just let my mind go into free fall - in the sense that I threw my constructional kit away - and I just wrote something that went on and on and which still hopefully obeyed the rules of narrative and character, but that was probably unstageable. It was like nothing I had ever written before.

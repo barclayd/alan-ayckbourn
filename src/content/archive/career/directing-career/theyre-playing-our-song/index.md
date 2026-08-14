@@ -8,38 +8,38 @@ order: 492
 
 ### Production Details
 
-**Book:  
-Music:  
-Lyrics:  
-New Play:**
+**Book:**  
+**Music:**  
+**Lyrics:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Neil Simon  
+**Venue:**  
+**Location:**  
+**Staging:**Neil Simon  
 Marvin Hamlisch  
 Carole Bayer Sager  
 No
 
 Stephen Joseph Theatre  
 The Round  
-Round**First performance:  
-Opening night:  
-Final performance:**21 May 1997  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**21 May 1997  
 27 May 1997  
 5 July 1997
 
 ### Company Details
 
-**Director:  
-Musical Supervisor:  
-Musical Director:  
-Choreographer:  
-Design:  
-Lighting:**
+**Director:**  
+**Musical Supervisor:**  
+**Musical Director:**  
+**Choreographer:**  
+**Design:**  
+**Lighting:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 John Pattison  
 Simon Cryer  
 Sheila Carter  

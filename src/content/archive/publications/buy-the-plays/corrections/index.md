@@ -1,7 +1,7 @@
 ---
 title: "Publications: Corrections & Alterations To Published Editions"
 source: "http://publications.alanayckbourn.net/styled-11/styled-10/"
-order: 851
+order: 850
 ---
 
 Occasionally, errors do occur when Alan Ayckbourn's play texts are published or - in very rare cases - Alan Ayckbourn alters a play after its publication. When there is a significant printing error or alteration which affects the play, the website will carry a correction or the alterations.  

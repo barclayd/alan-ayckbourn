@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://orvin.alanayckbourn.net/styled-3/"
-order: 1846
+order: 1844
 play: "orvin-champion-of-champions"
 ---
 

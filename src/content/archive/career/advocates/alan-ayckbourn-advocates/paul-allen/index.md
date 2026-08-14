@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Paul Allen"
 source: "http://advocates.alanayckbourn.net/page/page-7/"
-order: 2344
+order: 2342
 ---
 
 *Paul Allen is Alan Ayckbourn's biographer and a long-time supporter of the Stephen Joseph Theatre - indeed of regional theatre in general. In 1976, he was the first regional journalist to be named Critic Of The Year in the British Press Awards for television and radio reviewing. He has long been associated with BBC Radio and presenting programmes such as Kaleidoscope and Night Waves. He is the author of Alan Ayckbourn: Grinning At The Edge and The Pocket Guide To Alan Ayckbourn's Plays.*

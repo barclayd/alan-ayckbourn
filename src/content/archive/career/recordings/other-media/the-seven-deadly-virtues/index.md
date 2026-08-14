@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page48/Media_Seven_Deadly.html"
-order: 839
+order: 838
 ---
 
 ### The 7 Deadly Virtues
@@ -18,11 +18,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and P
 
 **Company:** SJTITR
 
-**Availability  
-Cassette:** 1984 (deleted)  
+**Availability**  
+**Cassette:** 1984 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Actor**  
 Lavinia Bertram  
@@ -46,12 +46,12 @@ Paul Todd (synthesiser)
 
 **Production:** BBC North
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Actor**  
 Lavinia Bertram  

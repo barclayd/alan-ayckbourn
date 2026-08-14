@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://christmasvmastermind.alanayckbourn.net/styled-7/"
-order: 949
+order: 948
 play: "christmas-v-mastermind"
 ---
 

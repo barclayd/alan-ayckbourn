@@ -1,14 +1,14 @@
 ---
 title: "History"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled/"
-order: 1062
+order: 1061
 play: "absurd-person-singular"
 ---
 
 **On 26 October 2022, Alan Ayckbourn's Archivist & The Borthwick Institute for Archives announced the discovery of the lost *Absurd Person Singular* manuscripts, which altered our understanding of how Absurd Person Singular was developed and written. The in-depth story can be found [here](/plays/absurd-person-singular/writing).**
 
-*“This is the big one. The one that shows his \[Ayckbourn’s\] fascination with the desperation behind English social rituals interlocking with his well-oiled comic craft…. In this one, form and content meet in perfect harmony.”  
-Michael Billington*
+*“This is the big one. The one that shows his \[Ayckbourn’s\] fascination with the desperation behind English social rituals interlocking with his well-oiled comic craft…. In this one, form and content meet in perfect harmony.”*  
+*Michael Billington*
 
 By 1972, Alan Ayckbourn’s reputation as one of Britain’s most promising and successful playwrights was firmly established. His plays ***[Relatively Speaking](/plays/relatively-speaking)*** and ***[How The Other Half Loves](/plays/how-the-other-half-loves)*** had been huge successes in the West End and the clamour to produce them by repertory theatres both at home and abroad had quickly cemented both the plays’ and the playwright’s reputations.
 

@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://awakingbeauty.alanayckbourn.net/styled-7/"
-order: 1948
+order: 1946
 play: "awaking-beauty"
 ---
 

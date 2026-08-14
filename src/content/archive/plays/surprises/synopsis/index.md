@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://surprises.alanayckbourn.net/styled-4/S_Synopsis.html"
-order: 1999
+order: 1997
 play: "surprises"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://timeofmylife.alanayckbourn.net/page-8/page17.html"
-order: 1593
+order: 1592
 play: "time-of-my-life"
 ---
 
@@ -14,8 +14,8 @@ play: "time-of-my-life"
 
 **Production:** BBC World Service
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

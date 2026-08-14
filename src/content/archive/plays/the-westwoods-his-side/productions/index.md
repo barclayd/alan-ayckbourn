@@ -1,7 +1,7 @@
 ---
 title: "The Westwoods: Significant Productions"
 source: "http://thewestwoods.alanayckbourn.net/page16/"
-order: 2190
+order: 2188
 play: "the-westwoods-his-side"
 ---
 
@@ -9,12 +9,12 @@ play: "the-westwoods-his-side"
 
 ### World Premiere (1984)
 
-**Her Side  
-World premiere:** 29 May 1984  
+**Her Side**  
+**World premiere:** 29 May 1984  
 **Final performance:** 4 September 1984
 
-**His Side  
-World premiere:** 31 May 1984  
+**His Side**  
+**World premiere:** 31 May 1984  
 **Final performance:** 6 September 1984
 
 **Venue:** Stephen Joseph Theatre In The Round, Scarborough  

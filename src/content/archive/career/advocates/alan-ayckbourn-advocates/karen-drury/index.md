@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Karen Drury"
 source: "http://advocates.alanayckbourn.net/page/page-30/"
-order: 2321
+order: 2319
 ---
 
 *Karen Drury is an actress known for her work in the television soap operas Brookside and Doctors. She appeared in both the world and London premieres of Alan Ayckbourn's Time Of My Life.*

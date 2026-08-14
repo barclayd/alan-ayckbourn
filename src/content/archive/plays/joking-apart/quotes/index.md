@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://jokingapart.alanayckbourn.net/styled-5/"
-order: 1246
+order: 1245
 play: "joking-apart"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://wayupstream.alanayckbourn.net/page-5/styled-16/"
-order: 1339
+order: 1338
 play: "way-upstream"
 ---
 

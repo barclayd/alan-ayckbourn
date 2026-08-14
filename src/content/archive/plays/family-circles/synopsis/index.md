@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://familycircles.alanayckbourn.net/styled-3/"
-order: 1036
+order: 1035
 play: "family-circles"
 ---
 
@@ -10,8 +10,8 @@ play: "family-circles"
 **Availability:** *Family Circles* is available for both professional and amateur production.  
 Acting edition: Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/1294/family-circles/)**.
 
-*Administrator's Note: It is hard to argue there is actually a plot to Family Circles, it is essentially a hypothetical question acted out in front of our eyes of “what would have happened had I married someone else and what would have happened to them?”  
-Three couples come together for a wedding anniversary; each couple seems generally unsuited. During the course of the evening’s events and at the end of each act, the partners change while retaining their original characters. The final scene sees all variants of the relationships mixed together and on stage. Throughout this, there runs a sub-plot of the wives / fiancées trying to discover whether their father is trying to kill their mother.*
+*Administrator's Note: It is hard to argue there is actually a plot to Family Circles, it is essentially a hypothetical question acted out in front of our eyes of “what would have happened had I married someone else and what would have happened to them?”*  
+*Three couples come together for a wedding anniversary; each couple seems generally unsuited. During the course of the evening’s events and at the end of each act, the partners change while retaining their original characters. The final scene sees all variants of the relationships mixed together and on stage. Throughout this, there runs a sub-plot of the wives / fiancées trying to discover whether their father is trying to kill their mother.*
 
 **Synopsis Of *Family Circles* from *Conversations With Ayckbourn*** (by Ian Watson)
 

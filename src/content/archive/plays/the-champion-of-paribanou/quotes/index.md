@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://thechampionofparibanou.alanayckbourn.net/styled-5/"
-order: 1664
+order: 1663
 play: "the-champion-of-paribanou"
 ---
 

@@ -1,40 +1,27 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page157/"
-order: 564
+order: 563
 ---
 
 ## Stranger In The Family (1961)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Stranger In The Family  
+**Author:** Norman Horner  
+**First performance:** 27 July 1961  
+**Final performance:** 23 August 1961  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Terry Lane
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Stranger In The Family  
-Norman Horner
-
-27 July 1961  
-23 August 1961  
-The Library Theatre, Scarborough  
-Round
-
-Terry Lane   **Character**  
-Peggy Burton  
-Ken Burton  
-Edna Burton  
-Toby Hart  
-Dick Letts **Actor**  
-Hazel Burt  
-Stanley Page  
-Rosamund Dickson  
-Alan Ayckbourn  
-David Jarrett
+**Character** **Actor**  
+**Peggy Burton** Hazel Burt  
+**Ken Burton** Stanley Page  
+**Edna Burton** Rosamund Dickson  
+**Toby Hart** Alan Ayckbourn  
+**Dick Letts** David Jarrett
 
 ### Quotes & Notes
 

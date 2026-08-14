@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Penelope Keith (1940 - 2026)"
 source: "http://advocates.alanayckbourn.net/page/page-5/"
-order: 2327
+order: 2325
 ---
 
 *Dame Penelope Keith, DBE, DL was an acclaimed and Olivier award-winning actress. She was well known for her roles in television sitcoms such as The Good Life and To The Manor Born. She was in the West End premiere of Alan Ayckbourn's The Norman Conquests as Sarah - a role for which she received the BAFTA TV Award for Best Actress when she reprised the role for television*

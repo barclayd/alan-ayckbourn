@@ -1,7 +1,7 @@
 ---
 title: "West End Reviews"
 source: "http://jokingapart.alanayckbourn.net/styled-8/styled-10/"
-order: 1255
+order: 1254
 play: "joking-apart"
 ---
 

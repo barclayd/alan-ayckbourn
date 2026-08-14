@@ -1,7 +1,7 @@
 ---
 title: "Season's Greetings: Further Reading"
 source: "http://seasonsgreetings.alanayckbourn.net/styled-13/"
-order: 1317
+order: 1316
 play: "seasons-greetings"
 ---
 
@@ -33,8 +33,8 @@ This page contains details of publications & articles relating to *Season’s Gr
 **Ian Watson: Conversations With Ayckbourn\***  
 *pp.100, 123-125 (Faber and Faber, 1988, ISBN 0571151922)*  
 **Sidney Howard White: Alan Ayckbourn\***  
-*pp.127-130 (Twayne Publishers, 1984, ISBN 080576870X)  
-\* indicates out of print*
+*pp.127-130 (Twayne Publishers, 1984, ISBN 080576870X)*  
+*\* indicates out of print*
 
 ### Articles
 

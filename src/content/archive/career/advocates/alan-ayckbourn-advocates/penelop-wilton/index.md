@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Penelope Wilton"
 source: "http://advocates.alanayckbourn.net/page/page-62/"
-order: 2343
+order: 2341
 ---
 
 *Dame Penelope Wilton DBE is an Olivier award-winning actress on stage and screen who worked with Alan in both the West End and at the National Theatre. Born in Scarborough, she played Annie in the London premiere of The Norman Conquests and Abigail in Sisterly Feelings at the National Theatre.*

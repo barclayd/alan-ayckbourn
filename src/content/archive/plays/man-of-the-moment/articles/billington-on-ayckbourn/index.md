@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://manofthemoment.alanayckbourn.net/styled-10/page-5/"
-order: 1488
+order: 1487
 play: "man-of-the-moment"
 ---
 

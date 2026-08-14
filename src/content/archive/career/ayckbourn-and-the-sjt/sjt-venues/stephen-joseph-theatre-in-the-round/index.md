@@ -16,13 +16,13 @@ order: 323
 
 ![](./_images/stacks-image-5a319f6.jpg)
 
-*Artist's impression of the Stephen Joseph Theatre in the Round  
-© Don Micklethwaite*
+*Artist's impression of the Stephen Joseph Theatre in the Round*  
+*© Don Micklethwaite*
 
 ![](./_images/stacks-image-ad9f33b.jpg)
 
-*The interior of the Stephen Joseph Theatre In The Round. The stage featuring thee entrances and a design which was later replicated at the Stephen Joseph Theatre.  
-© Scarborough Theatre Trust*
+*The interior of the Stephen Joseph Theatre In The Round. The stage featuring thee entrances and a design which was later replicated at the Stephen Joseph Theatre.*  
+*© Scarborough Theatre Trust*
 
 </aside>
 

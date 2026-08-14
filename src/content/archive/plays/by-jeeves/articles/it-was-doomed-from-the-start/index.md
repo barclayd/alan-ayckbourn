@@ -1,7 +1,7 @@
 ---
 title: "Jeeves / By Jeeves: Articles"
 source: "http://byjeeves.alanayckbourn.net/page-11/page-16/"
-order: 2410
+order: 2408
 play: "by-jeeves"
 ---
 
@@ -11,8 +11,8 @@ play: "by-jeeves"
 
 ### 'The Audience Booed, The Cast Fled' - Playwrights Relive Their Worst Flops.
 
-*‘It was doomed from the start!’  
-Alan Ayckbourn on Jeeves (1975)*
+*‘It was doomed from the start!’*  
+*Alan Ayckbourn on Jeeves (1975)*
 
 The biggest failure I ever had was my first attempt at a musical. Andrew Lloyd Webber and Tim Rice had just had two big successes with *Joseph* and *Jesus Christ Superstar*, and I was the golden boy of the West End at that point. So somebody had the bright idea of bringing the three of us together to adapt the stories of PG Wodehouse.
 

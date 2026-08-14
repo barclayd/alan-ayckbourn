@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://sisterlyfeelings.alanayckbourn.net/styled-5/styled-3/"
-order: 1275
+order: 1274
 play: "sisterly-feelings"
 ---
 

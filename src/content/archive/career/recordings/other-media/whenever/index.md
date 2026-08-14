@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page40/Media_Whenever.html"
-order: 845
+order: 844
 ---
 
 ### Whenever
@@ -18,11 +18,11 @@ This page contains details of recordings and adaptations of Alan Ayckbourn and D
 
 **Company:** SJT
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2000 (deleted)  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Emily  
@@ -56,12 +56,12 @@ Richard Banham
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Producer  
-Music**
+**Digital:** Not available**Director**  
+**Producer**  
+**Music**
 
 **Character**  
 Martin / Bill / Nigel Chatterton-Brown / Droid  

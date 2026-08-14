@@ -14,8 +14,8 @@ order: 304
 
 ![](./_images/stacks-image-1df2a5a.jpg)
 
-*Alan Ayckbourn with his Olivier & Tony Awards  
-© Andrew Higgins*
+*Alan Ayckbourn with his Olivier & Tony Awards*  
+*© Andrew Higgins*
 
 </aside>
 

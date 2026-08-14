@@ -1,7 +1,7 @@
 ---
 title: "Articles by Alan Ayckbourn"
 source: "http://thenormanconquests.alanayckbourn.net/styled-6/page-7/"
-order: 1111
+order: 1110
 play: "the-norman-conquests"
 ---
 
@@ -95,5 +95,5 @@ play: "the-norman-conquests"
 
 **And…** Somewhere or other, somewhere in the world, in some language or other, individually or all together, there’s usually a performance of *The Norman Conquests* going on. Nice that.
 
-*Alan Ayckbourn  
-2013*
+*Alan Ayckbourn*  
+*2013*

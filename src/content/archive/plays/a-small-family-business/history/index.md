@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://asmallfamilybusiness.alanayckbourn.net/styled/"
-order: 1431
+order: 1430
 play: "a-small-family-business"
 ---
 
@@ -73,7 +73,7 @@ The playwright has hinted that he believes it is possible to stage the play in h
 
 </aside>
 
-*"I think if you look at the point A Small Family Business was written in 1987, family and business are the key words of the Thatcher regime. I think it’s significant he’d directed an Arthur Miller play \[A View From The Bridge\] in the same season and it very much follows an Arthur Miller 'All My Sons' structure where it starts with the ideal of a small family business and bit by bit that ideal is eroded by the events of the play. And to undermine the whole notion of family and business in an absolutely relentless way throughout the play until there’s nothing left of that notion, I think is one of the most intensely political plays of the period."  
-Mark Ravenhill*
+*"I think if you look at the point A Small Family Business was written in 1987, family and business are the key words of the Thatcher regime. I think it’s significant he’d directed an Arthur Miller play \[A View From The Bridge\] in the same season and it very much follows an Arthur Miller 'All My Sons' structure where it starts with the ideal of a small family business and bit by bit that ideal is eroded by the events of the play. And to undermine the whole notion of family and business in an absolutely relentless way throughout the play until there’s nothing left of that notion, I think is one of the most intensely political plays of the period."*  
+*Mark Ravenhill*
 
 Ensconced firmly back in Scarborough, Alan would move immediately onto the highly ambitious play ***[Man Of The Moment](/plays/man-of-the-moment)***, another play which tackled morality and which would transfer to London to enormous success and with Michael Gambon back in an Ayckbourn play as the innocent abroad, Douglas Beechey. The latter play would complete a remarkable series of four plays for the playwright, any one of which could rightly be regarded as an Ayckbourn classic. Much as he had written five plays in succession in the 1970s which defined his writing of that period with ***[Absurd Person Singular](/plays/absurd-person-singular)***, ***[The Norman Conquests](/plays/the-norman-conquests)*** and ***[Absent Friends](/plays/absent-friends)***; so the successive plays of *Woman In Mind*, *A Small Family Business*, ***[Henceforward…](/plays/henceforward)*** and *Man Of The Moment* redefined Alan Ayckbourn for the 1980s.

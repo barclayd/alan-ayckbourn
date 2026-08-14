@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://manofthemoment.alanayckbourn.net/styled-10/styled-16/"
-order: 1482
+order: 1481
 play: "man-of-the-moment"
 ---
 

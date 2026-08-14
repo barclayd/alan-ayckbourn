@@ -1,7 +1,7 @@
 ---
 title: "A Timeline"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-2/"
-order: 1392
+order: 1391
 play: "a-chorus-of-disapproval"
 ---
 

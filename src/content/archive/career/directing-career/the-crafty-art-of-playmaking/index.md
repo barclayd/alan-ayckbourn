@@ -8,31 +8,31 @@ order: 416
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**Herb Gardner  
+**Venue:**  
+**Staging:**Herb Gardner  
 No
 
 The Old Vic, London  
-End-stage**First performance:  
-Opening night:  
-Final performance:**7 March 1995  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**7 March 1995  
 TBC 1995  
 TBC 1995
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Dialect Coach:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Dialect Coach:**
 
-**Stage Manager:  
-Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Jackie Staines  
 Jan Bee Brown  
 Judith Windsor

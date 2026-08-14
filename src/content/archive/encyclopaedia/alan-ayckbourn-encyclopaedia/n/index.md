@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: N"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-14/N.html"
-order: 697
+order: 696
 ---
 
 **National Service:** Alan Ayckbourn joined the Royal Air Force as part of the National Service programme in 1959, serving several days before he was certified unfit for duty by a Doctor due to an existing knee injury.

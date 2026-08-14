@@ -8,21 +8,14 @@ order: 374
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:** The Corn Is Green  
+**Author:** Emlyn Williams  
+**First performance:** 1956 (Date to be confirmed)  
+**Venue:** Connaught Theatre, Worthing  
+**Staging:** End-stage  
+**Director:** Unknown
 
-**First performance:  
-Venue:**  
-**Staging:**
-
-**Director:** The Corn Is Green  
-Emlyn Williams
-
-1956 (Date to be confirmed)  
-Connaught Theatre, Worthing  
-End-stage
-
-Unknown   **Character**  
+**Character**  
 Unknown **Actor**  
 Alan Ayckbourn No other company details known
 

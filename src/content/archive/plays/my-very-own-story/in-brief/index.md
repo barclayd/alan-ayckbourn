@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://myveryownstory.alanayckbourn.net/page/"
-order: 1577
+order: 1576
 play: "my-very-own-story"
 ---
 

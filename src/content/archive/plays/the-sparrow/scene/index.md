@@ -1,12 +1,12 @@
 ---
 title: "Scene"
 source: "http://thesparrow.alanayckbourn.net/page13/page17.html"
-order: 1004
+order: 1003
 play: "the-sparrow"
 ---
 
-*This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.  
-Dialogue in italics indicates material cut from the performed script.*
+*This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.*  
+*Dialogue in italics indicates material cut from the performed script.*
 
 ### Act I Scene II
 

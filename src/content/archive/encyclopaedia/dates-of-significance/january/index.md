@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - January"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-29/Z.html"
-order: 773
+order: 772
 ---
 
 **1 January:** Alan Ayckbourn was made a **[CBE](/life/awards)** in 1987 and **[knighted](/life/awards)** for 'services to theatre' in 1997; television premiere of the BBC's adaptation of ***[Absurd Person Singular](/plays/absurd-person-singular/absurd-person-singular-radio)*** in 1985; television premiere of the BBC's adaptation of ***[Way Upstream](/plays/way-upstream/way-upstream-radio)*** in 1988.

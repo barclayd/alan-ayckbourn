@@ -1,7 +1,7 @@
 ---
 title: "Mr A's Amazing Maze Plays: World Premiere Reviews"
 source: "http://mrasamazing.alanayckbourn.net/styled-8/"
-order: 1498
+order: 1497
 play: "mr-as-amazing-maze-plays"
 ---
 

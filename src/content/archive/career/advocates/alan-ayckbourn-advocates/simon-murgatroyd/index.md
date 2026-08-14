@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Simon Murgatroyd"
 source: "http://advocates.alanayckbourn.net/page/page-26/"
-order: 2356
+order: 2354
 ---
 
 *Simon Murgatroyd is Alan Ayckbourn's Archivist and is responsible for creating, writing and administering the playwright's official website.*

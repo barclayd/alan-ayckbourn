@@ -1,30 +1,22 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page158/"
-order: 565
+order: 564
 ---
 
 ## The Bed-Life Of A Mad Boy (1961)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Bed Life Of A Mad Boy  
+**Author:** Stockwell Allen  
+**First performance:** 9 September 1961  
+**Final performance:** 9 September 1961  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Bed Life Of A Mad Boy  
-Stockwell Allen
-
-9 September 1961  
-9 September 1961  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
+**Character**  
 All actors played  
 various roles **Actor**  
 Alan Ayckbourn  

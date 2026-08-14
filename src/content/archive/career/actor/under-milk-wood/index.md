@@ -1,80 +1,47 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page127/"
-order: 535
+order: 534
 ---
 
 ## Under Milk Wood (1957)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Under Milk Wood  
+**Author:** Dylan Thomas  
+**First performance:** October 1957  
+**Venue:** Oxford Playhouse  
+**Staging:** End-stage  
+**Director:** Frank Hauser  
+**Design:** Paul Mayo
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:** Under Milk Wood  
-Dylan Thomas
-
-October 1957  
-Oxford Playhouse  
-End-stage
-
-Frank Hauser  
-Paul Mayo   **Character**  
-Narrator  
-Captain Cat  
-Drowned / Willy Nilly  
-Mr Pritchard / No Good Boyo  
-Butcher Beynon / Dai Bread  
-Organ Morgan  
-Mr Ogmore  
-Mog Edwards / Ocky Milkman  
-Cherry Owen  
-Lord Cutlass / Utah Watkins  
-Mr Waldo  
-Evans the Death / Rev. Eli Jenkins  
-Jack Black / PC Attila Rees  
-Sinbad Sailors / Mr Pugh  
-Rosie Probert  
-Miss Price / Bessie Bighead  
-Waldo's mother / Mrs Cherry Owen  
-Mrs Daid Bread One  
-Waldo's Wife / Mrs Dai Bread Two  
-Mrs Ogmore Pritchard  
-Gossamer Beynon / Mrs Pugh  
-Mrs Willy Nilly / Mrs Beynon  
-Lily Smalls / Mae Rose Cottage  
-Mary Ann Sailors  
-Mrs Utah Watkins / Polly Garter **Actor**  
-Edgar Wreford  
-Joss Ackland  
-Alan Ayckbourn  
-Henley Thomas  
-Malcolm Rogers  
-Michael Griffiths  
-Ian Curtis  
-Christopher Hancock  
-Derek Ensor  
-Antony Carrick  
-Hubert Rees  
-John Rees  
-David Buxton  
-Michael Simpson  
-June Speight  
-Dona Martyn  
-Marie Seaborne  
-Gwyneth Parry  
-Claudine Morgan  
-Pat Keen  
-Monica Stewart  
-Sheila Gill  
-Ruth Meyers  
-Marjorie Forsyth  
-Rachel Roberts
+**Character** **Actor**  
+**Narrator** Edgar Wreford  
+**Captain Cat** Joss Ackland  
+**Drowned / Willy Nilly** Alan Ayckbourn  
+**Mr Pritchard / No Good Boyo** Henley Thomas  
+**Butcher Beynon / Dai Bread** Malcolm Rogers  
+**Organ Morgan** Michael Griffiths  
+**Mr Ogmore** Ian Curtis  
+**Mog Edwards / Ocky Milkman** Christopher Hancock  
+**Cherry Owen** Derek Ensor  
+**Lord Cutlass / Utah Watkins** Antony Carrick  
+**Mr Waldo** Hubert Rees  
+**Evans the Death / Rev. Eli Jenkins** John Rees  
+**Jack Black / PC Attila Rees** David Buxton  
+**Sinbad Sailors / Mr Pugh** Michael Simpson  
+**Rosie Probert** June Speight  
+**Miss Price / Bessie Bighead** Dona Martyn  
+**Waldo's mother / Mrs Cherry Owen** Marie Seaborne  
+**Mrs Daid Bread One** Gwyneth Parry  
+**Waldo's Wife / Mrs Dai Bread Two** Claudine Morgan  
+**Mrs Ogmore Pritchard** Pat Keen  
+**Gossamer Beynon / Mrs Pugh** Monica Stewart  
+**Mrs Willy Nilly / Mrs Beynon** Sheila Gill  
+**Lily Smalls / Mae Rose Cottage** Ruth Meyers  
+**Mary Ann Sailors** Marjorie Forsyth  
+**Mrs Utah Watkins / Polly Garter** Rachel Roberts
 
 ### Quotes & Notes
 

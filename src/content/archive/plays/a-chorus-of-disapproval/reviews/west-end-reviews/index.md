@@ -1,7 +1,7 @@
 ---
 title: "London Premiere Reviews"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-8/styled-12/"
-order: 1405
+order: 1404
 play: "a-chorus-of-disapproval"
 ---
 

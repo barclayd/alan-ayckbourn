@@ -1,40 +1,27 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page184/"
-order: 593
+order: 592
 ---
 
 ## The Prisoner (1963)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Prisoner  
+**Author:** Bridget Boland  
+**First performance:** 3 December 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Heather Stoney
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Prisoner  
-Bridget Boland
-
-3 December 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Heather Stoney   **Character**  
-The Prisoner  
-The Interrogator  
-The Cell Warden  
-Warder  
-The Secretary  
-The Doctor **Actor**  
-Bernard Gallagher  
-Alan Ayckbourn  
-Stanley Page  
-Richard Wilkinson  
-Peter King  
-David Spencer
+**Character** **Actor**  
+**The Prisoner** Bernard Gallagher  
+**The Interrogator** Alan Ayckbourn  
+**The Cell Warden** Stanley Page  
+**Warder** Richard Wilkinson  
+**The Secretary** Peter King  
+**The Doctor** David Spencer
 
 ### Quotes & Notes
 

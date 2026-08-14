@@ -1,7 +1,7 @@
 ---
 title: "Damsels In Distress: Articles"
 source: "http://flatspin.alanayckbourn.net/page-2/"
-order: 1777
+order: 1775
 play: "flatspin"
 ---
 

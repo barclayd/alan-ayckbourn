@@ -1,7 +1,7 @@
 ---
 title: "London Premiere Reviews"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-8/styled-10/"
-order: 1077
+order: 1076
 play: "absurd-person-singular"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Synopsis by Alan Ayckbourn"
 source: "http://suburbanstrains.alanayckbourn.net/styled-4/"
-order: 1300
+order: 1299
 play: "suburban-strains"
 ---
 

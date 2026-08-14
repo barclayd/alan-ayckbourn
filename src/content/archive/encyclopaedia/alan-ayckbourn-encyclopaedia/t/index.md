@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: T"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-20/T.html"
-order: 703
+order: 702
 ---
 
 **[Table Manners (The Norman Conquests):](/plays/the-norman-conquests)** Alan Ayckbourn's 13th play premiered at the Library Theatre, Scarborough, on 18 June 1973 and opened at the Globe Theatre, London, on 21 May 1974. One part of *The Norman Conquests* trilogy, this is set in the dining room with Norman's attentions focused largely on Sarah.

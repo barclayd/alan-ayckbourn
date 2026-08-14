@@ -1,7 +1,7 @@
 ---
 title: "The National Theatre Story"
 source: "http://wayupstream.alanayckbourn.net/styled-14/page-3/"
-order: 1346
+order: 1345
 play: "way-upstream"
 ---
 

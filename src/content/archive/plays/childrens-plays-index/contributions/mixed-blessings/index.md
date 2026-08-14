@@ -1,7 +1,7 @@
 ---
 title: "Contributions"
 source: "http://plays.alanayckbourn.net/page-4/styled-3/page-2/"
-order: 2305
+order: 2303
 play: "childrens-plays-index"
 ---
 
@@ -24,12 +24,9 @@ A year later, when it became obvious nothing was happening with the play - and b
 
 **Director:** Unknown
 
-**Mother Figure**  
-Lucy  
-Rosemary  
-Terry
+**Mother Figure** **Actor**  
+**Lucy** Andrée Melly  
+**Rosemary** Unknown  
+**Terry** Unknown
 
-**Actor**  
-Andrée Melly  
-Unknown  
-Unknown  *All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

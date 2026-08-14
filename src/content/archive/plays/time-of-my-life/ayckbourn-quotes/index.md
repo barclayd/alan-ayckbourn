@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://timeofmylife.alanayckbourn.net/styled-5/"
-order: 1588
+order: 1587
 play: "time-of-my-life"
 ---
 

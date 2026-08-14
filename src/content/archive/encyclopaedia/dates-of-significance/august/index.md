@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - August"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-36/Z.html"
-order: 780
+order: 779
 ---
 
 **1 August:** West End premiere of ***[Table Manners](/plays/the-norman-conquests)*** (***[The Norman Conquests](/plays/the-norman-conquests)***) at The Globe in 1974; West End premiere of ***[A Chorus Of Disapproval](/plays/a-chorus-of-disapproval)*** at the National Theatre in 1985.

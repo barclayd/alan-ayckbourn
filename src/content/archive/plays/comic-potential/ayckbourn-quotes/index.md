@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://comicpotential.alanayckbourn.net/styled-5/"
-order: 1686
+order: 1684
 play: "comic-potential"
 ---
 

@@ -4,11 +4,11 @@ source: "http://biography.alanayckbourn.net/styled-37/page-11/page-7/"
 order: 396
 ---
 
-*On 24 September 2017, the Stephen Joseph Theatre held an event entitled Remembering Stephen Joseph to mark the 50th anniversary of his death on 5 October 1967. The afternoon featured Sir Alan Ayckbourn, Dr Paul Elsam, Simon Murgatroyd and the actor Joanna Tope.  
-This is an edited transcript concentrating on Alan Ayckbourn’s responses to Dr Paul Elsam's questions about Stephen Joseph.*
+*On 24 September 2017, the Stephen Joseph Theatre held an event entitled Remembering Stephen Joseph to mark the 50th anniversary of his death on 5 October 1967. The afternoon featured Sir Alan Ayckbourn, Dr Paul Elsam, Simon Murgatroyd and the actor Joanna Tope.*  
+*This is an edited transcript concentrating on Alan Ayckbourn’s responses to Dr Paul Elsam's questions about Stephen Joseph.*
 
-**Dr Paul Elsam: What is your earliest memory of Stephen Joseph?  
-Alan Ayckbourn:** I worked with him for several weeks without knowing who the hell he was! I was employed not by him, but by Rodney Wood - who became the general manager of the Library Theatre - when he was my stage director at Leatherhead Rep. I was just an ASM and when we had all finished the current season and he said the immortal words, ‘Anyone fancy a job in Scarborough?’ And I chimed up and said, ‘Where the Hell’s Scarborough?’ And he said, ‘Well just go up that way until York and turn right.’ And I said, ‘Oh, that sounds good, OK, I’m off.’
+**Dr Paul Elsam: What is your earliest memory of Stephen Joseph?**  
+**Alan Ayckbourn:** I worked with him for several weeks without knowing who the hell he was! I was employed not by him, but by Rodney Wood - who became the general manager of the Library Theatre - when he was my stage director at Leatherhead Rep. I was just an ASM and when we had all finished the current season and he said the immortal words, ‘Anyone fancy a job in Scarborough?’ And I chimed up and said, ‘Where the Hell’s Scarborough?’ And he said, ‘Well just go up that way until York and turn right.’ And I said, ‘Oh, that sounds good, OK, I’m off.’
 
 <aside>
 

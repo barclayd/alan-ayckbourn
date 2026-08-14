@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://roleplay.alanayckbourn.net/styled-8/index.html"
-order: 1798
+order: 1796
 play: "roleplay"
 ---
 

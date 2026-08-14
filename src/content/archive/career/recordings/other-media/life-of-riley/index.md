@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page42/Media_Life_Of_Riley.html"
-order: 830
+order: 829
 ---
 
 ### Life of Riley
@@ -25,15 +25,15 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Production:** France 2 Cinéma  
 **Production:** Solivagus
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** 2015 (available)  
 **Blu-ray:** 2015 (available)  
 **Digital:** 2015 (available)**Director**  
-**Adaptation  
-Photography  
-Music  
-Sound Design**  
+**Adaptation**  
+**Photography**  
+**Music**  
+**Sound Design**  
 **Production Design**
 
 **Character**  

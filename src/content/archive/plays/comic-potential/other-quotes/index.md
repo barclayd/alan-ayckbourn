@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Other People"
 source: "http://comicpotential.alanayckbourn.net/styled-2/"
-order: 1687
+order: 1685
 play: "comic-potential"
 ---
 

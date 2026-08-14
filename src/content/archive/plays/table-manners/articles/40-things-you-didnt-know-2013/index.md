@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Articles by Alan Ayckbourn"
 source: "http://tablemanners.alanayckbourn.net/styled-6/page-7/"
-order: 2476
+order: 2448
 play: "table-manners"
 ---
 
@@ -95,5 +95,5 @@ play: "table-manners"
 
 **And…** Somewhere or other, somewhere in the world, in some language or other, individually or all together, there’s usually a performance of *The Norman Conquests* going on. Nice that.
 
-*Alan Ayckbourn  
-2013*
+*Alan Ayckbourn*  
+*2013*

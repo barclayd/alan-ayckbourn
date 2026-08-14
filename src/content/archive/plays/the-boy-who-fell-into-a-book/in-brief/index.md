@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://theboywhofell.alanayckbourn.net/page-3/"
-order: 1696
+order: 1694
 play: "the-boy-who-fell-into-a-book"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "West End Reviews"
 source: "http://absentfriends.alanayckbourn.net/styled-8/styled-10/"
-order: 1131
+order: 1130
 play: "absent-friends"
 ---
 

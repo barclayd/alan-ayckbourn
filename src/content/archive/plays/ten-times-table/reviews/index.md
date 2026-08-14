@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://tentimestable.alanayckbourn.net/styled-8/"
-order: 1233
+order: 1232
 play: "ten-times-table"
 ---
 

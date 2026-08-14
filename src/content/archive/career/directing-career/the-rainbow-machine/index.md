@@ -8,24 +8,24 @@ order: 481
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**Alan Plater  
+**Venue:**  
+**Staging:**Alan Plater  
 Yes
 
 Victoria Theatre, Stoke-on-Trent  
-Round**First performance:  
-Opening night:  
-Final performance:**10 June 1963  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**10 June 1963  
 10 June 1963  
 To be confirmed, 1963
 
 ### Company Details
 
-**Director:  
-Production Assistant:**
+**Director:**  
+**Production Assistant:**
 
 **Stage Manager:**Alan Ayckbourn  
 Caroline Smith

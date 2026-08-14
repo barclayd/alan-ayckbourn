@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: Quotes by Alan Ayckbourn"
 source: "http://farcicals.alanayckbourn.net/styled-3/"
-order: 2195
+order: 2193
 play: "chloe-with-love-farcicals"
 ---
 

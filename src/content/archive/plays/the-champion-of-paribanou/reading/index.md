@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://thechampionofparibanou.alanayckbourn.net/styled-9/"
-order: 1668
+order: 1667
 play: "the-champion-of-paribanou"
 ---
 

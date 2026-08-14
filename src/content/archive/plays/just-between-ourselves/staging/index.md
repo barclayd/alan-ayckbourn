@@ -1,7 +1,7 @@
 ---
 title: "Staging"
 source: "http://justbetweenourselves.alanayckbourn.net/styled-10/page18.html"
-order: 1212
+order: 1211
 play: "just-between-ourselves"
 ---
 
@@ -25,17 +25,17 @@ The major challenge with the set of *Just Between Ourselves* has always been hav
 
 ![](./_images/stacks-image-75a89c7-250x182.jpg)
 
-*(1) Alan Ayckbourn's first set sketch from 1976.  
-Copyright: Alan Ayckbourn*
+*(1) Alan Ayckbourn's first set sketch from 1976.*  
+*Copyright: Alan Ayckbourn*
 
 ![](./_images/stacks-image-4db3fc1-250x182.jpg)
 
-*(2) Alan Ayckbourn's refined sketch from 1976.  
-Copyright: Alan Ayckbourn*
+*(2) Alan Ayckbourn's refined sketch from 1976.*  
+*Copyright: Alan Ayckbourn*
 
 ![](./_images/stacks-image-2f771c6-250x168.jpg)
 
-*(3) The set of the world premiere in 1976.  
-Copyright: Scarborough Theatre Trust*
+*(3) The set of the world premiere in 1976.*  
+*Copyright: Scarborough Theatre Trust*
 
 ![](./_images/stacks-image-77aed73-250x144.jpg)

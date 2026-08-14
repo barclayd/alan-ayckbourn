@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: S"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-19/S.html"
-order: 702
+order: 701
 ---
 
 **[The Safari Party:](/career/directing-career/the-safari-party)** A comedy by Tim Firth (one of Alan Ayckbourn's protégés from the Stephen Joseph Theatre) and the final play to be directed by Alan Ayckbourn that the playwright did not write himself. He directed the world premiere of the play initially in Scarborough in 2002 and revived it as the opening production at the refurbished Almeida Theatre, London, during 2003.

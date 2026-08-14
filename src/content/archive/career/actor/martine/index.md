@@ -1,40 +1,27 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page137/"
-order: 545
+order: 544
 ---
 
 ## Martine (1958)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Martine  
+**Author:** Jean Jacques Bernard  
+**First performance:** 15 December 1958  
+**Final performance:** 20 December 1958  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Martine  
-Jean Jacques Bernard
-
-15 December 1958  
-20 December 1958  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Martine  
-Julien  
-Alfred  
-Madame Mervan  
-Jeanne **Actor**  
-Dona Martyn  
-David Sutton  
-Alan Ayckbourn  
-Ann Summers  
-Faynia Jeffery
+**Character** **Actor**  
+**Martine** Dona Martyn  
+**Julien** David Sutton  
+**Alfred** Alan Ayckbourn  
+**Madame Mervan** Ann Summers  
+**Jeanne** Faynia Jeffery
 
 ### Quotes & Notes
 

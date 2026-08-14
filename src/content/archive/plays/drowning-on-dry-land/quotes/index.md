@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://drowningondryland.alanayckbourn.net/styled-4/"
-order: 1867
+order: 1865
 play: "drowning-on-dry-land"
 ---
 

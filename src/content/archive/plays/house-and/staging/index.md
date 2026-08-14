@@ -1,7 +1,7 @@
 ---
 title: "House & Garden: Alan Ayckbourn Discusses Staging The Plays"
 source: "http://houseandgarden.alanayckbourn.net/styled-8/"
-order: 1711
+order: 1709
 play: "house-and"
 ---
 

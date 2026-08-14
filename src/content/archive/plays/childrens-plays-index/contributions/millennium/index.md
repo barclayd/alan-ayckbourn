@@ -1,7 +1,7 @@
 ---
 title: "Contributions"
 source: "http://plays.alanayckbourn.net/page-4/styled-3/styled-9/"
-order: 748
+order: 747
 play: "childrens-plays-index"
 ---
 
@@ -17,8 +17,8 @@ The Millennium attraction closed in 2002, although the use of Alan’s scripts h
 
 The Millennium scripts are held in the Ayckbourn Archive at the **[Borthwick Institute for Archives](/research)** at the University of York.
 
-***Millenium* manuscript quotation  
-Servant:** Every single morning the Queen has to be sewn into her clothes and every evening she has to be unsewn. What about that, then? Did you ever hear anything like it? When I was a lad we never had any of that. Twice a year, that’s all. My mum used to sew us in come October and unstitch us in April. Never did us any harm.
+***Millenium* manuscript quotation**  
+**Servant:** Every single morning the Queen has to be sewn into her clothes and every evening she has to be unsewn. What about that, then? Did you ever hear anything like it? When I was a lad we never had any of that. Twice a year, that’s all. My mum used to sew us in come October and unstitch us in April. Never did us any harm.
 
 *This page is reproduced from the book* ***[Unseen Ayckbourn](/publications)*** *by Simon Murgatroyd.*
 

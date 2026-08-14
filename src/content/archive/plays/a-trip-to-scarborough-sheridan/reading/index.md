@@ -1,7 +1,7 @@
 ---
 title: "A Trip To Scarborough: Further Reading"
 source: "http://atriptoscarborough.alanayckbourn.net/styled-13/"
-order: 2219
+order: 2217
 play: "a-trip-to-scarborough-sheridan"
 ---
 

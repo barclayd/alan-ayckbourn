@@ -1,7 +1,7 @@
 ---
 title: "Publication Corrections"
 source: "http://privatefears.alanayckbourn.net/styled-15/"
-order: 859
+order: 858
 play: "private-fears-in-public-places"
 ---
 
@@ -11,12 +11,12 @@ play: "private-fears-in-public-places"
 
 Page 348, scene 22
 
-**As printed:  
-Dan:** No? She walked out again, did she?  
+**As printed:**  
+**Dan:** No? She walked out again, did she?  
 **Ambrose:** No. She died.
 
-**Correct Version (correction in bold italics):  
-Dan:** No? She walked out again, did she?  
+**Correct Version (correction in bold italics):**  
+**Dan:** No? She walked out again, did she?  
 **Ambrose:** No. ***They*** died.
 
 For an explanation as to why this alteration is significant, please visit the **[Other Perspectives](/plays/private-fears-in-public-places/coeurs/other-perspectives)** page.

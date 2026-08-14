@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://achorusofdisapproval.alanayckbourn.net/styled-4/"
-order: 1393
+order: 1392
 play: "a-chorus-of-disapproval"
 ---
 

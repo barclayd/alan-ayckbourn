@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://dadstale.alanayckbourn.net/page-2/"
-order: 917
+order: 916
 play: "dads-tale"
 ---
 
@@ -53,8 +53,8 @@ Until 2024, it we believed the play was never produced again but it transpired t
 
 Although no-one would ever argue that *Dad’s Tale* is a milestone in Alan’s playwriting career, several observers have noted there is one innovation in the plot which gives a clear hint of Alan’s burgeoning talent and his desire to break the mould. In one scene, Martin and his Auntie tell the story of how the neighbours have responded to Dad stealing their Christmas hamper. Although they are ostensibly telling the same story, their interpretations are radically different from each other (see **[Other Quotes](/plays/dads-tale/other-quotes)** for Michael Billington's thoughts on this).
 
-*"This combination of narrative and ballet sounds like a recipe for disaster. But although the show never got an audience, it does have a blend of free-flowing imagination and robust comedy. It is the kind of play that only someone deeply in love with the theatre could have written…. But what is interesting is how, even at this early stage, Ayckbourn experiments with different ways of telling it \[the story\]. Long before David Halliwell began to explore the possibilities of multi-viewpoint drama, Ayckbourn shows us a single incident from several points of view."  
-Michael Billington*
+*"This combination of narrative and ballet sounds like a recipe for disaster. But although the show never got an audience, it does have a blend of free-flowing imagination and robust comedy. It is the kind of play that only someone deeply in love with the theatre could have written…. But what is interesting is how, even at this early stage, Ayckbourn experiments with different ways of telling it \[the story\]. Long before David Halliwell began to explore the possibilities of multi-viewpoint drama, Ayckbourn shows us a single incident from several points of view."*  
+*Michael Billington*
 
 For a children’s play - or indeed for any play of this period - the idea of breaking the narrative structure to present alternate viewpoints is quite a radical idea. Of course, alternate scenes will become a common feature of Alan’s later work in plays such as *Sisterly Feelings* and ***[Intimate Exchanges](/plays/intimate-exchanges)***.
 

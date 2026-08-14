@@ -1,7 +1,7 @@
 ---
 title: "History"
 source: "http://comicpotential.alanayckbourn.net/page-5/"
-order: 1683
+order: 1681
 play: "comic-potential"
 ---
 

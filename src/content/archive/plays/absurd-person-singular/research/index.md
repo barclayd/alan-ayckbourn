@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://absurdpersonsingular.alanayckbourn.net/page-13/"
-order: 1073
+order: 1072
 play: "absurd-person-singular"
 ---
 

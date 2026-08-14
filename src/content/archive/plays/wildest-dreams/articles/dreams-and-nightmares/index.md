@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://wildestdreams.alanayckbourn.net/page-2/page-3/"
-order: 1575
+order: 1574
 play: "wildest-dreams"
 ---
 
@@ -23,8 +23,8 @@ play: "wildest-dreams"
 
 </aside>
 
-*“I was interested in the way so many of us spend a lot of our time finding ways to escape reality. I think we all do. I'm fascinated by role-playing games. Theatre in one sense is an example of this.”  
-Alan Ayckbourn*
+*“I was interested in the way so many of us spend a lot of our time finding ways to escape reality. I think we all do. I'm fascinated by role-playing games. Theatre in one sense is an example of this.”*  
+*Alan Ayckbourn*
 
 To escape from reality into fantasy is a recurring theme of Alan Ayckbourn’s plays. In a world where real life can be overwhelming, what can be the harm of a little escapism?
 

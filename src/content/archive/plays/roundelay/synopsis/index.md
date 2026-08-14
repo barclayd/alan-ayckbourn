@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://roundelay.alanayckbourn.net/styled-3/"
-order: 2027
+order: 2025
 play: "roundelay"
 ---
 

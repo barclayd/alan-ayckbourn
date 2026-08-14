@@ -1,36 +1,25 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page151/"
-order: 558
+order: 557
 ---
 
 ## Soldier From The Wars Returning (1960)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Soldier From The Wars Returning  
+**Author:** David Campton  
+**First performance:** 4 August 1960  
+**Final performance:** 10 September 1960  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Stephen Joseph
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Soldier From The Wars Returning  
-David Campton
-
-4 August 1960  
-10 September 1960  
-The Library Theatre, Scarborough  
-Round
-
-Stephen Joseph   **Character**  
-Barmaid  
-Barman  
-Soldier **Actor**  
-Faynia Jeffery  
-Alan Ayckbourn  
-Derrick Gilbert
+**Character** **Actor**  
+**Barmaid** Faynia Jeffery  
+**Barman** Alan Ayckbourn  
+**Soldier** Derrick Gilbert
 
 ### Quotes & Notes
 

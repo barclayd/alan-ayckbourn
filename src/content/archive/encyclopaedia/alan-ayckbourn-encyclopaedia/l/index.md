@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: L"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-12/L.html"
-order: 695
+order: 694
 ---
 
 **[Late Wife, The:](/plays/childrens-plays-index/unproduced-plays)** An as-yet unproduced play written by Alan Ayckbourn during 2021.

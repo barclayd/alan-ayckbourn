@@ -8,31 +8,31 @@ order: 425
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Hugh Mills  
+**Venue:**  
+**Location:**  
+**Staging:**Hugh Mills  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**14 July 1975  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**14 July 1975  
 14 July 1975  
 3 September 1975
 
 ### Company Details
 
-**Director:  
-Design:  
-Costumes:**
+**Director:**  
+**Design:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Helga Wood  
 Philip Pawsey
 

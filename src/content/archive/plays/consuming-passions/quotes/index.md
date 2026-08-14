@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://consumingpassions.alanayckbourn.net/styled-3/"
-order: 2053
+order: 2051
 play: "consuming-passions"
 ---
 

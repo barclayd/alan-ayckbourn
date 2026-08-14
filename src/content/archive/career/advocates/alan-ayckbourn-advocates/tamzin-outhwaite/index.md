@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Tamzin Outhwaite"
 source: "http://advocates.alanayckbourn.net/page/page-49/"
-order: 2333
+order: 2331
 ---
 
 *Tamzin Outhwaite is an actress who received her first major theatre break from Alan Ayckbourn when he cast her as Evelyn in his 1997 revival of Absent Friends. Shortly afterwards, she would go on to a major role in the television soap opera EastEnders and become a hugely successful actress.*

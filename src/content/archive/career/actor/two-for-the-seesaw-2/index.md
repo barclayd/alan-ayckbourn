@@ -8,35 +8,21 @@ order: 336
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Two For The Seesaw  
+**Author:** William Gibson  
+**First performance:** 14 September 1964  
+**Venue:** Civic Theatre, Rotherham  
+**Staging:** End-stage  
+**Director:** Geoffrey Staines  
+**Designer:** David Killick  
+**Lighting:** Antony Hill  
+**Stage Manager:** Bill Kenwright  
+**Asst. Stage Manager:** Patrick Monkton  
+**Producer:** Richard Graham for London Theatre Presentations
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Designer:  
-Lighting:  
-Stage Manager:  
-Asst. Stage Manager:  
-Producer:** Two For The Seesaw  
-William Gibson
-
-14 September 1964  
-Civic Theatre, Rotherham  
-End-stage
-
-Geoffrey Staines  
-David Killick  
-Antony Hill  
-Bill Kenwright  
-Patrick Monkton  
-Richard Graham for London Theatre Presentations   **Character**  
-Jerry Ryan  
-Gittel Mosca **Actor**  
-Alan Ayckbourn  
-Heather Stoney
+**Character** **Actor**  
+**Jerry Ryan** Alan Ayckbourn  
+**Gittel Mosca** Heather Stoney
 
 ### Quotes & Notes
 

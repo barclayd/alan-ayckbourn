@@ -14,8 +14,8 @@ order: 281
 
 ![](./_images/stacks-image-6fe9cb5.jpg)
 
-*Alan Ayckbourn at the National Theatre with his company.  
-© National Theatre*
+*Alan Ayckbourn at the National Theatre with his company.*  
+*© National Theatre*
 
 </aside>
 

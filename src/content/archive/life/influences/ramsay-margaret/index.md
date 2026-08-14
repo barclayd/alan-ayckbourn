@@ -20,8 +20,8 @@ Much of her fascinating correspondence with Alan Ayckbourn is held in the Ayckbo
 
 ![](./_images/stacks-image-2644e3f.jpg)
 
-*Margaret ‘Peggy’ Ramsay  
-(© To be confirmed)*
+*Margaret ‘Peggy’ Ramsay*  
+*(© To be confirmed)*
 
 ## Resources
 

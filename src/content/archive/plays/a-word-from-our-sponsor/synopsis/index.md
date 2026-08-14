@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://awordfromoursponsor.alanayckbourn.net/styled-4/"
-order: 1653
+order: 1652
 play: "a-word-from-our-sponsor"
 ---
 

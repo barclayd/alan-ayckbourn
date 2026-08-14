@@ -1,7 +1,7 @@
 ---
 title: "Farcicals: History"
 source: "http://thekidderminsteraffair.alanayckbourn.net/styled/"
-order: 2546
+order: 2513
 play: "the-kidderminster-affair-farcicals"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://flatspin.alanayckbourn.net/styled-4/"
-order: 1775
+order: 1773
 play: "flatspin"
 ---
 

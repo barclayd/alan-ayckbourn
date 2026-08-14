@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://dreamsfromasummerhouse.alanayckbourn.net/styled-9/page17.html"
-order: 731
+order: 730
 play: "dreams-from-a-summer-house"
 ---
 
@@ -13,11 +13,11 @@ play: "dreams-from-a-summer-house"
 
 **Production:** SJTITR
 
-**Availability  
-Cassette:** 1992 (deleted)  
+**Availability**  
+**Cassette:** 1992 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Robert, an artist  

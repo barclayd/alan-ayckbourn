@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://makingtracks.alanayckbourn.net/styled-9/page17.html"
-order: 745
+order: 744
 play: "making-tracks"
 ---
 
@@ -13,11 +13,11 @@ play: "making-tracks"
 
 **Production:** SJTITR
 
-**Availability  
-Cassette:** 1981 (deleted)  
+**Availability**  
+**Cassette:** 1981 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Character**  
 Rog, a sound engineer  

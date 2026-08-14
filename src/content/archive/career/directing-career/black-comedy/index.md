@@ -8,32 +8,32 @@ order: 438
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter Shaffer  
+**Venue:**  
+**Location:**  
+**Staging:**Peter Shaffer  
 No
 
 The Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**24 June 1974  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**24 June 1974  
 24 June 1974  
 10 August 1974
 
 ### Company Details
 
-**Director:  
-Design:  
-Costumes:**
+**Director:**  
+**Design:**  
+**Costumes:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Helga Wood  
 Christine Welch
 

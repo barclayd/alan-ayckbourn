@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page39/Media_Things_We.html"
-order: 842
+order: 841
 ---
 
 ### Things We Do For Love
@@ -19,12 +19,12 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Adaptation**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Adaptation**
 
 **Character**  
 Barbara  

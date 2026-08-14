@@ -8,34 +8,34 @@ order: 436
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Peter King  
+**Venue:**  
+**Location:**  
+**Staging:**Peter King  
 Yes
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**14 September 1988  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**14 September 1988  
 14 September 1988  
 22 October 1988
 
 ### Company Details
 
-**Director:  
-Design:  
-Choreographer:  
-Musical Director:**
+**Director:**  
+**Design:**  
+**Choreographer:**  
+**Musical Director:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Laura McLaughlin  
 Angela Hardcastle  
 John Pattison

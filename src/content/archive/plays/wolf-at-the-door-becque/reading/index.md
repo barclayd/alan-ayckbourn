@@ -1,7 +1,7 @@
 ---
 title: "Wolf At The Door: Further Reading"
 source: "http://wolfatthedoor.alanayckbourn.net/styled-13/"
-order: 2230
+order: 2228
 play: "wolf-at-the-door-becque"
 ---
 

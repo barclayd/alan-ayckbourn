@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://howtheotherhalfloves.alanayckbourn.net/styled-8/"
-order: 1020
+order: 1019
 play: "how-the-other-half-loves"
 ---
 

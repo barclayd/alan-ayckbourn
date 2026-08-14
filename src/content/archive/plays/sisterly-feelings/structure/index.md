@@ -1,7 +1,7 @@
 ---
 title: "Structure"
 source: "http://sisterlyfeelings.alanayckbourn.net/styled-9/page17.html"
-order: 1265
+order: 1264
 play: "sisterly-feelings"
 ---
 

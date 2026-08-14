@@ -1,44 +1,29 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page149/"
-order: 556
+order: 555
 ---
 
 ## Love After All (1960)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Love After All  
+**Author:** Roland Allen (Alan Ayckbourn)  
+**First performance:** 30 June 1960  
+**Final perfomance:** 3 August 1960  
+**Venue:** The Library Theatre, Scarborough  
+**Staging:** Round  
+**Director:** Julian Herington
 
-**First performance:  
-Final perfomance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Love After All  
-Roland Allen (Alan Ayckbourn)
-
-30 June 1960  
-3 August 1960  
-The Library Theatre, Scarborough  
-Round
-
-Julian Herington   **Character**  
-Walter Bagwell  
-Ida, his maid  
-Angela, his daughter  
-Peter Jones  
-Rupert Hodge  
-Undertaker  
-Lo Chin **Actor**  
-David Campton  
-Faynia Jeffery  
-Hazel Anne Lee  
-Alan Ayckbourn  
-David Glover  
-Derrick Gilbert  
-Derrick Gilbert
+**Character** **Actor**  
+**Walter Bagwell** David Campton  
+**Ida, his maid** Faynia Jeffery  
+**Angela, his daughter** Hazel Anne Lee  
+**Peter Jones** Alan Ayckbourn  
+**Rupert Hodge** David Glover  
+**Undertaker** Derrick Gilbert  
+**Lo Chin** Derrick Gilbert
 
 ### Quotes & Notes
 

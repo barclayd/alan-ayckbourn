@@ -1,54 +1,34 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page121/"
-order: 532
+order: 531
 ---
 
 ## The Happiest Days Of Your Life (1957)
 
 ### Production Details
 
-**Play:  
-Author:**
+**Play:** The Happiest Days Of Your Life  
+**Author:** John Dighton  
+**First performance:** 22 April 1957  
+**Venue:** Leatherhead Theatre Club  
+**Staging:** End-stage  
+**Director:** Stafford Byrne
 
-**First performance:  
-Venue:  
-Staging:**
-
-**Director:**  The Happiest Days Of Your Life  
-John Dighton
-
-22 April 1957  
-Leatherhead Theatre Club  
-End-stage
-
-Stafford Byrne   **Character**  
-Dick Tassell  
-Rainbow  
-Rupert Billings  
-Godfrey Pond  
-Miss Evelyn Whitchurch  
-Miss Gossage  
-Hopcroft Mi  
-Barbara Cahoun  
-Joyce Harper  
-Reverend Edmund Peck  
-Mrs Peck  
-Edgar Sowter  
-Mrs Sowter **Actor**  
-Derek Martinus  
-Kerry Jordan  
-David Crosse  
-Reginald Barratt  
-Betty Bowden  
-Ann Patrick  
-Alan Ayckbourn  
-Ann Beach  
-Phyllis Partidge  
-Michael Marriott  
-Jennifer Willis  
-Brian Spink  
-Liane Aukin
+**Character** **Actor**  
+**Dick Tassell** Derek Martinus  
+**Rainbow** Kerry Jordan  
+**Rupert Billings** David Crosse  
+**Godfrey Pond** Reginald Barratt  
+**Miss Evelyn Whitchurch** Betty Bowden  
+**Miss Gossage** Ann Patrick  
+**Hopcroft Mi** Alan Ayckbourn  
+**Barbara Cahoun** Ann Beach  
+**Joyce Harper** Phyllis Partidge  
+**Reverend Edmund Peck** Michael Marriott  
+**Mrs Peck** Jennifer Willis  
+**Edgar Sowter** Brian Spink  
+**Mrs Sowter** Liane Aukin
 
 ### Quotes & Notes
 

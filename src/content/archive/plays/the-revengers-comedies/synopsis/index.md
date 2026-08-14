@@ -1,7 +1,7 @@
 ---
 title: "The Revengers' Comedies: Synopsis by Alan Ayckbourn"
 source: "http://therevengerscomedies.alanayckbourn.net/styled-4/"
-order: 1506
+order: 1505
 play: "the-revengers-comedies"
 ---
 

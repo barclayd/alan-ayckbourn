@@ -11,8 +11,8 @@ facts:
   Description: "Revue"
   Composer: "Paul Todd"
   Synopsis: "Two inter-connected musical revues set in a restaurant taking a wry look at relationships."
+  World premiere: "23 May 1985"
   Final performance: "17 September 1985"
-  World premiere: "25 May 1985"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Staging: "End-stageDirector: Alan Ayckbourn"
   Musical Director: "Paul Todd"
@@ -31,10 +31,10 @@ There is no plot as such to *Boy Meets Girl / Girl Meets Boy*. It is set in a re
 
 ### Premiere Production Details (1985)
 
-**Boy Meets Girl  
-World premiere:** 23 May 1985
+**Boy Meets Girl**
 
 **Girl Meets Boy**  
+**World premiere:** 25 May 1985  
 **Final performance:** 19 September 1985
 
 **Company**  

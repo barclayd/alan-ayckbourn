@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://intimateexchanges.alanayckbourn.net/styled-4/"
-order: 713
+order: 712
 play: "intimate-exchanges"
 ---
 

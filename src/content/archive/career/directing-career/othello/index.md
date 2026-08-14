@@ -8,35 +8,35 @@ order: 477
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**William Shakespeare  
+**Venue:**  
+**Location:**  
+**Staging:**William Shakespeare  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**26 September 1990  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**26 September 1990  
 2 October 1990  
 27 October 1990
 
 ### Company Details
 
-**Director:  
-Lighting:  
-Design:  
-Music:  
-Fight Director:  
-Voice Director:**
+**Director:**  
+**Lighting:**  
+**Design:**  
+**Music:**  
+**Fight Director:**  
+**Voice Director:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Mick Hughes  
 Michael Holt  
 John Pattison  

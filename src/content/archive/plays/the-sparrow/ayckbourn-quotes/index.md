@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://thesparrow.alanayckbourn.net/styled-5/"
-order: 1002
+order: 1001
 play: "the-sparrow"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://drowningondryland.alanayckbourn.net/styled-7/"
-order: 1870
+order: 1868
 play: "drowning-on-dry-land"
 ---
 

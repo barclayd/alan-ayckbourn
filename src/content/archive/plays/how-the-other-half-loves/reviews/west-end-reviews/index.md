@@ -1,7 +1,7 @@
 ---
 title: "West End Reviews"
 source: "http://howtheotherhalfloves.alanayckbourn.net/styled-8/styled-9/Westend.html"
-order: 1027
+order: 1026
 play: "how-the-other-half-loves"
 ---
 

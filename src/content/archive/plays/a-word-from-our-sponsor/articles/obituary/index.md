@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://awordfromoursponsor.alanayckbourn.net/page-2/page-3/"
-order: 1660
+order: 1659
 play: "a-word-from-our-sponsor"
 ---
 

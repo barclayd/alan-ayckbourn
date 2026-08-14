@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://bedroomfarce.alanayckbourn.net/styled-8/"
-order: 1192
+order: 1191
 play: "bedroom-farce"
 ---
 

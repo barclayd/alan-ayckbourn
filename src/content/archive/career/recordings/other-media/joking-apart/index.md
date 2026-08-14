@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page35/Media_Joking_Apart.html"
-order: 828
+order: 827
 ---
 
 ### Joking Apart
@@ -19,8 +19,8 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 
@@ -51,8 +51,8 @@ Sheridan Ball
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

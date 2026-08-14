@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://thepartygame.alanayckbourn.net/styled-13/"
-order: 2299
+order: 2297
 play: "the-party-game"
 ---
 

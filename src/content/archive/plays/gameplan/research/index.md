@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://gameplan.alanayckbourn.net/page-12/"
-order: 1764
+order: 1762
 play: "gameplan"
 ---
 

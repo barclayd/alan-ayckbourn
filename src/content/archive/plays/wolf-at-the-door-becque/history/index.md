@@ -1,7 +1,7 @@
 ---
 title: "Wolf At The Door: History"
 source: "http://wolfatthedoor.alanayckbourn.net/styled/"
-order: 2228
+order: 2226
 play: "wolf-at-the-door-becque"
 ---
 

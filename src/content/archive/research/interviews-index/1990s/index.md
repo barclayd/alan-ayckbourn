@@ -1,7 +1,7 @@
 ---
 title: "Interviews 1990 - 1999"
 source: "http://research.alanayckbourn.net/page/page-17/interviews_90s.html"
-order: 873
+order: 872
 ---
 
 *This page provides an index to significant articles and interviews with Alan Ayckbourn between 1990 and 1999.*
@@ -487,18 +487,18 @@ Publishing
 Yorkshire  
 *Man Of The Moment*  
 Career  
-*Man Of The Moment  
-Man Of The Moment*  
+*Man Of The Moment*  
+*Man Of The Moment*  
 Michael Gambon  
 Career  
-*Man Of The Moment  
-Man Of The Moment*  
+*Man Of The Moment*  
+*Man Of The Moment*  
 Career  
 *Absurd Person Singular*  
 Victoria Theatre  
-*Body Language  
-Body Language  
-Body Language*  
+*Body Language*  
+*Body Language*  
+*Body Language*  
 Directing  
 Career  
 *Othello*  
@@ -507,37 +507,37 @@ Career
 Career  
 *Wildest Dreams*  
 USA  
-*Mr A's Amazing Maze Plays  
-Invisible Friends  
-Invisible Friends  
-Invisible Friends  
-Invisible Friends*  
+*Mr A's Amazing Maze Plays*  
+*Invisible Friends*  
+*Invisible Friends*  
+*Invisible Friends*  
+*Invisible Friends*  
 Career  
-*Wildest Dreams  
-Wildest Dreams*  
+*Wildest Dreams*  
+*Wildest Dreams*  
 Career  
-*Wildest Dreams  
-Woman In Mind  
-Writing  
-Wildest Dreams  
-The Revengers' Comedies  
-The Revengers' Comedies*  
+*Wildest Dreams*  
+*Woman In Mind*  
+*Writing*  
+*Wildest Dreams*  
+*The Revengers' Comedies*  
+*The Revengers' Comedies*  
 Career  
-*The Revengers' Comedies  
-The Revengers' Comedies  
-Henceforward…*  
+*The Revengers' Comedies*  
+*The Revengers' Comedies*  
+*Henceforward…*  
 Marriage  
 *The Revengers' Comedies*  
 Oxford University  
 Oxford University  
-*Time Of My Life  
-Time Of My Life  
-Time Of My Life*  
+*Time Of My Life*  
+*Time Of My Life*  
+*Time Of My Life*  
 Career  
 Career  
 Roger Glossop  
-*Dreams From A Summer House  
-Dreams From A Summer House*  
+*Dreams From A Summer House*  
+*Dreams From A Summer House*  
 Career  
 Feminism  
 Oxford University  
@@ -545,95 +545,95 @@ Oxford University
 Scarborough  
 Playwriting  
 Haileybury  
-*Mr A's Amazing Maze Plays  
-Absent Friends  
-Mr A's Amazing Maze Plays  
-Mr A's Amazing Maze Plays  
-The Norman Conquests  
-Just Between Ourselves  
-The Norman Conquests  
-Time Of My Life*  
+*Mr A's Amazing Maze Plays*  
+*Absent Friends*  
+*Mr A's Amazing Maze Plays*  
+*Mr A's Amazing Maze Plays*  
+*The Norman Conquests*  
+*Just Between Ourselves*  
+*The Norman Conquests*  
+*Time Of My Life*  
 Career  
-*Time Of My Life  
-Time Of My Life  
-Wildest Dreams  
-Wildest Dreams  
-Wildest Dreams*  
+*Time Of My Life*  
+*Time Of My Life*  
+*Wildest Dreams*  
+*Wildest Dreams*  
+*Wildest Dreams*  
 Haileybury  
 *Communicating Doors*  
-*Communicating Doors  
-Communicating Doors*  
+*Communicating Doors*  
+*Communicating Doors*  
 Scarborough  
 Directing  
-*Communicating Doors  
-Communicating Doors  
-Haunting Julia  
-A Word From Our Sponsor  
-Communicating Doors*  
+*Communicating Doors*  
+*Communicating Doors*  
+*Haunting Julia*  
+*A Word From Our Sponsor*  
+*Communicating Doors*  
 Scarborough  
 Career  
 Career  
-*Tons Of Money  
-A Word From Our Sponsor*  
+*Tons Of Money*  
+*A Word From Our Sponsor*  
 SJT  
-*Communicating Doors  
-Communicating Doors  
-Communicating Doors  
-Man Of The Moment  
-By Jeeves*  
+*Communicating Doors*  
+*Communicating Doors*  
+*Communicating Doors*  
+*Man Of The Moment*  
+*By Jeeves*  
 SJT  
 SJT  
 SJT  
 *By Jeeves*  
 SJT  
 Mother  
-*Communicating Doors  
-By Jeeves  
-By Jeeves  
-By Jeeves*  
+*Communicating Doors*  
+*By Jeeves*  
+*By Jeeves*  
+*By Jeeves*  
 Career  
 SJT  
-*It Could Be Any One Of Us  
-By Jeeves  
-By Jeeves  
-The Champion Of Paribanou*  
+*It Could Be Any One Of Us*  
+*By Jeeves*  
+*By Jeeves*  
+*The Champion Of Paribanou*  
 SJT  
-*The Champion Of Paribanou  
-SJT*  
-*By Jeeves  
-Things We Do For Love  
-Things We Do For Love  
-Things We Do For Love  
-Things We Do For Love  
-Things We Do For Love  
-Things We Do For Love  
-Absent Friends  
-Things We Do For Love  
-Things We Do For Love  
-Things We Do For Love  
-Comic Potential  
-Comic Potential  
-Comic Potential  
-Communicating Doors*  
+*The Champion Of Paribanou*  
+*SJT*  
+*By Jeeves*  
+*Things We Do For Love*  
+*Things We Do For Love*  
+*Things We Do For Love*  
+*Things We Do For Love*  
+*Things We Do For Love*  
+*Things We Do For Love*  
+*Absent Friends*  
+*Things We Do For Love*  
+*Things We Do For Love*  
+*Things We Do For Love*  
+*Comic Potential*  
+*Comic Potential*  
+*Comic Potential*  
+*Communicating Doors*  
 Scarborough  
 Career  
-*House & Garden  
-House & Garden  
-Haunting Julia  
-House & Garden*  
+*House & Garden*  
+*House & Garden*  
+*Haunting Julia*  
+*House & Garden*  
 Career  
 Gizmo  
 *House & Garden*  
 Career  
-*House & Garden  
-House & Garden*  
+*House & Garden*  
+*House & Garden*  
 Career  
 Career  
 *Body Language*  
 Career  
 SJT  
 Career  
-*Comic Potential  
-Comic Potential*  
+*Comic Potential*  
+*Comic Potential*  
 Career  
 Career  *All material and research for this page is by and copyright of Simon Murgatroyd. Please do not reproduce the information on this page without permission.*

@@ -8,8 +8,6 @@ import '@/styles/global.css';
 type Props = {
   title: string;
   description?: string;
-  /** Dark chrome runs edge to edge on landing pages; reading pages sit on paper. */
-  chrome?: 'landing' | 'reading';
   /** Search facet and result subtitle. Pagefind reads both off `<main>`. */
   section?: string;
   where?: string;
@@ -25,7 +23,6 @@ type Props = {
 const {
   title,
   description = 'The work of Sir Alan Ayckbourn: 92 plays across sixty-seven years.',
-  chrome = 'reading',
   section,
   where,
   indexed = true,
@@ -62,12 +59,7 @@ const fullTitle =
       })();
     </script>
   </head>
-  <body
-    class:list={[
-      'flex min-h-dvh flex-col antialiased',
-      chrome === 'landing' && 'bg-chrome text-chrome-ink',
-    ]}
-  >
+  <body class="flex min-h-dvh flex-col antialiased">
     <a
       href="#main"
       class="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-50 focus:bg-accent focus:px-4 focus:py-2 focus:font-ui focus:text-white"

@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://justbetweenourselves.alanayckbourn.net/page-8/"
-order: 1207
+order: 1206
 play: "just-between-ourselves"
 ---
 

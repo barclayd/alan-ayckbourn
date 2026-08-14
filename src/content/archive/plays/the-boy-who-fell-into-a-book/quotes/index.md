@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://theboywhofell.alanayckbourn.net/styled-4/"
-order: 1698
+order: 1696
 play: "the-boy-who-fell-into-a-book"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://snakeinthegrass.alanayckbourn.net/styled-6/"
-order: 1812
+order: 1810
 play: "snake-in-the-grass"
 ---
 

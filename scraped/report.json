@@ -119,7 +119,7 @@
     "secondhelping.alanayckbourn.net",
     "memyselfandi.alanayckbourn.net",
     "incidentalmusic.alanayckbourn.net",
-    "sevendeadlyvirtues.alanayckbourn.net",
+    "the7deadlyvirtues.alanayckbourn.net",
     "boymeetsgirl.alanayckbourn.net",
     "meresoupsongs.alanayckbourn.net",
     "cheapandcheerful.alanayckbourn.net",
@@ -143,11 +143,11 @@
     "archiving.alanayckbourn.net",
     "archivingayckbourn.home.blog.alanayckbourn.net"
   ],
-  "pages": 2460,
-  "written": 2458,
-  "images": 1182,
-  "navBlocksDropped": 975,
-  "boilerplateBlocksDropped": 1428,
+  "pages": 2430,
+  "written": 2428,
+  "images": 1165,
+  "navBlocksDropped": 958,
+  "boilerplateBlocksDropped": 1423,
   "untitled": [
     "http://www.alanayckbourn.net/",
     "http://www.alanayckbourn.net/page-2/NewsInDepth.html",
@@ -156,11 +156,7 @@
     "http://www.alanayckbourn.net/page-6/NewsInDepth.html",
     "http://thesquarecat.alanayckbourn.net/page-8/",
     "http://dadstale.alanayckbourn.net/page-3/",
-    "http://lifeofriley.alanayckbourn.net/page18/styled-9/",
-    "http://plays.alanayckbourn.net/contact-form/",
-    "http://plays.alanayckbourn.net/page-7/contact-form-2/",
-    "http://advocates.alanayckbourn.net/page/contact-form/",
-    "http://copyright.alanayckbourn.net/contact-form/"
+    "http://lifeofriley.alanayckbourn.net/page18/styled-9/"
   ],
   "emptyPages": [
     "http://www.alanayckbourn.net/page-2/NewsInDepth.html",
@@ -196,7 +192,7 @@
       "to": "http://the-sjt.alanayckbourn.net/page12/page196/styled-63/"
     }
   ],
-  "imagesWithoutAlt": 1182,
+  "imagesWithoutAlt": 1165,
   "failures": [
     {
       "url": "http://archiving.alanayckbourn.net/",
@@ -696,7 +692,6 @@
     "drowningondryland.alanayckbourn.net",
     "encyclopedia.alanayckbourn.net",
     "improbablefiction.alanayckbourn.net",
-    "interviews.alanayckbourn.net",
     "jeeves.alanayckbourn.net",
     "lifeofriley.alanayckbourn.net",
     "manofthemoment.alanayckbourn.net",

@@ -1,7 +1,7 @@
 ---
 title: "Adaptations In Other Media"
 source: "http://intimateexchanges.alanayckbourn.net/styled-9/page17.html"
-order: 742
+order: 741
 play: "intimate-exchanges"
 ---
 
@@ -20,12 +20,12 @@ play: "intimate-exchanges"
 *A Pageant:* 28 August (3pm)  
 *Love In The Mist:* 28 August (8.15pm)
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Additional Dialogue**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Additional Dialogue**
 
 **Character**  
 Miles Coombes  
@@ -65,24 +65,24 @@ The additional dialogue provided by Alan Ayckbourn was a short addition to the f
 **Production:** Camera One  
 **Production:** France 2 Cinéma
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD (R2):** 2005 (available - France)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director  
-Adaptation  
-Adaptation  
-Assistant Director  
-Assistant Director  
-Continuity  
-Photography  
-Editing  
-Set Designer  
-Drawings  
-Costume Designer  
-Music  
-Sound  
-Sound**
+**Digital:** Not available**Director**  
+**Adaptation**  
+**Adaptation**  
+**Assistant Director**  
+**Assistant Director**  
+**Continuity**  
+**Photography**  
+**Editing**  
+**Set Designer**  
+**Drawings**  
+**Costume Designer**  
+**Music**  
+**Sound**  
+**Sound**
 
 **Character**  
 Celia Teasdale  

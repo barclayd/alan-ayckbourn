@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Adaptations: The 7 Deadly Deadly Virtues"
-source: "http://sevendeadlyvirtues.alanayckbourn.net/page9/Media_Seven_Deadly.html"
-order: 755
+source: "http://the7deadlyvirtues.alanayckbourn.net/page9/Media_Seven_Deadly.html"
+order: 754
 play: "the-7-deadly-virtues"
 ---
 
@@ -14,11 +14,11 @@ TSJTITR002
 
 **Company:** Stephen Joseph Theatre In The Round
 
-**Availability  
-Cassette:** 1984 (deleted)  
+**Availability**  
+**Cassette:** 1984 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director  
-Musical Director**
+**Digital:** Not available**Director**  
+**Musical Director**
 
 **Actor**  
 Lavinia Bertram  
@@ -42,8 +42,8 @@ Paul Todd (synthesiser)
 
 **Company:** BBC North
 
-**Availability  
-Video:** Not available  
+**Availability**  
+**Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
 **Digital:** Not available**Actor**  

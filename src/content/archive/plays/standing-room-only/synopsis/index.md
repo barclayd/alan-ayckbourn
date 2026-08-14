@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://standingroomonly.alanayckbourn.net/styled-4/"
-order: 931
+order: 930
 play: "standing-room-only"
 ---
 

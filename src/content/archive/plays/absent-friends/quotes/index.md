@@ -1,7 +1,7 @@
 ---
 title: "Quotes by Alan Ayckbourn"
 source: "http://absentfriends.alanayckbourn.net/styled-5/"
-order: 1120
+order: 1119
 play: "absent-friends"
 ---
 

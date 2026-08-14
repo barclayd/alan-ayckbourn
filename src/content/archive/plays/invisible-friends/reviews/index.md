@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://invisiblefriends.alanayckbourn.net/styled-8/"
-order: 1523
+order: 1522
 play: "invisible-friends"
 ---
 

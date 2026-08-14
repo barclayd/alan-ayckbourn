@@ -1,7 +1,7 @@
 ---
 title: "Dear Uncle: A Timeline"
 source: "http://dearuncle.alanayckbourn.net/styled-2/"
-order: 2238
+order: 2236
 play: "dear-uncle-chekhov"
 ---
 

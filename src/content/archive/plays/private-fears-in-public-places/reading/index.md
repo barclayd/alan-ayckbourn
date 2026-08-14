@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://privatefears.alanayckbourn.net/styled-13/"
-order: 1886
+order: 1884
 play: "private-fears-in-public-places"
 ---
 

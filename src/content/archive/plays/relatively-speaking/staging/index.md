@@ -1,12 +1,12 @@
 ---
 title: "Staging"
 source: "http://relativelyspeaking.alanayckbourn.net/styled-10/"
-order: 980
+order: 979
 play: "relatively-speaking"
 ---
 
-*Michael Holt is an acclaimed designer who has been designing for Alan Ayckbourn since 1977. During his career he has designed national and international productions of Ayckbourn plays which include Intimate Exchanges, Taking Steps, Man Of The Moment, Season’s Greetings, Absurd Person Singular, A Chorus Of Disapproval, House & Garden, Way Upstream, Just Between Ourselves and Things We Do For Love.  
-In this interview conducted by Simon Murgatroyd in 2007, he talks about his thoughts on designing Relatively Speaking.*
+*Michael Holt is an acclaimed designer who has been designing for Alan Ayckbourn since 1977. During his career he has designed national and international productions of Ayckbourn plays which include Intimate Exchanges, Taking Steps, Man Of The Moment, Season’s Greetings, Absurd Person Singular, A Chorus Of Disapproval, House & Garden, Way Upstream, Just Between Ourselves and Things We Do For Love.*  
+*In this interview conducted by Simon Murgatroyd in 2007, he talks about his thoughts on designing Relatively Speaking.*
 
 **Metropolitan Vs Countryside**  
 You have to somehow present the idea of Metropolitan versus Country. Ginny is distinctly metropolitan with metropolitan values, metropolitan modes of behaviour which confront the distinctly rural values of Sheila. It’s part of the spring off the play that these people collide and don’t understand each other.  

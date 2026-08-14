@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://confusions.alanayckbourn.net/styled-8/"
-order: 1142
+order: 1141
 play: "confusions"
 ---
 

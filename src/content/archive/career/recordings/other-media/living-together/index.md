@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page26/Media_Norman_Conquests.html"
-order: 831
+order: 830
 ---
 
 ### The Norman Conquests
@@ -20,15 +20,15 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 
 **Production:** Thames
 
-**Availability  
-Video:** 1981 (deleted)  
+**Availability**  
+**Video:** 1981 (deleted)  
 **DVD (R2):** 2014 (available)  
 **Blu-ray:** Not available  
-**Digital (USA):** 2011 (available)**Director  
-Design  
-Title Music  
-Producer  
-Producer**
+**Digital (USA):** 2011 (available)**Director**  
+**Design**  
+**Title Music**  
+**Producer**  
+**Producer**
 
 **Character**  
 Reg  
@@ -62,12 +62,12 @@ David Troughton
 
 **Production:** BBC
 
-**Availability  
-Cassette:** 1993 (deleted)  
+**Availability**  
+**Cassette:** 1993 (deleted)  
 **CD:** 2010 (deleted)  
-**Digital:** 2010 (available)**Director  
-Adaptor  
-Music**
+**Digital:** 2010 (available)**Director**  
+**Adaptor**  
+**Music**
 
 **Character**  
 Norman  
@@ -94,8 +94,8 @@ Elizabeth Rider
 
 **Production:** LA Theatre Works
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2009 (deleted)  
 **Digital:** 2011 (available)**Director**
 
@@ -127,8 +127,8 @@ Carolyn Seymour
 
 **Production:** BBC
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** Not available  
 **Digital:** Not available**Director**
 

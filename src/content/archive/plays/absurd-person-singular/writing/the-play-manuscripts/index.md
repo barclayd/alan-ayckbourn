@@ -1,7 +1,7 @@
 ---
 title: "Absurd Person Singular: The Play Manuscripts - Draft to Stage"
 source: "http://writingabsurdpersonsingular.alanayckbourn.net/page-2/NewsInDepth.html"
-order: 2554
+order: 2521
 play: "absurd-person-singular"
 ---
 

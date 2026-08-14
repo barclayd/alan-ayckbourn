@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://improbablefiction.alanayckbourn.net/styled-2/"
-order: 1908
+order: 1906
 play: "improbable-fiction"
 ---
 

@@ -8,33 +8,33 @@ order: 463
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Robert Shearman  
+**Venue:**  
+**Location:**  
+**Staging:**Robert Shearman  
 Yes
 
 Stephen Joseph Theatre  
 The Round  
-Round**First performance:  
-Opening night:  
-Final performance:**16 July 1999  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**16 July 1999  
 21 July 1999  
 18 September 1999
 
 ### Company Details
 
-**Director:  
-Design:  
-Lighting:  
-Music:  
-Fight Director:**
+**Director:**  
+**Design:**  
+**Lighting:**  
+**Music:**  
+**Fight Director:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Pip Leckenby  
 Kath Geraghty  
 Simon Cryer  

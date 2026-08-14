@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: P"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-16/P.html"
-order: 699
+order: 698
 ---
 
 **[A Pageant (Intimate Exchanges):](/plays/intimate-exchanges)** One of the eight major permutations of *Intimate Exchanges* in which Sylvie and Celia end up fighting over who plays Boadicea at a pageant and Toby is forced to choose which one he loves. It has two possible permutations for the final scene comprising *A Harvest Festival* and *A Wedding*.

@@ -1,45 +1,10 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page-81/"
-order: 597
+order: 596
 ---
 
 ## Anno Domino (2020)
-
-### Production Details
-
-**Play:**  
-**Author:**
-
-**World Premiere:  
-Company:  
-Format:  
-Producer:**
-
-**Director:**  
-**Sound:  
-Final Mix:** Anno Domino  
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Paul Stear   **Characters**  
-Ben Martin  
-Ella Martin  
-Martha Wray  
-Craig Dean  
-Cinny Greene  
-Raz Wray  
-Sam Martin  
-Amelia Wilkes-Martin (Milly) **Actors**  
-Alan Ayckbourn  
-Heather Stoney  
-Heather Stoney  
-Alan Ayckbourn  
-Heather Stoney  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Heather Stoney
 
 ### Quotes & Notes
 

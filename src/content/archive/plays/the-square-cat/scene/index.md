@@ -1,12 +1,12 @@
 ---
 title: "Scene"
 source: "http://thesquarecat.alanayckbourn.net/styled-9/page17.html"
-order: 888
+order: 887
 play: "the-square-cat"
 ---
 
-*This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.  
-Dialogue in italics indicates material cut from the performed script.*
+*This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.*  
+*Dialogue in italics indicates material cut from the performed script.*
 
 ![](./_images/stacks-image-78ea3ec-83.jpg)
 

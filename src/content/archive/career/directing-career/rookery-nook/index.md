@@ -8,31 +8,31 @@ order: 484
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Ben Travers  
+**Venue:**  
+**Location:**  
+**Staging:**Ben Travers  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**2 May 1978  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**2 May 1978  
 3 May 1978  
 19 July 1978
 
 ### Company Details
 
-**Director:  
-Design:**
+**Director:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Michael Holt
 
 Janet Fox  

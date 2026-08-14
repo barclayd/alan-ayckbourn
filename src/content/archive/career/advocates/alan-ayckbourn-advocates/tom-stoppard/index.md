@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Tom Stoppard"
 source: "http://advocates.alanayckbourn.net/page/page-27/"
-order: 2364
+order: 2362
 ---
 
 *Sir Tom Stoppard CBE is a playwright and screenwriter considered to be one of the most influential British playwrights of the 20th century. During his career he has received an Academy Award alongside Olivier and Tony Awards.*

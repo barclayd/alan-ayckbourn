@@ -8,35 +8,35 @@ order: 435
 
 ### Production Details
 
-**Book / Lyrics:  
-Music:  
-New Play:**
+**Book / Lyrics:**  
+**Music:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Mary Stewart-David  
+**Venue:**  
+**Location:**  
+**Staging:**Mary Stewart-David  
 Denis King  
 Yes
 
 Stephen Joseph Theatre  
 The McCarthy  
-End-stage**First performance:  
-Opening night:  
-Final performance:**23 April 1998  
+End-stage**First performance:**  
+**Opening night:**  
+**Final performance:**23 April 1998  
 29 April 1998  
 23 May 1998
 
 ### Company Details
 
-**Director:  
-Musical Director:  
-Design:  
-Lighting:  
-Choreography:**
+**Director:**  
+**Musical Director:**  
+**Design:**  
+**Lighting:**  
+**Choreography:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 Simon Cryer  
 Michael Holt  
 Paul Towson  

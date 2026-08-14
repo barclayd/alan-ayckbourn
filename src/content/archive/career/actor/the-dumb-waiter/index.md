@@ -1,32 +1,23 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page180/"
-order: 589
+order: 588
 ---
 
 ## The Dumb Waiter (1963)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Dumb Waiter  
+**Author:** Harold Pinter  
+**First performance:** 10 September 1963  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Dumb Waiter  
-Harold Pinter
-
-10 September 1963  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman   **Character**  
-Ben  
-Gus **Actor**  
-Alan Ayckbourn  
-Stanley Page
+**Character** **Actor**  
+**Ben** Alan Ayckbourn  
+**Gus** Stanley Page
 
 ### Quotes & Notes
 

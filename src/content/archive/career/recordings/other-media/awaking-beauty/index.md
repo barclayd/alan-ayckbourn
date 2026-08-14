@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Play Recordings & Adaptations"
 source: "http://recordings.alanayckbourn.net/page0/page45/Media_Awaking_Beauty.html"
-order: 813
+order: 812
 ---
 
 ### Awaking Beauty
@@ -18,8 +18,8 @@ This page contains details of recordings and adaptations of Alan Ayckbourn & Den
 
 **Production:** SJT
 
-**Availability  
-Cassette:** Not available  
+**Availability**  
+**Cassette:** Not available  
 **CD:** 2009 (deleted)  
 **Digital:** Not available**Character**  
 Carabosse  

@@ -1,58 +1,36 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page185/"
-order: 594
+order: 593
 ---
 
 ## The Jew Of Malta (1964)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Jew Of Malta  
+**Author:** Christopher Marlowe  
+**First performance:** 10 March 1964  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round  
+**Director:** Peter Cheeseman  
+**Costumes:** RSC / Priscilla Bart
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Costumes:** The Jew Of Malta  
-Christopher Marlowe
-
-10 March 1964  
-Victoria Theatre, Stoke-on-Trent  
-Round
-
-Peter Cheeseman  
-RSC / Priscilla Bart   **Character**  
-Barabas  
-Ferneze  
-Selim Calymath  
-Callapine  
-Abigail  
-Father Jacomo  
-Father Barnadine  
-Lodowick  
-Mathias  
-Martin del Bosco  
-Ithamore  
-Katharine  
-Bellamira  
-Pilia-Borza **Actor**  
-Bernard Gallagher  
-Stanley Page  
-Peter King  
-David Valla  
-Wanda Moore  
-Gordon Reid  
-Anthony Haygarth  
-Peter King  
-David Valla  
-Alan Ayckbourn  
-Peter Mason  
-Jennifer Hales  
-Jean Robinson  
-Michael Higgins
+**Character** **Actor**  
+**Barabas** Bernard Gallagher  
+**Ferneze** Stanley Page  
+**Selim Calymath** Peter King  
+**Callapine** David Valla  
+**Abigail** Wanda Moore  
+**Father Jacomo** Gordon Reid  
+**Father Barnadine** Anthony Haygarth  
+**Lodowick** Peter King  
+**Mathias** David Valla  
+**Martin del Bosco** Alan Ayckbourn  
+**Ithamore** Peter Mason  
+**Katharine** Jennifer Hales  
+**Bellamira** Jean Robinson  
+**Pilia-Borza** Michael Higgins
 
 ### Quotes & Notes
 

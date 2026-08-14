@@ -1,7 +1,7 @@
 ---
 title: "Publication Corrections"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-13/styled-11/"
-order: 1078
+order: 1077
 play: "absurd-person-singular"
 ---
 
@@ -14,5 +14,5 @@ Page 44, Act II.
 **As printed:**  
 **Sidney:** (moving a stove up beside Ronald) Might I suggest that Marion sits down…
 
-**Correct version (correction in bold italics):  
-Sidney:** (moving a ***stool*** up beside Ronald) Might I suggest that Marion sits down…
+**Correct version (correction in bold italics):**  
+**Sidney:** (moving a ***stool*** up beside Ronald) Might I suggest that Marion sits down…

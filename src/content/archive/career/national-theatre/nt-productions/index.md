@@ -1,7 +1,7 @@
 ---
 title: "The National Theatre"
 source: "http://careers.alanayckbourn.net/styled-2/page-103/NationalTheatre.html"
-order: 603
+order: 602
 ---
 
 Alan Ayckbourn has had a strong relationship with the National Theatre and was a **[Company Director](/career/national-theatre/nt-company-director)** between 1986 and 1988. The National Theatre is the most important venue Alan Ayckbourn is associated with outside of his home theatre in Scarborough.
@@ -398,22 +398,17 @@ James Simmons
 **Musical Director:** Simon Cryer  
 **Lighting:** Jackie Staines  
 **Design:** Roger Glossop  
-**Music:** John Pattison **Character**  
-Mum / Aussie Matron / Iris  
-Dad / Aussie Doctor / Bob / Griff / Captain/ Spanish Tourist  
-Colin  
-Luke / Alastair / Guard / Patient / Student Doctor / Aussie Doctor / Businessman  
-Cop / Pompous Pommy Doctor / Ted  
-Aussie Nurse / Flight Attendant / American Tourist / Student Doctor / Cafe Woman / Pommy Nurse / Doctor Graham / Airport Woman **Actor**  
-Sophia Winter  
-Philip Bird
+**Music:** John Pattison
 
-Tamblyn Lord  
-Sean Mackenzie
+**Character** **Actor**  
+**Mum / Aussie Matron / Iris** Sophia Winter  
+**Dad / Aussie Doctor / Bob / Griff / Captain/ Spanish Tourist** Philip Bird  
+**Colin** Tamblyn Lord  
+**Luke / Alastair / Guard / Patient / Student Doctor / Aussie Doctor / Businessman** Sean Mackenzie  
+**Cop / Pompous Pommy Doctor / Ted** Peter Forbes  
+**Aussie Nurse / Flight Attendant / American Tourist / Student Doctor / Cafe Woman / Pommy Nurse / Doctor Graham / Airport Woman** Dorothy Atkinson
 
-Peter Forbes
-
-Dorothy Atkinson **Note:** This was a co-production with the Stephen Joseph Theatre in the Round which premiered in Scarborough before transferring to the National Theatre.
+**Note:** This was a co-production with the Stephen Joseph Theatre in the Round which premiered in Scarborough before transferring to the National Theatre.
 
 ### House & Garden (2000)
 

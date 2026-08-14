@@ -1,7 +1,7 @@
 ---
 title: "Becoming Artistic Director"
 source: "http://careers.alanayckbourn.net/page-80/styled-10/ArtisticDirector.html"
-order: 519
+order: 518
 ---
 
 **Fact:** Alan Ayckbourn became the**[Artistic Director](/career/artistic-director)** of the Stephen Joseph Theatre (then Theatre in the Round at the Library Theatre) in 1972.

@@ -1,11 +1,11 @@
 ---
 title: "Staging Plays FAQs"
 source: "http://plays.alanayckbourn.net/page-7/page-11/Performing_Rights.html"
-order: 2308
+order: 2306
 play: "stage-a-play"
 ---
 
-This page contains frequently asked questions regarding staging Alan Ayckbourn's plays. If you have a question not covered by this page, please use the **[Contact Us](/plays/contact)** page form.
+This page contains frequently asked questions regarding staging Alan Ayckbourn's plays. If you have a question not covered by this page, please use the **[Contact Us](http://plays.alanayckbourn.net/contact-form/)** page form.
 
 ### Frequently Asked Questions
 

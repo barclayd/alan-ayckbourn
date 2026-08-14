@@ -1,12 +1,12 @@
 ---
 title: "Scene"
 source: "http://relativelyspeaking.alanayckbourn.net/page24/page17.html"
-order: 981
+order: 980
 play: "relatively-speaking"
 ---
 
-*This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.  
-For Relatively Speaking, the final page of the original production of the play at the Library Theatre, Scarborough, in 1965 - called Meet My Father - is reproduced next to the climax of the play as it is known today.***Meet My Father** (act II, scene 2)  
+*This page reproduces a scene from the play offering an insight into and a taste of the work. The dialogue is reproduced in the style of the original including grammatical choices / errors.*  
+*For Relatively Speaking, the final page of the original production of the play at the Library Theatre, Scarborough, in 1965 - called Meet My Father - is reproduced next to the climax of the play as it is known today.***Meet My Father** (act II, scene 2)  
 *A garden*
 
 **Sheila:** ’Bye.  

@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: C"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-3/C.html"
-order: 686
+order: 685
 ---
 
 **[Callisto 5:](/plays/callisto-5)** Alan Ayckbourn's 41st play premiered at the Stephen Joseph Theatre In The Round, Scarborough, on 12 December 1990. Set on a space station on the moon of Callisto, a young boy Jem - whose parents disappeared years earlier - finds himself trying to outwit an invisible alien which has infiltrated the station.

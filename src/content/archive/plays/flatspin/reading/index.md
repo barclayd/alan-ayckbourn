@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://flatspin.alanayckbourn.net/styled-8/"
-order: 1780
+order: 1778
 play: "flatspin"
 ---
 

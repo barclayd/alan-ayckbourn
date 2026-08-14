@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph Theatre: A Photographic Record"
 source: "http://publications.alanayckbourn.net/page-2/page-5/page22.html"
-order: 854
+order: 853
 ---
 
 In 1996, the Stephen Joseph Theatre in Scarborough was opened. A £5.2m conversion of the town's former Odeon cinema and the first purpose-designed home for the UK's first professional theatre-in-the-round company founded by Stephen Joseph in 1955 and subsequently run baby Alan Ayckbourn since 1972.

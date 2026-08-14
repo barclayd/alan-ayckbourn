@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://womaninmind.alanayckbourn.net/styled-4/"
-order: 1413
+order: 1412
 play: "woman-in-mind"
 ---
 

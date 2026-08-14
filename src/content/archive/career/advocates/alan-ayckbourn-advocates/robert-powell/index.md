@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Robert Powell"
 source: "http://advocates.alanayckbourn.net/page/page-10/"
-order: 2335
+order: 2333
 ---
 
 *Robert Powell is a stage and screen actor best known for playing the lead role in Franco Zefferelli's Jesus Of Nazareth in 1977. He appeared in the world premiere of Alan Ayckbourn's The Sparrow in 1967 just prior to finding fame on television's Doomwatch.*

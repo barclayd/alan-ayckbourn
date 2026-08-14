@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: Dates - May"
 source: "http://encyclopedia.alanayckbourn.net/styled-28/styled-33/Z.html"
-order: 777
+order: 776
 ---
 
 **1 May:** World premiere of Alan Ayckbourn and Andrew Lloyd Webber's musical ***[By Jeeves](/plays/jeeves)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** in 1996; New York premiere of ***[A Brief History Of Women](/plays/a-brief-history-of-women)*** at the 59E59 Theaters.

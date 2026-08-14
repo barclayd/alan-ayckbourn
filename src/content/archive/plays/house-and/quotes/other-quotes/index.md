@@ -1,7 +1,7 @@
 ---
 title: "House & Garden: Quotes by Other People"
 source: "http://houseandgarden.alanayckbourn.net/styled-5/styled-12/"
-order: 1719
+order: 1717
 play: "house-and"
 ---
 

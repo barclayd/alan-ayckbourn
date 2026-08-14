@@ -1,7 +1,7 @@
 ---
 title: "Research Resources"
 source: "http://lifeandbeth.alanayckbourn.net/page-5/"
-order: 1937
+order: 1935
 play: "life-and-beth"
 ---
 

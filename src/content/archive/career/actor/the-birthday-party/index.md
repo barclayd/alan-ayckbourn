@@ -8,35 +8,13 @@ order: 376
 
 ### Production Details
 
-**Play:**  
-**Author:**
-
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** The Birthday Party  
-Harold Pinter
-
-9 January 1959  
-14 March 1959  
-Birmingham Theatre Centre  
-Round
-
-Harold Pinter   **Character**  
-Petey  
-Meg  
-Stanley  
-Lulu  
-Goldberg  
-McCann **Actor**  
-David Campton  
-Dona Martyn  
-Alan Ayckbourn  
-Faynia Jeffery  
-David Sutton  
-Rodney Wood
+****Play:** The Birthday Party** **Character** **Actor**  
+****Author:** Harold Pinter** **Petey** David Campton  
+****First performance:** 9 January 1959** **Meg** Dona Martyn  
+****Final performance:** 14 March 1959** **Stanley** Alan Ayckbourn  
+****Venue:** Birmingham Theatre Centre** **Lulu** Faynia Jeffery  
+****Staging:** Round** **Goldberg** David Sutton  
+****Director:** Harold Pinter** **McCann** Rodney Wood
 
 ### Quotes & Notes
 

@@ -8,19 +8,19 @@ order: 500
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**William Gibson  
+**Venue:**  
+**Location:**  
+**Staging:**William Gibson  
 No
 
 Theatre in the Round at the Library Theatre  
 Concert Room, Scarborough Library  
-Round**First performance:  
-Opening night:  
-Final performance:**10 August 1961  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**10 August 1961  
 10 August 1961  
 6 September 1961
 

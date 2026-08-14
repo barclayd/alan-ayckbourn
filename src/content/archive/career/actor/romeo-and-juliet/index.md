@@ -8,21 +8,14 @@ order: 326
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** Romeo And Juliet  
+**Author:** William Shakespeare  
+**First performance:** 1955 (Date to be confirmed)  
+**Venue:** European tour  
+**Staging:** End-stage  
+**Director:** Edgar Matthews
 
-**First performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:** Romeo And Juliet  
-William Shakespeare
-
-1955 (Date to be confirmed)  
-European tour  
-End-stage
-
-Edgar Matthews   **Character**  
+**Character**  
 Peter **Actor**  
 Alan Ayckbourn No other company details known
 

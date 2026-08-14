@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://betteroffdead.alanayckbourn.net/page-2/"
-order: 2075
+order: 2073
 play: "better-off-dead"
 ---
 

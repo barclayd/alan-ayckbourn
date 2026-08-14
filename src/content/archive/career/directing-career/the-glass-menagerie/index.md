@@ -8,17 +8,17 @@ order: 459
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Staging:**Tennessee Williams  
+**Venue:**  
+**Staging:**Tennessee Williams  
 No
 
 Victoria Theatre, Stoke-on-Trent  
-Round**First performance:  
-Opening night:  
-Final performance:**To be confirmed, 1963  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**To be confirmed, 1963  
 To be confirmed, 1963  
 To be confirmed, 1963
 

@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Michael Cashman"
 source: "http://advocates.alanayckbourn.net/page/page-69/"
-order: 2316
+order: 2314
 ---
 
 *Michael Cashman (the Rt Hon. The Lord Cashman CBE) is a British politician and former actor, who worked with Alan Ayckbourn at his home theatre in Scarborough early in his career. He found fame in the BBC television soap opera EastEnders as the first major gay character in a British soap. Since 2014, he has been the Labour Party's special envoy on LGBT issues worldwide for which he has campaigned extensively throughout his life.*

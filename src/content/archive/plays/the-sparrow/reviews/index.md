@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://thesparrow.alanayckbourn.net/styled-8/"
-order: 1006
+order: 1005
 play: "the-sparrow"
 ---
 

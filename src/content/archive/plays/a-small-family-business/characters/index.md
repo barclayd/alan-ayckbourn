@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://asmallfamilybusiness.alanayckbourn.net/styled-16/"
-order: 1437
+order: 1436
 play: "a-small-family-business"
 ---
 

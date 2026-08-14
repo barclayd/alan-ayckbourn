@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Michael Codron"
 source: "http://advocates.alanayckbourn.net/page/page-54/"
-order: 2376
+order: 2374
 ---
 
 *Michael Codron is a theatre producer who has worked with many of the major 20th century playwrights such as Harold Pinter, David Hare, Simon Grey and Tom Stoppard. Between 1972 and 2001, he was responsible for producing the vast majority of Alan Ayckbourn's plays produced in the commercial West End.*

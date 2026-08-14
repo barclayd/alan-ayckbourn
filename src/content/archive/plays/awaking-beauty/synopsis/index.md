@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://awakingbeauty.alanayckbourn.net/styled-3/page10.html"
-order: 1944
+order: 1942
 play: "awaking-beauty"
 ---
 

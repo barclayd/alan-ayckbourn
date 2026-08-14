@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://showandtell.alanayckbourn.net/styled-9/"
-order: 2158
+order: 2156
 play: "show-and-tell"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Significant Productions"
 source: "http://mrwhatnot.alanayckbourn.net/page16/"
-order: 967
+order: 966
 play: "mr-whatnot"
 ---
 
@@ -15,25 +15,18 @@ play: "mr-whatnot"
 **Venue:** Victoria Theatre, Stoke-on-Trent  
 **Staging:** Round
 
-**Director:** Alan Ayckbourn  **Character**  
-Mr Whatnot (Mint)  
-Lord Slingsby-Craddock  
-Lady Slingsby-Craddock  
-Amanda, their daughter  
-Cecil, her fiancé  
-A Tweedy Lady  
-Pedestrian / Butler / Vicar  
-A Gardener  
-A Maid **Actor**  
-Peter King  
-Stanley Page  
-Heather Stoney  
-Elizabeth Bell  
-Bernard Gallagher  
-Caroline Smith  
-David Spencer  
-Bernard Gallagher  
-Caroline Smith
+**Director:** Alan Ayckbourn
+
+**Character** **Actor**  
+**Mr Whatnot (Mint)** Peter King  
+**Lord Slingsby-Craddock** Stanley Page  
+**Lady Slingsby-Craddock** Heather Stoney  
+**Amanda, their daughter** Elizabeth Bell  
+**Cecil, her fiancé** Bernard Gallagher  
+**A Tweedy Lady** Caroline Smith  
+**Pedestrian / Butler / Vicar** David Spencer  
+**A Gardener** Bernard Gallagher  
+**A Maid** Caroline Smith
 
 ### London Premiere (1964)
 
@@ -89,27 +82,21 @@ Heather Stoney
 **Lighting:** Trevor Faulkner / Tony Braime  
 **Wardrobe:** Nettie Ross / Anita Courtney
 
-**Stage Manager:** Evelyn Stanley  **Character**  
-Mr Whatnot (Mint)  
-Lord Slingsby-Craddock  
-Lady Slingsby-Craddock  
-Amanda, their daughter  
-Cecil, her fiancé  
-A Tweedy Lady  
-Herbert the Butler  
-A Gardener  
-Agnes, the Maid  
-A Vicar **Actor**  
-Bob Peck  
-Len Shannon  
-Jane Wilson  
-Sue Clarkson  
-Mervyn Cumming  
-Jose Strauss  
-Alan Bowerman  
-Edwin Barraclough  
-Lynn Gibson  
-Jack Grimshaw  **Note:** It is unusual for this website to carry details of amateur productions of Alan Ayckbourn's plays. This production marked the first time Alan Ayckbourn directed the actor Bob Peck - at the time Alan was a BBC Radio Drama Producer in Leeds and he was the President of Leeds Art Theatre.
+**Stage Manager:** Evelyn Stanley
+
+**Character** **Actor**  
+**Mr Whatnot (Mint)** Bob Peck  
+**Lord Slingsby-Craddock** Len Shannon  
+**Lady Slingsby-Craddock** Jane Wilson  
+**Amanda, their daughter** Sue Clarkson  
+**Cecil, her fiancé** Mervyn Cumming  
+**A Tweedy Lady** Jose Strauss  
+**Herbert the Butler** Alan Bowerman  
+**A Gardener** Edwin Barraclough  
+**Agnes, the Maid** Lynn Gibson  
+**A Vicar** Jack Grimshaw
+
+**Note:** It is unusual for this website to carry details of amateur productions of Alan Ayckbourn's plays. This production marked the first time Alan Ayckbourn directed the actor Bob Peck - at the time Alan was a BBC Radio Drama Producer in Leeds and he was the President of Leeds Art Theatre.
 
 ### Revival (1976)
 
@@ -118,25 +105,18 @@ Jack Grimshaw  **Note:** It is unusual for this website to carry details of amat
 **Staging:** Round
 
 **Director:** Alan Ayckbourn  
-**Design:** Helga Wood  **Character**  
-Mr Whatnot (Mint)  
-Lord Slingsby-Craddock  
-Lady Slingsby-Craddock  
-Amanda, their daughter  
-Cecil, her fiancé  
-Mrs Grisley Williams  
-Herbert the Butler  
-A Gardener / Pedestrian  
-Agnes, the Maid **Actor**  
-Malcolm Hebden  
-Christopher Godwin  
-Heather Stoney  
-Diane Bull  
-Robin Herford  
-Alison Skilbeck  
-Bob Eaton  
-Bob Eaton  
-Wendy Murray
+**Design:** Helga Wood
+
+**Character** **Actor**  
+**Mr Whatnot (Mint)** Malcolm Hebden  
+**Lord Slingsby-Craddock** Christopher Godwin  
+**Lady Slingsby-Craddock** Heather Stoney  
+**Amanda, their daughter** Diane Bull  
+**Cecil, her fiancé** Robin Herford  
+**Mrs Grisley Williams** Alison Skilbeck  
+**Herbert the Butler** Bob Eaton  
+**A Gardener / Pedestrian** Bob Eaton  
+**Agnes, the Maid** Wendy Murray
 
 ### Revival (2013)
 

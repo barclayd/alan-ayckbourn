@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 source: "http://familyalbum.alanayckbourn.net/page-2/"
-order: 2127
+order: 2125
 play: "family-album"
 ---
 
@@ -9,8 +9,8 @@ play: "family-album"
 
 ### Related
 
-*“I’m still looking to make sure I haven’t left any unexplored areas of ways to tell stories theatrically, which are still original without recourse to video or other media. I’m very anxious that I continue that for as long as possible.”  
-Alan Ayckbourn*
+*“I’m still looking to make sure I haven’t left any unexplored areas of ways to tell stories theatrically, which are still original without recourse to video or other media. I’m very anxious that I continue that for as long as possible.”*  
+*Alan Ayckbourn*
 
 *Family Album* is a play which explores the relationships, connections and contrasts between three generations of a single family. Each era reflecting upon the other eras and characters.
 

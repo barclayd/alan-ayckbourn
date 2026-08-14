@@ -1,7 +1,7 @@
 ---
 title: "Notable Productions: A View From The Bridge - History"
 source: "http://aviewfromthebridge.alanayckbourn.net/styled/"
-order: 2383
+order: 2381
 play: "miller-arthur"
 ---
 

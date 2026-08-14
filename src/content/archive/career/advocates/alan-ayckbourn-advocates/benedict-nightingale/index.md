@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Benedict Nightingale (1930 - 2017)"
 source: "http://advocates.alanayckbourn.net/page/page-37/"
-order: 2357
+order: 2355
 ---
 
 *Benedict Nightingale was a journalist and theatre critic who worked extensively on The Guardian and The Times. As a critic he reviewed many West End premieres of Alan Ayckbourn's work and as a journalist, he conducted a humber of significant interviews with Alan Ayckbourn including Alan's first major television documentary.*

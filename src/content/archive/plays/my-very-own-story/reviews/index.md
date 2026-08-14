@@ -1,7 +1,7 @@
 ---
 title: "World Premiere Reviews"
 source: "http://myveryownstory.alanayckbourn.net/styled-8/"
-order: 1581
+order: 1580
 play: "my-very-own-story"
 ---
 

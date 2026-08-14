@@ -1,7 +1,7 @@
 ---
 title: "Character Notes by Alan Ayckbourn"
 source: "http://takingsteps.alanayckbourn.net/styled-16/"
-order: 1285
+order: 1284
 play: "taking-steps"
 ---
 

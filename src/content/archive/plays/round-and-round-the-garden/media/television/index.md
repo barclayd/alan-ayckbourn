@@ -1,7 +1,7 @@
 ---
 title: "The Norman Conquests: Alan Ayckbourn Discusses The Television Adaptation"
 source: "http://roundandroundthegarden.alanayckbourn.net/styled-9/styled-11/"
-order: 2540
+order: 2512
 play: "round-and-round-the-garden"
 ---
 
@@ -22,11 +22,11 @@ At far as affecting future box-office is concerned, the TV production of a stage
 **Channel:** ITV  
 **Duration:** 120mins each
 
-**Production:** Thames**Director  
-Design  
-Title Music  
-Producer  
-Producer**
+**Production:** Thames**Director**  
+**Design**  
+**Title Music**  
+**Producer**  
+**Producer**
 
 **Character**  
 Reg  

@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Libby Purves"
 source: "http://advocates.alanayckbourn.net/page/page-39/"
-order: 2361
+order: 2359
 ---
 
 *Libby Purves OBE is a journalist, theatre critic and broadcaster.*

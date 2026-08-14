@@ -8,38 +8,38 @@ order: 468
 
 ### Production Details
 
-**Book:  
-Lyrics:  
-Music:  
-New Play:**
+**Book:**  
+**Lyrics:**  
+**Music:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Roger Hall  
+**Venue:**  
+**Location:**  
+**Staging:**Roger Hall  
 A.K. Grant  
 Philip Norman  
 No
 
 Stephen Joseph Theatre In The Round  
 Main house (Round)  
-Round**First performance:  
-Opening night:  
-Final performance:**15 October 1993  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**15 October 1993  
 15 October 1993  
 20 November 1993
 
 ### Company Details
 
-**Director:  
-Musical Director:  
-Asst. Musical Director:  
-Choreography:  
-Lighting:  
-Design:**
+**Director:**  
+**Musical Director:**  
+**Asst. Musical Director:**  
+**Choreography:**  
+**Lighting:**  
+**Design:**
 
-**Stage Manager:  
-Deputy Stage Manager:  
-Assistant Stage Manager:**Alan Ayckbourn  
+**Stage Manager:**  
+**Deputy Stage Manager:**  
+**Assistant Stage Manager:**Alan Ayckbourn  
 John Pattison  
 Simon Cryer  
 Sheila Carter  

@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://truthwillout.alanayckbourn.net/styled-4/"
-order: 2294
+order: 2292
 play: "truth-will-out"
 ---
 

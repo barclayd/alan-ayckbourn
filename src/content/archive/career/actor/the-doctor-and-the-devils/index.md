@@ -1,60 +1,37 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page186/"
-order: 595
+order: 594
 ---
 
 ## The Doctor And The Devils (1964)
 
 ### Production Details
 
-**Play:**  
-**Author:**
+**Play:** The Doctor And The Devils  
+**Author:** Dylan Thomas  
+**First performance:** 18 May 1964  
+**Final performance:** 30 May 1964  
+**Venue:** Cardiff New, Cardiff  
+**Staging:** End-stage  
+**Director:** Warren Jenkins  
+**Design:** Elizabeth Friendship
 
-**First performance:  
-Final performance:**  
-**Venue:**  
-**Staging:**
-
-**Director:  
-Design:** The Doctor And The Devils  
-Dylan Thomas
-
-18 May 1964  
-30 May 1964  
-Cardiff New, Cardiff  
-End-stage
-
-Warren Jenkins  
-Elizabeth Friendship   **Character**  
-Narrator  
-Dr Knox  
-William Hare  
-William Burke  
-Elizabeth  
-John Murray  
-Mary Paterson  
-Dr Munro  
-Janet / Mrs Flynn  
-Daft Jamie  
-Nelly  
-Meg  
-Mrs Grey  
-Dr Barclay **Actor**  
-Peter Penry Jones  
-Bruce Montague  
-Christopher Godwin  
-John Dun-Hill  
-Brandon Iorwerth  
-Peter King  
-Sandra Hampton  
-Alec Wallis  
-Angela Newsome  
-Esmond Webb  
-Phyllis McMahon  
-Julia McCarthy  
-Elspeth MacNaughton  
-Alan Ayckbourn
+**Character** **Actor**  
+**Narrator** Peter Penry Jones  
+**Dr Knox** Bruce Montague  
+**William Hare** Christopher Godwin  
+**William Burke** John Dun-Hill  
+**Elizabeth** Brandon Iorwerth  
+**John Murray** Peter King  
+**Mary Paterson** Sandra Hampton  
+**Dr Munro** Alec Wallis  
+**Janet / Mrs Flynn** Angela Newsome  
+**Daft Jamie** Esmond Webb  
+**Nelly** Phyllis McMahon  
+**Meg** Julia McCarthy  
+**Mrs Grey** Elspeth MacNaughton  
+**Dr Barclay** Alan Ayckbourn
 
 ### Quotes & Notes
 

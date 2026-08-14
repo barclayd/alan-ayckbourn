@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://roleplay.alanayckbourn.net/styled-4/index.html"
-order: 1793
+order: 1791
 play: "roleplay"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Timeline"
 source: "http://lifeofriley.alanayckbourn.net/styled-2/"
-order: 1969
+order: 1967
 play: "life-of-riley"
 ---
 

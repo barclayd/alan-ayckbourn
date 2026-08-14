@@ -1,7 +1,7 @@
 ---
 title: "Publications About Alan Ayckbourn"
 source: "http://research.alanayckbourn.net/page-14/PublicationsTexts.html"
-order: 863
+order: 862
 ---
 
 This page contains details of books and publications dedicated to or with significant contributions concerning Alan Ayckbourn, his plays and his career in theatre. A guide to publications by Alan Ayckbourn including playtexts can be found in the **[Publications](/publications)** section of this website. **○ The Crafty Art of Playmaking**  
@@ -87,8 +87,8 @@ Author: Jeannie Swales
 **○ A Chorus of Disapproval: A Study Guide**  
 *The Gale Group, 2002, e-book, ISBN B00006G3BD*
 
-**○ Confusions To Roundelay: Stages In Ayckbourn’s  
-Creative Work**  
+**○ Confusions To Roundelay: Stages In Ayckbourn’s**  
+**Creative Work**  
 Author: Albert-Reiner Glaap  
 *Wissenschaftlicher Verlag Trier, 2015, ISBN 9783868216295***○ Conversations With Ayckbourn**  
 Author: Ian Watson  

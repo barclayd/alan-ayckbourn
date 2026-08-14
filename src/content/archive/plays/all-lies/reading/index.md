@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://alllies.alanayckbourn.net/styled-5/"
-order: 2120
+order: 2118
 play: "all-lies"
 ---
 

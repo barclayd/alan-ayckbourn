@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 source: "http://comicpotential.alanayckbourn.net/styled-9/"
-order: 1691
+order: 1689
 play: "comic-potential"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn & the Stephen Joseph Theatre: Plays Premiered"
 source: "http://careers.alanayckbourn.net/page-80/page-90/"
-order: 524
+order: 523
 ---
 
 This page lists all the plays written by Alan Ayckbourn and premiered at the Library Theatre, the Stephen Joseph Theatre In The Round or the Stephen Joseph Theatre. Further details about all these plays and productions can be found in **[The Plays](/plays)** section.

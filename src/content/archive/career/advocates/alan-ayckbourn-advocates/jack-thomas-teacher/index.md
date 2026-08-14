@@ -1,7 +1,7 @@
 ---
 title: "Advocates: Jack Thomas"
 source: "http://advocates.alanayckbourn.net/page/page-12/"
-order: 2379
+order: 2377
 ---
 
 *Jack Thomas was one of Alan Ayckbourn's tutors at Haileybury.*

@@ -8,27 +8,27 @@ order: 379
 
 ### Production Details
 
-**Author:  
-New Play:**
+**Author:**  
+**New Play:**
 
-**Venue:  
-Location:  
-Staging:**Tim Firth  
+**Venue:**  
+**Location:**  
+**Staging:**Tim Firth  
 Yes
 
 Stephen Joseph Theatre  
 The Round  
-Round**First performance:  
-Opening night:  
-Final performance:**25 April 2002  
+Round**First performance:**  
+**Opening night:**  
+**Final performance:**25 April 2002  
 30 April 2002  
 18 May 2002
 
 ### Company Details
 
-**Director:  
-Design:  
-Lighting:**
+**Director:**  
+**Design:**  
+**Lighting:**
 
 **Stage Manager:**Alan Ayckbourn  
 Michael Holt  

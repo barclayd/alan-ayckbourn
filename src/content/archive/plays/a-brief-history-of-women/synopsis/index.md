@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://abriefhistoryofwomen.alanayckbourn.net/styled-3/"
-order: 2061
+order: 2059
 play: "a-brief-history-of-women"
 ---
 
@@ -10,8 +10,8 @@ play: "a-brief-history-of-women"
 **Availability:** *A Brief History of Women* is available for both professional and amateur production.  
 **Acting Edition:** Published by **[Samuel French](http://www.concordtheatricals.co.uk/s/64510/a-brief-history-of-women/)**.
 
-*A Brief History of Women is set on the ground floor of Kirkbridge Manor, a Georgian country house, with four separate areas denoted (initially parts of the hall and main staircase, study, ballroom and terrace). Over the course of the play, the house changes function with the type of rooms altered accordingly.  
-Despite the fact the dividing walls are invisible and the doors to the rooms mimed, the sound-proofing is extremely effective and we only hear what Spates hears.*
+*A Brief History of Women is set on the ground floor of Kirkbridge Manor, a Georgian country house, with four separate areas denoted (initially parts of the hall and main staircase, study, ballroom and terrace). Over the course of the play, the house changes function with the type of rooms altered accordingly.*  
+*Despite the fact the dividing walls are invisible and the doors to the rooms mimed, the sound-proofing is extremely effective and we only hear what Spates hears.*
 
 **Part 1: At Kirkbridge Manor, 1925**
 

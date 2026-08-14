@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Encyclopaedia: R"
 source: "http://encyclopedia.alanayckbourn.net/page-20/styled-18/R.html"
-order: 701
+order: 700
 ---
 
 **[Radio:](/career/bbc-career)** A frequently over-looked aspect of Alan Ayckbourn's career is the impact of radio on his life. Between 1964 and 1970, Alan Ayckbourn worked as a radio drama producer for the BBC, based in Leeds. There he worked closely with Alfred Bradley, who would be another important figure in his life. Aside from this, radio has been the most prolific multi-media adaptor of Alan Ayckbourn's plays - the majority of which have been produced by the BBC (see below for details).
