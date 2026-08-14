@@ -8,26 +8,22 @@ order: 643
 
 ### Production Details
 
-**Author:**
+**Author:** Pam Tickell  
+**Broadcast:** 31 July 1968 @ 11.30am  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Pam Tickell
+**Director:**  
+Alan Ayckbourn
 
-31 July 1968 @ 11.30am  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Thomas Gutteridge  
-Mrs Baggin  
-Woman  
-Mr Price  
-Spider  
-Big Riley**Actor**  
-Frank Marlborough  
-Heather Stoney  
-Ruth Holden  
-Colin Bell  
-David Valla  
-Chris Canavan
+**Character** **Actor**  
+**Thomas Gutteridge** Frank Marlborough  
+**Mrs Baggin** Heather Stoney  
+**Woman** Ruth Holden  
+**Mr Price** Colin Bell  
+**Spider** David Valla  
+**Big Riley** Chris Canavan
 
 ### Notes
 
-○ *Lucky For Some* was broadcast as part of a series of five morning plays titled *Of Men And Beasts*.*All research for this page by Simon Murgatroyd.*
+○ *Lucky For Some* was broadcast as part of a series of five morning plays titled *Of Men And Beasts*.  
+*All research for this page by Simon Murgatroyd.*

@@ -8,14 +8,15 @@ order: 650
 
 ### Production Details
 
-**Author:**
+**Author:** Norman Swallow  
+**Broadcast:** 19 August 1969 @ 9.15pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Norman Swallow
-
-19 August 1969 @ 9.15pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Roles unknown**Actor**  
+**Director:**  
+Alan Ayckbourn  
+**Character**  
+Roles unknown  
+**Actor**  
 John McGregor  
 James Beck  
 Jeremy Franklin  
@@ -27,4 +28,5 @@ John Linstrum
 
 ### Notes
 
-○ *Peacably If We May* was inspired by the events of the Peterloo Massacre in 1819.*All research for this page by Simon Murgatroyd.*
+○ *Peacably If We May* was inspired by the events of the Peterloo Massacre in 1819.  
+*All research for this page by Simon Murgatroyd.*

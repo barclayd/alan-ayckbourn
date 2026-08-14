@@ -22,28 +22,17 @@ At far as affecting future box-office is concerned, the TV production of a stage
 **Channel:** ITV  
 **Duration:** 120mins each
 
-**Production:** Thames**Director**  
-**Design**  
-**Title Music**  
-**Producer**  
-**Producer**
+**Production:** Thames
 
-**Character**  
-Reg  
-Sarah  
-Ruth  
-Norman  
-Annie  
-TomHerbert Wise  
-David Marshall  
-Wilfred Josephs  
-Verity Lambert  
-David Susskind
-
-**Actor**  
-Richard Briers  
-Penelope Keith  
-Fiona Walker  
-Tom Conti  
-Penelope Wilton  
-David Troughton
+**Director** Herbert Wise  
+**Design** David Marshall  
+**Title Music** Wilfred Josephs  
+**Producer** Verity Lambert  
+**Producer** David Susskind  
+**Character** **Actor**  
+**Reg** Richard Briers  
+**Sarah** Penelope Keith  
+**Ruth** Fiona Walker  
+**Norman** Tom Conti  
+**Annie** Penelope Wilton  
+**Tom** David Troughton

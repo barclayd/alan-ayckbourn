@@ -69,7 +69,8 @@ The Chimes \*
 Just Between Ourselves \*  
 Comic Pictures: Cards  
 Comic Pictures: Stars \*  
-Mother Country \***Stephen Joseph Theatre**  
+Mother Country \*  
+**Stephen Joseph Theatre**  
 **1996**  
 By Jeeves \*  
 Wild Honey  
@@ -219,7 +220,8 @@ Show & Tell \*
 Earth Angel \*
 
 **2026**  
-The Trial of Romeo Oscar \***Stephen Joseph Theatre In The Round**  
+The Trial of Romeo Oscar \*  
+**Stephen Joseph Theatre In The Round**  
 **1976**  
 Mr Whatnot  
 The Caretaker
@@ -367,4 +369,5 @@ The Musical Jigsaw Play \*
 
 **1995**  
 A Word From Our Sponsor \*  
-Betrayal*All research for this section by Simon Murgatroyd. Please do not reproduce without crediting Simon Murgatroyd and the website.*
+Betrayal  
+*All research for this section by Simon Murgatroyd. Please do not reproduce without crediting Simon Murgatroyd and the website.*

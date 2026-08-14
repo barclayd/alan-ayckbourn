@@ -8,61 +8,39 @@ order: 458
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** André Obey  
+**New Play:** No  
+**Venue:** The Library Theatre  
+**Location:** Lecture Room, Scarborough Library  
+**Staging:** Three-sided
 
-**Venue:**  
-**Location:**  
-**Staging:**André Obey  
-No
-
-The Library Theatre  
-Lecture Room, Scarborough Library  
-Three-sided**First performance:**  
-**Opening night:**  
-**Final performance:**  
-27 December 1974  
-27 December 1974  
-11 January 1975
+**First performance:** 27 December 1974  
+**Opening night:** 27 December 1974  
+**Final performance:** 11 January 1975
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Costumes:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Design:** Helga Wood  
+**Costumes:** Christine Welch  
+**Music:** Paul Todd  
+**Stage Manager:** David Millard  
+**Deputy Stage Manager:** Kevin Wood  
+**Assistant Stage Manager:** Richard Roscoe  
+**Assistant Stage Manager:** Anne Orwin
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Helga Wood  
-Christine Welch  
-Paul Todd
-
-David Millard  
-Kevin Wood  
-Richard Roscoe  
-Anne Orwin**Character**  
-Blackwill, a watchman  
-Bradshaw, the blacksmith  
-John Green, a clerk  
-Scott, the tailor  
-Dodger, the butcher  
-Lowell, the carpenter  
-Hodge, the cobble  
-Alice, a serving maid  
-Goodlack, the inn-keeper**Actor**  
-Carl Forgione  
-Christopher Godwin  
-Stuart Doughty  
-Stephen Mallatratt  
-Ray Jewers  
-Kevin Wood  
-Paul Webster  
-Eileen O'Brien  
-Bob Eaton
+**Character** **Actor**  
+**Blackwill, a watchman** Carl Forgione  
+**Bradshaw, the blacksmith** Christopher Godwin  
+**John Green, a clerk** Stuart Doughty  
+**Scott, the tailor** Stephen Mallatratt  
+**Dodger, the butcher** Ray Jewers  
+**Lowell, the carpenter** Kevin Wood  
+**Hodge, the cobble** Paul Webster  
+**Alice, a serving maid** Eileen O'Brien  
+**Goodlack, the inn-keeper** Bob Eaton
 
 ### Notes
 
-○ During the 1974 and 1975 winter seasons at the Library Theatre, Scarborough, the Library Committee did not make the venue's Concert Room available; this room being where the Library Theatre had been based since 1955. In its place, a smaller room on the same floor - the Lecture Room - was offered but which could not incorporate theatre-in-the-round with productions performed three-sided (thrust).*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ During the 1974 and 1975 winter seasons at the Library Theatre, Scarborough, the Library Committee did not make the venue's Concert Room available; this room being where the Library Theatre had been based since 1955. In its place, a smaller room on the same floor - the Lecture Room - was offered but which could not incorporate theatre-in-the-round with productions performed three-sided (thrust).  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

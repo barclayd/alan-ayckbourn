@@ -11,1533 +11,505 @@ Alan was Artistic Director of the company at all three of its homes: Theatre in 
 \* indicates new play.....(S) indicates Studio at the Stephen Joseph Theatre In The Round  
 (M) indicates The McCarthy at the Stephen Joseph Theatre.....(R) indicates The Restaurant / Bistro at the Stephen Joseph Theatre.
 
-### Play Title
+### Plays Produced Whilst Artistic Director in Scarborough
 
+**Play Title** **Playwright** **Opening night**  
 **1969**  
-The Dynamic Death-Defying Leap Of  
-Timothy Satupon The Great \*  
-A Little Stiff Built Chap \*  
-Ask Me Tomorrow  
-How The Other Half Loves \*
-
+**The Dynamic Death-Defying Leap Of** **Peter Hawkins** 23 June 1969  
+**Timothy Satupon The Great \***  
+**A Little Stiff Built Chap \*** **Leonard Barras** 3 July 1969  
+**Ask Me Tomorrow** **Stan Barstow** 17 July 1969  
+**How The Other Half Loves \*** **Alan Ayckbourn** 31 July 1969  
 **1970**  
-Wife Swapping - Italian Style  
-Double Bill: The American Dream  
-Double Bill: The Sandbox  
-The Shy Gasman \*  
-The Story So Far… \*
-
+**Wife Swapping - Italian Style** **Leon Katz** 15 June 1970  
+**Double Bill: The American Dream** **Edward Albee** 18 June 1970  
+**Double Bill: The Sandbox** **Edward Albee**  
+**The Shy Gasman \*** **Leonard Barras** 16 July 1970  
+**The Story So Far… \*** **Alan Ayckbourn** 20 August 1970  
 **1971**  
-This season was programmed by Caroline Smith
-
+**This season was programmed by Caroline Smith**  
 **1972**  
-Carmilla \*  
-Absurd Person Singular \*  
-Uncle Vanya  
-Tom, Dick And Harry \*  
-Tranio’s Box \*
-
+**Carmilla \*** **David Campton** 19 June 1972  
+**Absurd Person Singular \*** **Alan Ayckbourn** 26 June 1972  
+**Uncle Vanya** **Chekhov** 17 July 1972  
+**Tom, Dick And Harry \*** **Peter Blythe** 7 August 1972  
+**Tranio’s Box \*** **Jennifer Smith** 9 August 1972  
 **1973**  
-Fancy Meeting You \*  
-Make Yourself At Home \*  
-Round And Round The Garden \*  
-The above comprise The Norman Conquests  
-Having A Lovely Time \*  
-All Together Now \*
-
+**Fancy Meeting You \*** **Alan Ayckbourn** 18 June 1973  
+**Make Yourself At Home \*** **Alan Ayckbourn** 25 June 1973  
+**Round And Round The Garden \*** **Alan Ayckbourn** 9 July 1973  
+**The above comprise The Norman Conquests**  
+**Having A Lovely Time \*** **Peter Blythe** 30 July 1973  
+**All Together Now \*** **Peter King** 20 August 1973  
 **1974**  
-Absent Friends \*  
-Double Bill: Black Comedy  
-Double Bill: Albert  
-Away From It All \*  
-The Breadwinner  
-Confusions \*  
-On Approval  
-But Fred Freud Is Dead  
-The Christmas That Nearly Wasn’t \*  
-Frost At Midnight
-
+**Absent Friends \*** **Alan Ayckbourn** 17 June 1974  
+**Double Bill: Black Comedy** **Peter Shaffer** 24 June 1974  
+**Double Bill: Albert** **Richard Harris**  
+**Away From It All \*** **Peter King** 15 July 1974  
+**The Breadwinner** **Somerset Maugham** 12 August 1974  
+**Confusions \*** **Alan Ayckbourn** 30 September 1974  
+**On Approval** **Frederick Lonsdale** 22 November 1974  
+**But Fred Freud Is Dead** **Peter Terson** 6 December 1974  
+**The Christmas That Nearly Wasn’t \*** **Janet Dale** 23 December 1974  
+**Frost At Midnight** **Andre Obey** 27 December 1974  
 **1975**  
-Bedroom Farce \*  
-On Approval  
-Angels In Love  
-Confusions  
-The Adventures Of Bongo Bungle \*  
-The Village That Woke Up Asleep \*  
-Brontës \*  
-An Englishman’s Home \*  
-A View From The Bridge  
-What The Devil! \*  
-Charlie’s Christmas Countdown \*  
-The Chimes \*
-
+**Bedroom Farce \*** **Alan Ayckbourn** 16 June 1975  
+**On Approval** **Frederick Lonsdale** 23 June 1975  
+**Angels In Love** **Hugh Mills** 14 July 1975  
+**Confusions** **Alan Ayckbourn** 4 August 1975  
+**The Adventures Of Bongo Bungle \*** **Janet Dale** 23 August 1975  
+**The Village That Woke Up Asleep \*** **Janet Dale** 30 August 1975  
+**Brontës \*** **Bob Eaton / Peter Clough** 22 September 1975  
+**An Englishman’s Home \*** **Stephen Mallatratt** 15 October 1975  
+**A View From The Bridge** **Arthur Miller** 12 November 1975  
+**What The Devil! \*** **Bob Eaton / Polly Warren** 26 November 1975  
+**Charlie’s Christmas Countdown \*** **Janet Dale** 9 December 1975  
+**The Chimes \*** **Stephen Mallatratt** 18 December 1975  
 **1976 (Library Theatre)**  
-Just Between Ourselves \*  
-All The Best People  
-Just Between Ourselves  
-Comic Pictures: Cards  
-Comic Pictures: Stars \*  
-The Mystery Of The Lost City \*  
-The Adventures Of Dirty Dick \*  
-Mother Country \*
-
+**Just Between Ourselves \*** **Alan Ayckbourn** 28 January 1976  
+**All The Best People** **Moliere** 14 June 1976  
+**Just Between Ourselves** **Alan Ayckbourn** 21 June 1976  
+**Comic Pictures: Cards** **Stephen Lowe** 21 July 1976  
+**Comic Pictures: Stars \*** **Stephen Lowe**  
+**The Mystery Of The Lost City \*** **Janet Dale** 31 July 1976  
+**The Adventures Of Dirty Dick \*** **Devised** Tour  
+**Mother Country \*** **Stephen Mallatratt** 25 August 1976  
 **1976 (Stephen Joseph Theatre In The Round)**  
-Mr Whatnot  
-The Guv’nor \*  
-The Caretaker  
-Robin Hood And The Magic Forest \*  
-Scraps \*
-
+**Mr Whatnot** **Alan Ayckbourn** 26 October 1976  
+**The Guv’nor \*** **Christopher Godwin** 15 November 1976  
+**The Caretaker** **Harold Pinter** 23 November 1976  
+**Robin Hood And The Magic Forest \*** **Bob Eaton** 14 December 1976  
+**Scraps \*** **Malcolm Hebden / Diane Bull** School tour  
 **1977**  
-Dear Liar  
-Ten Times Table \*  
-Fallen Angels  
-Sleuth  
-Westwood Coronation Day Street Party \* (S)  
-The Jubilee Show \*  
-The Rehearsal  
-The Dock Brief (S)  
-Relatively Speaking  
-Bert Podger & The Great Game Robbery \*  
-Shooting, Fishing And Riding \* (S)  
-Housey, Housey \* (S)  
-Who’s Afraid Of Virginia Woolf  
-Pygmalion  
-A Man For All Seasons  
-Beano And The Great Christmas Cracker Mystery  
-Hindle Wakes
-
+**Dear Liar** **Jerome Kilty** 3 January 1977  
+**Ten Times Table \*** **Alan Ayckbourn** 18 January 1977  
+**Fallen Angels** **Noel Coward** 28 March 1977  
+**Sleuth** **Anthony Shaffer** 19 April 1977  
+**Westwood Coronation Day Street Party \* (S)** **Bob Eaton** 29 April 1977  
+**The Jubilee Show \*** **Alan Ayckbourn / Mervyn Watson** 7 June 1977  
+**The Rehearsal** **Anouilh** 21 June 1977  
+**The Dock Brief (S)** **John Mortimer** 24 June 1977  
+**Relatively Speaking** **Alan Ayckbourn** 27 June 1977  
+**Bert Podger & The Great Game Robbery \*** **Janet Dale** 23 July 1977  
+**Shooting, Fishing And Riding \* (S)** **Stephen Lowe** 20 August 1977  
+**Housey, Housey \* (S)** **Alison Skilbeck** 26 August 1977  
+**Who’s Afraid Of Virginia Woolf** **Edward Albee** 4 October 1977  
+**Pygmalion** **George Bernard Shaw** 11 October 1977  
+**A Man For All Seasons** **Robert Bolt** 8 November 1977  
+**Beano And The Great Christmas Cracker Mystery** **Janet Dale** 6 December 1977  
+**Hindle Wakes** **Stanley Houghton** 12 December 1977  
 **1978**  
-Joking Apart \*  
-Rookery Nook  
-Reversed Charges \* (S)  
-Doreen  
-Men On Women On Men \* (S)  
-Plaza Suite  
-On Me Todd \* (S)  
-This, That And The Other \* (S)  
-The Wizard Of Oz  
-A Little Arrangement \* (S)  
-Travelling Hopefully \*  
-Barnstable (S)  
-The Ruffian On The Stair (S)  
-Patriotic Bunting \*  
-Rosencrantz And Guildenstern Are Dead  
-Once Upon A Time \*
-
+**Joking Apart \*** **Alan Ayckbourn** 11 January 1978  
+**Rookery Nook** **Ben Travers** 2 May 1978  
+**Reversed Charges \* (S)** **Mervyn Watson** 5 May 1978  
+**Doreen** **Alun Owen** 23 May 1978  
+**Men On Women On Men \* (S)** **Alan Ayckbourn / Paul Todd** 17 June 1978  
+**Plaza Suite** **Neil Simon** 20 June 1978  
+**On Me Todd \* (S)** **Paul Todd** 28 June 1978  
+**This, That And The Other \* (S)** **Devised** 5 July 1978  
+**The Wizard Of Oz** **David Millard** 8 July 1978  
+**A Little Arrangement \* (S)** **Derek Buttress** 21 July 1978  
+**Travelling Hopefully \*** **Ken Whitmore** 25 July 1978  
+**Barnstable (S)** **James Saunders** 22 August 1978  
+**The Ruffian On The Stair (S)** **Joe Orton** 26 August 1978  
+**Patriotic Bunting \*** **Brian Thompson** 10 October 1978  
+**Rosencrantz And Guildenstern Are Dead** **Tom Stoppard** 7 November 1978  
+**Once Upon A Time \*** **Christine Welch** 5 December 1978  
 **1979**  
-Sisterly Feelings \*  
-The Seagull  
-Mooney And His Caravans (S)  
-Kidstuff \* (S)  
-Old Hat \* (S)  
-Barefoot In The Park  
-Saint Trixie \* (S)  
-New Wave \* (S)  
-Old Times (S)  
-Tishoo \*  
-Double Double (S)  
-Taking Steps \*  
-The Crucible  
-Once More Upon A Time \*  
-The Golden Pathway Annual (S)
-
+**Sisterly Feelings \*** **Alan Ayckbourn** 10 January 1979  
+**The Seagull** **Chekhov** 1 May 1979  
+**Mooney And His Caravans (S)** **Peter Terson** 4 May 1979  
+**Kidstuff \* (S)** **Tessa Harrison** 25 May 1979  
+**Old Hat \* (S)** **Devised** 6 June 1979  
+**Barefoot In The Park** **Neil Simon** 19 June 1979  
+**Saint Trixie \* (S)** **Stephen Mallatratt** 23 June 1979  
+**New Wave \* (S)** **Devised** 27 June 1979  
+**Old Times (S)** **Harold Pinter** 14 July 1979  
+**Tishoo \*** **Brian Thompson** 24 July 1979  
+**Double Double (S)** **James Saunders** 17 August 1979  
+**Taking Steps \*** **Alan Ayckbourn** 27 September 1979  
+**The Crucible** **Arthur Miller** 6 November 1979  
+**Once More Upon A Time \*** **Christine Welch** 4 December 1979  
+**The Golden Pathway Annual (S)** **John Harding / John Burrows** 11 December 1979  
 **1980**  
-Suburban Strains \*  
-Time And The Conways  
-Taking Steps  
-First Course \* (S)  
-Absolutely Free \*  
-Second Helping \* (S)  
-Trailer \* (S)  
-Season’s Greetings \*  
-The Importance Of Being Earnest  
-Simple Simon  
-Clouds (S)
-
+**Suburban Strains \*** **Alan Ayckbourn** 17 January 1980  
+**Time And The Conways** **J.B.Priestley** 4 June 1980  
+**Taking Steps** **Alan Ayckbourn**  
+**First Course \* (S)** **Alan Ayckbourn** 8 July 1980  
+**Absolutely Free \*** **Stephen Lavell** 16 July 1980  
+**Second Helping \* (S)** **Alan Ayckbourn** 5 August 1980  
+**Trailer \* (S)** **Paul Copley** 8 August 1980  
+**Season’s Greetings \*** **Alan Ayckbourn** 25 September 1980  
+**The Importance Of Being Earnest** **Oscar Wilde** 6 November 1980  
+**Simple Simon** **Polly Warren** 2 December 1980  
+**Clouds (S)** **Michael Frayn** 10 December 1980  
 **1981**  
-Season’s Greetings  
-The Conservatory \*  
-Me \* (S)  
-Prologue \* (S)  
-Tapster \*  
-Myself \* (S)  
-I \* (S)  
-Epilogue \* (S)  
-Out Front \* (S)  
-You Should See Us Now \*  
-Way Upstream \*  
-Twelfth Night  
-The Vanishing \*  
-Making Tracks \*
-
+**Season’s Greetings** **Alan Ayckbourn**  
+**The Conservatory \*** **Brian Thompson** 28 May 1981  
+**Me \* (S)** **Alan Ayckbourn** 2 June 1981  
+**Prologue \* (S)** **Alan Ayckbourn** 30 June 1981  
+**Tapster \*** **Paul Copley** 1 July 1981  
+**Myself \* (S)** **Alan Ayckbourn** 8 July 1981  
+**I \* (S)** **Alan Ayckbourn** 9 July 1981  
+**Epilogue \* (S)** **Alan Ayckbourn** 10 July 1981  
+**Out Front \* (S)** **Trevor Cooper** 8 August 1981  
+**You Should See Us Now \*** **Peter Tinniswood** 12 August 1981  
+**Way Upstream \*** **Alan Ayckbourn** 2 October 1981  
+**Twelfth Night** **Shakespeare** 11 November 1981  
+**The Vanishing \*** **Polly Warren** 1 December 1981  
+**Making Tracks \*** **Alan Ayckbourn** 15 December 1981  
 **1982**  
-Butley  
-Intimate Exchanges \*  
-ABC… (S)  
-…XYZ (S)  
-Saturday, Sunday, Monday  
-Making Tracks  
-A Trip To Scarborough \*
-
+**Butley** **Simon Gray** 20 January 1982  
+**Intimate Exchanges \*** **Alan Ayckbourn** 3 June 1982  
+**ABC… (S)** **Various** 29 June 1982  
+**…XYZ (S)** **Various** 1 July 1982  
+**Saturday, Sunday, Monday** **Eduardo di Filippo** 15 September 1982  
+**Making Tracks** **Alan Ayckbourn**  
+**A Trip To Scarborough \*** **Alan Ayckbourn** 8 December 1982  
 **1983**  
-Intimate Exchanges \*  
-Incidental Music \* (S)  
-At The End Of The Day \*  
-Backnumbers 1-10 \* (S)  
-Backnumbers 11-20 \* (S)  
-Before Your Very Eyes \*  
-The Winslow Boy  
-It Could Be Any One Of Us \*  
-She Stoops To Conquer  
-Thark
-
+**Intimate Exchanges \*** **Alan Ayckbourn** 4 January 1983  
+**Incidental Music \* (S)** **Alan Ayckbourn** 12 January 1983  
+**At The End Of The Day \*** **Peter Tinniswood** 13 July 1983  
+**Backnumbers 1-10 \* (S)** **Alan Ayckbourn** 19 July 1983  
+**Backnumbers 11-20 \* (S)** **Alan Ayckbourn** 21 July 1983  
+**Before Your Very Eyes \*** **Michael Cashman** 10 August 1983  
+**The Winslow Boy** **Terence Rattigan** 7 September 1983  
+**It Could Be Any One Of Us \*** **Alan Ayckbourn** 5 October 1983  
+**She Stoops To Conquer** **Oliver Goldsmith** 2 November 1983  
+**Thark** **Ben Travers** 30 November 1983  
 **1984**  
-The Seven Deadly Virtues \*  
-A Chorus Of Disapproval \*  
-The Dresser  
-The Westwoods: Her Side\* (S)  
-The Westwoods: His Side \* (S)  
-The Linden Tree  
-Bricks 'n Mortar \*  
-Last Of The Red Hot Lovers  
-The Dining Room  
-A Thousand Clowns  
-His Monkey Wife
-
+**The Seven Deadly Virtues \*** **Alan Ayckbourn** 5 January 1984  
+**A Chorus Of Disapproval \*** **Alan Ayckbourn** 2 May 1984  
+**The Dresser** **Ronald Harwood** 23 May 1984  
+**The Westwoods: Her Side\* (S)** **Alan Ayckbourn** 29 May 1984  
+**The Westwoods: His Side \* (S)** **Alan Ayckbourn** 31 May 1984  
+**The Linden Tree** **J.B. Priestley** 27 June 1984  
+**Bricks 'n Mortar \*** **Michael Cashman** 22 August 1984  
+**Last Of The Red Hot Lovers** **Neil Simon** 26 September 1984  
+**The Dining Room** **A.R. Gurney** 24 October 1984  
+**A Thousand Clowns** **Herb Gardner** 21 November 1984  
+**His Monkey Wife** **Sandy Wilson** 19 December 1984  
 **1985**  
-Boy Meets Girl \* (S)  
-Girl Meets Boy \* (S)  
-Woman in Mind \*  
-Imaginary Lines \*  
-Can’t Pay? Won’t Pay!  
-Family Circles  
-The Brontes Of Haworth Part 1  
-The Brontes Of Haworth Part 2  
-Tons Of Money
-
+**Boy Meets Girl \* (S)** **Alan Ayckbourn** 23 May 1985  
+**Girl Meets Boy \* (S)** **Alan Ayckbourn** 25 May 1985  
+**Woman in Mind \*** **Alan Ayckbourn** 30 May 1985  
+**Imaginary Lines \*** **R.R. Oliver** 12 June 1985  
+**Can’t Pay? Won’t Pay!** **Dario Fo** 17 July 1985  
+**Family Circles** **Alan Ayckbourn** 4 September 1985  
+**The Brontes Of Haworth Part 1** **Christopher Fry / Kerry Gardner** 11 October 1985  
+**The Brontes Of Haworth Part 2** **Christopher Fry / Kerry Gardner** 12 October 1985  
+**Tons Of Money** **Will Evans And Valentine** 11 December 1985  
 **1986**  
-Mere Soup Songs \* (S)  
-Time And Time Again  
-Blithe Spirit  
-Touch Wood And Whistle \*  
-Pay Day Night \* (S)  
-Benefactors  
-Calling \*  
-Sergeant Musgrave’s Dance  
-School For Clowns
-
+**Mere Soup Songs \* (S)** **Alan Ayckbourn** 22 May 1986  
+**Time And Time Again** **Alan Ayckbourn** 29 May 1986  
+**Blithe Spirit** **Noel Coward** 11 June 1986  
+**Touch Wood And Whistle \*** **Stephen Mallatratt** 16 July 1986  
+**Pay Day Night \* (S)** **Stephen Mallatratt** 8 August 1986  
+**Benefactors** **Michael Frayn** 17 September 1986  
+**Calling \*** **Paul Copley** 16 October 1986  
+**Sergeant Musgrave’s Dance** **John Arden** 12 November 1986  
+**School For Clowns** **F Waechter / Ken Campbell** 10 December 1986  
 **1987**  
-Time And Time Again  
-Spokesong  
-Falkland Sound (S)  
-Getting On  
-A Galway Girl (S)  
-Regressions (S)  
-Bar And Ger (S)  
-Henceforward… \*  
-100% All Talking (S)  
-Wonderland *(announced but not produced)*  
-Educating Rita  
-All My Sons  
-Old King Cole  
-The Woman In Black \* (S)
-
+**Time And Time Again** **Alan Ayckbourn**  
+**Spokesong** **Stewart Parker** 2 June 1987  
+**Falkland Sound (S)** **David Tinker** 4 June 1987  
+**Getting On** **Alan Bennett** 24 June 1987  
+**A Galway Girl (S)** **Geraldine Aron** 30 June 1987  
+**Regressions (S)** **William Haden** 10 July 1987  
+**Bar And Ger (S)** **Geraldine Aron** 14 July 1987  
+**Henceforward… \*** **Alan Ayckbourn** 30 July 1987  
+**100% All Talking (S)** **Michael Roberts** 21 August 1987  
+**Wonderland *(announced but not produced)*** **Stephen Mallatratt** Not produced  
+**Educating Rita** **Willy Russell** 30 September 1987  
+**All My Sons** **Arthur Miller** 4 November 1987  
+**Old King Cole** **Ken Campbell** 2 December 1987  
+**The Woman In Black \* (S)** **Stephen Mallatratt** 11 December 1987  
 **1988**  
-Henceforward…  
-Chances \* (S)  
-Eden End  
-Henceforward…  
-The Parasol \*  
-The Haunt Of Mr Fossett \* (S)  
-Potholes (S)  
-Joggers (S)  
-Man Of The Moment \*  
-The Ballroom \*  
-The Beaux Stratagem  
-Mr A’s Amazing Maze Plays \*  
-The Turn Of The Screw \*
-
+**Henceforward…** **Alan Ayckbourn**  
+**Chances \* (S)** **Susan Hill** 31 May 1988  
+**Eden End** **J.B. Priestley** 2 June 1988  
+**Henceforward…** **Alan Ayckbourn**  
+**The Parasol \*** **Frank Dunai** 6 July 1988  
+**The Haunt Of Mr Fossett \* (S)** **Stephen Mallatratt** 7 July 1988  
+**Potholes (S)** **Gus Kaikonnen** 15 July 1988  
+**Joggers (S)** **Geraldine Aron** 15 July 1988  
+**Man Of The Moment \*** **Alan Ayckbourn** 10 August 1988  
+**The Ballroom \*** **Peter King** 14 September 1988  
+**The Beaux Stratagem** **George Farquhar** 2 November 1988  
+**Mr A’s Amazing Maze Plays \*** **Alan Ayckbourn** 30 November 1988  
+**The Turn Of The Screw \*** **Stephen Mallatratt** 7 December 1988  
 **1989**  
-The Revengers’ Comedies \*  
-The Donkeys Are Eating Their Lunch \* (S)  
-Pull For The Shore \* (S)  
-Sand In The Sandwiches \* (S)  
-June Moon  
-The Inside Outside Slide Show \* (S)  
-Wolf At The Door  
-Brighton Beach Memoirs  
-Invisible Friends \*  
-Absurd Person Singular
-
+**The Revengers’ Comedies \*** **Alan Ayckbourn** 5 June 1989  
+**The Donkeys Are Eating Their Lunch \* (S)** **John Pattison** 13 June 1989  
+**Pull For The Shore \* (S)** **John Pattison** 14 June 1989  
+**Sand In The Sandwiches \* (S)** **John Pattison** 15 June 1989  
+**June Moon** **Kaufmann / Lardner** 19 July 1989  
+**The Inside Outside Slide Show \* (S)** **Alan Ayckbourn** 22 July 1989  
+**Wolf At The Door** **Henry Becque** 27 September 1989  
+**Brighton Beach Memoirs** **Neil Simon** 25 October 1989  
+**Invisible Friends \*** **Alan Ayckbourn** 22 November 1989  
+**Absurd Person Singular** **Alan Ayckbourn** 20 December 1989  
 **1990**  
-Body Language \*  
-Alphabetical Order  
-Doris And Doreen (S)  
-Three Men In A Boat \* (S)  
-Say Something Happened (S)  
-This Is Where We Came In \*  
-Abiding Passions \*  
-Othello  
-The Price  
-Taking Steps  
-Callisto 5 \*
-
+**Body Language \*** **Alan Ayckbourn** 16 May 1990  
+**Alphabetical Order** **Michael Frayn** 13 June 1990  
+**Doris And Doreen (S)** **Alan Bennett** 4 July 1990  
+**Three Men In A Boat \* (S)** **Blake Heathcote** 5 July 1990  
+**Say Something Happened (S)** **Alan Bennett** 13 July 1990  
+**This Is Where We Came In \*** **Alan Ayckbourn** 4 August 1990  
+**Abiding Passions \*** **Derrick Goodwin** 8 August 1990  
+**Othello** **Shakespeare** 26 September 1990  
+**The Price** **Arthur Miller** 31 October 1990  
+**Taking Steps** **Alan Ayckbourn** 28 November 1990  
+**Callisto 5 \*** **Alan Ayckbourn** 12 December 1990  
 **1991**  
-Same Time, Next Year  
-Wildest Dreams \*  
-Closing Number \* (S)  
-Augustus Carp, Esq. \* (S)  
-The Village Fête \*  
-A Man Of Letters \* (S)  
-Can This Be Love?  
-Rutherford And Son  
-Breaking Legs  
-My Very Own Story \*  
-To  
-Dangerous Obsession  
-This Is Where We Came In  
-Confusions
-
+**Same Time, Next Year** **Bernard Slade** 9 January 1991  
+**Wildest Dreams \*** **Alan Ayckbourn** 1 May 1991  
+**Closing Number \* (S)** **Cass Allen** 28 May 1991  
+**Augustus Carp, Esq. \* (S)** **Blake Heathcote** 30 May 1991  
+**The Village Fête \*** **Peter Tinniswood** 5 June 1991  
+**A Man Of Letters \* (S)** **Tim Firth** 12 June 1991  
+**Can This Be Love?** **Various** 28 June 1991  
+**Rutherford And Son** **Githa Sowerby** 10 July 1991  
+**Breaking Legs** **Tom Dulack** 26 July 1991  
+**My Very Own Story \*** **Alan Ayckbourn** 10 August 1991  
+**To** **Jim Cartwright** 25 September 1991  
+**Dangerous Obsession** **N.J. Crisp** 30 October 1991  
+**This Is Where We Came In** **Alan Ayckbourn** 27 November 1991  
+**Confusions** **Alan Ayckbourn** 4 December 1991  
 **1992**  
-One Over The Eight \*  
-Time Of My Life \*  
-Rocket To The Moon  
-Neville’s Island \*  
-Village Wooing (S)  
-A Bigger Slice Of The Pie \* (S)  
-Apple Blossom Afternoon \* (S)  
-The Shawl (S)  
-Dreams From A Summer House \*  
-Abigail’s Party  
-Prince On A White Bike \*  
-My Very Own Story
-
+**One Over The Eight \*** **Peter Robert Scott** 8 January 1992  
+**Time Of My Life \*** **Alan Ayckbourn** 15 April 1992  
+**Rocket To The Moon** **Clifford Odets** 29 April 1992  
+**Neville’s Island \*** **Tim Firth** 10 June 1992  
+**Village Wooing (S)** **George Bernard Shaw** 1 July 1992  
+**A Bigger Slice Of The Pie \* (S)** **Tim Firth** 7 July 1992  
+**Apple Blossom Afternoon \* (S)** **Dave Sheasby** 9 July 1992  
+**The Shawl (S)** **David Mamet** 7 August 1992  
+**Dreams From A Summer House \*** **Alan Ayckbourn** 20 August 1992  
+**Abigail’s Party** **Mike Leigh** 14 October 1992  
+**Prince On A White Bike \*** **Charles Thomas** 18 November 1992  
+**My Very Own Story** **Alan Ayckbourn** 2 December 1992  
 **1993**  
-Feed  
-Table Manners  
-Living Together  
-Round And Round The Garden  
-Tomfoolery (S)  
-Bye Bye Blues (S)  
-Selling Out (S)  
-Cigarettes and Chocolate (S)  
-Take It To The Green Light, Barry (S)  
-Physical Jerks  
-Love Off The Shelf  
-Mr A’s Amazing Maze Plays  
-The End Of The Food Chain \*
-
+**Feed** **Tom Elliot** 7 April 1993  
+**Table Manners** **Alan Ayckbourn** 21 April 1993  
+**Living Together** **Alan Ayckbourn** 28 April 1993  
+**Round And Round The Garden** **Alan Ayckbourn** 12 May 1993  
+**Tomfoolery (S)** **Tom Lehrer** 4 June 1993  
+**Bye Bye Blues (S)** **James Saunders** 10 June 1993  
+**Selling Out (S)** **Daniel Chambers** 30 June 1993  
+**Cigarettes and Chocolate (S)** **Anthony Minghella** 6 July 1993  
+**Take It To The Green Light, Barry (S)** **Vanessa Brooks** 24 July 1993  
+**Physical Jerks** **Stefano Reali** 8 September 1993  
+**Love Off The Shelf** **Roger Hall** 15 October 1993  
+**Mr A’s Amazing Maze Plays** **Alan Ayckbourn** 24 November 1993  
+**The End Of The Food Chain \*** **Tim Firth** 22 December 1993  
 **1994**  
-Communicating Doors \*  
-Haunting Julia \*  
-Gaslight  
-Penny Blue \*  
-Appropriate Channels \* (S)  
-Love Is In The Air \* (S)  
-Windy \* (S)  
-Two Weeks With The Queen \*  
-White Lies \* (S)  
-Romeo And Juliet  
-Conversations With My Father  
-The Musical Jigsaw Play \*
-
+**Communicating Doors \*** **Alan Ayckbourn** 27 January 1994  
+**Haunting Julia \*** **Alan Ayckbourn** 13 April 1994  
+**Gaslight** **Patrick Hamilton** 18 May 1994  
+**Penny Blue \*** **Vanessa Brooks** 22 June 1994  
+**Appropriate Channels \* (S)** **Julian Perkins** 14 July 1994  
+**Love Is In The Air \* (S)** **Eric Prince** 20 July 1994  
+**Windy \* (S)** **Michael Cook** 26 July 1994  
+**Two Weeks With The Queen \*** **Morris Gleitzman** 3 August 1994  
+**White Lies \* (S)** **Robert Shearman** 12 August 1994  
+**Romeo And Juliet** **Shakespeare** 14 September 1994  
+**Conversations With My Father** **Herb Gardner** 19 October 1994  
+**The Musical Jigsaw Play \*** **Alan Ayckbourn** 1 December 1994  
 **1995**  
-Oleanna  
-A Word From Our Sponsor \*  
-Misery  
-For Services Rendered  
-Let’s Pretend \*  
-Taylor’s Tickler (S)  
-Hovering (S)  
-Betrayal (S)  
-Dorothy Parker’s Dead (S)  
-Talking Heads  
-Hard Times  
-Grimm Tales
-
+**Oleanna** **David Mamet** 12 January 1995  
+**A Word From Our Sponsor \*** **Alan Ayckbourn** 13 April 1995  
+**Misery** **Simon Moore** 8 June 1995  
+**For Services Rendered** **Somerset Maugham** 21 June 1995  
+**Let’s Pretend \*** **Vanessa Brooks** 2 August 1995  
+**Taylor’s Tickler (S)** **Anthony Naylor** 7 August 1995  
+**Hovering (S)** **Ron Aldridge** 11 August 1995  
+**Betrayal (S)** **Harold Pinter** 21 August 1995  
+**Dorothy Parker’s Dead (S)** **Marvin Close** 22 August 1995  
+**Talking Heads** **Alan Bennett** 20 September 1995  
+**Hard Times** **Stephen Jeffreys** 25 October 1995  
+**Grimm Tales** **Carol Ann Duffy / Tim Supple** 29 November 1995  
 **1996 (Stephen Joseph Theatre In The Round)**  
-Just Between Ourselves
-
+**Just Between Ourselves** **Alan Ayckbourn** 5 January 1996  
 **1996 (Stephen Joseph Theatre)**  
-By Jeeves \*  
-Forty Years On (M)  
-Wild Honey  
-Mirandolina (M)  
-A Going Concern  
-It Could Be Any One Of Us  
-Dealing With Clair (M)  
-Love Me Slender \*  
-All Things Considered \* (M)  
-The Champion Of Paribanou \*
-
+**By Jeeves \*** **Alan Ayckbourn** 24 April 1996  
+**Forty Years On (M)** **Alan Bennett** 10 May 1996  
+**Wild Honey** **Anton Chekhov** 5 June 1996  
+**Mirandolina (M)** **Carlo Goldini** 21 June 1996  
+**A Going Concern** **Stephen Jeffreys** 10 July 1996  
+**It Could Be Any One Of Us** **Alan Ayckbourn** 14 August 1996  
+**Dealing With Clair (M)** **Martin Crimp** 29 August 1996  
+**Love Me Slender \*** **Vanessa Brooks** 19 September 1996  
+**All Things Considered \* (M)** **Ben Brown** 7 November 1996  
+**The Champion Of Paribanou \*** **Alan Ayckbourn** 29 November 1996  
 **1997**  
-Things We Do For Love \* (M)  
-They’re Playing Our Song  
-Just A Song At Lunchtime I (R)  
-Just A Song At Lunchtime II (R)  
-The Farmer’s Bride \* (M)  
-Lucky Sods  
-Alas, Poor Fred (R)  
-Fool To Yourself \*  
-Love Letters (R)  
-The Edge \* (M)  
-Absent Friends  
-Near Cricket St. Thomas, 1919 \* (M)  
-Honk!  
-The Woman In Black (M)
-
+**Things We Do For Love \* (M)** **Alan Ayckbourn** 25 April 1997  
+**They’re Playing Our Song** **Neil Simon** 21 May 1997  
+**Just A Song At Lunchtime I (R)** **Various** 5 June 1997  
+**Just A Song At Lunchtime II (R)** **Various** 6 June 1997  
+**The Farmer’s Bride \* (M)** **Ged McKenna** 12 June 1997  
+**Lucky Sods** **John Godber** 16 July 1997  
+**Alas, Poor Fred (R)** **James Saunders** 6 August 1997  
+**Fool To Yourself \*** **Robert Shearman** 20 August 1997  
+**Love Letters (R)** **A.R. Gurney** 27 August 1997  
+**The Edge \* (M)** **Steve Carley** 10 September 1997  
+**Absent Friends** **Alan Ayckbourn** 8 October 1997  
+**Near Cricket St. Thomas, 1919 \* (M)** **Nick Perry** 31 October 1997  
+**Honk!** **Anthony Drewe / George Stiles** 29 November 1997  
+**The Woman In Black (M)** **Stephen Mallatratt** 11 December 1997  
 **1998**  
-Baby On Board \* (M)  
-Comic Potential \*  
-Memories Are Made Of This \* (R)  
-Figuring Things \*  
-Perfect Pitch \*  
-About Colin \* (R)  
-Contacting Laura \* (M)  
-Love Songs For Shopkeepers \*  
-Bolt From The Blue \* (M)  
-Later Life (M)  
-Sweet Phoebe \* (M)  
-A Doll’s House  
-The Boy Who Fell Into A Book \*  
-Cheap And Cheerful \* (M)
-
+**Baby On Board \* (M)** **Mary Stewart-David / Denis King** 23 April 1998  
+**Comic Potential \*** **Alan Ayckbourn** 29 May 1998  
+**Memories Are Made Of This \* (R)** **Stuart Fortey** 9 June 1998  
+**Figuring Things \*** **Michael Fosbrook** 12 June 1998  
+**Perfect Pitch \*** **John Godber** 2 July 1998  
+**About Colin \* (R)** **Robert Shearman** 29 July 1998  
+**Contacting Laura \* (M)** **Steve Carley** 31 July 1998  
+**Love Songs For Shopkeepers \*** **Tim Firth** 6 August 1998  
+**Bolt From The Blue \* (M)** **Neil Monaghan** 25 August 1998  
+**Later Life (M)** **A.R. Gurney** 28 August 1998  
+**Sweet Phoebe \* (M)** **Michael Gow** 29 August 1998  
+**A Doll’s House** **Ibsen** 21 October 1998  
+**The Boy Who Fell Into A Book \*** **Alan Ayckbourn** 3 December 1998  
+**Cheap And Cheerful \* (M)** **Alan Ayckbourn** 18 December 1998  
 **1999**  
-Haunting Julia (M)  
-House \* (M)  
-Garden \*  
-Designs On His Body \* (R)  
-Knights In Plastic Armour \*  
-A Listening Heaven \* (M)  
-Dot.Com \* (R)  
-Body Language  
-Noel & Gertie (M)  
-Hobson’s Choice  
-Larkin With Women \*  
-Callisto#7 \*
-
+**Haunting Julia (M)** **Alan Ayckbourn** 4 February 1999  
+**House \* (M)** **Alan Ayckbourn** 12 June 1999  
+**Garden \*** **Alan Ayckbourn** 12 June 1999  
+**Designs On His Body \* (R)** **Helen Kelly** 2 July 1999  
+**Knights In Plastic Armour \*** **Robert Shearman** 16 July 1999  
+**A Listening Heaven \* (M)** **Torben Betts** 23 July 1999  
+**Dot.Com \* (R)** **Neil Monaghan** 13 August 1999  
+**Body Language** **Alan Ayckbourn** 19 August 1999  
+**Noel & Gertie (M)** **Sheridan Morley** 26 August 1999  
+**Hobson’s Choice** **Harold Brighouse** 1 October 1999  
+**Larkin With Women \*** **Ben Brown** 5 November 1999  
+**Callisto#7 \*** **Alan Ayckbourn** 4 December 1999  
 **2000**  
-Virtual Reality \* (M)  
-Private Lives  
-Village Wooing (R)  
-The Twelve Pound Look (R)  
-What Every Woman Knows  
-Candida  
-Bedroom Farce  
-Whenever \*  
-Bedroom Farce
-
+**Virtual Reality \* (M)** **Alan Ayckbourn** 3 February 2000  
+**Private Lives** **Noel Coward** 2 June 2000  
+**Village Wooing (R)** **George Bernard Shaw** 6 June 2000  
+**The Twelve Pound Look (R)** **J.M. Barrie** 30 June 2000  
+**What Every Woman Knows** **J.M. Barrie** 6 July 2000  
+**Candida** **George Bernard Shaw** 24 August 2000  
+**Bedroom Farce** **Alan Ayckbourn** 21 September 2000  
+**Whenever \*** **Alan Ayckbourn** 5 December 2000  
+**Bedroom Farce** **Alan Ayckbourn**  
 **2001**  
-Clockwatching \*  
-GamePlan \*  
-Amaretti Angels \* (R)  
-Inappropriate Behaviour \* (R)  
-FlatSpin \*  
-Split \* (R)  
-Secondhand Dreams \* (R)  
-Whispers Along The Patio \*  
-RolePlay \*  
-This Is Where We Came In
-
+**Clockwatching \*** **Torben Betts** 10 May 2001  
+**GamePlan \*** **Alan Ayckbourn** 24 May 2001  
+**Amaretti Angels \* (R)** **Sarah Phelps** 5 June 2001  
+**Inappropriate Behaviour \* (R)** **Robert Shearman** 8 June 2001  
+**FlatSpin \*** **Alan Ayckbourn** 28 June 2001  
+**Split \* (R)** **Mayo Simon** 24 July 2001  
+**Secondhand Dreams \* (R)** **Liz John** 27 July 2001  
+**Whispers Along The Patio \*** **David Cregan** 2 August 2001  
+**RolePlay \*** **Alan Ayckbourn** 30 August 2001  
+**This Is Where We Came In** **Alan Ayckbourn** 4 December 2001  
 **2002**  
-Man For Hire \* (M)  
-The Star Throwers \* (M)  
-Something Blue \* (M)  
-The Safari Party \*  
-Happy Birthday Dear Alice  
-Snake In The Grass \*  
-Double Bill: The Hope (R)  
-Double Bill: Two’s Company (R)  
-The Kaiser And I \* (R)  
-River’s Up \* (R)  
-Double Bill: Wor Tony And The Great White Shark (R)  
-Double Bill: A Day Like Today (R)  
-Joking Apart  
-Red Roses \* (R)  
-Beautiful People \*  
-The Jollies \*  
-The Princess And The Mouse \* (M)
-
+**Man For Hire \* (M)** **Meredith Oakes** 5 February 2002  
+**The Star Throwers \* (M)** **Paul Lucas** 19 February 2002  
+**Something Blue \* (M)** **Gill Adams** 5 March 2002  
+**The Safari Party \*** **Tim Firth** 25 April 2002  
+**Happy Birthday Dear Alice** **Bernard Farrell** 22 May 2002  
+**Snake In The Grass \*** **Alan Ayckbourn** 30 May 2002  
+**Double Bill: The Hope (R)** **Michael Chaplin** 31 May 2002  
+**Double Bill: Two’s Company (R)** **Lee Hall**  
+**The Kaiser And I \* (R)** **Stuart Fortey** 14 June 2002  
+**River’s Up \* (R)** **Alex Jones** 5 July 2002  
+**Double Bill: Wor Tony And The Great White Shark (R)** **Alan Plater** 7 July 2002  
+**Double Bill: A Day Like Today (R)** **Novid Parsi**  
+**Joking Apart** **Alan Ayckbourn** 11 July 2002  
+**Red Roses \* (R)** **Eric Prince** 1 August 2002  
+**Beautiful People \*** **Neil Monaghan** 10 October 2002  
+**The Jollies \*** **Alan Ayckbourn** 3 December 2002  
+**The Princess And The Mouse \* (M)** **Alan Ayckbourn** 11 December 2002  
 **2003**  
-How To Tell The Truth \* (M)  
-Parting Shots \* (M)  
-Making Waves \*  
-The Game Hunter  
-Bedtime Stories \*  
-The Bill Cantor Story (R)  
-Equal Partners (R)  
-Tissue Paper For The Soul \* (R)  
-The Ten Magic Bridges \* (M)  
-Sugar Daddies \*  
-The Anniversary Waltz \* (R)  
-Orvin - Champion Of Champions \*  
-Around The World With Billy Brite \* (M)  
-Way Upstream  
-My Sister Sadie \*  
-Thumbelina \* (M)
-
+**How To Tell The Truth \* (M)** **Chris Dunkley** 28 January 2003  
+**Parting Shots \* (M)** **Peter Robert Scott** 18 February 2003  
+**Making Waves \*** **Stephen Clarke** 24 April 2003  
+**The Game Hunter** **Feydeau** 29 May 2003  
+**Bedtime Stories \*** **Lesley Bruce** 5 June 2003  
+**The Bill Cantor Story (R)** **Adam Pernak** 10 June 2003  
+**Equal Partners (R)** **David Tomlinson** 13 June 2003  
+**Tissue Paper For The Soul \* (R)** **Helen Kelly** 3 July 2003  
+**The Ten Magic Bridges \* (M)** **Alan Ayckbourn** 5 July 2003  
+**Sugar Daddies \*** **Alan Ayckbourn** 17 July 2003  
+**The Anniversary Waltz \* (R)** **Danny Start** 1 August 2003  
+**Orvin - Champion Of Champions \*** **Alan Ayckbourn / Denis King** 7 August 2003  
+**Around The World With Billy Brite \* (M)** **Lee Threadgold** 13 September 2003  
+**Way Upstream** **Alan Ayckbourn** 17 October 2003  
+**My Sister Sadie \*** **Alan Ayckbourn** 2 December 2003  
+**Thumbelina \* (M)** **Laurie Sansom** 9 December 2003  
 **2004**  
-Fly Me To The Moon \*  
-Barnacle Ben And The Pirates’ Map \* (M)  
-Drowning On Dry Land \*  
-I Ought To Be In Pictures  
-Love’s A Luxury  
-For Starters \* (R)  
-Ever After \* (R)  
-Icons \* (R)  
-Miranda’s Magic Mirror \* (M)  
-Her Slightest Touch \* (R)  
-A Chorus Of Disapproval  
-The Trips And Hops Of Witch Cycle-Clops \* (M)  
-Private Fears In Public Places \*  
-Soap \*  
-Kite \* (M)  
-Fields Of Gold \*  
-Miss Yesterday \*  
-The Ugly Duckling \* (M)  
-Around Robin \*
-
+**Fly Me To The Moon \*** **John Godber** 11 March 2004  
+**Barnacle Ben And The Pirates’ Map \* (M)** **Lee Threadgold** 10 April 2004  
+**Drowning On Dry Land \*** **Alan Ayckbourn** 29 April 2004  
+**I Ought To Be In Pictures** **Neil Simon** 13 May 2004  
+**Love’s A Luxury** **Guy Paxton / Edward Hoile** 3 June 2004  
+**For Starters \* (R)** **Nick Warburton** 8 June 2004  
+**Ever After \* (R)** **Neil Monaghan** 11 June 2004  
+**Icons \* (R)** **Christopher William Hill** 15 June 2004  
+**Miranda’s Magic Mirror \* (M)** **Alan Ayckbourn** 19 June 2004  
+**Her Slightest Touch \* (R)** **Torben Betts** 29 June 2004  
+**A Chorus Of Disapproval** **Alan Ayckbourn** 14 July 2004  
+**The Trips And Hops Of Witch Cycle-Clops \* (M)** **Steve Marmion** 29 July 2004  
+**Private Fears In Public Places \*** **Alan Ayckbourn** 12 August 2004  
+**Soap \*** **Sarah Woods** 16 September 2004  
+**Kite \* (M)** **Helen Kelly** 23 October 2004  
+**Fields Of Gold \*** **Alex Jones** 28 October 2004  
+**Miss Yesterday \*** **Alan Ayckbourn** 2 December 2004  
+**The Ugly Duckling \* (M)** **Vicky Ireland** 8 December 2004  
+**Around Robin \*** **Julia Edwards** 16 December 2004  
 **2005**  
-Spittin’ Distance \* (M)  
-The Jonah Boy \* (M)  
-A Beginner’s Guide To Cybershopping \* (M)  
-Spending Frank \* (M)  
-Unless (M)  
-Private Fears In Public Places  
-The Genie And The Meanie \* (M)  
-Improbable Fiction \*  
-Caution! Trousers \* (R)  
-Clearing The Colours \* (R)  
-Playing God \*  
-The Girl Who Lost Her Voice \* (M)  
-Time And Time Again  
-Moby Dick \* (M)  
-What’s In The Box \* (M)  
-Vilette \*  
-The Champion Of Paribanou  
-The Firebird \* (M)
-
+**Spittin’ Distance \* (M)** **Toby Davies / Grant Olding** 17 February 2005  
+**The Jonah Boy \* (M)** **Jane Buckler / Richard Taylor** 24 February 2005  
+**A Beginner’s Guide To Cybershopping \* (M)** **Laurie Sansom / Loz Kaye** 3 March 2005  
+**Spending Frank \* (M)** **Alistair Hewitt** 31 March 2005  
+**Unless (M)** **Carol Shields / Sara Cassidy** 7 April 2005  
+**Private Fears In Public Places** **Alan Ayckbourn** 21 April 2005  
+**The Genie And The Meanie \* (M)** **Lee Threadgold** 14 May 2005  
+**Improbable Fiction \*** **Alan Ayckbourn** 26 May 2005  
+**Caution! Trousers \* (R)** **Kerry Hood** 1 June 2005  
+**Clearing The Colours \* (R)** **James Volmar** 24 June 2005  
+**Playing God \*** **Laurence Marks / Maurice Gran** 30 June 2005  
+**The Girl Who Lost Her Voice \* (M)** **Alan Ayckbourn** 23 July 2005  
+**Time And Time Again** **Alan Ayckbourn** 28 July 2005  
+**Moby Dick \* (M)** **Richard Derrington** 30 July 2005  
+**What’s In The Box \* (M)** **Helen Kelly** 24 September 2005  
+**Vilette \*** **Lisa Evans** 20 October 2005  
+**The Champion Of Paribanou** **Alan Ayckbourn** 7 December 2005  
+**The Firebird \* (M)** **Lee Threadgold** 8 December 2005  
 **2006**  
-Skylight (M)  
-Intimate Exchanges  
-Inglorious Technicolour \* (M)  
-Purvis \* (R)  
-Storm In A Tea Chest \* (R)  
-Absolutely Frank \* (M)  
-The Prodigal Son (R)  
-My Own Show \* (M)  
-If I Were You \*  
-Mr A’s Amazing Maze Plays  
-Sleeping Beauty \* (M)
-
+**Skylight (M)** **David Hare** 27 March 2006  
+**Intimate Exchanges** **Alan Ayckbourn** 27 April 2006  
+**Inglorious Technicolour \* (M)** **Christopher William Hill** 8 June 2006  
+**Purvis \* (R)** **Nick Warburton** 16 June 2006  
+**Storm In A Tea Chest \* (R)** **Alison Watt** 7 July 2006  
+**Absolutely Frank \* (M)** **Tim Firth** 13 July 2006  
+**The Prodigal Son (R)** **Anthony Fletcher** 28 July 2006  
+**My Own Show \* (M)** **Lesley Bruce** 17 August 2006  
+**If I Were You \*** **Alan Ayckbourn** 12 October 2006  
+**Mr A’s Amazing Maze Plays** **Alan Ayckbourn** 6 December 2006  
+**Sleeping Beauty \* (M)** **Lee Threadgold** 7 December 2006  
 **2007**  
-Intimate Exchanges  
-Forget-Me-Not Lane  
-Pro-Active (R)  
-White Lies (R)  
-Touch Wood \*  
-Relatively Speaking  
-Face Value \* (R)  
-The Swing Of Things \* (M)  
-A Trip To Scarborough
-
+**Intimate Exchanges** **Alan Ayckbourn** 1 March 2007  
+**Forget-Me-Not Lane** **Peter Nichols** 24 May 2007  
+**Pro-Active (R)** **Alma Cullen** 15 June 2007  
+**White Lies (R)** **Robert Shearman** 22 June 2007  
+**Touch Wood \*** **Nick Warburton** 28 June 2007  
+**Relatively Speaking** **Alan Ayckbourn** 19 July 2007  
+**Face Value \* (R)** **Dawn King** 8 August 2007  
+**The Swing Of Things \* (M)** **Torben Betts** 4 October 2007  
+**A Trip To Scarborough** **Alan Ayckbourn** 6 December 2007  
 **2008**  
-Haunting Julia  
-Snake In The Grass  
-Cover Her Feet \* (R)  
-Fly In The Ointment \* (R)  
-Life & Beth \*  
-Woman In Mind  
-Jack Lear  
-Awaking Beauty
-
-### Playwright
-
-Peter Hawkins
-
-Leonard Barras  
-Stan Barstow  
-Alan Ayckbourn
-
-Leon Katz  
-Edward Albee  
-Edward Albee  
-Leonard Barras  
-Alan Ayckbourn
-
-David Campton  
-Alan Ayckbourn  
-Chekhov  
-Peter Blythe  
-Jennifer Smith
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Peter Blythe  
-Peter King
-
-Alan Ayckbourn  
-Peter Shaffer  
-Richard Harris  
-Peter King  
-Somerset Maugham  
-Alan Ayckbourn  
-Frederick Lonsdale  
-Peter Terson  
-Janet Dale  
-Andre Obey
-
-Alan Ayckbourn  
-Frederick Lonsdale  
-Hugh Mills  
-Alan Ayckbourn  
-Janet Dale  
-Janet Dale  
-Bob Eaton / Peter Clough  
-Stephen Mallatratt  
-Arthur Miller  
-Bob Eaton / Polly Warren  
-Janet Dale  
-Stephen Mallatratt
-
-Alan Ayckbourn  
-Moliere  
-Alan Ayckbourn  
-Stephen Lowe  
-Stephen Lowe  
-Janet Dale  
-Devised  
-Stephen Mallatratt
-
-Alan Ayckbourn  
-Christopher Godwin  
-Harold Pinter  
-Bob Eaton  
-Malcolm Hebden / Diane Bull
-
-Jerome Kilty  
-Alan Ayckbourn  
-Noel Coward  
-Anthony Shaffer  
-Bob Eaton  
-Alan Ayckbourn / Mervyn Watson  
-Anouilh  
-John Mortimer  
-Alan Ayckbourn  
-Janet Dale  
-Stephen Lowe  
-Alison Skilbeck  
-Edward Albee  
-George Bernard Shaw  
-Robert Bolt  
-Janet Dale  
-Stanley Houghton
-
-Alan Ayckbourn  
-Ben Travers  
-Mervyn Watson  
-Alun Owen  
-Alan Ayckbourn / Paul Todd  
-Neil Simon  
-Paul Todd  
-Devised  
-David Millard  
-Derek Buttress  
-Ken Whitmore  
-James Saunders  
-Joe Orton  
-Brian Thompson  
-Tom Stoppard  
-Christine Welch
-
-Alan Ayckbourn  
-Chekhov  
-Peter Terson  
-Tessa Harrison  
-Devised  
-Neil Simon  
-Stephen Mallatratt  
-Devised  
-Harold Pinter  
-Brian Thompson  
-James Saunders  
-Alan Ayckbourn  
-Arthur Miller  
-Christine Welch  
-John Harding / John Burrows
-
-Alan Ayckbourn  
-J.B.Priestley  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Stephen Lavell  
-Alan Ayckbourn  
-Paul Copley  
-Alan Ayckbourn  
-Oscar Wilde  
-Polly Warren  
-Michael Frayn
-
-Alan Ayckbourn  
-Brian Thompson  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Paul Copley  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Trevor Cooper  
-Peter Tinniswood  
-Alan Ayckbourn  
-Shakespeare  
-Polly Warren  
-Alan Ayckbourn
-
-Simon Gray  
-Alan Ayckbourn  
-Various  
-Various  
-Eduardo di Filippo  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Peter Tinniswood  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Michael Cashman  
-Terence Rattigan  
-Alan Ayckbourn  
-Oliver Goldsmith  
-Ben Travers
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Ronald Harwood  
-Alan Ayckbourn  
-Alan Ayckbourn  
-J.B. Priestley  
-Michael Cashman  
-Neil Simon  
-A.R. Gurney  
-Herb Gardner  
-Sandy Wilson
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Alan Ayckbourn  
-R.R. Oliver  
-Dario Fo  
-Alan Ayckbourn  
-Christopher Fry / Kerry Gardner  
-Christopher Fry / Kerry Gardner  
-Will Evans And Valentine
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Noel Coward  
-Stephen Mallatratt  
-Stephen Mallatratt  
-Michael Frayn  
-Paul Copley  
-John Arden  
-F Waechter / Ken Campbell
-
-Alan Ayckbourn  
-Stewart Parker  
-David Tinker  
-Alan Bennett  
-Geraldine Aron  
-William Haden  
-Geraldine Aron  
-Alan Ayckbourn  
-Michael Roberts  
-Stephen Mallatratt  
-Willy Russell  
-Arthur Miller  
-Ken Campbell  
-Stephen Mallatratt
-
-Alan Ayckbourn  
-Susan Hill  
-J.B. Priestley  
-Alan Ayckbourn  
-Frank Dunai  
-Stephen Mallatratt  
-Gus Kaikonnen  
-Geraldine Aron  
-Alan Ayckbourn  
-Peter King  
-George Farquhar  
-Alan Ayckbourn  
-Stephen Mallatratt
-
-Alan Ayckbourn  
-John Pattison  
-John Pattison  
-John Pattison  
-Kaufmann / Lardner  
-Alan Ayckbourn  
-Henry Becque  
-Neil Simon  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Michael Frayn  
-Alan Bennett  
-Blake Heathcote  
-Alan Bennett  
-Alan Ayckbourn  
-Derrick Goodwin  
-Shakespeare  
-Arthur Miller  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Bernard Slade  
-Alan Ayckbourn  
-Cass Allen  
-Blake Heathcote  
-Peter Tinniswood  
-Tim Firth  
-Various  
-Githa Sowerby  
-Tom Dulack  
-Alan Ayckbourn  
-Jim Cartwright  
-N.J. Crisp  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Peter Robert Scott  
-Alan Ayckbourn  
-Clifford Odets  
-Tim Firth  
-George Bernard Shaw  
-Tim Firth  
-Dave Sheasby  
-David Mamet  
-Alan Ayckbourn  
-Mike Leigh  
-Charles Thomas  
-Alan Ayckbourn
-
-Tom Elliot  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Tom Lehrer  
-James Saunders  
-Daniel Chambers  
-Anthony Minghella  
-Vanessa Brooks  
-Stefano Reali  
-Roger Hall  
-Alan Ayckbourn  
-Tim Firth
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Patrick Hamilton  
-Vanessa Brooks  
-Julian Perkins  
-Eric Prince  
-Michael Cook  
-Morris Gleitzman  
-Robert Shearman  
-Shakespeare  
-Herb Gardner  
-Alan Ayckbourn
-
-David Mamet  
-Alan Ayckbourn  
-Simon Moore  
-Somerset Maugham  
-Vanessa Brooks  
-Anthony Naylor  
-Ron Aldridge  
-Harold Pinter  
-Marvin Close  
-Alan Bennett  
-Stephen Jeffreys  
-Carol Ann Duffy / Tim Supple
-
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Alan Bennett  
-Anton Chekhov  
-Carlo Goldini  
-Stephen Jeffreys  
-Alan Ayckbourn  
-Martin Crimp  
-Vanessa Brooks  
-Ben Brown  
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Neil Simon  
-Various  
-Various  
-Ged McKenna  
-John Godber  
-James Saunders  
-Robert Shearman  
-A.R. Gurney  
-Steve Carley  
-Alan Ayckbourn  
-Nick Perry  
-Anthony Drewe / George Stiles  
-Stephen Mallatratt
-
-Mary Stewart-David / Denis King  
-Alan Ayckbourn  
-Stuart Fortey  
-Michael Fosbrook  
-John Godber  
-Robert Shearman  
-Steve Carley  
-Tim Firth  
-Neil Monaghan  
-A.R. Gurney  
-Michael Gow  
-Ibsen  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Helen Kelly  
-Robert Shearman  
-Torben Betts  
-Neil Monaghan  
-Alan Ayckbourn  
-Sheridan Morley  
-Harold Brighouse  
-Ben Brown  
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Noel Coward  
-George Bernard Shaw  
-J.M. Barrie  
-J.M. Barrie  
-George Bernard Shaw  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Torben Betts  
-Alan Ayckbourn  
-Sarah Phelps  
-Robert Shearman  
-Alan Ayckbourn  
-Mayo Simon  
-Liz John  
-David Cregan  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Meredith Oakes  
-Paul Lucas  
-Gill Adams  
-Tim Firth  
-Bernard Farrell  
-Alan Ayckbourn  
-Michael Chaplin  
-Lee Hall  
-Stuart Fortey  
-Alex Jones  
-Alan Plater  
-Novid Parsi  
-Alan Ayckbourn  
-Eric Prince  
-Neil Monaghan  
-Alan Ayckbourn  
-Alan Ayckbourn
-
-Chris Dunkley  
-Peter Robert Scott  
-Stephen Clarke  
-Feydeau  
-Lesley Bruce  
-Adam Pernak  
-David Tomlinson  
-Helen Kelly  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Danny Start  
-Alan Ayckbourn / Denis King  
-Lee Threadgold  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Laurie Sansom
-
-John Godber  
-Lee Threadgold  
-Alan Ayckbourn  
-Neil Simon  
-Guy Paxton / Edward Hoile  
-Nick Warburton  
-Neil Monaghan  
-Christopher William Hill  
-Alan Ayckbourn  
-Torben Betts  
-Alan Ayckbourn  
-Steve Marmion  
-Alan Ayckbourn  
-Sarah Woods  
-Helen Kelly  
-Alex Jones  
-Alan Ayckbourn  
-Vicky Ireland  
-Julia Edwards
-
-Toby Davies / Grant Olding  
-Jane Buckler / Richard Taylor  
-Laurie Sansom / Loz Kaye  
-Alistair Hewitt  
-Carol Shields / Sara Cassidy  
-Alan Ayckbourn  
-Lee Threadgold  
-Alan Ayckbourn  
-Kerry Hood  
-James Volmar  
-Laurence Marks / Maurice Gran  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Richard Derrington  
-Helen Kelly  
-Lisa Evans  
-Alan Ayckbourn  
-Lee Threadgold
-
-David Hare  
-Alan Ayckbourn  
-Christopher William Hill  
-Nick Warburton  
-Alison Watt  
-Tim Firth  
-Anthony Fletcher  
-Lesley Bruce  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Lee Threadgold
-
-Alan Ayckbourn  
-Peter Nichols  
-Alma Cullen  
-Robert Shearman  
-Nick Warburton  
-Alan Ayckbourn  
-Dawn King  
-Torben Betts  
-Alan Ayckbourn
-
-Alan Ayckbourn  
-Alan Ayckbourn  
-Nick Warburton  
-Nick Warburton  
-Alan Ayckbourn  
-Alan Ayckbourn  
-Ben Benison  
-Alan Ayckbourn
-
-### Opening night
-
-23 June 1969
-
-3 July 1969  
-17 July 1969  
-31 July 1969
-
-15 June 1970  
-18 June 1970
-
-16 July 1970  
-20 August 1970
-
-19 June 1972  
-26 June 1972  
-17 July 1972  
-7 August 1972  
-9 August 1972
-
-18 June 1973  
-25 June 1973  
-9 July 1973
-
-30 July 1973  
-20 August 1973
-
-17 June 1974  
-24 June 1974
-
-15 July 1974  
-12 August 1974  
-30 September 1974  
-22 November 1974  
-6 December 1974  
-23 December 1974  
-27 December 1974
-
-16 June 1975  
-23 June 1975  
-14 July 1975  
-4 August 1975  
-23 August 1975  
-30 August 1975  
-22 September 1975  
-15 October 1975  
-12 November 1975  
-26 November 1975  
-9 December 1975  
-18 December 1975
-
-28 January 1976  
-14 June 1976  
-21 June 1976  
-21 July 1976
-
-31 July 1976  
-Tour  
-25 August 1976
-
-26 October 1976  
-15 November 1976  
-23 November 1976  
-14 December 1976  
-School tour
-
-3 January 1977  
-18 January 1977  
-28 March 1977  
-19 April 1977  
-29 April 1977  
-7 June 1977  
-21 June 1977  
-24 June 1977  
-27 June 1977  
-23 July 1977  
-20 August 1977  
-26 August 1977  
-4 October 1977  
-11 October 1977  
-8 November 1977  
-6 December 1977  
-12 December 1977
-
-11 January 1978  
-2 May 1978  
-5 May 1978  
-23 May 1978  
-17 June 1978  
-20 June 1978  
-28 June 1978  
-5 July 1978  
-8 July 1978  
-21 July 1978  
-25 July 1978  
-22 August 1978  
-26 August 1978  
-10 October 1978  
-7 November 1978  
-5 December 1978
-
-10 January 1979  
-1 May 1979  
-4 May 1979  
-25 May 1979  
-6 June 1979  
-19 June 1979  
-23 June 1979  
-27 June 1979  
-14 July 1979  
-24 July 1979  
-17 August 1979  
-27 September 1979  
-6 November 1979  
-4 December 1979  
-11 December 1979
-
-17 January 1980  
-4 June 1980
-
-8 July 1980  
-16 July 1980  
-5 August 1980  
-8 August 1980  
-25 September 1980  
-6 November 1980  
-2 December 1980  
-10 December 1980
-
-28 May 1981  
-2 June 1981  
-30 June 1981  
-1 July 1981  
-8 July 1981  
-9 July 1981  
-10 July 1981  
-8 August 1981  
-12 August 1981  
-2 October 1981  
-11 November 1981  
-1 December 1981  
-15 December 1981
-
-20 January 1982  
-3 June 1982  
-29 June 1982  
-1 July 1982  
-15 September 1982
-
-8 December 1982
-
-4 January 1983  
-12 January 1983  
-13 July 1983  
-19 July 1983  
-21 July 1983  
-10 August 1983  
-7 September 1983  
-5 October 1983  
-2 November 1983  
-30 November 1983
-
-5 January 1984  
-2 May 1984  
-23 May 1984  
-29 May 1984  
-31 May 1984  
-27 June 1984  
-22 August 1984  
-26 September 1984  
-24 October 1984  
-21 November 1984  
-19 December 1984
-
-23 May 1985  
-25 May 1985  
-30 May 1985  
-12 June 1985  
-17 July 1985  
-4 September 1985  
-11 October 1985  
-12 October 1985  
-11 December 1985
-
-22 May 1986  
-29 May 1986  
-11 June 1986  
-16 July 1986  
-8 August 1986  
-17 September 1986  
-16 October 1986  
-12 November 1986  
-10 December 1986
-
-2 June 1987  
-4 June 1987  
-24 June 1987  
-30 June 1987  
-10 July 1987  
-14 July 1987  
-30 July 1987  
-21 August 1987  
-Not produced  
-30 September 1987  
-4 November 1987  
-2 December 1987  
-11 December 1987
-
-31 May 1988  
-2 June 1988
-
-6 July 1988  
-7 July 1988  
-15 July 1988  
-15 July 1988  
-10 August 1988  
-14 September 1988  
-2 November 1988  
-30 November 1988  
-7 December 1988
-
-5 June 1989  
-13 June 1989  
-14 June 1989  
-15 June 1989  
-19 July 1989  
-22 July 1989  
-27 September 1989  
-25 October 1989  
-22 November 1989  
-20 December 1989
-
-16 May 1990  
-13 June 1990  
-4 July 1990  
-5 July 1990  
-13 July 1990  
-4 August 1990  
-8 August 1990  
-26 September 1990  
-31 October 1990  
-28 November 1990  
-12 December 1990
-
-9 January 1991  
-1 May 1991  
-28 May 1991  
-30 May 1991  
-5 June 1991  
-12 June 1991  
-28 June 1991  
-10 July 1991  
-26 July 1991  
-10 August 1991  
-25 September 1991  
-30 October 1991  
-27 November 1991  
-4 December 1991
-
-8 January 1992  
-15 April 1992  
-29 April 1992  
-10 June 1992  
-1 July 1992  
-7 July 1992  
-9 July 1992  
-7 August 1992  
-20 August 1992  
-14 October 1992  
-18 November 1992  
-2 December 1992
-
-7 April 1993  
-21 April 1993  
-28 April 1993  
-12 May 1993  
-4 June 1993  
-10 June 1993  
-30 June 1993  
-6 July 1993  
-24 July 1993  
-8 September 1993  
-15 October 1993  
-24 November 1993  
-22 December 1993
-
-27 January 1994  
-13 April 1994  
-18 May 1994  
-22 June 1994  
-14 July 1994  
-20 July 1994  
-26 July 1994  
-3 August 1994  
-12 August 1994  
-14 September 1994  
-19 October 1994  
-1 December 1994
-
-12 January 1995  
-13 April 1995  
-8 June 1995  
-21 June 1995  
-2 August 1995  
-7 August 1995  
-11 August 1995  
-21 August 1995  
-22 August 1995  
-20 September 1995  
-25 October 1995  
-29 November 1995
-
-5 January 1996
-
-24 April 1996  
-10 May 1996  
-5 June 1996  
-21 June 1996  
-10 July 1996  
-14 August 1996  
-29 August 1996  
-19 September 1996  
-7 November 1996  
-29 November 1996
-
-25 April 1997  
-21 May 1997  
-5 June 1997  
-6 June 1997  
-12 June 1997  
-16 July 1997  
-6 August 1997  
-20 August 1997  
-27 August 1997  
-10 September 1997  
-8 October 1997  
-31 October 1997  
-29 November 1997  
-11 December 1997
-
-23 April 1998  
-29 May 1998  
-9 June 1998  
-12 June 1998  
-2 July 1998  
-29 July 1998  
-31 July 1998  
-6 August 1998  
-25 August 1998  
-28 August 1998  
-29 August 1998  
-21 October 1998  
-3 December 1998  
-18 December 1998
-
-4 February 1999  
-12 June 1999  
-12 June 1999  
-2 July 1999  
-16 July 1999  
-23 July 1999  
-13 August 1999  
-19 August 1999  
-26 August 1999  
-1 October 1999  
-5 November 1999  
-4 December 1999
-
-3 February 2000  
-2 June 2000  
-6 June 2000  
-30 June 2000  
-6 July 2000  
-24 August 2000  
-21 September 2000  
-5 December 2000
-
-10 May 2001  
-24 May 2001  
-5 June 2001  
-8 June 2001  
-28 June 2001  
-24 July 2001  
-27 July 2001  
-2 August 2001  
-30 August 2001  
-4 December 2001
-
-5 February 2002  
-19 February 2002  
-5 March 2002  
-25 April 2002  
-22 May 2002  
-30 May 2002  
-31 May 2002
-
-14 June 2002  
-5 July 2002  
-7 July 2002
-
-11 July 2002  
-1 August 2002  
-10 October 2002  
-3 December 2002  
-11 December 2002
-
-28 January 2003  
-18 February 2003  
-24 April 2003  
-29 May 2003  
-5 June 2003  
-10 June 2003  
-13 June 2003  
-3 July 2003  
-5 July 2003  
-17 July 2003  
-1 August 2003  
-7 August 2003  
-13 September 2003  
-17 October 2003  
-2 December 2003  
-9 December 2003
-
-11 March 2004  
-10 April 2004  
-29 April 2004  
-13 May 2004  
-3 June 2004  
-8 June 2004  
-11 June 2004  
-15 June 2004  
-19 June 2004  
-29 June 2004  
-14 July 2004  
-29 July 2004  
-12 August 2004  
-16 September 2004  
-23 October 2004  
-28 October 2004  
-2 December 2004  
-8 December 2004  
-16 December 2004
-
-17 February 2005  
-24 February 2005  
-3 March 2005  
-31 March 2005  
-7 April 2005  
-21 April 2005  
-14 May 2005  
-26 May 2005  
-1 June 2005  
-24 June 2005  
-30 June 2005  
-23 July 2005  
-28 July 2005  
-30 July 2005  
-24 September 2005  
-20 October 2005  
-7 December 2005  
-8 December 2005
-
-27 March 2006  
-27 April 2006  
-8 June 2006  
-16 June 2006  
-7 July 2006  
-13 July 2006  
-28 July 2006  
-17 August 2006  
-12 October 2006  
-6 December 2006  
-7 December 2006
-
-1 March 2007  
-24 May 2007  
-15 June 2007  
-22 June 2007  
-28 June 2007  
-19 July 2007  
-8 August 2007  
-4 October 2007  
-6 December 2007
-
-27 May 2008  
-10 June 2008  
-27 June 2008  
-4 July 2008  
-22 July 2008  
-9 September 2008  
-21 October 2008  
-16 December 2008 *All research for this page by Simon Murgatroyd.*
+**Haunting Julia** **Alan Ayckbourn** 27 May 2008  
+**Snake In The Grass** **Alan Ayckbourn** 10 June 2008  
+**Cover Her Feet \* (R)** **Nick Warburton** 27 June 2008  
+**Fly In The Ointment \* (R)** **Nick Warburton** 4 July 2008  
+**Life & Beth \*** **Alan Ayckbourn** 22 July 2008  
+**Woman In Mind** **Alan Ayckbourn** 9 September 2008  
+**Jack Lear** **Ben Benison** 21 October 2008  
+**Awaking Beauty** **Alan Ayckbourn** 16 December 2008
+
+*All research for this page by Simon Murgatroyd.*

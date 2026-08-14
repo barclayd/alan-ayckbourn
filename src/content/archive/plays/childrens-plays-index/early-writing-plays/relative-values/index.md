@@ -20,4 +20,5 @@ An original manuscript for *The Season* is held in the Ayckbourn Archive at the 
 ***Relative Values* quotation**  
 **Harold:** What’s happened to your face?  
 **Molly:** I’ve got make-up on.  
-**Harold:** Looks like you’ve forgotten to wash it.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Harold:** Looks like you’ve forgotten to wash it.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

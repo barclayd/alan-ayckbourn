@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Early notes by Alan Ayckbourn for *A Brief History of Women* breaking down characters names and roles in each scene. Note the lead character, Spates, is called Chatterton here.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-8ff2828.jpg)
@@ -23,6 +26,9 @@ Early notes by Alan Ayckbourn for *A Brief History of Women* breaking down chara
 
 More notes for *A Brief History of Women* by Alan Ayckbourn including cross-casting for his revival of Taking Steps in the same season.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-6bb8572.jpg)
@@ -30,6 +36,9 @@ More notes for *A Brief History of Women* by Alan Ayckbourn including cross-cast
 ![](./_images/stacks-image-0c34a08.jpg)
 
 Alan Ayckbourn's sketch of the in-the-round layout of the set for the world premiere of *A Brief History of Women*. Set in the same location over 60 years, each of the four rooms had to be quickly changed for each scene as the house progressed from stately home to school to arts centre to hotel.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -64,6 +73,7 @@ The poster for the North American premiere of *A Brief History of Women* at the 
 **Design:** 59E59 Theatres (© Scarborough Theatre Trust)  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*      *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

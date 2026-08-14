@@ -12,4 +12,5 @@ order: 2365
 *(1977)*
 
 "Alan Ayckbourn was regarded as the outstanding comedy writer of this generation - of this century, for my money."  
-*(1977)**Copyright: Ben Travers. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1977)*  
+*Copyright: Ben Travers. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

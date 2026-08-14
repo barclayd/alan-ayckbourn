@@ -30,41 +30,28 @@ play: "by-jeeves"
 **Choreography:** Christopher Bruce  
 **Lighting:** Robert Ornbo  
 **Sound:** David Collison  
-**Executive Producer:** Bob Swash**Character**  
-Bertie Wooster  
-Jeeves  
-Harold "Stinker" Pinker  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Sir Roderick Spode  
-Honoria Glossop  
-Seppings, the butler  
-Ramsay, the parlourmaid  
-Dawkins, the kitchenmaid  
-Madeleine Bassett  
-Stiffy Byng  
-Bingo Little  
-Aunt Dahlia \*  
-Sharkey, a gardener's boy  
-Cropper, a gardener's boy  
-The Drones Club**Actor**  
-David Hemmings  
-Michael Aldridge  
-Gordon Clyde  
-Christopher Good  
-Bill Wallis  
-John Turner  
-Angela Easterling  
-Graham Hamilton  
-Elaine Louden  
-Jini Steel  
-Gabrielle Drake  
-Debbie Bowen  
-David Wood  
-Betty Marsden  
-Peter Kosta  
-Brett Forrest  
-Derek Beard, Bill Boazman, John Dicks, David Cordwell, Sam Cox, Terry Wood*\* This role was cut from the London production.*
+**Executive Producer:** Bob Swash
+
+**Character** **Actor**  
+**Bertie Wooster** David Hemmings  
+**Jeeves** Michael Aldridge  
+**Harold "Stinker" Pinker** Gordon Clyde  
+**Gussie Fink-Nottle** Christopher Good  
+**Sir Watkyn Bassett** Bill Wallis  
+**Sir Roderick Spode** John Turner  
+**Honoria Glossop** Angela Easterling  
+**Seppings, the butler** Graham Hamilton  
+**Ramsay, the parlourmaid** Elaine Louden  
+**Dawkins, the kitchenmaid** Jini Steel  
+**Madeleine Bassett** Gabrielle Drake  
+**Stiffy Byng** Debbie Bowen  
+**Bingo Little** David Wood  
+**Aunt Dahlia \*** Betty Marsden  
+**Sharkey, a gardener's boy** Peter Kosta  
+**Cropper, a gardener's boy** Brett Forrest  
+**The Drones Club** Derek Beard, Bill Boazman, John Dicks, David Cordwell, Sam Cox, Terry Wood
+
+*\* This role was cut from the London production.*
 
 *For details of the orchestration used for Jeeves, click* ***[here](/plays/by-jeeves/productions/orchestration)***.
 
@@ -90,29 +77,22 @@ Derek Beard, Bill Boazman, John Dicks, David Cordwell, Sam Cox, Terry Wood*\* Th
 
 **Stage Manager:** Michael Townsend  
 **Deputy Stage Manager:** Erica Fletcher  
-**Assistant Stage Manager:** Stephanie Bateson**Character**  
-Bertram Wooster  
-Jeeves  
-Honoria Glossop  
-Bingo Little  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeline Bassett  
-Stiffy Byng  
-Harold ‘Stinker’ Pinker  
-Cyrus Budge III Jnr  
-Izzie Nutledge**Actor**  
-Steven Pacey  
-Malcolm Sinclair  
-Lucy Tregear  
-Nick Haverson  
-Simon Day  
-Bob Austin  
-Diana Morrison  
-Cathy Sara  
-Richard Long  
-Nic Colicos  
-Kate Young*For details of the orchestration used for By Jeeves, click [here](/plays/by-jeeves/productions/orchestration).*
+**Assistant Stage Manager:** Stephanie Bateson
+
+**Character** **Actor**  
+**Bertram Wooster** Steven Pacey  
+**Jeeves** Malcolm Sinclair  
+**Honoria Glossop** Lucy Tregear  
+**Bingo Little** Nick Haverson  
+**Gussie Fink-Nottle** Simon Day  
+**Sir Watkyn Bassett** Bob Austin  
+**Madeline Bassett** Diana Morrison  
+**Stiffy Byng** Cathy Sara  
+**Harold ‘Stinker’ Pinker** Richard Long  
+**Cyrus Budge III Jnr** Nic Colicos  
+**Izzie Nutledge** Kate Young
+
+*For details of the orchestration used for By Jeeves, click [here](/plays/by-jeeves/productions/orchestration).*
 
 ### By Jeeves: Workshop (1995)
 
@@ -120,27 +100,19 @@ Kate Young*For details of the orchestration used for By Jeeves, click [here](/pl
 **Venue:** N/A  
 **Staging:** N/A
 
-**Director:** Alan Ayckbourn**Character**  
-Bertram Wooster  
-Jeeves  
-Honoria Glossop  
-Bingo Little  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeline Bassett  
-Stiffy Byng  
-Harold ‘Stinker’ Pinker  
-Cyrus Budge III Jnr**Actor**  
-Steven Pacey  
-Malcolm Sinclair  
-Janie Dee  
-Nick Haverson  
-Simon Day  
-Bob Austin  
-Diana Morrison  
-Cathy Sara  
-James Buller  
-Nic Colicos
+**Director:** Alan Ayckbourn
+
+**Character** **Actor**  
+**Bertram Wooster** Steven Pacey  
+**Jeeves** Malcolm Sinclair  
+**Honoria Glossop** Janie Dee  
+**Bingo Little** Nick Haverson  
+**Gussie Fink-Nottle** Simon Day  
+**Sir Watkyn Bassett** Bob Austin  
+**Madeline Bassett** Diana Morrison  
+**Stiffy Byng** Cathy Sara  
+**Harold ‘Stinker’ Pinker** James Buller  
+**Cyrus Budge III Jnr** Nic Colicos
 
 ### By Jeeves: London Premiere (1996)
 
@@ -154,27 +126,19 @@ Nic Colicos
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Louise Belson  
-**Choreography:** Sheila Carter**Character**  
-Bertram Wooster  
-Jeeves  
-Honoria Glossop  
-Bingo Little  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeline Bassett  
-Stiffy Byng  
-Harold ‘Stinker’ Pinker  
-Cyrus Budge III Jnr **Actor**  
-Steven Pacey  
-Malcolm Sinclair  
-Lucy Tregear  
-Nick Haverson  
-Simon Day  
-Bob Austin  
-Diana Morrison  
-Cathy Sara  
-Richard Long  
-Nic Colicos
+**Choreography:** Sheila Carter
+
+**Character** **Actor**  
+**Bertram Wooster** Steven Pacey  
+**Jeeves** Malcolm Sinclair  
+**Honoria Glossop** Lucy Tregear  
+**Bingo Little** Nick Haverson  
+**Gussie Fink-Nottle** Simon Day  
+**Sir Watkyn Bassett** Bob Austin  
+**Madeline Bassett** Diana Morrison  
+**Stiffy Byng** Cathy Sara  
+**Harold ‘Stinker’ Pinker** Richard Long  
+**Cyrus Budge III Jnr** Nic Colicos
 
 ### By Jeeves: London Transfer (1996)
 
@@ -188,27 +152,19 @@ Nic Colicos
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Louise Belson  
-**Choreography:** Sheila Carter**Character**  
-Bertram Wooster  
-Jeeves  
-Honoria Glossop  
-Bingo Little  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeline Bassett  
-Stiffy Byng  
-Harold ‘Stinker’ Pinker  
-Cyrus Budge III Jnr **Actor**  
-Steven Pacey  
-Malcolm Sinclair  
-Lucy Tregear  
-Nick Haverson  
-Simon Day  
-Bob Austin  
-Diana Morrison  
-Cathy Sara  
-Richard Long  
-Nic Colicos
+**Choreography:** Sheila Carter
+
+**Character** **Actor**  
+**Bertram Wooster** Steven Pacey  
+**Jeeves** Malcolm Sinclair  
+**Honoria Glossop** Lucy Tregear  
+**Bingo Little** Nick Haverson  
+**Gussie Fink-Nottle** Simon Day  
+**Sir Watkyn Bassett** Bob Austin  
+**Madeline Bassett** Diana Morrison  
+**Stiffy Byng** Cathy Sara  
+**Harold ‘Stinker’ Pinker** Richard Long  
+**Cyrus Budge III Jnr** Nic Colicos
 
 ### By Jeeves: North American Premiere (1996)
 
@@ -221,30 +177,20 @@ Nic Colicos
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Louise Belson  
-**Choreography:** Sheila Carter**Character**  
-Bertie Wooster  
-Jeeves
+**Choreography:** Sheila Carter
 
-Honoria Glossop  
-Harold “Stinker” Pinker  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeleine Bassett  
-Stiffy Byng  
-Bingo Little  
-Cyrus Budge III Junior  
-Ozzie Nutledge**Actor**  
-John Scherer  
-Malcolm Sinclair / Richard Kline  
-Donna Lynne Champlin  
-Ian Knauer  
-Kevin Ligon  
-Mervyn Goldsmith  
-Nancy Anderson  
-Emily Loesser  
-Randy Redd  
-Jonathan Stewart  
-Michael O’Flaherty
+**Character** **Actor**  
+**Bertie Wooster** John Scherer  
+**Jeeves** Malcolm Sinclair / Richard Kline  
+**Honoria Glossop** Donna Lynne Champlin  
+**Harold “Stinker” Pinker** Ian Knauer  
+**Gussie Fink-Nottle** Kevin Ligon  
+**Sir Watkyn Bassett** Mervyn Goldsmith  
+**Madeleine Bassett** Nancy Anderson  
+**Stiffy Byng** Emily Loesser  
+**Bingo Little** Randy Redd  
+**Cyrus Budge III Junior** Jonathan Stewart  
+**Ozzie Nutledge** Michael O’Flaherty
 
 ### By Jeeves: New York Premiere (2001)
 
@@ -258,27 +204,19 @@ Michael O’Flaherty
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Louise Belson  
-**Choreography:** Sheila Carter**Character**  
-Bertie Wooster  
-Jeeves  
-Honoria Glossop  
-Harold “Stinker” Pinker  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeleine Bassett  
-Stiffy Byng  
-Bingo Little  
-Cyrus Budge III Junior**Actor**  
-John Scherer  
-Martin Jarvis  
-Donna Lynne Champlin  
-Ian Knauer  
-James Kall  
-Sam Tsoutsouvas  
-Becky Watson  
-Emily Loesser  
-Don Stephenson  
-Steve Wilson
+**Choreography:** Sheila Carter
+
+**Character** **Actor**  
+**Bertie Wooster** John Scherer  
+**Jeeves** Martin Jarvis  
+**Honoria Glossop** Donna Lynne Champlin  
+**Harold “Stinker” Pinker** Ian Knauer  
+**Gussie Fink-Nottle** James Kall  
+**Sir Watkyn Bassett** Sam Tsoutsouvas  
+**Madeleine Bassett** Becky Watson  
+**Stiffy Byng** Emily Loesser  
+**Bingo Little** Don Stephenson  
+**Cyrus Budge III Junior** Steve Wilson
 
 ### By Jeeves: London Revival (2011)
 
@@ -297,27 +235,21 @@ Steve Wilson
 
 **Producer:** Thomas Hopkins  
 **Producer:** Jason Haigh-Ellery  
-**Producer:** Julian Stonemason**Character**  
-Bertie Wooster  
-Jeeves  
-Honoria Glossop  
-Harold “Stinker” Pinker  
-Gussie Fink-Nottle  
-Sir Watkyn Bassett  
-Madeleine Bassett  
-Stiffy Byng  
-Bingo Little  
-Cyrus Budge III Junior**Actor**  
-Kevin Trainor  
-Paul M Meston  
-Charlotte Mills  
-Bendan Cull  
-Andrew Pepper  
-Tim Hudson  
-Helen George  
-Jenni Maitland  
-Owen Rhys Davies  
-David Menkin**Notes:** The production was initially intended to run until 5 March but was extended for a week to 12 March 2011. The musical was 're-invented' as a tap dancing musical with no involvement from Alan Ayckbourn; although he was asked to alter the lyrics for *Half A Moment*, but refused.
+**Producer:** Julian Stonemason
+
+**Character** **Actor**  
+**Bertie Wooster** Kevin Trainor  
+**Jeeves** Paul M Meston  
+**Honoria Glossop** Charlotte Mills  
+**Harold “Stinker” Pinker** Bendan Cull  
+**Gussie Fink-Nottle** Andrew Pepper  
+**Sir Watkyn Bassett** Tim Hudson  
+**Madeleine Bassett** Helen George  
+**Stiffy Byng** Jenni Maitland  
+**Bingo Little** Owen Rhys Davies  
+**Cyrus Budge III Junior** David Menkin
+
+**Notes:** The production was initially intended to run until 5 March but was extended for a week to 12 March 2011. The musical was 're-invented' as a tap dancing musical with no involvement from Alan Ayckbourn; although he was asked to alter the lyrics for *Half A Moment*, but refused.
 
 ### By Jeeves: Revival (2017)
 
@@ -338,7 +270,8 @@ Producer: Charlotte Scott
 **Production Manager:** Alison Fowler  
 **Company Stage Manager:** Jeremy Barnaby  
 **Deputy Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Amy Henery**Character**  
+**Assistant Stage Manager:** Amy Henery  
+**Character**  
 Bertie Wooster  
 Jeeves  
 Honoria Glossop  
@@ -350,7 +283,8 @@ Stiffy Byng
 Bingo Little  
 Cyrus Budge III Junior
 
-**Musicians****Actor**  
+**Musicians**  
+**Actor**  
 Nadim Naaman  
 Bill Champion  
 Melle Stewart  
@@ -367,4 +301,5 @@ Alex Phillips-Yates
 Faye Lewis  
 Paddy Rogan  
 Louis Singleton  
-Beak Davison*All research for this page by Simon Murgatroyd.*
+Beak Davison  
+*All research for this page by Simon Murgatroyd.*

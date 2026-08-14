@@ -13,10 +13,11 @@ play: "a-cut-in-the-rates"
 **Venue:** Stephen Joseph Theatre In The Round, Scarbough  
 **Staging:** Round
 
-**Director:** Alan Ayckbourn**Character**  
-Miss Pickhart  
-Woman / Rosalinda  
-Ratchet**Actor**  
-Lavinia Bertram  
-Liza Sadovy  
-Michael Cashman*All research for this page by Simon Murgatroyd.*
+**Director:** Alan Ayckbourn
+
+**Character** **Actor**  
+**Miss Pickhart** Lavinia Bertram  
+**Woman / Rosalinda** Liza Sadovy  
+**Ratchet** Michael Cashman
+
+*All research for this page by Simon Murgatroyd.*

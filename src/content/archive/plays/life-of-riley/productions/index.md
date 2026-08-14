@@ -19,21 +19,16 @@ play: "life-of-riley"
 
 **Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Annette Waldie**Character**  
-Kathryn  
-Colin  
-Simeon  
-Tamsin  
-Jack  
-Monica  
-Tilly**Actor**  
-Liza Goddard  
-Kim Wall  
-Jamie Kenna  
-Laura Doddington  
-Ben Porter  
-Laura Howard  
-Helen Goelet / Lucy Jenkins
+**Assistant Stage Manager:** Annette Waldie
+
+**Character** **Actor**  
+**Kathryn** Liza Goddard  
+**Colin** Kim Wall  
+**Simeon** Jamie Kenna  
+**Tamsin** Laura Doddington  
+**Jack** Ben Porter  
+**Monica** Laura Howard  
+**Tilly** Helen Goelet / Lucy Jenkins
 
 ### Tour (2011)
 
@@ -45,22 +40,16 @@ Helen Goelet / Lucy Jenkins
 **Director:** Alan Ayckbourn  
 **Associate Director:** Clare Prenton  
 **Design:** Michael Holt  
-**Lighting:** Jason Taylor**Character**  
-Kathryn  
-Colin  
-Simeon  
-Tamsin  
-Jack  
-Monica
+**Lighting:** Jason Taylor
 
-Understudy  
-Understudy**Actor**  
-Liza Goddard  
-Kim Wall  
-Jamie Kenna  
-Laura Doddington  
-Ben Porter  
-Laura Howard
+**Character** **Actor**  
+**Kathryn** Liza Goddard  
+**Colin** Kim Wall  
+**Simeon** Jamie Kenna  
+**Tamsin** Laura Doddington  
+**Jack** Ben Porter  
+**Monica** Laura Howard  
+**Understudy** Stephen Ashmore-Blakely  
+**Understudy** Pamela Hall
 
-Stephen Ashmore-Blakely  
-Pamela Hall*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

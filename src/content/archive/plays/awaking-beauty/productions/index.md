@@ -23,24 +23,18 @@ play: "awaking-beauty"
 
 **Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Rowena Rickson**Character**  
-Carabosse  
-The Prince  
-Princess Aurora  
-The Pigcutter  
-First Narrator  
-Second Narrator  
-Third Narrator  
-Fourth Narrator  
-Fifth Narrator  
-Sixth Narrator**Actor**  
-Anna Francolini  
-Duncan Patrick  
-Alice Fearn  
-Ben Fox  
-Verity Quade  
-Annalene Beechey  
-Helen French  
-Matthew White  
-Ian McLarnon  
-Jon-Paul Hevey*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Rowena Rickson
+
+**Character** **Actor**  
+**Carabosse** Anna Francolini  
+**The Prince** Duncan Patrick  
+**Princess Aurora** Alice Fearn  
+**The Pigcutter** Ben Fox  
+**First Narrator** Verity Quade  
+**Second Narrator** Annalene Beechey  
+**Third Narrator** Helen French  
+**Fourth Narrator** Matthew White  
+**Fifth Narrator** Ian McLarnon  
+**Sixth Narrator** Jon-Paul Hevey
+
+*All research for this page by Simon Murgatroyd.*

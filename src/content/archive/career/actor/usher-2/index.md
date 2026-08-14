@@ -32,4 +32,5 @@ order: 577
 *Usher* was originally produced - and premiered - at Theatre in the Round at the Library Theatre, Scarborough, during the summer of 1962. It was then revived at the Victoria Theatre, Stoke-on-Trent with a slightly altered cast and re-directed by Peter Cheeseman.
 
 **Review extract from the Evening Sentinel** (6 November 1962)  
-"This production by Peter Cheeseman is a triumph of sound and superb lighting effects, with powerful acting from Alan Ayckbourn, as the demented master of Usher, with death already in his pallid corpse's face and frightening eyes."*All research for this page by Simon Murgatroyd.*
+"This production by Peter Cheeseman is a triumph of sound and superb lighting effects, with powerful acting from Alan Ayckbourn, as the demented master of Usher, with death already in his pallid corpse's face and frightening eyes."  
+*All research for this page by Simon Murgatroyd.*

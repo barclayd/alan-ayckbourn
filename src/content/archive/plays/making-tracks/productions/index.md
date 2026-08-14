@@ -22,25 +22,18 @@ play: "making-tracks"
 **Stage Manager:** Isobel Nimmo  
 **Deputy Stage Manager:** Eric Lumsden  
 **Assistant Stage Manager:** Sue Merry  
-**Assistant Stage Manager:** John Skitt**Character**  
-Rog, a sound engineer  
-Sandy, a singer  
-Lennie, a keyboard player  
-Chris, a drummer  
-Gus, a guitarist  
-Stan, an impresario  
-Wolfe, a business man  
-Lace, a good friend  
-Mrs Witts, a mother**Actor**  
-Peter Ackerman  
-Lavinia Bertram  
-Dave Newton  
-Paul Todd  
-Iain Hawkins  
-Roger Llewellyn  
-Robin Bowerman  
-Gillian Bevan  
-Susan Uebel
+**Assistant Stage Manager:** John Skitt
+
+**Character** **Actor**  
+**Rog, a sound engineer** Peter Ackerman  
+**Sandy, a singer** Lavinia Bertram  
+**Lennie, a keyboard player** Dave Newton  
+**Chris, a drummer** Paul Todd  
+**Gus, a guitarist** Iain Hawkins  
+**Stan, an impresario** Roger Llewellyn  
+**Wolfe, a business man** Robin Bowerman  
+**Lace, a good friend** Gillian Bevan  
+**Mrs Witts, a mother** Susan Uebel
 
 ### Revival (1982)
 
@@ -61,25 +54,18 @@ Susan Uebel
 **Assistant Stage Manager:** Matthew Claridge  
 **Assistant Stage Manager:** Jeff Golding  
 **Assistant Stage Manager:** Anneke Harrison  
-**Assistant Stage Manager:** Richard Gernett**Character**  
-Rog, a sound engineer  
-Sandy, a singer  
-Lennie, a keyboard player  
-Chris, a drummer  
-Gus, a guitarist  
-Stan, an impresario  
-Wolfe, a business man  
-Lace, a good friend  
-Mrs Witts, a mother**Actor**  
-Michael Cashman  
-Ursula Mohan  
-Dave Newton  
-Paul Todd  
-Iain Hawkins  
-Russell Dixon  
-John Arthur  
-Gillian Bevan  
-Elizabeth Kelly
+**Assistant Stage Manager:** Richard Gernett
+
+**Character** **Actor**  
+**Rog, a sound engineer** Michael Cashman  
+**Sandy, a singer** Ursula Mohan  
+**Lennie, a keyboard player** Dave Newton  
+**Chris, a drummer** Paul Todd  
+**Gus, a guitarist** Iain Hawkins  
+**Stan, an impresario** Russell Dixon  
+**Wolfe, a business man** John Arthur  
+**Lace, a good friend** Gillian Bevan  
+**Mrs Witts, a mother** Elizabeth Kelly
 
 ### London Premiere (1983)
 
@@ -92,22 +78,18 @@ Elizabeth Kelly
 **Design:** Michael Holt  
 **Lighting:** Francis Lynch  
 **Music:** Paul Todd  
-**Sound:** Francis Lynch**Character**  
-Rog, a sound engineer  
-Sandy, a singer  
-Lennie, a keyboard player  
-Chris, a drummer  
-Gus, a guitarist  
-Stan, an impresario  
-Wolfe, a business man  
-Lace, a good friend  
-Mrs Witts, a mother**Actor**  
-Michael Cashman  
-Ursula Mohan  
-Dave Newton  
-Paul Todd  
-Isaac Guillory  
-Russell Dixon  
-John Arthur  
-Gillian Bevan  
-Doreen Andrew**Note:** During the course of the run, the role of Lennie was taken over by David Rose.*All research for this page by Simon Murgatroyd.*
+**Sound:** Francis Lynch
+
+**Character** **Actor**  
+**Rog, a sound engineer** Michael Cashman  
+**Sandy, a singer** Ursula Mohan  
+**Lennie, a keyboard player** Dave Newton  
+**Chris, a drummer** Paul Todd  
+**Gus, a guitarist** Isaac Guillory  
+**Stan, an impresario** Russell Dixon  
+**Wolfe, a business man** John Arthur  
+**Lace, a good friend** Gillian Bevan  
+**Mrs Witts, a mother** Doreen Andrew
+
+**Note:** During the course of the run, the role of Lennie was taken over by David Rose.  
+*All research for this page by Simon Murgatroyd.*

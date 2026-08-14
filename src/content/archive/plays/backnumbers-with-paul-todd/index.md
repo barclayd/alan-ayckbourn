@@ -13,7 +13,7 @@ facts:
   Venue: "Stephen Joseph Theatre in the Round, Scarborough"
   Director: "Alan Ayckbourn"
   Musical Director: "Paul Todd"
-  Design: "Edward Lipscomb  The Company"
+  Design: "Edward Lipscomb"
 ---
 
 **Published / Available To Stage:** No
@@ -38,7 +38,8 @@ By the time *Backnumbers* was produced, Alan and Paul had six collaborations bet
 7. Unlove Song (*Second Helping*)  
 8. Tea Tango (*First Course*)  
 9. Now and Again (*I*)  
-10. Big Finish (*Men on Women on Men*)**Backnumbers 11-20 (original play / revue in brackets)**  
+10. Big Finish (*Men on Women on Men*)  
+**Backnumbers 11-20 (original play / revue in brackets)**  
 11. Jubilee Road (*Second Helping*)  
 12. Not for Sandy (*Making Tracks*)  
 13. Air Raids (*First Course*)  
@@ -56,10 +57,12 @@ By the time *Backnumbers* was produced, Alan and Paul had six collaborations bet
 **Premiere - Part 1:** 19 July 1983  
 **Premiere - Part 2:** 21 July 1983
 
+**The Company**  
 Michael Cashman  
 Ruth Mayo  
 Michael Ross  
-Liza Sadovy **The Band**  
+Liza Sadovy  
+**The Band**  
 Gary Beaty  
 Paul Todd  
 Richard Townend

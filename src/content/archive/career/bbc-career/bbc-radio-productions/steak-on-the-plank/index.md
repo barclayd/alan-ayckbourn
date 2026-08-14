@@ -8,30 +8,24 @@ order: 657
 
 ### Production Details
 
-**Author:**
+**Author:** Maurice Hardaker  
+**Broadcast:** 11 July 1965  
+**Channel:** North of England Home Service
 
-**Broadcast:**  
-**Channel:**Maurice Hardaker
+**Director:**  
+Alan Ayckbourn
 
-11 July 1965  
-North of England Home Service**Director:**Alan Ayckbourn**Character**  
-Ruth Walker  
-Bernard Walker  
-Bystander  
-Woman  
-First policeman  
-Second poticeman  
-Doctor  
-Davis**Actor**  
-Judith Barker  
-Brian Peck  
-Colin Edwynn  
-Barbara Greenhalgh  
-Laurence Bould  
-John Walton  
-Peter Penry-Jones  
-Ralph Lawton
+**Character** **Actor**  
+**Ruth Walker** Judith Barker  
+**Bernard Walker** Brian Peck  
+**Bystander** Colin Edwynn  
+**Woman** Barbara Greenhalgh  
+**First policeman** Laurence Bould  
+**Second poticeman** John Walton  
+**Doctor** Peter Penry-Jones  
+**Davis** Ralph Lawton
 
 ### Notes
 
-○ *Steak on the Plank* was repeated on the BBC Home Service on 4 April 1967 as part of a series called *Five From The North* highlighting northern writers.*All research for this page by Simon Murgatroyd.*
+○ *Steak on the Plank* was repeated on the BBC Home Service on 4 April 1967 as part of a series called *Five From The North* highlighting northern writers.  
+*All research for this page by Simon Murgatroyd.*

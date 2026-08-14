@@ -21,7 +21,8 @@ play: "men-on-women-on-men"
 **Costumes:** Frances Upton  
 **Music:** Paul Todd
 
-**Stage Manager:** Amanda Saunders**The Company**  
+**Stage Manager:** Amanda Saunders  
+**The Company**  
 Malcolm Hebden  
 Lavinia Bertram  
 Robin Murphy  
@@ -29,4 +30,5 @@ Fiona Mathieson
 
 **The Musicians**  
 Piano and synthesiser: David Ebbage  
-Piano and percussion: Paul Todd*All research for this page by Simon Murgatroyd.*
+Piano and percussion: Paul Todd  
+*All research for this page by Simon Murgatroyd.*

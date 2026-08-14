@@ -37,4 +37,5 @@ Following accolades from The Guardian and the local newspaper, The Evening Senti
 "Alan Ayckbourn's Count has an intensity, when he stands still, that is gripping. In his interviews with the Countess - regally played by Heather Stoney - a real dramatic tension develops; similarly when he is with Lucille, who Caroline Smith portrays with a proper degree of clumsy simplicity.
 
 **Review extract from the Evening Sentinel** (12 February 1963)  
-"Alan Ayckbourn and David Halliwell play the duo \[The Count and Hero\] almost faultlessly."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn and David Halliwell play the duo \[The Count and Hero\] almost faultlessly."  
+*All research for this page by Simon Murgatroyd.*

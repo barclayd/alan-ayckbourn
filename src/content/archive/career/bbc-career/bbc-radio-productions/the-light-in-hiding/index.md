@@ -8,24 +8,22 @@ order: 638
 
 ### Production Details
 
-**Author:**
+**Author:** Denise Robertson  
+**Broadcast:** 14 September 1970 @ 11.30am  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Denise Robertson
+**Director:**  
+**Music:**  
+Alan Ayckbourn  
+Trevor Holroyd
 
-14 September 1970 @ 11.30am  
-BBC Radio 4**Director:**  
-**Music:**Alan Ayckbourn  
-Trevor Holroyd**Character**  
-Role not known  
-Role not known  
-Role not known  
-Role not known**Actor**  
-Daphne Oxenford  
-John McGregor  
-Heather Stoney  
-Elisabeth Sladen
+**Character** **Actor**  
+**Role not known** Daphne Oxenford  
+**Role not known** John McGregor  
+**Role not known** Heather Stoney  
+**Role not known** Elisabeth Sladen
 
 ### Notes
 
-○ *The Light In Hiding or Tail Of A Thought* was broadcast as part of the *Five From The North* series highlighting Northern writing.*All research for this page by Simon Murgatroyd.*
+○ *The Light In Hiding or Tail Of A Thought* was broadcast as part of the *Five From The North* series highlighting Northern writing.  
+*All research for this page by Simon Murgatroyd.*

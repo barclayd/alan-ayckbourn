@@ -13,7 +13,8 @@ facts:
   Other Media: "No"
   Short Synopsis: "In the future, the first trial of an android is taking place. The circumstances surrounding the incident are unclear, the evidence is polarising, and selecting an impartial jury is proving a challenge. It will raise the ultimate question, what makes us human?"
   Amateur: "Not currently available for amateur performance."
-  Professional: "Not currently available for professional production. The Trial of Romeo Oscar"
+  Professional: "Not currently available for professional production."
 ---
 
-
+**Availability**  
+**The Trial of Romeo Oscar**

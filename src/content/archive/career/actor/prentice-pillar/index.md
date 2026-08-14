@@ -8,13 +8,13 @@ order: 553
 
 ### Production Details
 
-****Play:** 'Prentice Pillar** **Character** **Actor**  
-****Author:** Ruth Dixon** **Dick** David Campton  
-****First performance:** 15 June 1960** **Essie** Hazel Burt  
-****Final performance:** 22 June 1960** **Prentice** Alan Ayckbourn  
-****Venue:** The Library Theatre, Scarborough** **Martha** Anita Robinson  
-****Staging:** Round** **Master Mason** David Glover  
-****Director:** Stephen Joseph** **The Tub** Faynia Jeffery
+**Play:** 'Prentice Pillar **Character** **Actor**  
+**Author:** Ruth Dixon **Dick** David Campton  
+**First performance:** 15 June 1960 **Essie** Hazel Burt  
+**Final performance:** 22 June 1960 **Prentice** Alan Ayckbourn  
+**Venue:** The Library Theatre, Scarborough **Martha** Anita Robinson  
+**Staging:** Round **Master Mason** David Glover  
+**Director:** Stephen Joseph **The Tub** Faynia Jeffery
 
 ### Quotes & Notes
 
@@ -24,4 +24,5 @@ During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at
 "A sensitive performance was given by Alan Ayckbourn as the apprentice."
 
 **Review extract from unknown publication** (June 1960)  
-"Alan Ayckbourn and Hazel Ann Lee played the young lovers with great feeling."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn and Hazel Ann Lee played the young lovers with great feeling."  
+*All research for this page by Simon Murgatroyd.*

@@ -6,120 +6,34 @@ order: 63
 
 There has actually been a substantial amount of non-English language adaptations of Alan Ayckbourn's plays for television and film over the years. Sadly, the Ayckbourn Archive holds very fews details of these productions nor a comprehensive list of the adaptations. This page offers a list of currently known Ayckbourn non-English language filmed adaptations.
 
-### Title
+**Title** **Adaptation** **Country** **Year**  
+○ **[Aimer, Boire et Chanter](/career/recordings/other-media/life-of-riley)** Life Of Riley **France** 2014  
+**○ L'amant de ma soeur** Sisterly Feelings **France** 1991  
+**○ Charmate Soiree** Bedroom Farce **France** 1990  
+**○ Comédia de Camas** Bedroom Farce **Portugal** 1993  
+○ **[Couers](/career/recordings/other-media/private-fears-in-public-places)** Private Fears In Public Places **France** 2006  
+**○ Deliciosamente absurdos** Absurd Person Singular **Spain** 1983  
+**○ Drei Schlafzimmer** Bedroom Farce **Germany** 1980  
+**○ Fantomes Sur L'Oreiller** Taking Steps **France** 1989  
+**○ Het Feestkomitee** Ten Times Table **Belgium** 1981  
+**○ Ganz Unter Uns** Just Between Ourselves **Germany** 1981  
+**○ Gemengd Dubbel** Countdown **Belgium** 1971  
+**○ Halbe Wahrheiten** Relatively Speaking **Germany** 1972  
+**○ Halbe Wahrheiten** Relatively Speaking **Belgium / Germany** 1985  
+**○ Leonard** Time And Time Again **Belgium** 1974  
+**○ Liefde Half Om Half** How The Other Half Loves **Netherlands** 1979  
+**○ Od czasu do czasu** Communicating Doors **Poland** 2000  
+**○ Onder Ons** Just Between Ourselves **Belgium** 1980  
+**○ Pozory myla** RolePlay **Poland** 2008  
+**○ Sila Komiczna** Comic Potential **Poland** 2003  
+**○ Slippers** Relatively Speaking **Netherlands** 1975  
+**○ Smísené dvouhry** Countdown **Czech Republic** 2011  
+○ **[Smoking / No Smoking](/career/recordings/other-media/intimate-exchanges)** Intimate Exchanges **France** 1987  
+**○ Stroomopwaarts** Way Upstream **Netherlands** 1991  
+**○ Toffelhjältar** Relatively Speaking **Sweden** 1998  
+**○ Treppe Auf - Treppe Ab** Taking Steps **Germany** 1984  
+**○ Wesołych Swiat** Absurd Person Singular **Poland** 2003
 
-○ **[Aimer, Boire et Chanter](/career/recordings/other-media/life-of-riley)**  
-○ L'amant de ma soeur  
-○ Charmate Soiree  
-○ Comédia de Camas  
-○ **[Couers](/career/recordings/other-media/private-fears-in-public-places)**  
-○ Deliciosamente absurdos  
-○ Drei Schlafzimmer  
-○ Fantomes Sur L'Oreiller  
-○ Het Feestkomitee  
-○ Ganz Unter Uns  
-○ Gemengd Dubbel  
-○ Halbe Wahrheiten  
-○ Halbe Wahrheiten  
-○ Leonard  
-○ Liefde Half Om Half  
-○ Od czasu do czasu  
-○ Onder Ons  
-○ Pozory myla  
-○ Sila Komiczna  
-○ Slippers  
-○ Smísené dvouhry  
-○ **[Smoking / No Smoking](/career/recordings/other-media/intimate-exchanges)**  
-○ Stroomopwaarts  
-○ Toffelhjältar  
-○ Treppe Auf - Treppe Ab  
-○ Wesołych Swiat
-
-### Adaptation
-
-Life Of Riley  
-Sisterly Feelings  
-Bedroom Farce  
-Bedroom Farce  
-Private Fears In Public Places  
-Absurd Person Singular  
-Bedroom Farce  
-Taking Steps  
-Ten Times Table  
-Just Between Ourselves  
-Countdown  
-Relatively Speaking  
-Relatively Speaking  
-Time And Time Again  
-How The Other Half Loves  
-Communicating Doors  
-Just Between Ourselves  
-RolePlay  
-Comic Potential  
-Relatively Speaking  
-Countdown  
-Intimate Exchanges  
-Way Upstream  
-Relatively Speaking  
-Taking Steps  
-Absurd Person Singular
-
-### Country
-
-France  
-France  
-France  
-Portugal  
-France  
-Spain  
-Germany  
-France  
-Belgium  
-Germany  
-Belgium  
-Germany  
-Belgium / Germany  
-Belgium  
-Netherlands  
-Poland  
-Belgium  
-Poland  
-Poland  
-Netherlands  
-Czech Republic  
-France  
-Netherlands  
-Sweden  
-Germany  
-Poland
-
-### Year
-
-2014  
-1991  
-1990  
-1993  
-2006  
-1983  
-1980  
-1989  
-1981  
-1981  
-1971  
-1972  
-1985  
-1974  
-1979  
-2000  
-1980  
-2008  
-2003  
-1975  
-2011  
-1987  
-1991  
-1998  
-1984  
-2003*Thanks to Martina Nilsson for pointing out that Toffelhjältar translates, literally, as Slipper Heroes. Relatively Speaking is commonly adapted under the title Slippers for international markets.*
+*Thanks to Martina Nilsson for pointing out that Toffelhjältar translates, literally, as Slipper Heroes. Relatively Speaking is commonly adapted under the title Slippers for international markets.*
 
 *All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

@@ -8,13 +8,13 @@ order: 572
 
 ### Production Details
 
-****Play:** The Birds And The Well-Wishers** **Character** **Actor**  
-****Author:** William Norfolk** **Mrs Trigger** Heather Stoney  
-****First performance:** 5 July 1962** **Vi** Marie Adams  
-****Final performance:** 11 July 1962** **Maisie** Elizabeth Bell  
-****Venue:** The Library Theatre, Scarborough** **Fred** Alan Ayckbourn  
-****Staging:** Round** **Bob** Richard Gill  
-****Director:** Peter Cheeseman** **Stage Manager** Arnold Beck
+**Play:** The Birds And The Well-Wishers **Character** **Actor**  
+**Author:** William Norfolk **Mrs Trigger** Heather Stoney  
+**First performance:** 5 July 1962 **Vi** Marie Adams  
+**Final performance:** 11 July 1962 **Maisie** Elizabeth Bell  
+**Venue:** The Library Theatre, Scarborough **Fred** Alan Ayckbourn  
+**Staging:** Round **Bob** Richard Gill  
+**Director:** Peter Cheeseman **Stage Manager** Arnold Beck
 
 ### Quotes & Notes
 
@@ -26,4 +26,5 @@ order: 572
 "Perhaps the main point about this excellently brisk production in-the-round is Alan Ayckbourn's triumph as Fred. Angular and open-mouthed in an army shirt and light blue drape suit, his performance at Mrs Trigger's party is almost painfully hilarious."
 
 **Review extract from the Scarborough Evening News** (6 July 1962)  
-"The performance of Marie Adams as Vi matches Elizabeth Bell's in its sharply etched realism. Alan Ayckbourn is sound as Fred."*All research for this page by Simon Murgatroyd.*
+"The performance of Marie Adams as Vi matches Elizabeth Bell's in its sharply etched realism. Alan Ayckbourn is sound as Fred."  
+*All research for this page by Simon Murgatroyd.*

@@ -147,7 +147,8 @@ Broadcast: 31 January 1968 @ 3pm (BBC Radio 4)
 
 **[The Events At Black Tor](/career/bbc-career/bbc-radio-productions/the-events-at-black-tor)**  
 by Roy Clarke (six part serial)  
-Broadcast: 18 April 1968 @ 7.45pm (BBC Radio 2)**[Terms Of Reference](/career/bbc-career/bbc-radio-productions/terms-of-reference)**  
+Broadcast: 18 April 1968 @ 7.45pm (BBC Radio 2)  
+**[Terms Of Reference](/career/bbc-career/bbc-radio-productions/terms-of-reference)**  
 by Stanley Middleton (adapt. Brian Thompson)  
 Broadcast: 22 April 1968 @ 8.30pm (BBC Radio 4)
 
@@ -280,6 +281,7 @@ Broadcast: 19 August 1979 @ 2.30pm (BBC Radio 4)
 
 **The Conservatory**  
 by Brian Thompson  
-Broadcast: 2 November 1981 @ 8pm (BBC Radio 4)\* After Alan left the BBC in 1970, he directed several pieces for BBC Radio with the Stephen Joseph Theatre company based on productions he had directed in Scarborough.
+Broadcast: 2 November 1981 @ 8pm (BBC Radio 4)  
+\* After Alan left the BBC in 1970, he directed several pieces for BBC Radio with the Stephen Joseph Theatre company based on productions he had directed in Scarborough.
 
 *All research for this page by Simon Murgatroyd. The contents of this section of the playwright would not have been possible without the resources of the BBC Genome Project.*

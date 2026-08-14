@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Alan Ayckbourn's original hand-drawn sketch for the in-the-round set for the world premiere of *Life & Beth* in 2008.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-f1b4845.jpg)
@@ -37,6 +40,7 @@ The actual set, designed by Pip Leckenby, for the world premiere of *Life & Beth
 **Photographer:** Simon Murgatroyd (© Simon Murgatroyd)  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*     *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

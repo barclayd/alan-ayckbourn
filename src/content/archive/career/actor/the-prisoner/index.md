@@ -32,4 +32,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 *The Prisoner* was directed by the actress Heather Stoney, who is now Alan Ayckbourn's wife, and was her first and only production as director.
 
 **Extract from the Evening Sentinel** (4 December 1963)  
-"The instruments which Alan Ayckbourn as the interrogator and Bernard Gallagher as the Cardinal had at their disposal were not precise enough. Their relationship was not sufficiently balanced to define the sway of advantage."*All research for this page by Simon Murgatroyd.*
+"The instruments which Alan Ayckbourn as the interrogator and Bernard Gallagher as the Cardinal had at their disposal were not precise enough. Their relationship was not sufficiently balanced to define the sway of advantage."  
+*All research for this page by Simon Murgatroyd.*

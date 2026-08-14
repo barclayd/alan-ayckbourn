@@ -8,56 +8,37 @@ order: 425
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Hugh Mills  
+**New Play:** No  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Hugh Mills  
-No
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**14 July 1975  
-14 July 1975  
-3 September 1975
+**First performance:** 14 July 1975  
+**Opening night:** 14 July 1975  
+**Final performance:** 3 September 1975
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Costumes:**
+**Director:** Alan Ayckbourn  
+**Design:** Helga Wood  
+**Costumes:** Philip Pawsey  
+**Stage Manager:** David Millard  
+**Deputy Stage Manager:** Kevin Wood  
+**Assistant Stage Manager:** Susan Legge
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Helga Wood  
-Philip Pawsey
-
-David Millard  
-Kevin Wood  
-Susan Legge**Character**  
-Burton, a maid  
-Dearest, mother of Cedric  
-Cedric, Lord Fauntleroy  
-Lettice, Lady Fauntleroy  
-Violet, Comtesse de Chaumont  
-Furse, the butler  
-Molyneux, Earl of Dorincourt  
-Sir Pomeroy Pomeroy-Jones  
-Eustace Pomeroy-Jones**Actor**  
-Christine Welch  
-Janet Dale  
-Stephen Mallatratt  
-Eileen O'Brien  
-Polly Warren  
-Kevin Wood  
-Bob Eaton  
-David Ross  
-Christopher Godwin
+**Character** **Actor**  
+**Burton, a maid** Christine Welch  
+**Dearest, mother of Cedric** Janet Dale  
+**Cedric, Lord Fauntleroy** Stephen Mallatratt  
+**Lettice, Lady Fauntleroy** Eileen O'Brien  
+**Violet, Comtesse de Chaumont** Polly Warren  
+**Furse, the butler** Kevin Wood  
+**Molyneux, Earl of Dorincourt** Bob Eaton  
+**Sir Pomeroy Pomeroy-Jones** David Ross  
+**Eustace Pomeroy-Jones** Christopher Godwin
 
 ### Notes
 
-○ *Angels In Love* was not originally scheduled for the summer 1975 season at the Library Theatre, Scarborough, but was a late replacement for the advertised play *Up To The Eyes* by Peter King, which was withdrawn from the schedule in early June when the new play was announced as not being up to expectations.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Angels In Love* was not originally scheduled for the summer 1975 season at the Library Theatre, Scarborough, but was a late replacement for the advertised play *Up To The Eyes* by Peter King, which was withdrawn from the schedule in early June when the new play was announced as not being up to expectations.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

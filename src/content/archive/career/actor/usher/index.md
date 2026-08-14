@@ -40,4 +40,5 @@ order: 571
 "In spite of some bold acting by Alan Ayckbourn, as melancholic Roderick Usher, Elizabeth Bell, as his sister, and Peter King, as the city saviour, it must be said that the play substantially fails to horrify."
 
 **Review extract from The Stage** (2 August 1962)  
-"Roderick Usher, realistically played by Alan Ayckbourn...."*All research for this page by Simon Murgatroyd.*
+"Roderick Usher, realistically played by Alan Ayckbourn...."  
+*All research for this page by Simon Murgatroyd.*

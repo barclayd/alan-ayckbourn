@@ -25,21 +25,16 @@ play: "roleplay"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Shane Thom**Character**  
-Arabella Lazenby  
-Julie-Ann Jobson  
-Paige Petite  
-Derek Jobson  
-Micky Rale  
-Dee Jobson  
-Justin Lazenby**Actor**  
-Jacqueline King  
-Saskia Butler  
-Alison Pargeter  
-Robert Austin  
-Tim Faraday  
-Beth Tuckey  
-Bill Champion
+**Assistant Stage Manager:** Shane Thom
+
+**Character** **Actor**  
+**Arabella Lazenby** Jacqueline King  
+**Julie-Ann Jobson** Saskia Butler  
+**Paige Petite** Alison Pargeter  
+**Derek Jobson** Robert Austin  
+**Micky Rale** Tim Faraday  
+**Dee Jobson** Beth Tuckey  
+**Justin Lazenby** Bill Champion
 
 ### London Premiere (2002)
 
@@ -52,21 +47,16 @@ Bill Champion
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
-**Music:** Keith Jarrett**Character**  
-Arabella Lazenby  
-Julie-Ann Jobson  
-Paige Petite  
-Derek Jobson  
-Micky Rale  
-Dee Jobson  
-Justin Lazenby**Actor**  
-Jacqueline King  
-Saskia Butler  
-Alison Pargeter  
-Robert Austin  
-Tim Faraday  
-Beth Tuckey  
-Bill Champion
+**Music:** Keith Jarrett
+
+**Character** **Actor**  
+**Arabella Lazenby** Jacqueline King  
+**Julie-Ann Jobson** Saskia Butler  
+**Paige Petite** Alison Pargeter  
+**Derek Jobson** Robert Austin  
+**Micky Rale** Tim Faraday  
+**Dee Jobson** Beth Tuckey  
+**Justin Lazenby** Bill Champion
 
 ### Revival (2016)
 
@@ -78,21 +68,16 @@ Bill Champion
 **Director:** Richard Baron  
 **Design:** Ken Harrison  
 **Lighting:** Wayne Dowdeswell  
-**Fight Director:** Raymond Short**Character**  
-Arabella Lazenby  
-Julie-Ann Jobson  
-Paige Petite  
-Derek Jobson  
-Micky Rale  
-Dee Jobson  
-Justin Lazenby**Actor**  
-Amanda Osborne  
-Kirsty Mackay  
-Gemma McElhinney  
-Owen Aaronvitch  
-David Mahoney  
-Stephanie Wilson  
-Christopher Price
+**Fight Director:** Raymond Short
+
+**Character** **Actor**  
+**Arabella Lazenby** Amanda Osborne  
+**Julie-Ann Jobson** Kirsty Mackay  
+**Paige Petite** Gemma McElhinney  
+**Derek Jobson** Owen Aaronvitch  
+**Micky Rale** David Mahoney  
+**Dee Jobson** Stephanie Wilson  
+**Justin Lazenby** Christopher Price
 
 ### Revival (2019)
 
@@ -104,18 +89,15 @@ Christopher Price
 **Director:** John Cotgrave  
 **Design:** Richard McArtney  
 **Technical:** James Clare  
-**Music:** Paul Chamberlain**Character**  
-Arabella Lazenby  
-Julie-Ann Jobson  
-Paige Petite  
-Derek Jobson  
-Micky Rale  
-Dee Jobson  
-Justin Lazenby**Actor**  
-Maria Sykes  
-Melissa Wadsworth  
-Claire Marlein  
-Philip Butterfield  
-Todd Wilson  
-Catherine Traveller  
-Andrew Goulding*All research for this page by Simon Murgatroyd.*
+**Music:** Paul Chamberlain
+
+**Character** **Actor**  
+**Arabella Lazenby** Maria Sykes  
+**Julie-Ann Jobson** Melissa Wadsworth  
+**Paige Petite** Claire Marlein  
+**Derek Jobson** Philip Butterfield  
+**Micky Rale** Todd Wilson  
+**Dee Jobson** Catherine Traveller  
+**Justin Lazenby** Andrew Goulding
+
+*All research for this page by Simon Murgatroyd.*

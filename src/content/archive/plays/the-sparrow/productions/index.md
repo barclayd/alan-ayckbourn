@@ -44,4 +44,5 @@ play: "the-sparrow"
 **Tony** Craig Sequence  
 **Julia** Hannah Head
 
-**Note:** Aside from its world premiere production in Scarborough in 1967, this rehearsed reading marks the only other time *The Sparrow* has been publicly performed in its entirety. Although withdrawn from production, special permission was given to the theatre company Dick & Lottie to perform a rehearsed reading of the play as part of an Ayckbourn readathon celebrating the Ayckbourn-dedicated company’s 10th anniversary.*All research for this page by Simon Murgatroyd.*
+**Note:** Aside from its world premiere production in Scarborough in 1967, this rehearsed reading marks the only other time *The Sparrow* has been publicly performed in its entirety. Although withdrawn from production, special permission was given to the theatre company Dick & Lottie to perform a rehearsed reading of the play as part of an Ayckbourn readathon celebrating the Ayckbourn-dedicated company’s 10th anniversary.  
+*All research for this page by Simon Murgatroyd.*

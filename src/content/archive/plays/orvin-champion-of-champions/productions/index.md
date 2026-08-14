@@ -29,7 +29,8 @@ play: "orvin-champion-of-champions"
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Peter Bevan  
 **Assistant Stage Manager:** Tom Nickson  
-**Assistant Stage Manager:** Andrew Patterson**Character**  
+**Assistant Stage Manager:** Andrew Patterson  
+**Character**  
 Walmund, a warrior of Varne  
 Ulmar, a warrior of Sollistis  
 Orvin, Ullmar's squire  
@@ -57,7 +58,8 @@ Junius
 Kenrick  
 Lathrop
 
-Courtiers, servants, soldiers, citizens, etc.**Actor**  
+Courtiers, servants, soldiers, citizens, etc.  
+**Actor**  
 Lee Drage  
 David Moss  
 Tim Webb  
@@ -98,4 +100,5 @@ Robyn Kilpatrick
 Oliver Lewis  
 Laura Oldfield  
 Lauren Terry  
-Matthew Tinker*All research for this page by Simon Murgatroyd.*
+Matthew Tinker  
+*All research for this page by Simon Murgatroyd.*

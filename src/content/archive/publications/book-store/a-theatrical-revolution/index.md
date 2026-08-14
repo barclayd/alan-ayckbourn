@@ -27,10 +27,12 @@ The contents include…
 **Title:** A Theatrical Revolution  
 **Author:** Simon Murgatroyd  
 **Published:** 2026 (second edition)  
-**Price:** £10 (P&P included - UK only) **Pages:** 64 (B/W)  
+**Price:** £10 (P&P included - UK only)  
+**Pages:** 64 (B/W)  
 **Format:** Softcover, A5  
 **Publisher:** Lulu Books  
-**ISBN:** 9781291789201   [![](./_images/stacks-image-78e64d4-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+**ISBN:** 9781291789201  
+[![](./_images/stacks-image-78e64d4-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

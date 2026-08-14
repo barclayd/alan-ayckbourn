@@ -5,7 +5,8 @@ order: 2258
 play: "the-divide"
 ---
 
-This is a list of characters which feature within *The Divide*.Soween (f)  
+This is a list of characters which feature within *The Divide*.  
+Soween (f)  
 Soween - age 68 (f)  
 Young Soween - age 5-8 (f)  
 Elihu (m)  
@@ -29,7 +30,8 @@ Walsice, writer to North Sarum Journal (m)
 Doagul, writer to North Sarum Journal (m)
 
 Desollia, Giella's Mama (f)  
-Hork, Giella's Mapa (f)Teacher Olishaw (f)  
+Hork, Giella's Mapa (f)  
+Teacher Olishaw (f)  
 Tana, Acting Chief Monitor S (m)  
 Dern, Senior Monitor SW (m)
 

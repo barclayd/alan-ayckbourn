@@ -8,53 +8,35 @@ order: 9999
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Will Evans & Valentine  
+**New Play:** No  
+**Venue:** National Theatre  
+**Location:** The Lyttelton  
+**Staging:** End-stage
 
-**Venue:**  
-**Location:**  
-**Staging:**Will Evans & Valentine  
-No
-
-National Theatre  
-The Lyttelton  
-End-stage**First performance:**  
-**Opening night:**  
-**Final performance:**6 November 1986  
-16 November 1986  
-29 August 1987
+**First performance:** 6 November 1986  
+**Opening night:** 16 November 1986  
+**Final performance:** 29 August 1987
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Lighting:**  
-**Music:**  
-**Costumes:**Alan Ayckbourn  
-Alan Tagg  
-Mick Hughes  
-Paul Todd  
-Susan Yelland**Character**  
-Sprules  
-Simpson  
-Miss Benita Mullett  
-Louise Allington  
-Aubrey Allington  
-Giles  
-James Chesterman  
-Jean Everard  
-Henery  
-George Maitland**Actor**  
-Michael Gambon  
-Diane Bull  
-Barbara Hicks  
-Polly Adams  
-Simon Cadell  
-James Hayes  
-Russell Dixon  
-Marcia Warren  
-John Arthur  
-Michael Simkins
+**Director:** Alan Ayckbourn  
+**Design:** Alan Tagg  
+**Lighting:** Mick Hughes  
+**Music:** Paul Todd  
+**Costumes:** Susan Yelland
+
+**Character** **Actor**  
+**Sprules** Michael Gambon  
+**Simpson** Diane Bull  
+**Miss Benita Mullett** Barbara Hicks  
+**Louise Allington** Polly Adams  
+**Aubrey Allington** Simon Cadell  
+**Giles** James Hayes  
+**James Chesterman** Russell Dixon  
+**Jean Everard** Marcia Warren  
+**Henery** John Arthur  
+**George Maitland** Michael Simkins
 
 ### Notes
 
@@ -63,4 +45,5 @@ Michael Simkins
 
 ### Links
 
-○ ***[Tons Of Money](/plays/tons-of-money-evans-and-valentine)*[at Alan Ayckbourn's Official Website.](/plays/tons-of-money-evans-and-valentine)***All research for this page by Simon Murgatroyd. Image copyright: National Theatre.*
+○ ***[Tons Of Money](/plays/tons-of-money-evans-and-valentine)*[at Alan Ayckbourn's Official Website.](/plays/tons-of-money-evans-and-valentine)**  
+*All research for this page by Simon Murgatroyd. Image copyright: National Theatre.*

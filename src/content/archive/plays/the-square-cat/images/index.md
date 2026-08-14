@@ -59,6 +59,9 @@ The programme for *The Square Cat*. It is notable Alan's writing pseudonym is mi
 
 The Borthwick Institute for Archives holds an original manuscript for Alan Ayckbourn's first play, *The Square Cat*. This is the cover page complete with notes by the author.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-3b835e6.jpg)
@@ -66,6 +69,9 @@ The Borthwick Institute for Archives holds an original manuscript for Alan Ayckb
 ![](./_images/stacks-image-2101886.jpg)
 
 The Borthwick Institute for Archives holds an original manuscript for Alan Ayckbourn's first play, *The Square Cat*. This is the cast page for the play.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -75,6 +81,9 @@ The Borthwick Institute for Archives holds an original manuscript for Alan Ayckb
 
 The Borthwick Institute for Archives holds an original manuscript for Alan Ayckbourn's first play, *The Square Cat*. This is the first page of the play complete with Alan's own notes.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-0f0043f.jpg)
@@ -83,6 +92,10 @@ The Borthwick Institute for Archives holds an original manuscript for Alan Ayckb
 
 The Borthwick Institute for Archives holds an original manuscript for Alan Ayckbourn's first play, *The Square Cat*. This is the second page of the manuscript.
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

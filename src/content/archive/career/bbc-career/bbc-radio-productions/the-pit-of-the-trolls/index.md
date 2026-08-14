@@ -8,28 +8,23 @@ order: 652
 
 ### Production Details
 
-**Author:**
+**Author:** Jim Andrew  
+**Broadcast:** 15 April 1967 @ 2.15pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Jim Andrew
+**Director:**  
+Alan Ayckbourn
 
-15 April 1967 @ 2.15pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Penlove  
-Christopherson  
-Don M'Grath  
-Seth  
-Landlady  
-Brenda  
-Policeman**Actor**  
-Kenneth Gilbert  
-Paul Webster  
-Anthony Kenyon  
-Joseph McKeown  
-Beth Harris  
-Liza O'Hara  
-Chris Canavan
+**Character** **Actor**  
+**Penlove** Kenneth Gilbert  
+**Christopherson** Paul Webster  
+**Don M'Grath** Anthony Kenyon  
+**Seth** Joseph McKeown  
+**Landlady** Beth Harris  
+**Brenda** Liza O'Hara  
+**Policeman** Chris Canavan
 
 ### Notes
 
-○ *The Pit Of The Trolls* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Pit Of The Trolls* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

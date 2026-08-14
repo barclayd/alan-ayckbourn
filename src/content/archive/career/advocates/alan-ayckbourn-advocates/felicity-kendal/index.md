@@ -12,4 +12,5 @@ order: 2326
 *(2013)*
 
 "He's like Chekhov."  
-*(2025)**Copyright: Felicity Kendal. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2025)*  
+*Copyright: Felicity Kendal. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

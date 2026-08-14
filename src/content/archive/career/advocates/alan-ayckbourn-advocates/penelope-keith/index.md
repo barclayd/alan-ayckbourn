@@ -15,4 +15,5 @@ order: 2325
 *(1984)*
 
 "Other plays might comment on an entire country’s political life. Alan will take a family, therefore you can say he’s a miniaturist. He’ll take a family and will comment on that. But certainly as an actor, they are wonderful plays to work on. Oh yes, it’s all there and very, very challenging and very deep."  
-*(1984)**Copyright: Penelope Keith. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1984)*  
+*Copyright: Penelope Keith. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

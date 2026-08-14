@@ -18,25 +18,19 @@ play: "relatively-speaking"
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Designer**  
-**In arrangement with**  
-**TV producer**
+**Digital:** Not available
 
-**Character**  
-Greg  
-Ginny  
-Philip  
-SheilaNigel Patrick  
-Hutchinson Scott  
-Peter Bridge  
-John Vernon
+**Director** Nigel Patrick  
+**Designer** Hutchinson Scott  
+**In arrangement with** Peter Bridge  
+**TV producer** John Vernon  
+**Character** **Actor**  
+**Greg** Richard Briers  
+**Ginny** Jennifer Hilary  
+**Philip** Michael Hordern  
+**Sheila** Celia Johnson
 
-**Actor**  
-Richard Briers  
-Jennifer Hilary  
-Michael Hordern  
-Celia Johnson**Note:** This is the first ever television broadcast of an Alan Ayckbourn play. A 50 minute excerpt of the West End production of the play was broadcast and apparently watched in 2.5m homes. The BBC does not hold a copy of the recording in archive and it is not believed it has survived in any form.
+**Note:** This is the first ever television broadcast of an Alan Ayckbourn play. A 50 minute excerpt of the West End production of the play was broadcast and apparently watched in 2.5m homes. The BBC does not hold a copy of the recording in archive and it is not believed it has survived in any form.
 
 ### Television (1969)
 
@@ -51,23 +45,18 @@ Celia Johnson**Note:** This is the first ever television broadcast of an Alan Ay
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Lighting**  
-**Designer**
+**Digital:** Not available
 
-**Character**  
-Greg  
-Ginny  
-Philip  
-SheilaHerbert Wise  
-Gerry Millerson  
-Natasha Kroll
+**Director** Herbert Wise  
+**Lighting** Gerry Millerson  
+**Designer** Natasha Kroll  
+**Character** **Actor**  
+**Greg** John Stride  
+**Ginny** Judy Cornwell  
+**Philip** Donald Sinden  
+**Sheila** Celia Johnson
 
-**Actor**  
-John Stride  
-Judy Cornwell  
-Donald Sinden  
-Celia Johnson**Note:** This is the first television adaptation of an Alan Ayckbourn play (i.e. not a recording of a live production). The BBC does not hold a copy of the programme in archive and it is not believed it has survived in any form.
+**Note:** This is the first television adaptation of an Alan Ayckbourn play (i.e. not a recording of a live production). The BBC does not hold a copy of the programme in archive and it is not believed it has survived in any form.
 
 ### Radio (1975)
 
@@ -81,19 +70,14 @@ Celia Johnson**Note:** This is the first television adaptation of an Alan Ayckbo
 **Availability**  
 **Cassette:** 1990 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Greg  
-Ginny  
-Philip  
-SheilaKay Patrick
-
-**Actor**  
-Nigel Lambert  
-Joanna Wake  
-Michael Aldridge  
-Rosemary Leach
+**Director** Kay Patrick  
+**Character** **Actor**  
+**Greg** Nigel Lambert  
+**Ginny** Joanna Wake  
+**Philip** Michael Aldridge  
+**Sheila** Rosemary Leach
 
 ### Television (1989)
 
@@ -108,26 +92,18 @@ Rosemary Leach
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Designer**  
-**Costumes**  
-**Music**  
-**Script Editor**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Greg  
-Ginny  
-Philip  
-SheilaMichael Simpson  
-Jan Spoczynski  
-Janet Tharby  
-Jim Parker  
-Stuart Griffiths  
-Shaun Sutton
+**Director** Michael Simpson  
+**Designer** Jan Spoczynski  
+**Costumes** Janet Tharby  
+**Music** Jim Parker  
+**Script Editor** Stuart Griffiths  
+**Producer** Shaun Sutton  
+**Character** **Actor**  
+**Greg** Michael Maloney  
+**Ginny** Imogen Stubbs  
+**Philip** Nigel Hawthorne  
+**Sheila** Gwen Watford
 
-**Actor**  
-Michael Maloney  
-Imogen Stubbs  
-Nigel Hawthorne  
-Gwen Watford *All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

@@ -17,24 +17,17 @@ play: "time-of-my-life"
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Gerry Stratton  
-Laura, his wife  
-Glyn, their son  
-Adam, their other son  
-Stephanie, Glyn’s wife  
-Maureen  
-Calvinu, a restauranteur  
-The waitersGordon House
+**Director** Gordon House  
+**Character** **Actor**  
+**Gerry Stratton** Richard Briers  
+**Laura, his wife** Hannah Gordon  
+**Glyn, their son** Jon Strickland  
+**Adam, their other son** Adam Godley  
+**Stephanie, Glyn’s wife** Lia Williams  
+**Maureen** Melanie Hudson  
+**Calvinu, a restauranteur** Nigel Anthony  
+**The waiters** Nigel Anthony
 
-**Actor**  
-Richard Briers  
-Hannah Gordon  
-Jon Strickland  
-Adam Godley  
-Lia Williams  
-Melanie Hudson  
-Nigel Anthony  
-Nigel Anthony*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

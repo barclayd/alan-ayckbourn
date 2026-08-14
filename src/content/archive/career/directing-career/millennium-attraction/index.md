@@ -8,54 +8,36 @@ order: 424
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Derrick Goodwin  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Derrick Goodwin  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**8 August 1990  
-13 August 1990  
-22 September 1990
+**First performance:** 8 August 1990  
+**Opening night:** 13 August 1990  
+**Final performance:** 22 September 1990
 
 ### Company Details
 
-**Director:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Design:** Roger Glossop  
+**Stage Manager:** Richard Pattison  
+**Deputy Stage Manager:** Marina Kilby  
+**Deputy Stage Manager:** Lynda Snowden  
+**Assistant Stage Manager:** Kate Rhodes James  
+**Assistant Stage Manager:** Danny McGrath  
+**Assistant Stage Manager:** Patricia Swales
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Roger Glossop
-
-Richard Pattison  
-Marina Kilby  
-Lynda Snowden  
-Kate Rhodes James  
-Danny McGrath  
-Patricia Swales**Character**  
-Thérèse  
-Camille  
-Madame Raquin  
-Laurent  
-Doctor Grivet  
-Henri Michaud**Actor**  
-Georgia Mitchell  
-Peter Forbes  
-Barbara Hicks  
-Simon Dormanby  
-Nigel Anthony  
-Geoffrey Whitehead
+**Character** **Actor**  
+**Thérèse** Georgia Mitchell  
+**Camille** Peter Forbes  
+**Madame Raquin** Barbara Hicks  
+**Laurent** Simon Dormanby  
+**Doctor Grivet** Nigel Anthony  
+**Henri Michaud** Geoffrey Whitehead
 
 ### Notes
 
-○ *Abiding Passions* is a translation of *Thérèse Raquin* by Émile Zola by Derrick Goodwin.*All research for this page by Simon Murgatroyd.*
+○ *Abiding Passions* is a translation of *Thérèse Raquin* by Émile Zola by Derrick Goodwin.  
+*All research for this page by Simon Murgatroyd.*

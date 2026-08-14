@@ -8,67 +8,32 @@ order: 478
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Frank Dunai  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Frank Dunai  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**6 July 1988  
-6 July 1988  
-10 September 1988
+**First performance:** 6 July 1988  
+**Opening night:** 6 July 1988  
+**Final performance:** 10 September 1988
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Pianist:**  
-**Tenor:**
-
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Mick Thomas  
-Michael Holt  
-Vincent Billington  
-Steven Welford
-
-Vaughan Curtis  
-Kate Haswell  
-David O'Neill  
-Braco Dawson  
-Sarah Percival**Character**  
-Alexei  
-Yulia  
-Dr Byelavin  
-Panaurov  
-Fyodor  
-Pochatkin  
-Laptev  
-Polina  
-Yartsev  
-Pyotr**Actor**  
-Peter Forbes  
-Francesca Buller  
-Peter Laird  
-Jon Strickland  
-John Gillett  
-Daniel Collings  
-Graeme Eton  
-Lynette Edwards  
-Simon Chandler  
-Adam Godley
+**Director:** Alan Ayckbourn **Character** **Actor**  
+**Lighting:** Mick Thomas **Alexei** Peter Forbes  
+**Design:** Michael Holt **Yulia** Francesca Buller  
+**Pianist:** Vincent Billington **Dr Byelavin** Peter Laird  
+**Tenor:** Steven Welford **Panaurov** Jon Strickland  
+**Fyodor** John Gillett  
+**Stage Manager:** Vaughan Curtis **Pochatkin** Daniel Collings  
+**Deputy Stage Manager:** Kate Haswell **Laptev** Graeme Eton  
+**Deputy Stage Manager:** David O'Neill **Polina** Lynette Edwards  
+**Assistant Stage Manager:** Braco Dawson **Yartsev** Simon Chandler  
+**Assistant Stage Manager:** Sarah Percival **Pyotr** Adam Godley
 
 ### Notes
 
 ○ *The Parasol* was a new adaptation of Chekhov's novel *Three Years*.  
-○ The image features Alan Ayckbourn (far left) and the company of *The Parasol* recreating the famed photograph of Anton Chekhov reading to his actors; the place of Chekhov here taken by *The Parasol*'s author Frank Dunai.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ The image features Alan Ayckbourn (far left) and the company of *The Parasol* recreating the famed photograph of Anton Chekhov reading to his actors; the place of Chekhov here taken by *The Parasol*'s author Frank Dunai.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

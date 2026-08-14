@@ -31,4 +31,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 1963 marked the last year Alan did any substantial amount of acting prior to his retiring from acting to concentrate on writing and directing from 1964 onwards.
 
 **Review extract from The Guardian** (5 March 1963)  
-"Stanley Page as Estragon handles the close-focus playing with huge assurance and great sensitivity, and Alan Ayckbourn as Vladimir, although he allows his style to slip occasionally from the spry into the fey, has some truly moving movements."*All research for this page by Simon Murgatroyd.*
+"Stanley Page as Estragon handles the close-focus playing with huge assurance and great sensitivity, and Alan Ayckbourn as Vladimir, although he allows his style to slip occasionally from the spry into the fey, has some truly moving movements."  
+*All research for this page by Simon Murgatroyd.*

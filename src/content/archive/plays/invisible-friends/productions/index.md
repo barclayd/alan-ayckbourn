@@ -24,21 +24,16 @@ play: "invisible-friends"
 **Deputy Stage Manager:** Natasha Betteridge  
 **Deputy Stage Manager:** Lynda Snowden  
 **Assistant Stage Manager:** Sarah Percival  
-**Assistant Stage Manager:** Marina Kilby**Character**  
-Lucy Baines  
-Joy, her mother  
-Walt, her father  
-Gary, her brother  
-Zara, her invisible friend  
-Felix, Zara’s father  
-Chuck, Zara’s brother**Actor**  
-Emma Chambers  
-Doreen Andrew  
-Bill Moody  
-Ian Dunn  
-Jennifer Wiltsie  
-Robin Bowerman  
-Sean Chapman
+**Assistant Stage Manager:** Marina Kilby
+
+**Character** **Actor**  
+**Lucy Baines** Emma Chambers  
+**Joy, her mother** Doreen Andrew  
+**Walt, her father** Bill Moody  
+**Gary, her brother** Ian Dunn  
+**Zara, her invisible friend** Jennifer Wiltsie  
+**Felix, Zara’s father** Robin Bowerman  
+**Chuck, Zara’s brother** Sean Chapman
 
 ### London Premiere (1991)
 
@@ -52,18 +47,15 @@ Sean Chapman
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Costumes:** Lynn Clarke**Character**  
-Lucy Baines  
-Joy, her mother  
-Walt, her father  
-Gary, her brother  
-Zara, her invisible friend  
-Felix, Zara’s father  
-Chuck, Zara’s brother**Actor**  
-Emma Chambers  
-Janet Dale  
-Bill Moody  
-Mark Benton  
-Claire Skinner  
-Simon Chandler  
-Robert Hands*All research for this page by Simon Murgatroyd.*
+**Costumes:** Lynn Clarke
+
+**Character** **Actor**  
+**Lucy Baines** Emma Chambers  
+**Joy, her mother** Janet Dale  
+**Walt, her father** Bill Moody  
+**Gary, her brother** Mark Benton  
+**Zara, her invisible friend** Claire Skinner  
+**Felix, Zara’s father** Simon Chandler  
+**Chuck, Zara’s brother** Robert Hands
+
+*All research for this page by Simon Murgatroyd.*

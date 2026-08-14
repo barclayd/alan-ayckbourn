@@ -9,4 +9,5 @@ order: 2324
 ### Quotes
 
 "What I like about Alan is he’s so inspiring. He loves actors, he loves them to death. he admires your skill and if you can come up with the goods, it’s like you’re running with him in a race. He throws a stick very far and if you can fetch it and run even further with it, he’s thrilled."  
-*(1989)**Copyright: Christine Kavanagh. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1989)*  
+*Copyright: Christine Kavanagh. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

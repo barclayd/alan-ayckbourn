@@ -18,4 +18,5 @@ order: 2341
 "He’s made British theatre a much livelier place. He’s always doing interesting things with time on stage - I did *Sisterly Feelings* and that’s two plays in one. He understands isolation particularly well. Look at *Woman in Mind*, where you’re watching a woman having a nervous breakdown. He notices people that aren’t being noticed.
 
 "I come from Scarborough, and I’d say the Stephen Joseph theatre there has been one of his greatest successes. He kept it going for years. Scarborough’s busy in the summer, but most of the year it’s not and he’s brought such a lot of wonderful work - not just his own - to that part of the world. He never stops."  
-*(2019)**Copyright: Penelope Wilton. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Penelope Wilton. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

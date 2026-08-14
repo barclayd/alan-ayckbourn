@@ -13,7 +13,7 @@ facts:
   Premiere Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Playwrights: "Alan Ayckbourn & Mervyn Watson"
   Director: "Alan Ayckbourn"
-  Piano: "Michael Garrick  Company"
+  Piano: "Michael Garrick"
 ---
 
 **Published / Available to Produce:** No
@@ -32,10 +32,12 @@ What had seemed a good idea in the wake of *Westwood Coronation Day Street Party
 
 ### Premiere Production Details (1977)
 
+**Company**  
 Alison Skilbeck  
 Malcolm Hebden  
 Robert Austin  
-Petronella Ford  
+Petronella Ford
+
 Robin Herford  
 Bob Eaton  
 Diane Bull  

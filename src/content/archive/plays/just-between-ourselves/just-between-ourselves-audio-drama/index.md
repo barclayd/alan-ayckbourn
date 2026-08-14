@@ -18,21 +18,17 @@ play: "just-between-ourselves"
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamMark Miller
+**Director** Mark Miller  
+**Character** **Actor**  
+**Dennis** Richard Briers  
+**Vera, his wife** Rosemary Leach  
+**Neil** Stephen Moore  
+**Marjorie, Dennis’s mother** Constance Chapman  
+**Pam** Rosemary McHale
 
-**Actor**  
-Richard Briers  
-Rosemary Leach  
-Stephen Moore  
-Constance Chapman  
-Rosemary McHaleFor further details about and reviews of the television adaptation of *Just Between Ourselves*, click **[here](/plays/just-between-ourselves/just-between-ourselves-audio-drama/page)**.
+For further details about and reviews of the television adaptation of *Just Between Ourselves*, click **[here](/plays/just-between-ourselves/just-between-ourselves-audio-drama/page)**.
 
 ### Radio (1984)
 
@@ -46,23 +42,16 @@ Rosemary McHaleFor further details about and reviews of the television adaptatio
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamGordon House  
-Richard Wigmore
-
-**Actor**  
-Peter Vaughan  
-Jennifer Piercey  
-Hilda Kriseman  
-Nigel Anthony  
-Frances Jeater
+**Director** Gordon House  
+**Adaptation** Richard Wigmore  
+**Character** **Actor**  
+**Dennis** Peter Vaughan  
+**Vera, his wife** Jennifer Piercey  
+**Neil** Hilda Kriseman  
+**Marjorie, Dennis’s mother** Nigel Anthony  
+**Pam** Frances Jeater
 
 ### Audiobook (2000)
 
@@ -74,21 +63,15 @@ Frances Jeater
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2000 (available)  
-**Digital:** 2011 (available)**Director**
+**Digital:** 2011 (available)
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamWaris Hussein
-
-**Actor**  
-Ken Danziger  
-Judy Geeson  
-Alfred Molina  
-Miriam Margolyes  
-Gia Carides
+**Director** Waris Hussein  
+**Character** **Actor**  
+**Dennis** Ken Danziger  
+**Vera, his wife** Judy Geeson  
+**Neil** Alfred Molina  
+**Marjorie, Dennis’s mother** Miriam Margolyes  
+**Pam** Gia Carides
 
 ### Radio (2008)
 
@@ -102,20 +85,15 @@ Gia Carides
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Dennis  
-Vera, his wife  
-Neil  
-Marjorie, Dennis’s mother  
-PamGordon House  
-Gordon House
+**Director** Gordon House  
+**Adaptation** Gordon House  
+**Character** **Actor**  
+**Dennis** Stephen Critchlow  
+**Vera, his wife** Samantha Spiro  
+**Neil** Auriol Smith  
+**Marjorie, Dennis’s mother** Chris Pavlo  
+**Pam** Alison Pettitt
 
-**Actor**  
-Stephen Critchlow  
-Samantha Spiro  
-Auriol Smith  
-Chris Pavlo  
-Alison Pettitt*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

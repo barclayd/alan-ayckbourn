@@ -8,34 +8,26 @@ order: 629
 
 ### Production Details
 
-**Author:**
+**Author:** Peter Gibbons  
+**Broadcast:** 30 August 1967 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Peter Gibbons
+**Director:**  
+Alan Ayckbourn
 
-30 August 1967 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Old Mary Ellen  
-George  
-Mary Ellen as a child  
-Mrs Hargreaves  
-Mr Hargreaves  
-Mr Broadbent  
-Mary Ellen at eighteen  
-Willie Ramsden  
-Mr Webster  
-Miss Smith**Actor**  
-Marion Dawson  
-Harry Markham  
-Susan Stirrup  
-Pamela Dellar  
-Colin Bell  
-James Beck  
-Dorothy Vernon  
-Douglas Fielding  
-Geoffrey Banks  
-Ruth Holden
+**Character** **Actor**  
+**Old Mary Ellen** Marion Dawson  
+**George** Harry Markham  
+**Mary Ellen as a child** Susan Stirrup  
+**Mrs Hargreaves** Pamela Dellar  
+**Mr Hargreaves** Colin Bell  
+**Mr Broadbent** James Beck  
+**Mary Ellen at eighteen** Dorothy Vernon  
+**Willie Ramsden** Douglas Fielding  
+**Mr Webster** Geoffrey Banks  
+**Miss Smith** Ruth Holden
 
 ### Notes
 
-○ *A Full Life* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *A Full Life* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

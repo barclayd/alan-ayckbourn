@@ -12,4 +12,5 @@ order: 2373
 *(1974)*
 
 "Alan loves complication. In *How The Other Half Loves* it's brilliant the way those two dinner tables come together, and in *Absurd Person Singular*, he's written the offstage action rather than the onstage action, but this thing of writing three plays about things happening at the same time is like a Chinese puzzle box. When he wrote *The Norman Conquests*, he had the three plays across the table. Whoever was in one couldn't be in the others at the same time, so he wrote whoever wasn't in that one or that one."  
-*(1974)**Copyright: Eric Thompson. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1974)*  
+*Copyright: Eric Thompson. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

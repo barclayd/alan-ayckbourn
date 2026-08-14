@@ -15,6 +15,7 @@ If the catalogue content does not appear in the frame, the actual online catalog
 
 **Scarborough Library (The Library Theatre / Stephen Joseph Collection):** Programmes for world premiere (1974) and revival productions (1975) at Theatre in the Round at the Library Theatre; brochures for Theatre in the Round at the Library Theatre 1974 autumn season and 1975 summer season.
 
-**Scarborough Museums and Galleries (The Ayckbourn Collection):** World premiere programme (1974); posters for the world premiere and subsequent local tour (1974). *The Research page is presented in association with the* ***[Borthwick Institute for Archives](/research/the-ayckbourn-archive)*** *at the University of York, where the Ayckbourn Archive is held. Further details about other collections and researching Alan Ayckbourn can be found in the* ***[Research](/research)*** *section of the website.*
+**Scarborough Museums and Galleries (The Ayckbourn Collection):** World premiere programme (1974); posters for the world premiere and subsequent local tour (1974).  
+*The Research page is presented in association with the* ***[Borthwick Institute for Archives](/research/the-ayckbourn-archive)*** *at the University of York, where the Ayckbourn Archive is held. Further details about other collections and researching Alan Ayckbourn can be found in the* ***[Research](/research)*** *section of the website.*
 
 *If you have any research enquiries regarding Confusions, please contact Alan Ayckbourn's archivist Simon Murgatroyd at* ***[research@alanayckbourn.net](mailto:research@alanayckbourn.net)***.  [![](./_images/web-175-dpi.jpg)](/research/the-ayckbourn-archive)

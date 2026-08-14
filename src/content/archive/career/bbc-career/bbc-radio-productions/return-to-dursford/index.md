@@ -8,46 +8,32 @@ order: 655
 
 ### Production Details
 
-**Author:**
+**Author:** Peter Russell  
+**Broadcast:** 10 December 1966 @ 2.15pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Peter Russell
+**Director:**  
+Alan Ayckbourn
 
-10 December 1966 @ 2.15pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-David Webster  
-Angela Burlon  
-Sheila Burton  
-Henry Burton  
-Hylda Burton  
-Tom Burton  
-Joe Burton  
-Gail Wainwright  
-Alderman Wainwright  
-Sam Cranston  
-Mrs Wainwright  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles**Actor**  
-Derrick Gilbert  
-Rosalind Shanks  
-Penelope Lee  
-James Beck  
-Mavis Rogerson  
-Colin Edwynn  
-Ralph Lawton  
-Pamela Craig  
-John Franklyn Robbins  
-Graham Rigby  
-Jean Lockhart  
-Catherine Naish  
-Chris Canavan  
-Roy Barraclough  
-John Baldwin  
-Paul Harper
+**Character** **Actor**  
+**David Webster** Derrick Gilbert  
+**Angela Burlon** Rosalind Shanks  
+**Sheila Burton** Penelope Lee  
+**Henry Burton** James Beck  
+**Hylda Burton** Mavis Rogerson  
+**Tom Burton** Colin Edwynn  
+**Joe Burton** Ralph Lawton  
+**Gail Wainwright** Pamela Craig  
+**Alderman Wainwright** John Franklyn Robbins  
+**Sam Cranston** Graham Rigby  
+**Mrs Wainwright** Jean Lockhart  
+**Other roles** Catherine Naish  
+**Other roles** Chris Canavan  
+**Other roles** Roy Barraclough  
+**Other roles** John Baldwin  
+**Other roles** Paul Harper
 
 ### Notes
 
-○ *Return To Dursford* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Return To Dursford* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

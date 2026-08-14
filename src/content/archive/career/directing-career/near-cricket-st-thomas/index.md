@@ -8,41 +8,25 @@ order: 474
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Nick Perry  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre  
+**Location:** The McCarthy  
+**Staging:** End-stage
 
-**Venue:**  
-**Location:**  
-**Staging:**Nick Perry  
-Yes
-
-Stephen Joseph Theatre  
-The McCarthy  
-End-stage**First performance:**  
-**Opening night:**  
-**Final performance:**31 October 1997  
-31 October 1997  
-15 November 1997
+**First performance:** 31 October 1997  
+**Opening night:** 31 October 1997  
+**Final performance:** 15 November 1997
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Lighting:**
-
-**Stage Manager:**Alan Ayckbourn  
-Pip Leckenby  
-Paul Towson
-
-Unknown**Character**  
-Officer  
-Civilian  
-Landlord**Actor**  
-Martin Ball  
-Paull Raffield  
-Tyler Butterworth
+**Director:** Alan Ayckbourn **Character** **Actor**  
+**Design:** Pip Leckenby **Officer** Martin Ball  
+**Lighting:** Paul Towson **Civilian** Paull Raffield  
+**Stage Manager:** Unknown **Landlord** Tyler Butterworth
 
 ### Notes
 
 ○ *Near Cricket St Thomas, 1919* was a late night show performed in The McCarthy theatre.  
-○ It was the first late-night show to be presented at the new Stephen Joseph Theatre venue and, appropriate enough for a ghost story, was premiered on Halloween Night.*All research for this page by Simon Murgatroyd.*
+○ It was the first late-night show to be presented at the new Stephen Joseph Theatre venue and, appropriate enough for a ghost story, was premiered on Halloween Night.  
+*All research for this page by Simon Murgatroyd.*

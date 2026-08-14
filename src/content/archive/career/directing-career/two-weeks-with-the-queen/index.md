@@ -8,43 +8,27 @@ order: 501
 
 ### Production Details
 
-**Adaptation:**  
-**Author:**  
-**New Play:**
+**Adaptation:** Mary Morris  
+**Author:** Morris Gleitzman  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Mary Morris  
-Morris Gleitzman  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**3 August 1994  
-9 August 1994  
-10 September 1994
+**First performance:** 3 August 1994  
+**Opening night:** 9 August 1994  
+**Final performance:** 10 September 1994
 
 ### Company Details
 
-**Director:**  
-**Assistant Director:**  
-**Musical Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**
-
-**Stage Manager:**  
-**Deputy Stage Manager:**Alan Ayckbourn  
-Kate Valentine  
-Simon Cryer  
-Jackie Staines  
-Roger Glossop  
-John Pattison
-
-Philip Rees  
-Jackie Hurd
+**Director:** Alan Ayckbourn  
+**Assistant Director:** Kate Valentine  
+**Musical Director:** Simon Cryer  
+**Lighting:** Jackie Staines  
+**Design:** Roger Glossop  
+**Music:** John Pattison  
+**Stage Manager:** Philip Rees  
+**Deputy Stage Manager:** Jackie Hurd
 
 **Character** **Actor**  
 **Mum / Aussie Matron / Iris** Sophia Winter  
@@ -59,4 +43,5 @@ Jackie Hurd
 ○ *Two Weeks With The Queen* was a co-production with the Royal National Theatre and transferred to the NT following its run in Scarborough.  
 ○ This production marked the European premiere of *Two Weeks With The Queen* following its world premiere in Australia in 1992.  
 ○ This was an adaptation of Morris Gleitzman's novel by Mary Morris.  
-○ *Two Weeks With The Queen* won the 1994 Martini / TMA Award for best Play for Children and Young People.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Two Weeks With The Queen* won the 1994 Martini / TMA Award for best Play for Children and Young People.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

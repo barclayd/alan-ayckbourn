@@ -12,4 +12,5 @@ order: 758
 *(1995)*
 
 "The content of Alan's work is surprisingly sharp, very shrewd, very tough and genuinely subversive.”  
-*(1995)**Copyright: Alan Strachan. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1995)*  
+*Copyright: Alan Strachan. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

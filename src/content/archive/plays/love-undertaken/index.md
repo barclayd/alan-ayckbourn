@@ -12,8 +12,9 @@ facts:
   Premiere: "21 September 1961"
   Premiere Venue: "Church Institute, Kingston-upon-Hull"
   Director: "Unknown"
-  Company: "Scarborough Theatre Guild Cast included (TBC):"
-  Venue: "St Mary's Parish House, Scarborough"
+  Company: "Scarborough Theatre Guild"
+  World premiere: "October 1961"
+  World premiere Venue: "St Mary's Parish House, Scarborough"
 ---
 
 **Published / Available to Stage:** No
@@ -40,12 +41,15 @@ The actual manuscript is credited to Roland Allen - the pseudonym Alan Ayckbourn
 
 ### Premiere Production Details (1961)
 
+**Cast included (TBC):**  
 Colin Scott  
 Fred Bishop  
-Jane Young **Revival Production Details (1961)** **World premiere:** October 1961
+Jane Young  
+**Revival Production Details (1961)**
 
 **Director:** Ken Boden  
-**Company:** Scarborough Theatre Guild **Cast included:**  
+**Company:** Scarborough Theatre Guild  
+**Cast included:**  
 Alan Ayckbourn  
 Nick Carter  
 Vicki Smart

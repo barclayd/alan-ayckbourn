@@ -8,27 +8,23 @@ order: 659
 
 ### Production Details
 
-**Author:**
+**Author:** Alan Plater  
+**Broadcast:** 1 February 1967 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Alan Plater
+**Director:**  
+Alan Ayckbourn
 
-1 February 1967 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Joe  
-Ted  
-Anderson  
-Mrs Venables  
-Edna  
-Stan**Actor**  
-Ralph Lawton  
-Peter King  
-Brian Gilmar  
-Zibba Mays  
-Heather Stoney  
-James Beck
+**Character** **Actor**  
+**Joe** Ralph Lawton  
+**Ted** Peter King  
+**Anderson** Brian Gilmar  
+**Mrs Venables** Zibba Mays  
+**Edna** Heather Stoney  
+**Stan** James Beck
 
 ### Notes
 
 ○ Alan had previously acted in *Ted's Cathedral* at the Victoria Theatre, Stoke-on-Trent, in 1963; the piece had been specifically written for the Victoria Theatre.  
-○ *Ted's Cathedral* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Ted's Cathedral* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

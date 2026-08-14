@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The first page of director Stephen Joseph's production manuscript for *Meet My Father* at Theatre in the Round at the Library Theatre, Scarborough, in 1965. Note the substantive cuts by Stephen Joseph on this page alone, repeated throughout the manuscript.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Private Collection
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-d2f4387.jpg)
@@ -34,6 +37,9 @@ A flyer for the West End premiere of *Relatively Speaking* at the Duke of York's
 
 Noël Coward's telegram to Alan Ayckbourn congratulating him on the West End success of *Relatively Speaking*. Alan initially thought it was fake and threw it away…
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-bdb1046.jpg)
@@ -41,6 +47,9 @@ Noël Coward's telegram to Alan Ayckbourn congratulating him on the West End suc
 ![](./_images/stacks-image-b955b17.jpg)
 
 A Daily Mail report from 23 May 1967 about Queen Elizabeth II making her first visit to an Ayckbourn play with *Relatively Speaking*.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -86,6 +95,7 @@ The model box for the sets for Alan Ayckbourn's 2007 revival of *Relatively Spea
 **Copyright:** Michael Holt  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

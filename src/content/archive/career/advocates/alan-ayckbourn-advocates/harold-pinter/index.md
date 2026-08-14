@@ -21,4 +21,5 @@ order: 2357
 
 According to him (some years later) my reply to this line of enquiry was "Mind your own fucking business. Just say the lines”. I can't believe I actually did say that but it's too good a story to deny. When I heard that he had given up acting and taken up writing I thought he had made a profound mistake. He was born to play *Hamlet*.
 
-"But now he's written about three thousand plays and reached the age of sixty, I must conclude that he made the right decision. In fact, there's no question about it. What he has given to the theatre is immeasurable. I take my hat off to him."*Copyright: Harold Pinter. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"But now he's written about three thousand plays and reached the age of sixty, I must conclude that he made the right decision. In fact, there's no question about it. What he has given to the theatre is immeasurable. I take my hat off to him."  
+*Copyright: Harold Pinter. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

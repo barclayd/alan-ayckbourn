@@ -8,40 +8,29 @@ order: 654
 
 ### Production Details
 
-**Author:**
+**Author:** John Wainwright  
+**Broadcast:** 6 July 1968 @ 8.30pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**John Wainwright
+**Director:**  
+Alan Ayckbourn
 
-6 July 1968 @ 8.30pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Det. Chief Supt. Lewis  
-Div. Supt. Collins  
-Det-Insp. Raff  
-Romney  
-Darkie Hall  
-Gibbs  
-Chief Constable  
-Desk Sergeant  
-Caldwell  
-Mrs Caldwell  
-Rowena  
-Evans  
-Kaye**Actor**  
-David Mahlowe  
-Bob Grant  
-Roger Rowland  
-Douglas Fielding  
-Frank Singuineau  
-Christopher Godwin  
-Robert Wallace  
-Graham Rigby  
-Ralph Lawton  
-Elizabeth Ashton  
-Nicolette Lee  
-Brian Miller  
-Robert Peck
+**Character** **Actor**  
+**Det. Chief Supt. Lewis** David Mahlowe  
+**Div. Supt. Collins** Bob Grant  
+**Det-Insp. Raff** Roger Rowland  
+**Romney** Douglas Fielding  
+**Darkie Hall** Frank Singuineau  
+**Gibbs** Christopher Godwin  
+**Chief Constable** Robert Wallace  
+**Desk Sergeant** Graham Rigby  
+**Caldwell** Ralph Lawton  
+**Mrs Caldwell** Elizabeth Ashton  
+**Rowena** Nicolette Lee  
+**Evans** Brian Miller  
+**Kaye** Robert Peck
 
 ### Notes
 
-○ *Protection* was broadcast in the *Saturday Night Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Protection* was broadcast in the *Saturday Night Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

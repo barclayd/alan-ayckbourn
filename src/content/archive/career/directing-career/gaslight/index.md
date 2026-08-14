@@ -8,35 +8,27 @@ order: 377
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Patrick Hamilton  
+**New Play:** No  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Patrick Hamilton  
-No
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**29 June 1961  
-29 June 1961  
-26 July 1961
+**First performance:** 29 June 1961  
+**Opening night:** 29 June 1961  
+**Final performance:** 26 July 1961
 
 ### Company Details
 
-**Director:**Alan Ayckbourn**Character**  
-Mrs Manningham  
-Mr Manningham  
-Rough  
-Nancy  
-Policeman**Actor**  
-Hazel Burt  
-David Jarrett  
-Stanley Page  
-Rosamund Dickson  
-Philip Clifford
+**Director:**  
+Alan Ayckbourn
+
+**Character** **Actor**  
+**Mrs Manningham** Hazel Burt  
+**Mr Manningham** David Jarrett  
+**Rough** Stanley Page  
+**Nancy** Rosamund Dickson  
+**Policeman** Philip Clifford
 
 ### Notes
 
@@ -60,4 +52,5 @@ This is the chilling atmosphere of *Gaslight*, the play the Studio Theatre Compa
 Hazel Burt's hysteria and, at times, child-like joy in the part are effective contrast to the cold, villainous character of her husband, David Jarrett, in this first production by Alan Ayckbourn.  
 There are snatches of humour to break the tense hour-and-three-quarters of compelling drama, such as when Stanley Page, as the fatherly inspector, offers the wife a drop of the hard stuff to calm her nerves.  
 Rosamund Dickson, as the maid, and Philip Clifford, who appears for a brief moment, complete the cast.  
-*(Scarborough Evening News, 30 June 1961)**All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+*(Scarborough Evening News, 30 June 1961)*  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

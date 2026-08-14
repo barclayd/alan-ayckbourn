@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The earliest correspondence regarding the musical *Jeeves* is this letter rom 12 November 1973 in which Alan's agent, Margaret Ramsay, asks him to consider writing the book for the Andrew Lloyd Webber musical. The original is held in the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-0918a83.jpg)
@@ -53,6 +56,9 @@ There has only been one other production of the original *Jeeves* musical and th
 
 Alan Ayckbourn's notes for the revised song *By Jeeves* for the musical of the same name premiered in 1996 at the Stephen Joseph Theatre, Scarborough.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-48e1f3e.jpg)
@@ -64,6 +70,7 @@ In 2001, *By Jeeves* transferred to Broadway at the Helen Hayes Theatre. This is
 **Copyright:** To be confirmed  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*      *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

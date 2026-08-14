@@ -21,27 +21,21 @@ This page contains details of significant productions of Alan Ayckbourn's *Ten T
 **Stage Manager:** David Millard  
 **Deputy Stage Manager:** Christopher Gray  
 **Assistant Stage Manager:** Barbara Jones  
-**Assistant Stage Manager:** Anne Hawkins**Character**  
-Ray  
-Donald  
-Helen  
-Sophie  
-Eric  
-Audrey  
-Lawrence  
-Tim  
-Phillipa  
-Max**Actor**  
-Malcolm Hebden  
-Robin Herford  
-Janet Dale  
-Polly Warren  
-Desmond Maurer  
-Alison Skilbeck  
-Bob Eaton  
-Christopher Godwin  
-Diane Bull  
-Christopher GrayThe John Cockle Song was composed by Bob Eaton with lyrics by Alan Ayckbourn. It was recorded with vocals by Diane Bull and guitar by Bob Eaton.
+**Assistant Stage Manager:** Anne Hawkins
+
+**Character** **Actor**  
+**Ray** Malcolm Hebden  
+**Donald** Robin Herford  
+**Helen** Janet Dale  
+**Sophie** Polly Warren  
+**Eric** Desmond Maurer  
+**Audrey** Alison Skilbeck  
+**Lawrence** Bob Eaton  
+**Tim** Christopher Godwin  
+**Phillipa** Diane Bull  
+**Max** Christopher Gray
+
+The John Cockle Song was composed by Bob Eaton with lyrics by Alan Ayckbourn. It was recorded with vocals by Diane Bull and guitar by Bob Eaton.
 
 ### London Premiere (1978)
 
@@ -53,27 +47,19 @@ Christopher GrayThe John Cockle Song was composed by Bob Eaton with lyrics by Al
 
 **Director:** Alan Ayckbourn  
 **Design:** Patrick Robertson  
-**Lighting:** Leonard Tucker**Character**  
-Ray  
-Donald  
-Helen  
-Sophie  
-Eric  
-Audrey  
-Lawrence  
-Tim  
-Phillipa  
-Max**Actor**  
-Paul Eddington  
-Benjamin Whitrow  
-Julia McKenzie  
-Stephanie Fayerman  
-John Salthouse  
-Matyelok Gibbs  
-Tenniel Evans  
-Christopher Godwin  
-Diane Bull  
-Rob Stuart
+**Lighting:** Leonard Tucker
+
+**Character** **Actor**  
+**Ray** Paul Eddington  
+**Donald** Benjamin Whitrow  
+**Helen** Julia McKenzie  
+**Sophie** Stephanie Fayerman  
+**Eric** John Salthouse  
+**Audrey** Matyelok Gibbs  
+**Lawrence** Tenniel Evans  
+**Tim** Christopher Godwin  
+**Phillipa** Diane Bull  
+**Max** Rob Stuart
 
 ### Tour (1979)
 
@@ -85,27 +71,21 @@ Rob Stuart
 **Design:** Patrick Robertson  
 **Lighting:** Durham Marenghi  
 **Producer:** Bill Kenwright  
-**Producer:** Rob H. Coton**Character**  
-Ray  
-Donald  
-Helen  
-Sophie  
-Eric  
-Audrey  
-Lawrence  
-Tim  
-Phillipa  
-Max**Actor**  
-Philip Bond  
-Geoffrey Drew  
-Adrienne Corri  
-Clare Clifford  
-Colin Spaull  
-Irene Handl  
-Charles Rea  
-Dudley Long  
-Jenny Tomasin  
-Alan Bone**Note:** This production is notable as it marked the only time an Ayckbourn touring production visited the playwright's home town of Scarborough. It visited between 17 and 22 September 1979 and was running in opposition to Alan Ayckbourn's own production at the Stephen Joseph Theatre in the Round. Infuriated by the counter-programming at a rival theatre, Alan placed a moratorium on any Ayckbourn productions taking place in Scarborough not approved by him.  
+**Producer:** Rob H. Coton
+
+**Character** **Actor**  
+**Ray** Philip Bond  
+**Donald** Geoffrey Drew  
+**Helen** Adrienne Corri  
+**Sophie** Clare Clifford  
+**Eric** Colin Spaull  
+**Audrey** Irene Handl  
+**Lawrence** Charles Rea  
+**Tim** Dudley Long  
+**Phillipa** Jenny Tomasin  
+**Max** Alan Bone
+
+**Note:** This production is notable as it marked the only time an Ayckbourn touring production visited the playwright's home town of Scarborough. It visited between 17 and 22 September 1979 and was running in opposition to Alan Ayckbourn's own production at the Stephen Joseph Theatre in the Round. Infuriated by the counter-programming at a rival theatre, Alan placed a moratorium on any Ayckbourn productions taking place in Scarborough not approved by him.  
 Also of interest, although the poster is for the same tour as that given above, the cast is significantly different with it listed as Irene Handling's, McDonald Hobley, Mark Eden, Amanda Barrie, Debbie Blythe, Colin Spaull, Dudley Long, Linda Bardell and Philip Newman.
 
 ### Tour (2019)
@@ -121,22 +101,17 @@ Also of interest, although the poster is for the same tour as that given above, 
 **Producer:** Bill Kenwright
 
 **Company Stage Manager:** Dom Whiffin  
-**Deputy Stage Manager:** Jessica Cooper**Character**  
-Ray  
-Donald  
-Helen  
-Sophie  
-Eric  
-Audrey  
-Lawrence  
-Tim  
-Phillipa **Actor**  
-Robert Daws  
-Mark Curry  
-Deborah Grant  
-Gemma Oaten  
-Craig Gazey  
-Elizabeth Power  
-Robert Duncan  
-Harry Gostelow  
-Rhiannon Handy*All research for this page by Simon Murgatroyd.*
+**Deputy Stage Manager:** Jessica Cooper
+
+**Character** **Actor**  
+**Ray** Robert Daws  
+**Donald** Mark Curry  
+**Helen** Deborah Grant  
+**Sophie** Gemma Oaten  
+**Eric** Craig Gazey  
+**Audrey** Elizabeth Power  
+**Lawrence** Robert Duncan  
+**Tim** Harry Gostelow  
+**Phillipa** Rhiannon Handy
+
+*All research for this page by Simon Murgatroyd.*

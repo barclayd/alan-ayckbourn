@@ -9,4 +9,5 @@ order: 2315
 ### Quotes
 
 "He's like a martial arts master. He just gently nudges you, you barely even notice what he’s doing and then suddenly your performance ends up over in this place and you’re scratching your head wondering how you ended up there.”  
-*(2019)**Copyright: Bill Champion. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Bill Champion. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

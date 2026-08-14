@@ -8,47 +8,33 @@ order: 427
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Harold Pinter  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Studio  
+**Staging:** End-stage
 
-**Venue:**  
-**Location:**  
-**Staging:**Harold Pinter  
-No
-
-Stephen Joseph Theatre In The Round  
-Studio  
-End-stage**First performance:**  
-**Opening night:**  
-**Final performance:**21 August 1995  
-28 August 1995  
-2 September 1995
+**First performance:** 21 August 1995  
+**Opening night:** 28 August 1995  
+**Final performance:** 2 September 1995
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Paul Towson  
+**Design:** Jan Bee Brown  
+**Stage Manager:** Vanessa Sutherland  
+**Deputy Stage Manager:** Caroline Dunn  
+**Assistant Stage Manager:** Lucy McEwan
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Paul Towson  
-Jan Bee Brown
-
-Vanessa Sutherland  
-Caroline Dunn  
-Lucy McEwan**Character**  
-Emma  
-Jerry  
-Robert  
-Waiter**Actor**  
-Mairead Carty  
-Simon Coury  
-Richard Derrington  
-Will Tacey
+**Character** **Actor**  
+**Emma** Mairead Carty  
+**Jerry** Simon Coury  
+**Robert** Richard Derrington  
+**Waiter** Will Tacey
 
 ### Notes
 
 ○ *Betrayal* was performed as a late-night production in the Studio at the Stephen Joseph Theatre In The Round, following the evening's main house production.  
-○ *Betrayal* was the final play to be directed by Alan Ayckbourn at the Stephen Joseph Theatre In The Round before the company moved to its new home, the Stephen Joseph Theatre, in 1996.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Betrayal* was the final play to be directed by Alan Ayckbourn at the Stephen Joseph Theatre In The Round before the company moved to its new home, the Stephen Joseph Theatre, in 1996.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

@@ -8,13 +8,13 @@ order: 372
 
 ### Production Details
 
-****Play:** Ring of Roses** **Character** **Actor**  
-****Author:** David Campton** **Stacey** Faynia Jeffery  
-****First performance:** 22 December 1958** **Fred** David Sutton  
-****Final performance:** 27 December 1958** **Mum** Dona Martyn  
-****Venue:** The Library Theatre, Scarborough** **Eric** Alan Ayckbourn  
-****Staging:** Round** **Brewster** Rodney Wood  
-****Director:** Stephen Joseph** **Milkman** Harold Goodwin
+**Play:** Ring of Roses **Character** **Actor**  
+**Author:** David Campton **Stacey** Faynia Jeffery  
+**First performance:** 22 December 1958 **Fred** David Sutton  
+**Final performance:** 27 December 1958 **Mum** Dona Martyn  
+**Venue:** The Library Theatre, Scarborough **Eric** Alan Ayckbourn  
+**Staging:** Round **Brewster** Rodney Wood  
+**Director:** Stephen Joseph **Milkman** Harold Goodwin
 
 ### Quotes & Notes
 
@@ -27,4 +27,5 @@ One of the most famous stories of Alan Ayckbourn's career is how he began his ca
 For many years, Alan noted the role which drove him to confront Stephen was Nicholas in ***[Bell, Book And Candle](/career/directing-career/conversations-with-my-father)***. Alan's biographer Paul Allen realised this could not be the case as *Bell, Book And Candle* was in the same season as Alan's first play *The Square Cat*. It transpired the role in question was Eric in *Ring Of Roses* but that given Alan and David Campton were friends, Alan had not wanted to say the offending play had been written by David.
 
 **Review extract from The Stage** (1 January 1959)  
-"As the unsuccessful lover, Alan Ayckbourn burbled amusingly into oblivion."*All research for this page by Simon Murgatroyd.*
+"As the unsuccessful lover, Alan Ayckbourn burbled amusingly into oblivion."  
+*All research for this page by Simon Murgatroyd.*

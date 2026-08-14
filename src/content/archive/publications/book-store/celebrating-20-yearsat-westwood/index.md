@@ -19,10 +19,12 @@ If you have any enquiries about *Celebrating 20 Years at Westwood* or are enquir
 **Title:** Celebrating 20 Years at Westwood  
 **Author:** Alan Ayckbourn  
 **Published:** 1996  
-**Price:** £10 (P&P included - UK only) **Pages:** 40 (B/W)  
+**Price:** £10 (P&P included - UK only)  
+**Pages:** 40 (B/W)  
 **Format:** Softcover, A4  
 **Publisher:** Stephen Joseph Theatre in the Round  
-**ISBN:** N/A   [![](./_images/stacks-image-1676685-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+**ISBN:** N/A  
+[![](./_images/stacks-image-1676685-300x422.png)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£10.00**  
 UK only - includes  

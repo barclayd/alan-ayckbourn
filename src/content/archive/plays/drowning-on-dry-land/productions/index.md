@@ -23,25 +23,18 @@ play: "drowning-on-dry-land"
 
 **Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Emily Thereby  
-**Assistant Stage Manager:** Mary Hely**Character**  
-Charlie Conrad  
-Linzi Ellison  
-Jason Ratcliffe  
-Hugo de Prescourt  
-Gale Gilchrist  
-Marsha Bates  
-Simeon Diggs  
-Laura  
-Katie**Actor**  
-Stephen Beckett  
-Melanie Gutteridge  
-Adrian McLoughlin  
-Stuart Fox  
-Billie-Claire Wright  
-Sarah Moyle  
-Paul Kemp  
-Sophie Irving / Harriet Richie  
-Alice Kynman / Rosalind Pilgrim
+**Assistant Stage Manager:** Mary Hely
+
+**Character** **Actor**  
+**Charlie Conrad** Stephen Beckett  
+**Linzi Ellison** Melanie Gutteridge  
+**Jason Ratcliffe** Adrian McLoughlin  
+**Hugo de Prescourt** Stuart Fox  
+**Gale Gilchrist** Billie-Claire Wright  
+**Marsha Bates** Sarah Moyle  
+**Simeon Diggs** Paul Kemp  
+**Laura** Sophie Irving / Harriet Richie  
+**Katie** Alice Kynman / Rosalind Pilgrim
 
 ### Tour (2005)
 
@@ -53,21 +46,16 @@ Alice Kynman / Rosalind Pilgrim
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
-**Music:** David Newton**Character**  
-Charlie Conrad  
-Linzi Ellison  
-Jason Ratcliffe  
-Hugo de Prescourt  
-Gale Gilchrist  
-Marsha Bates  
-Simeon Diggs**Actor**  
-Stephen Beckett  
-Melanie Gutteridge  
-Adrian McLoughlin  
-Stuart Fox  
-Alexandra Mathie  
-Sarah Moyle  
-Paul Kemp
+**Music:** David Newton
+
+**Character** **Actor**  
+**Charlie Conrad** Stephen Beckett  
+**Linzi Ellison** Melanie Gutteridge  
+**Jason Ratcliffe** Adrian McLoughlin  
+**Hugo de Prescourt** Stuart Fox  
+**Gale Gilchrist** Alexandra Mathie  
+**Marsha Bates** Sarah Moyle  
+**Simeon Diggs** Paul Kemp
 
 ### London Premiere (2011)
 
@@ -77,18 +65,15 @@ Paul Kemp
 **Staging:** End-stage
 
 **Director:** Guy Retallack  
-**Design:** Georgia Lowe**Character**  
-Charlie Conrad  
-Linzi Ellison  
-Jason Ratcliffe  
-Hugo de Prescourt  
-Gale Gilchrist  
-Marsha Bates  
-Simeon Diggs**Actor**  
-Christopher Coghill  
-Emma Swain  
-Les Dennis  
-Mark Farrelly  
-Siobahn Hewlett  
-Helen Mortimer  
-Russell Bentley*All research for this page by Simon Murgatroyd.*
+**Design:** Georgia Lowe
+
+**Character** **Actor**  
+**Charlie Conrad** Christopher Coghill  
+**Linzi Ellison** Emma Swain  
+**Jason Ratcliffe** Les Dennis  
+**Hugo de Prescourt** Mark Farrelly  
+**Gale Gilchrist** Siobahn Hewlett  
+**Marsha Bates** Helen Mortimer  
+**Simeon Diggs** Russell Bentley
+
+*All research for this page by Simon Murgatroyd.*

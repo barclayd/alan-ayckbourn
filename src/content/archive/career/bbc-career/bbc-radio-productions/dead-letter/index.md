@@ -8,26 +8,22 @@ order: 624
 
 ### Production Details
 
-**Author:**
+**Author:** Robert Storey  
+**Broadcast:** 12 January 1966 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Robert Storey
+**Director:**  
+Alan Ayckbourn
 
-12 January 1966 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Stan  
-Chris  
-Lorna  
-Ethel  
-Mrs Kay  
-Vicar**Actor**  
-Roger Rowland  
-James Beck  
-Katherine Parr  
-Carmel McSharry  
-Elspeth MacNaughton  
-Philip Weston
+**Character** **Actor**  
+**Stan** Roger Rowland  
+**Chris** James Beck  
+**Lorna** Katherine Parr  
+**Ethel** Carmel McSharry  
+**Mrs Kay** Elspeth MacNaughton  
+**Vicar** Philip Weston
 
 ### Notes
 
-○ *Dead Letter* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Dead Letter* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

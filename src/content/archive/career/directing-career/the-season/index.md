@@ -8,46 +8,32 @@ order: 417
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Stephen Lowe  
+**New Play:** Yes  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Stephen Lowe  
-Yes
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**21 July 1976  
-21 July 1976  
-1 September 1976
+**First performance:** 21 July 1976  
+**Opening night:** 21 July 1976  
+**Final performance:** 1 September 1976
 
 ### Company Details
 
-**Director:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Design:** Helga Wood  
+**Stage Manager:** Simon Somers  
+**Assistant Stage Manager:** Christopher Gray  
+**Assistant Stage Manager:** Wendy Murray  
+**Assistant Stage Manager:** Nigel LeVaillant
 
-**Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Helga Wood
-
-Simon Somers  
-Christopher Gray  
-Wendy Murray  
-Nigel LeVaillant**Character**  
-Dick  
-Jane  
-Boy  
-Girl**Actor**  
-Malcolm Hebden  
-Elaine Strickland  
-Robin Herford  
-Diane Bull
+**Character** **Actor**  
+**Dick** Malcolm Hebden  
+**Jane** Elaine Strickland  
+**Boy** Robin Herford  
+**Girl** Diane Bull
 
 ### Notes
 
-○ *Stars* was presented in a double bill with Stephen Lowe's ***[Cards](/career/directing-career/cards)*** under the title *Comic Pictures*.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Stars* was presented in a double bill with Stephen Lowe's ***[Cards](/career/directing-career/cards)*** under the title *Comic Pictures*.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

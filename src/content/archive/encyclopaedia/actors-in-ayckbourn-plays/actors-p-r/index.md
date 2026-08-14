@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-17/page50.html"
 order: 805
 ---
 
-This is a comprehensive list of the actors (surnames P - R) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Steven Pacey:** By Jeeves (WP 1996); By Jeeves (WP 1996); Things We Do For Love (LP 1998)  
+This is a comprehensive list of the actors (surnames P - R) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**Steven Pacey:** By Jeeves (WP 1996); By Jeeves (WP 1996); Things We Do For Love (LP 1998)  
 **Nicholas Palliser:** The Revengers' Comedies (LP 1991)  
 **Eileen Page:** A Word From Our Sponsor (WP 1995)  
 **Stanley Page:** Dad's Tale (WP 1960); Standing Room Only (WP 1961); Christmas V Mastermind (WP 1962); Mr Whatnot (WP 1963); The Norman Conquests (WP 1973); Confusions (WP 1974); Bedroom Farce (WP 1975); Sisterly Feelings (WP 1979)  
@@ -72,4 +73,5 @@ This is a comprehensive list of the actors (surnames P - R) who have appeared in
 **Michael Ross:** Backnumbers (WP 1983)  
 **Jenna Russell:** Wildest Dreams (LR 1993); Season's Greetings (NT 2010)  
 **Barrie Rutter:** A Chorus Of Disapproval (LR 2012)  
-**David Ryall:** A Chorus Of Disapproval (NT 1985)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**David Ryall:** A Chorus Of Disapproval (NT 1985)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

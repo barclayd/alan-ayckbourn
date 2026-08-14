@@ -8,54 +8,36 @@ order: 483
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Jean Anouilh  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Jean Anouilh  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**21 June 1977  
-22 June 1977  
-24 September 1977
+**First performance:** 21 June 1977  
+**Opening night:** 22 June 1977  
+**Final performance:** 24 September 1977
 
 ### Company Details
 
-**Director:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Design:** Michael Holt  
+**Stage Manager:** Janet Fox  
+**Deputy Stage Manager:** Christopher Gray  
+**Assistant Stage Manager:** Anne Hawkins  
+**Assistant Stage Manager:** Simon Richardson
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Michael Holt
-
-Janet Fox  
-Christopher Gray  
-Anne Hawkins  
-Simon Richardson  
-**Character**  
-Countess  
-Damiens  
-Count  
-Hortensia  
-Hero  
-Villebosse  
-Lucile**Actor**  
-Petronella Ford  
-Robert Austin  
-Robin Herford  
-Alison Skilbeck  
-Malcolm Hebden  
-Bob Eaton  
-Diane Bull
+**Character** **Actor**  
+**Countess** Petronella Ford  
+**Damiens** Robert Austin  
+**Count** Robin Herford  
+**Hortensia** Alison Skilbeck  
+**Hero** Malcolm Hebden  
+**Villebosse** Bob Eaton  
+**Lucile** Diane Bull
 
 ### Notes
 
 ○ *The Rehearsal* marked the first time Alan Ayckbourn worked with the designer Michael Holt. It would begin a long collaborative relationship which continues to the present day with Michael having designed for the world premieres of Alan’s plays as well as revivals and West End productions.  
-○ This was a production of Lucienne Hill's adaptation of the Anouilh play.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ This was a production of Lucienne Hill's adaptation of the Anouilh play.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

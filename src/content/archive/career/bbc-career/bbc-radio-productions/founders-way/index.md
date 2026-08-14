@@ -8,30 +8,24 @@ order: 627
 
 ### Production Details
 
-**Author:**
+**Author:** Albert Dobson  
+**Broadcast:** 14 June 1969 @ 2pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Albert Dobson
+**Director:**  
+Alan Ayckbourn
 
-14 June 1969 @ 2pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Meg Cromford  
-Josh Rawbottom  
-Turn Cromford  
-ohn Horrocks  
-Prudence Horrocks  
-Dr Willshaw  
-Edmond  
-Stephen**Actor**  
-Ruth Holden  
-George A Cooper  
-Jack Woolgar  
-Kenneth Gilbert  
-Pamela Craig  
-Ronald Harvi  
-Derrick Gilbert  
-Colln Edwynn
+**Character** **Actor**  
+**Meg Cromford** Ruth Holden  
+**Josh Rawbottom** George A Cooper  
+**Turn Cromford** Jack Woolgar  
+**ohn Horrocks** Kenneth Gilbert  
+**Prudence Horrocks** Pamela Craig  
+**Dr Willshaw** Ronald Harvi  
+**Edmond** Derrick Gilbert  
+**Stephen** Colln Edwynn
 
 ### Notes
 
-○ *Founder's Way* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Founder's Way* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

@@ -20,4 +20,5 @@ facts:
 **Production Availability**
 
 ***The Square Cat* Quote**  
-"Twenty years. I've wasted twenty years of my life on a man like you." **The Square Cat**
+"Twenty years. I've wasted twenty years of my life on a man like you."  
+**The Square Cat**

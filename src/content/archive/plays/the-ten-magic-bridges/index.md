@@ -14,7 +14,10 @@ facts:
   World premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Staging: "End-stage"
   Director: "Andrew Panton"
-  Puppet design: "Lee ThreadgoldCharacter"
+  Puppet design: "Lee Threadgold"
+  Character: "Actor"
+  The Princess: "Sarah Moyle"
+  Puppeteer: "Lee Threadgold"
 ---
 
 **Published / Available to Stage:** No
@@ -35,10 +38,7 @@ There is also a talking bird (flown puppet) who flies in occasionally and helps 
 
 ### Premiere Production Details (2003)
 
-The Princess  
-Puppeteer**Actor**  
-Sarah Moyle  
-Lee ThreadgoldOther roles plays by members of the SJT company
+Other roles plays by members of the SJT company
 
 ### Further Reading
 

@@ -8,30 +8,24 @@ order: 667
 
 ### Production Details
 
-**Author:**
+**Author:** George Urry  
+**Broadcast:** 4 October 1969 @ 2pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**George Urry
+**Director:**  
+Alan Ayckbourn
 
-4 October 1969 @ 2pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Mabel Duxbury  
-Joss Duxbury  
-Janet Duxbury  
-Dougie  
-Fat Jack  
-Bill Yates  
-Jack Horsfield  
-Ambulance man**Actor**  
-Barbara Greenhalgh  
-Leslle Sands  
-Heather Stoney  
-Brian Miller  
-Colin Edwynn  
-Paul Darrow  
-Jack Woolgar  
-Graham Rigby
+**Character** **Actor**  
+**Mabel Duxbury** Barbara Greenhalgh  
+**Joss Duxbury** Leslle Sands  
+**Janet Duxbury** Heather Stoney  
+**Dougie** Brian Miller  
+**Fat Jack** Colin Edwynn  
+**Bill Yates** Paul Darrow  
+**Jack Horsfield** Jack Woolgar  
+**Ambulance man** Graham Rigby
 
 ### Notes
 
-○ *The Trouble With Joss* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Trouble With Joss* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

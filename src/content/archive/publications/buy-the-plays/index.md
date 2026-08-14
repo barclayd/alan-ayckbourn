@@ -6,7 +6,8 @@ order: 40
 
 All publications on this page are currently in print and the majority are available via the **[Samuel French shop](http://www.concordtheatricals.co.uk/collections/perform/1495/)** on the Concord Theatricals website. Click on a link below to go directly to the relevant page to buy the play text for each play.
 
-Previously published and out of print editions of the playtexts can be found on the **[Other Editions](/publications/buy-the-plays/other-editions)** page.**○ Absent Friends** (click **[here](http://www.concordtheatricals.co.uk/s/1066/absent-friends/)** to buy)  
+Previously published and out of print editions of the playtexts can be found on the **[Other Editions](/publications/buy-the-plays/other-editions)** page.  
+**○ Absent Friends** (click **[here](http://www.concordtheatricals.co.uk/s/1066/absent-friends/)** to buy)  
 *Samuel French, 1975, ISBN 0573013314*
 
 **○ Absurd Person Singular** (click **[here](http://www.concordtheatricals.co.uk/s/899/absurd-person-singular/)** to buy)  
@@ -139,7 +140,8 @@ Previously published and out of print editions of the playtexts can be found on 
 *Samuel French, 2011, ISBN 9780573112225*
 
 **○ Life Of Riley** (click **[here](http://www.concordtheatricals.co.uk/s/11630/life-of-riley/)** to buy)  
-*Samuel French, 2017, ISBN 978-0573121760***○ Living Together** (click **[here](http://www.concordtheatricals.co.uk/s/1485/living-together/)** to buy)  
+*Samuel French, 2017, ISBN 978-0573121760*  
+**○ Living Together** (click **[here](http://www.concordtheatricals.co.uk/s/1485/living-together/)** to buy)  
 *Samuel French, 1975, ISBN 0573015740*
 
 **○ Man Of The Moment** (click **[here](http://www.concordtheatricals.co.uk/s/1554/man-of-the-moment/)** to buy)  
@@ -268,4 +270,5 @@ Previously published and out of print editions of the playtexts can be found on 
 *Faber, 2004, softcover, ISBN 0571215106*
 
 **○ The Divide** *(Novel)* (Click **[here](/publications/buy-the-plays/the-divide)** for more details)  
-*PS Publishing, 2019, ISBN: 9781786364487**All research for this page by Simon Murgatroyd.*
+*PS Publishing, 2019, ISBN: 9781786364487*  
+*All research for this page by Simon Murgatroyd.*

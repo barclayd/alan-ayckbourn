@@ -52,4 +52,5 @@ This page breaks down all the awards received for both Alan Ayckbourn and his pr
 
 **2009 Winners:** Special Society Award (*Alan Ayckbourn*)
 
-**2009 Nominations:** Best Revival (*The Norman Conquests* at The Old Vic); Supporting Role (Paul Ritter in *The Norman Conquests* at The Old Vic); Company (*The Norman Conquests* at The Old Vic); Costume Design (Rob Howell for *The Norman Conquests* at The Old Vic)*All research for this page by Simon Murgatroyd. Please do not reproduce without acknowledging www.alanayckbourn.net.*
+**2009 Nominations:** Best Revival (*The Norman Conquests* at The Old Vic); Supporting Role (Paul Ritter in *The Norman Conquests* at The Old Vic); Company (*The Norman Conquests* at The Old Vic); Costume Design (Rob Howell for *The Norman Conquests* at The Old Vic)  
+*All research for this page by Simon Murgatroyd. Please do not reproduce without acknowledging www.alanayckbourn.net.*

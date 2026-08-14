@@ -37,6 +37,9 @@ Interior from the programme for the world premiere of *The Sparrow* at Theatre i
 
 A letter to Alan Ayckbourn from 1967 expressing interest in a film of *The Sparrow* by the British film-making company, Amicus. It is not whether a script was sent but the film went no further.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-2ef88a5.jpg)
@@ -48,6 +51,7 @@ An article published in The Stage on 7 September 1967 about the producer Peter B
 **Copyright:** The Stage Media Ltd  
 **Holding:** Borthwick Institute For Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

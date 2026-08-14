@@ -17,4 +17,5 @@ order: 2328
 **A Chorus Of Approval (1999)**  
 *In 1999, the Stephen Joseph Theatre held a special event to mark Alan Ayckbourn's 60th birthday. This was accompanied by a publication including tributes from some of the people he has worked with. This is a complete transcript of the contribution.*
 
-"A script arriving from Alan is manna from heaven. All you have to do is learn the text faithfully, follow his punctuation meticulously, and lo and behold, you gain a reputation as an Ayckbourn actress - and if he's directing you, sometimes win awards too."*Copyright: Julia McKenzie. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"A script arriving from Alan is manna from heaven. All you have to do is learn the text faithfully, follow his punctuation meticulously, and lo and behold, you gain a reputation as an Ayckbourn actress - and if he's directing you, sometimes win awards too."  
+*Copyright: Julia McKenzie. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

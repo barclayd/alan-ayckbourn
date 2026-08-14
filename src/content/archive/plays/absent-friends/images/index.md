@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 *Absent Friends* is one of the earliest Ayckbourn plays to have the playwright's early notes and ideas survive in the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York. They offer a fascinating insight into the origins of the play and its very different initial concept.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-b38b9b9.jpg)
@@ -23,6 +26,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 *Absent Friends* is one of the earliest Ayckbourn plays to have the playwright's early notes and ideas survive in the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York. This page is notable for a list of alternative titles for the play as well as an scene breakdown which bears no resemblance to the finished play.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-7e8baec.jpg)
@@ -30,6 +36,9 @@ A collection of archive material, posters, rehearsal and production images perta
 ![](./_images/stacks-image-cf8fcb2.jpg)
 
 *Absent Friends* is one of the earliest Ayckbourn plays to have the playwright's early notes and ideas survive in the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York. This page again features early concepts for the play - very different to what the playwright eventually wrote - as well as some different character names.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -86,6 +95,7 @@ The company of the 2012 West End revival of *Absent Friends*, which received muc
 **Copyright:** To be confirmed  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -50,3 +50,5 @@ Scene 3 - A Day at the Races or A Night under Canvas
 Scene 4 - Footnote
 
 Whatever it is you see, I hope you will enjoy it.
+
+*Copyright: Ian Watson / Haydonning Ltd. Please do not reproduce without permission of the copyright holder.*

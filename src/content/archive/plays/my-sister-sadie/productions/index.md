@@ -21,18 +21,15 @@ play: "my-sister-sadie"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Emily Thurlby**Character**  
-Luke Pickett  
-Avril Pickett  
-Captain Leonard Lennox  
-Sergeant Jipton  
-Sadie  
-Dr Thora Grayling  
-Lisa**Actor**  
-Neil Grainger  
-Becky Hindley  
-Justin Brett  
-Adrian McLoughlin  
-Saskia Butler  
-Alexandra Mathie  
-Charlie Hayes*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Emily Thurlby
+
+**Character** **Actor**  
+**Luke Pickett** Neil Grainger  
+**Avril Pickett** Becky Hindley  
+**Captain Leonard Lennox** Justin Brett  
+**Sergeant Jipton** Adrian McLoughlin  
+**Sadie** Saskia Butler  
+**Dr Thora Grayling** Alexandra Mathie  
+**Lisa** Charlie Hayes
+
+*All research for this page by Simon Murgatroyd.*

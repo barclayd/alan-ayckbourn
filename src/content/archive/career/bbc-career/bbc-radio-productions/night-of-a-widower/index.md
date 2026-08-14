@@ -8,39 +8,29 @@ order: 648
 
 ### Production Details
 
-**Author:**
+**Author:** Pagan Muat  
+**Broadcast:** 2 September 1967 @ 8.30pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Pagan Muat
+**Director:**  
+Alan Ayckbourn
 
-2 September 1967 @ 8.30pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Eddie Kerwin  
-Mrs Glover  
-Winnie Palliser  
-Irene Riddick  
-Alice Riddick  
-Aggie Spence  
-Mrs Redman  
-Sheila Redman  
-Joe O'Mahney  
-Reti O'Mahney  
-Moira  
-Vince Delaney**Actor**  
-Wilfred Pickles  
-Mavis Rogerson  
-Sylvia Brayshay  
-Mary Quinn  
-Pamela Craig  
-Ruth Holden  
-Eileen Derbyshire  
-Stephanie Turner  
-Bernard Gallagher  
-Heather Stoney  
-Elizabeth Ashton  
-Anthony Kenyon
+**Character** **Actor**  
+**Eddie Kerwin** Wilfred Pickles  
+**Mrs Glover** Mavis Rogerson  
+**Winnie Palliser** Sylvia Brayshay  
+**Irene Riddick** Mary Quinn  
+**Alice Riddick** Pamela Craig  
+**Aggie Spence** Ruth Holden  
+**Mrs Redman** Eileen Derbyshire  
+**Sheila Redman** Stephanie Turner  
+**Joe O'Mahney** Bernard Gallagher  
+**Reti O'Mahney** Heather Stoney  
+**Moira** Elizabeth Ashton  
+**Vince Delaney** Anthony Kenyon
 
 ### Notes
 
 ○ *Night Of A Widower* was advertised in the Radio Times magazine as 'Wilfred Pickles in *Night Of A Widower*.'  
-○ *Night Of A Widower* was broadcast in the *Saturday Night Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Night Of A Widower* was broadcast in the *Saturday Night Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

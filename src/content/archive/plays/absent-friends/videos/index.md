@@ -12,4 +12,5 @@ play: "absent-friends"
 **SpotLight on Ayckbourn: Absent Friends**  
 Posted: 16 February 2022
 
-Alan Ayckbourn's Archivist Simon Murgatroyd looks behind the scenes of the writing of *Absent Friends* including exclusive archive material and photographs. *The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*
+Alan Ayckbourn's Archivist Simon Murgatroyd looks behind the scenes of the writing of *Absent Friends* including exclusive archive material and photographs.  
+*The videos on this page are copyright of Simon Murgatroyd and should not be reproduced, edited or stored in any format without permission of the copyright holder.*

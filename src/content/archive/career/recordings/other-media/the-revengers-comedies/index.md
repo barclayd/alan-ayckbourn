@@ -23,49 +23,29 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Karen Knightly  
-Henry Bell  
-Imogen Staxton-Billing  
-Oliver Knightly  
-Bruce Tick  
-Colonel Lipscott  
-Winnie  
-Anthony Staxton-Billing  
-Percy Cutting  
-Norma  
-Lady Ganton  
-Daphne Teale  
-Lydia Lucas  
-Mrs Bulley  
-Tracey Willingforth  
-Veronica Webb  
-Jeremy Pride  
-MotorcyclistGordon House  
-Richard Wigmore
-
-**Actor**  
-Lia Williams  
-Jon Strickland  
-Barbara Flynn  
-Adam Godley  
-Jeff Shankley  
-Jack May  
-Jenny Howe  
-George Parsons  
-Malcolm Ward  
-Deborah Berlin  
-Margaret John  
-Tina Gray  
-Natasha Pyne  
-Christine Millward  
-Susanna Corbett  
-Jennifer Piercey  
-Derek Waring  
-Ian Masters
+**Director** Gordon House  
+**Adaptation** Richard Wigmore  
+**Character** **Actor**  
+**Karen Knightly** Lia Williams  
+**Henry Bell** Jon Strickland  
+**Imogen Staxton-Billing** Barbara Flynn  
+**Oliver Knightly** Adam Godley  
+**Bruce Tick** Jeff Shankley  
+**Colonel Lipscott** Jack May  
+**Winnie** Jenny Howe  
+**Anthony Staxton-Billing** George Parsons  
+**Percy Cutting** Malcolm Ward  
+**Norma** Deborah Berlin  
+**Lady Ganton** Margaret John  
+**Daphne Teale** Tina Gray  
+**Lydia Lucas** Natasha Pyne  
+**Mrs Bulley** Christine Millward  
+**Tracey Willingforth** Susanna Corbett  
+**Veronica Webb** Jennifer Piercey  
+**Jeremy Pride** Derek Waring  
+**Motorcyclist** Ian Masters
 
 ### Film (1998)
 
@@ -83,50 +63,31 @@ Ian Masters
 **Video:** Not available  
 **DVD:** 2012 (deleted)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**  
-**Photography**  
-**Editing**  
-**Design**  
-**Design**  
-**Music**  
-**Sound**
+**Digital:** Not available
 
-**Character**  
-Henry Bell  
-Karen Knightly  
-Imogen Staxton-Billing  
-Oliver Knightly  
-Anthony Staxton-Billing  
-Bruce Tick  
-Col. Marcus  
-Winnie  
-Daphne Teal  
-Norma  
-Percy Cutting  
-Hilary Tick  
-Lydia  
-Damien TickMalcolm Mowbray  
-Malcolm Mowbray  
-Romain Winding  
-Barrie Vince  
-Stuart Walker  
-Diane Dancklefsen  
-Alexandre Desplat  
-Peter Glossop
+**Director** Malcolm Mowbray  
+**Adaptation** Malcolm Mowbray  
+**Photography** Romain Winding  
+**Editing** Barrie Vince  
+**Design** Stuart Walker  
+**Design** Diane Dancklefsen  
+**Music** Alexandre Desplat  
+**Sound** Peter Glossop  
+**Character** **Actor**  
+**Henry Bell** Sam Neill  
+**Karen Knightly** Helena Bonham Carter  
+**Imogen Staxton-Billing** Kristin Scott Thomas  
+**Oliver Knightly** Rupert Graves  
+**Anthony Staxton-Billing** Martin Clunes  
+**Bruce Tick** Steve Coogan  
+**Col. Marcus** John Wood  
+**Winnie** Liz Smith  
+**Daphne Teal** Anita Dobson  
+**Norma** Charlotte Coleman  
+**Percy Cutting** Adrian Scarborough  
+**Hilary Tick** Sandra Reinton  
+**Lydia** Zoe Hilson  
+**Damien Tick** Jamie O'Brien
 
-**Actor**  
-Sam Neill  
-Helena Bonham Carter  
-Kristin Scott Thomas  
-Rupert Graves  
-Martin Clunes  
-Steve Coogan  
-John Wood  
-Liz Smith  
-Anita Dobson  
-Charlotte Coleman  
-Adrian Scarborough  
-Sandra Reinton  
-Zoe Hilson  
-Jamie O'Brien**Note:** *The Revengers' Comedies* runs for just 82 minutes; in context the original stage production of *The Revengers' Comedies* ran longer than 5 hours. This production is frequently mistaken for a television adaptation, but initially it had a limited cinema release in the UK, France and North America.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Note:** *The Revengers' Comedies* runs for just 82 minutes; in context the original stage production of *The Revengers' Comedies* ran longer than 5 hours. This production is frequently mistaken for a television adaptation, but initially it had a limited cinema release in the UK, France and North America.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

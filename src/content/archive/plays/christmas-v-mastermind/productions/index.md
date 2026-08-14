@@ -28,4 +28,5 @@ play: "christmas-v-mastermind"
 **PC Fumble** Arnold Beck  
 **Policewoman Trout** Caroline Smith
 
-\* In one of the two world premiere programmes held in archive, Alan Ayckbourn is credited as co-director of the play. However, he has no recollection of actually being involved in the direction of the play and does not consider it a play which he either directed or had any involvement in directing.*All research for this page by Simon Murgatroyd.*
+\* In one of the two world premiere programmes held in archive, Alan Ayckbourn is credited as co-director of the play. However, he has no recollection of actually being involved in the direction of the play and does not consider it a play which he either directed or had any involvement in directing.  
+*All research for this page by Simon Murgatroyd.*

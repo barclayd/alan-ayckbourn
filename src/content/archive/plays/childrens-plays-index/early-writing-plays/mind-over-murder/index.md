@@ -32,4 +32,5 @@ Until *Mind Over Murder* came to light, Alan’s first acknowledged attempt at a
 
 Although other plays such as ***[The Revengers’ Comedies](/plays/the-revengers-comedies)*** (1989) have elements of the genre in them, his most successful attempt at writing a thriller is considered to be his 2002 play ***[Snake In The Grass](/plays/snake-in-the-grass)***.
 
-An original manuscript for *Mind Over Murder* is held in the Ayckbourn Archive at the **[Borthwick Institute for Archives](/research)** at the University of York.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+An original manuscript for *Mind Over Murder* is held in the Ayckbourn Archive at the **[Borthwick Institute for Archives](/research)** at the University of York.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

@@ -18,7 +18,8 @@ facts:
   Design: "Pip Leckenby"
   Lighting: "Dave Jackson"
   Puppet Design: "Lee Threadgold"
-  Music: "John PattisonCharacter"
+  Music: "John Pattison"
+  Stage Manager: "Victoria Evan"
 ---
 
 **Published / Available to Stage:** No
@@ -32,11 +33,13 @@ The first of these plays was a new adaptation of the famous fairy tale *The Prin
 ### Premiere Production Details (2002)
 
 **Director:** Laurie Sansom  
+**Character**  
 The Princess  
-Puppeteers**Actor**  
+Puppeteers  
+**Actor**  
 Carol Walton  
 Lee Threadgold  
-Ben Strickland**Stage Manager:** Victoria Evan
+Ben Strickland
 
 ### Further Reading
 

@@ -21,23 +21,17 @@ play: "dear-uncle-chekhov"
 **Company Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Sue Volans  
 **Assistant Stage Manager:** Katie Turner  
-**Assistant Stage Manager:** Melanie Wing**Character**  
-Marie  
-Sir Cedric Savidge  
-Dr Charles Ash  
-Marcus  
-Julian Touchweston-Smith  
-Helena  
-Sonya  
-Veronica**Actor**  
-Eileen Battye  
-Terence Booth  
-Phil Cheadle  
-Matthew Cottle  
-Richard Derrington  
-Frances Grey  
-Amy Loughton  
-Alexandra Mathie
+**Assistant Stage Manager:** Melanie Wing
+
+**Character** **Actor**  
+**Marie** Eileen Battye  
+**Sir Cedric Savidge** Terence Booth  
+**Dr Charles Ash** Phil Cheadle  
+**Marcus** Matthew Cottle  
+**Julian Touchweston-Smith** Richard Derrington  
+**Helena** Frances Grey  
+**Sonya** Amy Loughton  
+**Veronica** Alexandra Mathie
 
 ### Revival (2019)
 
@@ -50,20 +44,16 @@ Alexandra Mathie
 **Design:** Louie Whitemore  
 **Lighting:** Richard G Jones  
 **Sound:** Max Pappenheim  
-**Literal translation:** Vera Liber**Character**  
-Marie  
-Sir Cedric Savidge  
-Dr Charles Ash  
-Marcus  
-Julian Touchweston-Smith  
-Helena  
-Sonya  
-Veronica**Actor**  
-Rachel Laurence  
-Patrick Driver  
-Chris Porter  
-Dominic Gately  
-Eric Potts  
-Asha Kingsley  
-Georgina Ambrey  
-Maggie O'Brien*All research for this page by Simon Murgatroyd.*
+**Literal translation:** Vera Liber
+
+**Character** **Actor**  
+**Marie** Rachel Laurence  
+**Sir Cedric Savidge** Patrick Driver  
+**Dr Charles Ash** Chris Porter  
+**Marcus** Dominic Gately  
+**Julian Touchweston-Smith** Eric Potts  
+**Helena** Asha Kingsley  
+**Sonya** Georgina Ambrey  
+**Veronica** Maggie O'Brien
+
+*All research for this page by Simon Murgatroyd.*

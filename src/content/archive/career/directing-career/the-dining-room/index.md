@@ -8,39 +8,27 @@ order: 454
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** A.R. Gurney  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**A.R. Gurney  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**24 October 1984  
-24 October 1984  
-17 November 1984
+**First performance:** 24 October 1984  
+**Opening night:** 24 October 1984  
+**Final performance:** 17 November 1984
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Francis Lynch  
+**Design:** Janet Scarfe  
+**Stage Manager:** Eric Lumsden  
+**Deputy Stage Manager:** Maggie Nottage  
+**Deputy Stage Manager:** Kathryn-Anne Woodward  
+**Assistant Stage Manager:** Drew Scott
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Francis Lynch  
-Janet Scarfe
-
-Eric Lumsden  
-Maggie Nottage  
-Kathryn-Anne Woodward  
-Drew Scott**Actor**  
+**Actor**  
 Andrée Melly  
 Martin Sadler  
 David Learner  
@@ -50,4 +38,5 @@ Richard Cordery
 
 ### Notes
 
-○ *The Dining Room* features six actors playing more than sixty roles; the names of the characters are not listed in the original programme.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *The Dining Room* features six actors playing more than sixty roles; the names of the characters are not listed in the original programme.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

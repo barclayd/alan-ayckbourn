@@ -15,7 +15,8 @@ play: "countdown"
 **Director:** Vivian Matalon
 
 **She:** Andrée Melly  
-**He:** Oscar Quitak**Programme: If Love Decay...**  
+**He:** Oscar Quitak  
+**Programme: If Love Decay...**  
 Here We Are (Dorothy Parker)  
 Keepsakes (Arthur Schnitzel)  
 Fish Are Supposed To Be Sensual (John Gorrie)  
@@ -35,7 +36,8 @@ Resting Place (David Campton)
 **Design:** Anton Rodgers
 
 **Husband:** Oscar Quitak  
-**Wife:** Andrée Melly**Programme: The Last Word**  
+**Wife:** Andrée Melly  
+**Programme: The Last Word**  
 A Man’s Best Friend (James Saunders)  
 Mixed Doubles (Lyndon Brook)  
 Fish Are Supposed To Be Sensual (John Gorrie)  
@@ -58,7 +60,8 @@ Additional research by Oliver Ford-Davies
 **Lighting:** Christopher Bazeley
 
 **Husband:** Nigel Stock  
-**Wife:** Vivien Merchant**Programme: We Who Are About To...**  
+**Wife:** Vivien Merchant  
+**Programme: We Who Are About To...**  
 A Man’s Best Friend (James Saunders)  
 Mixed Doubles (Lyndon Brook)  
 Norma (Alun Owen)  
@@ -79,7 +82,8 @@ Resting Place (David Campton)
 **Lighting:** Joe Davies
 
 **Husband:** Nigel Stock  
-**Wife:** Vivien Merchant**Programme: Mixed Doubles**  
+**Wife:** Vivien Merchant  
+**Programme: Mixed Doubles**  
 Haven - *retitled from A Man’s Best Friend* (James Saunders)  
 Score - *retitled from Mixed Doubles* (Lyndon Brook)  
 Norma (Alun Owen)  
@@ -88,6 +92,7 @@ Permanence (Fay Weldon)
 Countdown (Alan Ayckbourn)  
 Silver Wedding (John Bowen)  
 Resting Place (David Campton)  
-The Figures Of Authority (George Melly)*All research for this page by Simon Murgatroyd.*
+The Figures Of Authority (George Melly)  
+*All research for this page by Simon Murgatroyd.*
 
 ![](./_images/stacks-image-d9eb54c.jpg)

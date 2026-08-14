@@ -15,7 +15,10 @@ facts:
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
   Design: "Geof Keys"
-  Photography: "John HaynesCharacter"
+  Photography: "John Haynes"
+  Character: "Actor"
+  Mrs Grimshaw: "Doreen Andrew"
+  Clyde: "Martin Sadler"
 ---
 
 **Published / Available to Stage:** No
@@ -29,13 +32,6 @@ There is a cast of just two, but the slides were populated by many of that seaso
 The plot sees Mrs Grimshaw trying to give a very serious illustrated lecture on how Edwardians used to live. But her assistant Clyde has different ideas, and not only gets everything wrong, but ends up falling into the slide projector in pursuit of his true love.
 
 It is believed just two original manuscripts for *The Inside Outside Slide Show* still survive, held in the Ayckbourn Archive at the **[Borthwick Institute for Archives](/research)** at the University of York and a private collection. The manuscript had previously been thought lost but a surviving copy was discovered by Alan Ayckbourn's Archivist, Simon Murgatroyd, during early 2020 alongside photo-copies of Alan's storyboards for the photographs, show and rehearsal reports. Sadly, the actual slides and photographs have not survived or been retained in the Stephen Joseph Theatre's archive.
-
-### World Premiere (1989)
-
-Mrs Grimshaw  
-Clyde**Actor**  
-Doreen Andrew  
-Martin Sadler
 
 ### Further Reading
 

@@ -19,19 +19,17 @@ play: "surprises"
 
 **Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Neil Webb  
-**Assistant Stage Manager:** Clare Heath**Character**  
-Grace / Seraphina  
-Franklin  
-Gorman / Jan Sixty /Fabiano  
-Titus / Conrad  
-Inez / Lorraine / Bellina  
-Zandy / Sylvia**Actor**  
-Ayesha Antoine  
-Bill Champion  
-Richard Stacey  
-Ben Porter  
-Sarah Parks  
-Laura Doddington**Note:** This was a co-production between the Stephen Joseph Theatre and Chichester Festival Theatre with the play moving to Chichester between 8 August to 8 September, before returning to Scarborough.
+**Assistant Stage Manager:** Clare Heath
+
+**Character** **Actor**  
+**Grace / Seraphina** Ayesha Antoine  
+**Franklin** Bill Champion  
+**Gorman / Jan Sixty /Fabiano** Richard Stacey  
+**Titus / Conrad** Ben Porter  
+**Inez / Lorraine / Bellina** Sarah Parks  
+**Zandy / Sylvia** Laura Doddington
+
+**Note:** This was a co-production between the Stephen Joseph Theatre and Chichester Festival Theatre with the play moving to Chichester between 8 August to 8 September, before returning to Scarborough.
 
 ### Tour (2013)
 
@@ -41,16 +39,14 @@ Laura Doddington**Note:** This was a co-production between the Stephen Joseph Th
 
 **Director:** Alan Ayckbourn  
 **Design:** Michael Holt  
-**Lighting:** Jason Taylor**Character**  
-Grace / Seraphina  
-Franklin  
-Gorman / Jan Sixty /Fabiano  
-Titus / Conrad  
-Inez / Lorraine / Bellina  
-Zandy / Sylvia**Actor**  
-Ayesha Antoine  
-Bill Champion  
-Richard Stacey  
-Ben Porter  
-Sarah Parks  
-Laura Doddington*All research for this page by Simon Murgatroyd.*
+**Lighting:** Jason Taylor
+
+**Character** **Actor**  
+**Grace / Seraphina** Ayesha Antoine  
+**Franklin** Bill Champion  
+**Gorman / Jan Sixty /Fabiano** Richard Stacey  
+**Titus / Conrad** Ben Porter  
+**Inez / Lorraine / Bellina** Sarah Parks  
+**Zandy / Sylvia** Laura Doddington
+
+*All research for this page by Simon Murgatroyd.*

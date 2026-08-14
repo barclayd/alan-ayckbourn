@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The cover of the only surviving manuscript of *Love After All*, held in the Lord Chamberlain's Collection at the British Library.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** British Library
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-7afc5d4.jpg)
@@ -22,6 +25,9 @@ The cover of the only surviving manuscript of *Love After All*, held in the Lord
 ![](./_images/stacks-image-f2f263e.jpg)
 
 Until 2007, only a single page of an original *Love After All* manuscript was believed to exist - which had been used as drawing paper by one of Alan's sons during the 1960s! In 2007, a complete original manuscript was discovered in the Lord Chamberlain's Collection at the British Library
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -45,6 +51,8 @@ The original programme for the world premiere of *Love After All* at Theatre in 
 **Copyright:** Studio Theatre Ltd  
 **Holding:** Borthwick Institute For Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)  *All images are copyright of the respective individual / organisation and should not be reproduced without permission.*
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)  
+*All images are copyright of the respective individual / organisation and should not be reproduced without permission.*

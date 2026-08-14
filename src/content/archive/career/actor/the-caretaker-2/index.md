@@ -31,4 +31,5 @@ During 1962, the Studio Theatre Ltd company moved from its home at **[Theatre in
 
 This production was also presented in Darlington Hall during June 1963.
 
-*Information for this page has been provided by The Michael T Mooney Archive.**All research for this page by Simon Murgatroyd.*
+*Information for this page has been provided by The Michael T Mooney Archive.*  
+*All research for this page by Simon Murgatroyd.*

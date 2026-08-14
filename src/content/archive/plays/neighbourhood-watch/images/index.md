@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Early notes by Alan Ayckbourn for *Neighbourhood Watch* detailing the residents of The Glade - many of whom are unseen and referenced in the play. Many names were altered by Alan as these notes show.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-e13de14.jpg)
@@ -45,6 +48,10 @@ A pivotal scene from the world premiere of *Neighbourhood Watch* at the Stephen 
 
 Alan Ayckbourn's pencil sketch of the end-stage set for *Neighbourhood Watch* for when it transferred from in-the-round at Scarborough to the 59E59 Theatres, New York, and the Tricycle Theatre, London.
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

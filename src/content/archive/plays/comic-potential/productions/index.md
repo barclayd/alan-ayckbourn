@@ -25,27 +25,19 @@ play: "comic-potential"
 
 **Stage Manager:** Helen Reynolds  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Annabel Bolton**Character**  
-Various Actoids / Turkey  
-Various Actoids / Prostitute  
-Marmion  
-Prim Spring  
-Chandler Tate  
-Trudi Floote  
-Carla Pepperbloom  
-Adam Trainsmith  
-Jacie Triplethree  
-Lester Trainsmith**Actor**  
-James Hornsby  
-Helen Pearson  
-Bill Champion  
-Jennifer Luckraft  
-Keith Bartlett  
-Pippa Hinchley  
-Jacqueline King  
-Nicholas Haverson  
-Janie Dee  
-John Branwell
+**Assistant Stage Manager:** Annabel Bolton
+
+**Character** **Actor**  
+**Various Actoids / Turkey** James Hornsby  
+**Various Actoids / Prostitute** Helen Pearson  
+**Marmion** Bill Champion  
+**Prim Spring** Jennifer Luckraft  
+**Chandler Tate** Keith Bartlett  
+**Trudi Floote** Pippa Hinchley  
+**Carla Pepperbloom** Jacqueline King  
+**Adam Trainsmith** Nicholas Haverson  
+**Jacie Triplethree** Janie Dee  
+**Lester Trainsmith** John Branwell
 
 ### London Premiere (1999)
 
@@ -60,29 +52,20 @@ John Branwell
 **Costumes:** Christine Wall  
 **Music:** John Pattison  
 **Fight Direction:** Wolf Christian  
-**Choreography:** Sheila Carter**Character**  
-Various Actoids / Turkey  
-Various Actoids / Prostitute  
-Marmion  
-Prim Spring  
-Chandler Tate  
-Trudi Floote  
-Carla Pepperbloom  
-Adam Trainsmith  
-Jacie Triplethree  
-Lester Trainsmith  
-Girl in dress shop**Actor**  
-James Hornsby  
-Helen Pearson  
-Bill Champion  
-Eleanor Tremain  
-David Soul  
-Becky Hindley  
-Jacqueline King  
-Matthew Cottle  
-Janie Dee  
-John Branwell  
-Suzannah Hirst
+**Choreography:** Sheila Carter
+
+**Character** **Actor**  
+**Various Actoids / Turkey** James Hornsby  
+**Various Actoids / Prostitute** Helen Pearson  
+**Marmion** Bill Champion  
+**Prim Spring** Eleanor Tremain  
+**Chandler Tate** David Soul  
+**Trudi Floote** Becky Hindley  
+**Carla Pepperbloom** Jacqueline King  
+**Adam Trainsmith** Matthew Cottle  
+**Jacie Triplethree** Janie Dee  
+**Lester Trainsmith** John Branwell  
+**Girl in dress shop** Suzannah Hirst
 
 ### New York Premiere (2000)
 
@@ -98,25 +81,18 @@ Suzannah Hirst
 **Costumes:** Jane Greenwood  
 **Sound:** Bruce Ellman  
 **Fight Direction:** Rick Sordelet  
-**Choreography:** Jeff Calhoun**Character**  
-Jacie Triplethree  
-Adam Trainsmith  
-Various Actoids / Turkey  
-Lester Trainsmith  
-Marmion  
-Chandler Tate  
-Trudi Floote  
-Carla Pepperbloom  
-Prim Spring  
-Various Actoids / Prostitute**Actor**  
-Janie Dee  
-Alexander Chaplin  
-John Curless  
-MacIntyre Dixon  
-Carson Elrod  
-Peter Michael Goetz  
-Mercedes Herrero  
-Kristine Nielsen  
-Kellie Overbey  
-Robin Moseley / Rose Stockton  
+**Choreography:** Jeff Calhoun
+
+**Character** **Actor**  
+**Jacie Triplethree** Janie Dee  
+**Adam Trainsmith** Alexander Chaplin  
+**Various Actoids / Turkey** John Curless  
+**Lester Trainsmith** MacIntyre Dixon  
+**Marmion** Carson Elrod  
+**Chandler Tate** Peter Michael Goetz  
+**Trudi Floote** Mercedes Herrero  
+**Carla Pepperbloom** Kristine Nielsen  
+**Prim Spring** Kellie Overbey  
+**Various Actoids / Prostitute** Robin Moseley / Rose Stockton
+
 *All research for this page by Simon Murgatroyd.*

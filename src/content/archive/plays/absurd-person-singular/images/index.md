@@ -15,11 +15,17 @@ To celebrate the 50th anniversary of Absurd Person Singular in 2022, an expanded
 
 Alan Ayckbourn's handwritten notes for the first scene of *Absurd Person Singular* including his thumbnail sketches for the sets for each act.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 ![](./_images/stacks-image-f78bf09.png)
 
 ![](./_images/stacks-image-bdeaab6.png)
 
 The first page of an original manuscript for the world premiere of *Absurd Person Singular* at Theatre in the Round at the Library Theatre, Scarborough, in 1972.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
 
 ![](./_images/stacks-image-9944ad2.jpg)
 
@@ -37,6 +43,9 @@ An advertisement for the world premiere production of *Absurd Person Singular*; 
 ![](./_images/stacks-image-2bfc5e3.jpg)
 
 *Absurd Person Singular* is the first world premiere by Alan Ayckbourn at Theatre in the Round at the Library Theatre, Scarborough, to have a promotional image. This lino print, commissioned by Alan Ayckbourn, was only used for flyers though.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Private Collection
 
 ![](./_images/stacks-image-d36869b.jpg)
 
@@ -66,6 +75,9 @@ A flyer for the West End premiere of *Absurd Person Singular* at the Criterion T
 
 Correspondence from Peter Hall, Artistic Director of the National Theatre, to Alan Ayckbourn congratulating him on Absurd Person Singular, asking him to consider writing a play for the National Theatre.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 ![](./_images/stacks-image-78af86f.jpg)
 
 ![](./_images/stacks-image-a0caacc.jpg)
@@ -75,4 +87,5 @@ A flyer for the Broadway premiere of *Absurd Person Singular* in 1974: this woul
 **Copyright:** TBC  
 **Holding:** Borthwick Institute For Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*

@@ -30,7 +30,8 @@ The edition number and owners can be found below.
 **14:**…Peter Scott  
 **15:**…Peter Lucey  
 **16:**…Victor Craven  
-**17:**…James Clare **18:**….Sue Volans  
+**17:**…James Clare  
+**18:**….Sue Volans  
 **19:**….Catriona Jackson-Graham  
 **20:**….Mike Linham  
 **21:**….Jim Douglas  
@@ -46,7 +47,8 @@ The edition number and owners can be found below.
 **31:**….Tania Smith  
 **32:**….Lynne & Dave Arnison  
 **33:**….Ashley Burgoyne  
-**34:**….David Tettersell **35:**….Siobhain Wood  
+**34:**….David Tettersell  
+**35:**….Siobhain Wood  
 **36:**….Simon Hollis  
 **37:**….Geofferson  
 **38:**….Paul Fendley  
@@ -61,4 +63,5 @@ The edition number and owners can be found below.
 **47:**….Sue Whitehouse  
 **48:**….Anonymous  
 **49:**….Anonymous  
-**50:**….Anonymous *With thanks to the photographer Tony Bartholomew (****[www.bartpics.co.uk)](http://www.bartpics.co.uk/)*** *for permission to use his official 80th anniversary portrait for the cover of Unseen Ayckbourn: Anniversary Edition.*
+**50:**….Anonymous  
+*With thanks to the photographer Tony Bartholomew (****[www.bartpics.co.uk)](http://www.bartpics.co.uk/)*** *for permission to use his official 80th anniversary portrait for the cover of Unseen Ayckbourn: Anniversary Edition.*

@@ -8,81 +8,49 @@ order: 452
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Arthur Miller  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Arthur Miller  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**6 November 1979  
-7 November 1979  
-24 November 1979
+**First performance:** 6 November 1979  
+**Opening night:** 7 November 1979  
+**Final performance:** 24 November 1979
 
 ### Company Details
 
-**Director:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Design:** Michael Holt  
+**Music:** Paul Todd  
+**Stage Manager:** Sean O'Neill  
+**Deputy Stage Manager:** Miles Andrews  
+**Assistant Stage Manager:** Eric Lumsden  
+**Assistant Stage Manager:** Nina Edwards
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Michael Holt  
-Paul Todd
-
-Sean O'Neill  
-Miles Andrews  
-Eric Lumsden  
-Nina Edwards  
-**Character**  
-Rev. Samuel Parris  
-Tituba  
-Betty Parris  
-Abigail Williams  
-Susanna Walcott  
-Goodwife Ann Putnam  
-Thomas Putnam  
-Mercy Lewis  
-Mary Warren  
-John Proctor  
-Rebecca Nurse  
-Giles Corey  
-Rev John Hale  
-Elizbeth Proctor  
-Francis Nurse  
-Ezekiel Cheever  
-Marshall Herrick  
-Judge Hathorne  
-Governor Danforth  
-Sarah Good**Actor**  
-Daniel Collings  
-Cassie McFarlane  
-Sarah Bennett  
-Tessa Peake-Jones  
-Nina Edwards  
-Christine Welch  
-Robin Bowerman  
-Sarah Wynter  
-Lavinia Bertram  
-John Arthur  
-Susan Uebel  
-Nicholas Farrell  
-Robin Herford  
-Alison Skilbeck  
-Jeffrey Robert  
-Terence Booth  
-Christopher Gray  
-Paul Todd  
-Donald Pelmear  
-Christine Welch
+**Character** **Actor**  
+**Rev. Samuel Parris** Daniel Collings  
+**Tituba** Cassie McFarlane  
+**Betty Parris** Sarah Bennett  
+**Abigail Williams** Tessa Peake-Jones  
+**Susanna Walcott** Nina Edwards  
+**Goodwife Ann Putnam** Christine Welch  
+**Thomas Putnam** Robin Bowerman  
+**Mercy Lewis** Sarah Wynter  
+**Mary Warren** Lavinia Bertram  
+**John Proctor** John Arthur  
+**Rebecca Nurse** Susan Uebel  
+**Giles Corey** Nicholas Farrell  
+**Rev John Hale** Robin Herford  
+**Elizbeth Proctor** Alison Skilbeck  
+**Francis Nurse** Jeffrey Robert  
+**Ezekiel Cheever** Terence Booth  
+**Marshall Herrick** Christopher Gray  
+**Judge Hathorne** Paul Todd  
+**Governor Danforth** Donald Pelmear  
+**Sarah Good** Christine Welch
 
 ### Notes
 
-○ *The Crucible* was advertised as featuring the largest company yet seen at the Stephen Joseph Theatre In The Round with 19 actors in the production.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *The Crucible* was advertised as featuring the largest company yet seen at the Stephen Joseph Theatre In The Round with 19 actors in the production.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

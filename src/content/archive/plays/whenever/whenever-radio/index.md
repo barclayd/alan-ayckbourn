@@ -16,31 +16,22 @@ play: "whenever"
 **Availability**  
 **Cassette:** Not available  
 **CD:** 2000 (deleted)  
-**Digital:** Not available**Director**  
-**Musical Director**
+**Digital:** Not available
 
-**Character**  
-Emily  
-Clara (aged 12) / Char Tee  
-Mrs Binns / Time Keeper  
-Charity / Clara (aged 66)  
-Woolton / Hoombean  
-Uncle Martin / Nigel Brown  
-Bob / Ziggi  
-Oscar  
-Uncle Lucas / Droid 2Alan Ayckbourn  
-Denis King
+**Director** Alan Ayckbourn  
+**Musical Director** Denis King  
+**Character** **Actor**  
+**Emily** Alison Pargeter  
+**Clara (aged 12) / Char Tee** Saskia Butler  
+**Mrs Binns / Time Keeper** Sarah Redmond  
+**Charity / Clara (aged 66)** Nicola Sloane  
+**Woolton / Hoombean** Nigel Williams  
+**Uncle Martin / Nigel Brown** Stefan Bednarczyk  
+**Bob / Ziggi** Giles Taylor  
+**Oscar** Gavin Lee  
+**Uncle Lucas / Droid 2** Richard Banham
 
-**Actor**  
-Alison Pargeter  
-Saskia Butler  
-Sarah Redmond  
-Nicola Sloane  
-Nigel Williams  
-Stefan Bednarczyk  
-Giles Taylor  
-Gavin Lee  
-Richard Banham **Note:** The *Whenever* original cast recording was never made commercially available and was produced primarily for the cast and company at the Stephen Joseph Theatre during its original production.
+**Note:** The *Whenever* original cast recording was never made commercially available and was produced primarily for the cast and company at the Stephen Joseph Theatre during its original production.
 
 ### Radio (2006)
 
@@ -54,30 +45,20 @@ Richard Banham **Note:** The *Whenever* original cast recording was never made c
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Producer**  
-**Music**
+**Digital:** Not available
 
-**Character**  
-Martin / Bill / Nigel Chatterton-Brown / Droid  
-Clara at 12 / Minnie / Guest / Char Tee  
-Mrs Binns / Mrs Green / Guest / Time Keeper  
-Emily  
-Oscar  
-Charity aged 30 / Clara / Droid  
-Lucas aged 34 / Lucas aged 88 / Droid  
-Bob / George / Vocalist / Ziggi  
-Woolton / Mr Green / Guest / HoombeanBruce Hyman  
-Bruce Hyman  
-Denis King
+**Director** Bruce Hyman  
+**Producer** Bruce Hyman  
+**Music** Denis King  
+**Character** **Actor**  
+**Martin / Bill / Nigel Chatterton-Brown / Droid** Roger Allam  
+**Clara at 12 / Minnie / Guest / Char Tee** Saskia Butler  
+**Mrs Binns / Mrs Green / Guest / Time Keeper** Barbara Dickson  
+**Emily** Sarah Manton  
+**Oscar** Jonjo O'Neill  
+**Charity aged 30 / Clara / Droid** Liza Sadovy  
+**Lucas aged 34 / Lucas aged 88 / Droid** Malcolm Sinclair  
+**Bob / George / Vocalist / Ziggi** Tony Timberlake  
+**Woolton / Mr Green / Guest / Hoombean** Nigel Williams
 
-**Actor**  
-Roger Allam  
-Saskia Butler  
-Barbara Dickson  
-Sarah Manton  
-Jonjo O'Neill  
-Liza Sadovy  
-Malcolm Sinclair  
-Tony Timberlake  
-Nigel Williams*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

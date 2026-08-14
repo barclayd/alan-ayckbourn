@@ -8,42 +8,30 @@ order: 616
 
 ### Production Details
 
-**Author:**
+**Author:** Roy Clarke  
+**Broadcast:** 22 June 1966 @ 8.40pm  
+**Channel:** BBC Light Programme
 
-**Broadcast:**  
-**Channel:**Roy Clarke
+**Director:**  
+Alan Ayckbourn
 
-22 June 1966 @ 8.40pm  
-BBC Light Programme**Director:**Alan Ayckbourn**Character**  
-Ernie Todd  
-Charlie  
-Mrs Todd  
-PC Sears  
-PC Broom  
-Helen  
-Ashton  
-Miggie  
-Finch  
-Spice  
-Ernie's mother  
-Girl  
-PC Donlan  
-Van Driver**Actor**  
-David Mahlowe  
-James Beck  
-Barbara Greenhalgh  
-Geoffrey Hinsliff  
-Roy Barraclough  
-Juliet Cooke  
-Neville Smith  
-Kenneth Colley  
-Colin Edwynn  
-Derrick Gilbert  
-Nan Marriott-Watson  
-Beryl Lomas  
-Peter Schofield  
-Chris Canavan
+**Character** **Actor**  
+**Ernie Todd** David Mahlowe  
+**Charlie** James Beck  
+**Mrs Todd** Barbara Greenhalgh  
+**PC Sears** Geoffrey Hinsliff  
+**PC Broom** Roy Barraclough  
+**Helen** Juliet Cooke  
+**Ashton** Neville Smith  
+**Miggie** Kenneth Colley  
+**Finch** Colin Edwynn  
+**Spice** Derrick Gilbert  
+**Ernie's mother** Nan Marriott-Watson  
+**Girl** Beryl Lomas  
+**PC Donlan** Peter Schofield  
+**Van Driver** Chris Canavan
 
 ### Notes
 
-○ *The Big Bite* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Big Bite* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

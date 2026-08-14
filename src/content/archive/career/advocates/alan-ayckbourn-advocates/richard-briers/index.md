@@ -27,4 +27,5 @@ order: 2312
 *(1991)*
 
 "He became this extraordinary writer. I don't know how he does it. I am sure he is a genius. He quite frightens me because he has such an incredible mind. I think he has two brains to my one."  
-*(2009)**Copyright: Richard Briers. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2009)*  
+*Copyright: Richard Briers. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

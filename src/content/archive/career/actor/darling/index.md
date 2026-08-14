@@ -8,23 +8,15 @@ order: 537
 
 ### Production Details
 
-**Play:** Darling  
-**Author:** Andre Roussin  
-**First performance:** 20 January 1958  
-**Venue:** Oxford Playhouse  
-**Staging:** End-stage  
-**Director:** Frank Hauser  
-**Design:** Michael Richardson
-
-**Character** **Actor**  
-**Tinini** Ann Walford  
+**Play:** Darling **Character** **Actor**  
+**Author:** Andre Roussin **Tinini** Ann Walford  
 **Bob** Christopher Hancock  
-**Simon** Edgar Wreford  
-**Michael** Joss Ackland  
-**Aunt Edmee** Winifred Evans  
+**First performance:** 20 January 1958 **Simon** Edgar Wreford  
+**Venue:** Oxford Playhouse **Michael** Joss Ackland  
+**Staging:** End-stage **Aunt Edmee** Winifred Evans  
 **Esther** Mary Laura Wood  
-**Stepha** Mai Zetterling  
-**Mick** Alan Ayckbourn
+**Director:** Frank Hauser **Stepha** Mai Zetterling  
+**Design:** Michael Richardson **Mick** Alan Ayckbourn
 
 ### Quotes & Notes
 
@@ -36,4 +28,5 @@ Alan Ayckbourn worked at the **[Oxford Playhouse](/career/actor/connaught-theatr
 *('Conversations With Ayckbourn', 1981)*
 
 **Review extract (publication unknown)**  
-"Alan Ayckbourn sharply suggests the misery of adolescent love with a fine mixture of shyness and awkward anxiety."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn sharply suggests the misery of adolescent love with a fine mixture of shyness and awkward anxiety."  
+*All research for this page by Simon Murgatroyd.*

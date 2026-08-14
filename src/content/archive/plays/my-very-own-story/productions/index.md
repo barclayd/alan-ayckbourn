@@ -20,33 +20,22 @@ play: "my-very-own-story"
 
 **Stage Manager:** Jane Eliot-Webb  
 **Deputy Stage Manager:** Sallith Goodman  
-**Assistant Stage Manager:** Chris Savage**Character**  
-Percy Parton / Frederick  
-Peter Patchett / Varius  
-Paul Peel / Rupert  
-Gorff / Basil  
-Yerp / a village boy  
-Mrs Yerp  
-Frederick  
-Leonora  
-Alicia / Cecilia  
-Cecilia / Alicia  
-Emilia  
-Basil  
-The Keyboard Player**Actor**  
-Peter Bourke  
-Crispin Letts  
-James Simmons  
-Robert Austin  
-Jeffrey Chiswick  
-Elizabeth Kelly  
-Glyn Grain  
-Rebecca Lacey  
-Anna Keavney  
-Isabel Lloyd  
-Elizabeth Rider  
-Jeffrey Whitaker  
-John Pattison
+**Assistant Stage Manager:** Chris Savage
+
+**Character** **Actor**  
+**Percy Parton / Frederick** Peter Bourke  
+**Peter Patchett / Varius** Crispin Letts  
+**Paul Peel / Rupert** James Simmons  
+**Gorff / Basil** Robert Austin  
+**Yerp / a village boy** Jeffrey Chiswick  
+**Mrs Yerp** Elizabeth Kelly  
+**Frederick** Glyn Grain  
+**Leonora** Rebecca Lacey  
+**Alicia / Cecilia** Anna Keavney  
+**Cecilia / Alicia** Isabel Lloyd  
+**Emilia** Elizabeth Rider  
+**Basil** Jeffrey Whitaker  
+**The Keyboard Player** John Pattison
 
 ### Revival (1992)
 
@@ -63,28 +52,20 @@ John Pattison
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Katie Tordoff  
-**Assistant Stage Manager:** Nicola Parry**Character**  
-Percy Parton / Frederick  
-Peter Patchett / Varius  
-Paul Peel / Rupert  
-Gorff / Yerp  
-Basil / a village boy  
-Mrs Yerp  
-Frederick  
-Leonora  
-Alicia / Cecilia  
-Cecilia / Alicia  
-Emilia  
-The Keyboard Player**Actor**  
-Richard Derrington  
-Terence Booth  
-Laurence Kennedy  
-Malcolm Hebden  
-Fergus O’Donnell  
-Elizabeth Kelly  
-Raymond Sawyer  
-Jane Hollowood  
-Nicky Croydon  
-Jane Robbins  
-Dariel Pertwee  
-John Pattison*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Nicola Parry
+
+**Character** **Actor**  
+**Percy Parton / Frederick** Richard Derrington  
+**Peter Patchett / Varius** Terence Booth  
+**Paul Peel / Rupert** Laurence Kennedy  
+**Gorff / Yerp** Malcolm Hebden  
+**Basil / a village boy** Fergus O’Donnell  
+**Mrs Yerp** Elizabeth Kelly  
+**Frederick** Raymond Sawyer  
+**Leonora** Jane Hollowood  
+**Alicia / Cecilia** Nicky Croydon  
+**Cecilia / Alicia** Jane Robbins  
+**Emilia** Dariel Pertwee  
+**The Keyboard Player** John Pattison
+
+*All research for this page by Simon Murgatroyd.*

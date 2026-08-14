@@ -9,4 +9,5 @@ order: 2374
 ### Quotes
 
 "I look back on the years of our friendship and collaboration as the very best in my long, some may say too long, stint at this producing lark."  
-(*2002*)*Copyright: Michael Codron. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+(*2002*)  
+*Copyright: Michael Codron. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

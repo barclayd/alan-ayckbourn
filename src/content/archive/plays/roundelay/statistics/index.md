@@ -7,7 +7,8 @@ play: "roundelay"
 
 This page contains the statistics for every public performance of Alan Ayckbourn’s play *Roundelay* during 2014. The play has five parts (*The Agent*, *The Judge*, *The Novelist*, *The Politician*, *The Star)* and the order they are performed in is decided by a random public draw half-an-hour before the performance.  
 This list offers the chance to see how many of the possible 120 permutation of *Roundelay* were performed and how many repeat permutations were performed during its original 2014 run.  
-The list includes: the Stephen Joseph Theatre, Scarborough (35 performances); the New Vic, Newcastle-under Lyme (19 performances); the Old Laundry Theatre, Bowness-on-Windemere (15 performances).**SJT**  
+The list includes: the Stephen Joseph Theatre, Scarborough (35 performances); the New Vic, Newcastle-under Lyme (19 performances); the Old Laundry Theatre, Bowness-on-Windemere (15 performances).  
+**SJT**  
 1  
 2  
 3  
@@ -78,7 +79,8 @@ The list includes: the Stephen Joseph Theatre, Scarborough (35 performances); th
 66  
 67  
 68  
-69**Repeat of…**
+69  
+**Repeat of…**
 
 9
 
@@ -178,7 +180,8 @@ Judge
 Agent  
 Agent  
 Politician  
-Agent  
+Agent
+
 Novelist  
 Politician  
 Star  
@@ -249,7 +252,8 @@ Novelist
 Judge  
 Politician  
 Agent  
-Judge  
+Judge
+
 Agent  
 Star  
 Novelist  
@@ -320,7 +324,8 @@ Star
 Politician  
 Judge  
 Novelist  
-Star  
+Star
+
 Judge  
 Judge  
 Agent  
@@ -391,7 +396,8 @@ Politician
 Star  
 Star  
 Judge  
-Politician  
+Politician
+
 Star  
 Agent  
 Judge  
@@ -462,12 +468,15 @@ Agent
 Novelist  
 Novelist  
 Star  
-NovelistFor those interested in how many times each play was performed in a particular position within *Roundelay*, the table below illustrates this during the 2014 run.**Position**  
+Novelist  
+For those interested in how many times each play was performed in a particular position within *Roundelay*, the table below illustrates this during the 2014 run.  
+**Position**  
 **1st**  
 **2nd**  
 **3rd**  
 **4th**  
-**5th****The Star**  
+**5th**  
+**The Star**  
 20  
 9  
 12  
@@ -497,4 +506,5 @@ NovelistFor those interested in how many times each play was performed in a part
 20  
 11  
 12  
-**Note:** Although the Stephen Joseph Theatre did tour the original production of *Roundelay* for four weeks in 2015, those details have not been added to the statistics above. This is because for certain venues, the company performed only four of the five plays each night and - without the playwright’s knowledge or approval - the stage management team had been instructed by the SJT management to fudge the result at - at least - one venue to ensure the four plays chosen always included *The Judge*.*All research for this page by Simon Murgatroyd. With thanks to the Stephen Joseph Theatre’s Roundelay stage management team for their help with the statistics on this page.*
+**Note:** Although the Stephen Joseph Theatre did tour the original production of *Roundelay* for four weeks in 2015, those details have not been added to the statistics above. This is because for certain venues, the company performed only four of the five plays each night and - without the playwright’s knowledge or approval - the stage management team had been instructed by the SJT management to fudge the result at - at least - one venue to ensure the four plays chosen always included *The Judge*.  
+*All research for this page by Simon Murgatroyd. With thanks to the Stephen Joseph Theatre’s Roundelay stage management team for their help with the statistics on this page.*

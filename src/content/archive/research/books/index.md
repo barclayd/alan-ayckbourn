@@ -4,7 +4,8 @@ source: "http://research.alanayckbourn.net/page-14/PublicationsTexts.html"
 order: 862
 ---
 
-This page contains details of books and publications dedicated to or with significant contributions concerning Alan Ayckbourn, his plays and his career in theatre. A guide to publications by Alan Ayckbourn including playtexts can be found in the **[Publications](/publications)** section of this website. **○ The Crafty Art of Playmaking**  
+This page contains details of books and publications dedicated to or with significant contributions concerning Alan Ayckbourn, his plays and his career in theatre. A guide to publications by Alan Ayckbourn including playtexts can be found in the **[Publications](/publications)** section of this website.  
+**○ The Crafty Art of Playmaking**  
 Author: Alan Ayckbourn  
 *Faber, 2004, softcover, ISBN 0571215106*
 
@@ -90,7 +91,8 @@ Author: Jeannie Swales
 **○ Confusions To Roundelay: Stages In Ayckbourn’s**  
 **Creative Work**  
 Author: Albert-Reiner Glaap  
-*Wissenschaftlicher Verlag Trier, 2015, ISBN 9783868216295***○ Conversations With Ayckbourn**  
+*Wissenschaftlicher Verlag Trier, 2015, ISBN 9783868216295*  
+**○ Conversations With Ayckbourn**  
 Author: Ian Watson  
 *Macdonald Futura, 1981, hardcover, ISBN 0354046497*
 
@@ -172,4 +174,5 @@ Editor: Derek Neale
 
 **○ York Notes on Absent Friends**  
 Editor: Nicole Alper  
-*Longman, 1999, ISBN 0582382300**All research for this page by Simon Murgatroyd.*
+*Longman, 1999, ISBN 0582382300*  
+*All research for this page by Simon Murgatroyd.*

@@ -8,40 +8,29 @@ order: 642
 
 ### Production Details
 
-**Author:**
+**Author:** Peter Russell with Alan Rothwell  
+**Broadcast:** 22 October 1966 @ 2.15pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Peter Russell with Alan Rothwell
+**Director:**  
+Alan Ayckbourn
 
-22 October 1966 @ 2.15pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Harry Lake  
-Arthur Clough  
-Myra Stafford  
-Jerry  
-George Boyle  
-Mrs Boyle  
-Hazel Sopwith  
-George Bowler  
-Dorrie Wilkinson  
-Jack Wilkinson  
-Mr Sopwith  
-Ted  
-Debbie**Actor**  
-Ben Kingsley  
-Alan Rothwell  
-Sylvia Brayshay  
-Tony Colegate  
-Peter Schofield  
-Mary Rogers  
-Sian Davies  
-John Baldwin  
-Mavis Rogerson  
-Roy Barraclough  
-Geoffrey Banks  
-Robert Powell  
-Stephanie Turner
+**Character** **Actor**  
+**Harry Lake** Ben Kingsley  
+**Arthur Clough** Alan Rothwell  
+**Myra Stafford** Sylvia Brayshay  
+**Jerry** Tony Colegate  
+**George Boyle** Peter Schofield  
+**Mrs Boyle** Mary Rogers  
+**Hazel Sopwith** Sian Davies  
+**George Bowler** John Baldwin  
+**Dorrie Wilkinson** Mavis Rogerson  
+**Jack Wilkinson** Roy Barraclough  
+**Mr Sopwith** Geoffrey Banks  
+**Ted** Robert Powell  
+**Debbie** Stephanie Turner
 
 ### Notes
 
-○ *The Luck Of Arthur Clough* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Luck Of Arthur Clough* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

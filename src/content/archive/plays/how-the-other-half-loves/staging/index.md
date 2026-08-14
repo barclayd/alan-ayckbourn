@@ -5,7 +5,8 @@ order: 1016
 play: "how-the-other-half-loves"
 ---
 
-One of the major challenges of staging *How The Other Half Loves* is its set-design. Both living rooms have to share the same space, but each has also be clearly defined and the conceit understood by the audience. While the play breaks conventions, its own conventions have to be understood very quickly by the audience for the play to work and not to leave the audience scratching its collective head.The importance of the stage space for this play is emphasised by Alan Ayckbourn in his book *The Crafty Art Of Playmaking*.
+One of the major challenges of staging *How The Other Half Loves* is its set-design. Both living rooms have to share the same space, but each has also be clearly defined and the conceit understood by the audience. While the play breaks conventions, its own conventions have to be understood very quickly by the audience for the play to work and not to leave the audience scratching its collective head.  
+The importance of the stage space for this play is emphasised by Alan Ayckbourn in his book *The Crafty Art Of Playmaking*.
 
 *“In How The Other Half Loves the superimposed composite set - half the sofa and half the dining table belong to one family, half to another - contributes enormously to the storytelling and, incidentally, brings about fifty per cent of the laughs. \[This play\], of course, grew out of my experience of working in the round.*
 

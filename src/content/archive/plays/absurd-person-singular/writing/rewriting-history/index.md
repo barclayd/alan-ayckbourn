@@ -41,7 +41,8 @@ The original lino-cut for the flyer for the world premiere of *Absurd Person Sin
 
 ![](./_images/simon-murgatroyd-01-credit-kath-dunn-mines.jpg)
 
-Alan Ayckbourn's Archivist, Simon Murgatroyd, working with the *Absurd Person Singular* manuscripts © Kath Dunn-Mines  Further archival research and new acquisitions by the Ayckbourn Archive have resulted in these handwritten notes being supplemented by a world premiere rehearsal manuscript, an actor's manuscript from the world premiere - which includes the playwright's substantive cuts after the first night - as well as a definitive production script from the acclaimed West End premiere production.
+Alan Ayckbourn's Archivist, Simon Murgatroyd, working with the *Absurd Person Singular* manuscripts © Kath Dunn-Mines  
+Further archival research and new acquisitions by the Ayckbourn Archive have resulted in these handwritten notes being supplemented by a world premiere rehearsal manuscript, an actor's manuscript from the world premiere - which includes the playwright's substantive cuts after the first night - as well as a definitive production script from the acclaimed West End premiere production.
 
 Simon Murgatroyd M.A., the playwright's Archivist, emphasised the significance of the discovery and acquisitions both in understanding the play as well as for the Ayckbourn Archive.
 

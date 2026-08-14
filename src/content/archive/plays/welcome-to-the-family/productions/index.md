@@ -25,18 +25,14 @@ play: "welcome-to-the-family"
 **Production Consultant:** Alison Fowler
 
 **Company Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Missy Steinbach  
-**Characters**  
-Josh  
-Sara  
-Peter  
-Vivica  
-Lance**Actors**  
-Antony Eden  
-Tanya-Loretta Dee  
-Terence Booth  
-Caroline Langrishe  
-Bill Champion
+**Assistant Stage Manager:** Missy Steinbach
+
+**Characters** **Actors**  
+**Josh** Antony Eden  
+**Sara** Tanya-Loretta Dee  
+**Peter** Terence Booth  
+**Vivica** Caroline Langrishe  
+**Lance** Bill Champion
 
 ### Rehearsed Reading (2026)
 
@@ -47,15 +43,13 @@ Bill Champion
 **Director:** Alan Ayckbourn  
 **Sound:** Alan Ayckbourn
 
-**Stage Manager:** Sue Volans  
-**Characters**  
-Josh  
-Sara  
-Peter  
-Vivica  
-Lance**Actors**  
-To be announced  
-To be announced  
-To be announced  
-To be announced  
-To be announced*All research for this page by Simon Murgatroyd.*
+**Stage Manager:** Sue Volans
+
+**Characters** **Actors**  
+**Josh** To be announced  
+**Sara** To be announced  
+**Peter** To be announced  
+**Vivica** To be announced  
+**Lance** To be announced
+
+*All research for this page by Simon Murgatroyd.*

@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 *Mr A's Amazing Plays* has a complex structure in which the path through Mr A's house is determined by the audience. This is the earliest surviving sketch by the playwright of the play's second act structure and all the options for moving through the house.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-6315652.jpg)
@@ -22,6 +25,9 @@ A collection of archive material, posters, rehearsal and production images perta
 ![](./_images/stacks-image-fd55698.jpg)
 
 A more refined sketch of the structure for *Mr A's Amazing Maze Plays* by Alan Ayckbourn, more clearly illustrating the rooms of the house and the various options they present to enter and leave.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -56,6 +62,7 @@ In 1993, the National Theatre revived *Mr A's Amazing Maze Plays* and commission
 **Copyright:** National Theatre  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*       *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

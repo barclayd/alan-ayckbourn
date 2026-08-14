@@ -22,19 +22,15 @@ play: "communicating-doors"
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Jo Alexander  
-**Assistant Stage Manager:** Emma Gordon**Character**  
-Julian  
-Poopay  
-Reece  
-Ruella  
-Harold  
-Jessica**Actor**  
-Richard Durden  
-Adie Allen  
-John Hudson  
-Liz Crowther  
-Nick Stringer  
-Sara Markland
+**Assistant Stage Manager:** Emma Gordon
+
+**Character** **Actor**  
+**Julian** Richard Durden  
+**Poopay** Adie Allen  
+**Reece** John Hudson  
+**Ruella** Liz Crowther  
+**Harold** Nick Stringer  
+**Jessica** Sara Markland
 
 ### London Premiere (1995)
 
@@ -48,19 +44,15 @@ Sara Markland
 **Lighting:** Mick Hughes  
 **Music:** John Pattison  
 **Costumes:** Christine Wall  
-**Fights:** Jonathan Howell**Character**  
-Julian  
-Poopay  
-Reece  
-Ruella  
-Harold  
-Jessica**Actor**  
-Ken Bones  
-Adie Allen  
-Laurence Kennedy  
-Julia McKenzie  
-John Arthur  
-Sara Markland
+**Fights:** Jonathan Howell
+
+**Character** **Actor**  
+**Julian** Ken Bones  
+**Poopay** Adie Allen  
+**Reece** Laurence Kennedy  
+**Ruella** Julia McKenzie  
+**Harold** John Arthur  
+**Jessica** Sara Markland
 
 ### London Transfer (1996)
 
@@ -74,19 +66,15 @@ Sara Markland
 **Lighting:** Mick Hughes  
 **Music:** John Pattison  
 **Costumes:** Christine Wall  
-**Fights:** Jonathan Howell**Character**  
-Julian  
-Poopay  
-Reece  
-Ruella  
-Harold  
-Jessica**Actor**  
-Ken Bones  
-Jane Slavin  
-Laurence Kennedy  
-Angela Thorne  
-John Arthur  
-Eleanor Tremain
+**Fights:** Jonathan Howell
+
+**Character** **Actor**  
+**Julian** Ken Bones  
+**Poopay** Jane Slavin  
+**Reece** Laurence Kennedy  
+**Ruella** Angela Thorne  
+**Harold** John Arthur  
+**Jessica** Eleanor Tremain
 
 ### New York Premiere (1998)
 
@@ -99,19 +87,15 @@ Eleanor Tremain
 **Lighting:** Donald Holden  
 **Music:** John Gromada  
 **Costumes:** Jess Goldstein  
-**Fights:** B.H. Barry**Character**  
-Julian  
-Poopay  
-Reece  
-Ruella  
-Harold  
-Jessica**Actor**  
-Gerrit Graham  
-Mary-Louise Parker  
-Tom Beckett  
-Patricia Hodges  
-David McCallum  
-Candy Buckley
+**Fights:** B.H. Barry
+
+**Character** **Actor**  
+**Julian** Gerrit Graham  
+**Poopay** Mary-Louise Parker  
+**Reece** Tom Beckett  
+**Ruella** Patricia Hodges  
+**Harold** David McCallum  
+**Jessica** Candy Buckley
 
 ### Revival (2010)
 
@@ -128,19 +112,15 @@ Candy Buckley
 
 **Stage Manager:** Andy Hall  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Annette Waldie**Character**  
-Julian  
-Poopay  
-Reece  
-Ruella  
-Harold  
-Jessica**Actor**  
-Kim Wall  
-Laura Doddington  
-Ben Porter  
-Liza Goddard  
-Jamie Kenna  
-Laura Howard
+**Assistant Stage Manager:** Annette Waldie
+
+**Character** **Actor**  
+**Julian** Kim Wall  
+**Poopay** Laura Doddington  
+**Reece** Ben Porter  
+**Ruella** Liza Goddard  
+**Harold** Jamie Kenna  
+**Jessica** Laura Howard
 
 ### Tour (2011)
 
@@ -152,25 +132,17 @@ Laura Howard
 **Associate Director:** Clare Prenton  
 **Design:** Michael Holt  
 **Lighting:** Jason Taylor  
-**Music:** John Pattison**Character**  
-Julian  
-Poopay  
-Reece  
-Ruella  
-Harold  
-Jessica
+**Music:** John Pattison
 
-Understudy  
-Understudy**Actor**  
-Ben Jones  
-Laura Doddington  
-Ben Porter  
-Liza Goddard  
-Jamie Kenna  
-Daisy Aitkens
-
-Catriona Martin  
-Toby Spearpoint
+**Character** **Actor**  
+**Julian** Ben Jones  
+**Poopay** Laura Doddington  
+**Reece** Ben Porter  
+**Ruella** Liza Goddard  
+**Harold** Jamie Kenna  
+**Jessica** Daisy Aitkens  
+**Understudy** Catriona Martin  
+**Understudy** Toby Spearpoint
 
 ### London Revival (2015)
 
@@ -184,16 +156,14 @@ Toby Spearpoint
 **Lighting:** Jason Taylor  
 **Sound:** Davy Ogilivy  
 **Music:** Matthew Scott  
-**Fight Director:** Terry King**Character**  
-Julian  
-Poopay  
-Reece  
-Ruella  
-Harold  
-Jessica**Actor**  
-David Bamber  
-Rachel Tucker  
-Robert Portal  
-Imogen Stubbs  
-Matthew Cottle  
-Lucy Briggs-Owen*All research for this page by Simon Murgatroyd.*
+**Fight Director:** Terry King
+
+**Character** **Actor**  
+**Julian** David Bamber  
+**Poopay** Rachel Tucker  
+**Reece** Robert Portal  
+**Ruella** Imogen Stubbs  
+**Harold** Matthew Cottle  
+**Jessica** Lucy Briggs-Owen
+
+*All research for this page by Simon Murgatroyd.*

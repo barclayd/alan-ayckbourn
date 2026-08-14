@@ -21,20 +21,16 @@ play: "dreams-from-a-summer-house"
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Nina Hebden  
-**Assistant Stage Manager:** Mark Berry**Character**  
-Robert  
-Amanda  
-Sinclair  
-Chrissie  
-Grayson  
-Mel  
-Belle  
-Baldemar**Actor**  
-Dale Rapley  
-Janie Dee  
-David McAlister  
-Christine Cox  
-James Tomlinson  
-Judith McSpadden  
-Jan Hartley  
-Anthony Venditti*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Mark Berry
+
+**Character** **Actor**  
+**Robert** Dale Rapley  
+**Amanda** Janie Dee  
+**Sinclair** David McAlister  
+**Chrissie** Christine Cox  
+**Grayson** James Tomlinson  
+**Mel** Judith McSpadden  
+**Belle** Jan Hartley  
+**Baldemar** Anthony Venditti
+
+*All research for this page by Simon Murgatroyd.*

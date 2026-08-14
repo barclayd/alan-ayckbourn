@@ -20,7 +20,14 @@ facts:
   Musical Director: "Simon Cryer"
   Design: "Pip Leckenby"
   Lighting: "Kath Geraghty"
-  Choreography: "Sheila CarterCharacter"
+  Choreography: "Sheila Carter"
+  Character: "Actor"
+  Reg Pittock: "Robert Austin"
+  Vernon Dickinson: "Julian Forsyth"
+  Tracy Chapcraft: "Dorothy Atkinson"
+  Enid Watherstone: "Nicola Sloane"
+  The MD: "Simon Cryer"
+  Stage Manager: "Dawn Erica Dyson"
   Deputy Stage Manager: "Fleur Linden Beeley"
   Assistant Stage Manager: "Sara Wells"
 ---
@@ -37,19 +44,6 @@ Apparently several members of the audience were expecting a real variety show an
 
 "I thought I would like to do something for the adults, particularly over Christmas, but going into the New Year. I came up with the concept of a revue and host, Reg Pittock. I want to push this guy as being real! He's a sort of small town Les Dawson, who's apparently come to help the theatre in its moment of need. It's also about the way most of the British public are very happy to make complete idiots of themselves at the drop of a hat. We possibly are a reserved race but then you look at something like karaoke or these shows on television."  
 *Alan Ayckbourn (Scarborough Evening News, 14 October 1998)*
-
-### Premiere Production Details (1998)
-
-Reg Pittock  
-Vernon Dickinson  
-Tracy Chapcraft  
-Enid Watherstone  
-The MD**Actor**  
-Robert Austin  
-Julian Forsyth  
-Dorothy Atkinson  
-Nicola Sloane  
-Simon Cryer**Stage Manager:** Dawn Erica Dyson
 
 ### Further Reading
 

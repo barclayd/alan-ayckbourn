@@ -20,28 +20,20 @@ play: "the-girl-next-door"
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-Ray:** Not available  
-**Digital:** Not available**Director:**  
-**Director of Photography:**  
-**Sound Capture:**  
-**Design:**  
-**Lighting:**  
-**Sound:**  
-**Sound Associate:**
+**Digital:** Not available
 
-**Character**  
-Rob Hathaway  
-Alex Hathaway  
-Alf Tindle  
-Lily TindleAlan Ayckbourn  
-Dan Abell  
-Chris Jones (Beckview Studios)  
-Kevin Jenkins  
-Jason Taylor  
-Alan Ayckbourn  
-Paul Stear
+**Director:** Alan Ayckbourn  
+**Director of Photography:** Dan Abell  
+**Sound Capture:** Chris Jones (Beckview Studios)  
+**Design:** Kevin Jenkins  
+**Lighting:** Jason Taylor  
+**Sound:** Alan Ayckbourn  
+**Sound Associate:** Paul Stear  
+**Character** **Actor**  
+**Rob Hathaway** Bill Champion  
+**Alex Hathaway** Alexandra Mathie  
+**Alf Tindle** Linford Johnson  
+**Lily Tindle** Naomi Petersen
 
-**Actor**  
-Bill Champion  
-Alexandra Mathie  
-Linford Johnson  
-Naomi Petersen**Note:** *The Girl Next Door* was recorded in front of a live audience during its world premiere run at the Stephen Joseph Theatre during June 2021. This was then streamed from the SJT website from 28 June to 3 July; concurrently with the final week of the live production. This also marked the first stream of a staged Ayckbourn production directed by Alan Ayckbourn himself. It was then also streamed from 1 to 19 September 2021 to tie-in with the return and tour of the production.*All research for this page by Simon Murgatroyd.*
+**Note:** *The Girl Next Door* was recorded in front of a live audience during its world premiere run at the Stephen Joseph Theatre during June 2021. This was then streamed from the SJT website from 28 June to 3 July; concurrently with the final week of the live production. This also marked the first stream of a staged Ayckbourn production directed by Alan Ayckbourn himself. It was then also streamed from 1 to 19 September 2021 to tie-in with the return and tour of the production.  
+*All research for this page by Simon Murgatroyd.*

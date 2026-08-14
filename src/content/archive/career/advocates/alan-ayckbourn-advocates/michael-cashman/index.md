@@ -15,4 +15,5 @@ order: 2314
 *(2020)*
 
 "During rehearsals he asked me: “Cash, what’s more moving, a person crying or a person trying not to cry? What’s funnier, a person laughing or a person trying not to laugh?” Succinctly brilliant."  
-*(2020)**Copyright: Michael Cashman. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2020)*  
+*Copyright: Michael Cashman. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

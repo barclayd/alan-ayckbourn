@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 When *The Norman Conquests* premiered at Theatre in the Round at the Library Theatre, Scarborough, in 1973, two of the plays had different titles (and it was not actually called *The Norman Conquests* then). This is an original manuscript for *Make Yourself At Home* (later retitled *Living Together*) with Alan Ayckbourn's notes on the cover.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-68887ee.jpg)
@@ -89,6 +92,10 @@ During 1993, Alan Ayckbourn revived *The Norman Conquests* at the Stephen Joseph
 
 A sketch by Alan Ayckbourn illustrating the layout for his in-the-round revival of *Living Together* at the Stephen Joseph Theatre in the Round in 1993. Note the reference to the 'gramophone'; Alan believes all his plays are period pieces and should always be set in the era when they were written.
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene and Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -17,41 +17,25 @@ play: "a-small-family-business"
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Sound Design**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Jack  
-Benedict  
-Anita  
-Desmond  
-Harriet  
-Ken  
-Yvonne  
-Poppy  
-Tina  
-Samantha  
-Cliff  
-Roy  
-The RivettisMartin Jarvis  
-Mark Holden  
-Rosalind Ayres
-
-**Actor**  
-Alfred Molina  
-Adam Godley  
-Joanne Whalley  
-Julian Sands  
-Jill Gascoine  
-Roy Dotrice  
-Millicent Martin  
-Rosalind Ayres  
-Moira Quirk  
-Fuschia Sumner  
-Kenneth Danziger  
-Darren Richardson  
-Matthew Wolf
+**Director** Martin Jarvis  
+**Sound Design** Mark Holden  
+**Producer** Rosalind Ayres  
+**Character** **Actor**  
+**Jack** Alfred Molina  
+**Benedict** Adam Godley  
+**Anita** Joanne Whalley  
+**Desmond** Julian Sands  
+**Harriet** Jill Gascoine  
+**Ken** Roy Dotrice  
+**Yvonne** Millicent Martin  
+**Poppy** Rosalind Ayres  
+**Tina** Moira Quirk  
+**Samantha** Fuschia Sumner  
+**Cliff** Kenneth Danziger  
+**Roy** Darren Richardson  
+**The Rivettis** Matthew Wolf
 
 ### Live Streaming (2014)
 
@@ -65,42 +49,27 @@ Matthew Wolf
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Design**  
-**Lighting**  
-**Music**  
-**Sound**
+**Digital:** Not available
 
-**Character**  
-Desmond Ayres  
-Cliff McCracken  
-Benedict Hough  
-Poppy  
-Ken Ayres  
-Yvonne Doggett  
-Jack McCracken  
-Harriet  
-Tina  
-The Rivetti Brothers  
-Samantha  
-Roy Ruston  
-AnitaAdam Penford  
-Tim Hatley  
-Paul Anderson  
-Grant Olding  
-Gareth Fry
+**Director** Adam Penford  
+**Design** Tim Hatley  
+**Lighting** Paul Anderson  
+**Music** Grant Olding  
+**Sound** Gareth Fry  
+**Character** **Actor**  
+**Desmond Ayres** Neal Barry  
+**Cliff McCracken** Stephen Beckett  
+**Benedict Hough** Matthew Cottle  
+**Poppy** Debra Gillett  
+**Ken Ayres** Gawn Grainger  
+**Yvonne Doggett** Amanda Hadingue  
+**Jack McCracken** Nigel Lindsay  
+**Harriet** Amy Marston  
+**Tina** Rebecca McKinnis  
+**The Rivetti Brothers** Gerard Monaco  
+**Samantha** Alice Sykes  
+**Roy Ruston** Samuel Taylor  
+**Anita** Niky Wardley
 
-**Actor**  
-Neal Barry  
-Stephen Beckett  
-Matthew Cottle  
-Debra Gillett  
-Gawn Grainger  
-Amanda Hadingue  
-Nigel Lindsay  
-Amy Marston  
-Rebecca McKinnis  
-Gerard Monaco  
-Alice Sykes  
-Samuel Taylor  
-Niky Wardley**Note:** The NT Live streaming of *A Small Family Business* marked the first time a play by Alan Ayckbourn had been streamed.*All research for this page by Simon Murgatroyd.*
+**Note:** The NT Live streaming of *A Small Family Business* marked the first time a play by Alan Ayckbourn had been streamed.  
+*All research for this page by Simon Murgatroyd.*

@@ -52,4 +52,5 @@ Alan Ayckbourn worked at the **[Oxford Playhouse](/career/actor/connaught-theatr
 "I went to Oxford, and again fell right into a very, very nice situation. I was very lucky there, because once again there was a big, talented company, a marvellous man running it - Frank Hauser, who was again a man genuinely interested in young talent who went out of his way to help - and it was a theatre that was on the up at the time. I suppose if I'd auditioned for it, I'd never have got in. I did *Under Milk Wood* there, and I played the romantic juve with Mai Zetterling. In fact we did a lot of exciting things that were good for a boy at that age."  
 *('Conversations With Ayckbourn', 1981)*
 
-Although no production dates are known for *Under Milk Wood*, it was also toured by Oxford Playhouse to the Cambridge Arts Theatre from 4 to 9 November 1957*All research for this page by Simon Murgatroyd.*
+Although no production dates are known for *Under Milk Wood*, it was also toured by Oxford Playhouse to the Cambridge Arts Theatre from 4 to 9 November 1957  
+*All research for this page by Simon Murgatroyd.*

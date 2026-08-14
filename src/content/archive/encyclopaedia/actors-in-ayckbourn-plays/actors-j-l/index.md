@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-15/page50.html"
 order: 803
 ---
 
-This is a comprehensive list of the actors (surnames J - L) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Liz Jadav:** Joking Apart (AR 2018); Better Off Dead (WP 2018)  
+This is a comprehensive list of the actors (surnames J - L) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**Liz Jadav:** Joking Apart (AR 2018); Better Off Dead (WP 2018)  
 **Kate Rhode James:** This Is Where We Came In (WP 1990)  
 **David Jarrett:** Dad's Tale (WP 1960); Standing Room Only (WP 1961); Meet My Father (WP 1965)  
 **Andrew Jarvis:** Sisterly Feelings (AT 1979)  
@@ -90,4 +91,5 @@ This is a comprehensive list of the actors (surnames J - L) who have appeared in
 **Jennifer Luckraft:** Comic Potential (WP 1998); Body Language (AR 1999); House & Garden (WP 1999)  
 **Joanna Lumley:** The Revengers' Comedies (LP 1991)  
 **Nicholas Lumley:** Family Circles (AR 1985); A Chorus Of Disapproval (LT 1986)  
-**Michael Lyle:** Season's Greetings (AR 2019)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**Michael Lyle:** Season's Greetings (AR 2019)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

@@ -21,18 +21,15 @@ play: "the-trial-of-romeo-oscar"
 **Sound:** Alan Ayckbourn  
 **Associate Sound:** Ernest Acquah  
 **Wardrobe Supervisor:** Julia Perry-Mook  
-**Casting:** Sarah Hughes CDG**Characters**  
-Arbiter Jefferies  
-Allistra Clay  
-Octo  
-Ronal Lime-Taylor  
-Devaney Dyer  
-RSDO 83  
-Hermione Quinque**Actors**  
-Russell Richardson  
-Frances Marshall  
-Leigh Symonds  
-Hayden Wood  
-Elizabeth Boag  
-Richard Stacey  
-Olivia Woolhouse*All research for this page by Simon Murgatroyd.*
+**Casting:** Sarah Hughes CDG
+
+**Characters** **Actors**  
+**Arbiter Jefferies** Russell Richardson  
+**Allistra Clay** Frances Marshall  
+**Octo** Leigh Symonds  
+**Ronal Lime-Taylor** Hayden Wood  
+**Devaney Dyer** Elizabeth Boag  
+**RSDO 83** Richard Stacey  
+**Hermione Quinque** Olivia Woolhouse
+
+*All research for this page by Simon Murgatroyd.*

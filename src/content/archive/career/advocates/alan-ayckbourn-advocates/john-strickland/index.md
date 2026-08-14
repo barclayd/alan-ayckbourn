@@ -12,4 +12,5 @@ order: 2339
 *(1989)*
 
 "I think Alan’s major strength is he really does allow you to find your own way as an actor, but knowing that he’s always there to hold you up when you fall. There’s no sense of arriving and him saying, ‘this is how it’s going to be, you will do it that way.’ You always feel right up until the first night, that you have made all the decisions. And that he has very cleverly steered you away from making the wrong decisions. I think he’s very interested in actors realising his ideas as a director."  
-*(1989)**Copyright: John Strickland. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1989)*  
+*Copyright: John Strickland. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

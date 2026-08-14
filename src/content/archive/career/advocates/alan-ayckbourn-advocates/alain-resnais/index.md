@@ -12,4 +12,5 @@ order: 2370
 *(1994)*
 
 "I am always inspired by my friend Alan Ayckbourn, one of my favourite playwrights, along with Henry Bernstein or Jean Anouilh."  
-*(2013)**Copyright: Alain Resnais. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2013)*  
+*Copyright: Alain Resnais. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

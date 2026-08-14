@@ -88,7 +88,8 @@ The Karaoke Theatre Company (2016)
 The Princess & The Mouse (2002)  
 The Ten Magic Bridges (2003)  
 Miranda’s Magic Mirror (2004)  
-The Girl Who Lost Her Voice (2005)**Stephen Joseph Theatre In The Round**  
+The Girl Who Lost Her Voice (2005)  
+**Stephen Joseph Theatre In The Round**  
 Ten Times Table (1977)  
 Joking Apart (1978)  
 Sisterly Feelings (1979)  
@@ -140,4 +141,5 @@ The Westwoods: His Side (1984)
 The Westwoods: Her Side (1984)
 
 **Plays For Young People**  
-The Inside Outside Slide Show (1989)*All research for this page by Simon Murgatroyd. Please do not reproduce without crediting the website and author.*
+The Inside Outside Slide Show (1989)  
+*All research for this page by Simon Murgatroyd. Please do not reproduce without crediting the website and author.*

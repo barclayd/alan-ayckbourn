@@ -9,4 +9,5 @@ order: 2369
 ### Quotes
 
 “The world of drinks before dinner and anxiety about the state of your kitchen isn’t reflective anymore of what people are socially preoccupied with. But what’s underneath stays the same and the further we get from the Seventies and Eighties, I think the less we will mind about period. Reviving him will soon be like reviving Coward or Rattigan.”  
-*(2019)**Copyright: Tom Littler. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Tom Littler. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

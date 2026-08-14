@@ -12,4 +12,5 @@ order: 738
 *(2012)*
 
 "Alan Ayckbourn encouraged me to become a director, and provided me not only with an example of how it might be done, but also gave me the space in which to discover how to do it for myself and by myself."  
-*(2019)**Copyright: Robin Herford. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Robin Herford. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

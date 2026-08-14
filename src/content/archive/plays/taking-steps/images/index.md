@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Within the Ayckbourn Archive at the Borthwick Institute for Archives, there are Alan Ayckbourn's hand-written notes for *Taking Steps* including these early insights into the characters in the play.
 
+**Copyright:** Haydonning Ltd  
+**Archive:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-672d09c.jpg)
@@ -23,6 +26,9 @@ Within the Ayckbourn Archive at the Borthwick Institute for Archives, there are 
 
 Within the Ayckbourn Archive at the Borthwick Institute for Archives, there are Alan Ayckbourn's hand-written notes for *Taking Steps* including this early plot-breakdown of the play.
 
+**Copyright:** Haydonning Ltd  
+**Archive:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-2c61c24.jpg)
@@ -30,6 +36,9 @@ Within the Ayckbourn Archive at the Borthwick Institute for Archives, there are 
 ![](./_images/stacks-image-d941bda.jpg)
 
 *Taking Steps* is regarded by Alan Ayckbourn as his only farce and is renowned for its unusual staging which really only works in-the-round with three floors transposed upon one another. This is an early sketch by the playwright of the stage-space held in the Borthwick Institute for Archives.
+
+**Copyright:** Haydonning Ltd  
+**Archive:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -50,6 +59,9 @@ A newspaper cutting from the Scarborough Evening News on 4 September 1980 with a
 
 To mark *Taking Steps* becoming the first play staged by the Scarborough company to reach 100 performances, a special cake was made based upon the poster for the production at the Stephen Joseph Theatre in the Round.
 
+**Copyright:** Haydonning Ltd  
+**Archive:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-b389092.jpg)
@@ -57,6 +69,9 @@ To mark *Taking Steps* becoming the first play staged by the Scarborough company
 ![](./_images/stacks-image-3b45018.jpg)
 
 During 1990, Alan Ayckbourn revived *Taking Steps* at the Stephen Joseph Theatre in the Round with Michael Gambon playing Roland Crabbe. This is the playwright's sketch of the set for the revival.
+
+**Copyright:** Haydonning Ltd  
+**Archive:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -113,6 +128,7 @@ Another example of the designer Kevin Jenkins' work on Alan Ayckbourn's 2017 rev
 **Copyright:** Kevin Jenkins  
 **Archive:** The Bob Watson Archive
 
-*Do not reproduce images without permission of the copyright holder.*     *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -12,4 +12,5 @@ order: 2333
 *(1981)*
 
 "A great, great writer. As a person he is very funny, very shy… and a very private man. It takes a while for him to relax with you but once he trusts you. He's a great friend."  
-*(2009)**Copyright: Robert Powell. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2009)*  
+*Copyright: Robert Powell. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

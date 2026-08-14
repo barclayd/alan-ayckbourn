@@ -8,470 +8,120 @@ This page offers an at-a-glance guide to some of the major television and radio 
 
 **Note:** This website / archive does not hold nor have access to any of the programmes listed below - this page is intended purely as a research and reference tool. If you are interested in the programmes listed, contact the original broadcaster or the British Film Institute for further information.
 
-### Title
+**Title** **Date** **Channel** **Subject**  
+**○ Profile** 04 / 09 / 1973 **BBC Radio** Career  
+**○ Alan Ayckbourn** 01 / 09 / 1974 **BBC2** Career  
+**○ Desert Island Discs** 02 / 11 / 1974 **BBC Radio 4** No details known  
+**○ Woman’s Hour** 21 / 08 / 1974 **BBC Radio 4** No details known  
+**○ Aquarius** — / — / 1974 **ITV** *The Norman Conquests*  
+**○ Summer Interview** 26 / 08 / 1975 **TV** No details known  
+**○ Man Of Action** 13 / 12 / 1975 **BBC Radio 3** Favourite music  
+**○ Calendar People** 28 / 01 / 1976 **TV** Writing  
+**○ Arena** 04 / 02 / 1976 **BBC2** *Just Between Ourselves*  
+**○ Tonight** 18 / 05 / 1976 **BBC1** Career  
+**○ The Brian Connell Interview** 04 / 07 / 1976 **ITV** No details known  
+**○ The Playwrights** 06 / 09 / 1976 **ITV** Career  
+**○ Talking About Theatre** 27 / 08 / 1977 **BBC Radio 3** Scarborough  
+**○ The Northerners** 06 / 09 / 1977 **BBC1** Career  
+**○ With Great Pleasure** 31 / 12 / 1977 **BBC Radio 4** Favourite poetry & prose  
+**○ Nationwide Goes North** 25 / 01 / 1978 **ITV** *Joking Apart*  
+**○ Calendar: The Best Sellers** 07 / 08 / 1978 **ITV** No details known  
+**○ A Sense Of Theatre** 12 / 10 / 1978 **HTV** No details known  
+**○ Man Of Action** 06 / 01 / 1979 **BBC Radio 3** Favourite Albums  
+**○ On Location** 31 / 01 / 1979 **BBC Radio 4** Yorkshire  
+**○ Newsnight** 04 / 06 / 1980 **BBC1** *Sisterly Feelings*  
+**○ Drama Up To Now** 15 / 05 / 1981 **BBC Radio 4** ‘Well Made’ theatre documentary  
+**○ Various Stages** 31 / 10 / 1981 **BBC Radio 3** *Way Upstream*  
+**○ Omnibus** 24 / 01 / 1982 **BBC1** Career  
+**○ Backstage** 11 / 04 / 1982 **BBC2** Behind the scenes at SJT  
+**○ Northern Lights** 27 / 01 / 1984 **BBC1** *The 7 Deadly Virtues*  
+**○ Kaleidoscope** 08 / 05 / 1984 **BBC Radio 4** *A Chorus Of Disapproval*  
+**○ Meridian** 12 / 06 / 1984 **World Service** *Intimate Exchanges*  
+**○ Sixty Minutes** 18 / 06 / 1984 **BBC1** *Intimate Exchanges*  
+**○ The Levin Interviews** 01 / 07 / 1984 **BBC2** Career  
+**○ Kaleidoscope** 21 / 11 / 1984 **BBC Radio 4** Career  
+**○ Meridian** 01 / 12 / 1984 **World Service** 25th anniversary of first play  
+**○ Pebble Mill At One** 10 / 12 / 1984 **BBC1** Artistic Director  
+**○ Midweek** 28 / 05 / 1986 **BBC Radio 4** Scarborough  
+**○ Brian Matthew** 13 / 11 / 1986 **BBC Radio 2** Scarborough  
+**○ Kaleidoscope** 08 / 06 / 1987 **BBC Radio 4** *A Small Family Business*  
+**○ Today** 30 / 07 / 1987 **BBC Radio 4** *Henceforward…*  
+**○ Celebrity Interview** -- / -- / 1987 **LBC** Interview with Bob Holness  
+**○ Review** 06 / 03 / 1988 **BBC Radio 2** *’Tis Pity She’s A Whore*  
+**○ Talking Theatre** 20 / 07 / 1988 **BBC Radio 4** In conversation with Robert Cushman  
+**○ Kaleidoscope** 13 / 12 / 1988 **BBC Radio 4** *Mr A's Amazing Maze Plays*  
+**○ Wogan** 14 / 06 / 1989 **BBC1** Career  
+**○ Kaleidoscope** 15 / 06 / 1989 **BBC Radio 4** *The Revengers’ Comedies*  
+**○ Meridian** 05 / 09 / 1989 **BBC Radio 4** Career  
+**○ The Tingle Factor** 31 / 12 / 1989 **BBC Radio 4** Favourite music  
+**○ Third Ear** 12 / 02 / 1990 **BBC Radio 3** No details known  
+**○ Omnibus** 13 / 02 / 1990 **BBC1** Career  
+**○ Arena** 23 / 03 / 1990 **BBC2** His agent Margaret Ramsay  
+**○ Radio 2 Arts Programme** 15 / 06 / 1990 **BBC Radio 2** In conversation with Austin Mitchell  
+**○ Kaleidoscope** 29 / 06 / 1990 **BBC Radio 4** *Man Of The Moment*  
+**○ Kaleidoscope** 05 / 10 / 1990 **BBC Radio 4** *Othello*  
+**○ Parkinson’s Sunday Supplement** 24 / 12 / 1990 **BBC Radio 2** No details known  
+**○ Ayckbourn In Conversation** 01 / 05 / 1991 **Unknown** No details known  
+**○ Ayckbourn Godber** -- / 06 / 1991 **ITV** Writing  
+**○ Junkin’s Jokers** 10 / 07 / 1991 **BBC Radio 2** What makes people laugh  
+**○ Radio 2 Arts Programme** 12 / 07 / 1991 **BBC Radio 2** No details known  
+**○ The Michael Parkinson Show** -- / -- / 1991 **LBC** No details known  
+**○ The Lowdown** 07 / 04 / 1992 **BBC1** Documentary about invisible friends  
+**○ A View From The Boundary** 25 / 07 / 1992 **BBC Radio 3** Cricket / career - recorded at Headingly  
+**○ Kaleidoscope** 20 / 08 / 1992 **BBC Radio 4** *Time Of My Life*  
+**○ The Tingle Factor** -- / -- / 1992 **BBC Radio 4** Favourite music  
+**○ Kaleidoscope** 22 / 01 / 1994 **BBC Radio 4** *Haunting Julia*  
+**○ The South Bank Show** 30 / 10 / 1994 **ITV** Playwriting  
+**○ Kaleidoscope** 12 / 01 / 1996 **BBC Radio 4** Stephen Joseph Theatre  
+**○ Radio 2 Arts Programme** 26 / 04 / 1996 **BBC Radio 2** Stephen Joseph Theatre  
+**○ Ayckbourn's Ambition** -- / 04 / 1996 **BBC1** Stephen Joseph Theatre  
+**○ The South Bank Show** 28 / 07 / 1996 **ITV** Playwriting  
+**○ Woman's Hour** 01 / 09 / 1999 **BBC Radio 2** *Comic Potential*  
+**○ Meridian** 08 / 02 / 2000 **World Service** *Virtual Reality*  
+**○ Front Row** 07 / 08 / 2000 **BBC Radio 4** *House & Garden*  
+**○ Newsnight** 09 / 08 / 2000 **BBC1** *House & Garden*  
+**○ Radio 2 Arts Programme** 11 / 08 / 2000 **BBC Radio 2** *House & Garden*  
+**○ HARDTalk** 21 / 10 / 2000 **BBC News** Career  
+**○ Changing Stages** 03 / 12 / 2000 **BBC2** Career  
+**○ Biography** -- / -- / 2000 **Artsworld** Career  
+**○ Songs Of Praise** 12 / 08 / 2001 **BBC 1** Scarborough  
+**○ Masterclass** -- / -- / 2001 **Artsworld** Directing masterclass  
+**○ Backstage** -- / -- / 2001 **Artsworld** *GamePlan*  
+**○ Filling The Empty Space** 12 / 05 / 2002 **BBC Radio 3** Discussing *The Empty Space* 30 years on  
+**○ Woman's Hour** 14 / 12 / 2002 **BBC Radio 4** *The Jollies*  
+**○ The Ticket** 23 / 08 / 2003 **World Service** *Sugar Daddies*  
+**○ The Green Room** 30 / 04 / 2004 **BBC Radio 2** *Drowning On Dry Land*  
+**○ The Green Room** 18 / 03 / 2005 **BBC Radio 2** Stephen Joseph Theatre  
+**○ American Theatre Wing** 01 / 06 / 2005 **iTunes** Career  
+**○ The Culture Show** 02 / 06 / 2005 **BBC2** *Improbable Fiction*  
+**○ Fossilised Fish-Hooks!** 22 / 10 / 2005 **BBC Radio 4** Anthony Buckeridge / *Jennings* novels  
+**○ Surrounded!** 24 / 11 / 2005 **BBC Radio 4** Theatre-in-the-round  
+**○ Front Row** 21 / 10 / 2006 **BBC Radio 4** Career  
+**○ Front Row** 23 / 05 / 2007 **BBC Radio 4** Early career  
+**○ Front Row** 23 / 06 / 2008 **BBC Radio 4** Interview with Mark Lawson  
+**○ With Great Pleasure** 02 / 04 / 2009 **BBC Radio 4** Favourite readings  
+**○ The Strand** 09 / 04 / 2009 **BBC World Service** International popularity  
+**○ Front Row** 10 / 04 / 2009 **BBC Radio 4** Career  
+**○ Nightwaves** 13 / 04 / 2009 **BBC Radio 3** *The Norman Conquests*  
+**○ LA Theatre Works** 01 / 01 / 2011 **www.latw.org** *Henceforward…*  
+**○ American Theatre Wing** 05 / 01 / 2011 **iTunes** Career  
+**○ The Liz Green Show** 13 / 08 / 2011 **BBC Radio Leeds** BBC Radio career  
+**○ Ayckbourn In Action** 15 / 09 / 2011 **BBC Radio 4** Directing career  
+**○ Imagine** 16 / 11 / 2011 **BBC1** Career  
+**○ HARDtalk** 28 / 03 / 2012 **BBC News** Career  
+**○ One On One** 29 / 06 / 2012 **BBC Radio Leeds** Career at BBC  
+**○ In Confidence** 03 / 09 / 2012 **Sky Arts 1** Career  
+**○ Profile** 05 / 04 / 2014 **BBC Radio 4** Life  
+**○ Front Row** 29 / 08 / 2014 **BBC Radio 4** *Roundelay*  
+**○ Front Row** 25 / 12 / 2014 **BBC Radio 4** Career / *Roundelay*  
+**○ Front Row** 11 / 07 / 2016 **BBC Radio 4** *The Karaoke Theatre Company*  
+**○ Essential Classics** 18 / 07 / 2016 **BBC Radio 3** Career  
+**○ Sir Peter Hall Remembered** 12 / 09 / 2017 **BBC2** Sir Peter Hall  
+**○ Our Sarah Jane** 04 / 05 / 2020 **Blu Ray** The actress Elisabeth Sladen  
+**○ Today** 20 / 05 / 2020 **BBC Radio 4** *Anno Domino* / Covid-19  
+**○ The Mid-Morning Show** 20 / 05 / 2020 **BBC Radio York** *Anno Domino* / Covid-19  
+**○ Look North** 21 / 05 / 2020 **BBC1** *Anno Domino* / Covid-19  
+**○ Morning Edition** 09 / 06 / 2020 **NPR (USA)** *Anno Domino* / Covid-19  
+**○ Front Row** 06 / 10 / 2024 **BBC Radio 4** *Show & Tell* / Scarborough
 
-○ Profile  
-○ Alan Ayckbourn  
-○ Desert Island Discs  
-○ Woman’s Hour  
-○ Aquarius  
-○ Summer Interview  
-○ Man Of Action  
-○ Calendar People  
-○ Arena  
-○ Tonight  
-○ The Brian Connell Interview  
-○ The Playwrights  
-○ Talking About Theatre  
-○ The Northerners  
-○ With Great Pleasure  
-○ Nationwide Goes North  
-○ Calendar: The Best Sellers  
-○ A Sense Of Theatre  
-○ Man Of Action  
-○ On Location  
-○ Newsnight  
-○ Drama Up To Now  
-○ Various Stages  
-○ Omnibus  
-○ Backstage  
-○ Northern Lights  
-○ Kaleidoscope  
-○ Meridian  
-○ Sixty Minutes  
-○ The Levin Interviews  
-○ Kaleidoscope  
-○ Meridian  
-○ Pebble Mill At One  
-○ Midweek  
-○ Brian Matthew  
-○ Kaleidoscope  
-○ Today  
-○ Celebrity Interview  
-○ Review  
-○ Talking Theatre  
-○ Kaleidoscope  
-○ Wogan  
-○ Kaleidoscope  
-○ Meridian  
-○ The Tingle Factor  
-○ Third Ear  
-○ Omnibus  
-○ Arena  
-○ Radio 2 Arts Programme  
-○ Kaleidoscope  
-○ Kaleidoscope  
-○ Parkinson’s Sunday Supplement  
-○ Ayckbourn In Conversation  
-○ Ayckbourn Godber  
-○ Junkin’s Jokers  
-○ Radio 2 Arts Programme  
-○ The Michael Parkinson Show  
-○ The Lowdown  
-○ A View From The Boundary  
-○ Kaleidoscope  
-○ The Tingle Factor  
-○ Kaleidoscope  
-○ The South Bank Show  
-○ Kaleidoscope  
-○ Radio 2 Arts Programme  
-○ Ayckbourn's Ambition  
-○ The South Bank Show  
-○ Woman's Hour  
-○ Meridian  
-○ Front Row  
-○ Newsnight  
-○ Radio 2 Arts Programme  
-○ HARDTalk  
-○ Changing Stages  
-○ Biography  
-○ Songs Of Praise  
-○ Masterclass  
-○ Backstage  
-○ Filling The Empty Space  
-○ Woman's Hour  
-○ The Ticket  
-○ The Green Room  
-○ The Green Room  
-○ American Theatre Wing  
-○ The Culture Show  
-○ Fossilised Fish-Hooks!  
-○ Surrounded!  
-○ Front Row  
-○ Front Row  
-○ Front Row  
-○ With Great Pleasure  
-○ The Strand  
-○ Front Row  
-○ Nightwaves  
-○ LA Theatre Works  
-○ American Theatre Wing  
-○ The Liz Green Show  
-○ Ayckbourn In Action  
-○ Imagine  
-○ HARDtalk  
-○ One On One  
-○ In Confidence  
-○ Profile  
-○ Front Row  
-○ Front Row  
-○ Front Row  
-○ Essential Classics  
-○ Sir Peter Hall Remembered  
-○ Our Sarah Jane  
-○ Today  
-○ The Mid-Morning Show  
-○ Look North  
-○ Morning Edition  
-○ Front Row
-
-### Date
-
-04 / 09 / 1973  
-01 / 09 / 1974  
-02 / 11 / 1974  
-21 / 08 / 1974  
-— / — / 1974  
-26 / 08 / 1975  
-13 / 12 / 1975  
-28 / 01 / 1976  
-04 / 02 / 1976  
-18 / 05 / 1976  
-04 / 07 / 1976  
-06 / 09 / 1976  
-27 / 08 / 1977  
-06 / 09 / 1977  
-31 / 12 / 1977  
-25 / 01 / 1978  
-07 / 08 / 1978  
-12 / 10 / 1978  
-06 / 01 / 1979  
-31 / 01 / 1979  
-04 / 06 / 1980  
-15 / 05 / 1981  
-31 / 10 / 1981  
-24 / 01 / 1982  
-11 / 04 / 1982  
-27 / 01 / 1984  
-08 / 05 / 1984  
-12 / 06 / 1984  
-18 / 06 / 1984  
-01 / 07 / 1984  
-21 / 11 / 1984  
-01 / 12 / 1984  
-10 / 12 / 1984  
-28 / 05 / 1986  
-13 / 11 / 1986  
-08 / 06 / 1987  
-30 / 07 / 1987  
--- / -- / 1987  
-06 / 03 / 1988  
-20 / 07 / 1988  
-13 / 12 / 1988  
-14 / 06 / 1989  
-15 / 06 / 1989  
-05 / 09 / 1989  
-31 / 12 / 1989  
-12 / 02 / 1990  
-13 / 02 / 1990  
-23 / 03 / 1990  
-15 / 06 / 1990  
-29 / 06 / 1990  
-05 / 10 / 1990  
-24 / 12 / 1990  
-01 / 05 / 1991  
--- / 06 / 1991  
-10 / 07 / 1991  
-12 / 07 / 1991  
--- / -- / 1991  
-07 / 04 / 1992  
-25 / 07 / 1992  
-20 / 08 / 1992  
--- / -- / 1992  
-22 / 01 / 1994  
-30 / 10 / 1994  
-12 / 01 / 1996  
-26 / 04 / 1996  
--- / 04 / 1996  
-28 / 07 / 1996  
-01 / 09 / 1999  
-08 / 02 / 2000  
-07 / 08 / 2000  
-09 / 08 / 2000  
-11 / 08 / 2000  
-21 / 10 / 2000  
-03 / 12 / 2000  
--- / -- / 2000  
-12 / 08 / 2001  
--- / -- / 2001  
--- / -- / 2001  
-12 / 05 / 2002  
-14 / 12 / 2002  
-23 / 08 / 2003  
-30 / 04 / 2004  
-18 / 03 / 2005  
-01 / 06 / 2005  
-02 / 06 / 2005  
-22 / 10 / 2005  
-24 / 11 / 2005  
-21 / 10 / 2006  
-23 / 05 / 2007  
-23 / 06 / 2008  
-02 / 04 / 2009  
-09 / 04 / 2009  
-10 / 04 / 2009  
-13 / 04 / 2009  
-01 / 01 / 2011  
-05 / 01 / 2011  
-13 / 08 / 2011  
-15 / 09 / 2011  
-16 / 11 / 2011  
-28 / 03 / 2012  
-29 / 06 / 2012  
-03 / 09 / 2012  
-05 / 04 / 2014  
-29 / 08 / 2014  
-25 / 12 / 2014  
-11 / 07 / 2016  
-18 / 07 / 2016  
-12 / 09 / 2017  
-04 / 05 / 2020  
-20 / 05 / 2020  
-20 / 05 / 2020  
-21 / 05 / 2020  
-09 / 06 / 2020  
-06 / 10 / 2024
-
-### Channel
-
-BBC Radio  
-BBC2  
-BBC Radio 4  
-BBC Radio 4  
-ITV  
-TV  
-BBC Radio 3  
-TV  
-BBC2  
-BBC1  
-ITV  
-ITV  
-BBC Radio 3  
-BBC1  
-BBC Radio 4  
-ITV  
-ITV  
-HTV  
-BBC Radio 3  
-BBC Radio 4  
-BBC1  
-BBC Radio 4  
-BBC Radio 3  
-BBC1  
-BBC2  
-BBC1  
-BBC Radio 4  
-World Service  
-BBC1  
-BBC2  
-BBC Radio 4  
-World Service  
-BBC1  
-BBC Radio 4  
-BBC Radio 2  
-BBC Radio 4  
-BBC Radio 4  
-LBC  
-BBC Radio 2  
-BBC Radio 4  
-BBC Radio 4  
-BBC1  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 3  
-BBC1  
-BBC2  
-BBC Radio 2  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 2  
-Unknown  
-ITV  
-BBC Radio 2  
-BBC Radio 2  
-LBC  
-BBC1  
-BBC Radio 3  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-ITV  
-BBC Radio 4  
-BBC Radio 2  
-BBC1  
-ITV  
-BBC Radio 2  
-World Service  
-BBC Radio 4  
-BBC1  
-BBC Radio 2  
-BBC News  
-BBC2  
-Artsworld  
-BBC 1  
-Artsworld  
-Artsworld  
-BBC Radio 3  
-BBC Radio 4  
-World Service  
-BBC Radio 2  
-BBC Radio 2  
-iTunes  
-BBC2  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-BBC World Service  
-BBC Radio 4  
-BBC Radio 3  
-www.latw.org  
-iTunes  
-BBC Radio Leeds  
-BBC Radio 4  
-BBC1  
-BBC News  
-BBC Radio Leeds  
-Sky Arts 1  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 4  
-BBC Radio 3  
-BBC2  
-Blu Ray  
-BBC Radio 4  
-BBC Radio York  
-BBC1  
-NPR (USA)  
-BBC Radio 4
-
-### Subject
-
-Career  
-Career  
-No details known  
-No details known  
-*The Norman Conquests*  
-No details known  
-Favourite music  
-Writing  
-*Just Between Ourselves*  
-Career  
-No details known  
-Career  
-Scarborough  
-Career  
-Favourite poetry & prose  
-*Joking Apart*  
-No details known  
-No details known  
-Favourite Albums  
-Yorkshire  
-*Sisterly Feelings*  
-‘Well Made’ theatre documentary  
-*Way Upstream*  
-Career  
-Behind the scenes at SJT  
-*The 7 Deadly Virtues*  
-*A Chorus Of Disapproval*  
-*Intimate Exchanges*  
-*Intimate Exchanges*  
-Career  
-Career  
-25th anniversary of first play  
-Artistic Director  
-Scarborough  
-Scarborough  
-*A Small Family Business*  
-*Henceforward…*  
-Interview with Bob Holness  
-*’Tis Pity She’s A Whore*  
-In conversation with Robert Cushman  
-*Mr A's Amazing Maze Plays*  
-Career  
-*The Revengers’ Comedies*  
-Career  
-Favourite music  
-No details known  
-Career  
-His agent Margaret Ramsay  
-In conversation with Austin Mitchell  
-*Man Of The Moment*  
-*Othello*  
-No details known  
-No details known  
-Writing  
-What makes people laugh  
-No details known  
-No details known  
-Documentary about invisible friends  
-Cricket / career - recorded at Headingly  
-*Time Of My Life*  
-Favourite music  
-*Haunting Julia*  
-Playwriting  
-Stephen Joseph Theatre  
-Stephen Joseph Theatre  
-Stephen Joseph Theatre  
-Playwriting  
-*Comic Potential*  
-*Virtual Reality*  
-*House & Garden*  
-*House & Garden*  
-*House & Garden*  
-Career  
-Career  
-Career  
-Scarborough  
-Directing masterclass  
-*GamePlan*  
-Discussing *The Empty Space* 30 years on  
-*The Jollies*  
-*Sugar Daddies*  
-*Drowning On Dry Land*  
-Stephen Joseph Theatre  
-Career  
-*Improbable Fiction*  
-Anthony Buckeridge / *Jennings* novels  
-Theatre-in-the-round  
-Career  
-Early career  
-Interview with Mark Lawson  
-Favourite readings  
-International popularity  
-Career  
-*The Norman Conquests*  
-*Henceforward…*  
-Career  
-BBC Radio career  
-Directing career  
-Career  
-Career  
-Career at BBC  
-Career  
-Life  
-*Roundelay*  
-Career / *Roundelay*  
-*The Karaoke Theatre Company*  
-Career  
-Sir Peter Hall  
-The actress Elisabeth Sladen  
-*Anno Domino* / Covid-19  
-*Anno Domino* / Covid-19  
-*Anno Domino* / Covid-19  
-*Anno Domino* / Covid-19  
-*Show & Tell* / Scarborough*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

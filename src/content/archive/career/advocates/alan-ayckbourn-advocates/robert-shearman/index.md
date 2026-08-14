@@ -9,4 +9,5 @@ order: 2360
 ### Quotes
 
 "I wouldn't have been a writer if it hadn't been for the Stephen Joseph Theatre. I used to see these incredible shows Alan Ayckbourn did, pushing all the boundaries and making audiences want to come back after the interval. I wanted to be writing the sort of drama he was, where you can say anything and be really dynamic."  
-*(2007)**Copyright: Robert Shearman. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2007)*  
+*Copyright: Robert Shearman. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

@@ -21,23 +21,16 @@ This page contains details of Alan Ayckbourn screen-writing contribution to Ronn
 **Video:** Not available  
 **DVD (R2):** 2008 (deleted)  
 **Blu-ray:** Not available  
-**Digital:** Not available  **Director**
+**Digital:** Not available
 
-**Character**  
-Lord Rustless  
-Mildred Bates  
-Dithers  
-Cook  
-Badger  
-Effie  Maurice Murphy
-
-**Actor**  
-Ronnie Barker  
-Josephine Tewson  
-David Jason  
-Mary Baxter  
-Frank Gatiff  
-Moira Foot
+**Director** Maurice Murphy  
+**Character** **Actor**  
+**Lord Rustless** Ronnie Barker  
+**Mildred Bates** Josephine Tewson  
+**Dithers** David Jason  
+**Cook** Mary Baxter  
+**Badger** Frank Gatiff  
+**Effie** Moira Foot
 
 ![](./_images/stacks-image-d4cd454-200x202.jpg)
 

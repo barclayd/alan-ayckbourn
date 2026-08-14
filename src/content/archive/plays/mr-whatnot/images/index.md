@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The programme cover for the world premiere of *Mr Whatnot* at the Victoria Theatre, Stoke-on-Trent, in 1963.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-518106f.jpg)
@@ -45,6 +48,10 @@ A flyer for the West End premiere of *Mr Whatnot* at the New Arts Theatre in 196
 
 Ronnie Barker's first night telegram to Alan Ayckbourn for the opening of *Mr Whatnot* in the West End in 1964.
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images page is presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images page is presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -4,7 +4,8 @@ source: "http://encyclopedia.alanayckbourn.net/page-11/page-13/page50.html"
 order: 801
 ---
 
-This is a comprehensive list of the actors (surnames D - F) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).**Janet Dale:** The Norman Conquests (WP 1973); Absent Friends (WP 1974); Confusions (WP 1974); Bedroom Farce (WP 1975); Just Between Ourselves (WP 1976); Ten Times Table (WP 1977); Invisible Friends (NT 1991)  
+This is a comprehensive list of the actors (surnames D - F) who have appeared in Alan Ayckbourn's plays in: world premieres (**WP**), West End premieres (**LP**), West End revivals (**LR**), National Theatre (**NT**); Ayckbourn-directed revivals (**AR**); Ayckbourn directed tours - only actors not listed for the original production (**AT**); Stephen Joseph Theatre revivals - not Ayckbourn directed (**R**); London recasts or transfers (**LT**).  
+**Janet Dale:** The Norman Conquests (WP 1973); Absent Friends (WP 1974); Confusions (WP 1974); Bedroom Farce (WP 1975); Just Between Ourselves (WP 1976); Ten Times Table (WP 1977); Invisible Friends (NT 1991)  
 **Dean Daley:** Wolf At The Door (WP 1989)  
 **Brenda Daly:** Henceforward... (AR 1987)  
 **Ben Daniels:** Family Circles (AR 1985)  
@@ -82,4 +83,5 @@ This is a comprehensive list of the actors (surnames D - F) who have appeared in
 **Regina Freedman:** The Jollies (WP 2002)  
 **Georgina Freeman:** Joking Apart (AR 2002)  
 **Helen French:** Awaking Beauty (WP 2008)  
-**Jenny Funnell:** Henceforward... (AR 1988)*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*
+**Jenny Funnell:** Henceforward... (AR 1988)  
+*All research for this page is by Simon Murgatroyd and should be acknowledged if reproduced in any format.*

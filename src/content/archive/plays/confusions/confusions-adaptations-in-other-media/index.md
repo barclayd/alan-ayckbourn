@@ -17,17 +17,15 @@ play: "confusions"
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Lucy  
-Terry  
-RosemaryMatthew Walters
+**Director** Matthew Walters  
+**Character** **Actor**  
+**Lucy** Maureen Lipman  
+**Terry** Ray Brooks  
+**Rosemary** Diane Bull
 
-**Actor**  
-Maureen Lipman  
-Ray Brooks  
-Diane Bull**Notes**: Only *Mother Figure* was recorded for broadcast. It was promoted as *Mother Figure* by Alan Ayckbourn rather than *Confusions*.
+**Notes**: Only *Mother Figure* was recorded for broadcast. It was promoted as *Mother Figure* by Alan Ayckbourn rather than *Confusions*.
 
 ### Radio (1985): Mother Figure, Between Mouthfuls, Gosforth’s Fête
 
@@ -41,37 +39,23 @@ Diane Bull**Notes**: Only *Mother Figure* was recorded for broadcast. It was pro
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**
+**Digital:** Not available
 
-**Character**  
-Lucy  
-Rosemary  
-Terry  
-Harry / Gosforth  
-Mrs Pearce  
-Milly  
-Vicar  
-Stewart  
-Pearce  
-Martin  
-Polly  
-WaiterGordon House  
-Richard Wigmore
-
-**Actor**  
-Gwen Cherrell  
-Ellen McIntosh  
-Colin Starkey  
-William Eedle  
-Mary Wimbrush  
-Madalyn Morgan  
-David Garth  
-Robin Summers  
-Reginald Marsh  
-John Webb  
-Helena Breck  
-Adrian Egan
+**Director** Gordon House  
+**Adaptation** Richard Wigmore  
+**Character** **Actor**  
+**Lucy** Gwen Cherrell  
+**Rosemary** Ellen McIntosh  
+**Terry** Colin Starkey  
+**Harry / Gosforth** William Eedle  
+**Mrs Pearce** Mary Wimbrush  
+**Milly** Madalyn Morgan  
+**Vicar** David Garth  
+**Stewart** Robin Summers  
+**Pearce** Reginald Marsh  
+**Martin** John Webb  
+**Polly** Helena Breck  
+**Waiter** Adrian Egan
 
 ### Radio (1987): Mother Figure, Drinking Companion, Gosforth’s Fête, A Talk In The Park
 
@@ -85,9 +69,12 @@ Adrian Egan
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**Dan Garrett
+**Digital:** Not available  
+**Director**  
+Dan Garrett
 
-No casting details known**Note:** *Confusions* was broadcast as part of the *For Schools* slot for four days between 6 - 9 April 1987. No other details are know except a different play was broadcast each day (*Mother Figure*, *Drinking Companion*, *Gosforth's Fête* and *A Talk In The Park*) and each broadcast featured additional interview material with Alan Ayckbourn. The adaptations were all newly recorded for this production.
+No casting details known  
+**Note:** *Confusions* was broadcast as part of the *For Schools* slot for four days between 6 - 9 April 1987. No other details are know except a different play was broadcast each day (*Mother Figure*, *Drinking Companion*, *Gosforth's Fête* and *A Talk In The Park*) and each broadcast featured additional interview material with Alan Ayckbourn. The adaptations were all newly recorded for this production.
 
 ### Radio (1988): Gosforth’s Fête
 
@@ -101,18 +88,15 @@ No casting details known**Note:** *Confusions* was broadcast as part of the *For
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**
+**Digital:** Not available
 
-**Character**  
-Gosforth  
-Scoutmaster Stokes  
-Milly  
-Councillor Pearce  
-VicarClive Brill
+**Director** Clive Brill  
+**Character** **Actor**  
+**Gosforth** Gordon Reid  
+**Scoutmaster Stokes** Terry Molloy  
+**Milly** Sarah Thomas  
+**Councillor Pearce** Delena Kidd  
+**Vicar** Graham Blockey
 
-**Actor**  
-Gordon Reid  
-Terry Molloy  
-Sarah Thomas  
-Delena Kidd  
-Graham Blockey**Notes**: Only *Gosforth’s Fête* was recorded for broadcast. It was promoted as *Gosforth’s Fête* by Alan Ayckbourn rather than *Confusions*.*All research for this page by Simon Murgatroyd.*
+**Notes**: Only *Gosforth’s Fête* was recorded for broadcast. It was promoted as *Gosforth’s Fête* by Alan Ayckbourn rather than *Confusions*.  
+*All research for this page by Simon Murgatroyd.*

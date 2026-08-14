@@ -18,25 +18,20 @@ play: "seasons-greetings"
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch  
-**Music:** Paul Todd**Character**  
-Neville  
-Belinda, his wife  
-Phyllis, his sister  
-Harvey, his uncle  
-Bernard, Phyllis's husband  
-Rachel, Belinda's sister  
-Eddie  
-Pattie, Eddie's wife  
-Clive**Actor**  
-Michael Simkins  
-Tessa Peake-Jones  
-Susan Uebel  
-Robin Herford  
-Ronald Herdman  
-Marcia Warren  
-Jeffrey Robert  
-Lavinia Bertram  
-Robin Bowerman**Note:** The play ran for just 4 performances initially (from 25 - 27 September) and was then scheduled to tour to The Round House, London (see below), before returning into the company repertory from 28 October - 3 January 1981.
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Neville** Michael Simkins  
+**Belinda, his wife** Tessa Peake-Jones  
+**Phyllis, his sister** Susan Uebel  
+**Harvey, his uncle** Robin Herford  
+**Bernard, Phyllis's husband** Ronald Herdman  
+**Rachel, Belinda's sister** Marcia Warren  
+**Eddie** Jeffrey Robert  
+**Pattie, Eddie's wife** Lavinia Bertram  
+**Clive** Robin Bowerman
+
+**Note:** The play ran for just 4 performances initially (from 25 - 27 September) and was then scheduled to tour to The Round House, London (see below), before returning into the company repertory from 28 October - 3 January 1981.
 
 ### London Premiere (1980)
 
@@ -48,25 +43,20 @@ Robin Bowerman**Note:** The play ran for just 4 performances initially (from 25 
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch  
-**Music:** Paul Todd**Character**  
-Harvey  
-Bernard  
-Belinda  
-Pattie  
-Neville, Belinda’s Husband  
-Eddie, Pattie’s Husband  
-Rachel, Belinda’s Sister  
-Phyllis, Neville’s Sister  
-Clive**Actor**  
-Robin Herford  
-Ronald Herdman  
-Tessa Peake-Jones  
-Lavinia Bertram  
-Michael Simkins  
-Jeffrey Robert  
-Marcia Warren  
-Susan Uebel  
-Robin Bowerman**Note:** This short residency featured the original company touring to The Round House following its first four performances in Scarborough. The version of the play performed was substantially different to later productions in London being three acts and featuring the off-stage character of Harvey’s wife Shirley. The play was later altered for its 1981 revival to two acts with Shirley excised from the play
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Harvey** Robin Herford  
+**Bernard** Ronald Herdman  
+**Belinda** Tessa Peake-Jones  
+**Pattie** Lavinia Bertram  
+**Neville, Belinda’s Husband** Michael Simkins  
+**Eddie, Pattie’s Husband** Jeffrey Robert  
+**Rachel, Belinda’s Sister** Marcia Warren  
+**Phyllis, Neville’s Sister** Susan Uebel  
+**Clive** Robin Bowerman
+
+**Note:** This short residency featured the original company touring to The Round House following its first four performances in Scarborough. The version of the play performed was substantially different to later productions in London being three acts and featuring the off-stage character of Harvey’s wife Shirley. The play was later altered for its 1981 revival to two acts with Shirley excised from the play
 
 ### Revival (1981)
 
@@ -78,25 +68,18 @@ Robin Bowerman**Note:** This short residency featured the original company touri
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
 **Lighting:** Francis Lynch  
-**Music:** Paul Todd**Character**  
-Harvey  
-Bernard  
-Belinda  
-Pattie  
-Neville, Belinda’s Husband  
-Eddie, Pattie’s Husband  
-Rachel, Belinda’s Sister  
-Phyllis, Neville’s Sister  
-Clive**Actor**  
-Robin Herford  
-Russell Dixon  
-Gillian Bevan  
-Lavinia Bertram  
-Michael Simkins  
-Graeme Eton  
-Heather Stoney  
-Susan Uebel  
-Robin Bowerman
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Harvey** Robin Herford  
+**Bernard** Russell Dixon  
+**Belinda** Gillian Bevan  
+**Pattie** Lavinia Bertram  
+**Neville, Belinda’s Husband** Michael Simkins  
+**Eddie, Pattie’s Husband** Graeme Eton  
+**Rachel, Belinda’s Sister** Heather Stoney  
+**Phyllis, Neville’s Sister** Susan Uebel  
+**Clive** Robin Bowerman
 
 ### London Revival (1982)
 
@@ -107,25 +90,18 @@ Robin Bowerman
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
 **Lighting:** Nick Chelton  
-**Music:** Paul Todd**Character**  
-Harvey  
-Bernard  
-Belinda  
-Pattie  
-Neville, Belinda’s Husband  
-Eddie, Pattie’s Husband  
-Rachel, Belinda’s Sister  
-Phyllis, Neville’s Sister  
-Clive**Actor**  
-Peter Vaughan  
-Bernard Hepton  
-Barbara Ferris  
-Diane Bull  
-Gareth Hunt  
-Brian Hall  
-Marcia Warren  
-Bridget Turner  
-Nigel Havers
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Harvey** Peter Vaughan  
+**Bernard** Bernard Hepton  
+**Belinda** Barbara Ferris  
+**Pattie** Diane Bull  
+**Neville, Belinda’s Husband** Gareth Hunt  
+**Eddie, Pattie’s Husband** Brian Hall  
+**Rachel, Belinda’s Sister** Marcia Warren  
+**Phyllis, Neville’s Sister** Bridget Turner  
+**Clive** Nigel Havers
 
 ### London Transfer (1982)
 
@@ -137,25 +113,18 @@ Nigel Havers
 **Director:** Alan Ayckbourn  
 **Design:** Edward Lipscomb  
 **Lighting:** Nick Chelton  
-**Music:** Paul Todd**Character**  
-Harvey  
-Bernard  
-Belinda  
-Pattie  
-Neville, Belinda’s Husband  
-Eddie, Pattie’s Husband  
-Rachel, Belinda’s Sister  
-Phyllis, Neville’s Sister  
-Clive**Actor**  
-Peter Vaughn  
-Bernard Hepton  
-Barbara Ferris  
-Diane Bull  
-Bryan Marshall  
-Brian Hall  
-Marcia Warren  
-Bridget Turner  
-Christopher Strauli
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Harvey** Peter Vaughn  
+**Bernard** Bernard Hepton  
+**Belinda** Barbara Ferris  
+**Pattie** Diane Bull  
+**Neville, Belinda’s Husband** Bryan Marshall  
+**Eddie, Pattie’s Husband** Brian Hall  
+**Rachel, Belinda’s Sister** Marcia Warren  
+**Phyllis, Neville’s Sister** Bridget Turner  
+**Clive** Christopher Strauli
 
 ### New York Premiere (1985)
 
@@ -171,25 +140,18 @@ Christopher Strauli
 **Costumes:** Rotini Dimou  
 **Dialect Coach:** Cindia Huppeler
 
-**Stage Manager:** Glenn Bruner**Character**  
-Bernard  
-Belinda  
-Clive  
-Pattie  
-Phyllis  
-Neville  
-Harvey  
-Rachel  
-Eddie**Actor**  
-Dale Helward  
-Robin Moseley  
-Michael Alan Gregory  
-Cynthia Lammel  
-Lillian Evans  
-Richard Poe  
-Robert Cornthwaite  
-Lawr Means  
-Charles Sanders
+**Stage Manager:** Glenn Bruner
+
+**Character** **Actor**  
+**Bernard** Dale Helward  
+**Belinda** Robin Moseley  
+**Clive** Michael Alan Gregory  
+**Pattie** Cynthia Lammel  
+**Phyllis** Lillian Evans  
+**Neville** Richard Poe  
+**Harvey** Robert Cornthwaite  
+**Rachel** Lawr Means  
+**Eddie** Charles Sanders
 
 ### Tour (1985)
 
@@ -201,25 +163,18 @@ Charles Sanders
 **Design:** Hugh Durrant  
 **Lighting:** Leonard Tucker  
 **Music:** Stephen Warbeck  
-**Costumes:** Annette Sharville**Character**  
-Bernard  
-Belinda  
-Clive  
-Pattie  
-Phyllis  
-Neville  
-Harvey  
-Rachel  
-Eddie**Actor**  
-Lionel Blair  
-Marti Caine  
-Collin Johnson  
-Madeline Smith  
-Barbara Kinghorn  
-Geoffrey Davies  
-Bill Fraser  
-Angela Douglas  
-Andrew Ray
+**Costumes:** Annette Sharville
+
+**Character** **Actor**  
+**Bernard** Lionel Blair  
+**Belinda** Marti Caine  
+**Clive** Collin Johnson  
+**Pattie** Madeline Smith  
+**Phyllis** Barbara Kinghorn  
+**Neville** Geoffrey Davies  
+**Harvey** Bill Fraser  
+**Rachel** Angela Douglas  
+**Eddie** Andrew Ray
 
 ### Tour (2004)
 
@@ -233,25 +188,18 @@ Andrew Ray
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
 **Music:** Denis King  
-**Sound:** Dan Last**Character**  
-Harvey  
-Bernard  
-Belinda  
-Pattie  
-Neville, Belinda’s Husband  
-Eddie, Pattie’s Husband  
-Rachel, Belinda’s Sister  
-Phyllis, Neville’s Sister  
-Clive**Actor**  
-Terence Booth  
-Matthew Kelly  
-Liza Goddard  
-Alison Pargeter  
-Bill Champion  
-Jason Baughan  
-Alexandra Mathie  
-Eliza Hunt  
-Matthew Cottle
+**Sound:** Dan Last
+
+**Character** **Actor**  
+**Harvey** Terence Booth  
+**Bernard** Matthew Kelly  
+**Belinda** Liza Goddard  
+**Pattie** Alison Pargeter  
+**Neville, Belinda’s Husband** Bill Champion  
+**Eddie, Pattie’s Husband** Jason Baughan  
+**Rachel, Belinda’s Sister** Alexandra Mathie  
+**Phyllis, Neville’s Sister** Eliza Hunt  
+**Clive** Matthew Cottle
 
 ### London Revival (2010)
 
@@ -266,25 +214,18 @@ Matthew Cottle
 **Design:** Rae Smith  
 **Lighting:** Bruno Poet  
 **Music:** Stephen Warbeck  
-**Sound:** Mark Dickinson**Character**  
-Bernard  
-Belinda  
-Clive  
-Pattie  
-Phyllis  
-Neville  
-Harvey  
-Rachel  
-Eddie**Actor**  
-Mark Gatiss  
-Catherine Tate  
-Oliver Chris  
-Katherine Parkinson  
-Jenna Russell  
-Neil Stuke  
-David Troughton  
-Nicola Walker  
-Marc Wootton
+**Sound:** Mark Dickinson
+
+**Character** **Actor**  
+**Bernard** Mark Gatiss  
+**Belinda** Catherine Tate  
+**Clive** Oliver Chris  
+**Pattie** Katherine Parkinson  
+**Phyllis** Jenna Russell  
+**Neville** Neil Stuke  
+**Harvey** David Troughton  
+**Rachel** Nicola Walker  
+**Eddie** Marc Wootton
 
 ### Revival (2019)
 
@@ -304,22 +245,17 @@ Marc Wootton
 
 **Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sarah Rhodes-Canning  
-**Assistant Stage Manager:** Rachel Stevens**Character**  
-Bernard  
-Belinda  
-Clive  
-Pattie  
-Phyllis  
-Neville  
-Harvey  
-Rachel  
-Eddie**Actor**  
-Leigh Symonds  
-Frances Marshall  
-Andy Cryer  
-Mercy Ojelade  
-Eileen Battye  
-Matt Addis  
-Bill Champion  
-Rachel Caffrey  
-Michael Lyle*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Rachel Stevens
+
+**Character** **Actor**  
+**Bernard** Leigh Symonds  
+**Belinda** Frances Marshall  
+**Clive** Andy Cryer  
+**Pattie** Mercy Ojelade  
+**Phyllis** Eileen Battye  
+**Neville** Matt Addis  
+**Harvey** Bill Champion  
+**Rachel** Rachel Caffrey  
+**Eddie** Michael Lyle
+
+*All research for this page by Simon Murgatroyd.*

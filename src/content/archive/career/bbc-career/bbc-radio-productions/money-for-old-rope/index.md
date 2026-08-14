@@ -8,30 +8,24 @@ order: 645
 
 ### Production Details
 
-**Author:**
+**Author:** David Ellis  
+**Broadcast:** 22 May 1967 @ 7.30pm  
+**Channel:** BBC Light Programme
 
-**Broadcast:**  
-**Channel:**David Ellis
+**Director:**  
+Alan Ayckbourn
 
-22 May 1967 @ 7.30pm  
-BBC Light Programme**Director:**Alan Ayckbourn**Character**  
-Carol  
-Gordon Marsh  
-Stanley Price  
-Sam Ogden  
-Det-Con Evans  
-Mabel Yardley  
-Det-Sgt Crosby  
-Harry**Actor**  
-Heather Stoney  
-Anthony Kenyon  
-Colin Edwynn  
-Roy Barraclough  
-Paul Webster  
-Ruth Holden  
-Peter Schofield  
-Graham Rigby
+**Character** **Actor**  
+**Carol** Heather Stoney  
+**Gordon Marsh** Anthony Kenyon  
+**Stanley Price** Colin Edwynn  
+**Sam Ogden** Roy Barraclough  
+**Det-Con Evans** Paul Webster  
+**Mabel Yardley** Ruth Holden  
+**Det-Sgt Crosby** Peter Schofield  
+**Harry** Graham Rigby
 
 ### Notes
 
-○ *Money For Old Rope* was broadcast as part of a series of plays called *Personal Column*.*All research for this page by Simon Murgatroyd.*
+○ *Money For Old Rope* was broadcast as part of a series of plays called *Personal Column*.  
+*All research for this page by Simon Murgatroyd.*

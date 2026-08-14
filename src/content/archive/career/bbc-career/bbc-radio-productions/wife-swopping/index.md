@@ -8,18 +8,20 @@ order: 671
 
 ### Production Details
 
-**Author:**
+**Author:** Elizabeth Holroyd  
+**Broadcast:** 2 September 1970 @ 11.30am  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Elizabeth Holroyd
-
-2 September 1970 @ 11.30am  
-BBC Radio 4**Director:**  
-**Music:**Alan Ayckbourn  
-Trevor Holroyd**Character**  
-To be confirmed**Actor**  
+**Director:**  
+**Music:**  
+Alan Ayckbourn  
+Trevor Holroyd  
+**Character**  
+To be confirmed  
+**Actor**  
 To be confirmed
 
 ### Notes
 
-○ *Wife-Swopping* was described as a new shoe-string musical about "an experiment in permissiveness which has somewhat surprising consequences for all concerned."*All research for this page by Simon Murgatroyd.*
+○ *Wife-Swopping* was described as a new shoe-string musical about "an experiment in permissiveness which has somewhat surprising consequences for all concerned."  
+*All research for this page by Simon Murgatroyd.*

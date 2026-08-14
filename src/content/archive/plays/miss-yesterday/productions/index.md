@@ -21,18 +21,15 @@ play: "miss-yesterday"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Emily Thurlby**Character**  
-Andrew  
-Ian  
-Roz  
-Tamara / Carol  
-Tammy  
-Josie  
-Security Guard / PC Ratch**Actor**  
-Philip York  
-Ryan Early  
-Saskia Butler  
-Susan Twist  
-Laura Doddington  
-Eileen Battye  
-Simon Chapman*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Emily Thurlby
+
+**Character** **Actor**  
+**Andrew** Philip York  
+**Ian** Ryan Early  
+**Roz** Saskia Butler  
+**Tamara / Carol** Susan Twist  
+**Tammy** Laura Doddington  
+**Josie** Eileen Battye  
+**Security Guard / PC Ratch** Simon Chapman
+
+*All research for this page by Simon Murgatroyd.*

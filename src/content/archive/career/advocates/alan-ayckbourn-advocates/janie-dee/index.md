@@ -18,4 +18,5 @@ order: 2318
 *(2009)*
 
 “These guys \[Sir Peter Hall and Sir Alan Ayckbourn\] have been in this business for this long and they’ve created so much, and the passion behind it is so huge, they have an awful lot to teach, and I am somebody who wants to learn, and I will continue to want to learn, if that’s possible. I would like to keep going ‘tell me more’ because you can never really become perfect.”  
-*(2009)**Copyright: Janie Dee. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2009)*  
+*Copyright: Janie Dee. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

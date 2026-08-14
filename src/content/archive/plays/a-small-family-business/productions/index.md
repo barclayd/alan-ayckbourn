@@ -20,33 +20,24 @@ play: "a-small-family-business"
 **Design:** Alan Tagg  
 **Costumes:** Lindy Hemming  
 **Lighting:** Mick Hughes  
-**Music:** Paul Todd**Character**  
-Ken Ayres  
-Desmond Ayres  
-Harriet Ayres  
-Jack McCracken  
-Poppy McCracken  
-Cliff McCracken  
-Anita McCracken  
-Samantha McCracken  
-Tina Ruston  
-Roy Ruston  
-Yvonne Doggett  
-Benedict Hough  
-The Rivetti Brothers**Actor**  
-Ron Pember  
-John Arthur  
-Marcia Warren  
-Michael Gambon  
-Polly Adams  
-Russell Dixon  
-Elizabeth Bell  
-Suzan Sylvester  
-Diane Bull  
-Adrian Rawlins  
-Barbara Hicks  
-Simon Cadell  
-Michael Simkins**Note:** After Michael Gambon injured himself during rehearsals, the role of Jack McCracken was played by Allan Mitchell for two weeks until Gambon was able to return to the role. The original press night was postponed to 5 June to accommodate the absence of Gambon.
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Ken Ayres** Ron Pember  
+**Desmond Ayres** John Arthur  
+**Harriet Ayres** Marcia Warren  
+**Jack McCracken** Michael Gambon  
+**Poppy McCracken** Polly Adams  
+**Cliff McCracken** Russell Dixon  
+**Anita McCracken** Elizabeth Bell  
+**Samantha McCracken** Suzan Sylvester  
+**Tina Ruston** Diane Bull  
+**Roy Ruston** Adrian Rawlins  
+**Yvonne Doggett** Barbara Hicks  
+**Benedict Hough** Simon Cadell  
+**The Rivetti Brothers** Michael Simkins
+
+**Note:** After Michael Gambon injured himself during rehearsals, the role of Jack McCracken was played by Allan Mitchell for two weeks until Gambon was able to return to the role. The original press night was postponed to 5 June to accommodate the absence of Gambon.
 
 ### London Recast (1988)
 
@@ -59,33 +50,22 @@ Michael Simkins**Note:** After Michael Gambon injured himself during rehearsals,
 **Design:** Alan Tagg  
 **Costumes:** Lindy Hemming  
 **Lighting:** Mick Hughes  
-**Music:** Paul Todd**Character**  
-Ken Ayres  
-Desmond Ayres  
-Harriet Ayres  
-Jack McCracken  
-Poppy McCracken  
-Cliff McCracken  
-Anita McCracken  
-Samantha McCracken  
-Tina Ruston  
-Roy Ruston  
-Yvonne Doggett  
-Benedict Hough  
-The Rivetti Brothers**Actor**  
-Ron Pember  
-Nigel Bellairs  
-Bridget Turner  
-Stephen Moore  
-Polly Adams  
-Russell Dixon  
-Sarah Atkinson  
-Theresa Boden  
-Diane Bull  
-Adrian Jubb  
-Moira Redmond  
-Clive Francis  
-Jim Barclay
+**Music:** Paul Todd
+
+**Character** **Actor**  
+**Ken Ayres** Ron Pember  
+**Desmond Ayres** Nigel Bellairs  
+**Harriet Ayres** Bridget Turner  
+**Jack McCracken** Stephen Moore  
+**Poppy McCracken** Polly Adams  
+**Cliff McCracken** Russell Dixon  
+**Anita McCracken** Sarah Atkinson  
+**Samantha McCracken** Theresa Boden  
+**Tina Ruston** Diane Bull  
+**Roy Ruston** Adrian Jubb  
+**Yvonne Doggett** Moira Redmond  
+**Benedict Hough** Clive Francis  
+**The Rivetti Brothers** Jim Barclay
 
 ### New York Premiere (1992)
 
@@ -97,33 +77,22 @@ Jim Barclay
 **Director:** Lynne Meadow  
 **Design:** John Lee Beatty  
 **Lighting:** Peter Kaczorowski  
-**Producer:** Manhattan Theatre Club**Character**  
-Jack McCracken  
-Cliff  
-Samantha  
-Poppy  
-Harriet  
-Desmond  
-Tina  
-Benedict Hough  
-Ken Ayres  
-Yvonne  
-Anita  
-Roy  
-The Rivetti brothers**Actor**  
-Brian Murray  
-Mark Arnott  
-Amelia Campbell  
-Jane Carr  
-Patricia Conolly  
-John Curless  
-Barbara Garrick  
-Anthony Heald  
-Thomas Hill  
-Patricia Kilgarriff  
-Caroline Lagerfelt  
-Robert Stanton  
-Jake Weber
+**Producer:** Manhattan Theatre Club
+
+**Character** **Actor**  
+**Jack McCracken** Brian Murray  
+**Cliff** Mark Arnott  
+**Samantha** Amelia Campbell  
+**Poppy** Jane Carr  
+**Harriet** Patricia Conolly  
+**Desmond** John Curless  
+**Tina** Barbara Garrick  
+**Benedict Hough** Anthony Heald  
+**Ken Ayres** Thomas Hill  
+**Yvonne** Patricia Kilgarriff  
+**Anita** Caroline Lagerfelt  
+**Roy** Robert Stanton  
+**The Rivetti brothers** Jake Weber
 
 ### Revival (2000)
 
@@ -136,35 +105,23 @@ Jake Weber
 **Design:** Francis O'Connor  
 **Lighting:** Tim Mitchell  
 **Sound:** Gregory Clarke  
-**Fight Director:** Terry King**Character**  
-Ken Ayres  
-Desmond Ayres  
-Harriet Ayres  
-Jack McCracken  
-Poppy McCracken  
-Cliff McCracken  
-Anita McCracken  
-Samantha McCracken  
-Tina Ruston  
-Roy Ruston  
-Yvonne Doggett  
-Benedict Hough  
-The Rivetti Brothers  
-Kevin Ruston**Actor**  
-John Nettleton  
-Peter Forbes  
-Vicki Pepperdine  
-Nigel Planer  
-Serena Evans  
-Daniel Flynn  
-Issy van Randwick  
-Lindsay Fawcett  
-Claire Carrie  
-Damien Matthews  
-Christine Absalom  
-Christopher Luscombe  
-Damien Goodwin  
-Daisy Flynn
+**Fight Director:** Terry King
+
+**Character** **Actor**  
+**Ken Ayres** John Nettleton  
+**Desmond Ayres** Peter Forbes  
+**Harriet Ayres** Vicki Pepperdine  
+**Jack McCracken** Nigel Planer  
+**Poppy McCracken** Serena Evans  
+**Cliff McCracken** Daniel Flynn  
+**Anita McCracken** Issy van Randwick  
+**Samantha McCracken** Lindsay Fawcett  
+**Tina Ruston** Claire Carrie  
+**Roy Ruston** Damien Matthews  
+**Yvonne Doggett** Christine Absalom  
+**Benedict Hough** Christopher Luscombe  
+**The Rivetti Brothers** Damien Goodwin  
+**Kevin Ruston** Daisy Flynn
 
 ### Revival (2014)
 
@@ -185,30 +142,21 @@ Daisy Flynn
 **Stage Manager:** Kerry McDevitt  
 **Deputy Stage Manager:** Sara Gunter  
 **Assistant Stage Manager:** Ella May McDermott  
-**Assistant Stage Manager:** Julia Wickham**Character**  
-Desmond Ayres  
-Cliff McCracken  
-Benedict Hough  
-Poppy  
-Ken Ayres  
-Yvonne Doggett  
-Jack McCracken  
-Harriet  
-Tina  
-The Rivetti Brothers  
-Samantha  
-Roy Ruston  
-Anita**Actor**  
-Neal Barry  
-Stephen Beckett  
-Matthew Cottle  
-Debra Gillett  
-Gawn Grainger  
-Amanda Hadingue  
-Nigel Lindsay  
-Amy Marston  
-Rebecca McKinnis  
-Gerard Monaco  
-Alice Sykes  
-Samuel Taylor  
-Niky Wardley*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Julia Wickham
+
+**Character** **Actor**  
+**Desmond Ayres** Neal Barry  
+**Cliff McCracken** Stephen Beckett  
+**Benedict Hough** Matthew Cottle  
+**Poppy** Debra Gillett  
+**Ken Ayres** Gawn Grainger  
+**Yvonne Doggett** Amanda Hadingue  
+**Jack McCracken** Nigel Lindsay  
+**Harriet** Amy Marston  
+**Tina** Rebecca McKinnis  
+**The Rivetti Brothers** Gerard Monaco  
+**Samantha** Alice Sykes  
+**Roy Ruston** Samuel Taylor  
+**Anita** Niky Wardley
+
+*All research for this page by Simon Murgatroyd.*

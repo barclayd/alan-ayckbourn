@@ -52,29 +52,22 @@ This page contains details of significant productions of Alan Ayckbourn's *Siste
 **Design:** Jeremy Turner  
 **Music:** Paul Todd
 
-**Stage Manager:** Sean O’Neill**Character**  
-Ralph  
-Abigail, his daughter  
-Dorcas, his daughter  
-Melvyn, his son  
-Len, Ralph’s brother-in-law  
-Rita, Len’s wife  
-Patrick, Abigail’s husband  
-Brenda, Melvyn’s fiancée  
-Simon, her brother  
-Stafford  
-Murphy**Actor**  
-Andrew Jarvis  
-Alison Skilbeck  
-Judy Bridgland  
-Robin Bowerman  
-John Arthur  
-Shelagh Stuttle  
-Stephen Mallatratt  
-Lavinia Bertram  
-Robin Herford  
-Robin Murphy  
-Jonathan Robinson\* The world premier production had a very short run before embarking on tour. It was then revived for the Stephen Joseph Theatre In The Round summer season with a slightly altered cast.
+**Stage Manager:** Sean O’Neill
+
+**Character** **Actor**  
+**Ralph** Andrew Jarvis  
+**Abigail, his daughter** Alison Skilbeck  
+**Dorcas, his daughter** Judy Bridgland  
+**Melvyn, his son** Robin Bowerman  
+**Len, Ralph’s brother-in-law** John Arthur  
+**Rita, Len’s wife** Shelagh Stuttle  
+**Patrick, Abigail’s husband** Stephen Mallatratt  
+**Brenda, Melvyn’s fiancée** Lavinia Bertram  
+**Simon, her brother** Robin Herford  
+**Stafford** Robin Murphy  
+**Murphy** Jonathan Robinson
+
+\* The world premier production had a very short run before embarking on tour. It was then revived for the Stephen Joseph Theatre In The Round summer season with a slightly altered cast.
 
 ### London Premiere (1980)
 
@@ -90,31 +83,21 @@ Jonathan Robinson\* The world premier production had a very short run before emb
 **Design:** Alan Tagg  
 **Lighting:** David Hersey  
 **Costumes:** Lindy Hemming  
-**Sound:** Sue Fortescue**Character**  
-Dr Ralph Matthews  
-Abigail, his daughter  
-Dorcas, his daughter  
-Melvyn, his son  
-Len, Ralph’s brother-in-law  
-Rita, Len’s wife  
-Patrick, Abigail’s husband  
-Brenda, Melvyn’s fiancée  
-Simon, her brother  
-Stafford T Wilkins  
-Murphy  
-Major Lidgett**Actor**  
-Andrew Cruickshank  
-Penelope Wilton  
-Anna Carteret  
-Greg Hicks  
-Michael Bryant  
-Susan Williamson  
-Michael Gambon  
-Selina Cadell  
-Stephen Moore  
-Simon Callow  
-Michael Fenner  
-Gordon Whiting
+**Sound:** Sue Fortescue
+
+**Character** **Actor**  
+**Dr Ralph Matthews** Andrew Cruickshank  
+**Abigail, his daughter** Penelope Wilton  
+**Dorcas, his daughter** Anna Carteret  
+**Melvyn, his son** Greg Hicks  
+**Len, Ralph’s brother-in-law** Michael Bryant  
+**Rita, Len’s wife** Susan Williamson  
+**Patrick, Abigail’s husband** Michael Gambon  
+**Brenda, Melvyn’s fiancée** Selina Cadell  
+**Simon, her brother** Stephen Moore  
+**Stafford T Wilkins** Simon Callow  
+**Murphy** Michael Fenner  
+**Major Lidgett** Gordon Whiting
 
 ### UK Tour (1982)
 
@@ -126,28 +109,20 @@ Gordon Whiting
 **Design:** Hugh Durrant  
 **Lighting:** James Baird
 
-**Producer:** Triumph Productions**Character**  
-Dr Ralph Matthews  
-Abigail, his daughter  
-Dorcas, his daughter  
-Melvyn, his son  
-Len, Ralph’s brother-in-law  
-Rita, Len’s wife  
-Patrick, Abigail’s husband  
-Brenda, Melvyn’s fiancée  
-Simon, her brother  
-Stafford T Wilkins  
-Murphy  
-Major Lidgett**Actor**  
-Peter Sallis  
-Trudie Styler  
-Tessa Peake-Jones  
-Richard Huw  
-Bryan Pringle  
-Barbara Keogh  
-Brian Jameson  
-Sarah London  
-Cecil Humphreys  
-Wyn Jones  
-Dominic Snowden  
-John Channell-Mills*All research for this page by Simon Murgatroyd.*
+**Producer:** Triumph Productions
+
+**Character** **Actor**  
+**Dr Ralph Matthews** Peter Sallis  
+**Abigail, his daughter** Trudie Styler  
+**Dorcas, his daughter** Tessa Peake-Jones  
+**Melvyn, his son** Richard Huw  
+**Len, Ralph’s brother-in-law** Bryan Pringle  
+**Rita, Len’s wife** Barbara Keogh  
+**Patrick, Abigail’s husband** Brian Jameson  
+**Brenda, Melvyn’s fiancée** Sarah London  
+**Simon, her brother** Cecil Humphreys  
+**Stafford T Wilkins** Wyn Jones  
+**Murphy** Dominic Snowden  
+**Major Lidgett** John Channell-Mills
+
+*All research for this page by Simon Murgatroyd.*

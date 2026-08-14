@@ -12,6 +12,20 @@ This page contains basic details about the North American premieres of Alan Ayck
 
 ### Premiere
 
+10 August 1970  
+August 1994  
+March 1971  
+29 March 1971  
+1999  
+2010  
+August 1974  
+8 October 1974  
+10 October 1975  
+7 December 1975  
+2 April 1976  
+1991  
+8 July 1982
+
 17 October 1996  
 29 October 2001  
 March 1979  
@@ -78,7 +92,8 @@ May 2011
 
 26 May 2016
 
-1 May 2018  
+1 May 2018
+
 Westport Country Playhouse, CT  
 INTAR Theater, New York, NY  
 Wilbur Theatre, Boston, MA  
@@ -159,4 +174,5 @@ The Old Globe, San Diego, CA
 
 59E59 Theaters, New York, NY
 
-59E59 Theaters, New York, NY*The information on this page has been compiled by Simon Murgatroyd with the grateful assistance of Michael T. Mooney.*
+59E59 Theaters, New York, NY  
+*The information on this page has been compiled by Simon Murgatroyd with the grateful assistance of Michael T. Mooney.*

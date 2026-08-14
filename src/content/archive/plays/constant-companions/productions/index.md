@@ -25,24 +25,18 @@ play: "constant-companions"
 
 **Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Asst. Stage Manager:** Anna Reid**Characters**  
-Don  
-Lorraine  
-ED  
-Winston  
-Sylvia  
-Andrea  
-JAN 60  
-Conrad (voice, uncredited)  
-Stella (voice, uncredited)  
-Ruby (voice)**Actors**  
-Andy Cryer  
-Alexandra Mathie  
-Naomi Petersen  
-Leigh Symonds  
-Georgia Burnell  
-Tanya-Loretta Dee  
-Richard Stacey  
-Alan Ayckbourn  
-Heather Stoney  
-Tanya-Loretta Dee*All research for this page by Simon Murgatroyd.*
+**Asst. Stage Manager:** Anna Reid
+
+**Characters** **Actors**  
+**Don** Andy Cryer  
+**Lorraine** Alexandra Mathie  
+**ED** Naomi Petersen  
+**Winston** Leigh Symonds  
+**Sylvia** Georgia Burnell  
+**Andrea** Tanya-Loretta Dee  
+**JAN 60** Richard Stacey  
+**Conrad (voice, uncredited)** Alan Ayckbourn  
+**Stella (voice, uncredited)** Heather Stoney  
+**Ruby (voice)** Tanya-Loretta Dee
+
+*All research for this page by Simon Murgatroyd.*

@@ -72,4 +72,5 @@ BBC Radio 4
 14 June 1997  
 26 August 2006  
 14 May 2000  
-11 January 2014*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+11 January 2014  
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

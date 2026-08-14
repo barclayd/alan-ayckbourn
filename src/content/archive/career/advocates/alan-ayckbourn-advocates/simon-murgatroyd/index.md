@@ -12,4 +12,5 @@ order: 2354
 *(2018)*
 
 "Alan Ayckbourn is an inspiration to me. Initially as a writer and director and then later as someone who showed great confidence and trust in me and who saw potential in me that I didn't even know I possessed."  
-*(2018)**Copyright: Simon Murgatroyd. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2018)*  
+*Copyright: Simon Murgatroyd. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

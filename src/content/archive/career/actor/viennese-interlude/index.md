@@ -29,4 +29,5 @@ During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at
 The play was significant (if not well received) as it was the first play by the philosopher Colin Wilson, whose book *The Outsider* has been a sensation several years earlier. The play was first presented at the Mahatma Ghandhi Hall, London, where Stephen Joseph brought the company from Scarborough for Sunday performances in a bid to arouse more interest in theatre-in-the-round and as a showcase in the vain hope he would find a London base for the company. Stephen Joseph felt having a high profile writer such as Colin Wilson associated with the company would generate much needed press in London.
 
 **Review extract from The Stage** (10 March 1960)  
-"The piece was very capably acted by William Elmhirst, David Campton and Alan Ayckbourn."*All research for this page by Simon Murgatroyd.*
+"The piece was very capably acted by William Elmhirst, David Campton and Alan Ayckbourn."  
+*All research for this page by Simon Murgatroyd.*

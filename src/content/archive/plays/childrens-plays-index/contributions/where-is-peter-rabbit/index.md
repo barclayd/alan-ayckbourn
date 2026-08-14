@@ -54,4 +54,5 @@ Katie Shearman
 Molly Waters
 
 Miriam Gargoyles  
-Griff Rhys Jones  *All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+Griff Rhys Jones  
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

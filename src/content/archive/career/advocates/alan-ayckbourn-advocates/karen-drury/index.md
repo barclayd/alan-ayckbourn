@@ -9,4 +9,5 @@ order: 2319
 ### Quotes
 
 "You are in awe of him because he is so good but you just feel you have been gently nudged. He is also very humorous."  
-*(1992)**Copyright: Karen Drury. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1992)*  
+*Copyright: Karen Drury. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

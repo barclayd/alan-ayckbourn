@@ -8,44 +8,31 @@ order: 614
 
 ### Production Details
 
-**Author:**
+**Author:** Derek Wellman  
+**Broadcast:** 2 March 1966 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Derek Wellman
+**Director:**  
+Alan Ayckbourn
 
-2 March 1966 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Nellie  
-Gilbert  
-Nora  
-Bert  
-Martha  
-Nora (child)  
-Wilf  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles**Actor**  
-Pat Keen  
-Wilfred Pickles  
-Anne Stallybrass  
-Colin Edwynn  
-Sheila M Price  
-Margaret Dew  
-Harry Markham  
-Peter Schofield  
-Vivien Wood  
-Roy Minton  
-Guybon Andrew  
-Robert Wallace  
-Jean Riramer  
-Barbart Uroenhalyh  
-Bruce Bould
+**Character** **Actor**  
+**Nellie** Pat Keen  
+**Gilbert** Wilfred Pickles  
+**Nora** Anne Stallybrass  
+**Bert** Colin Edwynn  
+**Martha** Sheila M Price  
+**Nora (child)** Margaret Dew  
+**Wilf** Harry Markham  
+**Other roles** Peter Schofield  
+**Other roles** Vivien Wood  
+**Other roles** Roy Minton  
+**Other roles** Guybon Andrew  
+**Other roles** Robert Wallace  
+**Other roles** Jean Riramer  
+**Other roles** Barbart Uroenhalyh  
+**Other roles** Bruce Bould
 
 ### Notes
 
-○ *All For The Best* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *All For The Best* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

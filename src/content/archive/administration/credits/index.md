@@ -12,12 +12,45 @@ Thanks also to the photographers **[Tony Bartholomew](http://www.bartpics.co.uk/
 
 In memory: Albert-Reiner Glaap, Stephen Wood
 
+### Contributions & Donations
+
+The following people and organisations have contributed to or made donations to the Ayckbourn Archive and / or to the development of this website since 2002. Their contributions and help are greatly appreciated.  
+Sir Alan and Lady Heather Ayckbourn  
+Tony Bartholomew  
+Brett Bayne  
+Elizabeth Bell  
+John Chapman  
+John Cotgrave & Richard McArtney  
+Ossie Ellis  
+Paul Elsam  
+Jane Epstein  
+Ros & Alan Haigh  
+Ellis Jones  
+Geoff Legan  
+Jaye Lewis  
+Mike Linham  
+Alistair Livingstone  
+David Metcalfe  
+Michael T. Mooney  
+Catherine Spencer  
+Joanna Tope  
+Stephanie Tucker  
+Terence Wilton  
+The family of Rodney Wood  
+A.S. Green & Co.  
+The Borthwick Institute for Archives  
+Concord Theatricals  
+Faber & Faber  
+Haydonning Ltd.  
+Samuel French Ltd
+
 ### Website Supporters & Dedications (2003 - 2026)
 
 Between 2003 and April 2006, a number of plays within the **[Plays](/plays)** section featured banners relating to supporters or dedications.  
 The 'supported by' banners were a thank-you to supporters who had helped contribute towards the running of the website. The administrator is grateful for all the support from these supporters and for all their help in establishing the website and contributing towards it success.  
 The 'Dedicated to' banners were given to people as a personal thank you for work in connection with the website, Alan Ayckbourn and / or theatre in the round in Scarborough.  
-As of May 2026 with significant changes to the website, these banners have now been removed. The people who donated, supported or contributed to the website and held the banners are marked below. Thank you all, your support will always be appreciated. ○ *Absent Friends*: John Cotgrave  
+As of May 2026 with significant changes to the website, these banners have now been removed. The people who donated, supported or contributed to the website and held the banners are marked below. Thank you all, your support will always be appreciated.  
+○ *Absent Friends*: John Cotgrave  
 ○ *Absurd Person Singular*: Jeannie Swales  
 ○ *Arrivals & Departures*: Geofferson  
 ○ *Bedroom Farce*: John Chapman  
@@ -29,7 +62,8 @@ As of May 2026 with significant changes to the website, these banners have now b
 ○ *Improbable Fiction*: Richard McArtney  
 ○ *Intimate Exchanges*: Geofferson  
 ○ *Jeeves*: Brett Bayne  
-○ *Man Of The Moment*: Martin Rossen ○ *Neighbourhood Watch*: Mo Murgatroyd  
+○ *Man Of The Moment*: Martin Rossen  
+○ *Neighbourhood Watch*: Mo Murgatroyd  
 ○ *The Norman Conquests*: Geofferson  
 ○ *Private Fears In Public Places*: Dick & Lottie Theatre Company  
 ○ *Relatively Speaking*: Lamont Hill  

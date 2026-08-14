@@ -22,23 +22,17 @@ play: "time-of-my-life"
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Clare Smout  
-**Assistant Stage Manager:** Georgina Huxstep**Character**  
-Gerry Stratton  
-Laura, his wife  
-Glyn, their son  
-Adam, their other son  
-Stephanie, Glyn’s wife  
-Maureen  
-Calvinu, a restauranteur  
-The waiters**Actor**  
-Russell Dixon  
-Colette O’Neil  
-Richard Garnett  
-Stephen Mapes  
-Karen Drury  
-Sophie Heyman  
-Terence Booth  
-Terence Booth
+**Assistant Stage Manager:** Georgina Huxstep
+
+**Character** **Actor**  
+**Gerry Stratton** Russell Dixon  
+**Laura, his wife** Colette O’Neil  
+**Glyn, their son** Richard Garnett  
+**Adam, their other son** Stephen Mapes  
+**Stephanie, Glyn’s wife** Karen Drury  
+**Maureen** Sophie Heyman  
+**Calvinu, a restauranteur** Terence Booth  
+**The waiters** Terence Booth
 
 ### London Premiere (1993)
 
@@ -50,23 +44,17 @@ Terence Booth
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Sound:** Freya Edwards**Character**  
-Gerry Stratton  
-Laura, his wife  
-Glyn, their son  
-Adam, their other son  
-Stephanie, Glyn’s wife  
-Maureen  
-Calvinu, a restauranteur  
-The waiters**Actor**  
-Anton Rodgers  
-Gwen Taylor  
-Richard Garnett  
-Stephen Mapes  
-Karen Drury  
-Sophie Heyman  
-Terence Booth  
-Terence Booth
+**Sound:** Freya Edwards
+
+**Character** **Actor**  
+**Gerry Stratton** Anton Rodgers  
+**Laura, his wife** Gwen Taylor  
+**Glyn, their son** Richard Garnett  
+**Adam, their other son** Stephen Mapes  
+**Stephanie, Glyn’s wife** Karen Drury  
+**Maureen** Sophie Heyman  
+**Calvinu, a restauranteur** Terence Booth  
+**The waiters** Terence Booth
 
 ### Tour (1994)
 
@@ -78,23 +66,17 @@ Terence Booth
 **Design:** Roger Glossop  
 **Lighting:** Mike Sheppard
 
-**Producer:** Michael Codron**Character**  
-Gerry Stratton  
-Laura, his wife  
-Glyn, their son  
-Adam, their other son  
-Stephanie, Glyn’s wife  
-Maureen  
-Calvinu, a restauranteur  
-The waiters**Actor**  
-Gareth Hunt  
-Anna Carteret  
-Alexander Hanson  
-Toby Walton  
-Deborah Winckles  
-Julia Sarah Reed  
-Roland Curram  
-Roland Curram
+**Producer:** Michael Codron
+
+**Character** **Actor**  
+**Gerry Stratton** Gareth Hunt  
+**Laura, his wife** Anna Carteret  
+**Glyn, their son** Alexander Hanson  
+**Adam, their other son** Toby Walton  
+**Stephanie, Glyn’s wife** Deborah Winckles  
+**Maureen** Julia Sarah Reed  
+**Calvinu, a restauranteur** Roland Curram  
+**The waiters** Roland Curram
 
 ### Revival (2013)
 
@@ -111,23 +93,17 @@ Roland Curram
 
 **Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Sue Volans  
-**Assistant Stage Manager:** Hayley Smith**Character**  
-Gerry Stratton  
-Laura, his wife  
-Glyn, their son  
-Adam, their other son  
-Stephanie, Glyn’s wife  
-Maureen  
-Calvinu, a restauranteur  
-The waiters**Actor**  
-John Branwell\*  
-Sarah Parks  
-Richard Stacey  
-James Powell  
-Emily Pithon  
-Rachel Caffrey  
-Ben Porter  
-Ben Porter
+**Assistant Stage Manager:** Hayley Smith
+
+**Character** **Actor**  
+**Gerry Stratton** John Branwell\*  
+**Laura, his wife** Sarah Parks  
+**Glyn, their son** Richard Stacey  
+**Adam, their other son** James Powell  
+**Stephanie, Glyn’s wife** Emily Pithon  
+**Maureen** Rachel Caffrey  
+**Calvinu, a restauranteur** Ben Porter  
+**The waiters** Ben Porter
 
 ### Tour (2014)
 
@@ -139,29 +115,19 @@ Ben Porter
 **Associate Director:** Henry Bell  
 **Design:** Jan Bee Brown  
 **Lighting:** Mark Johnston  
-**Casting:** Sarah Hughes**Character**  
-Gerry Stratton  
-Laura, his wife  
-Glyn, their son  
-Adam, their other son  
-Stephanie, Glyn’s wife  
-Maureen  
-Calvinu, a restauranteur  
-The waiters
+**Casting:** Sarah Hughes
 
-Understudy  
-Understudy**Actor**  
-Russell Dixon  
-Sarah Parks  
-Richard Stacey  
-James Powell  
-Emily Pithon  
-Rachel Caffrey  
-Ben Porter  
-Ben Porter
-
-Peter Halpin  
-Lucy McCabe
+**Character** **Actor**  
+**Gerry Stratton** Russell Dixon  
+**Laura, his wife** Sarah Parks  
+**Glyn, their son** Richard Stacey  
+**Adam, their other son** James Powell  
+**Stephanie, Glyn’s wife** Emily Pithon  
+**Maureen** Rachel Caffrey  
+**Calvinu, a restauranteur** Ben Porter  
+**The waiters** Ben Porter  
+**Understudy** Peter Halpin  
+**Understudy** Lucy McCabe
 
 ### New York Premiere (2014)
 
@@ -176,20 +142,16 @@ Lucy McCabe
 
 **Stage Manager:** Sue Volans  
 **Assistant Stage Manager:** Annette Waldie  
-**AEA Stage Manager:** Jess Johnston**Character**  
-Gerry Stratton  
-Laura, his wife  
-Glyn, their son  
-Adam, their other son  
-Stephanie, Glyn’s wife  
-Maureen  
-Calvinu, a restauranteur  
-The waiters**Actor**  
-Russell Dixon  
-Sarah Parks  
-Richard Stacey  
-James Powell  
-Emily Pithon  
-Rachel Caffrey  
-Ben Porter  
-Ben Porter*All research for this page by Simon Murgatroyd.*
+**AEA Stage Manager:** Jess Johnston
+
+**Character** **Actor**  
+**Gerry Stratton** Russell Dixon  
+**Laura, his wife** Sarah Parks  
+**Glyn, their son** Richard Stacey  
+**Adam, their other son** James Powell  
+**Stephanie, Glyn’s wife** Emily Pithon  
+**Maureen** Rachel Caffrey  
+**Calvinu, a restauranteur** Ben Porter  
+**The waiters** Ben Porter
+
+*All research for this page by Simon Murgatroyd.*

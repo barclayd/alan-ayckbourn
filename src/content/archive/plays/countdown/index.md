@@ -11,7 +11,8 @@ facts:
   London Premiere Venue: "Comedy Theatre"
   Description: "One act play"
   Published: "[Samuel French](http://www.concordtheatricals.co.uk/s/12585/countdown/)"
-  Other Media: "Television Countdown Short Synopsis: A short one act sketch about a couple who verbalise their internal thoughts over breakfast."
+  Other Media: "Television"
+  Short Synopsis: "A short one act sketch about a couple who verbalise their internal thoughts over breakfast."
 ---
 
 

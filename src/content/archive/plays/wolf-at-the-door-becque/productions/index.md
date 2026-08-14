@@ -22,40 +22,26 @@ play: "wolf-at-the-door-becque"
 **Deputy Stage Manager:** Natasha Betteridge  
 **Deputy Stage Manager:** Lynda Snowden  
 **Assistant Stage Manager:** Sarah Percival  
-**Assistant Stage Manager:** Marina Kilby**Character**  
-M. Vigneron,  
-Mme Vigneron, his wife  
-Judith  
-Marie  
-Blanche  
-Gaston  
-Auguste, a servant  
-Rosalie, a servant  
-Mme de Saint - Genis  
-Merckens (music teacher)  
-Teissier, a former banker  
-Bourdon, a lawyer  
-Lenormand, civil servant  
-George De Saint – Genis  
-General Fromentin  
-Doctor  
-Lefort, an architect  
-Dupuis, an upholsterer**Actor**  
-James Tomlinson  
-Elizabeth Bell  
-Jennifer Wiltsie  
-Robin McCaffrey  
-Claire Skinner  
-Ian Dunn  
-Daniel Collings  
-Doreen Andrew  
-Alison Skilbeck  
-Sean Chapman  
-Bernard Hepton  
-Jon Strickland  
-Robin Newman  
-Dean Daley  
-Robin Bowerman  
-Bill Moody  
-Robin Bowerman  
-Bill Moody*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Marina Kilby
+
+**Character** **Actor**  
+**M. Vigneron,** James Tomlinson  
+**Mme Vigneron, his wife** Elizabeth Bell  
+**Judith** Jennifer Wiltsie  
+**Marie** Robin McCaffrey  
+**Blanche** Claire Skinner  
+**Gaston** Ian Dunn  
+**Auguste, a servant** Daniel Collings  
+**Rosalie, a servant** Doreen Andrew  
+**Mme de Saint - Genis** Alison Skilbeck  
+**Merckens (music teacher)** Sean Chapman  
+**Teissier, a former banker** Bernard Hepton  
+**Bourdon, a lawyer** Jon Strickland  
+**Lenormand, civil servant** Robin Newman  
+**George De Saint – Genis** Dean Daley  
+**General Fromentin** Robin Bowerman  
+**Doctor** Bill Moody  
+**Lefort, an architect** Robin Bowerman  
+**Dupuis, an upholsterer** Bill Moody
+
+*All research for this page by Simon Murgatroyd.*

@@ -12,4 +12,5 @@ order: 2367
 *(1989)*
 
 "I think *A Small Family Business* is probably the best play yet written about Thatcherism. Interestingly, as far as I remember, it mentions Mrs Thatcher not at all. But - of course - her ethos is everywhere within the play. Whereas, other playwrights would be naming name sand scoring points, Alan Ayckbourn doesn’t feel the need to do that and I feel the plays are richer for it."  
-*(1989)**Copyright: Matt Wolf. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1989)*  
+*Copyright: Matt Wolf. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

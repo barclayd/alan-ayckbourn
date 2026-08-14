@@ -82,4 +82,5 @@ Ayckbourn, meanwhile, will be back in Scarborough. 'I'll walk on the beach and I
 \[2\] Gambon actually did not appear in *'Tis Pity She's A Whore* due to *A View Front The Bridge* transferring from the National into the West End,  
 **Note:** This article originally made several references to Alan starting his acting career at the National Theatre; Alan has never acted for the National Theatre and his first major acting role was at the Edinburgh International Festival. The article has been corrected to reflect this.
 
-*Copyright: Daily Telegraph. This edited transcription and the end-notes have been compiled and researched by Simon Murgatroyd. Please do not reproduce without permission of the copyright holder.**Copyright: Michael Gambon. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*Copyright: Daily Telegraph. This edited transcription and the end-notes have been compiled and researched by Simon Murgatroyd. Please do not reproduce without permission of the copyright holder.*  
+*Copyright: Michael Gambon. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

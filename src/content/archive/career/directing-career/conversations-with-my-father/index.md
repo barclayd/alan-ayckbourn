@@ -8,70 +8,45 @@ order: 378
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Herb Gardner  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Herb Gardner  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**19 October 1994  
-25 October 1994  
-26 November 1994
+**First performance:** 19 October 1994  
+**Opening night:** 25 October 1994  
+**Final performance:** 26 November 1994
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Dialect Coach:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Jackie Staines  
+**Design:** Jan Bee Brown  
+**Dialect Coach:** Judith Windsor  
+**Stage Manager:** Jane Eliot-Webb  
+**Stage Manager:** Philip Rees  
+**Deputy Stage Manager:** Alyson Powell  
+**Assistant Stage Manager:** Victoria Murray
 
-**Stage Manager:**  
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Jackie Staines  
-Jan Bee Brown  
-Judith Windsor
-
-Jane Eliot-Webb  
-Philip Rees  
-Alyson Powell  
-Victoria Murray**Character**  
-Charlie  
-Josh  
-Eddie  
-Gusta  
-Zaretsky  
-Young Joey  
-Hannah Di Blindeh  
-Nick  
-Finney the Book  
-Jimmy Scalso  
-Blue  
-Young Charlie  
-Joey, aged 17**Actor**  
-Michael Mears  
-Adam Levy  
-Judd Hirsch  
-Jane Bertish  
-Trevor Martin  
-James D White  
-Madeline Blakeney  
-Bill Bailey  
-Colin Higgins  
-John Guerrasio  
-Milton Cadman  
-John Hasler  
-Adam Levy
+**Character** **Actor**  
+**Charlie** Michael Mears  
+**Josh** Adam Levy  
+**Eddie** Judd Hirsch  
+**Gusta** Jane Bertish  
+**Zaretsky** Trevor Martin  
+**Young Joey** James D White  
+**Hannah Di Blindeh** Madeline Blakeney  
+**Nick** Bill Bailey  
+**Finney the Book** Colin Higgins  
+**Jimmy Scalso** John Guerrasio  
+**Blue** Milton Cadman  
+**Young Charlie** John Hasler  
+**Joey, aged 17** Adam Levy
 
 ### Notes
 
 ○ *Conversations With My Father* transferred to the Old Vic, London, in 1995 with the same company. Further details about the transfer can be found at Alan Ayckbourn's Official Website **[here](/career/directing-career/the-crafty-art-of-playmaking)**.  
 ○ The production starred American actor Judd Hirsch as Eddie making his European stage debut. Hirsch had previously won a Tony for this role in the 1992 Broadway revival.  
-○ This was the European premiere of *Conversations With My Father*.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ This was the European premiere of *Conversations With My Father*.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

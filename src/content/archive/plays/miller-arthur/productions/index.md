@@ -23,35 +23,23 @@ play: "miller-arthur"
 **Stage Manager:** Courtney Bryant  
 **Deputy Stage Manager:** Lesley Walmsley  
 **Assistant Stage Manager:** Marc W Dunmore  
-**Assistant Stage Manager:** Brewyeen Rowland**Character**  
-Mike  
-Beatrice, Eddie's wife  
-Mr Lipari  
-Mrs Lipari  
-Louis  
-Submarine Woman  
-Eddie  
-Alfieri  
-First Immigration Officer  
-Rodolpho  
-Marco  
-Second Immigration Officer  
-Catherine, Eddie's niece  
-Tony**Actor**  
-John Arthur  
-Elizabeth Bell  
-Nigel Bellairs  
-Mary Chester  
-Russell Dixon  
-Kate Dyson  
-Michael Gambon  
-James Hayes  
-Allan Mitchell  
-Adrian Rawlins  
-Michael Simkins  
-Paul Stewart  
-Suzan Sylvester  
-Paul Todd
+**Assistant Stage Manager:** Brewyeen Rowland
+
+**Character** **Actor**  
+**Mike** John Arthur  
+**Beatrice, Eddie's wife** Elizabeth Bell  
+**Mr Lipari** Nigel Bellairs  
+**Mrs Lipari** Mary Chester  
+**Louis** Russell Dixon  
+**Submarine Woman** Kate Dyson  
+**Eddie** Michael Gambon  
+**Alfieri** James Hayes  
+**First Immigration Officer** Allan Mitchell  
+**Rodolpho** Adrian Rawlins  
+**Marco** Michael Simkins  
+**Second Immigration Officer** Paul Stewart  
+**Catherine, Eddie's niece** Suzan Sylvester  
+**Tony** Paul Todd
 
 ### Transfer (1987)
 
@@ -73,7 +61,8 @@ Paul Todd
 **Assistant Stage Manager:** John Hunt  
 **Assistant Stage Manager:** Mel Moran  
 **Assistant Stage Manager:** Andrew Jolly  
-**Assistant Stage Manager:** Mark Phillips**Character**  
+**Assistant Stage Manager:** Mark Phillips  
+**Character**  
 Mike  
 Beatrice, Eddie's wife  
 Mr Lipari  
@@ -89,7 +78,8 @@ Catherine, Eddie's niece
 Tony  
 Submarines
 
-Neighbours**Actor**  
+Neighbours  
+**Actor**  
 Richard Cordery  
 Elizabeth Bell  
 Brian Vaughan  
@@ -106,4 +96,5 @@ Paul Todd
 Andrew Jolly  
 Mark Phillips  
 Catherine Furshpan  
-Maggi-Anne Lowe*All research for this page by Simon Murgatroyd.*
+Maggi-Anne Lowe  
+*All research for this page by Simon Murgatroyd.*

@@ -26,6 +26,9 @@ The programme for the world premiere of *Dad's Tale* at Theatre in the Round at 
 
 The first page of Dad's Tale from one of several original manuscripts of *Dad's Tale* held in the Ayckbourn Archive in the Borthwick Institute for Archives at the University of York.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-80e99c7.jpg)
@@ -48,6 +51,7 @@ A 'poster' for *Dad's Tale* which was mounted outside Scarborough's Theatre in t
 **Copyright:** Scarborough Theatre Trust  
 **Holding:** The Bob Watson Archive
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

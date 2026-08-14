@@ -19,17 +19,14 @@ play: "the-square-cat"
 
 **Stage Manager:** Ann Hughesdon  
 **Assistant Stage Manager:** Rosemary Green  
-**Assistant Stage Manager:** Don Brown**Character**  
-Sidney Glover  
-Alice Glover  
-Steve Glover  
-Susan Glover  
-Jerry Wattis / Arthur Brummage**Actor**  
-David Campton  
-Dona Martyn  
-William Elmhirst  
-Faynia Jeffery  
-Alan Ayckbourn
+**Assistant Stage Manager:** Don Brown
+
+**Character** **Actor**  
+**Sidney Glover** David Campton  
+**Alice Glover** Dona Martyn  
+**Steve Glover** William Elmhirst  
+**Susan Glover** Faynia Jeffery  
+**Jerry Wattis / Arthur Brummage** Alan Ayckbourn
 
 ### Tour (1960)
 

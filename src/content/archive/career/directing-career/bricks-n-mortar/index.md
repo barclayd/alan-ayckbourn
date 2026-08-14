@@ -8,60 +8,39 @@ order: 442
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Michael Cashman  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Michael Cashman  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**22 August 1984  
-22 August 1984  
-22 September 1984
+**First performance:** 22 August 1984  
+**Opening night:** 22 August 1984  
+**Final performance:** 22 September 1984
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Sound:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Francis Lynch  
+**Sound:** Francis Lynch  
+**Design:** John Hallé  
+**Music:** Paul Todd  
+**Stage Manager:** Baz Edmonds  
+**Stage Manager:** Eric Lumsden  
+**Deputy Stage Manager:** Maggie Nottage  
+**Assistant Stage Manager:** Jackie Hurd  
+**Assistant Stage Manager:** Drew Scott  
+**Assistant Stage Manager:** Kathryn-Anne Woodward
 
-**Stage Manager:**  
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Francis Lynch  
-Francis Lynch  
-John Hallé  
-Paul Todd
-
-Baz Edmonds  
-Eric Lumsden  
-Maggie Nottage  
-Jackie Hurd  
-Drew Scott  
-Kathryn-Anne Woodward**Character**  
-Terry  
-Alex  
-Danny  
-Ted  
-DS  
-Alice**Actor**  
-Lennox Greaves  
-Russell Dixon  
-Mark Jax  
-Geoffrey Banks  
-Heather Stoney  
-Carol Gillies
+**Character** **Actor**  
+**Terry** Lennox Greaves  
+**Alex** Russell Dixon  
+**Danny** Mark Jax  
+**Ted** Geoffrey Banks  
+**DS** Heather Stoney  
+**Alice** Carol Gillies
 
 ### Notes
 
-○ *Brick ’n’ Mortar* was Michael Cashman’s second play for the company and was inspired by his own experiences rebuilding and refurbishing his own house in London.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Brick ’n’ Mortar* was Michael Cashman’s second play for the company and was inspired by his own experiences rebuilding and refurbishing his own house in London.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

@@ -26,6 +26,9 @@ In 1994, the Stephen Joseph Theatre in the Round announced the title of Alan Ayc
 
 Alan Ayckbourn's sketch for the layout of the set for the in-the-round world premiere of *Private Fears in Public Places* at the Stephen Joseph Theatre in 2004.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-96e7476.jpg)
@@ -70,6 +73,7 @@ The UK poster for Alain Resnais's film adaptation of *Private Fears in Public Pl
 **Copyright:** To be confirmed  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*      *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -20,69 +20,41 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Video:** 1991 (deleted)  
 **DVD (R2):** 2007 (deleted)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Screenplay**  
-**Photography**  
-**Photography**  
-**Editor**  
-**Executive Editor**  
-**Design**  
-**Music**  
-**Choreography**  
-**Sound**  
-**Sound**  
-**Sound**  
-**Sound**
+**Digital:** Not available
 
-**Character**  
-Dafydd Ap Llewellyn  
-Guy Jones  
-Ted Washbrook  
-Enid Washbrook  
-Ian Hubbard  
-Jarvis Huntley-Pike  
-Linda Washbrook  
-Bridget Baines  
-Hannah Ap Llewellyn  
-Fay Hubbard  
-Rebecca Huntley-Pike  
-Crispin Usher  
-Mr. Ames  
-Mrs Bawden  
-Girl at work  
-Woman in theatre  
-Hilda ShawMichael Winner  
-Michael Winner  
-Alan Jones  
-David Wynn-Jones  
-Michael Winner  
-Chris Barnes  
-Peter Young  
-John du Prez  
-Sandra Blair  
-Bob Taylor  
-David Old  
-Tony Lenny  
-Lionel Selwyn
+**Director** Michael Winner  
+**Screenplay** Michael Winner  
+**Photography** Alan Jones  
+**Photography** David Wynn-Jones  
+**Editor** Michael Winner  
+**Executive Editor** Chris Barnes  
+**Design** Peter Young  
+**Music** John du Prez  
+**Choreography** Sandra Blair  
+**Sound** Bob Taylor  
+**Sound** David Old  
+**Sound** Tony Lenny  
+**Sound** Lionel Selwyn  
+**Character** **Actor**  
+**Dafydd Ap Llewellyn** Anthony Hopkins  
+**Guy Jones** Jeremy Irons  
+**Ted Washbrook** Richard Briers  
+**Enid Washbrook** Barbara Ferris  
+**Ian Hubbard** Gareth Hunt  
+**Jarvis Huntley-Pike** Lionel Jeffries  
+**Linda Washbrook** Patsy Kensit  
+**Bridget Baines** Alexandra Pigg  
+**Hannah Ap Llewellyn** Prunella Scales  
+**Fay Hubbard** Jenny Seagrove  
+**Rebecca Huntley-Pike** Sylvia Syms  
+**Crispin Usher** Pete Lee-Wilson  
+**Mr. Ames** David King  
+**Mrs Bawden** Audrey Trotter  
+**Girl at work** Dinah May  
+**Woman in theatre** Amanda Mainard  
+**Hilda Shaw** Anne Priestley
 
-**Actor**  
-Anthony Hopkins  
-Jeremy Irons  
-Richard Briers  
-Barbara Ferris  
-Gareth Hunt  
-Lionel Jeffries  
-Patsy Kensit  
-Alexandra Pigg  
-Prunella Scales  
-Jenny Seagrove  
-Sylvia Syms  
-Pete Lee-Wilson  
-David King  
-Audrey Trotter  
-Dinah May  
-Amanda Mainard  
-Anne Priestley**Notes:** This was the first movie adaptation of an Ayckbourn play. Contrary to certain reports, Alan Ayckbourn did not write the screenplay for *A Chorus Of Disapproval*. Michael Winner was responsible for the final screenplay of the adaptation, which bears little relation to either the original play or the playwright’s original intentions.
+**Notes:** This was the first movie adaptation of an Ayckbourn play. Contrary to certain reports, Alan Ayckbourn did not write the screenplay for *A Chorus Of Disapproval*. Michael Winner was responsible for the final screenplay of the adaptation, which bears little relation to either the original play or the playwright’s original intentions.
 
 ### A Chorus Of Disapproval: From Stage To Screen
 

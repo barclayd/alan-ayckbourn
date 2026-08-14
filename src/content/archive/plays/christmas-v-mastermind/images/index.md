@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The copy of the opening page of *Christmas V Mastermind* taken from the a rare surviving copy held in the Lord Chamberlain's Collection at the British Library.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** British Library
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-9f5eb3b.jpg)
@@ -22,6 +25,9 @@ The copy of the opening page of *Christmas V Mastermind* taken from the a rare s
 ![](./_images/stacks-image-8643d0d-11511.jpg)
 
 A poster for *Christmas V Mastermind* designed by Alan Ayckbourn's Archivist, Simon Murgatroyd, in the style of Studio Theatre Ltd, as part of the celebrations to mark the playwright's 70th birthday in 2009.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Ayckbourn Digital Archive
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -34,6 +40,7 @@ The interior of the programme for the world premiere of *Christmas V Mastermind*
 **Copyright:** Scarborough Theatre Trust  
 **Holding:** Borthwick Institute For Archives
 
-*Do not reproduce images without permission of the copyright holder.*     *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

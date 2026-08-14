@@ -8,60 +8,39 @@ order: 495
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** J.B. Priestley  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**J.B. Priestley  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**4 June 1980  
-4 June 1980  
-6 August 1980
+**First performance:** 4 June 1980  
+**Opening night:** 4 June 1980  
+**Final performance:** 6 August 1980
 
 ### Company Details
 
-**Director:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Design:** Michael Holt  
+**Stage Manager:** Simon Whitaker  
+**Deputy Stage Manager:** Eric Lumsden  
+**Assistant Stage Manager:** Sue Merry  
+**Assistant Stage Manager:** Abigail McKern
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Michael Holt
-
-Simon Whitaker  
-Eric Lumsden  
-Sue Merry  
-Abigail McKern  
-**Character**  
-Hazel  
-Mrs Conway  
-Carol  
-Alan  
-Madge  
-Kay  
-Joan Helford  
-Gerald Thornton  
-Ernest Beevers  
-Robin**Actor**  
-Tessa Peake-Jones  
-Marcia Warren  
-Abigail McKern  
-David Bamber  
-Susan Uebel  
-Heather Stoney  
-Lavinia Bertram  
-Robin Herford  
-Jeffrey Robert  
-Michael Simkins
+**Character** **Actor**  
+**Hazel** Tessa Peake-Jones  
+**Mrs Conway** Marcia Warren  
+**Carol** Abigail McKern  
+**Alan** David Bamber  
+**Madge** Susan Uebel  
+**Kay** Heather Stoney  
+**Joan Helford** Lavinia Bertram  
+**Gerald Thornton** Robin Herford  
+**Ernest Beevers** Jeffrey Robert  
+**Robin** Michael Simkins
 
 ### Notes
 
 ○ It was reported in the media that Alan Ayckbourn had been trying to stage *Time & The Conways* for a couple of years but rights issues had delayed the production.  
-○ The cast included Abigail McKern, daughter of the actor Leo McKern - possibly best known for his television role as *Rumpole Of The Bailey* - in her first professional acting role. It was reported when he came to see Abigail in the play, he apparently arrived late and was snuck into his seat only to be recognised by the audience and given an impromptu round of applause.*All research for this page by Simon Murgatroyd.*
+○ The cast included Abigail McKern, daughter of the actor Leo McKern - possibly best known for his television role as *Rumpole Of The Bailey* - in her first professional acting role. It was reported when he came to see Abigail in the play, he apparently arrived late and was snuck into his seat only to be recognised by the audience and given an impromptu round of applause.  
+*All research for this page by Simon Murgatroyd.*

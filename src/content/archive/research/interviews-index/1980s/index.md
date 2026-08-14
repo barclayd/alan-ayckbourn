@@ -498,4 +498,5 @@ Career
 50th Birthday  
 *The Revengers' Comedies*  
 Career  
-Family plays  *All material and research for this page is by and copyright of Simon Murgatroyd. Please do not reproduce the information on this page without permission.*
+Family plays  
+*All material and research for this page is by and copyright of Simon Murgatroyd. Please do not reproduce the information on this page without permission.*

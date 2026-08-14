@@ -8,58 +8,38 @@ order: 437
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Michael Cashman  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Michael Cashman  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**10 August 1983  
-10 August 1983  
-31 August 1983
+**First performance:** 10 August 1983  
+**Opening night:** 10 August 1983  
+**Final performance:** 31 August 1983
 
 ### Company Details
 
-**Director:**  
-**Lighting:**  
-**Design:**  
-**Music:**
+**Director:** Alan Ayckbourn  
+**Lighting:** Francis Lynch  
+**Design:** Edward Lipscomb  
+**Music:** Paul Todd  
+**Stage Manager:** Baz Edmunds  
+**Stage Manager:** Eric Lumsden  
+**Deputy Stage Manager:** Jo Linfoot  
+**Assistant Stage Manager:** Mathew Claridge  
+**Assistant Stage Manager:** Anneke Harrison  
+**Assistant Stage Manager:** Kate Woodward
 
-**Stage Manager:**  
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Francis Lynch  
-Edward Lipscomb  
-Paul Todd
-
-Baz Edmunds  
-Eric Lumsden  
-Jo Linfoot  
-Mathew Claridge  
-Anneke Harrison  
-Kate Woodward**Character**  
-Richard  
-Ed  
-Nina  
-Esma  
-May  
-Doctor**Actor**  
-Michael Ross  
-Graeme Eton  
-Ruth Mayo  
-Ursula Jones  
-Molly Sharrp  
-Arthur Conn
+**Character** **Actor**  
+**Richard** Michael Ross  
+**Ed** Graeme Eton  
+**Nina** Ruth Mayo  
+**Esma** Ursula Jones  
+**May** Molly Sharrp  
+**Doctor** Arthur Conn
 
 ### Notes
 
-○ *Before Your Very Eyes* marked the writing debut of the actor Michael Cashman at the Stephen Joseph Theatre In The Round. Michael was a prominent member of the company for several years, but later became better known as Colin Russell in the BBC's *Eastenders* - a character involved in the first gay kiss in a British soap opera. He went onto become an MEP and a prominent gay and human rights activist.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Before Your Very Eyes* marked the writing debut of the actor Michael Cashman at the Stephen Joseph Theatre In The Round. Michael was a prominent member of the company for several years, but later became better known as Colin Russell in the BBC's *Eastenders* - a character involved in the first gay kiss in a British soap opera. He went onto become an MEP and a prominent gay and human rights activist.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

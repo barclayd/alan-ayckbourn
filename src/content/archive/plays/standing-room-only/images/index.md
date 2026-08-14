@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The first page of the original manuscript - before its many revisions - of *Standing Room Only* held in the Ayckbourn Archive in the Borthwick Institute for Archives at the University of York.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-c594050.jpg)
@@ -48,6 +51,7 @@ Plays & Players magazine's report in its September 1961 edition that the produce
 **Copyright:** Plays & Players  
 **Holding:** Borthwick Institute For Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Scene, Archive Images and Research pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

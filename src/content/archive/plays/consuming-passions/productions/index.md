@@ -20,12 +20,13 @@ play: "consuming-passions"
 
 **Company Stage Manager:** Nikki Colclough  
 **Deputy Stage Manager:** Jane Williamson  
-**Assistant Stage Manager:** Sarah Follon**Character**  
-Cora / Female PC  
-Freddy / Edmund / PC  
-Melanie  
-Aggi / Dinka / Cedric**Actor**  
-Rachel Caffrey  
-Andy Cryer  
-Louise Shuttleworth  
-Leigh Symonds**Note:** *Consuming Passions* is a single play in two parts - *Premonitions* & *Repercussions*. The parts were initially performed separately before being combined as a single play during its inaugural run at the Stephen Joseph Theatre, Scarborough, during 2016.*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Sarah Follon
+
+**Character** **Actor**  
+**Cora / Female PC** Rachel Caffrey  
+**Freddy / Edmund / PC** Andy Cryer  
+**Melanie** Louise Shuttleworth  
+**Aggi / Dinka / Cedric** Leigh Symonds
+
+**Note:** *Consuming Passions* is a single play in two parts - *Premonitions* & *Repercussions*. The parts were initially performed separately before being combined as a single play during its inaugural run at the Stephen Joseph Theatre, Scarborough, during 2016.  
+*All research for this page by Simon Murgatroyd.*

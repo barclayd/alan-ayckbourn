@@ -8,13 +8,13 @@ order: 569
 
 ### Production Details
 
-****Play:** Hamlet** **Character** **Actor**  
-****Author:** William Shakespeare** **Hamlet** David Jarrett  
-****First performance:** 29 January 1962** **Claudius** Alan Ayckbourn  
-****Final performance:** 10 February 1962** **Ophelia** Patricia England  
-****Venue:** Municipal Hall, Newcastle-under-Lyme** **Queen Gertrude** Rosamund Dixon  
-****Staging:** Round** **Laertes** Peter King  
-****Director:** Stephen Joseph** **Polonius** David CamptonNo other company details known
+**Play:** Hamlet **Character** **Actor**  
+**Author:** William Shakespeare **Hamlet** David Jarrett  
+**First performance:** 29 January 1962 **Claudius** Alan Ayckbourn  
+**Final performance:** 10 February 1962 **Ophelia** Patricia England  
+**Venue:** Municipal Hall, Newcastle-under-Lyme **Queen Gertrude** Rosamund Dixon  
+**Staging:** Round **Laertes** Peter King  
+**Director:** Stephen Joseph **Polonius** David CamptonNo other company details known
 
 ### Quotes & Notes
 
@@ -22,4 +22,5 @@ order: 569
 
 *Hamlet* was staged by Studio Theatre Ltd as part of a winter season at the Municipal Hall, Newcastle-under-Lyme, between January and February 1962. It marked the first time the company had tackled a Shakespeare play.
 
-Alan Ayckbourn recalls the play was performed uncut without an interval, running for more than four hours!*All research for this page by Simon Murgatroyd.*
+Alan Ayckbourn recalls the play was performed uncut without an interval, running for more than four hours!  
+*All research for this page by Simon Murgatroyd.*

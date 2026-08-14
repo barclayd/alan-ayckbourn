@@ -36,4 +36,5 @@ For the first time, Alan was employed purely as an actor; although given the nat
 "David Sutton is a little too over-ebullient in the part of Vasya, Ludmilla's husband. He could have made a more subtle approach to the part and given a better performance. Alan Ayckbourn, as Abrahm, is also slightly too enthusiastic."
 
 **Review extract from The Guardian** (1 January 1959)  
-"We feel too often that the thing should be funnier than it is. Nevertheless, Alan Ayckbourn, Donna Martyn, Faynia Jeffery, and David Sutton keep the joke against the party alive for longer than we expect. For this and for playing the piece at all, they deserve our thanks and encouragement."*All research for this page by Simon Murgatroyd.*
+"We feel too often that the thing should be funnier than it is. Nevertheless, Alan Ayckbourn, Donna Martyn, Faynia Jeffery, and David Sutton keep the joke against the party alive for longer than we expect. For this and for playing the piece at all, they deserve our thanks and encouragement."  
+*All research for this page by Simon Murgatroyd.*

@@ -8,36 +8,27 @@ order: 632
 
 ### Production Details
 
-**Author:**
+**Author:** John Wainwright  
+**Broadcast:** 5 June 1968 @ 8.15pm  
+**Channel:** BBC Radio 2
 
-**Broadcast:**  
-**Channel:**John Wainwright
+**Director:**  
+Alan Ayckbourn
 
-5 June 1968 @ 8.15pm  
-BBC Radio 2**Director:**Alan Ayckbourn**Character**  
-Det Chief Supt Warner  
-Det Supt Kelly  
-Ex-Det-Sgt James Robson  
-Det-Sgt Gudge  
-Assistant Chief Constable  
-Molly Fowler  
-Anne Robson  
-Desk Sergeant  
-Evans  
-Peters  
-Police cadet**Actor**  
-Philip Stone  
-Geoffrey Banks  
-Anthony Kenyon  
-Colln Edwynn  
-Tom Harrison  
-Dorothy Vernon  
-Ruth Holden  
-Roy Barraclough  
-Peter King  
-Brian Miller  
-Paul Webster
+**Character** **Actor**  
+**Det Chief Supt Warner** Philip Stone  
+**Det Supt Kelly** Geoffrey Banks  
+**Ex-Det-Sgt James Robson** Anthony Kenyon  
+**Det-Sgt Gudge** Colln Edwynn  
+**Assistant Chief Constable** Tom Harrison  
+**Molly Fowler** Dorothy Vernon  
+**Anne Robson** Ruth Holden  
+**Desk Sergeant** Roy Barraclough  
+**Evans** Peter King  
+**Peters** Brian Miller  
+**Police cadet** Paul Webster
 
 ### Notes
 
-○ *Hates Any Man?* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Hates Any Man?* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

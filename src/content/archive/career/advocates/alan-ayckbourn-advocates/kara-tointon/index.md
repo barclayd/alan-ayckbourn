@@ -15,4 +15,5 @@ order: 2340
 *(2013)*
 
 "I think my most nerve-wracking moment ever was when I was doing *Absent Friends* and Alan Ayckbourn came to our first run. We weren't really ready but he was so helpful and gave us all pointers. He came to see *Relatively Speaking* in Newcastle and once again was very positive. It's such a relief when you discover the writer's happy - at least you know you won't be sacked!"  
-*(2013)**Copyright: Kara Tointon. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2013)*  
+*Copyright: Kara Tointon. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

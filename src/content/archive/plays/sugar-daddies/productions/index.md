@@ -23,17 +23,14 @@ play: "sugar-daddies"
 
 **Stage Manager:** Corrie Jamie Cooper  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Andrew Wilcox**Character**  
-Sasha  
-Val  
-Chloe  
-Ashley  
-Charmaine**Actor**  
-Alison Pargeter  
-Rex Garner  
-Anna Brecon  
-Terence Booth  
-Eliza Hunt
+**Assistant Stage Manager:** Andrew Wilcox
+
+**Character** **Actor**  
+**Sasha** Alison Pargeter  
+**Val** Rex Garner  
+**Chloe** Anna Brecon  
+**Ashley** Terence Booth  
+**Charmaine** Eliza Hunt
 
 ### Revival (2013)
 
@@ -45,17 +42,14 @@ Eliza Hunt
 **Director:** Robin Herford  
 **Design:** Michael Holt  
 **Lighting:** Jason Taylor  
-**Sound:** Lorna Munden**Character**  
-Sasha  
-Val  
-Chloe  
-Ashley  
-Charmaine**Actor**  
-Sarah Vezmar  
-Paul Webster  
-Maeve Larkin  
-Christopher Wilkinson  
-Heather Phoenix
+**Sound:** Lorna Munden
+
+**Character** **Actor**  
+**Sasha** Sarah Vezmar  
+**Val** Paul Webster  
+**Chloe** Maeve Larkin  
+**Ashley** Christopher Wilkinson  
+**Charmaine** Heather Phoenix
 
 ### North American Premiere (2013)
 
@@ -67,14 +61,13 @@ Heather Phoenix
 **Director:** Alan Ayckbourn  
 **Design:** Matthew Smucker  
 **Sound:** Brendan Patrick Hogan  
-**Costumes:** Deb Trout**Character**  
-Sasha  
-Val  
-Chloe  
-Ashley  
-Charmaine**Actor**  
-Emily Chisholm  
-Sean G. Griffin  
-Elinor Gunn  
-John Patrick Lowrie  
-Anne Allgood*All research for this page by Simon Murgatroyd.*
+**Costumes:** Deb Trout
+
+**Character** **Actor**  
+**Sasha** Emily Chisholm  
+**Val** Sean G. Griffin  
+**Chloe** Elinor Gunn  
+**Ashley** John Patrick Lowrie  
+**Charmaine** Anne Allgood
+
+*All research for this page by Simon Murgatroyd.*

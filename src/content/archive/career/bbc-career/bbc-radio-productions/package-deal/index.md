@@ -8,32 +8,24 @@ order: 649
 
 ### Production Details
 
-**Author:**
+**Author:** Derek Bickerton  
+**Broadcast:** 23 August 1965 @ 8pm  
+**Channel:** BBC Light Programme
 
-**Broadcast:**  
-**Channel:**Derek Bickerton
+**Director:**  
+Alan Ayckbourn
 
-23 August 1965 @ 8pm  
-BBC Light Programme**Director:**Alan Ayckbourn**Character**  
-Lucy  
-Geoffrey  
-Mr Middleton  
-Mrs Middleton  
-Mr Fitch  
-Mrs Fitch  
-Miss Price  
-Mr Prior  
-Mr Mackenzie  
-Barman  
-Rafael**Actor**  
-June Barry  
-John Linstrum  
-Peter Schofield  
-Vivien Wood  
-Colin Edwynn  
-Heather Stoney  
-Dona Martyn  
-Frank Marlborough  
-Braham Rigby  
-Braham Rigby  
-Bernard Gallagher*All research for this page by Simon Murgatroyd.*
+**Character** **Actor**  
+**Lucy** June Barry  
+**Geoffrey** John Linstrum  
+**Mr Middleton** Peter Schofield  
+**Mrs Middleton** Vivien Wood  
+**Mr Fitch** Colin Edwynn  
+**Mrs Fitch** Heather Stoney  
+**Miss Price** Dona Martyn  
+**Mr Prior** Frank Marlborough  
+**Mr Mackenzie** Braham Rigby  
+**Barman** Braham Rigby  
+**Rafael** Bernard Gallagher
+
+*All research for this page by Simon Murgatroyd.*

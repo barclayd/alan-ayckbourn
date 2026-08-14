@@ -8,38 +8,28 @@ order: 637
 
 ### Production Details
 
-**Author:**
+**Author:** Roy Clarke  
+**Broadcast:** 27 January 1968 @ 8.30pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Roy Clarke
+**Director:**  
+Alan Ayckbourn
 
-27 January 1968 @ 8.30pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-David Lewis  
-Jane Beddoes  
-Frank Law  
-Mrs Law  
-Fiona  
-Jack Brings  
-Mike Tong  
-Centrepin  
-Finch  
-Pam  
-Tommy  
-Taxi driver**Actor**  
-Kenneth Gilbert  
-Pamela Craig  
-Colin Edwynn  
-Ruth Holden  
-Diana Harker  
-Leonard Fenton  
-Robert Powell  
-Douglas Fielding  
-Peter Schofield  
-Jeannie Crowther  
-Paul Webster  
-Christopher Godwin
+**Character** **Actor**  
+**David Lewis** Kenneth Gilbert  
+**Jane Beddoes** Pamela Craig  
+**Frank Law** Colin Edwynn  
+**Mrs Law** Ruth Holden  
+**Fiona** Diana Harker  
+**Jack Brings** Leonard Fenton  
+**Mike Tong** Robert Powell  
+**Centrepin** Douglas Fielding  
+**Finch** Peter Schofield  
+**Pam** Jeannie Crowther  
+**Tommy** Paul Webster  
+**Taxi driver** Christopher Godwin
 
 ### Notes
 
-○ *Lift A Bright Stone* was broadcast in the *Saturday Night Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Lift A Bright Stone* was broadcast in the *Saturday Night Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

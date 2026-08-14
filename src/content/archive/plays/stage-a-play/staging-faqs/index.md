@@ -38,4 +38,5 @@ It is standard practice for amateur rights to be restricted and often profession
 A complete list of Ayckbourn plays which have been released for professional and amateur performance can be found **[here](/plays/stage-a-play/play-availability)**. Please note, just because a play has been released for performance, does not necessarily mean it is available (see note about play restrictions above).
 
 **○ Where can I obtain specific props / costumes for Ayckbourn productions?**  
-Sadly, the website does not carry information such as this and we are unable to help with such enquiries*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*
+Sadly, the website does not carry information such as this and we are unable to help with such enquiries  
+*All research in this section is by Simon Murgatroyd and should be credited if reproduced.*

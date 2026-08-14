@@ -9,4 +9,5 @@ order: 2353
 ### Quotes
 
 "Alan Ayckbourn is a really great comic playwright, but Harold Pinter is much more respected – probably because he isn’t funny. Mirthless, beard-stroky critics who never raised a giggle in their lives still somehow think it’s easy to make people laugh."  
-*(2018)**Copyright: David Mitchell. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2018)*  
+*Copyright: David Mitchell. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

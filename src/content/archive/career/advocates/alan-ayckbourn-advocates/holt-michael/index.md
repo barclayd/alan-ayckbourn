@@ -9,4 +9,5 @@ order: 739
 ### Quotes
 
 "Alan's not difficult to work with and I know why he employs me. He is very trusting. He has an idea about what will or won't work. he thinks I am ingenious. He says: 'Better get Michael to do it.'"  
-*(2013)**Copyright: Michael Holt. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2013)*  
+*Copyright: Michael Holt. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

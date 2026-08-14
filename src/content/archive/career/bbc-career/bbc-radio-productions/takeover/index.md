@@ -8,38 +8,28 @@ order: 658
 
 ### Production Details
 
-**Author:**
+**Author:** Jim Andrew  
+**Broadcast:** 20 August 1969 @ 8.15pm  
+**Channel:** BBC Radio 2
 
-**Broadcast:**  
-**Channel:**Jim Andrew
+**Director:**  
+Alan Ayckbourn
 
-20 August 1969 @ 8.15pm  
-BBC Radio 2**Director:**Alan Ayckbourn**Character**  
-Big John McEoin  
-Mary  
-Reporter  
-Stanley  
-Rodney  
-Alderman Wentworth  
-Kelly  
-Skates  
-Morris  
-Maverick  
-Split  
-Sergeant**Actor**  
-David Mahlowe  
-Ruth Holden  
-Brian Miller  
-Sam Kelly  
-John Linstrum  
-Graham Rigby  
-Chris Canavan  
-Roger Rowland  
-James Beck  
-Peter King  
-Robert Peck  
-Geoffrey Banks
+**Character** **Actor**  
+**Big John McEoin** David Mahlowe  
+**Mary** Ruth Holden  
+**Reporter** Brian Miller  
+**Stanley** Sam Kelly  
+**Rodney** John Linstrum  
+**Alderman Wentworth** Graham Rigby  
+**Kelly** Chris Canavan  
+**Skates** Roger Rowland  
+**Morris** James Beck  
+**Maverick** Peter King  
+**Split** Robert Peck  
+**Sergeant** Geoffrey Banks
 
 ### Notes
 
-○ *Takeover* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Takeover* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

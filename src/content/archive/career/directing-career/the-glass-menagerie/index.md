@@ -8,33 +8,27 @@ order: 459
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Tennessee Williams  
+**New Play:** No  
+**Venue:** Victoria Theatre, Stoke-on-Trent  
+**Staging:** Round
 
-**Venue:**  
-**Staging:**Tennessee Williams  
-No
-
-Victoria Theatre, Stoke-on-Trent  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**To be confirmed, 1963  
-To be confirmed, 1963  
-To be confirmed, 1963
+**First performance:** To be confirmed, 1963  
+**Opening night:** To be confirmed, 1963  
+**Final performance:** To be confirmed, 1963
 
 ### Company Details
 
 **Director:**  
-Alan Ayckbourn**Character**  
-Amanda Winfield  
-Laura, her daughter  
-Tom, her son  
-The Gentleman Caller**Actor**  
-Wanda Moore  
-Jean Robinson  
-Peter King  
-Gordon Reid
+Alan Ayckbourn
+
+**Character** **Actor**  
+**Amanda Winfield** Wanda Moore  
+**Laura, her daughter** Jean Robinson  
+**Tom, her son** Peter King  
+**The Gentleman Caller** Gordon Reid
 
 ### Notes
 
-○ Information about the production was provided by The Michael T Mooney Archive.*All research for this page by Simon Murgatroyd.*
+○ Information about the production was provided by The Michael T Mooney Archive.  
+*All research for this page by Simon Murgatroyd.*

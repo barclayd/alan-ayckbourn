@@ -9,4 +9,5 @@ order: 2352
 ### Quotes
 
 "No one knows more about the theatre than him. I’ll never forget him saying that we knew how to make people laugh and how to create characters. All he could teach us, he said, was how to get the blighters on and off the stage."  
-*(2023)**Copyright: Stephen Mallatratt. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2023)*  
+*Copyright: Stephen Mallatratt. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

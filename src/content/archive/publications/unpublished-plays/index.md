@@ -42,7 +42,9 @@ This page offers a guide to currently unpublished full-length plays written by A
 ○ Constant Companions (2023)  
 *Likely to be published in the future*  
 ○ Show & Tell (2024)  
-*Likely to be published in the future***The 'Grey' Plays**  
+*Likely to be published in the future*  
+**The 'Grey' Plays**  
 The website occasionally receives enquiries about Alan Ayckbourn's **['Grey' plays](/plays/childrens-plays-index/grey-plays)** and whether they are available to read, produce or be will be published.  
 The 'Grey' plays are withdrawn and will never be published nor are they available for production.  
-The majority of them are held in the Ayckbourn Archive at the Borthwick Institute at the University of York and this is the only place where they can currently be accessed for reading.*All research for this page by Simon Murgatroyd.*
+The majority of them are held in the Ayckbourn Archive at the Borthwick Institute at the University of York and this is the only place where they can currently be accessed for reading.  
+*All research for this page by Simon Murgatroyd.*

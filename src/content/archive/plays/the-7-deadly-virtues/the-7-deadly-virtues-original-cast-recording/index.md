@@ -17,7 +17,8 @@ TSJTITR002
 **Availability**  
 **Cassette:** 1984 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director**  
+**Digital:** Not available  
+**Director**  
 **Musical Director**
 
 **Actor**  
@@ -27,7 +28,8 @@ Russell Dixon
 Graeme Eton  
 Lesley Nicol  
 Kenneth Price  
-Liza SadovyAlan Ayckbourn  
+Liza Sadovy  
+Alan Ayckbourn  
 Paul Todd
 
 **Musicians**  
@@ -46,12 +48,16 @@ Paul Todd (synthesiser)
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Actor**  
+**Digital:** Not available  
+**Actor**  
 Lavinia Bertram  
 Michael Cashman  
 Russell Dixon  
 Graeme Eton  
 Lesley Nicol  
 Kenneth Price  
-Liza Sadovy**Musicians**  
-Paul Todd (synthesiser)**Note:** BBC North broadcast a half-hour version of *The 7 Deadly Virtues* entitled *Deadly Virtues* on 2 March 1984 featuring extracts from the production, which was recorded in Scarborough at the Stephen Joseph Theatre In The Round.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+Liza Sadovy  
+**Musicians**  
+Paul Todd (synthesiser)  
+**Note:** BBC North broadcast a half-hour version of *The 7 Deadly Virtues* entitled *Deadly Virtues* on 2 March 1984 featuring extracts from the production, which was recorded in Scarborough at the Stephen Joseph Theatre In The Round.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

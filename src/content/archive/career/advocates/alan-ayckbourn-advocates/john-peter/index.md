@@ -9,4 +9,5 @@ order: 2356
 ### Quotes
 
 "Comedy ends where tragedy begins. Alan Ayckbourn is different. He hops across the border and capers around like a clown in a minefield while you in the audience hold your breath."  
-*(1991)**Copyright: John Peter. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(1991)*  
+*Copyright: John Peter. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

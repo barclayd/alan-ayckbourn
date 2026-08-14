@@ -14,6 +14,9 @@ The site is administered, compiled, researched and maintained by Alan Ayckbourn'
 **○ How did it develop?**  
 Aside from a life-long interest in Alan Ayckbourn's work; my MA specialised in Alan's plays, culminating in a 65,000 word dissertation. As a result of the two years spent researching the plays, I realised I had a lot of potentially useful information for people interested in Alan's work. Combined with the fact that comparatively little has been published about Alan, I decided in 2002 to create a web-site that could comprehensively offer information on Alan to help future students of his work and to provide a general insight into the plays and their history. During 2005, I was appointed Alan Ayckbourn's personal Archivist and, since then, the website has continued to expand and now draws information from the Ayckbourn Archive, The Bob Watson Archive at the Stephen Joseph Theatre and the website's own digital archive.
 
+**○ Where is the information for the website drawn from?**  
+The information is drawn from a number of sources (programmes, critical works, interviews with Alan Ayckbourn etc), predominantly held in the Digital Ayckbourn Archive (held by Simon Murgatroyd and Haydonning Ltd), the Ayckbourn Archive held at the University Of York and The Bob Watson Archive at the Stephen Joseph Theatre. Where possible it has been consistently cross-checked for accuracy.
+
 **○ How is it administered?**  
 The website is generally updated on a daily basis. The aim is to announce news as it happens, whilst continually improving the site and adding new material to it. The site currently stands at more than 4,000 pages of material relating to Alan Ayckbourn and the Stephen Joseph Theatre.
 

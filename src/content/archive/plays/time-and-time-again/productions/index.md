@@ -19,17 +19,14 @@ play: "time-and-time-again"
 
 **Stage Manager:** Jenny Smith  
 **Deputy Stage Manager:** David Millard  
-**Assistant Stage Manager:** Gerson Grant**Character**  
-Leonard  
-Graham, his brother-in-law  
-Anna, his sister  
-Joan  
-Peter, her fiancé**Actor**  
-Christopher Godwin  
-Roger Kemp  
-Eve Shickle  
-Gil Osborne  
-Tim Meats
+**Assistant Stage Manager:** Gerson Grant
+
+**Character** **Actor**  
+**Leonard** Christopher Godwin  
+**Graham, his brother-in-law** Roger Kemp  
+**Anna, his sister** Eve Shickle  
+**Joan** Gil Osborne  
+**Peter, her fiancé** Tim Meats
 
 ### London Premiere (1972)
 
@@ -41,17 +38,14 @@ Tim Meats
 
 **Director:** Eric Thompson  
 **Design:** Alan Tagg  
-**Lighting:** Mick Hughes**Character**  
-Leonard  
-Graham, his brother-in-law  
-Anna, his sister  
-Joan  
-Peter, her fiancé**Actor**  
-Tom Courtenay  
-Michael Robbins  
-Bridget Turner  
-Cheryl Kennedy  
-Barry Andrews
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Leonard** Tom Courtenay  
+**Graham, his brother-in-law** Michael Robbins  
+**Anna, his sister** Bridget Turner  
+**Joan** Cheryl Kennedy  
+**Peter, her fiancé** Barry Andrews
 
 ### Tour: Post-West End (1974)
 
@@ -62,17 +56,14 @@ Barry Andrews
 **Director:** Roy Patrick  
 **Design:** Alan Tagg  
 **Lighting:** Paul Vickers  
-**Producer:** Cameron Macintosh**Character**  
-Leonard  
-Graham, his brother-in-law  
-Anna, his sister  
-Joan  
-Peter, her fiancé**Actor**  
-James Bolam  
-John Junkin  
-Ann Windsor  
-Sue Robinson  
-Lloyd McQuire
+**Producer:** Cameron Macintosh
+
+**Character** **Actor**  
+**Leonard** James Bolam  
+**Graham, his brother-in-law** John Junkin  
+**Anna, his sister** Ann Windsor  
+**Joan** Sue Robinson  
+**Peter, her fiancé** Lloyd McQuire
 
 ### Tour (1983)
 
@@ -83,17 +74,14 @@ Lloyd McQuire
 **Director:** Kim Grant  
 **Design:** Alan Miller Buford  
 **Lighting:** Chris Olney  
-**Producer:** Paul Elliott**Character**  
-Leonard  
-Graham, his brother-in-law  
-Anna, his sister  
-Joan  
-Peter, her fiancé**Actor**  
-Nigel Cooke  
-Graeme Eton  
-Anna Curthoys  
-Serena Evans  
-Adam Blackwood
+**Producer:** Paul Elliott
+
+**Character** **Actor**  
+**Leonard** Nigel Cooke  
+**Graham, his brother-in-law** Graeme Eton  
+**Anna, his sister** Anna Curthoys  
+**Joan** Serena Evans  
+**Peter, her fiancé** Adam Blackwood
 
 ### Revival (1986)
 
@@ -112,17 +100,14 @@ Adam Blackwood
 **Deputy Stage Manager:** Pat Fawcett  
 **Deputy Stage Manager:** Toni Jay Lewis  
 **Assistant Stage Manager:** David Parker  
-**Assistant Stage Manager:** Paul Quinn**Character**  
-Leonard  
-Graham, his brother-in-law  
-Anna, his sister  
-Joan  
-Peter, her fiancé**Actor**  
-Nigel Cooke  
-Russell Dixon  
-Helen Atkinson Wood  
-Serena Evans  
-Stephen Mallatratt
+**Assistant Stage Manager:** Paul Quinn
+
+**Character** **Actor**  
+**Leonard** Nigel Cooke  
+**Graham, his brother-in-law** Russell Dixon  
+**Anna, his sister** Helen Atkinson Wood  
+**Joan** Serena Evans  
+**Peter, her fiancé** Stephen Mallatratt
 
 ### Revival (1987)
 
@@ -140,17 +125,16 @@ Stephen Mallatratt
 
 **Stage Manager:** Duncan Lewis  
 **Deputy Stage Manager:** David Parker  
-**Assistant Stage Manager:** Jan Dawson**Character**  
-Leonard  
-Graham, his brother-in-law  
-Anna, his sister  
-Joan  
-Peter, her fiancé**Actor**  
-Nigel Cooke  
-Graeme Eton  
-Anna Curthoys  
-Serena Evans  
-Adam Blackwood**Note:** Whilst this is ostensibly a revival of the 1986 production for a UK / Canadian tour, it did feature a change in three of the five cast members and the addition of a designer for the end-stage / proscenium tour.
+**Assistant Stage Manager:** Jan Dawson
+
+**Character** **Actor**  
+**Leonard** Nigel Cooke  
+**Graham, his brother-in-law** Graeme Eton  
+**Anna, his sister** Anna Curthoys  
+**Joan** Serena Evans  
+**Peter, her fiancé** Adam Blackwood
+
+**Note:** Whilst this is ostensibly a revival of the 1986 production for a UK / Canadian tour, it did feature a change in three of the five cast members and the addition of a designer for the end-stage / proscenium tour.
 
 ### Revival (2005)
 
@@ -167,14 +151,13 @@ Adam Blackwood**Note:** Whilst this is ostensibly a revival of the 1986 producti
 
 **Company Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Andy Hall  
-**Assistant Stage Manager:** Lisa Mellor**Character**  
-Leonard  
-Graham, his brother-in-law  
-Anna, his sister  
-Joan  
-Peter, her fiancé**Actor**  
-Giles New  
-John Branwell  
-Eileen Battye  
-Laura Doddington  
-Neil Grainger*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Lisa Mellor
+
+**Character** **Actor**  
+**Leonard** Giles New  
+**Graham, his brother-in-law** John Branwell  
+**Anna, his sister** Eileen Battye  
+**Joan** Laura Doddington  
+**Peter, her fiancé** Neil Grainger
+
+*All research for this page by Simon Murgatroyd.*

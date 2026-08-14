@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The first page of the only original manuscript for *The Story So Far…* believed to still exist and held in the Ayckbourn Archive in the Borthwick Institute for Archives at the University of York. This manuscript is substantially different to the heavily revised play *Family Circles* we know today.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-b32203b.jpg)
@@ -44,6 +47,9 @@ The general press release for the world premiere of *The Story So Far…* at The
 ![](./_images/stacks-image-9001ae4.jpg)
 
 Pages from the only known surviving manuscript of *Me Times Me Times Me* donated to the Ayckbourn Archive by David Wood. This script began the rewrite of *The Story So Far…* for a pre-West End tour of the play in 1971 which never reached the West End.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute For Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -78,6 +84,7 @@ The interior of the programme for the London premiere of *Family Circles* at the
 **Copyright:** Orange Tree Theatre  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*     *The Archive Images page is presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images page is presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

@@ -31,4 +31,5 @@ play: "father-of-invention"
 **Notes**  
 ◦ *Father of Invention* was written during 2021 but never produced. It was publicly performed for the first time in a rehearsed reading, directed by Alan Ayckbourn, as part of a fund-raising event for the Stephen Joseph Theatre in 2024.  
 ◦ The character of Marc Resnick would - in actual production - be a character on video.  
-◦ The role of Rupert Onsett was originally cast with Jamie Baughan - who tragically died at the age of 42 during the summer of 2024.*All research for this page by Simon Murgatroyd.*
+◦ The role of Rupert Onsett was originally cast with Jamie Baughan - who tragically died at the age of 42 during the summer of 2024.  
+*All research for this page by Simon Murgatroyd.*

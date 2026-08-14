@@ -29,4 +29,5 @@ A look back to the world premiere of *Absurd Person Singular* at the Library The
 
 **InSights: Why *Absurd Person Singular*?**  
 *Posted: 30 June 2022*  
-Alan Ayckbourn's Archivist Simon Murgatroyd M.A. asks where *Absurd Person Singular* got its unusual title from and what, if any, meaning it has in relation to the play. *The videos on this page are © Simon Murgatroyd, 2021 - 2024, all rights reserved and should not be reproduced, edited or stored in any format without written consent from the copyright holder.*
+Alan Ayckbourn's Archivist Simon Murgatroyd M.A. asks where *Absurd Person Singular* got its unusual title from and what, if any, meaning it has in relation to the play.  
+*The videos on this page are © Simon Murgatroyd, 2021 - 2024, all rights reserved and should not be reproduced, edited or stored in any format without written consent from the copyright holder.*

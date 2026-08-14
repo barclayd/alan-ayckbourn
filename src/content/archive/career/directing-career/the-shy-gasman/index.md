@@ -8,56 +8,37 @@ order: 489
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Leonard Barras  
+**New Play:** Yes  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Leonard Barras  
-Yes
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**16 July 1970  
-16 July 1970  
-2 September 1970
+**First performance:** 16 July 1970  
+**Opening night:** 16 July 1970  
+**Final performance:** 2 September 1970
 
 ### Company Details
 
-**Director:**
+**Director:** Alan Ayckbourn  
+**Stage Manager:** Philip Randell  
+**Deputy Stage Manager:** Graham Phoenix  
+**Assistant Stage Manager:** Gillian Davidson  
+**Assistant Stage Manager:** Jane Douglas
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn
-
-Philip Randell  
-Graham Phoenix  
-Gillian Davidson  
-Jane Douglas**Character**  
-Lindsay  
-Alice  
-Hector  
-Walter  
-Winifred  
-Jim  
-Brenda  
-Kenneth  
-Teddy  
-Rowena**Actor**  
-Joe Dunlop  
-Eve Shickle  
-Robert Peck  
-Ronald Herdman  
-Elisabeth Sladen  
-Robert Peck  
-Stephanie Turner  
-Richard Derrington  
-Piers Rogers  
-Heather Stoney
+**Character** **Actor**  
+**Lindsay** Joe Dunlop  
+**Alice** Eve Shickle  
+**Hector** Robert Peck  
+**Walter** Ronald Herdman  
+**Winifred** Elisabeth Sladen  
+**Jim** Robert Peck  
+**Brenda** Stephanie Turner  
+**Kenneth** Richard Derrington  
+**Teddy** Piers Rogers  
+**Rowena** Heather Stoney
 
 ### Notes
 
-○ *The Shy Gasman* was the second of two world premieres by the writer Leonard Barras at the Library Theatre following ***[A Little Stiff Built Chap](/career/directing-career/a-little-stiff-built-chap)*** in 1969.*All research for this page by Simon Murgatroyd.*
+○ *The Shy Gasman* was the second of two world premieres by the writer Leonard Barras at the Library Theatre following ***[A Little Stiff Built Chap](/career/directing-career/a-little-stiff-built-chap)*** in 1969.  
+*All research for this page by Simon Murgatroyd.*

@@ -28,31 +28,22 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Availability**  
 **Cassette:** Not available  
 **CD:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**  
-**Additional Dialogue**
+**Digital:** Not available
 
-**Character**  
-Miles Coombes  
-Toby Teasdale  
-Lionel Hepplewick  
-Joe Hepplewick  
-Sylvie Bell  
-Celia Teasdale  
-Rowena Coombes  
-Irene PridworthyGordon House  
-Richard Wigmore  
-Alan Ayckbourn
+**Director** Gordon House  
+**Adaptation** Richard Wigmore  
+**Additional Dialogue** Alan Ayckbourn  
+**Character** **Actor**  
+**Miles Coombes** Robin Herford  
+**Toby Teasdale** Robin Herford  
+**Lionel Hepplewick** Robin Herford  
+**Joe Hepplewick** Robin Herford  
+**Sylvie Bell** Lavinia Bertram  
+**Celia Teasdale** Lavinia Bertram  
+**Rowena Coombes** Lavinia Bertram  
+**Irene Pridworthy** Lavinia Bertram
 
-**Actor**  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Robin Herford  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram  
-Lavinia Bertram**Note:** Of the eight major variants of *Intimate Exchanges*, the BBC recorded four: *Events on a Hotel Terrace*; *A Pageant*; *A Game of Golf*; *Love in the Mist*.  
+**Note:** Of the eight major variants of *Intimate Exchanges*, the BBC recorded four: *Events on a Hotel Terrace*; *A Pageant*; *A Game of Golf*; *Love in the Mist*.  
 Additional dialogue was provided by Alan Ayckbourn for a short addition to the first scene of each play. On stage, Celia’s key-decision as to whether to smoke a cigarette or not is made in silence. For the radio version, Alan wrote a short piece of dialogue to make it clear what Celia was doing.
 
 ### Film (1993): Smoking / No Smoking
@@ -76,57 +67,37 @@ Additional dialogue was provided by Alan Ayckbourn for a short addition to the f
 **Blu-ray:** Not available  
 **Digital:** Not available
 
-\* The region 2 DVD of *Smoking* / *No Smoking* is in the French language and does not include English sub-titles. *Smoking* / *No Smoking* has never been commercially released with English sub-titles.**Director**  
-**Adaptation**  
-**Adaptation**  
-**Assistant Director**  
-**Assistant Director**  
-**Continuity**  
-**Photography**  
-**Editing**  
-**Set Designer**  
-**Drawings**  
-**Costume Designer**  
-**Music**  
-**Sound**  
-**Sound**
+\* The region 2 DVD of *Smoking* / *No Smoking* is in the French language and does not include English sub-titles. *Smoking* / *No Smoking* has never been commercially released with English sub-titles.
 
-**Character**  
-Celia Teasdale  
-Rowena Coombes  
-Sylvie Bell  
-Irene Pridworthy  
-Josephine Hamilton  
-Toby Teasdale  
-Miles Coombes  
-Lionel Hepplewick  
-Joe HepplewickAlain Resnais  
-Jean-Pierre Bacri  
-Agnes Jaoui  
-Daniel Deleforges  
-Olivier Trémolet  
-Sylvette Baudrot  
-Renato Berta  
-Albert Jurgenson  
-Jacques Saulnier  
-Floc'h  
-Jackie Budin  
-John Pattison  
-Gérard Lamps  
-Bernard Bats
+**Director** Alain Resnais  
+**Adaptation** Jean-Pierre Bacri  
+**Adaptation** Agnes Jaoui  
+**Assistant Director** Daniel Deleforges  
+**Assistant Director** Olivier Trémolet  
+**Continuity** Sylvette Baudrot  
+**Photography** Renato Berta  
+**Editing** Albert Jurgenson  
+**Set Designer** Jacques Saulnier  
+**Drawings** Floc'h  
+**Costume Designer** Jackie Budin  
+**Music** John Pattison  
+**Sound** Gérard Lamps  
+**Sound** Bernard Bats  
+**Character** **Actor**  
+**Celia Teasdale** Sabine Azéma  
+**Rowena Coombes** Sabine Azéma  
+**Sylvie Bell** Sabine Azéma  
+**Irene Pridworthy** Sabine Azéma  
+**Josephine Hamilton** Sabine Azéma  
+**Toby Teasdale** Pierre Arditi  
+**Miles Coombes** Pierre Arditi  
+**Lionel Hepplewick** Pierre Arditi  
+**Joe Hepplewick** Pierre Arditi
 
-**Actor**  
-Sabine Azéma  
-Sabine Azéma  
-Sabine Azéma  
-Sabine Azéma  
-Sabine Azéma  
-Pierre Arditi  
-Pierre Arditi  
-Pierre Arditi  
-Pierre Arditi**Note:** *Smoking / No Smoking* adapted six of the eight major variations of Intimate Exchanges into two films.
+**Note:** *Smoking / No Smoking* adapted six of the eight major variations of Intimate Exchanges into two films.
 
 **Awards:** *Cesar Awards, France 1994* - Best Actor: Pierre Arditi; Best Director: Alain Resnais; Best Film: Alain Resnais; Best Production Design: Jacques Saulnier; Best Writing: Jean-Pierre Bacri / Agnes Jaoui  
 *Berlin International Film Festival 1994 - Silver Berlin Bear:* Outstanding Single Achievement - Alain Resnais  
 *French Syndicate of Cinema Critics 1994* - Critics Award - Best Film  
-*Prix Louis Delluc 1993* - Prix Louis Delluc - Alain Resnais*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+*Prix Louis Delluc 1993* - Prix Louis Delluc - Alain Resnais  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

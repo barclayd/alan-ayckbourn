@@ -25,35 +25,23 @@ play: "the-revengers-comedies"
 **Deputy Stage Manager:** Lynda Snowden  
 **Assistant Stage Manager:** Sarah Percival  
 **Assistant Stage Manager:** Mike Locke  
-**Assistant Stage Manager:** Marina Kilby**Character**  
-Henry Bell  
-Karen Knightly  
-Bruce Tick  
-Mrs Bulley / Winnie  
-Norma / Tracey  
-Oliver, Karen’s brother  
-Lady Ganton / Veronica  
-Colonel Marcus Lipscott  
-Percy Cutting  
-Councillor Teale/ Hilary Tick  
-Anthony Staxton-Billing  
-Imogen Staxton-Billing  
-Lydia Lucas  
-Graham / Jeremy**Actor**  
-Jon Strickland  
-Christine Kavanagh  
-Jeff Shankley  
-Doreen Andrew  
-Claire Skinner  
-Adam Godley  
-Ursula Jones  
-Donald Douglas  
-Martin Sadler  
-Alwyne Taylor  
-Rupert Vansittart  
-Elizabeth Bell  
-Frances Jeater  
-Frank Lazarus
+**Assistant Stage Manager:** Marina Kilby
+
+**Character** **Actor**  
+**Henry Bell** Jon Strickland  
+**Karen Knightly** Christine Kavanagh  
+**Bruce Tick** Jeff Shankley  
+**Mrs Bulley / Winnie** Doreen Andrew  
+**Norma / Tracey** Claire Skinner  
+**Oliver, Karen’s brother** Adam Godley  
+**Lady Ganton / Veronica** Ursula Jones  
+**Colonel Marcus Lipscott** Donald Douglas  
+**Percy Cutting** Martin Sadler  
+**Councillor Teale/ Hilary Tick** Alwyne Taylor  
+**Anthony Staxton-Billing** Rupert Vansittart  
+**Imogen Staxton-Billing** Elizabeth Bell  
+**Lydia Lucas** Frances Jeater  
+**Graham / Jeremy** Frank Lazarus
 
 ### London Premiere (1991)
 
@@ -65,38 +53,25 @@ Frank Lazarus
 **Director:** Alan Ayckbourn  
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
-**Costumes:** Lindy Hemming**Character**  
-Henry Bell  
-Karen Knightly  
-Percy Cutting  
-Mrs Bulley / Winnie  
-Norma, a servant  
-Oliver, Karen’s brother  
-Lady Ganton / Lydia Lucas  
-Colonel Marcus Lipscott  
-Councillor Teale / Hilary  
-Anthony Staxton-Billing  
-Imogen Staxton-Billing  
-Tracey Willingforth  
-Bruce Tick  
-Graham / Jeremy  
-Veronica Webb  
-Fireman / Motor-Cyclist  
-Eugene Chase**Actor**  
-Griff Rhys Jones  
-Lia Williams  
-Raymond Sawyer  
-Doreen Andrew  
-Rose Keegan  
-Adam Godley  
-Lavinia Bertram  
-Jeffry Wickham  
-Hazel Ellerby  
-Rupert Vansittart  
-Joanna Lumley  
-Nina Young  
-Jeff Shankley  
-Geoffrey Whitehead  
-Jennifer Piercey  
-Christopher Birch  
-Nicholas Palliser*All research for this page by Simon Murgatroyd.*
+**Costumes:** Lindy Hemming
+
+**Character** **Actor**  
+**Henry Bell** Griff Rhys Jones  
+**Karen Knightly** Lia Williams  
+**Percy Cutting** Raymond Sawyer  
+**Mrs Bulley / Winnie** Doreen Andrew  
+**Norma, a servant** Rose Keegan  
+**Oliver, Karen’s brother** Adam Godley  
+**Lady Ganton / Lydia Lucas** Lavinia Bertram  
+**Colonel Marcus Lipscott** Jeffry Wickham  
+**Councillor Teale / Hilary** Hazel Ellerby  
+**Anthony Staxton-Billing** Rupert Vansittart  
+**Imogen Staxton-Billing** Joanna Lumley  
+**Tracey Willingforth** Nina Young  
+**Bruce Tick** Jeff Shankley  
+**Graham / Jeremy** Geoffrey Whitehead  
+**Veronica Webb** Jennifer Piercey  
+**Fireman / Motor-Cyclist** Christopher Birch  
+**Eugene Chase** Nicholas Palliser
+
+*All research for this page by Simon Murgatroyd.*

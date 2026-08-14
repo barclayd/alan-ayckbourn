@@ -8,34 +8,26 @@ order: 641
 
 ### Production Details
 
-**Author:**
+**Author:** Patrick Clifford  
+**Broadcast:** 4 October 1967 @ 3pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Patrick Clifford
+**Director:**  
+Alan Ayckbourn
 
-4 October 1967 @ 3pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Roger  
-Clarissa  
-Chairman  
-Chairman's Wife  
-Gribble  
-Mother  
-Father  
-Other roles  
-Other roles  
-Other roles**Actor**  
-George Layton  
-Stephanie Turner  
-Leonard Fenton  
-Penelope Lee  
-Roger Rowland  
-Pauline Jefferson  
-Geoffrey Banks  
-Patricia Doyle  
-Robert Powell  
-Heather Stoney
+**Character** **Actor**  
+**Roger** George Layton  
+**Clarissa** Stephanie Turner  
+**Chairman** Leonard Fenton  
+**Chairman's Wife** Penelope Lee  
+**Gribble** Roger Rowland  
+**Mother** Pauline Jefferson  
+**Father** Geoffrey Banks  
+**Other roles** Patricia Doyle  
+**Other roles** Robert Powell  
+**Other roles** Heather Stoney
 
 ### Notes
 
-○ *The Loyalty Test* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Loyalty Test* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

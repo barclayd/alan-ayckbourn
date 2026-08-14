@@ -44,4 +44,5 @@ During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at
 "The hero, Alan Ayckbourn, who wrote the play under a pen name, shows his versatility by appearing in several disguises, among which is a clever impersonation of an American woman."
 
 **Review extract from Scarborough Evening News** (30 July 1960)  
-"Alan Ayckbourn leaps from disguise to disguise in *Love After All*, the farce he wrote under the name Roland Allen, and scores a tremendous character acting hit at Scarborough's Library Theatre."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn leaps from disguise to disguise in *Love After All*, the farce he wrote under the name Roland Allen, and scores a tremendous character acting hit at Scarborough's Library Theatre."  
+*All research for this page by Simon Murgatroyd.*

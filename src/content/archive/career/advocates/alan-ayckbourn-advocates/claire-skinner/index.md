@@ -9,4 +9,5 @@ order: 2335
 ### Quotes
 
 "Ayckbourn's plays are amazing. I honestly think it's time for a major season of his work."  
-*(2010)**Copyright: Claire Skinner. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2010)*  
+*Copyright: Claire Skinner. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

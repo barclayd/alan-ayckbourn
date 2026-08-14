@@ -21,15 +21,13 @@ play: "callisto-5"
 **Stage Manager:** Joanne Rolfe  
 **Deputy Stage Manager:** Marina Kilby  
 **Deputy Stage Manager:** Jane Tynan  
-**Assistant Stage Manager:** Patricia Swales**Character**  
-Jem  
-DAMARIS / Cass  
-Voice of IRIS / Keren  
-The Monster **Actor**  
-Simon Cox  
-Nigel Anthony  
-Tam Hoskyns  
-Jeannie Swales (uncredited)
+**Assistant Stage Manager:** Patricia Swales
+
+**Character** **Actor**  
+**Jem** Simon Cox  
+**DAMARIS / Cass** Nigel Anthony  
+**Voice of IRIS / Keren** Tam Hoskyns  
+**The Monster** Jeannie Swales (uncredited)
 
 ### Callisto 5: North American Premiere (2005)
 
@@ -46,15 +44,13 @@ Jeannie Swales (uncredited)
 **Film:** Adam Larsen  
 **Props:** Debbie Dunlop
 
-**Stage Manager:** Katherine C. Mielke**Character**  
-Jem  
-DAMARIS / Cass  
-Voice of IRIS / Keren  
-Elise**Actor**  
-Eben Kuhns  
-Michael John Casey  
-Amy McWilliams  
-Emma Stone
+**Stage Manager:** Katherine C. Mielke
+
+**Character** **Actor**  
+**Jem** Eben Kuhns  
+**DAMARIS / Cass** Michael John Casey  
+**Voice of IRIS / Keren** Amy McWilliams  
+**Elise** Emma Stone
 
 ### Callisto#7: World Premiere (1999)
 
@@ -72,14 +68,13 @@ Emma Stone
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Charlotte Hall**Character**  
-Jodi  
-Jem  
-PADWAC / Cass  
-IRIS / Keren  
-The Monster**Actor**  
-Charlie Hayes  
-Lindsey Fawcett  
-Mark Stratton  
-Sherry Baines  
-Sherry Baines (uncredited)*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Charlotte Hall
+
+**Character** **Actor**  
+**Jodi** Charlie Hayes  
+**Jem** Lindsey Fawcett  
+**PADWAC / Cass** Mark Stratton  
+**IRIS / Keren** Sherry Baines  
+**The Monster** Sherry Baines (uncredited)
+
+*All research for this page by Simon Murgatroyd.*

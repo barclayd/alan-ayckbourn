@@ -23,21 +23,16 @@ play: "gameplan"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Corrie Jamie Cooper  
-**Assistant Stage Manager:** Shane Thom**Character**  
-Lynette Saxon  
-Sorrel Saxon  
-Kelly Butcher  
-Leo Tyler  
-Dan Endicott  
-PC Grace Page  
-Troy Stephens**Actor**  
-Jacqueline King  
-Saskia Butler  
-Alison Pargeter  
-Robert Austin  
-Tim Faraday  
-Beth Tuckey  
-Bill Champion
+**Assistant Stage Manager:** Shane Thom
+
+**Character** **Actor**  
+**Lynette Saxon** Jacqueline King  
+**Sorrel Saxon** Saskia Butler  
+**Kelly Butcher** Alison Pargeter  
+**Leo Tyler** Robert Austin  
+**Dan Endicott** Tim Faraday  
+**PC Grace Page** Beth Tuckey  
+**Troy Stephens** Bill Champion
 
 ### London Premiere (2002)
 
@@ -50,21 +45,16 @@ Bill Champion
 **Design:** Roger Glossop  
 **Lighting:** Mick Hughes  
 **Costumes:** Christine Wall  
-**Music:** Keith Jarrett**Character**  
-Lynette Saxon  
-Sorrel Saxon  
-Kelly Butcher  
-Leo Tyler  
-Dan Endicott  
-PC Grace Page  
-Troy Stephens**Actor**  
-Jacqueline King  
-Saskia Butler  
-Alison Pargeter  
-Robert Austin  
-Tim Faraday  
-Beth Tuckey  
-Bill Champion
+**Music:** Keith Jarrett
+
+**Character** **Actor**  
+**Lynette Saxon** Jacqueline King  
+**Sorrel Saxon** Saskia Butler  
+**Kelly Butcher** Alison Pargeter  
+**Leo Tyler** Robert Austin  
+**Dan Endicott** Tim Faraday  
+**PC Grace Page** Beth Tuckey  
+**Troy Stephens** Bill Champion
 
 ### Revival (2016)
 
@@ -76,21 +66,16 @@ Bill Champion
 **Director:** Richard Baron  
 **Design:** Ken Harrison  
 **Lighting:** Wayne Dowdeswell  
-**Fight Director:** Raymond Short**Character**  
-Lynette Saxon  
-Sorrel Saxon  
-Kelly Butcher  
-Leo Tyler  
-Dan Endicott  
-PC Grace Page  
-Troy Stephens**Actor**  
-Amanda Osborne  
-Kirsty Mackay  
-Gemma McElhinney  
-Owen Aaronvitch  
-David Mahoney  
-Stephanie Wilson  
-Christopher Price
+**Fight Director:** Raymond Short
+
+**Character** **Actor**  
+**Lynette Saxon** Amanda Osborne  
+**Sorrel Saxon** Kirsty Mackay  
+**Kelly Butcher** Gemma McElhinney  
+**Leo Tyler** Owen Aaronvitch  
+**Dan Endicott** David Mahoney  
+**PC Grace Page** Stephanie Wilson  
+**Troy Stephens** Christopher Price
 
 ### Revival (2019)
 
@@ -102,18 +87,15 @@ Christopher Price
 **Director:** John Cotgrave  
 **Design:** Richard McArtney  
 **Technical:** James Clare  
-**Music:** Paul Chamberlain**Character**  
-Lynette Saxon  
-Sorrel Saxon  
-Kelly Butcher  
-Leo Tyler  
-Dan Endicott  
-PC Grace Page  
-Troy Stephens**Actor**  
-Maria Sykes  
-Melissa Wadsworth  
-Claire Marlein  
-Philip Butterfield  
-Todd Wilson  
-Catherine Traveller  
-Andrew Goulding*All research for this page by Simon Murgatroyd.*
+**Music:** Paul Chamberlain
+
+**Character** **Actor**  
+**Lynette Saxon** Maria Sykes  
+**Sorrel Saxon** Melissa Wadsworth  
+**Kelly Butcher** Claire Marlein  
+**Leo Tyler** Philip Butterfield  
+**Dan Endicott** Todd Wilson  
+**PC Grace Page** Catherine Traveller  
+**Troy Stephens** Andrew Goulding
+
+*All research for this page by Simon Murgatroyd.*

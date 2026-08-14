@@ -23,22 +23,17 @@ play: "whenever"
 
 **Stage Manager:** Dawn Erica Dyson  
 **Deputy Stage Manager:** Fleur Linden Beeley  
-**Assistant Stage Manager:** Charlotte Hall**Character**  
-Emily  
-Clara (aged 12) / Char Tee  
-Mrs Binns / Time Keeper  
-Charity / Clara (aged 66)  
-Woolton / Hoombean  
-Uncle Martin / Nigel Brown  
-Bob / Ziggi  
-Oscar  
-Uncle Lucas / Droid 2**Actor**  
-Alison Pargeter  
-Saskia Butler  
-Sarah Redmond  
-Nicola Sloane  
-Nigel Williams  
-Stefan Bednarczyk  
-Giles Taylor  
-Gavin Lee  
-Richard Banham*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Charlotte Hall
+
+**Character** **Actor**  
+**Emily** Alison Pargeter  
+**Clara (aged 12) / Char Tee** Saskia Butler  
+**Mrs Binns / Time Keeper** Sarah Redmond  
+**Charity / Clara (aged 66)** Nicola Sloane  
+**Woolton / Hoombean** Nigel Williams  
+**Uncle Martin / Nigel Brown** Stefan Bednarczyk  
+**Bob / Ziggi** Giles Taylor  
+**Oscar** Gavin Lee  
+**Uncle Lucas / Droid 2** Richard Banham
+
+*All research for this page by Simon Murgatroyd.*

@@ -27,4 +27,5 @@ order: 2342
 *(2008)*
 
 “In the heyday of his popular success, his influence ran like blood through the veins of theatre - it got everywhere. He gave reps cast-iron hits and audiences something they weren’t getting anywhere else.”  
-*(2019)**Copyright: Paul Allen. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Paul Allen. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

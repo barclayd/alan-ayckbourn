@@ -36,4 +36,5 @@ Alan Ayckbourn says: “This is a new experience for me. Eighty-three plays, God
 
 Nicky Crowther, of PS Publishing, says: “Straddling literary genres for almost a quarter century during which time we have championed work by some of the finest talents in the business, PS Publishing is proud to announce *The Divide*, the debut novel from Alan Ayckbourn, one of the world’s most gifted playwrights.”
 
-*The Divide* is published by PS Publishing and was made available in limited edition hardback with slipcase, hardback and softcover. The PS Publishing website can be found **[here](http://pspublishing.co.uk/index.asp)**.*All research for this page by Simon Murgatroyd.*
+*The Divide* is published by PS Publishing and was made available in limited edition hardback with slipcase, hardback and softcover. The PS Publishing website can be found **[here](http://pspublishing.co.uk/index.asp)**.  
+*All research for this page by Simon Murgatroyd.*

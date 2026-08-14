@@ -17,66 +17,39 @@ play: "a-chorus-of-disapproval"
 **Video:** 1991 (deleted)  
 **DVD (R2):** 2007 (available)  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Screenplay**  
-**Photography**  
-**Photography**  
-**Editor**  
-**Executive Editor**  
-**Design**  
-**Music**  
-**Choreography**  
-**Sound**  
-**Sound**  
-**Sound**  
-**Sound**
+**Digital:** Not available
 
-**Character**  
-Dafydd Ap Llewellyn  
-Guy Jones  
-Ted Washbrook  
-Enid Washbrook  
-Ian Hubbard  
-Jarvis Huntley-Pike  
-Linda Washbrook  
-Bridget Baines  
-Hannah Ap Llewellyn  
-Fay Hubbard  
-Rebecca Huntley-Pike  
-Crispin Usher  
-Mr. Ames  
-Mrs Bawden  
-Girl at work  
-Woman in theatre  
-Hilda ShawMichael Winner  
-Michael Winner  
-Alan Jones  
-David Wynn-Jones  
-Michael Winner  
-Chris Barnes  
-Peter Young  
-John du Prez  
-Sandra Blair  
-Bob Taylor  
-David Old  
-Tony Lenny  
-Lionel Selwyn
+**Director** Michael Winner  
+**Screenplay** Michael Winner  
+**Photography** Alan Jones  
+**Photography** David Wynn-Jones  
+**Editor** Michael Winner  
+**Executive Editor** Chris Barnes  
+**Design** Peter Young  
+**Music** John du Prez  
+**Choreography** Sandra Blair  
+**Sound** Bob Taylor  
+**Sound** David Old  
+**Sound** Tony Lenny  
+**Sound** Lionel Selwyn  
+**Character** **Actor**  
+**Dafydd Ap Llewellyn** Anthony Hopkins  
+**Guy Jones** Jeremy Irons  
+**Ted Washbrook** Richard Briers  
+**Enid Washbrook** Barbara Ferris  
+**Ian Hubbard** Gareth Hunt  
+**Jarvis Huntley-Pike** Lionel Jeffries  
+**Linda Washbrook** Patsy Kensit  
+**Bridget Baines** Alexandra Pigg  
+**Hannah Ap Llewellyn** Prunella Scales  
+**Fay Hubbard** Jenny Seagrove  
+**Rebecca Huntley-Pike** Sylvia Syms  
+**Crispin Usher** Pete Lee-Wilson  
+**Mr. Ames** David King  
+**Mrs Bawden** Audrey Trotter  
+**Girl at work** Dinah May  
+**Woman in theatre** Amanda Mainard  
+**Hilda Shaw** Anne Priestley
 
-**Actor**  
-Anthony Hopkins  
-Jeremy Irons  
-Richard Briers  
-Barbara Ferris  
-Gareth Hunt  
-Lionel Jeffries  
-Patsy Kensit  
-Alexandra Pigg  
-Prunella Scales  
-Jenny Seagrove  
-Sylvia Syms  
-Pete Lee-Wilson  
-David King  
-Audrey Trotter  
-Dinah May  
-Amanda Mainard  
-Anne PriestleyFor further details about the film adaptation of *A Chorus Of Disapproval*, visit the **[From Page To Stage To Screen](/plays/a-chorus-of-disapproval/winner-michael)** page which contains a background to the making of the film.*All research for this page by Simon Murgatroyd.*
+For further details about the film adaptation of *A Chorus Of Disapproval*, visit the **[From Page To Stage To Screen](/plays/a-chorus-of-disapproval/winner-michael)** page which contains a background to the making of the film.  
+*All research for this page by Simon Murgatroyd.*

@@ -21,24 +21,17 @@ play: "earth-angel"
 **Sound:** Alan Ayckbourn  
 **Associate Sound:** Ernest Acquah  
 **Wardrobe Supervisor:** Julia Perry-Mook  
-**Casting:** Sarah Hughes CDG**Characters**  
-Norah  
-Adrian  
-Maxine  
-Daniel  
-Gerald  
-Hugo
+**Casting:** Sarah Hughes CDG
 
-**Company Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:****Actors**  
-Elizabeth Boag  
-Stuart Fox  
-Liza Goddard  
-Iskandar Eaton  
-Russell Richardson  
-Hayden Wood
+**Characters** **Actors**  
+**Norah** Elizabeth Boag  
+**Adrian** Stuart Fox  
+**Maxine** Liza Goddard  
+**Daniel** Iskandar Eaton  
+**Gerald** Russell Richardson  
+**Hugo** Hayden Wood  
+**Company Stage Manager:** Fleur Linden-Beeley  
+**Deputy Stage Manager:** Sue Volans  
+**Assistant Stage Manager:** Anna Reid
 
-Fleur Linden-Beeley  
-Sue Volans  
-Anna Reid*All research for this page by Simon Murgatroyd.*
+*All research for this page by Simon Murgatroyd.*

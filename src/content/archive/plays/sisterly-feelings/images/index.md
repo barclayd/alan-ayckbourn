@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 The Ayckbourn Archive at the Borthwick Institute for Archives at the University of York holds a selection of handwritten notes by Alan Ayckbourn for *Sisterly Feelings*. This page includes alternative titles for the play as well as a thumbnail sketch of the proposed set.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-bac4637.jpg)
@@ -23,6 +26,9 @@ The Ayckbourn Archive at the Borthwick Institute for Archives at the University 
 
 The branching nature of *Sisterly Feelings* was always embedded in the play since its conception by the author. However, it was initially a more complex structure - whose form the author would eventually use in *Intimate Exchanges*. This is an sketch of the abandoned *Sisterly Feelings* structure.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-917b7c2.jpg)
@@ -30,6 +36,9 @@ The branching nature of *Sisterly Feelings* was always embedded in the play sinc
 ![](./_images/stacks-image-77ed958.jpg)
 
 This continues the initial more complex structure of *Sisterly Feelings* but with now recognisable character names in place. This is the last reference to the branching structure later used for *Intimate Exchanges* in archive before Alan reverted to a less complex random structure for *Sisterly Feelings*.
+
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
 
 *Do not reproduce images without permission of the copyright holder.*
 
@@ -42,6 +51,7 @@ The programme for the National Theatre's production of *Sisterly Feelings* inclu
 **Copyright:** National Theatre  
 **Holding:** Borthwick Institute for Archives
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

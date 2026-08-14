@@ -8,14 +8,14 @@ order: 533
 
 ### Production Details
 
-****Play:** The Ornamental Hermit** **Character** **Actor**  
-****Author:** Catherine Prynne** **Bensted** Frank Mills  
-****First performance:** 1 August 1957** **Michael Bridges** Clive Goodwin  
-****Final performance:** 6 September 1957** **Violet** Anne Taylor  
-****Venue:** The Library Theatre, Scarborough** **Emma Totteridge** Betty Cardno  
-****Staging:** Round** **Sue** Shirley Jacobs  
-****Director:** Rodney Wood** **Lewis Finbow** Malcolm Rogers  
-****Stage Manager:** Alan Ayckbourn** **Jack Bensted** Alan Ayckbourn
+**Play:** The Ornamental Hermit **Character** **Actor**  
+**Author:** Catherine Prynne **Bensted** Frank Mills  
+**First performance:** 1 August 1957 **Michael Bridges** Clive Goodwin  
+**Final performance:** 6 September 1957 **Violet** Anne Taylor  
+**Venue:** The Library Theatre, Scarborough **Emma Totteridge** Betty Cardno  
+**Staging:** Round **Sue** Shirley Jacobs  
+**Director:** Rodney Wood **Lewis Finbow** Malcolm Rogers  
+**Stage Manager:** Alan Ayckbourn **Jack Bensted** Alan Ayckbourn
 
 ### Quotes & Notes
 
@@ -32,4 +32,5 @@ The production was also performed as part of the Studio Theatre Club in London f
 "Mr Clive Goodwin was, however, natural, and acceptable as the young man and Mr Alan Ayckbourn at the end gave a lively account of a young country-bred poet of an engaging dishevelment."
 
 **Review extract from The Stage** (19 September 1957)  
-"Character parts which have the benefit of some assured writing are played accurately and amusingly by Anne Taylor, Alan Ayckbourn, Frank Mills and Malcolm Rogers."*All research for this page by Simon Murgatroyd.*
+"Character parts which have the benefit of some assured writing are played accurately and amusingly by Anne Taylor, Alan Ayckbourn, Frank Mills and Malcolm Rogers."  
+*All research for this page by Simon Murgatroyd.*

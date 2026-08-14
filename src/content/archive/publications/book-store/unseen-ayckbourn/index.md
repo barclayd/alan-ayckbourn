@@ -19,10 +19,12 @@ The book also contains a biography of the playwright as well as a complete list 
 **Title:** Unseen Ayckbourn  
 **Author:** Simon Murgatroyd  
 **Published:** 2023  
-**Price:** £15 (P&P included - UK only) **Pages:** 230 (B/W)  
+**Price:** £15 (P&P included - UK only)  
+**Pages:** 230 (B/W)  
 **Format:** Softcover, A5  
 **Publisher:** Lulu Books  
-**ISBN:** 9781447761723   [![](./_images/stacks-image-16c31d0-300x452.jpg)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
+**ISBN:** 9781447761723  
+[![](./_images/stacks-image-16c31d0-300x452.jpg)](http://www.lulu.com/shop/simon-murgatroyd/unseen-ayckbourn-illustrated-edition/paperback/product-22915288.html)
 
 **£15.00**  
 UK only - includes  

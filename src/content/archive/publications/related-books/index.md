@@ -5,7 +5,8 @@ order: 846
 ---
 
 This page contains details of books and publications which contain references to or contributions from Alan Ayckbourn.  
-**\*** indicate out of print**○ Anger And After - A Guide To The New British Drama**  
+**\*** indicate out of print  
+**○ Anger And After - A Guide To The New British Drama**  
 Author: John Russell Taylor  
 *Penguin, 1963, ISBN: N/A*
 
@@ -95,7 +96,8 @@ Author: Brian Johnston
 
 **○ Must Close Saturday: The Decline and Fall of the British Musical Flop**  
 Author: Adrian Wright  
-*Boydell Press, ISBN 978-1783272358***○ Myth & Gospel In The Fiction Of John Updike**  
+*Boydell Press, ISBN 978-1783272358*  
+**○ Myth & Gospel In The Fiction Of John Updike**  
 Author: John McTavish  
 *Cascade Books, 2016, ISBN 9781498225069*
 
@@ -185,4 +187,5 @@ Authors: Vicky ireland & Paul Harman
 
 **○ 50 Years New** (click **[here](/publications/book-store/a-round-50)** to buy)  
 Author: Simon Murgatroyd  
-*Stephen Joseph Theatre, 2005, ISBN: N/A**All research for this page by Simon Murgatroyd.*
+*Stephen Joseph Theatre, 2005, ISBN: N/A*  
+*All research for this page by Simon Murgatroyd.*

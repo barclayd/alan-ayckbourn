@@ -24,13 +24,15 @@ play: "family-album"
 
 **Deputy Stage Manager:** Sue Volans  
 **Assistant Stage Manager:** Jude Deeno  
-**Assistant Stage Manager:** David Lomond**Characters**  
+**Assistant Stage Manager:** David Lomond  
+**Characters**  
 John Stanton  
 Peggy Stanton  
 Sandra Dickens  
 Alison Stanton-Hicks  
 Jess Stanton-Hicks  
-Removal Men**Actors**  
+Removal Men  
+**Actors**  
 Antony Eden  
 Georgia Burnell  
 Frances Marshall  
@@ -41,4 +43,5 @@ David Lomond
 
 ### Notes
 
-○ The role of the two - silent -removal men, present in the 1952 and 2022 aspects of the play were played by the Assistant Stage Managers.*All research for this page by Simon Murgatroyd.*
+○ The role of the two - silent -removal men, present in the 1952 and 2022 aspects of the play were played by the Assistant Stage Managers.  
+*All research for this page by Simon Murgatroyd.*

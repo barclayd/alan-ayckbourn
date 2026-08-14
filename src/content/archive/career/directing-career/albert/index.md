@@ -8,44 +8,31 @@ order: 433
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Richard Harris  
+**New Play:** No  
+**Venue:** The Library Theatre  
+**Location:** Concert Room, Scarborough Library  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Richard Harris  
-No
-
-The Library Theatre  
-Concert Room, Scarborough Library  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**24 June 1974  
-24 June 1974  
-10 August 1974
+**First performance:** 24 June 1974  
+**Opening night:** 24 June 1974  
+**Final performance:** 10 August 1974
 
 ### Company Details
 
-**Director:**  
-**Costumes:**
+**Director:** Alan Ayckbourn  
+**Costumes:** Christine Welch  
+**Stage Manager:** David Millard  
+**Deputy Stage Manager:** Trevor John-Smith  
+**Assistant Stage Manager:** Helga Wood  
+**Assistant Stage Manager:** Kevin Wood
 
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Christine Welch
-
-David Millard  
-Trevor John-Smith  
-Helga Wood  
-Kevin Wood**Character**  
-Karin  
-Nico  
-Albert**Actor**  
-Christine Welch  
-Ronald Herdman  
-Christopher Godwin
+**Character** **Actor**  
+**Karin** Christine Welch  
+**Nico** Ronald Herdman  
+**Albert** Christopher Godwin
 
 ### Notes
 
-○ *Albert* was presented in a double bill with ***[Black Comedy](/career/directing-career/black-comedy)***.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Albert* was presented in a double bill with ***[Black Comedy](/career/directing-career/black-comedy)***.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

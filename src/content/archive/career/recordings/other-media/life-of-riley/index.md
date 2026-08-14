@@ -29,34 +29,24 @@ This page contains details of recordings and adaptations of Alan Ayckbourn's pla
 **Video:** Not available  
 **DVD:** 2015 (available)  
 **Blu-ray:** 2015 (available)  
-**Digital:** 2015 (available)**Director**  
-**Adaptation**  
-**Photography**  
-**Music**  
-**Sound Design**  
-**Production Design**
+**Digital:** 2015 (available)
 
-**Character**  
-Kathryn  
-Monica  
-Tamara  
-Simeon  
-Colin  
-Jack  
-TillyAlain Resnais  
-Laurent Herbiet  
-Dominique Bouilleret  
-Mark Snow  
-Jean-Pierre Duret  
-Jacques Saulnier
+**Director** Alain Resnais  
+**Adaptation** Laurent Herbiet  
+**Photography** Dominique Bouilleret  
+**Music** Mark Snow  
+**Sound Design** Jean-Pierre Duret  
+**Production Design** Jacques Saulnier  
+**Character** **Actor**  
+**Kathryn** Sabine Azéma  
+**Monica** Sandrine Kiberlain  
+**Tamara** Caroline Silhol  
+**Simeon** André Dussolier  
+**Colin** Hippolyte Giradot  
+**Jack** Michel Vuillermoz  
+**Tilly** Alba Gaia Bellugi
 
-**Actor**  
-Sabine Azéma  
-Sandrine Kiberlain  
-Caroline Silhol  
-André Dussolier  
-Hippolyte Giradot  
-Michel Vuillermoz  
-Alba Gaia Bellugi**Note:** *Aimer, Boire et Chanter* was the last film to be made by Alain Resnais, who died on 1 March 2014. It was his third adaptation of an Alan Ayckbourn film following *Smoking / No Smoking* and *Private Fears In Public Places*.
+**Note:** *Aimer, Boire et Chanter* was the last film to be made by Alain Resnais, who died on 1 March 2014. It was his third adaptation of an Alan Ayckbourn film following *Smoking / No Smoking* and *Private Fears In Public Places*.
 
-**Awards:** *Berlinale 2014* - Silver Bear Alfred Bauer Prize.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Awards:** *Berlinale 2014* - Silver Bear Alfred Bauer Prize.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*

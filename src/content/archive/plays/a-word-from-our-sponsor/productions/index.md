@@ -22,22 +22,18 @@ play: "a-word-from-our-sponsor"
 
 **Stage Manager:** Philip Rees  
 **Deputy Stage Manager:** Sharon Perchard  
-**Assistant Stage Manager:** Georgina Samuels**Character**  
-Harry, a vicar  
-Janice, a widow  
-Gussie, her companion  
-Francis, a chemist  
-Nonie, his wife & bookseller  
-Rache, their daughter  
-Earl, a businessman  
-Valda  
-Valder**Actor**  
-Peter Forbes  
-Eileen Page  
-Sophie Winter\*  
-Christopher Webber  
-Prue Clarke  
-Alison Burrows  
-Graham Kent  
-Kate Arneil  
-Dale Rapley\* The role of Gussie was taken by Phyllida Hancock when the play transferred to the Chichester Festival Theatre immediately following its world premiere production.*All research for this page by Simon Murgatroyd.*
+**Assistant Stage Manager:** Georgina Samuels
+
+**Character** **Actor**  
+**Harry, a vicar** Peter Forbes  
+**Janice, a widow** Eileen Page  
+**Gussie, her companion** Sophie Winter\*  
+**Francis, a chemist** Christopher Webber  
+**Nonie, his wife & bookseller** Prue Clarke  
+**Rache, their daughter** Alison Burrows  
+**Earl, a businessman** Graham Kent  
+**Valda** Kate Arneil  
+**Valder** Dale Rapley
+
+\* The role of Gussie was taken by Phyllida Hancock when the play transferred to the Chichester Festival Theatre immediately following its world premiere production.  
+*All research for this page by Simon Murgatroyd.*

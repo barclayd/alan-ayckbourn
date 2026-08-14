@@ -9,4 +9,5 @@ order: 2330
 ### Quotes
 
 "I will forever be grateful for his genius and his warmth. To be directed by him in *By Jeeves* was an experience that I will treasure forever. It was so much fun. I would do it again in a heartbeat. Nobody does nuanced comedy like Alan."  
-*(2019)**Copyright: Nadim Naaman. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+*(2019)*  
+*Copyright: Nadim Naaman. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

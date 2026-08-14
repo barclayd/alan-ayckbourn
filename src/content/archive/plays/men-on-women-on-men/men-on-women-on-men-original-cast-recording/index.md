@@ -16,14 +16,16 @@ play: "men-on-women-on-men"
 **Availability**  
 **Cassette:** 1978 (deleted)  
 **CD:** Not available  
-**Digital:** Not available**Director**  
+**Digital:** Not available  
+**Director**  
 **Musical Director**
 
 **Actor**  
 Malcolm Hebden  
 Lavinia Bertram  
 Robin Murphy  
-Fiona MathiesonAlan Ayckbourn  
+Fiona Mathieson  
+Alan Ayckbourn  
 Paul Todd
 
 **Musicians**  
@@ -44,7 +46,8 @@ Paul Todd (piano / percussion)
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
+**Digital:** Not available  
+**Director**  
 **Musical Director**  
 **Design**  
 **Arrangements**
@@ -53,7 +56,8 @@ Paul Todd (piano / percussion)
 Malcolm Hebden  
 Lavinia Bertram  
 Robin Murphy  
-Alison SkilbeckAlan Ayckbourn  
+Alison Skilbeck  
+Alan Ayckbourn  
 Paul Todd  
 David Millard  
 John Brown & Paul Todd
@@ -65,4 +69,6 @@ Ian Hodgson (drums)
 Eric Kershaw (guitar)  
 Ian Smith (synthesiser)  
 Peter Birkby (percussion)  
-John Brown (clarinet / saxophone)**Note:** This television broadcast marked the television directing debut of Alan Ayckbourn.*All research for this page by Simon Murgatroyd.*
+John Brown (clarinet / saxophone)  
+**Note:** This television broadcast marked the television directing debut of Alan Ayckbourn.  
+*All research for this page by Simon Murgatroyd.*

@@ -15,9 +15,12 @@ play: "ernies-incredible-illucinations"
 **Production:** BBC Radio for Schools
 
 **Availability**  
-Not available**Director**Unknown
+Not available  
+**Director**  
+Unknown
 
-No other production details are known**Note:** *Ernie's Incredible Illucinations* was reproduced in the teacher's guide for the Spring 1974 series of BBC Radio For Schools' *Listening and Writing*. This accompanied the radio series and was, essentially, a teacher's guide to the items being broadcast. Sadly, the publication gives no further details about the play and no details have been found from other sources.
+No other production details are known  
+**Note:** *Ernie's Incredible Illucinations* was reproduced in the teacher's guide for the Spring 1974 series of BBC Radio For Schools' *Listening and Writing*. This accompanied the radio series and was, essentially, a teacher's guide to the items being broadcast. Sadly, the publication gives no further details about the play and no details have been found from other sources.
 
 ### Television (1987)
 
@@ -32,34 +35,24 @@ No other production details are known**Note:** *Ernie's Incredible Illucinations
 **Video:** Not available  
 **DVD:** Not available  
 **Blu-ray:** Not available  
-**Digital:** Not available**Director**  
-**Adaptation**  
-**Design**  
-**Producer**
+**Digital:** Not available
 
-**Character**  
-Ernie  
-Mum  
-Dad  
-Doctor  
-German Officer  
-Attendant  
-Librarian  
-Intellectual Lady  
-TrampColin Cant  
-Chris Barlas  
-Bill Noble  
-Paul Stone
+**Director** Colin Cant  
+**Adaptation** Chris Barlas  
+**Design** Bill Noble  
+**Producer** Paul Stone  
+**Character** **Actor**  
+**Ernie** Anthony Flynn  
+**Mum** Melanie Kilburn  
+**Dad** Tim Barker  
+**Doctor** John Landry  
+**German Officer** John Forgeham  
+**Attendant** Ian Harvey  
+**Librarian** Mary Lincoln  
+**Intellectual Lady** Marie Collett  
+**Tramp** Ian MacKenzie
 
-**Actor**  
-Anthony Flynn  
-Melanie Kilburn  
-Tim Barker  
-John Landry  
-John Forgeham  
-Ian Harvey  
-Mary Lincoln  
-Marie Collett  
-Ian MacKenzie**Note:** *Ernie's Incredible Illucinations* was initially broadcast on BBC1 on 11 November 1987; it was then repeated on BBC2 at 11.35am on 15 November 1987 and on BBC1 on 15 June 1989 at 4.35pm. It is believed these are the only times the adaptation has been broadcast on television.*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
+**Note:** *Ernie's Incredible Illucinations* was initially broadcast on BBC1 on 11 November 1987; it was then repeated on BBC2 at 11.35am on 15 November 1987 and on BBC1 on 15 June 1989 at 4.35pm. It is believed these are the only times the adaptation has been broadcast on television.  
+*All research for this page is by Simon Murgatroyd and should not be reproduced without permission.*
 
 ![](./_images/stacks-image-62ab1e7.jpg)

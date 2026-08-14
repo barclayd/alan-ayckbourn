@@ -8,39 +8,29 @@ order: 646
 
 ### Production Details
 
-**Author:**
+**Author:** Robert Storey  
+**Broadcast:** 31 August 1966 @ 3pm  
+**Channel:** BBC Home Service
 
-**Broadcast:**  
-**Channel:**Robert Storey
+**Director:**  
+Alan Ayckbourn
 
-31 August 1966 @ 3pm  
-BBC Home Service**Director:**Alan Ayckbourn**Character**  
-Cliff  
-Fay  
-Tony  
-Bert  
-Stannaway  
-Dillicroft  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles  
-Other roles**Actor**  
-Geoffrey Hinsliff  
-Elizabeth Bell  
-Bernard Gallagher  
-Bert Palmer  
-Ralph Hallett  
-David Mahlowe  
-Ronald Harvi  
-Roy Minton  
-Catherine Naish  
-Barbara Mullaney  
-Joanna Tope  
-Barbara Greenhalgh
+**Character** **Actor**  
+**Cliff** Geoffrey Hinsliff  
+**Fay** Elizabeth Bell  
+**Tony** Bernard Gallagher  
+**Bert** Bert Palmer  
+**Stannaway** Ralph Hallett  
+**Dillicroft** David Mahlowe  
+**Other roles** Ronald Harvi  
+**Other roles** Roy Minton  
+**Other roles** Catherine Naish  
+**Other roles** Barbara Mullaney  
+**Other roles** Joanna Tope  
+**Other roles** Barbara Greenhalgh
 
 ### Notes
 
 ○ Joanna Tope and Catherine Naish had both previously worked with Alan Ayckbourn on the world premiere of his play *Relatively Speaking* (then called *Meet My Father*) at the Library Theatre, Scarborough, in 1965.  
-○ *Mug's Game* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Mug's Game* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

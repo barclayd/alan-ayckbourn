@@ -8,43 +8,30 @@ order: 486
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Stephen Mallatratt  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Studio  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Stephen Mallatratt  
-Yes
-
-Stephen Joseph Theatre In The Round  
-Studio  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**23 June 1979  
-23 June 1979  
-31 August 1979
+**First performance:** 23 June 1979  
+**Opening night:** 23 June 1979  
+**Final performance:** 31 August 1979
 
 ### Company Details
 
-**Director:**  
-**Design:**
+**Director:** Alan Ayckbourn  
+**Design:** Jeremy Turner  
+**Stage Manager:** Amanda Saunders
 
-**Stage Manager:**  
-Alan Ayckbourn  
-Jeremy Turner
-
-Amanda Saunders  
-**Character**  
-Adele  
-Harris  
-Trixie  
-Nilus**Actor**  
-Alison Skilbeck  
-John Arthur  
-Sarah Wynter  
-Robin Murphy
+**Character** **Actor**  
+**Adele** Alison Skilbeck  
+**Harris** John Arthur  
+**Trixie** Sarah Wynter  
+**Nilus** Robin Murphy
 
 ### Notes
 
 ○ *Saint Trixie* was apparently the first play to be staged by the company to incorporate the word ‘fuck’ into the script. Bizarrely, it is not known to have generated any complaints in 1979, but when the word was used in Alan Ayckbourn’s ***[Virtual Reality](/plays/virtual-reality)*** 21 years later in 2000, it generated a slew of complaints to the theatre!  
-○ *Saint Trixie* was a late night show produced in the Studio space at the Stephen Joseph Theatre In The Round.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Saint Trixie* was a late night show produced in the Studio space at the Stephen Joseph Theatre In The Round.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

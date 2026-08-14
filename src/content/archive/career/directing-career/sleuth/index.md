@@ -8,49 +8,26 @@ order: 490
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Anthony Shaffer  
+**New Play:** No  
+**Venue:** Stephen Joseph Theatre In The Round  
+**Location:** Main house (Round)  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Anthony Shaffer  
-No
-
-Stephen Joseph Theatre In The Round  
-Main house (Round)  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**19 April 1977  
-20 April 1977  
-31 August 1977
+**First performance:** 19 April 1977  
+**Opening night:** 20 April 1977  
+**Final performance:** 31 August 1977
 
 ### Company Details
 
-**Director:**  
-**Design:**
-
-**Stage Manager:**  
-**Deputy Stage Manager:**  
-**Assistant Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-Terry Brown
-
-Janet Fox  
-Christopher Gray  
-Anne Hawkins  
-Simon Richardson  
-**Character**  
-Andrew Wyke  
-Milo Tindle  
-Inspector Doppler  
-Det. Sgt. Tarrant  
-Police Constable Higgs**Actor**  
-Robert Austin  
-Robin Herford  
-Paul Keithley  
-Colin Tagg  
-Peter Sedgewick
+**Director:** Alan Ayckbourn **Character** **Actor**  
+**Design:** Terry Brown **Andrew Wyke** Robert Austin  
+**Stage Manager:** Janet Fox **Milo Tindle** Robin Herford  
+**Deputy Stage Manager:** Christopher Gray **Inspector Doppler** Paul Keithley  
+**Assistant Stage Manager:** Anne Hawkins **Det. Sgt. Tarrant** Colin Tagg  
+**Assistant Stage Manager:** Simon Richardson **Police Constable Higgs** Peter Sedgewick
 
 ### Notes
 
-○ *Sleuth* marked the acting debut at the Stephen Joseph Theatre In The Round of Robert Austin, beginning a long association with Alan Ayckbourn and frequent appearances in the playwright's own productions.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Sleuth* marked the acting debut at the Stephen Joseph Theatre In The Round of Robert Austin, beginning a long association with Alan Ayckbourn and frequent appearances in the playwright's own productions.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

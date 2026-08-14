@@ -8,30 +8,24 @@ order: 670
 
 ### Production Details
 
-**Author:**
+**Author:** Don Haworth  
+**Broadcast:** 5 September 1970 @ 2pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Don Haworth
+**Director:**  
+Alan Ayckbourn
 
-5 September 1970 @ 2pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Ronnie  
-Sergeant  
-Ginger  
-Tony  
-Surveyor  
-Janey  
-Superintendent  
-Roy Barraclough**Actor**  
-Christopher Martin  
-David Mahlowe  
-Ronald Herdman  
-Paul Webster  
-Leonard Fenton  
-Stephanie Turner  
-David Butler  
-Roy Barraclough
+**Character** **Actor**  
+**Ronnie** Christopher Martin  
+**Sergeant** David Mahlowe  
+**Ginger** Ronald Herdman  
+**Tony** Paul Webster  
+**Surveyor** Leonard Fenton  
+**Janey** Stephanie Turner  
+**Superintendent** David Butler  
+**Roy Barraclough** Roy Barraclough
 
 ### Notes
 
-○ *Where Here Is This Building - By What Route Do I Get There?* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Where Here Is This Building - By What Route Do I Get There?* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

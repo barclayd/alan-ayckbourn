@@ -8,16 +8,18 @@ order: 664
 
 ### Production Details
 
-**Author:**
+**Author:** J.B. Priestley  
+**Broadcast:** 3 February 1969 @ 8.30pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**J.B. Priestley
-
-3 February 1969 @ 8.30pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-To be confirmed**Actor**  
+**Director:**  
+Alan Ayckbourn  
+**Character**  
+To be confirmed  
+**Actor**  
 To be confirmed
 
 ### Notes
 
-○ *Time And The Conways* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Time And The Conways* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

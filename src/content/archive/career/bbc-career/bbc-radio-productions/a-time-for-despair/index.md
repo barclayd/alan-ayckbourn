@@ -8,32 +8,25 @@ order: 665
 
 ### Production Details
 
-**Author:**
+**Author:** John Wainwright  
+**Broadcast:** 19 July 1967 @ 8.15pm  
+**Channel:** BBC Light Programme
 
-**Broadcast:**  
-**Channel:**John Wainwright
+**Director:**  
+Alan Ayckbourn
 
-19 July 1967 @ 8.15pm  
-BBC Light Programme**Director:**Alan Ayckbourn**Character**  
-Typist  
-Paul Rownay  
-Det-Superintendent Kelly  
-Det-Sgt Gudge  
-Desk Sergeant  
-Station Cadet  
-Muriel  
-Elsie  
-Frank**Actor**  
-Pamela Craig  
-Geoffrey Hinsliff  
-David Mahlowe  
-Geoffrey Banks  
-Roy Barraclough  
-Douglas Fielding  
-Stephanie Turner  
-Katherine Parr  
-Paul Webster
+**Character** **Actor**  
+**Typist** Pamela Craig  
+**Paul Rownay** Geoffrey Hinsliff  
+**Det-Superintendent Kelly** David Mahlowe  
+**Det-Sgt Gudge** Geoffrey Banks  
+**Desk Sergeant** Roy Barraclough  
+**Station Cadet** Douglas Fielding  
+**Muriel** Stephanie Turner  
+**Elsie** Katherine Parr  
+**Frank** Paul Webster
 
 ### Notes
 
-○ *A Time For Despair* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *A Time For Despair* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

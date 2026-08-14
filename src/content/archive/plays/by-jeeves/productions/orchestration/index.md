@@ -40,8 +40,10 @@ play: "by-jeeves"
 ○ Guitar  
 ○ Drums / Percussion  
 ○ Clarinet / Flute/ Saxophone  
-○ Double Bass**Arrangements: Jeeves**  
+○ Double Bass  
+**Arrangements: Jeeves**  
 The arrangements were by Andrew Lloyd Webber, Keith Amos, David Cullen and Don Walker with vocal arrangements by Anthony Bowles.
 
 **Arrangements: By Jeeves**  
-The arrangements were by David Cullen and Andrew Lloyd Webber.*All research for this page by Simon Murgatroyd.*
+The arrangements were by David Cullen and Andrew Lloyd Webber.  
+*All research for this page by Simon Murgatroyd.*

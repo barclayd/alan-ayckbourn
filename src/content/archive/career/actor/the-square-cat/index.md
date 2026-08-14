@@ -44,4 +44,5 @@ order: 548
 *(Ian Watson, ‘Conversations With Ayckbourn’)*
 
 **Review extract from the Scarborough Evening News** (31 July 1959)  
-"Alan Ayckbourn, who learned to play the guitar for the occasion, although he does not play it for any length of time, gives his best performance of the season."*All research for this page by Simon Murgatroyd.*
+"Alan Ayckbourn, who learned to play the guitar for the occasion, although he does not play it for any length of time, gives his best performance of the season."  
+*All research for this page by Simon Murgatroyd.*

@@ -20,19 +20,15 @@ play: "absurd-person-singular"
 **Stage Manager:** Jennifer Smith  
 **Deputy Stage Manager:** David Millard  
 **Assistant Stage Manager:** David Hayward  
-**Assistant Stage Manager:** Sue Rogers**Character**  
-Jane Hopcroft  
-Sidney Hopcroft  
-Ronald Brewster-Wright  
-Marion Brewster-Wright  
-Eva Jackson  
-Geoffrey Jackson**Actor**  
-Philippa Urquhart  
-Piers Rogers  
-Christopher Godwin  
-Matyelok Gibbs  
-Jennifer Piercey  
-Ray Jewers
+**Assistant Stage Manager:** Sue Rogers
+
+**Character** **Actor**  
+**Jane Hopcroft** Philippa Urquhart  
+**Sidney Hopcroft** Piers Rogers  
+**Ronald Brewster-Wright** Christopher Godwin  
+**Marion Brewster-Wright** Matyelok Gibbs  
+**Eva Jackson** Jennifer Piercey  
+**Geoffrey Jackson** Ray Jewers
 
 ### London Premiere (1973)
 
@@ -43,19 +39,15 @@ Ray Jewers
 
 **Director:** Eric Thompson  
 **Design:** Alan Tagg  
-**Lighting:** Mick Hughes**Character**  
-Jane Hopcroft  
-Sidney Hopcroft  
-Ronald Brewster-Wright  
-Marion Brewster-Wright  
-Eva Jackson  
-Geoffrey Jackson**Actor**  
-Bridget Turner  
-Richard Briers  
-Michael Aldridge  
-Sheila Hancock  
-Anna Calder-Marshall  
-David Burke
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Jane Hopcroft** Bridget Turner  
+**Sidney Hopcroft** Richard Briers  
+**Ronald Brewster-Wright** Michael Aldridge  
+**Marion Brewster-Wright** Sheila Hancock  
+**Eva Jackson** Anna Calder-Marshall  
+**Geoffrey Jackson** David Burke
 
 ### London Recast / Transfer (1974)
 
@@ -70,19 +62,15 @@ David Burke
 
 **Director:** Eric Thompson  
 **Design:** Alan Tagg  
-**Lighting:** Mick Hughes**Character**  
-Jane Hopcroft  
-Sidney Hopcroft  
-Ronald Brewster-Wright  
-Marion Brewster-Wright  
-Eva Jackson  
-Geoffrey Jackson**Actor**  
-Angela Scoular  
-Peter Blythe  
-Paul Eddington  
-Fenella Fielding  
-Marty Cruickshank  
-Paul Shelley
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Jane Hopcroft** Angela Scoular  
+**Sidney Hopcroft** Peter Blythe  
+**Ronald Brewster-Wright** Paul Eddington  
+**Marion Brewster-Wright** Fenella Fielding  
+**Eva Jackson** Marty Cruickshank  
+**Geoffrey Jackson** Paul Shelley
 
 ### London Recast (1974)
 
@@ -93,19 +81,15 @@ Paul Shelley
 
 **Director:** Eric Thompson  
 **Design:** Alan Tagg  
-**Lighting:** Mick Hughes**Character**  
-Jane Hopcroft  
-Sidney Hopcroft  
-Ronald Brewster-Wright  
-Marion Brewster-Wright  
-Eva Jackson  
-Geoffrey Jackson**Actor**  
-Millicent Martin  
-John Clive  
-Paul Eddington  
-Amanda Barrie  
-Stephanie Turner  
-David Baron
+**Lighting:** Mick Hughes
+
+**Character** **Actor**  
+**Jane Hopcroft** Millicent Martin  
+**Sidney Hopcroft** John Clive  
+**Ronald Brewster-Wright** Paul Eddington  
+**Marion Brewster-Wright** Amanda Barrie  
+**Eva Jackson** Stephanie Turner  
+**Geoffrey Jackson** David Baron
 
 ### New York Premiere (1974)
 
@@ -117,19 +101,15 @@ David Baron
 **Director:** Eric Thompson  
 **Design:** Edward Burbridge  
 **Lighting:** Thomas Skelton  
-**Costumes:** Levino Verna**Character**  
-Sidney  
-Eva  
-Ronald  
-Marion  
-Geoffrey  
-Jane**Actor**  
-Larry Blyden  
-Sandy Dennis  
-Richard Kiley  
-Geraldine Page  
-Tony Roberts  
-Carole Shelley
+**Costumes:** Levino Verna
+
+**Character** **Actor**  
+**Sidney** Larry Blyden  
+**Eva** Sandy Dennis  
+**Ronald** Richard Kiley  
+**Marion** Geraldine Page  
+**Geoffrey** Tony Roberts  
+**Jane** Carole Shelley
 
 ### Tour (North America) (1975)
 
@@ -140,19 +120,15 @@ Carole Shelley
 **Director:** Eric Thompson  
 **Design:** Edward Burbridge  
 **Lighting:** Thomas Skelton  
-**Costumes:** David Toser**Character**  
-Ronald  
-Marion  
-Sidney  
-Jane  
-Geoffrey  
-Eva **Actor**  
-Patrick Macnee  
-Sheila MacRae  
-Paul Shyre  
-Judy Carne  
-David Watson  
-Betsy von Furstenberg
+**Costumes:** David Toser
+
+**Character** **Actor**  
+**Ronald** Patrick Macnee  
+**Marion** Sheila MacRae  
+**Sidney** Paul Shyre  
+**Jane** Judy Carne  
+**Geoffrey** David Watson  
+**Eva** Betsy von Furstenberg
 
 ### Revival (1989)
 
@@ -170,19 +146,17 @@ Betsy von Furstenberg
 **Deputy Stage Manager:** Natasha Betteridge  
 **Deputy Stage Manager:** Lynda Snowden  
 **Assistant Stage Manager:** Sarah Percival  
-**Assistant Stage Manager:** Marina Kilby**Character**  
-Jane Hopcroft  
-Sidney Hopcroft  
-Ronald Brewster-Wright  
-Marion Brewster-Wright  
-Eva Jackson  
-Geoffrey Jackson**Actor**  
-Lesley Meade\*  
-Richard Kane  
-Donald Douglas  
-Moira Redmond  
-Robin McCaffrey\*  
-Jeff Shankley\* The 1989 revival of *Absurd Person Singular* went on a national tour before transferring to the Whitehall Theatre, London, on 15 May 1990. For the London transfer, Lavinia Bertram replaced Lesley Meade and Jennifer Wiltsie replaced Robin McCaffrey
+**Assistant Stage Manager:** Marina Kilby
+
+**Character** **Actor**  
+**Jane Hopcroft** Lesley Meade\*  
+**Sidney Hopcroft** Richard Kane  
+**Ronald Brewster-Wright** Donald Douglas  
+**Marion Brewster-Wright** Moira Redmond  
+**Eva Jackson** Robin McCaffrey\*  
+**Geoffrey Jackson** Jeff Shankley
+
+\* The 1989 revival of *Absurd Person Singular* went on a national tour before transferring to the Whitehall Theatre, London, on 15 May 1990. For the London transfer, Lavinia Bertram replaced Lesley Meade and Jennifer Wiltsie replaced Robin McCaffrey
 
 ### New York Revival (2005)
 
@@ -193,19 +167,15 @@ Jeff Shankley\* The 1989 revival of *Absurd Person Singular* went on a national 
 
 **Director:** John Tillinger  
 **Design:** John Lee Beatty  
-**Lighting:** Brian MacDevitt**Character**  
-Eva  
-Jane  
-Geoffrey  
-Sidney  
-Marion  
-Ronald**Actor**  
-Mireille Enos  
-Clea Lewis  
-Sam Robards  
-Alan Ruck  
-Deborah Rush  
-Paxton Whitehead
+**Lighting:** Brian MacDevitt
+
+**Character** **Actor**  
+**Eva** Mireille Enos  
+**Jane** Clea Lewis  
+**Geoffrey** Sam Robards  
+**Sidney** Alan Ruck  
+**Marion** Deborah Rush  
+**Ronald** Paxton Whitehead
 
 ### London Revival (2007)
 
@@ -219,19 +189,15 @@ Paxton Whitehead
 **Design:** Michael Pavelka  
 **Lighting:** Jason Taylor  
 **Sound:** Ian Horrocks-Taylor  
-**Costumes:** Brigid Guy**Character**  
-Jane  
-Sidney  
-Ronald  
-Marion  
-Eva  
-Geoffrey**Actor**  
-Jane Horrocks  
-David Bamber  
-David Horovitch  
-Jenny Seagrove  
-Lia Williams  
-John Gordon Sinclair
+**Costumes:** Brigid Guy
+
+**Character** **Actor**  
+**Jane** Jane Horrocks  
+**Sidney** David Bamber  
+**Ronald** David Horovitch  
+**Marion** Jenny Seagrove  
+**Eva** Lia Williams  
+**Geoffrey** John Gordon Sinclair
 
 ### Revival (2012)
 
@@ -247,16 +213,15 @@ John Gordon Sinclair
 
 **Company Stage Manager:** Fleur Linden Beeley  
 **Deputy Stage Manager:** Neil Webb  
-**Assistant Stage Manager:** Clare Heath**Character**  
-Eva  
-Jane  
-Geoffrey  
-Sidney  
-Marion  
-Ronald**Actor**  
-Ayesha Antoine  
-Laura Doddington  
-Richard Stacey  
-Ben Porter  
-Sarah Parks  
-Bill Champion**Note:** This was a co-production with Chichester Festival Theatre and was included in the 2012 Festival (the cultural celebration which accompanied the London 2012 Olympics).*All research for this page by Simon Murgatroyd. Please do not reproduce without crediting the author and this website.*
+**Assistant Stage Manager:** Clare Heath
+
+**Character** **Actor**  
+**Eva** Ayesha Antoine  
+**Jane** Laura Doddington  
+**Geoffrey** Richard Stacey  
+**Sidney** Ben Porter  
+**Marion** Sarah Parks  
+**Ronald** Bill Champion
+
+**Note:** This was a co-production with Chichester Festival Theatre and was included in the 2012 Festival (the cultural celebration which accompanied the London 2012 Olympics).  
+*All research for this page by Simon Murgatroyd. Please do not reproduce without crediting the author and this website.*

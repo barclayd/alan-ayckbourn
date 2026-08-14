@@ -17,7 +17,7 @@ facts:
   Staging: "Round"
   Director: "Alan Ayckbourn"
   Design: "Edward Lipscomb"
-  Lighting: "Francis LynchThe Company"
+  Lighting: "Francis Lynch"
 ---
 
 **Published / Available to Stage:** No
@@ -57,15 +57,18 @@ For the Orange Tree's production of the piece, there were several alterations: *
 ### World Premiere (1983)
 
 **Musical Director: P**aul Todd  
+**The Company**  
 Lavinia Bertram  
 Gillian Bevan  
 Ruth Mayo  
 Michael Cashman  
 Russell Dixon  
-Graeme Eton**The Band**  
+Graeme Eton  
+**The Band**  
 Isaac Guillory  
 Dave Newton  
-Paul ToddFor details of other significant productions, click **[here](/plays/incidental-music/productions)**.
+Paul Todd  
+For details of other significant productions, click **[here](/plays/incidental-music/productions)**.
 
 ### Further Reading
 

@@ -8,38 +8,28 @@ order: 617
 
 ### Production Details
 
-**Author:**
+**Author:** Trevor Griffiths  
+**Broadcast:** 10 December 1969 @ 3pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Trevor Griffiths
+**Director:**  
+Alan Ayckbourn
 
-10 December 1969 @ 3pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Bert Newton  
-Tom Yates  
-George Potts  
-Victoria Hayes  
-Cmdr Percy  
-Bill Walmsley  
-Sid  
-Ray Frost  
-Other roles  
-Other roles  
-Other roles  
-Other roles**Actor**  
-Bryan Mosley  
-Donald Webster  
-Robert Wallace  
-Elizabeth Bell  
-Allan Cuthbertson  
-David Mahlowe  
-Ronald Harvi  
-Brian Peck  
-Barbara Greenhalgh  
-Sam Kelly  
-Elisabeth Sladen  
-George Holden
+**Character** **Actor**  
+**Bert Newton** Bryan Mosley  
+**Tom Yates** Donald Webster  
+**George Potts** Robert Wallace  
+**Victoria Hayes** Elizabeth Bell  
+**Cmdr Percy** Allan Cuthbertson  
+**Bill Walmsley** David Mahlowe  
+**Sid** Ronald Harvi  
+**Ray Frost** Brian Peck  
+**Other roles** Barbara Greenhalgh  
+**Other roles** Sam Kelly  
+**Other roles** Elisabeth Sladen  
+**Other roles** George Holden
 
 ### Notes
 
-○ *The Big House* was broadcast in the *Afternoon Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *The Big House* was broadcast in the *Afternoon Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*

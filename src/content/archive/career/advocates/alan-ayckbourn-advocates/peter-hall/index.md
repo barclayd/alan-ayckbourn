@@ -42,4 +42,5 @@ order: 606
 
 "If, in a hundred years, anyone wants to know what it was like to live in the second half of the 20th Century, I am quite sure they will turn to the plays of Alan Ayckbourn before they look at historians or sociologists. End-of-millennium-man is very accurately atomised in your plays.
 
-"Thank you for giving us so much joy and, with that joy, your perception. Happy Birthday, Alan."*Copyright: Peter Hall. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*
+"Thank you for giving us so much joy and, with that joy, your perception. Happy Birthday, Alan."  
+*Copyright: Peter Hall. All research for this page by Simon Murgatroyd, please credit this website if reproduced.*

@@ -8,52 +8,27 @@ order: 469
 
 ### Production Details
 
-**Author:**  
-**New Play:**
+**Author:** Tim Firth  
+**New Play:** Yes  
+**Venue:** Stephen Joseph Theatre  
+**Location:** The Round  
+**Staging:** Round
 
-**Venue:**  
-**Location:**  
-**Staging:**Tim Firth  
-Yes
-
-Stephen Joseph Theatre  
-The Round  
-Round**First performance:**  
-**Opening night:**  
-**Final performance:**6 August 1998  
-11 August 1998  
-26 September 1998
+**First performance:** 6 August 1998  
+**Opening night:** 11 August 1998  
+**Final performance:** 26 September 1998
 
 ### Company Details
 
-**Director:**  
-**Musical Director:**  
-**Design:**  
-**Lighting:**  
-**Choreography:**
-
-**Stage Manager:**  
-**Assistant Stage Manager:**Alan Ayckbourn  
-John Pattison  
-Michael Holt  
-Paul Towson  
-Sheila Carter
-
-Helen Reynolds  
-Fleur Linden Beeley**Character**  
-Pete  
-Jerry  
-Glynn  
-Adam  
-Michelle  
-Becky**Actor**  
-Bill Champion  
-Keith Bartlett  
-John Branwell  
-Nicholas Haverson  
-Janie Dee  
-Helen Pearson
+**Director:** Alan Ayckbourn **Character** **Actor**  
+**Musical Director:** John Pattison **Pete** Bill Champion  
+**Design:** Michael Holt **Jerry** Keith Bartlett  
+**Lighting:** Paul Towson **Glynn** John Branwell  
+**Choreography:** Sheila Carter **Adam** Nicholas Haverson  
+**Stage Manager:** Helen Reynolds **Michelle** Janie Dee  
+**Assistant Stage Manager:** Fleur Linden Beeley **Becky** Helen Pearson
 
 ### Notes
 
-○ *Love Songs For Shopkeepers* was part of the 10x10 season presented at the Stephen Joseph Theatre during the summer of 1998. It featured 10 plays receiving either their world or British premieres in repertory performed by a company of 10 actors.*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*
+○ *Love Songs For Shopkeepers* was part of the 10x10 season presented at the Stephen Joseph Theatre during the summer of 1998. It featured 10 plays receiving either their world or British premieres in repertory performed by a company of 10 actors.  
+*All research for this page by Simon Murgatroyd. Image copyright: Scarborough Theatre Trust.*

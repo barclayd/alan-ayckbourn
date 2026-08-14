@@ -15,6 +15,9 @@ A collection of archive material, posters, rehearsal and production images perta
 
 Extract from a letter, dated 4 April 1986, from Alan Ayckbourn's agent to the playwright which refers to the play by its original, temporary title of *Take It Or Leave It* instead rather than *A Small Family Business*.
 
+**Copyright:** Haydonning Ltd  
+**Holding:** Borthwick Institute for Archives
+
 *Do not reproduce images without permission of the copyright holder.*
 
 ![](./_images/stacks-image-63473b6.jpg)
@@ -48,6 +51,7 @@ The National Theatre's 2014 revival of *A Small Family Business* also marked the
 **Copyright:** National Theatre  
 **Holding:** Ayckbourn Digital Archive
 
-*Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
+*Do not reproduce images without permission of the copyright holder.*  
+*The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
 *All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

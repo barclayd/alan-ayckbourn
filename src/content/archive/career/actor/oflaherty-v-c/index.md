@@ -29,4 +29,5 @@ order: 570
 *O'Flaherty V.C.* was presented as a double bill with Bernard Shaw's *The Man Of Destiny*. It was originally produced at Theatre in the Round at the Library Theatre, Scarborough, before being revived later in the year at the Victoria Theatre, Stoke-on-Trent, with a slightly altered cast. Click **[here](/career/actor/oflaherty-v-c-2)** for details.
 
 **Review extract from the Evening Sentinel** (16 October 1962)  
-"\[*O'Flaherty V.C.*\] is a major achievement for Alan Ayckbourn in the title role. He brings a touching quality to the part of the newly-returned war-hero whose view of things have been sharply re-focussed by his recent experiences."*All research for this page by Simon Murgatroyd.*
+"\[*O'Flaherty V.C.*\] is a major achievement for Alan Ayckbourn in the title role. He brings a touching quality to the part of the newly-returned war-hero whose view of things have been sharply re-focussed by his recent experiences."  
+*All research for this page by Simon Murgatroyd.*

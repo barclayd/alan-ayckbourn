@@ -78,7 +78,8 @@ This was Alan’s swansong as a director at the National, although it was not th
 
 Alan has always been grateful for the many opportunities Peter Hall and the National Theatre afforded him and the success he has enjoyed there. The National Theatre, indisputably, has played a hugely significant part in Alan Ayckbourn’s career and success as both playwright and director.
 
-*Article by and copyright of Simon Murgatroyd. Please do not reproduce without permission of the copyright holder.* **Ayckbourn & The National**
+*Article by and copyright of Simon Murgatroyd. Please do not reproduce without permission of the copyright holder.*  
+**Ayckbourn & The National**
 
 ![](./_images/stacks-image-c2a94f0.jpg)
 

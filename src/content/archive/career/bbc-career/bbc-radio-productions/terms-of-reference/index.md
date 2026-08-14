@@ -8,32 +8,24 @@ order: 660
 
 ### Production Details
 
-**Author:**  
-**Adaptor:**
+**Author:** Stanley Middleton  
+**Adaptor:** Brian Thompson  
+**Broadcast:** 22 April 1968 @ 8.30pm  
+**Channel:** BBC Radio 4
 
-**Broadcast:**  
-**Channel:**Stanley Middleton  
-Brian Thompson
+**Director:**  
+Alan Ayckbourn
 
-22 April 1968 @ 8.30pm  
-BBC Radio 4**Director:**Alan Ayckbourn**Character**  
-Hugh Dodds-Walker  
-Yvonne  
-Sylvie  
-Robert  
-Sally Field  
-Jake  
-Herbert Stannard  
-Mrs Stannard  
-Helen  
-Student**Actor**  
-Geoffrey Banks  
-Katherine Parr  
-Heather Stoney  
-David Valla  
-June Barry  
-Douglas Fielding  
-Tom Harrison  
-Kathleen Worth  
-Juliet Cooke  
-Christopher Godwin*All research for this page by Simon Murgatroyd.*
+**Character** **Actor**  
+**Hugh Dodds-Walker** Geoffrey Banks  
+**Yvonne** Katherine Parr  
+**Sylvie** Heather Stoney  
+**Robert** David Valla  
+**Sally Field** June Barry  
+**Jake** Douglas Fielding  
+**Herbert Stannard** Tom Harrison  
+**Mrs Stannard** Kathleen Worth  
+**Helen** Juliet Cooke  
+**Student** Christopher Godwin
+
+*All research for this page by Simon Murgatroyd.*

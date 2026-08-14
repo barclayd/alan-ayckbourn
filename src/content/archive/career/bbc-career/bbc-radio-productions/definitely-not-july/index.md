@@ -8,32 +8,25 @@ order: 625
 
 ### Production Details
 
-**Author:**
+**Author:** Leslie Fennell  
+**Broadcast:** 28 June 1967 @ 8.15pm  
+**Channel:** BBC Light Programme
 
-**Broadcast:**  
-**Channel:**Leslie Fennell
+**Director:**  
+Alan Ayckbourn
 
-28 June 1967 @ 8.15pm  
-BBC Light Programme**Director:**Alan Ayckbourn**Character**  
-David Forbes  
-Janet Forbes  
-Frank Rowan  
-Carol Rowan  
-Sykes  
-Mrs Sykes  
-Margaret  
-Publican  
-Tony**Actor**  
-Peter King  
-Elizabeth Bell  
-Derrick Gilbert  
-Veronica Doran  
-Ralph Lawton  
-Ruth Holden  
-Susan Stirrup  
-Harry Markham  
-Gordon Kaye
+**Character** **Actor**  
+**David Forbes** Peter King  
+**Janet Forbes** Elizabeth Bell  
+**Frank Rowan** Derrick Gilbert  
+**Carol Rowan** Veronica Doran  
+**Sykes** Ralph Lawton  
+**Mrs Sykes** Ruth Holden  
+**Margaret** Susan Stirrup  
+**Publican** Harry Markham  
+**Tony** Gordon Kaye
 
 ### Notes
 
-○ *Definitely Not July* was broadcast in the *Midweek Theatre* slot.*All research for this page by Simon Murgatroyd.*
+○ *Definitely Not July* was broadcast in the *Midweek Theatre* slot.  
+*All research for this page by Simon Murgatroyd.*
