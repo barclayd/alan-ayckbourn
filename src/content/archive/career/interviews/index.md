@@ -17,7 +17,3 @@ The Library Theatre / Stephen Joseph Collection at Scarborough Library holds a s
 ### The Ayckbourn Collection at Scarborough Museums & Galleries
 
 The Ayckbourn Collection is a small but significant collection of archival material pertaining to Alan Ayckbourn and his relationship with his adopted home town of Scarborough. It was donated by Sir Alan Ayckbourn and Simon Murgatroyd in 2023 and will be potentially expanded in the future.
-
-### Other Significant Research / Archival Resources
-
-### Online Resources

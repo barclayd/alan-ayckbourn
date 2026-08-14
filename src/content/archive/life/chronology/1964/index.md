@@ -24,5 +24,3 @@ During 1964, Alan Ayckbourn…
 
 ○ ***Mr Whatnot*** (West End premiere)  
 6 August: New Arts Theatre, London
-
-### Professional Acting

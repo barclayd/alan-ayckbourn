@@ -541,8 +541,6 @@ Alice Sykes
 Samuel Taylor  
 Niky Wardley
 
-### Musical Revues
-
 ### Me, Myself and I (1985)
 
 **First performance:** 31 October 1985  

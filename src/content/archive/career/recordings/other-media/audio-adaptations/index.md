@@ -19,5 +19,3 @@ This page contains basic details of the english language audio play adaptations 
 1999  
 1990  
 2011
-
-### Company

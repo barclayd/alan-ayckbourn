@@ -25,5 +25,3 @@ During 1956, Alan Ayckbourn…
 ![](./_images/stacks-image-49cdd67.jpg)
 
 </aside>
-
-### Professional Acting

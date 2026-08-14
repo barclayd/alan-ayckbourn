@@ -20,5 +20,3 @@ facts:
 ---
 
 Other Media:** Radio
-
-**Availability**

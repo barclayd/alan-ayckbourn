@@ -16,6 +16,4 @@ facts:
   Professional: "Not currently available for professional production. The Trial of Romeo Oscar"
 ---
 
-**Availability**
 
-### The Trial of Romeo Oscar Upcoming Productions

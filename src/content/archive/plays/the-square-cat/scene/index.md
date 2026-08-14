@@ -38,5 +38,3 @@ Dialogue in italics indicates material cut from the performed script.*
 **Mum:** Very well. If you won't go, I won't make you.  
 **Dad:** I can assure you, Alice, if I leave you leave with me.  
 **Mum:** I invited Jerry down here and I intend to stay.
-
-### Notes

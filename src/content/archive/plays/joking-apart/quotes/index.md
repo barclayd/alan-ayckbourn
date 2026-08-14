@@ -46,4 +46,4 @@ play: "joking-apart"
 *(Interview with Alan Ayckbourn from Ian Watson's Conversations With Ayckbourn)*
 
 **Archivist notes**  
-\[1\] There have been a number of suggestions on whom Sven is based on in *Joking Apart* over the years, the most likely being the director Casper Wrede - who directed the television adaptation of *Time & Time Again* - and Scarborough Councillor and hotelier Erkki Lahteela, who Alan came into conflict with during the early 1970s when the future of the Library Theatre was at risk (an article about these events can be found [here](/plays/here)).
+\[1\] There have been a number of suggestions on whom Sven is based on in *Joking Apart* over the years, the most likely being the director Casper Wrede - who directed the television adaptation of *Time & Time Again* - and Scarborough Councillor and hotelier Erkki Lahteela, who Alan came into conflict with during the early 1970s when the future of the Library Theatre was at risk (an article about these events can be found [here](http://the-sjt.alanayckbourn.net/page12/page196/styled-63/)).

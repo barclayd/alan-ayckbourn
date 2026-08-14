@@ -60,5 +60,3 @@ play: "dads-tale"
 **Jenny:** Alright, if you think so. I’ll find my own way home. There’s no need to come with me. Goodbye, Martin. *(Exit Jenny)*  
 **Martin:** *(To audience)* I just sat by the window and stared out. I didn’t want to live any more. I just kept staring out. I had planned such a lovely Christmas for Jenny and me… It was then I heard it… Music - coming from outside.  
 At first I thought the people next door had got the telly turned up too loud, but then suddenly, there it was - lights all over the place. It was a circus procession coming right past our window.
-
-### Notes

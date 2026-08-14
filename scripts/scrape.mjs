@@ -137,6 +137,19 @@ const hostOf = (url) => new URL(url).hostname;
 const subdomain = (host) => host.replace(`.${DOMAIN}`, '');
 const isInternal = (url) => hostOf(url).endsWith(DOMAIN);
 
+/**
+ * A page, as opposed to a file the archive happens to host. The interview
+ * section publishes six of its transcripts as PDFs, and crawling those produced
+ * six entries with a title and no body whatsoever — a dead end with our chrome
+ * around it. `.php` is the old mail handler, which was never a page either.
+ * Anything without an extension is a directory, which is how most of the site
+ * is published.
+ */
+const isPage = (url) => {
+  const last = new URL(url).pathname.split('/').pop() ?? '';
+  return !last.includes('.') || /\.(html?|shtml)$/i.test(last);
+};
+
 /** The containing directory of a page URL, or null at the site root. */
 function parentOf(url) {
   const u = new URL(url);
@@ -405,6 +418,43 @@ const isLabel = (block) =>
   block.type === 'h' ||
   (block.type === 'p' && /^\*\*[^*]+\*\*$/.test(block.text.trim()));
 
+/**
+ * A label that labels nothing. The original site titled its navigation lists
+ * ("Biographies & Chronology", then the links), so stripping the lists leaves
+ * 321 headings standing over empty space across 300 pages. Every drop above
+ * could pop its own heading instead, but there are four ways a block leaves and
+ * a heading can label several of them — one pass over the survivors catches all
+ * of it.
+ *
+ * A label is kept if anything other than a label appears before the next label
+ * of its rank or above, so `## Act 1` / `### Characters` / prose keeps both: the
+ * h2's span contains the h3's prose.
+ *
+ * `counts` widens what a label is. Headings always; pass `isLabel` after the
+ * data sheet has been lifted into frontmatter, where a bold run can be orphaned
+ * the same way — `**Availability**` on a play landing titled the two lines that
+ * are now facts, and stood alone as the page's entire body.
+ */
+function dropEmptyLabels(blocks, counts = (b) => b.type === 'h') {
+  /* A bold run titles only what directly follows it — it never spans a heading
+     the way an h2 spans an h3 — so it ranks below every heading level. */
+  const rank = (block) => (block.type === 'h' ? block.level : 7);
+  return blocks.filter((block, i) => {
+    if (!counts(block)) {
+      return true;
+    }
+    for (const next of blocks.slice(i + 1)) {
+      if (!counts(next)) {
+        return true;
+      }
+      if (rank(next) <= rank(block)) {
+        return false;
+      }
+    }
+    return false;
+  });
+}
+
 function dropNavBlocks(blocks, title) {
   const kept = [];
   let dropped = 0;
@@ -448,7 +498,12 @@ function dropNavBlocks(blocks, title) {
     }
     kept.push(block);
   }
-  return { blocks: kept, dropped, credits };
+  const headed = dropEmptyLabels(kept);
+  return {
+    blocks: headed,
+    dropped: dropped + kept.length - headed.length,
+    credits,
+  };
 }
 
 function render(blocks, depth = 0) {
@@ -502,8 +557,22 @@ function extractFacts(blocks) {
       // Three "Venue:" lines follow the three premiere dates — qualify each with
       // the premiere it belongs to, or the last one would eat the other two.
       let key = m[1].trim();
-      if (key in facts || /Premiere$/i.test(previous)) {
+      if (/^Venue$/i.test(key) && /Premiere$/i.test(previous)) {
         key = `${previous} ${key}`.trim();
+      }
+      /*
+       * A key still taken at this point is a second data sheet on the same page:
+       * By Jeeves carries one for the 1975 `Jeeves` and one for its 1996
+       * rewrite, so `Play Number` genuinely appears twice. Qualifying it with
+       * whatever label came before invented facts that read as bugs on the
+       * finished data sheet — `Venue Play Number: 18`, `Play Number Published:
+       * No`. The line stays in the prose instead, under the heading the archive
+       * filed it beneath, which is the only place it means anything.
+       */
+      if (key in facts) {
+        rest.push(line);
+        previous = m[1].trim();
+        continue;
       }
       facts[key] = value;
       previous = m[1].trim();
@@ -519,12 +588,9 @@ function extractFacts(blocks) {
 
 async function sitemap(host) {
   const xml = await fetchCached(`http://${host}/sitemap.xml`);
-  return (
-    [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)]
-      .map((m) => normalise(m[1].trim(), `http://${host}/`))
-      // .php endpoints are the old mail handlers, not pages (PR 8 rebuilds the form).
-      .filter((u) => u && hostOf(u) === host && !u.endsWith('.php'))
-  );
+  return [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)]
+    .map((m) => normalise(m[1].trim(), `http://${host}/`))
+    .filter((u) => u && hostOf(u) === host && isPage(u));
 }
 
 /**
@@ -554,7 +620,7 @@ async function crawlFrom(host, { max = 400 } = {}) {
       if (
         !target ||
         hostOf(target) !== host ||
-        target.endsWith('.php') ||
+        !isPage(target) ||
         seen.has(target)
       ) {
         continue;
@@ -718,21 +784,26 @@ async function run() {
           if (!target || !isInternal(target)) {
             return;
           }
+          /* "Read more", "click here" — the label describes the act of following
+             the link, not what is on the other end, so it cannot name anything. */
+          const usable =
+            text &&
+            text.length <= 60 &&
+            !/^(here|click|button|this|more|link)\b/i.test(text);
 
           // A link to a subdomain we have not visited is more of the archive.
           const linkedHost = hostOf(target);
           if (!queued.has(linkedHost) && crawlAll) {
             queued.add(linkedHost);
             queue.push(linkedHost);
-            if (text && !discovered.has(subdomain(linkedHost))) {
+            /* The host's whole route prefix is slugged from this, so a junk
+               label filed a play's entire site under `plays/here`. */
+            if (usable && !discovered.has(subdomain(linkedHost))) {
               discovered.set(subdomain(linkedHost), text);
             }
           }
 
-          if (!text || text.length > 60) {
-            return;
-          }
-          if (/^(here|click|button|this|more|link)\b/i.test(text)) {
+          if (!usable) {
             return;
           }
           if (!labels.has(target)) {
@@ -774,6 +845,16 @@ async function run() {
   );
 
   const baseOf = (url) => {
+    /*
+     * `/index.html` *is* the host root, not a page inside it. Left to the parent
+     * walk below, the root directory looks like an ancestor we never crawled and
+     * so gets a slug invented from a link label — which filed the whole of
+     * RolePlay at `plays/roleplay/roleplay`, one level below the route that
+     * twenty-two pages across the archive link to.
+     */
+    if (segments(url).length === 0) {
+      return prefixOf(hostOf(url));
+    }
     let parent = parentOf(url);
     if (!parent) {
       return prefixOf(hostOf(url));
@@ -837,15 +918,23 @@ async function run() {
 
   /** Uncrawled plays still resolve — to the play's landing page, not a 404. */
   const uncrawled = new Set();
+  const written = new Set(routes.values());
   const routeFor = (url) => {
     if (routes.has(url)) {
       return `/${routes.get(url)}`;
     }
+    uncrawled.add(hostOf(url));
     const prefix = prefixOf(hostOf(url));
-    if (prefix === null) {
+    /*
+     * A host can have a route prefix and still have nothing at it: it 301s off
+     * the archive, or every fetch failed. Falling back to the prefix regardless
+     * aimed links at pages that were never written, and a link to a page we do
+     * not have is better pointed at the original — which still answers — than
+     * at our own 404. This is what `unresolvedLinks` in the report counts.
+     */
+    if (prefix === null || !written.has(prefix)) {
       return null;
     }
-    uncrawled.add(hostOf(url));
     return `/${prefix}`;
   };
 
@@ -858,6 +947,7 @@ async function run() {
     navBlocksDropped: 0,
     boilerplateBlocksDropped: 0,
     untitled: [],
+    emptyPages: [],
     unresolvedLinks: [],
     imagesWithoutAlt: 0,
     failures,
@@ -886,7 +976,14 @@ async function run() {
           ? href
           : null;
       }
-      if (!isInternal(target)) {
+      /*
+       * A PDF on the archive's own domain is still a file, so it keeps its
+       * absolute URL rather than resolving to a route. Without this the six
+       * interview transcripts would each land on their section's index —
+       * pointing at a page that does not hold what the link promised.
+       * ponytail: links to the live originals until PR 9 mirrors them to R2.
+       */
+      if (!isInternal(target) || !isPage(target)) {
         return target;
       }
       const to = routeFor(target);
@@ -942,9 +1039,14 @@ async function run() {
 
     // The play landing page and its "In Brief" twin are label:value data sheets.
     const wantsFacts = isPlayIndex || /\/in-brief$/.test(route);
-    const { facts, blocks } = wantsFacts
+    const { facts, blocks: extracted } = wantsFacts
       ? extractFacts(navless)
       : { facts: {}, blocks: navless };
+    /* Lifting the data sheet out can orphan whatever labelled it — the
+       `### By Jeeves` sheet is entirely facts, and `**Availability**` on a play
+       landing titles two lines that are now frontmatter. Same rule, run again,
+       counting bold runs this time because that is what the sheet used. */
+    const blocks = wantsFacts ? dropEmptyLabels(extracted, isLabel) : extracted;
 
     // "Absurd Person Singular: History" → "History"; the play name is context,
     // supplied by the route. Only strip a prefix we can positively identify.
@@ -974,6 +1076,23 @@ async function run() {
     const body = render(
       poster ? blocks.filter((b) => b.src !== poster) : blocks,
     );
+
+    /*
+     * News, Blog and What's On were the site's dynamic pages — a title and a
+     * feed that never reached the static HTML — so nothing survives the strip.
+     * With no facts and no pages beneath them either, writing them would add
+     * three routes that are a heading over nothing, and three dead ends in the
+     * section list of every page above them. A play landing is empty in the
+     * same way and stays: its data sheet moved to frontmatter and its scenes,
+     * cast and reviews are all still below it.
+     */
+    const isSection = [...routes.values()].some((r) =>
+      r.startsWith(`${route}/`),
+    );
+    if (!body.trim() && !Object.keys(facts).length && !isSection) {
+      report.emptyPages.push(url);
+      continue;
+    }
 
     for (const { abs, name } of pending) {
       try {
@@ -1049,7 +1168,10 @@ if (process.argv[1].endsWith('scrape.mjs')) {
 export {
   blocksOf,
   clean,
+  dropEmptyLabels,
   extractFacts,
+  isLabel,
+  isPage,
   render,
   segments,
   slugify,

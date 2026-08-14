@@ -36,5 +36,3 @@ Between 2020 and 2023, Alan Ayckbourn re-wrote *Small Mercy* and re-titled it as
 As soon as Alan had finished working on *Haunting Julia*, he began writing *Another Time, Another Place* during September, which was completed on 22 September. No details are currently known about the play.
 
 It is not known what the status of *Another Time, Another Place* is and whether the playwright intends to allow it to be produced.
-
-### Other Plays

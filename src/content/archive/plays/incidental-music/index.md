@@ -12,7 +12,7 @@ facts:
   Composer: "Paul Todd"
   First performance: "12 January 1983"
   World premiere: "12 January 1983"
-  World premiere Final performance: "22 January 1983"
+  Final performance: "22 January 1983"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Staging: "Round"
   Director: "Alan Ayckbourn"

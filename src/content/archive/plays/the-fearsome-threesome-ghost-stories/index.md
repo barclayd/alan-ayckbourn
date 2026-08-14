@@ -12,7 +12,7 @@ facts:
   Short Synopsis: "A short ghost story monologue about a couple and a friend, whose jealousy reaches murderous and haunting heights."
   First performance: "29 December 1989"
   World premiere: "29 December 1989"
-  World premiere Final performance: "13 January 1990"
+  Final performance: "13 January 1990"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Staging: "End-stage Director"
 ---
@@ -68,5 +68,3 @@ An original manuscript for *The Fearsome Threesome* is held in the Ayckbourn Arc
 
 **Reference Books**  
 *Unseen Ayckbourn* (Simon Murgatroyd, Lulu Books, 2023, ISBN 9781447761723)
-
-### SpotLight on Ayckbourn: The Supernatural Plays

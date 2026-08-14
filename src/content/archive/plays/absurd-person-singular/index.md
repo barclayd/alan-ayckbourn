@@ -24,5 +24,3 @@ facts:
 
 ***Absurd Person Singular* quote**  
 "I mean, this may sound ridiculous, but I've never to this day really known what most women think about anything. Completely closed book to me. I mean, God bless them, what would we do without them? But I've never understood them."
-
-### Writing Absurd Person Singular

@@ -5,7 +5,7 @@ order: 2058
 play: "consuming-passions"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Consuming Passions. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Consuming Passions. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **What is the correct interpretation of the play? What is really happening?**  
 Whilst there is a certain amount of ambiguity within *Consuming Passions* and Alan Ayckbourn hopes the audience will draw their own conclusions about what is happening to Melanie, the author has a preferred explanation regarding the narrative.  

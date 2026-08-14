@@ -16,5 +16,3 @@ facts:
 ---
 
 Other Media:** No
-
-**Availability**

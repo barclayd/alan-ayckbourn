@@ -4,7 +4,7 @@ source: "http://biography.alanayckbourn.net/styled-5/styled-12/BiographyFAQWriti
 order: 360
 ---
 
-*This page contains FAQs concerning Alan Ayckbourn and his playwriting career. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](/life)*** *page.*
+*This page contains FAQs concerning Alan Ayckbourn and his playwriting career. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](http://biography.alanayckbourn.net/contact-form/Contact.php)*** *page.*
 
 **1)** Which acting role led Alan Ayckbourn to write his first play?  
 **2)** How many plays has Alan Ayckbourn written?  

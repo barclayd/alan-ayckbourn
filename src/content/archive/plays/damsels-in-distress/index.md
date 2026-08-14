@@ -7,8 +7,8 @@ year: 2001
 poster: "./_images/stacks-image-61a8d88.jpg"
 facts:
   GamePlan World Premiere: "24 May 2001"
-  GamePlan World Premiere FlatSpin World Premiere: "3 July 2001"
-  FlatSpin World Premiere RolePlay World Premiere: "4 September 2001"
+  FlatSpin World Premiere: "3 July 2001"
+  RolePlay World Premiere: "4 September 2001"
   RolePlay World Premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Venue: "Duchess Theatre, London"
   Play Numbers: "58 - 60"
@@ -20,5 +20,3 @@ facts:
 ---
 
 **Damsels In Distress London Premiere:** 7 September 2002
-
-**Availability**

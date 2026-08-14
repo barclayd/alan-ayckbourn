@@ -16,5 +16,3 @@ facts:
 
 **Published: [Faber](http://www.concordtheatricals.co.uk/s/16743/surprises/)  
 Other Media:** No
-
-**Availability**

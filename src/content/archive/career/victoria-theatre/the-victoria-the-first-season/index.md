@@ -10,8 +10,6 @@ The Victoria Theatre opened on Hartshill Road, Stoke-on-Trent, on 9 October 1962
 
 The first season predominantly featured productions which has been initially produced at Theatre in the Round at the Library Theatre, Scarborough, during the summer 1962 season. Original productions were introduced towards the latter part of the year and during 1963. The company's Artistic Director was Peter Cheeseman and Alan Ayckbourn was director, playwright and actor - and certainly viewed by Peter as his informal deputy.
 
-### The First Season (October 1962 - March 1963)
-
 ### Playwright
 
 William Norfolk  

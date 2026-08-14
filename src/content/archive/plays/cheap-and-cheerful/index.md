@@ -12,7 +12,7 @@ facts:
   Composer: "Denis King"
   First performance: "18 December 1998"
   World premiere: "21 December 1998"
-  World premiere Final performance: "30 January 1999"
+  Final performance: "30 January 1999"
   Venue: "Stephen Joseph Theatre, Scarborough"
   Staging: "End-stage (The McCarthy)"
   Director: "Alan Ayckbourn"

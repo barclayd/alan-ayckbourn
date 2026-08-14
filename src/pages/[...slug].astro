@@ -1,0 +1,226 @@
+---
+import { Image } from 'astro:assets';
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import Facts from '@/components/Facts.astro';
+import Lightbox from '@/components/Lightbox.astro';
+import SectionNav from '@/components/SectionNav.astro';
+import Base from '@/layouts/Base.astro';
+
+/**
+ * Every page of the archive except the handful with a page of their own. One
+ * template rather than a play template plus a reading template: the two differ
+ * only in whether a poster and a data sheet sit above the prose.
+ */
+export async function getStaticPaths() {
+  const all = await getCollection('archive');
+
+  /* `/plays` is our own index and `/search` belongs to Pagefind. The archive's
+     own front page keeps its content at `/about` — `/` is ours now. */
+  const owned = new Set(['plays', 'search']);
+  const routeOf = (id: string) => (id === 'welcome' ? 'about' : id);
+
+  const titles = new Map(all.map((entry) => [entry.id, entry.data.title]));
+  const childrenOf = new Map<string, CollectionEntry<'archive'>[]>();
+  for (const entry of all) {
+    const parent = entry.id.slice(0, entry.id.lastIndexOf('/'));
+    if (!parent) {
+      continue;
+    }
+    childrenOf.set(parent, [...(childrenOf.get(parent) ?? []), entry]);
+  }
+
+  return all
+    .filter((entry) => !owned.has(entry.id))
+    .map((entry) => ({
+      params: { slug: routeOf(entry.id) },
+      props: {
+        entry,
+        children: (childrenOf.get(entry.id) ?? [])
+          .filter((child) => !owned.has(child.id))
+          .sort((a, b) => a.data.order - b.data.order),
+        /* Ancestors, nearest last. Built here because only getStaticPaths holds
+           the whole collection; the page itself sees one entry. */
+        trail: entry.id
+          .split('/')
+          .slice(0, -1)
+          .map((_, i, parts) => parts.slice(0, i + 1).join('/'))
+          .filter((id) => titles.has(id))
+          .map((id) => ({ href: `/${routeOf(id)}`, title: titles.get(id) })),
+      },
+    }));
+}
+
+type Props = {
+  entry: CollectionEntry<'archive'>;
+  children: CollectionEntry<'archive'>[];
+  trail: { href: string; title?: string }[];
+};
+
+const { entry, children, trail } = Astro.props;
+const { year, poster, facts } = entry.data;
+const { Content } = await render(entry);
+
+/* The archive's own front page is titled "Home", which it no longer is: `/` is
+   ours, this is the page the footer links to as "About this archive", and an h1
+   reading "Home" on `/about` is a page that has forgotten where it lives. */
+const title = entry.id === 'welcome' ? 'About this Archive' : entry.data.title;
+
+const isPlay = /^plays\/[^/]+$/.test(entry.id);
+/** The archive writes the one-line pitch as a fact; it reads as a standfirst. */
+const synopsis = facts?.['Short Synopsis'];
+const playNumber = facts?.['Play Number'];
+
+/*
+ * A page listing its own children does not also need the rail of them: the two
+ * would say exactly the same thing a centimetre apart. The rail is for reading
+ * pages, where the siblings are not otherwise on screen.
+ */
+const showNav = children.length === 0;
+
+/* A play landing is often nothing but its data sheet once the facts are lifted
+   into frontmatter, and an empty prose wrapper still prints its own line-height
+   as a gap between the sheet and the section list. */
+const hasBody = Boolean(entry.body?.trim());
+
+/* `play-poster` is the name the clicked card on the index hands over, so the
+   artwork travels and grows into place instead of one image fading out and
+   another fading in. Set here rather than as an attribute comment — Astro reads
+   anything inside the tag as a prop. */
+const morph = 'view-transition-name: play-poster';
+
+const description =
+  synopsis?.replace(/[*[\]]|\(https?:\/\/[^)]*\)/g, '').slice(0, 200) ??
+  `${title} — from the archive of Sir Alan Ayckbourn.`;
+---
+
+<Base title={title} description={description}>
+  {
+    isPlay ? (
+      <header class="bg-chrome text-chrome-ink">
+        <div
+          class="mx-auto grid max-w-6xl items-end gap-8 px-4 pt-16 pb-14 sm:grid-cols-[minmax(0,14rem)_1fr] sm:gap-12 sm:px-6"
+        >
+          {poster && (
+            <Image
+              src={poster}
+              alt={`Poster artwork for ${title}`}
+              widths={[poster.width]}
+              sizes={`${poster.width}px`}
+              style={morph}
+              class="max-w-full animate-[rise-in_.7s_var(--ease-stage)_both] justify-self-start rounded-sm shadow-2xl shadow-black/50"
+            />
+          )}
+
+          <div class:list={[!poster && 'sm:col-span-2']}>
+            <p
+              class="animate-[rise-in_.6s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
+            >
+              {playNumber ? `Play ${playNumber}` : 'The Archive'}
+              {year && <span class="tabular-nums"> &middot; {year}</span>}
+            </p>
+            <h1
+              class="mt-4 animate-[rise-in_.7s_var(--ease-stage)_.06s_both] font-display text-[clamp(2.5rem,8vw,5.5rem)] uppercase leading-[0.9]"
+            >
+              {title}
+            </h1>
+            {synopsis && (
+              <p
+                class="mt-6 max-w-[54ch] animate-[rise-in_.7s_var(--ease-stage)_.12s_both] text-chrome-muted"
+                set:html={synopsis.replace(/\*([^*]+)\*/g, '<em>$1</em>')}
+              />
+            )}
+          </div>
+        </div>
+      </header>
+    ) : (
+      <header class="border-rule border-b px-4 pt-12 pb-10 sm:px-6">
+        <div class="mx-auto max-w-6xl">
+          {trail.length > 0 && (
+            <nav aria-label="Breadcrumb">
+              <ol
+                class="flex flex-wrap items-center gap-x-2 font-ui text-[0.7rem] uppercase tracking-[0.18em] text-muted"
+              >
+                {trail.map((step) => (
+                  <li class="after:ml-2 after:text-rule after:content-['/'] last:after:content-none">
+                    <a href={step.href} class="hover:text-accent">
+                      {step.title}
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          )}
+          <h1
+            class="mt-4 max-w-[24ch] font-display text-[clamp(2.1rem,5.5vw,3.75rem)] uppercase leading-[0.95] text-balance"
+          >
+            {title}
+          </h1>
+        </div>
+      </header>
+    )
+  }
+
+  {showNav && <SectionNav id={entry.id} />}
+
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    {
+      /* The data sheet before the prose: dates and venues are what most people
+         came for, and the archive's own pages open with them too. */
+      isPlay && facts && (
+        <section aria-labelledby="data-sheet" class="mb-14" data-reveal>
+          <h2
+            id="data-sheet"
+            class="mb-6 font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+          >
+            Production facts
+          </h2>
+          <Facts facts={facts} omit={['Short Synopsis', 'Play Number']} />
+        </section>
+      )
+    }
+
+    {
+      hasBody && (
+        <div class="prose-archive" data-reveal>
+          <Content />
+        </div>
+      )
+    }
+
+    {
+      children.length > 0 && (
+        <nav aria-labelledby="in-section" class="mt-16">
+          <h2
+            id="in-section"
+            class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
+          >
+            In this section
+          </h2>
+          <ul class="mt-6 grid gap-px overflow-hidden rounded-sm bg-rule sm:grid-cols-2 lg:grid-cols-3">
+            {children.map((child, i) => (
+              <li data-reveal style={`--reveal-delay: ${Math.min(i, 8) * 0.04}s`}>
+                <a
+                  href={`/${child.id}`}
+                  class="group flex h-full items-baseline gap-3 bg-surface p-5 transition-colors hover:bg-surface-raised"
+                >
+                  <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">
+                    {child.data.title}
+                  </span>
+                  {child.data.year && (
+                    <span
+                      class="ml-auto font-ui text-xs text-muted tabular-nums"
+                    >
+                      {child.data.year}
+                    </span>
+                  )}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )
+    }
+  </div>
+
+  <Lightbox />
+</Base>

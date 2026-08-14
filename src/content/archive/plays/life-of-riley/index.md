@@ -15,6 +15,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Published: [Samuel French](http://www.concordtheatricals.co.uk/s/11630/life-of-riley/)**
 
-**Availability**

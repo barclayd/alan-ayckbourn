@@ -5,7 +5,7 @@ order: 1129
 play: "absent-friends"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Absent Friends. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Absent Friends. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **What does it mean that *Absent Friends* is set in 'real time'?**  
 A play set in 'real time' means the same amount of time elapses for the characters in the play as does for the audience. So a two hour long play presents 120 uninterrupted minutes of the characters' lives. Essentially, if a two hour play is set at 2pm one afternoon, it will finish at 4pm that afternoon. There are no jumps in time or location, we spend two hours watching two hours of these character's lives at the tea party; the same amount of time elapses for both the audience and the characters in the play.

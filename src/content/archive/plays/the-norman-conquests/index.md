@@ -7,7 +7,6 @@ year: 1973
 poster: "./_images/stacks-image-e78a523.jpg"
 facts:
   Venue: "Theatre in the Round at the Library Theatre, Scarborough"
-  Venue Venue: "Greenwich Theatre"
   New York Premiere: "7 December 1975"
   New York Premiere Venue: "Morosco Theatre"
   Play Numbers: "13 - 15"
@@ -24,7 +23,8 @@ facts:
 
 **London Premiere (*Table Manners*):** 9 May 1974  
 **London Premiere (*Living Together*):** 21 May 1974  
-**London Premiere (*Round And Round The Garden*):** 6 June 1974
+**London Premiere (*Round And Round The Garden*):** 6 June 1974  
+**Venue:** Greenwich Theatre
 
 **Availability**
 

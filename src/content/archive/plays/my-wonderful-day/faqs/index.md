@@ -5,7 +5,7 @@ order: 1965
 play: "my-wonderful-day"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's My Wonderful Day. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's My Wonderful Day. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **\[Regarding producing the play\] Can I use an adult to play the role of nine year old Winnie in *My Wonderful Day*?**  
 Only if the actor can convincingly portray a young girl, as the author notes *My Wonderful Day* should never be performed 'aged up'. To quote Alan Ayckbourn's own notes on the play: "It is appreciated that one of the difficulties of this play is in casting Winnie the right age. Either she needs to be played by a young actor of a similar age with all the ensuing legal and logistical problems which casting an under-age performed entails or the role may be played by a slightly older actor who is able to create a truthful and credible impression of the character's age. This, after all, is theatre! In either case, it is vital that the role is not in any way 'aged up'. Winnie is a child and this play is told through a child's eyes." For the original production, 28 year old Ayesha Antoine played the role so convincingly as a nine year old that many members of the audience believed the actress was certainly no older than 13 years old.

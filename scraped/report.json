@@ -143,10 +143,10 @@
     "archiving.alanayckbourn.net",
     "archivingayckbourn.home.blog.alanayckbourn.net"
   ],
-  "pages": 2466,
-  "written": 2466,
-  "images": 1184,
-  "navBlocksDropped": 833,
+  "pages": 2460,
+  "written": 2458,
+  "images": 1182,
+  "navBlocksDropped": 975,
   "boilerplateBlocksDropped": 1428,
   "untitled": [
     "http://www.alanayckbourn.net/",
@@ -160,16 +160,43 @@
     "http://plays.alanayckbourn.net/contact-form/",
     "http://plays.alanayckbourn.net/page-7/contact-form-2/",
     "http://advocates.alanayckbourn.net/page/contact-form/",
-    "http://interviews.alanayckbourn.net/resources/Biography---Definitive.pdf",
-    "http://interviews.alanayckbourn.net/resources/Play-Index---Complete.pdf",
-    "http://interviews.alanayckbourn.net/resources/Timeline-%C2%A9-Haydonning-Ltd.pdf",
-    "http://interviews.alanayckbourn.net/resources/20-Facts---Definitive.pdf",
-    "http://interviews.alanayckbourn.net/resources/Playwriting.pdf",
-    "http://interviews.alanayckbourn.net/resources/20-Facts---Playwriting.pdf",
     "http://copyright.alanayckbourn.net/contact-form/"
   ],
-  "unresolvedLinks": [],
-  "imagesWithoutAlt": 1184,
+  "emptyPages": [
+    "http://www.alanayckbourn.net/page-2/NewsInDepth.html",
+    "http://www.alanayckbourn.net/page-6/NewsInDepth.html"
+  ],
+  "unresolvedLinks": [
+    {
+      "from": "http://www.alanayckbourn.net/page33/",
+      "to": "http://thewomaninblack.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page80/",
+      "to": "http://archiving.alanayckbourn.net/"
+    },
+    {
+      "from": "http://biography.alanayckbourn.net/styled-22/page/",
+      "to": "http://archiving.alanayckbourn.net/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-3/page-7/",
+      "to": "http://thesjt.alanayckbourn.net/page1/styled-45/"
+    },
+    {
+      "from": "http://careers.alanayckbourn.net/styled-3/page140/",
+      "to": "http://thesjt.alanayckbourn.net/page1/styled-45/"
+    },
+    {
+      "from": "http://encyclopedia.alanayckbourn.net/page-20/styled-19/S.html",
+      "to": "http://thesjt.alanayckbourn.net/"
+    },
+    {
+      "from": "http://jokingapart.alanayckbourn.net/styled-5/",
+      "to": "http://the-sjt.alanayckbourn.net/page12/page196/styled-63/"
+    }
+  ],
+  "imagesWithoutAlt": 1182,
   "failures": [
     {
       "url": "http://archiving.alanayckbourn.net/",
@@ -212,8 +239,8 @@
       "error": "route / already taken by www.alanayckbourn.net"
     },
     {
-      "url": "http://the-sjt.alanayckbourn.net/",
-      "error": "off-domain redirect: http://theatre-in-the-round.com/"
+      "host": "the-sjt.alanayckbourn.net",
+      "error": "no route mapping"
     },
     {
       "url": "http://directing.alanayckbourn.net/styled-5/",
@@ -652,6 +679,7 @@
     "alanayckbourn.net",
     "chloewithlove.alanayckbourn.net",
     "howtheotherloves.alanayckbourn.net",
+    "the-sjt.alanayckbourn.net",
     "thegirlnextdoor.alanayckbourn.net",
     "theplays.alanayckbourn.net"
   ],
@@ -683,13 +711,11 @@
     "research.alanayckbourn.net",
     "roleplay.alanayckbourn.net",
     "standingroomonly.alanayckbourn.net",
-    "the-sjt.alanayckbourn.net",
     "theboywhofell.alanayckbourn.net",
     "thesjt.alanayckbourn.net",
     "thewomaninblack.alanayckbourn.net",
     "truthwillout.alanayckbourn.net",
     "whenever.alanayckbourn.net",
-    "writingabsurdpersonsingular.alanayckbourn.net",
     "www.alanayckbourn.net"
   ]
 }

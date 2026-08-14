@@ -17,7 +17,6 @@ facts:
   World premiere Venue: "Stephen Joseph Theatre, Scarborough"
   Staging: "End-stage"
   Director: "Alan Ayckbourn"
-  Director Director: "Laurie SansomCharacter"
 ---
 
 ### History
@@ -30,6 +29,8 @@ The plot concerns Miranda, who is extremely pretty. She knows she is because her
 
 ### Premiere Production Details (2004)
 
+**Director:** Steve Marmion  
+**Director:** Laurie Sansom**Character**  
 Miranda  
 Narrator**Actor**  
 Laura Doddington  

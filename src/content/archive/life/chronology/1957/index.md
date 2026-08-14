@@ -23,5 +23,3 @@ During 1957, Alan Ayckbourn…
 ○ wrote a number of unproduced plays (between 1957 and 1959) which included: ***[The Season](/plays/childrens-plays-index/early-writing-plays)***; ***[Relative Values](/plays/childrens-plays-index/early-writing-plays)***; ***[Mind Over Murder](/plays/childrens-plays-index/early-writing-plays)***; ***[The Party Game](/plays/childrens-plays-index/early-writing-plays)***. Most of these plays are now lost and none have been performed.
 
 ![](./_images/stacks-image-9d54e48.jpg)
-
-### Professional Acting

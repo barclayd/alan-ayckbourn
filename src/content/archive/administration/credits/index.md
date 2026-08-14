@@ -12,8 +12,6 @@ Thanks also to the photographers **[Tony Bartholomew](http://www.bartpics.co.uk/
 
 In memory: Albert-Reiner Glaap, Stephen Wood
 
-### Contributions & Donations
-
 ### Website Supporters & Dedications (2003 - 2026)
 
 Between 2003 and April 2006, a number of plays within the **[Plays](/plays)** section featured banners relating to supporters or dedications.  

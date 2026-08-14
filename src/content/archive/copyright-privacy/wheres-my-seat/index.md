@@ -14,7 +14,7 @@ As part of the website's desire to protect copyright, the majority of featured i
 
 ### Obtaining Photographs
 
-The website can provide an official portrait of Alan Ayckbourn for use in theatre programmes / playbills, articles and publications. All enquiries should be sent to the **[Enquiries page](/)**.
+The website can provide an official portrait of Alan Ayckbourn for use in theatre programmes / playbills, articles and publications. All enquiries should be sent to the **[Enquiries page](http://www.alanayckbourn.net/contact-form/Contacts.php)**.
 
 The use of the image by Andrew Higgins (as featured in the website banner) is available for free providing the photographer and website are credited.
 
@@ -24,4 +24,4 @@ The website also features thumbnails of hundreds of posters of various Alan Ayck
 
 Please do not reproduce these as they are the copyright of the commissioning organisation, artist or creative organisation. This website is not able to grant permission to reproduce the images and does not condone unauthorised reproduction of the images.
 
-If you do have any questions regarding poster images, please contact us via the **[Enquiries page](/)**.
+If you do have any questions regarding poster images, please contact us via the **[Enquiries page](http://www.alanayckbourn.net/contact-form/Contacts.php)**.

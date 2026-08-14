@@ -41,5 +41,3 @@ Date unknown: The Library Theatre, Scarborough
 9 February: Studio Theatre tour  
 ○ ***Love After All*** (Revival)  
 30 June: The Library Theatre, Scarborough
-
-### Professional Acting

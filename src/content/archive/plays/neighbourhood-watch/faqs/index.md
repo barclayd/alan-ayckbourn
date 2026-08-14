@@ -5,7 +5,7 @@ order: 1994
 play: "neighbourhood-watch"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Neighbourhood Watch. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Neighbourhood Watch. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **In Act II Scene i, Hilda says 'Prowling, like the troops of Midian' what does this refer to?**  
 This is a quote from an English church hymn (number 72 in the English Hymnal by J.M. Neale; number 65 in the New English Hymnal) which includes the verse: 'Christian, does thou see them - On the holy ground - How the troops of Midian - Prowl and prowl around?' It's a deliberately obscure quote that Hilda would certainly know, but would be recognised by very few other people.

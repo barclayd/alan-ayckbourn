@@ -5,7 +5,7 @@ order: 1391
 play: "it-could-be-any-one-of-us"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's It Could Be Any One Of Us. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's It Could Be Any One Of Us. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Can *It Could Be Any One Of Us* be performed without the random murderer?**  
 Yes. Whilst the play was written with the intention that the murderer is randomly determined each night on stage, there is nothing to stop productions making the decision before hand for the evening, although that does reduce much of the play's appeal. However, it can and has successfully been done as a 'set' text lacking the random element.

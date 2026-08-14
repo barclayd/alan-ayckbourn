@@ -14,8 +14,6 @@ facts:
   Director: "Unknown"
   Company: "Scarborough Theatre Guild Cast included (TBC):"
   Venue: "St Mary's Parish House, Scarborough"
-  Venue Director: "Ken Boden"
-  Director Company: "Scarborough Theatre Guild Cast included:"
 ---
 
 **Published / Available to Stage:** No
@@ -46,6 +44,8 @@ Colin Scott
 Fred Bishop  
 Jane Young **Revival Production Details (1961)** **World premiere:** October 1961
 
+**Director:** Ken Boden  
+**Company:** Scarborough Theatre Guild **Cast included:**  
 Alan Ayckbourn  
 Nick Carter  
 Vicki Smart

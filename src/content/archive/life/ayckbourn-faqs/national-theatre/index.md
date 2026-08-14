@@ -4,7 +4,7 @@ source: "http://biography.alanayckbourn.net/styled-5/styled-14/BiographyFAQNatio
 order: 362
 ---
 
-*This page contains FAQs concerning Alan Ayckbourn and association with the National Theatre. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](/life)*** *page.*
+*This page contains FAQs concerning Alan Ayckbourn and association with the National Theatre. If there is a question not listed here which you feel should be listed, please contact the website via the* ***[Contact Us](http://biography.alanayckbourn.net/contact-form/Contact.php)*** *page.*
 
 **1)** When did Alan Ayckbourn take a sabbatical from the Stephen Joseph Theatre to join the National Theatre?  
 **2)** What was Alan Ayckbourn’s connection to the Stephen Joseph Theatre during this period?  

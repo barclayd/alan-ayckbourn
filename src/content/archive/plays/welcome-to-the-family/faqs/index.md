@@ -5,7 +5,7 @@ order: 2141
 play: "welcome-to-the-family"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Welcome to the Family. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd answers some of the most frequently asked questions about Alan Ayckbourn's Welcome to the Family. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **When will *Welcome to the Family* be published?**  
 There is no information regarding this yet, but judging by recent publications of Alan Ayckbourn's plays, it will probably be published during 2025.

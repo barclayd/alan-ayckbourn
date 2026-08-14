@@ -6,8 +6,6 @@ order: 637
 
 *Between 1965 and 1970, Alan Ayckbourn was employed as a Radio Drama Producer by the BBC. He was responsible for directing dozens of works for the radio, sadly details of the majority of which have been lost. These pages contain details for specific productions where known.*
 
-### Keep Amy Kettle Off The Road (1970)
-
 ### Production Details
 
 **Author:**

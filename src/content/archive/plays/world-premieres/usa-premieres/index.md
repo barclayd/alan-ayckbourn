@@ -10,8 +10,6 @@ This page contains basic details about the North American premieres of Alan Ayck
 **Notes:** The list includes North American premieres of the plays - where a play has been produced in New York, a provincial premiere is also included if applicable. Plays not available for production have been omitted from the list. Plays are listed in the order they were written. Italicised titles indicate plays which the website is not aware of having been produced in America.  
 **Help needed:** No records exist about the North American premieres of Alan Ayckbourn's plays. If you have information which expands, corrects or updates this page, your help is gratefully received. Please contact Simon Murgatroyd at: **[admin@alanayckbourn.net](mailto:admin@alanayckbourn.net)**.
 
-### Play Title
-
 ### Premiere
 
 17 October 1996  

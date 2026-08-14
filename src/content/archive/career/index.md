@@ -6,12 +6,6 @@ order: 13
 
 This section offers an in-depth look at Alan Ayckbourn's many careers within professional theatre. Although primarily known as a playwright & director, Alan Ayckbourn's career in theatre has been wide-ranging and his position as Artistic Director of the Stephen Joseph Theatre is as crucial to understanding Ayckbourn as his playwriting & directing careers.
 
-### Theatre Careers
-
-### Venues & Organisations
-
-### Other Resources
-
 ### Alan Ayckbourn: A Careers Timeline
 
 **○ 1956:  

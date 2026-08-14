@@ -32,5 +32,3 @@ Alan Ayckbourn
 Alan Ayckbourn  
 Alan Ayckbourn  
 Naomi Petersen
-
-### Quotes & Notes

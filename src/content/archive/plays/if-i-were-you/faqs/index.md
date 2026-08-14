@@ -5,7 +5,7 @@ order: 1925
 play: "if-i-were-you"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's If I Were You. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's If I Were You. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **What causes Jill and Mal to swap bodies in *if I Were You*?**  
 It is not explained and is left deliberately ambiguous - the playwright feels it is up to the audience to come to their own conclusions. The play is open to interpretation, although the playwright has noted in correspondence that Jill's final words before the change - 'Oh, God helps us all' - could be interpreted as divine intervention; although the playwright has emphasised this is not a definitive interpretation. The only thing that can be said about the change with any certainty is it is not a dream as the climatic conversation between Jill and Mal shows.

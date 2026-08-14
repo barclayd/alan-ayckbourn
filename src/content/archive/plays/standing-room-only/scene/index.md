@@ -42,5 +42,3 @@ play: "standing-room-only"
 **Pa:** Yes, you are, aren’t you? To a typical product of the Government Multiple Store - mass produced and dehydrated. Did you get him free with a packet of soup or something?  
 **Nita:** I wish you’d talk to John, Pa.  
 **Pa:** Ha, me? Talk to that great roll of red tape with hair on - ? Not likely.
-
-### Notes

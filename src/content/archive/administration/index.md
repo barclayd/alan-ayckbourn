@@ -4,7 +4,7 @@ source: "http://www.alanayckbourn.net/styled-5/FAQs.html"
 order: 8
 ---
 
-*This page contains details regarding the website and its administration. If you have any other questions, please contact the website via the* ***[Contact Us](/)*** *Page.*
+*This page contains details regarding the website and its administration. If you have any other questions, please contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *Page.*
 
 ### The Website
 

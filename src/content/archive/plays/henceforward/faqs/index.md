@@ -5,7 +5,7 @@ order: 1461
 play: "henceforward"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Consuming Passions. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Consuming Passions. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **Some of the technological references in the plays are now outdated, can they be changed for production?**  
 As long as they are sympathetic and unobtrusive, yes. When Alan Ayckbourn revived the play in 2016, he made several small changes to the script relating to how technology had advanced, but they were minimal. The most noticeable alteration was Mervyn's description of all the technology about his person in Act II, which was essentially just cut to his alarm vest. The speech on page 51 of the Samuel French edition was cut to:

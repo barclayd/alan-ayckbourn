@@ -9,8 +9,6 @@ facts:
 
 This page has an at-a-glance guide to which Ayckbourn plays have been adapted to or performed in media other than on the stage such as TV, radio and film. Click on a play-title to go to the relevant page in the **[Encyclopaedia](/encyclopaedia)** section with details about the media adaptations.
 
-### Play Title
-
 ### Format
 
 ○ [Absent Friends](/career/recordings/other-media/absent-friends)  

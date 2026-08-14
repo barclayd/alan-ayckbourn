@@ -13,22 +13,16 @@ facts:
   Description: "Revue"
   Composer: "Paul Todd"
   World premiere: "22 May 1986"
-  World premiere Final performance: "11 September 1986"
+  Final performance: "11 September 1986"
   Venue: "Stephen Joseph Theatre In The Round, Scarborough"
   Staging: "End-stage"
   Design: "Clare Bracewell"
   Lighting: "Mick ThomasCharacter"
   First performance: "5 December 1986 (TBC)"
   Premiere: "14 December 1986 (TBC)"
-  Premiere Final performance: "14 March 1987 (TBC)"
-  Final performance Venue: "Lyttelton Buffet, National Theatre, London"
-  Venue Staging: "End-stage"
   Director: "Alan Ayckbourn"
   Music: "Paul Todd"
-  Music Design: "Emma B Lloyd"
-  Design Lighting: "Steve Ramsden"
   Sound: "Rob Barnard"
-  Sound Sound: "Gary GilesCharacter"
 ---
 
 **Published / Available to Stage:** No
@@ -65,6 +59,13 @@ Serena Evans**Stage Manager:** David Parker
 
 ### London Premiere Details (1987)
 
+**Final performance:** 14 March 1987 (TBC)  
+**Venue:** Lyttelton Buffet, National Theatre, London  
+**Staging:** End-stage
+
+**Design:** Emma B Lloyd  
+**Lighting:** Steve Ramsden  
+**Sound:** Gary Giles**Character**  
 Charles  
 Janice  
 Michael  

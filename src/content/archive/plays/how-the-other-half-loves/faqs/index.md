@@ -5,7 +5,7 @@ order: 1024
 play: "how-the-other-half-loves"
 ---
 
-*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's How The Other Half Loves. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's How The Other Half Loves. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](http://www.alanayckbourn.net/contact-form/Contacts.php)*** *page.*
 
 **What is the ideal way to stage *How The Other Half Loves*?**  
 In-the-round! Any other staging compromises the play's effectiveness. *How The Other Half Loves* was conceived and written for in-the-round performance and its world premiere performance, directed by Alan Ayckbourn, was in-the-round. The idea of its overlaid apartments is most simply and effectively achieved within the round space as the floor becomes the focus.

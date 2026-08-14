@@ -7,7 +7,6 @@ year: 1998
 poster: "./_images/stacks-image-7c797d9.jpg"
 facts:
   Venue: "Stephen Joseph Theatre, Scarborough"
-  Venue Venue: "Stephen Joseph Theatre, Scarborough"
   Play Number: "53"
   Published: "[Faber](http://www.concordtheatricals.co.uk/s/11337/the-boy-who-fell-into-a-book/) (play)"
   Other Media: "No"
@@ -18,6 +17,6 @@ facts:
 
 **World Premiere (play):** 4 December 1998  
 **London Premiere (play):** 18 July 2012  
-**World premiere (musical adaptation):** 23 July 2014
-
-**Availability (play)**
+**Venue:** Soho Theatre  
+**World premiere (musical adaptation):** 23 July 2014  
+**Venue:** Stephen Joseph Theatre, Scarborough
