@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page147/"
-order: 488
+order: 554
 ---
 
 ## 'Prentice Pillar (1960)
@@ -40,7 +40,7 @@ Faynia Jeffery
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 **Review extract from unknown publication** (June 1960)  
 "A sensitive performance was given by Alan Ayckbourn as the apprentice."

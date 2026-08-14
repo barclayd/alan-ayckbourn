@@ -1,0 +1,31 @@
+---
+title: "Frequently Asked Questions"
+source: "http://jokingapart.alanayckbourn.net/styled-11/"
+order: 1254
+play: "joking-apart"
+---
+
+*Alan Ayckbourn's Archivist Simon Murgatroyd's answers some of the most frequently asked questions about Alan Ayckbourn's Joking Apart. If you have a question about this or any other of Alan Ayckbourn's plays, you can contact the website via the* ***[Contact Us](/)*** *page.*
+
+**Could Melody / Mandy / Mo / Debbie be played by different actresses?**  
+Not really. The point of the girls - all Brian's girlfriends with the exception of Richard and Anthea's daughter Debbie - is that although they are all different and increasingly younger, they all resemble each other (as emphasised by the line that all the girlfriends look similar). Although Brian keeps finding different girlfriends, ostensibly they're the same and he keeps making the same mistakes in his life. They are all inadequate substitutes for Anthea in Brian's mind.
+
+**What has happened to Louise at the climax?**  
+Louise has, essentially, suffered a breakdown by the climax of the play. Hers is a subtle deterioration which takes place throughout the play - starting with Hugh's decision to allow Richard to tear down the garden fence. Hugh is unable to see how inconsiderate it is to Louise to agree to this and her self-confidence is knocked already as Hugh begins his obsession with Anthea. By the second scene, we become aware that Louise's self-esteem, belief and confidence is already being eroded by Anthea which is amplified in the third scene where it is obvious that Louise feels she has been sidelined in her husband's own parish. There is a lot of resentment and anger towards Anthea - which we have already been made aware of in scene two with her declaration of never trusting Anthea - exacerbated as again it is implied that Hugh has been spending increasing amounts of time with Anthea and has turned to her, rather than Louise, during his crisis of faith. Angry already about how Hugh treats Anthea anyway, it seems likely that at some level she is also aware that their marriage is dying and Hugh's affections - or thoughts of affection - are concentrated elsewhere.  
+By the final scene, Louise has suffered a breakdown and is heavily medicated leading to her unpredictable behaviour when her dosage / medication is altered (a common reaction to any medication of this sort particularly given the era the play is set in). On top of this, their 'problem' child has grown up essentially ignoring them, diminishing their self-worth as parents whilst Anthea and Richard's relationship has highlighted all that is wrong in theirs.  
+Louise's breakdown is entirely understandable, not least because she appears to have retreated into a child-like state where she no doubt feels safer.  
+It is important to note that the idea of a woman driven to extremes and breakdown is a common theme within Alan's work and that he is never mocking the condition or the character. What humour derives from scenes around them is generally driven by the other characters and how they react to the situation (generally selfishly and without true concern). Be it Louise in *Joking Apart*, Susan in ***[Woman In Mind](/plays/woman-in-mind)***, Vera in ***[Just Between Ourselves](/plays/just-between-ourselves)***, Eva in ***[Absurd Person Singular](/plays/absurd-person-singular)*** or any of his other female characters, the author's intent is we sympathise with their plight and understand how they have been driven to this point as well as appreciating the sadness inherent in the situation of women driven to the edge by lack of care, sympathy or, frequently, just understanding.  
+Louise is also, arguably, a prototype for Susan in *Woman In Mind*; both are women married to vicars and have sons they have not spoken to in years, whose situation and circumstances push them to a breakdown.  
+There is also an interpretation of the play that each of the characters around Richard and Anthea suffer a different kind of loss by the end of the play as a result of they - or their - relationships being diminished by being in Richard and Anthea's orbit. Sven physically following his stroke, Louise mentally following her breakdown, Hugh spiritually following his crisis of faith whilst Brian has lost hope (arguably his life is completely wasted) due to his unwillingness to accept he can never have Anthea or - at the end - Debbie.
+
+**Can the play be updated to the present day from the 1970s?**  
+No. Alan Ayckbourn firmly believes the vast majority of his plays are period pieces which reflect the time in which they were written. This is frequently something as subtle as social change (none of the women in *Joking Apart* work, which is relevant to the '70s but would seem out of place today) or technological (Sven's difficulty in contacting Richard would be harder to believe in the present day given the ubiquity of mobile phones and email). The attitudes of the characters is also indicative of the period. Alan feels very strongly that the plays lose something - and frequently do not make sense - if they are moved out of the time they were written in and are best served being faithful to the period.  
+It is also preferred that all productions should carry a programme note stating the plays is set during the 1970s to give context to the play and characters.
+
+**The play covers a 12 year period, ideally what years should these be?**  
+Given Alan's stated preference that *Joking Apart* be staged in period - contemporary to the time he was writing - the production should incorporate the 1970s, but it is not clear whether the play starts or ends in this period. For his 2018 revival, the playwright directed the play with the opening scene in 1966 and the final scene in 1978; the year in which the play was written.
+
+**What was the music used in Alan Ayckbourn's 2018 revival of *Joking Apart* at the Stephen Joseph Theatre?**  
+The music for the original production at the Stephen Joseph Theatre was composed by Michael Nyman and features tracks from *And Do They Do*. Music from Song I and Song II was used to open the show and then between scenes. The music for the final scene for Debbie's party was Santana's *Pa Ti*.
+
+*All research for this page by Simon Murgatroyd.*

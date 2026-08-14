@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page153/"
-order: 494
+order: 560
 ---
 
 ## Dad's Tale (1960)
@@ -40,7 +40,7 @@ Clifford Williams
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 ***[Dad's Tale](/plays/dads-tale)*** was Alan Ayckbourn's first play written for children and was a co-production with the dance company the British Dance Drama Theatre. He played seven roles in the production.
 

@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page145/"
-order: 484
+order: 550
 ---
 
 ## Then… (1960)
@@ -32,7 +32,7 @@ Dona Martyn
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 *Then...* was performed as part of David Campton's *The Lunatic View* - an anthology of four short one act plays. It is not known precisely when Alan Ayckbourn performed in the play as no programme or reviews exist which mention him. However, he definitely performed the role as photographs exist of him rehearsing the play with **[Stephen Joseph](/life)** and Dona Martyn. The best guess is Alan performed the play at some point during the 1959 / 1960 touring season with Studio Theatre Ltd.
 

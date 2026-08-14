@@ -1,0 +1,25 @@
+---
+title: "Did You Know?"
+source: "http://loveafterall.alanayckbourn.net/styled-6/"
+order: 904
+play: "love-after-all"
+---
+
+*This article was originally published on the Alan Ayckbourn Blog as part of the Replaying Ayckbourn series of articles celebrating the playwright's 75th birthday in 2014.*
+
+○ *Love After All* is the Ayckbourn play about which least is known. Only one original manuscript survives (despite there being two different versions of the play), very few reviews exist and Alan Ayckbourn has said very little about the play.  
+○ The only surviving manuscript for *Love After All* was discovered by Alan’s archivist Simon Murgatroyd and the British Library in the Lord Chamberlain’s Plays collection (held at the British Library) in 2007. It is a clean, pre-production script and thus there is no indication of how representative it is of the actual produced play.  
+○ It is, arguably (and I’d argue very strongly for this!), the most conventional play written by Alan Ayckbourn. It is a period farce which satisfies but does not push the conventions of the genre.  
+○ Although apparently based on *The Barber Of Seville*, it seems this was only in the loosest use of the term.  
+○ Alan has suggested it was an easier play to write than ***[The Square Cat](/plays/the-square-cat)*** as he stole the plot; he has never explained why he stole the plot though. This could be because he was only commissioned to write it no earlier than 9 September 1959 (the end of the summer season) for rehearsals beginning no later than 9 December 1959 - less than three months!  
+○ It is attributed to Roland Allen (a pseudonym combining of the names of Alan and his wife, Christine Roland); quite why a pseudonym is used is unclear given the programme - free to all audience members - makes it clear the author Roland Allen is actually the actor Alan Ayckbourn.  
+○ *Love After All* is - even more so than *The Square Cat* - centred largely on providing a showcase for the leading actor (who plays four different characters). Ironically, Alan wrote it to showcase his own abilities, but was then not able to perform in the original production due to being called for National Service.  
+○ It is Alan’s first multi-location set as it contains both a ground floor living room and a second floor bedroom on the same stage.  
+○ Alan has frequently talked about how he and the company’s other resident playwright, David Campton, wrote each other the worst roles possible (culminating in David writing Alan a role for a one-eyed, one armed, one legged barman). Possibly it all began here with Alan casting David as an 83 year old miser (David being 35 at the time).  
+○ It is possibly (and I stand to be corrected) the only Ayckbourn play where a character gives an aside to the audience (breaking the in-the-round equivalent of the fourth wall) where the convention hasn’t been established as part of the narrative (i.e. the narrators / lead characters in certain family plays such as ***[Invisible Friends](/plays/invisible-friends)*** and ***[Miss Yesterday](/plays/miss-yesterday)***).  
+○ There is also an astonishing example of monologuing by Minta purely to provide exposition and, presumably, to just make it clear to the audience a character was in disguise; it's doubly unusual given Alan so rarely writes monologues in his plays.  
+○ Notable dialogue: “I have always ridiculed the doctor who sat and listened to his patient’s chest as if it were a gramophone. If a gramophone goes wrong, one does not sit listening to it. On the contrary, one opens it up - dear sir - opens it up and has a good look inside.”  
+○ *Love After All* has the shortest production run of any world premiere production of an Ayckbourn play. It ran from just 21 - 26 December with no production on Christmas Day.  
+○ It is also the quickest Ayckbourn play to be revived with an entirely new production. For the summer of 1960, the play was revived with a new director, Julian Herington. He decided he did not like the original production and updated it to a contemporary setting. As a script for this production hasn't survived, we have no idea how substantially it was altered.  
+○ The 1960 revival of the feature had a rather notable Assistant Stage Manager in the form of Martin Carthy; he is better known as the folk singer who would go on to become one of the UK's most influential and acclaimed figures in the British traditional music and an influence on the likes of Bob Dylan and Paul Simon. His first album was released five years after working at Theatre in the Round at the Library Theatre and featured the arrangement of *Scarborough Fair* which Paul Simon allegedly used without acknowledgment the following year to huge success.  
+○ While Alan joked in the 1970s he was trying to destroy all copies of his early plays, the fact that only one *Love After All* manuscript is known to exist (and in a place where Alan could not destroy it!), whereas there are multiple copies of his other early plays, does suggest he really did try to destroy *Love After All*!

@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn & Stephen Joseph"
 source: "http://biography.alanayckbourn.net/styled-37/page-11/"
-order: 327
+order: 395
 ---
 
 The most significant influence on Alan Ayckbourn's life is undoubtedly his mentor Stephen Joseph, who encouraged him to both write and direct. Alan first met Stephen in 1957 when he joined Studio Theatre Ltd at Theatre in the Round at the Library Theatre, Scarborough. The relationship between Stephen and Alan which grew from this shaped the course of Alan's life and his contribution to British theatre. These pages offer an insight into Alan's own thoughts on Stephen Joseph.

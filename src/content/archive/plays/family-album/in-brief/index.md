@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://familyalbum.alanayckbourn.net/page-9/"
-order: 723
+order: 2124
 play: "family-album"
 ---
 
@@ -26,7 +26,7 @@ play: "family-album"
 </aside>
 
 - *Family Album* is Alan Ayckbourn's 87th play.
-- The world premiere - directed by Alan Ayckbourn - was held at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, on 6 September 2022.
+- The world premiere - directed by Alan Ayckbourn - was held at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, on 6 September 2022.
 - *Family Album* follows one family in three time periods: 1952, 1992 and 2022. It marks the first time the playwright has written three timelines which interweave simultaneously on stage.The play was inspired by the BBC documentary television series *A House Through Time*.
 - *Family Album* has a mirror structure in which the events of Act II reflect that of Act I. Whilst Act I opens with the family in 1952, Act II opens with the family in 2022. Events - particularly relating to 1992 - are those seen and presented in a different light, allowing the events of the middle period to become clearer.
 - The play's time period of 70 years between 1952 and 1992 coincidentally mirrored that of Queen Elizabeth II, who came to the throne in 1952 and who died in September 2022, during the original run of the play.

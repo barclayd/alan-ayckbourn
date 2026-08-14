@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1979"
 source: "http://biography.alanayckbourn.net/styled-22/page58/"
-order: 55
+order: 273
 ---
 
 **[\<\<\< Previous page](/life/chronology/1978)**
@@ -18,7 +18,7 @@ order: 55
 
 During 1979, Alan Ayckbourn…
 
-○ wrote the first of his 'chance' plays at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough, with ***[Sisterly Feelings](/plays/sisterly-feelings)***; whose alternate two middle scenes are determined randomly.
+○ wrote the first of his 'chance' plays at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough, with ***[Sisterly Feelings](/plays/sisterly-feelings)***; whose alternate two middle scenes are determined randomly.
 
 ○ wrote what he considers to be his only true farce with ***[Taking Steps](/plays/taking-steps)***.
 

@@ -1,7 +1,7 @@
 ---
 title: "Alan Ayckbourn Remembering Stephen Joseph"
 source: "http://biography.alanayckbourn.net/styled-37/page-11/page-7/"
-order: 328
+order: 396
 ---
 
 *On 24 September 2017, the Stephen Joseph Theatre held an event entitled Remembering Stephen Joseph to mark the 50th anniversary of his death on 5 October 1967. The afternoon featured Sir Alan Ayckbourn, Dr Paul Elsam, Simon Murgatroyd and the actor Joanna Tope.  

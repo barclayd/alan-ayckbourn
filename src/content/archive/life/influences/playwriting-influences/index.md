@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Influences: Playwriting Influences"
 source: "http://biography.alanayckbourn.net/styled-36/styled-41/"
-order: 330
+order: 398
 ---
 
 *This page contains quotes from Alan Ayckbourn regarding his influences as a playwright. Whilst he has never spoken in real depth about playwrights and their influence in his writing, this page does at least offer an insight into some of his thoughts on the subject.*

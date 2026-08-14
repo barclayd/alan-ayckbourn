@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1997"
 source: "http://biography.alanayckbourn.net/styled-22/page76/"
-order: 73
+order: 291
 ---
 
 **[\<\<\< Previous page](/life/chronology/1996)**
@@ -28,7 +28,7 @@ During 1997, Alan Ayckbourn…
 
 ○ directed ***[By Jeeves](/plays/jeeves)*** at the Kennedy Center, Washington, and ***[Things We Do For Love](/plays/things-we-do-for-love)*** at the Palais des Beaux Arts, Belgium.
 
-○ directed *Things We Do For Love* at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**; the first production to run for more than 100 performances at the venue.
+○ directed *Things We Do For Love* at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**; the first production to run for more than 100 performances at the venue.
 
 ○ saw *By Jeeves* nominated for Outstanding Musical Production at the Olivier Awards.
 

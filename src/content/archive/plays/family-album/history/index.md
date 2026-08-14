@@ -1,11 +1,11 @@
 ---
 title: "History"
 source: "http://familyalbum.alanayckbourn.net/styled-2/"
-order: 722
+order: 2123
 play: "family-album"
 ---
 
-*Family Album* is Alan Ayckbourn's 87th produced full-length play and was written during the winter of 2021 for the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, and premiered on 6 September 2022.
+*Family Album* is Alan Ayckbourn's 87th produced full-length play and was written during the winter of 2021 for the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, and premiered on 6 September 2022.
 
 This was actually the third play Alan Ayckbourn wrote for the late summer 2022 slot at the SJT. Having been commissioned to write the play, Alan wrote two plays during late 2021 - *The Late Wife* and *Welcome to the Family* - which he intended to offer as a choice for the venue. However, at the point he was due to send them to the Artistic Director for consideration, he notified the theatre there would be a slight delay as he had instead begun work on a third play which he believed might be more suitable.
 
@@ -45,7 +45,7 @@ There are also two non-speaking roles of the removal men in 1952 and 2022. For t
 
 *Family Album* premiered at the Stephen Joseph Theatre, Scarborough, on 2 September 2022 and reviews of the play were predominantly good, if mixed. As an example, it had 4-star reviews in The Observer and The Stage, 3-star reviews in The Guardian and Daily Telegraph and a 2-star review in The Times. However, the company were universally acclaimed and it was agreed the structure of the play was ingenious with interesting themes.
 
-The play then embarked on a short in-the-round tour and was also filmed by the SJT for streaming for two weeks. This marked only the second time - after ***[The Girl Next Door](http://thegirlnextdoor.alanayckbourn.net/)*** in 2021 - when a world premiere production of an Ayckbourn play, directed by the playwright in-the-round, was filmed.
+The play then embarked on a short in-the-round tour and was also filmed by the SJT for streaming for two weeks. This marked only the second time - after ***[The Girl Next Door](/plays/the-girl-next-door)*** in 2021 - when a world premiere production of an Ayckbourn play, directed by the playwright in-the-round, was filmed.
 
 In October 2023, Antony Eden won the Best Supporting Performance Award in the UK Theatre Awards for his role of John in the world premiere production.
 

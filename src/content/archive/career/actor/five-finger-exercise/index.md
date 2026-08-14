@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page152/"
-order: 493
+order: 559
 ---
 
 ## Five Finger Exercise (1960 / 1961)
@@ -40,7 +40,7 @@ Alan Ayckbourn
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 *Five Finger Exercise* was first performed by the Studio Theatre Ltd company at Theatre in the Round at the Library Theatre, Scarborough, during the winter 1960 season. It was revived the following year as part of the company's tour to Newcastle-under-Lyme and the summer season at Theatre in the Round at the Library Theatre with the same cast and director.
 

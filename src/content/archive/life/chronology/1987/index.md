@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1987"
 source: "http://biography.alanayckbourn.net/styled-22/page66/"
-order: 63
+order: 281
 ---
 
 **[\<\<\< Previous page](/life/chronology/1986)**
@@ -29,11 +29,11 @@ During 1987, Alan Ayckbourn…
 
 ○ became - it is believed - the only writer to have ever had plays running simultaneously at the National Theatre (*A Small Family Business*), in the West End (***[Woman In Mind](/plays/woman-in-mind)***) and on the fringe (***[The Westwoods](/plays/the-westwoods-his-side)***).
 
-○ directed Arthur Miller's ***[A View From The Bridge](http://aviewfromthebridge.alanayckbourn.net/)*** to critical acclaim at the National Theatre; Miller described it as the definitive production of the play. This production later transferred to the West End.
+○ directed Arthur Miller's ***[A View From The Bridge](/plays/miller-arthur)*** to critical acclaim at the National Theatre; Miller described it as the definitive production of the play. This production later transferred to the West End.
 
 ○ was nominated for Best Director for *A View From The Bridge* at the Olivier Awards.
 
-○ directed the American premiere of ***[Henceforward...](/plays/henceforward)*** at the Alley Theatre in Houston with George Segal as Jerome, following its world premiere at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough.
+○ directed the American premiere of ***[Henceforward...](/plays/henceforward)*** at the Alley Theatre in Houston with George Segal as Jerome, following its world premiere at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, Scarborough.
 
 ○ saw ***[Ernie's Incredible Illucinations](/plays/ernies-incredible-illucinations)*** broadcast by BBC1.
 

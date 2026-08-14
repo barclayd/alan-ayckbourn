@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1985"
 source: "http://biography.alanayckbourn.net/styled-22/page64/"
-order: 61
+order: 279
 ---
 
 **[\<\<\< Previous page](/life/chronology/1984)**
@@ -22,7 +22,7 @@ During 1985, Alan Ayckbourn…
 
 ○ received his first Olivier Award for *A Chorus Of Disapproval* (Best Comedy), which also received the Evening Standard and DRAMA Awards for Best Comedy as well as the Critics' Circle Award for Best New Play.
 
-○ announced he would be taking a sabbatical from the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** for two years from 1986 to 1988 to work as a company director at the National Theatre.
+○ announced he would be taking a sabbatical from the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** for two years from 1986 to 1988 to work as a company director at the National Theatre.
 
 ○ saw ***[Absent Friends](/plays/absent-friends)*** and ***[Absurd Person Singular](/plays/absurd-person-singular)*** adapted for television and broadcast on BBC1.
 

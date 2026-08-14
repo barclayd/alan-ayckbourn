@@ -1,7 +1,7 @@
 ---
 title: "The National Theatre"
 source: "http://careers.alanayckbourn.net/styled-2/page-105/NationalTheatre.html"
-order: 535
+order: 601
 ---
 
 Alan Ayckbourn has had a strong relationship with the National Theatre and was a **[Company Director](/career/national-theatre/nt-company-director)** between 1986 and 1988. The National Theatre is the most important venue Alan Ayckbourn is associated with outside of his home theatre in Scarborough.
@@ -10,7 +10,7 @@ This page explores Alan's tenure as a Company Director at the National Theatre b
 
 ## Company Director at the National Theatre (1986 - 1988)
 
-In 1984, **[Peter Hall](http://advocates.alanayckbourn.net/page/page-4/)**, the Artistic Director of the National Theatre, asked Alan whether he would consider coming to work at the National Theatre. This followed in the wake of the success of Alan's production of *A Chorus Of Disapproval* at the venue and several other productions at the National Theatre dating back to the London premiere of *Bedroom Farce* in 1977, when Alan directed for the first time in London.
+In 1984, **[Peter Hall](/career/advocates/alan-ayckbourn-advocates/peter-hall)**, the Artistic Director of the National Theatre, asked Alan whether he would consider coming to work at the National Theatre. This followed in the wake of the success of Alan's production of *A Chorus Of Disapproval* at the venue and several other productions at the National Theatre dating back to the London premiere of *Bedroom Farce* in 1977, when Alan directed for the first time in London.
 
 It would not be until 1986 that Alan took up the offer when he agreed to form his own company at the venue for two years, feeling it was both an opportune moment to take a break from Scarborough as well as an extraordinary opportunity to work at the National Theatre and showcase his abilities as a director.
 

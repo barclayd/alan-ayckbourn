@@ -1,0 +1,43 @@
+---
+title: "History"
+source: "http://bodylanguage.alanayckbourn.net/styled/"
+order: 1529
+play: "body-language"
+---
+
+In 1988 and 1989, Alan Ayckbourn wrote his first plays for young people, ***[Mr A’s Amazing Maze Plays](/plays/mr-as-amazing-maze-plays)*** and ***[Invisible Friends](/plays/invisible-friends)***. One of the consequences of writing these was his realisation a younger audience was quite willing to accept fantastical elements within his writing. In interviews, Alan said this gave him the confidence to start introducing the fantastic into his adult plays (arguably he had actually begun this process in 1987 with ***[Henceforward…](/plays/henceforward)***). Although most writers discussing Alan’s work suggest ***[Wildest Dreams](/plays/wildest-dreams)*** (1992) was the first play to be directly influenced by his experiences of writing for young people, Alan was confidently moving into the extraordinary two years earlier with the inarguably fantastic premise of *Body Language* (1990).
+
+<aside>
+
+**Behind The Scenes: Body Talk**  
+Although *Body Language* is dominated by the developing relationship between the two women, Angie and Jo, it also features one of Alan’s most memorable supporting characters in the shape of Hravic Zyergefoovc. The rude and lecherous surgeon of uncertain origin speaks his own language and Alan went so far as to create a lexicon for the character - his words may not be understood, but the intentions are painfully clear most of the time!
+
+</aside>
+
+Alan wanted to write a play which dealt with the ever-pertinent topic of body-issues: how we perceive ours and other people’s bodies and how those perceptions are affected by other people and the media. Alan had noted how then, as now, the media was obsessed with appearances and the body-beautiful; best-selling book charts were dominated by diet and fitness books. He wrote *Body Language* to tackle this issue and explore how women perceive themselves and how men perceive women through their bodies. This one issue was not enough for the play though - as Alan has frequently noted, he needs at least three ideas to come together before embarking on a play. The other major idea was the extraordinary ingredient and the play’s central plot device. In a conversation in the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**’s green room, Alan was telling the story of how the actress Jayne Mansfield died by decapitation in a car crash. While telling the story, the actress Frances Jeater revealed a scar on her neck, the result of being hurled through a windscreen. Alan took this as a positive portent for the play. In contemporary interviews, Alan also noted some of the astonishing advances in science and surgery - and the potential of abuse of these developments - which became his third inspiration.
+
+<aside>
+
+**Behind The Scenes: Body Double**  
+For the character of Jo, a complete body-suit was created to enable the actresses to gain substantially in weight and body mass (both the actresses playing Angie and Jo were of similar slim proportions having to both have 'glamour model' and obese bodies during the course of the play). The fat-suit had to have a high degree of realism due to the proximity of the audience to the stage and included such fine detail as hair on the arm. The costume was also notorious for shocking visitors to the Stephen Joseph Theatre's wardrobe and seeing a 'skin' hanging on the costume rail!
+
+</aside>
+
+The play's unexpected development occurs at the climax of the first act when a glamour model and an obese journalist lose their heads in an accident involving a helicopter rotor. At the beginning of the second act, they are revealed to have been miraculously saved; unfortunately in the process the decapitated heads have been attached to the wrong bodies. The play thus had a rather unique design challenge in having two young actresses who both had to be able to portray a buxom glamour model and the overweight journalist. Given this challenge was Alan's regular designer Roger Glossop who created ingenious body-suits which would allow two similarly proportioned actresses to transform into both of these characters. The glamour model 'enhancements' was restricted to a costume which enhanced the chest while for the journalist, an astonishingly realistic complete body suit, accurate to the hairs on the arms, was made. The level of detail was necessary due to the close-up view of the actors afforded by the intimacy of the in-the-round staging at the Stephen Joseph Theatre In The Round.
+
+The play was also notable for being the first play in which Alan worked with the composer John Pattison, who had become the theatre’s musical director, and with whom the playwright would work with extensively. Alan's commission, which would become a common feature of their work together, was for an almost cinematic incidental score.
+
+*Body Language* opened in May 1990 and was a success for the Stephen Joseph Theatre In The Round and generated a substantial amount of press coverage with regard to the issues raised; post-show question and answer sessions proved to be particularly lively! The critical reception was mixed, but largely positive. The most notable criticisms were the length of the play - which at over three hours was cause for concern, even for Alan - and the climax, which many felt took an easy way-out and didn’t live up to what had gone before. Intriguingly - if only because it would have be of interest to have an alternative opinion - none of the first-string reviews were written by women, which perhaps leaves an unfortunate gap in reaction to and perceptions of the original production. Of all of Alan's plays, it would have been fascinating to have a female perspective about this play for future reference. Meanwhile, Alan attempted to edit the play down during the first week of production, but it was too late to instigate major cuts and the play was burdened with a still substantial running time.
+
+<aside>
+
+**Behind The Scenes: Body Fat**  
+With an original running time of over three hours, Alan attempted to cut *Body Language* during the first week of the run, but was able to make little impact on the running time. When he came to revise the play in 1999, Alan describes going at the play like 'a madman with a hatchet', substantially reducing the running time, largely at the expense of the photographer, Derek.
+
+</aside>
+
+The original plan for the play was that after a short break, the original cast would then transfer whole to the West End in order to take advantage of the immediacy and topicality of the play. This would also have been the first time that the original Scarborough Company had transferred directly into the West End, but unfortunately the plan foundered and did not take place. Alan's regular London producer Michael Codron later suggested the play could be transferred to London in 1992 but this proved impractical due to Alan's schedule. There is also a sense that following the lack of success in the West End with ***[The Revengers' Comedies](/plays/the-revengers-comedies)*** in 1990, that perhaps a break from the West End was due. Whatever the case, it became only the first play since ***[It Could Be Any One Of Us](/plays/it-could-be-any-one-of-us)*** (1983) not to transfer and only his second since 1967 that would not be produced in a London theatre (be it commercial, the National Theatre or the fringe).
+
+Unusually *Body Language* was also not published - although it was made available for production and proved to be particularly popular in Germany. Alan noted at the time he might one day return to the play, but that would not come for almost a decade.
+
+Alan decided to revive *Body Language* at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, in 1999, during a period when he was revisiting and revising plays he was not originally happy with (these included ***[Jeeves](/plays/jeeves)***, *It Could Be Any One Of Us* and ***[Callisto 5](/plays/callisto-5)***). He extensively revised the script to a much reduced running time and the production was well-received and attracted a far more consistent set of positive reviews. It was not a huge pull with the audience, but the final product was far more satisfying, leading Alan’s biographer Paul Allen to describe it as: “still flawed, but richly complex in its signals, risky in its content and generous in its intention.” The revised version of the play was subsequently published by Samuel French in 2002.

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2009"
 source: "http://biography.alanayckbourn.net/styled-22/page88/"
-order: 85
+order: 303
 ---
 
 **[\<\<\< Previous page](/life/chronology/2008)**
@@ -20,7 +20,7 @@ order: 85
 
 During 2009, Alan Ayckbourn…
 
-○ stepped down as Artistic Director of the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** in Scarborough, having held the position since 1972.
+○ stepped down as Artistic Director of the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** in Scarborough, having held the position since 1972.
 
 ○ received the Olivier Awards Special Award.
 

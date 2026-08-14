@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1977"
 source: "http://biography.alanayckbourn.net/styled-22/page56/"
-order: 53
+order: 271
 ---
 
 **[\<\<\< Previous page](/life/chronology/1976)**
@@ -22,7 +22,7 @@ During 1977, Alan Ayckbourn…
 
 ○ saw ***[Just Between Ourselves](/plays/just-between-ourselves)*** open at the Queen's Theatre in the West End; this marked the first time he had plays running simultaneously in both the West End and at the National Theatre.
 
-○ wrote his first new play, ***[Ten Times Table](/plays/ten-times-table)***, for the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** inspired by his experiences moving the company to its new home.
+○ wrote his first new play, ***[Ten Times Table](/plays/ten-times-table)***, for the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** inspired by his experiences moving the company to its new home.
 
 ○ was appointed Chair of the Drama Panel of the Yorkshire Arts Association.
 

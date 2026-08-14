@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1984"
 source: "http://biography.alanayckbourn.net/styled-22/page63/"
-order: 60
+order: 278
 ---
 
 **[\<\<\< Previous page](/life/chronology/1983)**
@@ -22,7 +22,7 @@ During 1984, Alan Ayckbourn…
 
 ○ directed the revue *Deadly Virtues* for BBC1; an abridged version of ***[The 7 Deadly Virtues](/plays/the-7-deadly-virtues)***
 
-○ was asked by **[Peter Hall](/life/influences/peter-hall)**, Artistic Director of the **[National Theatre](/career/national-theatre)**, to consider working as a company director at the National Theatre.
+○ was asked by **[Peter Hall](/life/influences/hall-sir-peter)**, Artistic Director of the **[National Theatre](/career/national-theatre)**, to consider working as a company director at the National Theatre.
 
 ○ allowed the first UK tour of ***[Way Upstream](/plays/way-upstream)***. Although written to be performed on a flooded stage, the tour presented the play on a dry stage with a gimbal system on the cabin cruiser to simulate movement on water.
 

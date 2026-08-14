@@ -1,7 +1,7 @@
 ---
 title: "Synopsis"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-4/"
-order: 645
+order: 1064
 play: "absurd-person-singular"
 ---
 

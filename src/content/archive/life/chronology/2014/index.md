@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2014"
 source: "http://biography.alanayckbourn.net/styled-22/page93/"
-order: 90
+order: 308
 ---
 
 **[\<\<\< Previous page](/life/chronology/2013)**
@@ -14,7 +14,7 @@ During 2014, Alan Ayckbourn…
 
 ○ celebrated his 75th birthday.
 
-○ directed ***[Roundelay](/plays/roundelay)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**, a play with five inter-related acts whose order of appearance is determined randomly by the audience just prior to performance. There are 120 possible permutations of the play.
+○ directed ***[Roundelay](/plays/roundelay)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, a play with five inter-related acts whose order of appearance is determined randomly by the audience just prior to performance. There are 120 possible permutations of the play.
 
 ○ saw French film auteur Alain Resnais's adaptation of ***[Life Of Riley](/plays/life-of-riley)*** (*Aimer, Boire et Chanter*) open in competition at the Berlin Film Festival on 10 February, shortly before Resnais's death on 1 March.
 

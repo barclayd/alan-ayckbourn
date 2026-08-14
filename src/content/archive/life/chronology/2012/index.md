@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2012"
 source: "http://biography.alanayckbourn.net/styled-22/page91/"
-order: 88
+order: 306
 ---
 
 **[\<\<\< Previous page](/life/chronology/2011)**
@@ -20,7 +20,7 @@ order: 88
 
 During 2012, Alan Ayckbourn…
 
-○ directed the world premiere of ***[Surprises](/plays/surprises)***, a co-production between the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** and Chichester Festival Theatre; it is promoted as part of the 2012 Festival celebrating the 2012 London Olympics.
+○ directed the world premiere of ***[Surprises](/plays/surprises)***, a co-production between the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** and Chichester Festival Theatre; it is promoted as part of the 2012 Festival celebrating the 2012 London Olympics.
 
 ○ revived ***[Absurd Person Singular](/plays/absurd-person-singular)*** at the SJT to mark its 40th anniversary.
 

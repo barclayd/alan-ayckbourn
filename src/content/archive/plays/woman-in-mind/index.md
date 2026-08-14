@@ -1,7 +1,7 @@
 ---
 title: "Woman In Mind"
 source: "http://womaninmind.alanayckbourn.net/"
-order: 170
+order: 130
 play: "woman-in-mind"
 year: 1985
 poster: "./_images/stacks-image-427e7e0.jpg"
@@ -19,7 +19,5 @@ facts:
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/1871/woman-in-mind/)"
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
-
-To navigate, use the links in the bar above or to the right.
 
 **Availability**

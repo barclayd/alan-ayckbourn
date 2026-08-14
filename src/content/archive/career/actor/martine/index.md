@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page137/"
-order: 479
+order: 545
 ---
 
 ## Martine (1958)
@@ -38,7 +38,7 @@ Faynia Jeffery
 
 ### Quotes & Notes
 
-Having rejoined **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, for the 1958 summer season, Alan remained with the company for its winter season at the Library Theatre followed by a regional tour.
+Having rejoined **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, for the 1958 summer season, Alan remained with the company for its winter season at the Library Theatre followed by a regional tour.
 
 For the first time, Alan was employed purely as an actor; although given the nature of the company, it is likely he was still involved in occasional stage management and technical work.
 

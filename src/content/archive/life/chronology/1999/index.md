@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1999"
 source: "http://biography.alanayckbourn.net/styled-22/page78/"
-order: 75
+order: 293
 ---
 
 **[\<\<\< Previous page](/life/chronology/1998)**
@@ -20,7 +20,7 @@ During 1999, Alan Ayckbourn…
 
 ○ announced he would no longer be directing plays by other authors in order to concentrate on his own writing.
 
-○ celebrated his 60th birthday with ***[House & Garden](/plays/house-and)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**; two plays with the same cast running simultaneously in two auditoria.
+○ celebrated his 60th birthday with ***[House & Garden](/plays/house-and)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**; two plays with the same cast running simultaneously in two auditoria.
 
 ○ learnt his plays were now part of the UK national curriculum.
 

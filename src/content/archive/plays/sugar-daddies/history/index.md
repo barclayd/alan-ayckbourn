@@ -1,0 +1,32 @@
+---
+title: "History"
+source: "http://sugardaddies.alanayckbourn.net/page-2/"
+order: 1832
+play: "sugar-daddies"
+---
+
+In 2001, Alan Ayckbourn wrote the acclaimed ***[Damsels In Distress](/plays/damsels-in-distress)*** trilogy which shared a central theme of women in unfamiliar and potentially dangerous situations, all set in London. In 2003, the playwright returned to similar territory with *Sugar Daddies*, a play which shares themes with its predecessors as well as a London setting.
+
+Although thematically linked to *Damsels in Distress*, the playwright himself considers the piece to be a departure in his writing and in contemporary interviews compared it to a Faustian tale of an innocent girl tempted and corrupted by an evil father figure. There is also an inversion of this theme as whilst the protagonist Sasha finds herself taken in by the largess of her benefactor Uncle Val, he is meanwhile beguiled by her innocence and perhaps sees his guidance and 'kindness' to her as a means of atoning for the undoubtedly vicious events he has instigated during his life.
+
+<aside>
+
+### Behind The Scenes: Not Specific
+
+One of the enduring fallacies with regard to *Sugar Daddies* is it was written specifically with the actress Alison Pargeter in mind. This is not the case. Alan wrote the play with the hope the role of Sasha would be played by Alison for the world premiere production - and it is undoubtedly is a role which worked to her strengths. However, it was not conceived solely with Alison in mind. Alan Ayckbourn has spoken on a number of occasions that he has never done this as A) it limits the future viability of the play and B) the actor might not actually be available for the role! The role of Sasha was influenced by Alison but not written specifically for her.
+
+</aside>
+
+*Sugar Daddies* also explores how we change ourselves to suit those around us, but how - ultimately - we always return to or can’t escape from who we really are. Although it was criticised for an apparently sugary climax (something which the playwright would later address), the play still manages to be rather dark and brutal. Alan’s skill as a dramatist highlighted in how two vicious attacks are handled completely differently: one physical attack is reported over the phone as a hilarious set-piece, while a brutal on-stage verbal attack leaves both victim and audience reeling from its power and impact. Both events also leave the audience in no doubt that Uncle Val is one of Alan Ayckbourn's most evil creations; the malignancy signified by a name beginning with V, traditionally Alan's most evil characters share this characteristic (such as Vic in ***[Man Of The Moment](/plays/man-of-the-moment)*** and Vince in ***[Way Upstream](/plays/way-upstream)***).
+
+The creation of *Sugar Daddies*, the playwright's 63rd play, was also linked to the actress Alison Pargeter, who had been acclaimed for her roles in the *Damsels In Distress* trilogy. Although Alan has always insisted he has never written an actor-specific role (although it would be hard to imagine the role of Jacie in ***[Comic Potential](/plays/comic-potential)*** was imagined for anyone other than Janie Dee), there is no doubt that *Sugar Daddies* was written with Alison in mind for the central role and to exploit her talents, even if it was not specifically written for her. She subsequently received praise for the challenging role of Sasha, the young student apparently corrupted by her sugar daddy, Val, although this would also mark her final role at Alan's home venue, the Stephen Joseph Theatre in Scarborough.
+
+*Sugar Daddies* opened at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** in the summer of 2003 before going on tour in a co-production with the Yvonne Arnaud Theatre. The response to the play was generally good, but there was criticism of the play's resolution in which Sasha asserts her independence and shows more awareness of her situation than she has previously been given credit for. To Alan's mind, this merely reinforced his opinion that critics do not find comedies worthy and that if he had taken the route of a tragic or pessimistic ending, it would probably have been critically regarded as a more substantial piece rather than just a solid and entertaining Ayckbourn play.
+
+The overall tone of the reviews though did give a sense that *Sugar Daddies* was expected to go to the West End and that Alan’s resolution to avoid commercial London theatre would be forgotten following the issues with the West End production of the *Damsels In Distress* trilogy the previous year. However, despite interest from the West End, Alan and the Stephen Joseph Theatre chose to strike a partnership with a regional theatre to take the Stephen Joseph Theatre company out to theatres around the country on Alan’s own terms.
+
+Although not immediately picked up for production by other companies, this situation has changed in recent years and it has become a frequently revived play. This was in part helped by two major revivals in 2013 to mark its 10th anniversary. Alan Ayckbourn directed the North American premiere of the play at ACT, Seattle - which also marked his west coast directorial debut and also a rare instance of Alan directing a completely American company with the production being directed in-the-round. The director - and veteran Ayckbourn actor - Robin Herford also directed a successful revival for a co-production between Harrogate Theatre and Oldham Coliseum.
+
+Unusually, Alan made alterations to the climax of the play for his production in Seattle. Returning to the script, Alan felt that the climax needed adjusting and he introduced some minor rewrites which offered the suggestion that whilst Sasha has escaped the influence of Uncle Val, she has not been entirely unaffected by her time with him; these alterations can be found on the website **[here](/plays/sugar-daddies/sugar-daddies-script-alteration)**.
+
+The play has been published by Faber & Faber as part of the collection *Alan Ayckbourn: Plays 3* and was released for performance by professional and amateur companies in early 2006 and Samuel French published the play - with the revised ending - as an acting edition in 2019. Performances of the play should now include the revised climax to the script which can be found **[here](/plays/sugar-daddies/sugar-daddies-script-alteration)** for owners of the *Plays 3* version.

@@ -1,0 +1,22 @@
+---
+title: "Significant Productions"
+source: "http://acutintherates.alanayckbourn.net/page16/"
+order: 2185
+play: "a-cut-in-the-rates"
+---
+
+*This page contains the company details for significant productions of Alan Ayckbourn's A Cut In The Rates.*
+
+### World Premiere (1983)
+
+**World premiere:** 12 November 1983  
+**Venue:** Stephen Joseph Theatre In The Round, Scarbough  
+**Staging:** Round
+
+**Director:** Alan Ayckbourn**Character**  
+Miss Pickhart  
+Woman / Rosalinda  
+Ratchet**Actor**  
+Lavinia Bertram  
+Liza Sadovy  
+Michael Cashman*All research for this page by Simon Murgatroyd.*

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1976"
 source: "http://biography.alanayckbourn.net/styled-22/page55/"
-order: 52
+order: 270
 ---
 
 **[\<\<\< Previous page](/life/chronology/1975)**
@@ -12,9 +12,9 @@ order: 52
 
 During 1976, Alan Ayckbourn…
 
-○ directed his final play at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** with ***[Just Between Ourselves](/plays/just-between-ourselves)*** which featured a Morris Minor on stage; the stage problematically being on the first floor of Scarborough's public library….
+○ directed his final play at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)** with ***[Just Between Ourselves](/plays/just-between-ourselves)*** which featured a Morris Minor on stage; the stage problematically being on the first floor of Scarborough's public library….
 
-○ moved the Scarborough company from Theatre in the Round at the Library Theatre to a 'temporary' home, the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** (at that point called Theatre in the Round at Westwood). Although intended to be a short-term solution to finding a new home, the company stayed there for 20 years.
+○ moved the Scarborough company from Theatre in the Round at the Library Theatre to a 'temporary' home, the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** (at that point called Theatre in the Round at Westwood). Although intended to be a short-term solution to finding a new home, the company stayed there for 20 years.
 
 ○ directed ***[Mr Whatnot](/plays/mr-whatnot)*** at the Stephen Joseph Theatre In The Round, making its debut in the town more than a decade after being written.
 

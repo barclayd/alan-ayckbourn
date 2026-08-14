@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2002"
 source: "http://biography.alanayckbourn.net/styled-22/page81/"
-order: 78
+order: 296
 ---
 
 **[\<\<\< Previous page](/life/chronology/2001)**
@@ -12,7 +12,7 @@ order: 78
 
 During 2002, Alan Ayckbourn…
 
-○ directed the world premiere of ***[The Safari Party](/career)*** by Tim Firth; this will be the final non-Ayckbourn play he will direct at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**.
+○ directed the world premiere of ***[The Safari Party](/career)*** by Tim Firth; this will be the final non-Ayckbourn play he will direct at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**.
 
 ○ wrote his first book *The Crafty Art Of Playmaking*.
 

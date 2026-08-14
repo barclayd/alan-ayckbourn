@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page156/"
-order: 497
+order: 563
 ---
 
 ## Standing Room Only (1961)
@@ -40,7 +40,7 @@ Alan Ayckbourn
 
 ### Quotes & Notes
 
-1961 saw Alan Ayckbourn's professional career began to move away from acting to what he is most well-known for. Although still predominantly an actor with Studio Theatre Ltd at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, he was also writing and directing for the company. 1961 saw the premiere of his fourth play and his debut as a director with a production of ***[Gaslight](/career/director/gaslight)***.
+1961 saw Alan Ayckbourn's professional career began to move away from acting to what he is most well-known for. Although still predominantly an actor with Studio Theatre Ltd at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, he was also writing and directing for the company. 1961 saw the premiere of his fourth play and his debut as a director with a production of ***[Gaslight](/career/directing-career/gaslight)***.
 
 ***[Standing Room Only](/plays/standing-room-only)*** was originally presented under Alan Ayckbourn's pseudonym Roland Allen. When it was revised and revived in 1963 at the Victoria Theatre, Stoke-on-Trent, it was attributed to Alan Ayckbourn and is now considered the first play to be credited to Alan Ayckbourn rather than Roland Allen.
 

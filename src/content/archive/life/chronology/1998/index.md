@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1998"
 source: "http://biography.alanayckbourn.net/styled-22/page77/"
-order: 74
+order: 292
 ---
 
 **[\<\<\< Previous page](/life/chronology/1997)**
@@ -22,7 +22,7 @@ During 1998, Alan Ayckbourn…
 
 ○ led the resignation of the entire Drama Advisory Panel of the Arts Council in protest at the Government's new arts policies.
 
-○ directed ***[Comic Potential](/plays/comic-potential)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** with Janie Dee playing Jacie Triplethree.
+○ directed ***[Comic Potential](/plays/comic-potential)*** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** with Janie Dee playing Jacie Triplethree.
 
 ○ wrote ***[The Boy Who Fell Into A Book](/plays/the-boy-who-fell-into-a-book)*** to mark the National Year Of Reading.
 

@@ -1,7 +1,7 @@
 ---
 title: "Archive Images"
 source: "http://womaninmind.alanayckbourn.net/page/"
-order: 707
+order: 1417
 play: "woman-in-mind"
 ---
 
@@ -50,4 +50,4 @@ The poster for the 2025 West End revival of *Woman in Mind* at The Duke of York'
 
 *Do not reproduce images without permission of the copyright holder.*    *The Archive Images pages are presented in association with the* ***[Borthwick Institute for Archives](/)*** *at the University of York, where the Ayckbourn Archive is held.*
 
-*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/Web_175-dpi.jpg)](/)
+*All images on this page are copyright of the respective and labelled individual / organisation and should not be reproduced without permission.*  [![](./_images/web-175-dpi.jpg)](/)

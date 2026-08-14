@@ -1,7 +1,7 @@
 ---
 title: "Facts"
 source: "http://thenormanconquests.alanayckbourn.net/page-18/"
-order: 671
+order: 1088
 play: "the-norman-conquests"
 ---
 
@@ -31,7 +31,7 @@ play: "the-norman-conquests"
 </aside>
 
 - *The Norman Conquests* is Alan Ayckbourn's first trilogy and consists of plays 13 - 15. It is his only trilogy to features the same characters and to tell a single story.
-- The world premieres - directed by Alan Ayckbourn - were held at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, on 18 June (*Table Manners*), 25 June (*Living Together*) and 2 July (*Round And Round The Garden*).
+- The world premieres - directed by Alan Ayckbourn - were held at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, on 18 June (*Table Manners*), 25 June (*Living Together*) and 2 July (*Round And Round The Garden*).
 - The London premieres - directed by Eric Thompson - were held at the Greenwich Theatre on 9 May (*Table Manners*), 21 May (*Living Together*) & 6 June (*Round And Round The Garden*). The success of the plays led them to transfer to the Globe Theatre in the West End later that year.
 - *The Norman* *Conquests* was written as the result of a facetious reply to a journalist in 1972 when Alan Ayckbourn was asked what his follow up to ***[Absurd Person Singular](/plays/absurd-person-singular)*** would be. He replied, not altogether seriously, 'a trilogy' which was then published as fact the following year.
 - The plays were originally produced in Scarborough at Theatre in the Round at the Library Theatre in June 1973 as *Fancy Meeting You*, *Make Yourself At Home* and *Round And Round The Garden* and there was no mention of the title *The Norman Conquests* - the playwright himself referred to it is as 'the trilogy'. The final titles of *Table Manners*, *Living Together* and *Round And Round The Garde*n under the overall title of *The Norman Conquests* only came with the London premiere of the plays at the Greenwich Theatre in May 1974.

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Influences: Harold Pinter"
 source: "http://biography.alanayckbourn.net/styled-36/styled-40/"
-order: 121
+order: 332
 ---
 
 Alan Ayckbourn's writing was influenced by many playwrights - he frequently cites his influences from a very broad range of playwrights from Chekhov to Coward, Ionesco to Rattigan.

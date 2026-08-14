@@ -1,7 +1,7 @@
 ---
 title: "The 'Grey Plays'"
 source: "http://careers.alanayckbourn.net/styled-5/styled-20/"
-order: 344
+order: 412
 ---
 
 The 'Grey Plays' represent a section of Alan Ayckbourn's writing which has been produced, but subsequently the plays have been withdrawn, never published and are not available for production. The term was suggested by Alan Ayckbourn's Archivist, Simon Murgatroyd, in 2005 to account for plays which were known but generally unacknowledged.

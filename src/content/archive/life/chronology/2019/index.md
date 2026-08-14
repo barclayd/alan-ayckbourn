@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2019"
 source: "http://biography.alanayckbourn.net/styled-22/page-9/"
-order: 95
+order: 313
 ---
 
 **[\<\<\< Previous page](/life/chronology/2018)**
@@ -20,9 +20,9 @@ Next pa**[Next page \>\>\>](/life/chronology/2020)**
 
 During 2019, Alan Ayckbourn…
 
-○ celebrated his 80th birthday and the 60th anniversary of his professional playwriting debut with ***[The Square Cat](/plays/the-square-cat)*** at the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough.
+○ celebrated his 80th birthday and the 60th anniversary of his professional playwriting debut with ***[The Square Cat](/plays/the-square-cat)*** at the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough.
 
-○ hosted the event *80 Years Young* at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, in September celebrating his family and children's plays.
+○ hosted the event *80 Years Young* at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**, Scarborough, in September celebrating his family and children's plays.
 
 ○ saw ***[The Divide](/plays/the-divide)*** published as a novel by PS Publishing; marking the culmination of the author's original intent for the work (it was conceived and written as a novel and was never intended for the stage).
 

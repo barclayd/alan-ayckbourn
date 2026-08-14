@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2023"
 source: "http://biography.alanayckbourn.net/styled-22/page-42/"
-order: 99
+order: 317
 ---
 
 **[\<\<\< Previous page](/life/chronology/2022)**
@@ -20,7 +20,7 @@ During 2023, Alan Ayckbourn…
 
 ○ donated **[The Ayckbourn Collection](/)** - a curated collection of approximately 60 significant items relating himself, Stephen Joseph and theatre in the round - to Scarborough Museums and Galleries. The donation was curated and facilitated by his archivist, **[Simon Murgatroyd M.A.](http://www.simon-murgatroyd.com/)**, who also donated to the collection.
 
-○ saw Samuel French publish the plays ***[The Girl Next Door](http://thegirlnextdoor.alanayckbourn.net/)*** and ***[Family Album](/plays/family-album)***.
+○ saw Samuel French publish the plays ***[The Girl Next Door](/plays/the-girl-next-door)*** and ***[Family Album](/plays/family-album)***.
 
 ○ marked the 20th anniversary of the publication of his book *The Crafty Art of Playmakin*g with a special one-off event at the Stephen Joseph Theatre.
 
@@ -36,7 +36,7 @@ During 2023, Alan Ayckbourn…
 
 ○ saw the first major Grench translated production of ***[Relatively Speaking](/plays/relatively-speaking)*** - *Une Situation Délicate* - become one of his biggest ever successes in France.
 
-○ 2023 saw the death of a notable number of significant Ayckbourn figures. The actors **[Michael Gambon](http://advocates.alanayckbourn.net/page/page-9/)**, Russell Dixon and Janet Dale as well as the producer Bill Kenwright.
+○ 2023 saw the death of a notable number of significant Ayckbourn figures. The actors **[Michael Gambon](/career/advocates/alan-ayckbourn-advocates/michael-gambon)**, Russell Dixon and Janet Dale as well as the producer Bill Kenwright.
 
 ○ saw the publication of ***[Unseen Ayckbourn](/)***by **[Simon Murgatroyd](http://www.simon-murgatroyd.com/)**. A revised and updated edition of the guide to his work.
 

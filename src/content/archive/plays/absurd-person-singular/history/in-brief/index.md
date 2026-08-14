@@ -1,7 +1,7 @@
 ---
 title: "In Brief"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled/page-10/"
-order: 657
+order: 1075
 play: "absurd-person-singular"
 ---
 
@@ -28,7 +28,7 @@ play: "absurd-person-singular"
 </aside>
 
 - *Absurd Person Singular* is Alan Ayckbourn's 12th play.
-- The world premiere - directed by Alan Ayckbourn - was held at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, on 26 June 1972.
+- The world premiere - directed by Alan Ayckbourn - was held at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, on 26 June 1972.
 - It was written over four consecutive nights and finished on the night before rehearsals for the play began.
 - It was initially conceived as being set in the living rooms of the three couples, but after he completed approximately half of the script, Alan abandoned it and rewrote the play set in three kitchens. The original abandoned draft was discovered in 2022 and its story can be found **[here](/plays/absurd-person-singular/writing)**.
 - It is regarded as not only his first 'off-stage' play - set in what would traditionally be regarded as an off-stage location away from the apparent action - but also his first to significantly feature off-stage characters with Dick and Lottie Potter playing a significant, if unseen, role.
@@ -46,6 +46,6 @@ play: "absurd-person-singular"
 - It was first published in 1974 by **[Samuel French](http://www.concordtheatricals.co.uk/s/899/absurd-person-singular/)** and was subsequently published in the collection ***[Three Plays](http://www.penguin.co.uk/books/409934/three-plays---absurd-person-singular-absent-friends-bedroom-farce-by-alan-ayckbourn/9780099541639/)*** (Penguin, later Vintage Classics). It has been reprinted in more volumes than any other Ayckbourn play.
 - It has been adapted for both the radio (1977) and television (1985) by the BBC with the latter regarded by the playwright as one of the stronger TV adaptations of his plays.
 - *Absurd Person Singular* has been translated into more than 20 languages and performed around the world.
-- It is one of only two plays that Alan Ayckbourn has directed in all three Scarborough venues (Theatre in the Round at the Library Theatre, the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** and the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**).
+- It is one of only two plays that Alan Ayckbourn has directed in all three Scarborough venues (Theatre in the Round at the Library Theatre, the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** and the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**).
 - In 2018, it was named by The Times as one of the 50 greatest plays and it has featured in numerous lists, articles and books of significant plays of the 20th century and British theatre.
 - *Absurd Person Singular* is unique in the Ayckbourn canon in that Alan wrote half a play before abandoning it and rewriting it as a completely different work. Uniquely for the Ayckbourn Archive, this easily draft alongside original notes, revised and performance drafts have all survived and available to research at the **[Borthwick Institute for Archives](/)** at the University of York. The full story of the discovery and significance of the early drafts can be found  **[here](/plays/absurd-person-singular/writing).**

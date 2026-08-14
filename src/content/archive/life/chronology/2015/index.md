@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2015"
 source: "http://biography.alanayckbourn.net/styled-22/page108/"
-order: 91
+order: 309
 ---
 
 **[\<\<\< Previous page](/life/chronology/2014)**
@@ -14,7 +14,7 @@ During 2015, Alan Ayckbourn…
 
 ○ wrote ***[The Divide](/plays/the-divide)*** - an epic post catastrophic love story about a world devastated by a disease which makes contact with women fatal for men, recounted through diary entries, correspondence, transcripts and reportage. It is written as a prose work and is published as a novel during 2019 - it is not a play nor intended to be performed as a play. Its first read-through runs to eight hours.
 
-○ saw the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)** celebrate its 60th anniversary since its founding in 1955 by Stephen Joseph. Amongst the celebration events is a gala semi-staged reading of *The Divide*. Despite the original work having been reduced by a third in length, the gala event still runs for eight hours!
+○ saw the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)** celebrate its 60th anniversary since its founding in 1955 by Stephen Joseph. Amongst the celebration events is a gala semi-staged reading of *The Divide*. Despite the original work having been reduced by a third in length, the gala event still runs for eight hours!
 
 ○ saw Chichester Festival Theatre revive ***[Way Upstream](/plays/way-upstream)*** with the most ambitious staging of the canal-based play yet produced; the cabin cruiser is built on a robotic arm for its movement.
 

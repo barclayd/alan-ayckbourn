@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page187/"
-order: 133
+order: 336
 ---
 
 ## Two For The Seesaw (1964)
@@ -42,7 +42,7 @@ Heather Stoney
 
 During 1964, Alan retired from professional acting to concentrate on writing and directing. With his play ***[Mr Whatnot](/plays/mr-whatnot)*** optioned for a West End transfer, Alan believed this was the opportunity to concentrate on writing and to leave the acting profession acting.
 
-Unfortunately *Mr Whatnot* was a flop in London and Alan subsequently took a job at the **[BBC](/career/bbc)** as a radio drama producer, where he would work from 1965 until 1970; although during this period he would write four plays for Scarborough's **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**. His professional acting career, began in 1956, had come to a close.
+Unfortunately *Mr Whatnot* was a flop in London and Alan subsequently took a job at the **[BBC](/career/bbc-career)** as a radio drama producer, where he would work from 1965 until 1970; although during this period he would write four plays for Scarborough's **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**. His professional acting career, began in 1956, had come to a close.
 
 Alan Ayckbourn's final professional stage-acting role was not one actively sought out, but the experience was enough to convince him that it was time to move on. In 1964, the Civic Theatre in Rotherham was staging a revival of William Gibson's play *Two For The Seesaw*. When the two actors intended to play the roles became unavailable, the casting directory Spotlight contacted Alan about the possibility of him and Heather Stoney reprising the roles they had performed the year previously at the Victoria Theatre, Stoke-on-Trent. The production ran for a week.
 

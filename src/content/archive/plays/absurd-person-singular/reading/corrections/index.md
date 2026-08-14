@@ -1,7 +1,7 @@
 ---
 title: "Publication Corrections"
 source: "http://absurdpersonsingular.alanayckbourn.net/styled-13/styled-11/"
-order: 660
+order: 1078
 play: "absurd-person-singular"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1963"
 source: "http://biography.alanayckbourn.net/styled-22/page42/"
-order: 39
+order: 257
 ---
 
 **[\<\<\< Previous page](/life/chronology/1962)**
@@ -18,7 +18,7 @@ order: 39
 
 During 1963, Alan Ayckbourn…
 
-○ **[directed](/career/director)** one of his own plays for the first time with a revival of ***[Standing Room Only](/plays/standing-room-only)*** at the **[Victoria Theatre](/career/victoria-theatre)**, Stoke-on-Trent.
+○ **[directed](/career/directing-career)** one of his own plays for the first time with a revival of ***[Standing Room Only](/plays/standing-room-only)*** at the **[Victoria Theatre](/career/victoria-theatre)**, Stoke-on-Trent.
 
 ○ directed the world premiere of one of his own plays for the first time with ***[Mr Whatnot](/plays/mr-whatnot)*** at the Victoria Theatre, Stoke-on-Trent.
 

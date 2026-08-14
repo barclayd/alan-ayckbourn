@@ -1,7 +1,7 @@
 ---
 title: "Withdrawn Plays"
 source: "http://careers.alanayckbourn.net/styled-5/styled-21/"
-order: 345
+order: 413
 ---
 
 The 'withdrawn plays' are entirely operate to the '**[Grey Plays](/career/playwright/grey)**' or '**[early plays](/career/playwright/early)**' (which are all considered withdrawn and unavailable) in that they are part of the acknowledged full-length play canon, having been produced professionally at least once. They have then subsequently been withdrawn by the playwright.

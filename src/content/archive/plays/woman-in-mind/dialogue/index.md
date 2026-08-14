@@ -1,7 +1,7 @@
 ---
 title: "Susan's Dialogue"
 source: "http://womaninmind.alanayckbourn.net/styled/"
-order: 706
+order: 1416
 play: "woman-in-mind"
 ---
 

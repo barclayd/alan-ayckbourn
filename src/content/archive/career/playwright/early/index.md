@@ -1,7 +1,7 @@
 ---
 title: "Early Writing"
 source: "http://careers.alanayckbourn.net/styled-5/styled-14/"
-order: 343
+order: 411
 ---
 
 Prior to his first professional commission, Alan Ayckbourn recalls he wrote approximately a dozen one act plays between his first professional acting job in 1956, aged 17, and the premiere of *The Square Cat* in 1959. Very little is known about any of these plays and only a handful of them are still in existence.

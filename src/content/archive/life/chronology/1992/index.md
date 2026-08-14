@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1992"
 source: "http://biography.alanayckbourn.net/styled-22/page71/"
-order: 68
+order: 286
 ---
 
 **[\<\<\< Previous page](/life/chronology/1991)**
@@ -20,7 +20,7 @@ order: 68
 
 During 1992, Alan Ayckbourn…
 
-○ was appointed the **[Cameron Macintosh Visiting Professor Of Contemporary Theatre](/career/oxford-university)** at Oxford University.
+○ was appointed the **[Cameron Macintosh Visiting Professor Of Contemporary Theatre](/career/st-catherines-college)** at Oxford University.
 
 ○ saw the New York premiere of ***[A Small Family Business](/plays/a-small-family-business)*** at the Music Box Theater produced by Manhattan Theater Club.
 

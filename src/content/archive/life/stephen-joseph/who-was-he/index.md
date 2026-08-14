@@ -1,7 +1,7 @@
 ---
 title: "Who Was Stephen Joseph?"
 source: "http://biography.alanayckbourn.net/styled-37/page-57/stephenjoseph.html"
-order: 324
+order: 392
 ---
 
 *More in-depth details about Stephen Joseph, his life ands achievements can be found on our sister site,* ***[A Round Town](http://www.a-round-town.com/)****, which looks at Stephen Joseph and theatre in the round in Scarborough.*

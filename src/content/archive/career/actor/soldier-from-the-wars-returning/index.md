@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page151/"
-order: 492
+order: 558
 ---
 
 ## Soldier From The Wars Returning (1960)
@@ -34,7 +34,7 @@ Derrick Gilbert
 
 ### Quotes & Notes
 
-During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
+During 1960, Alan Ayckbourn's career was predominantly concentrated on acting at **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough. He was part of the acting company in both the summer and winter seasons and his playwriting was limited to one show, *Dad's Tale*, during the winter season.
 
 *Soldier From The Wars Returning* was one of three short plays presented as part of David Campton's anthology *View From The Brink*. Alan notably played a one-eyed, one-armed and one-legged barman. He would reprise the role during the 1960 / 1961 Studio Theatre Ltd winter tour when the play was included in another Campton anthology *Four Minute Warning*.
 

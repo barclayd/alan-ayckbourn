@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2018"
 source: "http://biography.alanayckbourn.net/styled-22/page-4/"
-order: 94
+order: 312
 ---
 
 **[\<\<\< Previous page](/life/chronology/2017)**
@@ -20,7 +20,7 @@ Next pa**[Next page \>\>\>](/life/chronology/2019)**
 
 During 2018, Alan Ayckbourn…
 
-○ was appointed **[Director Emeritus](/career/ayckbourn-and-sjt/director-emeritus)** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**.
+○ was appointed **[Director Emeritus](/career/ayckbourn-and-the-sjt/director-emeritus-sjt)** at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**.
 
 ○ saw the stage adaptation of ***[The Divide](/plays/the-divide)*** transfer to The Old Vic as part of the company's bicentennial celebrations.
 

@@ -1,0 +1,44 @@
+---
+title: "World Premiere Reviews"
+source: "http://lifeandbeth.alanayckbourn.net/styled-9/"
+order: 1934
+play: "life-and-beth"
+---
+
+*This page contains a selection of reviews from the world premiere production of Alan Ayckbourn's Life & Beth at the Stephen Joseph Theatre, Scarborough, in 2008. All reviews are the copyright of the respective publication and / or author.*
+
+**Life & Beth** (by Michael Billington)  
+"Alan Ayckbourn's 71st play is full of ghosts: not just spooks, but haunting echoes of themes that have animated his work over 40 years. Presented as part of a supernatural trio in Ayckbourn's last season as director, it feels both like a summing-up and a wise, humane, funny play about the inevitability of death and the continuity of life.  
+After 33 years of marriage, Beth has come to terms with the demise of her husband, Gordon. But, in the course of a horrendous family Christmas, she seems the only one who has. Her sister-in-law uses his memory as an excuse to drown in boozy self-pity, while Beth's son camouflages his grief under a bombastic heartiness that reduces his girlfriend to tearful catatonia. But, just as Beth looks ready to embrace a new life, she finds herself subject to a spine-tingling visitation.  
+What makes the play both comic and touching is Ayckbourn's indignant sympathy for oppressed women. You realise that Beth was cowed by the appalling Gordon, and when his son says "most of the women I've been out with start crying sooner or later," you get an instant image of a grisly inheritance. Few dramatists in history have painted a more devastating picture of the emotional damage wrought by bullying men. Liza Goddard's stoic Beth, however, shows that they can triumph, and there is priceless support from Susie Blake as her sister-in-law and Ian Hogg as a beaming cleric who croons that you should "accentuate the positive, eliminate the negative," which, in the end, is roughly the message of Ayckbourn's life-affirming ghost story."  
+*(The Guardian, 23 July 2008)*
+
+**Life & Beth** (by Kevin Berry)  
+"Recently widowed Beth would really rather be left alone, but everyone is rallying around to ensure that she has a good Christmas. She had a remarkably good husband, or so everyone keeps reminding her.  
+*Life & Beth* is Alan Ayckbourn’s 71st play and the third in his *Things That Go Bump* summer rep season. Things hardly go bump, apart from some rattling tea cups, until the final moment of Act I. Then Gordon, the dead husband appears - he is back to help and guide Beth, much to her annoyance.  
+The dialogue is rich in the sympathetic platitudes we all rely on when talking to the bereaved. Susie Blake as Beth’s sister-in-law, has the pick of them and she has a consistently funny physical identity.  
+Playing Beth the ever excellent Liza Goddard expresses her irritation without upsetting anyone. Clearly no one is actually listening to her, which is the very heart of the play. Her exchanges with Adrian McLoughlin’s Gordon show how suffocating the marriage really was.  
+Richard Stacey as Beth and Gordon’s inept son adds to the understanding of his parents. Ian Hogg’s vicar, whose prayers are unwittingly responsible for bringing Gordon back, is someone we would all cheerfully strangle. Me first, please. But he is rather predictable. Hogg as Gordon, McLoughlin as the vicar perhaps? Both are tastier prospects.  
+*Life & Beth* will entertain and delight and it just might alter the way some people think."  
+*(The Stage, 24 July 2008)*
+
+**Life & Beth** (by Ian Shuttleworth)  
+Alan Ayckbourn is both generous and fastidious in his supply of plays: he likes to package several neatly together at a time. A few years ago he induced apoplexy in the Scarborough theatre crew well into preparations for his new diptych of plays by announcing apologetically that they were now a triptych; this season, to complement his two extant “supernatural” plays, *Haunting Julia* (1994, three male roles) and *Snake In The Grass* (2002, three female roles), he has written a third (his 71st play in all), to utilise all six players.  
+Often, though, the individual plays are lesser creations when removed from the package. In this case, viewing *Life & Beth* without having seen its predecessors, I felt that I was watching a coda having missed the main work. By all accounts, the other two plays are darker in tone than this whimsical tale of Beth, the late-middle-aged widow of an over-enthusiastic health and safety manager who finds that he is refusing to let even death slow him down... in other words, his smugly prattling ghost continues to try to order her life.  
+Liza Goddard enjoys playing against type, as with her Beth here, a phlegmatic Yorkshire woman. Conversely, Susie Blake often relishes getting blowsy, as in her portrayal of Connie, the late Gordon’s Merlot-swilling estuarial sister. As for Adrian McLoughlin’s portrayal of Gordon himself, imagine Harry Enfield’s “You don’t wanna do that!” character magnified several times and played by the late Reg Varney.  
+It’s nicely written and cleverly staged in the playwright’s own production (including a final set of coups de théâtre that mock virtually all that has gone before). However, it’s less akin to his prime slices of dramatic chiaroscuro where powerful poignancy and / or bitterness flow along just beneath the laughs, and more like the easily digestible fare that most folk (mis)understand Ayckbourn’s work to be.  
+It is also a play about closure, and suggests that Mr A is now turning his mind to the imminent end of his (by then) 37-year artistic directorship of this theatre and its predecessors; the autumn/winter season will be his last before Chris Monks takes over. I suspect that Gordon is Ayckbourn’s unflattering caricature of his own continued presence staging his works at the SJT during his “afterlife”, but I’m sure there will be no call for a similar exorcism.  
+*(Financial Times, 27 July 2008)*
+
+**Life & Beth** (by Sam Marlowe)  
+"Christmas has come early to Scarborough in Alan Ayckbourn's new yuletide comedy — the writer's 71st play. Along with a couple of revivals of earlier Ayckbourn works, it forms the Stephen Joseph Theatre's spookily themed *Things That Go Bump* season. Sadly, though, there is little here to quicken the pulse. *Life & Beth* is as cosily predictable, and as dated in feel, as a Seventies sitcom. If there is pleasure to be had here, it resides primarily in the comic brio of the cast, and in the odd instance of sharp repartee.  
+Beth (played by Liza Goddard) was recently bereaved when her overbearing husband, Gordon, a pettifogging health and safety officer, fell from a ladder at work. Facing her first Christmas as a widow, she must also contend with her nerdish, patronising son Martin, his mute, cowed girlfriend Ella, and Gordon's depressive sister Connie (a bitterly funny Susie Blake).  
+Connie is a particular worry; her taste for red wine has led her, on a previous festive occasion, to attempt to ride the illuminated flashing reindeer that Gordon always insisted on erecting outside the house.  
+Beth's main source of comfort - the cat, with which Gordon shared a mutual antipathy - has mysteriously gone missing, and a visit from the oleaginous vicar amorously pressing unwelcome spiritual succour upon her is far from welcome.  
+Just as it seems that things cannot get any worse, the lights fuse - and there, at the head of the table like the apparition of slaughtered Banquo or some nylon-besuited Spirit of Christmas Present, is Gordon's grinning ghost.  
+There's a dash of Noël Coward's *Blithe Spirit* to the play, with Beth much put out by her phantom husband's arrival and the vicar acting as a kind of clerical Madame Arcati. The suggestion, in Gordon's account of life after death, that Heaven is like a celestial version of the Civil Service might raise a smile. But even the characters this side of the grave suffer a wraith-like lack of substance, so thinly drawn are they.  
+Nor do the relationships convince. Ayckbourn implies the tedium and unhappiness of Beth and Gordon's marriage, but offers no explanation about why the perfectly capable and confident-seeming Beth should have tolerated it for so long. Equally, what keeps Martin, clearly following in his father's clod-hoppingly insensitive footsteps, and the miserable Ella together remains a mystery.  
+Some nifty business with wires and trapdoors lends Ayckbourn's staging the occasional faint frisson of the supernatural, yet the production overall is bedevilled by a serious lack of pace. The actors still succeed in making the best of the lines sting, with Blake's increasingly woozy and rancorous Connie especially diverting. But this is pretty tame entertainment."  
+*(The Times, 24 July 2008)*
+
+*All reviews are copyright of the respective publication.*

@@ -1,0 +1,25 @@
+---
+title: "Quotes by Alan Ayckbourn"
+source: "http://standingroomonly.alanayckbourn.net/styled-5/"
+order: 932
+play: "standing-room-only"
+---
+
+*Quotes about Standing Room Only by other writers can be found* ***[here](/plays/standing-room-only/other-quotes)***.
+
+“It was written in Scarborough originally, and it was a nice, simple little piece. The reason it ever attracted attention - which may be the whole source of my being a successful dramatist - was that *The Stage* critic at Scarborough was unable to attend the show; and *The Stage* at that time were not averse to asking someone in management to write their own notice. Joan Macalpine actually wrote the review, and she was the acting manager of the theatre. And she wrote a corker, because, well, who wouldn't? And she wrote, in an inspired burst: 'Will no management drive this bus into Shaftesbury Avenue?' This appeared dutifully in *The Stage*, on the rep page; at which point Peter Bridge, in his office, swivelled in his chair, thought: 'Good lord, this is a must!' and rushed to Scarborough, introduced himself and took out an option. He was very impressive, promised - as Peter was wont to do - that this would be the biggy, but explained to me quite carefully that the West End was necessarily a star system. And Peter Bridge was particularly noted, of course, for mounting shows which were very, very star-studded. Most of his productions were revivals.  
+Then began the bizarre history of this play, when he offered it to one star and then another. And I suppose it was typical of my plays in that it didn't really have star parts: it had quite a good part for the father and a couple of reasonable parts for the girls, but none of the parts was particularly per se what you would call a star part. So what happened was he sent it round; Richard Wattis had it, Hattie Jacques had it, Sidney James had it and Ron Moody had it - all sorts. I think about fifteen or twenty stars had it eventually, all of whom were up for different parts. So, on each occasion, Peter would give me a quick ring and say: 'Look, I'm sending this to X. I've put him up for John. I think the part doesn't look so good: could you build it up a little? And he's six-foot-two, with glasses and thinning hair and a wart on his chin: I wonder if you could just build that description into the character? So I'd write: 'Enter John, a bespectacled man of six- foot-two, thinning hair, with a wart on his chin’ you see. And so this would go off for a start. He could hardly have been fooled by this artifice into presuming it was a coincidence. Anyway, they would then add their four-penn'orth. I remember meeting the late Sid James, who said: 'It's a very good script. Very nice script, son.' He said: 'I'll tell you what's wrong with it.' I said: 'Oh yes?' He said: 'It wants a few more rudes in it.' I said: 'I beg your pardon?' He said: 'Rudes. It's a very clean script. You know, I mean, a few bloodies and things, just to liven it up.' I said: 'Oh. Thank you very much.' I didn't say I thought I'd achieved something monumentally clever by actually avoiding this! So off I went.  
+I got a bit angry eventually. And indeed, the script began to get more and more misshapen, as every single part was built up….  
+They \[the producers\] said: 'We want something a bit more spectacular!' \[for the climax\] and at that time, Peter was putting on *Come Spy With Me* with Danny La Rue, who was flown in in a helicopter; and he said this would make a good ending. And obviously a dramatist of that experience and that age - and one looks back on oneself with horror: the unprotected boy! - was open to suggestions from the office cleaner onwards. Everybody wanted to get in on the act. I suppose there's a reaction now: I'm very wary about any suggestion from anyone, except people I trust very much. Eventually we did the play again at Stoke, in a modified version from Scarborough. I think it was quite a good show.”  
+*(Ian Watson, Conversations With Ayckbourn)*
+
+"It was the first play I wrote when I didn't star myself in the leading role. And it was the first play I wrote in which anyone outside of Scarborough took any notice of it, which I think, perhaps, gave me the message that I was best out of my own stuff. It was, I suppose, the gimmick that actually attracted people. It was set in the year 2000 and dealt with over-population. At that time it was science fiction. I'd say it was probably nearer science fact." \*  
+*(Desert Island Discs, 1974)*
+
+“I kept rewriting till I was heartily sick of the thing. Needless to say it finished up a total mess. I've hated re-writing ever since.”  
+*(‘Ayckbourn at 50’ souvenir programme)*
+
+“Despite its final failure, this marked quite a step forward for me as a writer…. The second production at Stoke was the first time I directed my own work.”  
+*(‘Ayckbourn at 50’ souvenir programme)*
+
+\* The original production of *Standing Room Only* was set in 2010, but this was then altered to 1997 for its second production. *Standing Room Only* is, arguably, the first of Alan's ensemble plays and he did act in the original production.

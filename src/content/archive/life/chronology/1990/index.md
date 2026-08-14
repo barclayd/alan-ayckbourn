@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1990"
 source: "http://biography.alanayckbourn.net/styled-22/page69/"
-order: 66
+order: 284
 ---
 
 **[\<\<\< Previous page](/life/chronology/1989)**
@@ -21,9 +21,9 @@ order: 66
 
 During 1990, Alan Ayckbourn…
 
-○ directed his first - and last! - production of a play by Shakespeare with ***[Othello](/career)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, starring Michael Gambon.
+○ directed his first - and last! - production of a play by Shakespeare with ***[Othello](/career)*** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)**, starring Michael Gambon.
 
-○ signed the lease for Scarborough's former **[Odeon](/career)** cinema to transform it into the new home of the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**.
+○ signed the lease for Scarborough's former **[Odeon](/career)** cinema to transform it into the new home of the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**.
 
 ○ cast Michael Gambon, Ken Stott, Claire Skinner and Elizabeth Bell in the Scarborough company for *Othello* and ***[Taking Steps](/plays/taking-steps)***.
 
@@ -37,7 +37,7 @@ During 1990, Alan Ayckbourn…
 
 ○ is featured in the BBC1 flagship arts programme *Omnibus - Sex Politics & Alan Ayckbourn*.
 
-○ is featured in the BBC documentary *Arena - Peggy And Her Playwrights*, looking at the life of the literary agent **[Margaret 'Peggy' Ramsay](/life/influences/margaret-ramsay)**.
+○ is featured in the BBC documentary *Arena - Peggy And Her Playwrights*, looking at the life of the literary agent **[Margaret 'Peggy' Ramsay](/life/influences/ramsay-margaret)**.
 
 ○ had ***[Joking Apart](/plays/joking-apart)*** and ***[The Norman Conquests](/plays/the-norman-conquests)*** broadcast by BBC Radio.
 

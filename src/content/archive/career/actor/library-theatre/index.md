@@ -1,7 +1,7 @@
 ---
 title: "Acting at Theatre in the Round at the Library Theatre"
 source: "http://careers.alanayckbourn.net/styled-3/page-8/"
-order: 460
+order: 526
 ---
 
 In 1957, Alan left the **[Leatherhead Theatre Club](/career/actor/connaught-theatre)** to join Theatre in the Round at the Library Theatre, Scarborough, as a **[Stage Manager](/career/stage-manager)** and actor. Theatre in the Round at the Library Theatre had been founded in 1955 by **[Stephen Joseph](/life)** and was the UK's first professional theatre-in-the-round company.

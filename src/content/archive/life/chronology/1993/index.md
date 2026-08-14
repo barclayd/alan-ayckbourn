@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1993"
 source: "http://biography.alanayckbourn.net/styled-22/page72/"
-order: 69
+order: 287
 ---
 
 **[\<\<\< Previous page](/life/chronology/1992)**
@@ -26,7 +26,7 @@ During 1993, Alan Ayckbourn…
 
 ○ received the TMA / Martini Regional Theatre Award For Best Show For Young People & Children (*Mr A's Amazing Maze Plays*), the Birmingham Press Club Personality Of The Year and the Joan Ederyn Hughes Rural Wales Award For Literature.
 
-○ revived one of his most famous works, ***[The Norman Conquests](/plays/the-norman-conquests)***, at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** for the first time; this marked the first time he had directed the trilogy since its world premiere in 1973.
+○ revived one of his most famous works, ***[The Norman Conquests](/plays/the-norman-conquests)***, at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** for the first time; this marked the first time he had directed the trilogy since its world premiere in 1973.
 
 ○ saw *Laughter In The Dark - The Plays Of Alan Ayckbourn* by Albert E Kalson published.
 

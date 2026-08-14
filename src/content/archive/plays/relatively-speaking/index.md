@@ -1,7 +1,7 @@
 ---
 title: "Relatively Speaking"
 source: "http://relativelyspeaking.alanayckbourn.net/"
-order: 135
+order: 107
 play: "relatively-speaking"
 year: 1965
 poster: "./_images/stacks-image-93b771d-1449.jpg"
@@ -20,7 +20,5 @@ facts:
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/11732/relatively-speaking/)"
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
-
-To navigate, use the links in the bar above or to the right.
 
 **Availability**

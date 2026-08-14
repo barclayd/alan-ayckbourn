@@ -1,7 +1,7 @@
 ---
 title: "Family Album"
 source: "http://familyalbum.alanayckbourn.net/"
-order: 249
+order: 184
 play: "family-album"
 year: 2022
 poster: "./_images/stacks-image-f14e742.jpg"
@@ -15,7 +15,5 @@ facts:
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/96032/family-album-ayckbourn/)."
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
-
-To navigate, use the links above or in the right hand column.
 
 **Availability**

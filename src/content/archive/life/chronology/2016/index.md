@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2016"
 source: "http://biography.alanayckbourn.net/styled-22/page118/"
-order: 92
+order: 310
 ---
 
 **[\<\<\< Previous page](/life/chronology/2015)**
@@ -16,13 +16,13 @@ During 2016, Alan Ayckbourn…
 
 ○ received the Oxford Literary Festival Honorary Fellowship.
 
-○ wrote ***[Consuming Passions](/plays/consuming-passions)*** - a play in two parts - which is premiered at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**. Initially advertised as two separate but connected lunchtime plays, it is later announced the combined plays are his official 80th play.
+○ wrote ***[Consuming Passions](/plays/consuming-passions)*** - a play in two parts - which is premiered at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**. Initially advertised as two separate but connected lunchtime plays, it is later announced the combined plays are his official 80th play.
 
 ○ wrote his first play with improvisational elements with ***[The Karaoke Theatre Company](/plays/the-karaoke-theatre-company)***, premiered at the SJT.
 
 ○ saw ***[How The Other Half Loves](/plays/how-the-other-half-loves)*** have its first major West End revival since 1970, playing at the Theatre Royal Haymarket.
 
-○ contributed lyrics to ***[Where Is Peter Rabbit?](/plays)***, a musical celebrating the 150th anniversary of the birth of Beatrix Potter at the Old Laundry Theatre, Bowness-on-Windermere. The piece is devised by his long-time designer, Roger Glossop.
+○ contributed lyrics to ***[Where Is Peter Rabbit?](/plays/childrens-plays-index/contributions/where-is-peter-rabbit)***, a musical celebrating the 150th anniversary of the birth of Beatrix Potter at the Old Laundry Theatre, Bowness-on-Windermere. The piece is devised by his long-time designer, Roger Glossop.
 
 ○ saw ***[Unseen Ayckbourn: Illustrated Edition](/publications)*** by **[Simon Murgatroyd](http://www.simon-murgatroyd.com/)** published with an updated look at lost and unwritten plays.
 

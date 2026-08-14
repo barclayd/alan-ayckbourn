@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1968"
 source: "http://biography.alanayckbourn.net/styled-22/page47/"
-order: 44
+order: 262
 ---
 
 **[\<\<\< Previous page](/life/chronology/1967)**
@@ -14,7 +14,7 @@ During 1968, Alan Ayckbourn…
 
 ○ had his first play published with ***[Relatively Speaking](/plays/relatively-speaking)*** by the publishing company Evans.
 
-○ **[directed](/career/director)** the actor Bob Peck in an amateur production of ***[Mr Whatnot](/plays/mr-whatnot)*** in Leeds for Leeds Arts Theatre.
+○ **[directed](/career/directing-career)** the actor Bob Peck in an amateur production of ***[Mr Whatnot](/plays/mr-whatnot)*** in Leeds for Leeds Arts Theatre.
 
 ○ saw *Relatively Speaking* become his first play to tour the UK with a production directed by Donald Sinden.
 

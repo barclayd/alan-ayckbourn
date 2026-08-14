@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/page186/"
-order: 529
+order: 595
 ---
 
 ## The Doctor And The Devils (1964)
@@ -60,7 +60,7 @@ Alan Ayckbourn
 
 During 1964, Alan retired from professional acting to concentrate on writing and directing. With his play ***[Mr Whatnot](/plays/mr-whatnot)*** optioned for a West End transfer, Alan believed this was the opportunity to concentrate on writing and to leave the acting profession acting.
 
-Unfortunately *Mr Whatnot* was a flop in London and Alan subsequently took a job at the **[BBC](/career/bbc)** as a radio drama producer, where he would work from 1965 until 1970; although during this period he would write four plays for Scarborough's **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**. His professional acting career, began in 1956, had come to a close.
+Unfortunately *Mr Whatnot* was a flop in London and Alan subsequently took a job at the **[BBC](/career/bbc-career)** as a radio drama producer, where he would work from 1965 until 1970; although during this period he would write four plays for Scarborough's **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**. His professional acting career, began in 1956, had come to a close.
 
 That Alan Ayckbourn's penultimate acting job was in Wales in a theatre he had never encountered before is entirely due to the director of the piece. When directors for the West End production of *Mr Whatnot* were being considered, Warren Jenkins was suggested. He was based at the Cardiff New and Alan agreed to perform in a short run of *The Doctor And The Devils* to meet and work with Warren Jenkins. Peter King, who had played Mint in the world premiere of *Mr Whatnot*, would appear in the play as well prior to reprising his lead role in *Mr Whatnot* in the West End.
 

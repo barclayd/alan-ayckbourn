@@ -1,10 +1,10 @@
 ---
 title: "Artistic Director"
 source: "http://careers.alanayckbourn.net/styled-6/"
-order: 20
+order: 246
 ---
 
-Alan Ayckbourn was the Artistic Director of the Stephen Joseph Theatre, Scarborough, between 1972 and 2009. In depth details about the Stephen Joseph Theatre and its history can also be found in the **[Ayckbourn & The Stephen Joseph Theatre](/career/ayckbourn-and-sjt)** section of the website.
+Alan Ayckbourn was the Artistic Director of the Stephen Joseph Theatre, Scarborough, between 1972 and 2009. In depth details about the Stephen Joseph Theatre and its history can also be found in the **[Ayckbourn & The Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt)** section of the website.
 
 An article commissioned to mark the 50th anniversary of Alan Ayckbourn being appointed Artistic Director of Theatre in the Round at the Library Theatre, Scarborough, in 1972 can also be found **[here](/career/artistic-director/artistic-director-50th-anniversary)**.
 
@@ -22,8 +22,8 @@ Between 1986 and 1988, Alan Ayckbourn stepped down from the day-to-day running o
 
 In 1996, after more than six years fund-raising and work, Alan and the company moved to the Stephen Joseph Theatre, a building boasting state of the art facilities and the first purpose built and permanent home for the company since it was created forty years earlier. Although he would be as active as ever in the first few years - which encompassed a major funding crisis which made national news - he announced in 1999 that he would begun to restrict his directing duties purely to his own plays.
 
-In February 2006, Alan suffered a **[stroke](/career/ayckbourn-and-sjt/the-stroke)** and was away from the theatre for six months. He returned in October 2006 to direct his latest play *If I Were You*, but on 23 May 2007 he announced he would be stepping down as Artistic Director in 2009. During the following 18 months, the groundwork was laid for the transition to a new Artistic Director and on 30 May 2008, a successor was announced.
+In February 2006, Alan suffered a **[stroke](/career/ayckbourn-and-the-sjt/the-stroke)** and was away from the theatre for six months. He returned in October 2006 to direct his latest play *If I Were You*, but on 23 May 2007 he announced he would be stepping down as Artistic Director in 2009. During the following 18 months, the groundwork was laid for the transition to a new Artistic Director and on 30 May 2008, a successor was announced.
 
-Alan's final play as Artistic Director was his own musical *Awaking Beauty* which premiered in December 2008. The play closed on 17 January 2009 and on 1 April 2009, Alan Ayckbourn officially stepped down as Artistic Director of the Stephen Joseph Theatre, having held the role with the company for 37 years and guided it through three homes. Click **[here](/career/ayckbourn-and-sjt/retirement)** for further details about Alan stepping down as Artistic Director of the Stephen Joseph Theatre.
+Alan's final play as Artistic Director was his own musical *Awaking Beauty* which premiered in December 2008. The play closed on 17 January 2009 and on 1 April 2009, Alan Ayckbourn officially stepped down as Artistic Director of the Stephen Joseph Theatre, having held the role with the company for 37 years and guided it through three homes. Click **[here](/career/ayckbourn-and-the-sjt/retirement)** for further details about Alan stepping down as Artistic Director of the Stephen Joseph Theatre.
 
-Despite stepping down as Artistic Director, Alan has kept close ties with the Stephen Joseph Theatre and continues to premiere his new plays at the venue where he is employed as a guest director directing these world premieres, an annual revival of one of his plays and tours of his work. In 2018, to mark his contributions to the Stephen Joseph Theatre over the decades, Alan was named the **[Director Emeritus](/career/ayckbourn-and-sjt/director-emeritus)** of the company.
+Despite stepping down as Artistic Director, Alan has kept close ties with the Stephen Joseph Theatre and continues to premiere his new plays at the venue where he is employed as a guest director directing these world premieres, an annual revival of one of his plays and tours of his work. In 2018, to mark his contributions to the Stephen Joseph Theatre over the decades, Alan was named the **[Director Emeritus](/career/ayckbourn-and-the-sjt/director-emeritus-sjt)** of the company.

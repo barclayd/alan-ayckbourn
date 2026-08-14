@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/styled-4/"
-order: 461
+order: 527
 ---
 
 *This page features quotes by Alan Ayckbourn regarding his acting career. Quotes specific to actual plays he appeared in can be found on the relevant play page.*

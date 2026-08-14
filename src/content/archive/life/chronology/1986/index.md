@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 1986"
 source: "http://biography.alanayckbourn.net/styled-22/page65/"
-order: 62
+order: 280
 ---
 
 **[\<\<\< Previous page](/life/chronology/1985)**
@@ -20,7 +20,7 @@ During 1986, Alan Ayckbourn…
 
 ○ joined the **[National Theatre](/career/national-theatre)** as a company director for two years.
 
-○ remained the **[Artistic Director](/career/artistic-director)** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** with Robin Herford made responsible for the day-to-day running of the venue. He committed himself to returning to Scarborough during 1988.
+○ remained the **[Artistic Director](/career/artistic-director)** at the **[Stephen Joseph Theatre In The Round](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre-in-the-round)** with Robin Herford made responsible for the day-to-day running of the venue. He committed himself to returning to Scarborough during 1988.
 
 ○ is - incorrectly - reported to be intending to permanently leave the Stephen Joseph Theatre In The Round from which he had 'apparently' been financially benefiting. The report is debunked amidst the revelation that he had never drawn his salary as Artistic Director of the venue and had put more than £70,000 and 1% of his gross royalties into the theatre since the late 1960s.
 

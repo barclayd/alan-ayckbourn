@@ -1,7 +1,7 @@
 ---
 title: "Absurd Person Singular"
 source: "http://absurdpersonsingular.alanayckbourn.net/"
-order: 145
+order: 112
 play: "absurd-person-singular"
 year: 1972
 poster: "./_images/stacks-image-8220a90-197.jpg"
@@ -19,8 +19,6 @@ facts:
   Amateur: "Apply to [Concord Theatricals](http://www.concordtheatricals.co.uk/p/899/absurd-person-singular/)."
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
-
-To navigate, use the links in the bar above or to the right.
 
 **Availability**
 

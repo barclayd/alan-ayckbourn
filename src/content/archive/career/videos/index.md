@@ -1,7 +1,7 @@
 ---
 title: "Careers: Videos"
 source: "http://careers.alanayckbourn.net/page-101/NewsInDepth.html"
-order: 334
+order: 402
 ---
 
 *This page contains multimedia resources available from the* ***[official Ayckbourn YouTube channel](http://www.youtube.com/channel/UCw_wK39Pa4Hnfziu9On5nNg/)*** *relating to Alan Ayckbourn's careers. The 'A Life In Theatre' series explores individual career paths illustrated with images drawn from the Ayckbourn Archive at the Borthwick Institute for Archives at the University of York.* **A Life In Theatre: The Actor**    Alan Ayckbourn began his professional theatre career as an actor. From 1956 to 1964, his predominant career was acting from appearing in Sir Donald Wolfit's company at the Edinburgh Festival to the Library Theatre, Scarborough, to the Victoria Theatre, Stoke-on-Trent. This video explores his acting career including his late return to acting during the Covid-19 pandemic during 2020.

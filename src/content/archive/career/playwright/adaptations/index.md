@@ -1,7 +1,7 @@
 ---
 title: "Adaptations"
 source: "http://careers.alanayckbourn.net/styled-5/page-95/"
-order: 339
+order: 407
 ---
 
 This page includes all of Alan Ayckbourn's adaptations of works by other playwrights. Although Alan does not consider himself a natural adaptor of other writer's work, he has adapted a number of scripts which have held specific interest for him. To find out more details about each play, click on the play title.

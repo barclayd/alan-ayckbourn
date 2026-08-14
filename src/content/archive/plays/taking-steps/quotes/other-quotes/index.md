@@ -1,0 +1,22 @@
+---
+title: "Quotes by Other People"
+source: "http://takingsteps.alanayckbourn.net/styled-5/styled-12/"
+order: 1293
+play: "taking-steps"
+---
+
+*This page includes quotes about the play Taking Steps by people other than Alan Ayckbourn, predominantly drawn from books and articles about Alan Ayckbourn or British theatre; it does not include quotes from reviews, which can be found in the* ***[Reviews](/plays/taking-steps/reviews)*** *pages.*
+
+"*Taking Steps*, appropriately dedicated lo Ben Travers, is one of Ayckbourn's most unabashedly and consistently farcical plays. The technique of the superimposed sets - in this case three floors of a dilapidated old mansion - is as smoothly handled as in *How the Other Half Loves* and perhaps even more effectively integrated into the fabric of the play as a whole. As in that earlier play, the title suggests the thematic use of the superimposition device. Precisely because we (and the actors) must imagine them, the stairs between the floors become more prominent than they would be if they had physical presence. This suggests an obvious meaning to the play's title, but there is a more important metaphorical meaning as well. This is a play in which people are forever taking steps to change their lives yet most wind up much the same place they started. The device is appropriate because it is a perfect complement to Ayckbourn's characters and their incoherent, fitful relationships, for these people are perpetually in each other's way without ever being able to communicate. So of course it seems perfectly right to see them walk around and about each other without paying the least attention. Of course we know that they are "actually" on different floors, but we notice that even when they are on the same floor they have difficulty making real contact. Ayckbourn says he substituted floors for the usual doors of farce. This may seem an absurd joke, but he actually uses the device for the same effect as the doors. In standard farce the doors make us conscious of the fact that someone, unbeknown to the persons onstage, is close at hand. Here, they are practically stepping on each other."  
+*(Stuart E Baker, Ayckbourn And The Tradition Of Farce, 1991)*
+
+"Ayckbourn manages to make this a farce about something: specifically the question of freedom and sexual choice…. Dedicated to Ben Travers, *Taking Steps* does not have the manic propulsion or single-mindedness of Feydeau nor those extraordinary looping curlicues of verbal absurdity you find in old Ben. What it does have, though, is enormous physical audacity and a sense of characters locked for ever into some strange tic of personality…. Ayckbourn in this play takes the classic rules of farce, bends them, stretches them, teases them into his own particular shape, makes you laugh and also leaves you with a resonant final image: that of Lizzie, like an incapacitated Nora in *A Doll's House*, pausing once more on the threshold both of this Norman mansion and of life itself."  
+*(Michael Billington: Alan Ayckbourn, 1990, Palgrave)*
+
+"Though he \[Ayckbourn\] may create an elaborate setting, as in *Taking Steps*, he is more interested in the story - of frustrated hope and ambitions for instance - than in the scenic device. The actor's prime purpose - to demonstrate the human condition - is never undermined, no matter how innovative the dramatic framework. Performers quickly realise the security of superb technical expertise in playwriting."  
+*(Michael Holt: Alan Ayckbourn, 1989, Northcote House)*
+
+"This is a daring and unique spatial experiment, sustained by Ayckbourn's consummate technical ease. It is beautifully integrated into plot and serves the dramatist's theme perfectly. These characters may inhabit the same space but they are too self-obsessed to be consistently aware of each other's desires, of each other's reality. What Ayckbourn is able to achieve with this scenic convention is a cinematic effect. We can roam about the house, cutting from floor to floor, room to room, without the actor having to leave the stage, or any scene change. The audience acts as camera and editor, switching shot from upstairs to down instantly. By capitalising on the limitations of a restrictive stage area, Ayckbourn turns it to his advantage and invites the audience into the process of editing the images."  
+*(Michael Holt: Alan Ayckbourn, 1989, Northcote House)*
+
+*All research for this page by Simon Murgatroyd.*

@@ -1,10 +1,10 @@
 ---
 title: "Long Biography"
 source: "http://biography.alanayckbourn.net/styled/"
-order: 2
+order: 242
 ---
 
-*This is the officially approved 2026 long biography for Alan Ayckbourn. A* ***[short biography](/life/biographies/short-biography)*** *suitable for use in programmes is also available* ***[here](/life/biographies/short-biography)****. This article is available to reproduce providing the author and this website are credited.*
+*This is the officially approved 2026 long biography for Alan Ayckbourn. A* ***[short biography](/life/biographies/biography-short)*** *suitable for use in programmes is also available* ***[here](/life/biographies/biography-short)****. This article is available to reproduce providing the author and this website are credited.*
 
 Alan Ayckbourn is one of the world’s most popular and prolific professional playwrights. He has written - as of 2026 - 92 full length plays and more than 20 other revues and plays for children. He is also an acclaimed director, who Arthur Miller said directed the definitive version of his play *A View From The Bridge*.
 

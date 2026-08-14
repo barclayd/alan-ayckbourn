@@ -1,7 +1,7 @@
 ---
 title: "Actor"
 source: "http://careers.alanayckbourn.net/styled-3/"
-order: 22
+order: 247
 ---
 
 <aside>
@@ -18,7 +18,7 @@ order: 22
 
 </aside>
 
-Alan Ayckbourn never set out to be a director and playwright. As a young man, he had his eye on journalism before a fortuitous encounter while at school at Haileybury with one of the masters, **[Edgar Matthews](/life/influences/edgar-matthews)**. He inspired Alan's first real interest in theatre and encouraged him as an actor, casting him in a European tour of ***[Romeo & Juliet](/career/actor/romeo-and-juliet)*** and a North American tour of ***[Macbeth](/career/actor/macbeth)***. At the age of 17, Alan left Haileybury and with two contacts from Matthews in hand, he began to look for work in the theatre.
+Alan Ayckbourn never set out to be a director and playwright. As a young man, he had his eye on journalism before a fortuitous encounter while at school at Haileybury with one of the masters, **[Edgar Matthews](/life/influences/haileybury)**. He inspired Alan's first real interest in theatre and encouraged him as an actor, casting him in a European tour of ***[Romeo & Juliet](/career/actor/romeo-and-juliet)*** and a North American tour of ***[Macbeth](/career/actor/macbeth)***. At the age of 17, Alan left Haileybury and with two contacts from Matthews in hand, he began to look for work in the theatre.
 
 He began his first job immediately after leaving Haileybury, joining the renowned actor-manager **[Donald Wolfit](/career/actor/donald-wolfit)**'s company in a production of ***[The Strong Are Lonely](/career/actor/the-strong-are-lonely)*** at the Edinburgh Festival. The production needed someone who could play a sentry and stand at attention for upwards of an hour and Edgar Matthews had promised this was not a problem as Alan had been part of the Cadet Force at Haileybury. Alan was employed as an assistant stage manager with a cameo acting appearance as a sentry and spent three weeks with the company at the festival before returning home.
 
@@ -26,7 +26,7 @@ At which point, the second contact Edgar Matthews had given Alan came into play.
 
 After six months, Alan's funds ran out and with a good grounding in theatre, he looked for professional employment. This came at the **[Leatherhead Theatre Club](/career/actor/connaught-theatre)** where Alan was employed by Hazel Vincent Wallace as an actor and stage manager. Whilst working there he met Rodney Wood, another stage manager, who took him to London to see Studio Theatre Ltd performing in-the-round at the Mahatma Gandhi Hall. It was a fortuitous turn of events which would have huge repercussions for Alan as Wood had been asked to join the company in Scarborough for the summer and he asked Alan to join him as an Acting Stage Manager with the promise of more acting roles.
 
-Impressed by what he had seen, Alan agreed to join Studio Theatre Ltd at the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, for its 1957 summer season. There he met **[Stephen Joseph](/life)**, the man who would become a mentor and the most influential figure in the young man's career and life. Alan stage-managed for the summer season as well as acting in two plays, before taking a job at the **[Oxford Playhouse](/career/actor/connaught-theatre)** for the winter months having been offered work there by Milos Volanakis. Alan spent most of the winter performing and Volanakis hoped he would stay with the company for its summer season. However, Stephen Joseph had contacted Alan asking him to return to Scarborough for the 1958 summer season. Alan decided to return to the coastal resort, where he stayed until 1962.
+Impressed by what he had seen, Alan agreed to join Studio Theatre Ltd at the **[Theatre in the Round at the Library Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/theatre-in-the-round-at-the-library-theatre)**, Scarborough, for its 1957 summer season. There he met **[Stephen Joseph](/life)**, the man who would become a mentor and the most influential figure in the young man's career and life. Alan stage-managed for the summer season as well as acting in two plays, before taking a job at the **[Oxford Playhouse](/career/actor/connaught-theatre)** for the winter months having been offered work there by Milos Volanakis. Alan spent most of the winter performing and Volanakis hoped he would stay with the company for its summer season. However, Stephen Joseph had contacted Alan asking him to return to Scarborough for the 1958 summer season. Alan decided to return to the coastal resort, where he stayed until 1962.
 
 Between 1958 and 1962, Alan was employed primarily as an actor and became increasingly prominent within the company. This coincided with Stephen Joseph commissioning Alan to write his first play in 1959 (after Alan had complained about the quality of the roles he was playing) and his first steps into directing in 1961. His playwriting and directing would increasingly begin to dominate his theatrical career.
 

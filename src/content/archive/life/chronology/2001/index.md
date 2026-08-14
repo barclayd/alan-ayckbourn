@@ -1,7 +1,7 @@
 ---
 title: "Ayckbourn Chronology: 2001"
 source: "http://biography.alanayckbourn.net/styled-22/page80/"
-order: 77
+order: 295
 ---
 
 **[\<\<\< Previous page](/life/chronology/2000)**
@@ -24,7 +24,7 @@ During 2001, Alan Ayckbourn…
 
 ○ directed on Broadway for the first time with a production of ***[By Jeeves](/plays/jeeves)*** at the Helen Hayes Theatre in New York.
 
-○ directed the World premiere of the ***[Damsels In Distress](/plays/damsels-in-distress)*** trilogy (***[GamePlan](/plays/gameplan)***, ***[FlatSpin](/plays/flatspin)*** and ***[RolePlay](/plays/roleplay)***) at the **[Stephen Joseph Theatre](/career/ayckbourn-and-sjt/sjt-venues/stephen-joseph-theatre)**.
+○ directed the World premiere of the ***[Damsels In Distress](/plays/damsels-in-distress)*** trilogy (***[GamePlan](/plays/gameplan)***, ***[FlatSpin](/plays/flatspin)*** and ***[RolePlay](/plays/roleplay)***) at the **[Stephen Joseph Theatre](/career/ayckbourn-and-the-sjt/sjt-venues/stephen-joseph-theatre)**.
 
 ○ had his first authorised biography, *Alan Ayckbourn*: *Grinning At The Edge* by Paul Allen, published.
 
