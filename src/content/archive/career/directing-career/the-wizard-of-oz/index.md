@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Wizard Of Oz (1968)"
 source: "http://careers.alanayckbourn.net/page4/page88/"
 order: 506
 ---
-
-## The Wizard Of Oz (1968)
 
 ### Production Details
 

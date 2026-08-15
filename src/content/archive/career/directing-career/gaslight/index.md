@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Gaslight (1961)"
 source: "http://careers.alanayckbourn.net/page4/page47/"
 order: 377
 ---
-
-## Gaslight (1961)
 
 ### Production Details
 

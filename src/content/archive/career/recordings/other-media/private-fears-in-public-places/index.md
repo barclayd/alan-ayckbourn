@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Private Fears in Public Places"
 source: "http://recordings.alanayckbourn.net/page0/page44/Media_Private_Fears.html"
 order: 834
 ---
-
-### Private Fears in Public Places
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Private Fears in Public Places* in media other than the stage (such as TV, film and radio). To find out more about the play *Private Fears in Public Places*, visit the Plays section **[here](/plays/private-fears-in-public-places)**.
 

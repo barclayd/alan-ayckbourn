@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Boys And The Girls (1961)"
 source: "http://careers.alanayckbourn.net/page4/page68/"
 order: 439
 ---
-
-## The Boys And The Girls (1961)
 
 ### Production Details
 

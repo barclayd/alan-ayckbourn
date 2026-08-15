@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Parasol (1988)"
 source: "http://careers.alanayckbourn.net/page4/page79/"
 order: 478
 ---
-
-## The Parasol (1988)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Thark (1983)"
 source: "http://careers.alanayckbourn.net/page4/page66/"
 order: 491
 ---
-
-## Thark (1983)
 
 ### Production Details
 

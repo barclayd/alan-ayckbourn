@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Wild Honey (1996)"
 source: "http://careers.alanayckbourn.net/page4/page102/"
 order: 505
 ---
-
-## Wild Honey (1996)
 
 ### Production Details
 

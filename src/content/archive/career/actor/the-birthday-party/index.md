@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Birthday Party (1959)"
 source: "http://careers.alanayckbourn.net/styled-3/page140/"
 order: 376
 ---
-
-## The Birthday Party (1959)
 
 ### Production Details
 

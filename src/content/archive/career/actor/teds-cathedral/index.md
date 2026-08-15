@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Ted's Cathedral (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page182/"
 order: 590
 ---
-
-## Ted's Cathedral (1963)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Two Weeks With The Queen (1994)"
 source: "http://careers.alanayckbourn.net/page4/page-109/"
 order: 501
 ---
-
-## Two Weeks With The Queen (1994)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "The 7 Deadly Virtues"
 source: "http://recordings.alanayckbourn.net/page0/page48/Media_Seven_Deadly.html"
 order: 838
 ---
-
-### The 7 Deadly Virtues
 
 This page contains details of recordings and adaptations of Alan Ayckbourn and Paul Todd's revue *The 7 Deadly Virtues* in media other than the stage (such as TV, film and radio). To find out more about *The 7 Deadly Virtues*, visit the Plays section **[here](/plays/the-7-deadly-virtues)**.
 

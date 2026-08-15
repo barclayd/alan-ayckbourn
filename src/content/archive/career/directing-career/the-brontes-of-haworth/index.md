@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Brontës Of Haworth parts I & II (1984)"
 source: "http://careers.alanayckbourn.net/page4/page70/"
 order: 443
 ---
-
-## The Brontës Of Haworth parts I & II (1984)
 
 ### Production Details
 

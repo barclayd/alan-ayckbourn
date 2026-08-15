@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Othello (1990)"
 source: "http://careers.alanayckbourn.net/page4/page59/"
 order: 477
 ---
-
-## Othello (1990)
 
 ### Production Details
 

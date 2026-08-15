@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Little Brother, Little Sister (1961)"
 source: "http://careers.alanayckbourn.net/styled-3/page155/"
 order: 561
 ---
-
-## Little Brother, Little Sister (1961)
 
 ### Production Details
 

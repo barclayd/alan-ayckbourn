@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "You Should See Us Now (1981)"
 source: "http://careers.alanayckbourn.net/page4/page104/"
 order: 508
 ---
-
-## You Should See Us Now (1981)
 
 ### Production Details
 

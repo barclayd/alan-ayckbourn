@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Mother Country (1976)"
 source: "http://careers.alanayckbourn.net/page4/page56/"
 order: 473
 ---
-
-## Mother Country (1976)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "'Prentice Pillar (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page147/"
 order: 553
 ---
-
-## 'Prentice Pillar (1960)
 
 ### Production Details
 

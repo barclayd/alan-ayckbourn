@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Love Off The Shelf (1993)"
 source: "http://careers.alanayckbourn.net/page4/page54/"
 order: 468
 ---
-
-## Love Off The Shelf (1993)
 
 ### Production Details
 

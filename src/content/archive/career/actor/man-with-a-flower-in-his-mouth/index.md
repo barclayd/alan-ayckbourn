@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Man With A Flower In His Mouth (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page136/"
 order: 543
 ---
-
-## The Man With A Flower In His Mouth (1958)
 
 ### Production Details
 

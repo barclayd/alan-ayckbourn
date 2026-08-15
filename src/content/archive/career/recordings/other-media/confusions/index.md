@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Confusions"
 source: "http://recordings.alanayckbourn.net/page0/page33/Media_Confusions.html"
 order: 816
 ---
-
-### Confusions
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Confusions* in media other than the stage (such as TV, film and radio). To find out more about the play *Confusions*, visit the Plays section **[here](/plays/confusions)**.
 

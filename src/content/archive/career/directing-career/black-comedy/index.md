@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Black Comedy (1974)"
 source: "http://careers.alanayckbourn.net/page4/page15/"
 order: 438
 ---
-
-## Black Comedy (1974)
 
 ### Production Details
 

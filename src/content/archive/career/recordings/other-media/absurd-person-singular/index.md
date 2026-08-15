@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Absurd Person Singular"
 source: "http://recordings.alanayckbourn.net/page0/page17/Media_Absurd_Person.html"
 order: 810
 ---
-
-### Absurd Person Singular
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Absurd Person Singular* in media other than the stage (such as TV, film and radio). To find out more about the play *Absurd Person Singular*, visit the Plays section **[here](/plays/absurd-person-singular)**.
 

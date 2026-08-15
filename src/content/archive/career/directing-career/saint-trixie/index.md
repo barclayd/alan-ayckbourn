@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Saint Trixie (1979)"
 source: "http://careers.alanayckbourn.net/page4/page63/"
 order: 486
 ---
-
-## Saint Trixie (1979)
 
 ### Production Details
 

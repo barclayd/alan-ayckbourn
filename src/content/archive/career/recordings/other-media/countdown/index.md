@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Countdown"
 source: "http://recordings.alanayckbourn.net/page0/page20/Media_Countdown.html"
 order: 817
 ---
-
-### Countdown
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's one-act play *Countdown* in media other than the stage (such as TV, film and radio). To find out more about the play *Countdown*, visit the Plays section **[here](/plays/countdown)**.
 

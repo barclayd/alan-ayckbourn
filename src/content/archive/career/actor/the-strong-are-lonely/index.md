@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Strong Are Lonely (1956)"
 source: "http://careers.alanayckbourn.net/styled-3/page117/"
 order: 329
 ---
-
-## The Strong Are Lonely (1956)
 
 ### Production Details
 

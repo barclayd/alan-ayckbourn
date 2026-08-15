@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Way Upstream"
 source: "http://recordings.alanayckbourn.net/page0/page31/Media_Way_Upstream.html"
 order: 843
 ---
-
-### Way Upstream
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Way Upstream* in media other than the stage (such as TV, film and radio). To find out more about the play *Way Upstream*, visit the Plays section **[here](/plays/way-upstream)**.
 

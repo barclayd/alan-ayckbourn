@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "An Englishman's Home (1975)"
 source: "http://careers.alanayckbourn.net/page4/page22/"
 order: 426
 ---
-
-## An Englishman's Home (1975)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Follow The Lover (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page162/"
 order: 567
 ---
-
-## Follow The Lover (1962)
 
 ### Production Details
 

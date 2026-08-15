@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Safari Party (2003)"
 source: "http://careers.alanayckbourn.net/page4/page84/"
 order: 485
 ---
-
-## The Safari Party (2003)
 
 ### Production Details
 

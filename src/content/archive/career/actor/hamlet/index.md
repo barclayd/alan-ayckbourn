@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Hamlet (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page164/"
 order: 569
 ---
-
-## Hamlet (1962)
 
 ### Production Details
 

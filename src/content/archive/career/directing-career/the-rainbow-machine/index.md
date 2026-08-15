@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Rainbow Machine (1963)"
 source: "http://careers.alanayckbourn.net/page4/page80/"
 order: 481
 ---
-
-## The Rainbow Machine (1963)
 
 ### Production Details
 

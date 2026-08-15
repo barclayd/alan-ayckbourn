@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Later Life (1998)"
 source: "http://careers.alanayckbourn.net/page4/page52/"
 order: 465
 ---
-
-## Later Life (1998)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Prisoner (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page184/"
 order: 592
 ---
-
-## The Prisoner (1963)
 
 ### Production Details
 

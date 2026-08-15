@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Three Men In A Boat (1990)"
 source: "http://careers.alanayckbourn.net/page4/page90/"
 order: 494
 ---
-
-## Three Men In A Boat (1990)
 
 ### Production Details
 

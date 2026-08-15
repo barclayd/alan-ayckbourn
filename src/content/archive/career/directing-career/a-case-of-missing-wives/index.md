@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Betrayal (1995)"
 source: "http://careers.alanayckbourn.net/page4/page29/"
 order: 427
 ---
-
-## Betrayal (1995)
 
 ### Production Details
 

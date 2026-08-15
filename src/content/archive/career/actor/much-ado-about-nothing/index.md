@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Much Ado About Nothing (1964)"
 source: "http://careers.alanayckbourn.net/styled-3/page205/"
 order: 595
 ---
-
-## Much Ado About Nothing (1964)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Frankenstein (1959)"
 source: "http://careers.alanayckbourn.net/styled-3/page143/"
 order: 547
 ---
-
-## Frankenstein (1959)
 
 ### Production Details
 

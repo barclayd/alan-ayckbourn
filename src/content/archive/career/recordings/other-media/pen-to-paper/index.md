@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Pen To Paper"
 source: "http://recordings.alanayckbourn.net/page0/page54/Media_Pen.html"
 order: 2380
 ---
-
-### Pen To Paper
 
 This page contains details of Alan Ayckbourn and Paul Todd's contribution to the BBC Radio programme Pen To Paper.
 

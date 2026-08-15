@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Referees (1963)"
 source: "http://careers.alanayckbourn.net/page4/page81/"
 order: 482
 ---
-
-## The Referees (1963)
 
 ### Production Details
 

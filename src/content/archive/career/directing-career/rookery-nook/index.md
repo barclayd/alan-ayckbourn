@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Rookery Nook (1978)"
 source: "http://careers.alanayckbourn.net/page4/page62/"
 order: 484
 ---
-
-## Rookery Nook (1978)
 
 ### Production Details
 

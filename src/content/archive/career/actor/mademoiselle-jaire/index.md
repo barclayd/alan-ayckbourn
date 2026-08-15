@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Madamoiselle Jaïre (1957)"
 source: "http://careers.alanayckbourn.net/styled-3/page128/"
 order: 536
 ---
-
-## Madamoiselle Jaïre (1957)
 
 ### Production Details
 

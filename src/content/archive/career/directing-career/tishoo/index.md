@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Tishoo (1979)"
 source: "http://careers.alanayckbourn.net/page4/page93/"
 order: 496
 ---
-
-## Tishoo (1979)
 
 ### Production Details
 

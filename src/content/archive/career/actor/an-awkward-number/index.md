@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "An Awkward Number (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page174/"
 order: 582
 ---
-
-## An Awkward Number (1963)
 
 ### Production Details
 

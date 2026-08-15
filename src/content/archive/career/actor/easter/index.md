@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Easter (1959)"
 source: "http://careers.alanayckbourn.net/styled-3/page142/"
 order: 546
 ---
-
-## Easter (1959)
 
 ### Production Details
 

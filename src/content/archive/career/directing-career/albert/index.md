@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Albert (1974)"
 source: "http://careers.alanayckbourn.net/page4/page14/"
 order: 433
 ---
-
-## Albert (1974)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Man of the Moment"
 source: "http://recordings.alanayckbourn.net/page0/page36/Media_Man_Of.html"
 order: 832
 ---
-
-### Man of the Moment
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Man of the Moment* in media other than the stage (such as TV, film and radio). To find out more about the play *Man of the Moment*, visit the Plays section **[here](/plays/man-of-the-moment)**.
 

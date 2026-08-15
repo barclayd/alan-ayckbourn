@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "The Norman Conquests"
 source: "http://recordings.alanayckbourn.net/page0/page26/Media_Norman_Conquests.html"
 order: 830
 ---
-
-### The Norman Conquests
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play trilogy *The Norman Conquests* in media other than the stage (such as TV, film and radio). To find out more about the play *The Norman Conquests*, visit the Plays section **[here](/plays/the-norman-conquests)**.
 

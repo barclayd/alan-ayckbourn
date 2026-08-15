@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Life With Father (1957)"
 source: "http://careers.alanayckbourn.net/styled-3/page129/"
 order: 535
 ---
-
-## Life With Father (1957)
 
 ### Production Details
 

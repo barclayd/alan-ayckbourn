@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Love Undertaken (1961)"
 source: "http://careers.alanayckbourn.net/styled-3/page161/"
 order: 566
 ---
-
-## Love Undertaken (1961)
 
 ### Production Details
 

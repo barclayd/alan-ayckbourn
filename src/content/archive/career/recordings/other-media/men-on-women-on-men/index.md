@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Men on Women on Men"
 source: "http://recordings.alanayckbourn.net/page0/page25/Media_Men_On.html"
 order: 833
 ---
-
-### Men on Women on Men
 
 This page contains details of recordings and adaptations of Alan Ayckbourn and Paul Todd's revue *Men on Women on Men* in media other than the stage (such as TV, film and radio). To find out more about *Men on Women on Men*, visit the Plays section **[here](/plays/men-on-women-on-men)**.
 

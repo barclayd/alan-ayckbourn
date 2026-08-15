@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Bell, Book & Candle (1959)"
 source: "http://careers.alanayckbourn.net/styled-3/page141/"
 order: 371
 ---
-
-## Bell, Book & Candle (1959)
 
 ### Production Details
 

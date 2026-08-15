@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Bedroom Farce"
 source: "http://recordings.alanayckbourn.net/page0/page18/Media_Bedroom_Farce.html"
 order: 813
 ---
-
-### Bedroom Farce
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Bedroom Farce* in media other than the stage (such as TV, film and radio). To find out more about the play *Bedroom Farce*, visit the Plays section **[here](/plays/bedroom-farce)**.
 

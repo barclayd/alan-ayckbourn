@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Square Cat (1959)"
 source: "http://careers.alanayckbourn.net/styled-3/page144/"
 order: 548
 ---
-
-## The Square Cat (1959)
 
 ### Production Details
 

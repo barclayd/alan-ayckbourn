@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Cards Of Identity (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page132/"
 order: 539
 ---
-
-## Cards Of Identity (1958)
 
 ### Production Details
 

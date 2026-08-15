@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Things We Do For Love"
 source: "http://recordings.alanayckbourn.net/page0/page39/Media_Things_We.html"
 order: 841
 ---
-
-### Things We Do For Love
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Things We Do For Love* in media other than the stage (such as TV, film and radio). To find out more about the play *Things We Do For Love*, visit the Plays section **[here](/plays/things-we-do-for-love)**.
 

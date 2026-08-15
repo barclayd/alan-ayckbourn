@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Dreams From A Summer House"
 source: "http://recordings.alanayckbourn.net/page0/page46/Media_Dreams_From.html"
 order: 819
 ---
-
-### Dreams From A Summer House
 
 This page contains details of recordings and adaptations of Alan Ayckbourn and Paul Todd's musical *Dreams From A Summer House* in media other than the stage (such as TV, film and radio). To find out more about the play *Dreams From A Summer House*, visit the Plays section **[here](/plays/dreams-from-a-summer-house)**.
 

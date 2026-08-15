@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Death At The New Year (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page169/"
 order: 574
 ---
-
-## Death At The New Year (1962)
 
 ### Production Details
 

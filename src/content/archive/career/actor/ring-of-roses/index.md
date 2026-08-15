@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Ring Of Roses (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page138/"
 order: 372
 ---
-
-## Ring Of Roses (1958)
 
 ### Production Details
 

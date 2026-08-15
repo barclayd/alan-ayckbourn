@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Woman in Mind"
 source: "http://recordings.alanayckbourn.net/page0/page41/Media_Woman_In.html"
 order: 845
 ---
-
-### Woman in Mind
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Woman in Mind* in media other than the stage (such as TV, film and radio). To find out more about the play *Woman in Mind*, visit the Plays section **[here](/plays/woman-in-mind)**.
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Time Of My Life"
 source: "http://recordings.alanayckbourn.net/page0/page-7/page17.html"
 order: 761
 ---
-
-### Time Of My Life
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Time Of My Life* in media other than the stage (such as TV, film and radio). To find out more about the play *Time Of My Life*, visit the Plays section **[here](/plays/way-upstream)**.
 

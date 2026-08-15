@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Just Between Ourselves"
 source: "http://recordings.alanayckbourn.net/page0/page24/Media_Just_Between.html"
 order: 828
 ---
-
-### Just Between Ourselves
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Just Between Ourselves* in media other than the stage (such as TV, film and radio). To find out more about the play *Just Between Ourselves*, visit the Plays section **[here](/plays/just-between-ourselves)**.
 

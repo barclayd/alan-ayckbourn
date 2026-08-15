@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Sacrifice of Isaac (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page-110/"
 order: 550
 ---
-
-## The Sacrifice of Isaac (1960)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Soldier From The Wars Returning (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page151/"
 order: 557
 ---
-
-## Soldier From The Wars Returning (1960)
 
 ### Production Details
 

@@ -1,5 +1,5 @@
 ---
-title: "Recordings of Musicals"
+title: "Original Cast Recordings"
 source: "http://recordings.alanayckbourn.net/page0/styled-5/page12.html"
 order: 41
 ---

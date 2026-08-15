@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Captain Carvallo (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page133/"
 order: 540
 ---
-
-## Captain Carvallo (1958)
 
 ### Production Details
 

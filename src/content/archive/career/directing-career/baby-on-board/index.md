@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Baby On Board (1998)"
 source: "http://careers.alanayckbourn.net/page4/page27/"
 order: 435
 ---
-
-## Baby On Board (1998)
 
 ### Production Details
 

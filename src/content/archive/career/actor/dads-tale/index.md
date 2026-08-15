@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Dad's Tale (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page153/"
 order: 559
 ---
-
-## Dad's Tale (1960)
 
 ### Production Details
 

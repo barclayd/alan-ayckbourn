@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "A Thousand Clowns (1984)"
 source: "http://careers.alanayckbourn.net/page4/page20/"
 order: 423
 ---
-
-## A Thousand Clowns (1984)
 
 ### Production Details
 

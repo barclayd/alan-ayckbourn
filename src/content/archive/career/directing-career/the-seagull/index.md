@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Seagull (1979)"
 source: "http://careers.alanayckbourn.net/page4/page85/"
 order: 488
 ---
-
-## The Seagull (1979)
 
 ### Production Details
 

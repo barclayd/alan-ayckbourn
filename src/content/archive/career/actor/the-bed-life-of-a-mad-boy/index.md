@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Bed-Life Of A Mad Boy (1961)"
 source: "http://careers.alanayckbourn.net/styled-3/page158/"
 order: 564
 ---
-
-## The Bed-Life Of A Mad Boy (1961)
 
 ### Production Details
 

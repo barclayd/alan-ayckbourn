@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Ernie's Incredible Illucinations"
 source: "http://recordings.alanayckbourn.net/page0/page22/Media_Ernies.html"
 order: 820
 ---
-
-### Ernie's Incredible Illucinations
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's one-act play *Ernie's Incredible Illucinations* in media other than the stage (such as TV, film and radio). To find out more about the play *Ernie's Incredible Illucinations*, visit the Plays section **[here](/plays/ernies-incredible-illucinations)**.
 

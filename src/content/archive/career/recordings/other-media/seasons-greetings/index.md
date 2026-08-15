@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Season's Greetings"
 source: "http://recordings.alanayckbourn.net/page0/page28/Media_Seasons_Greetings.html"
 order: 837
 ---
-
-### Season's Greetings
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Season's Greetings* in media other than the stage (such as TV, film and radio). To find out more about the play *Season's Greetings*, visit the Plays section **[here](/plays/seasons-greetings)**.
 

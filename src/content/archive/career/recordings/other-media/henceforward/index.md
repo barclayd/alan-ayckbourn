@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Henceforward…"
 source: "http://recordings.alanayckbourn.net/page0/page32/Media_Henceforward.html"
 order: 824
 ---
-
-### Henceforward…
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Henceforward…* in media other than the stage (such as TV, film and radio). To find out more about the play *Henceforward…*, visit the Plays section **[here](/plays/henceforward)**.
 

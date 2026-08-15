@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "David Copperfield (1961)"
 source: "http://careers.alanayckbourn.net/page4/page38/"
 order: 453
 ---
-
-## David Copperfield (1961)
 
 ### Production Details
 

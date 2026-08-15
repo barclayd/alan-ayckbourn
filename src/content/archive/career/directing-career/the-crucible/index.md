@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Crucible (1979)"
 source: "http://careers.alanayckbourn.net/page4/page75/"
 order: 452
 ---
-
-## The Crucible (1979)
 
 ### Production Details
 

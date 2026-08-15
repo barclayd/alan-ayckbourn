@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Rehearsal (1977)"
 source: "http://careers.alanayckbourn.net/page4/page82/"
 order: 483
 ---
-
-## The Rehearsal (1977)
 
 ### Production Details
 

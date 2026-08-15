@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "'Tis Pity She's A Whore (1988)"
 source: "http://careers.alanayckbourn.net/page4/page92/"
 order: 497
 ---
-
-## 'Tis Pity She's A Whore (1988)
 
 ### Production Details
 

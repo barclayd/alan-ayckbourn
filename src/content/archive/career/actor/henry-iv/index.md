@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Henry IV (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page131/"
 order: 538
 ---
-
-## Henry IV (1958)
 
 ### Production Details
 

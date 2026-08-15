@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Fallen Angels (1977)"
 source: "http://careers.alanayckbourn.net/page4/page43/"
 order: 457
 ---
-
-## Fallen Angels (1977)
 
 ### Production Details
 

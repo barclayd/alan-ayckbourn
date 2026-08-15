@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Frost At Midnight (1974)"
 source: "http://careers.alanayckbourn.net/page4/page46/"
 order: 458
 ---
-
-## Frost At Midnight (1974)
 
 ### Production Details
 

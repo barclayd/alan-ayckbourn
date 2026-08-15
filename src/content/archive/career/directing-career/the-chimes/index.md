@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Chimes (1975)"
 source: "http://careers.alanayckbourn.net/page4/page73/"
 order: 450
 ---
-
-## The Chimes (1975)
 
 ### Production Details
 

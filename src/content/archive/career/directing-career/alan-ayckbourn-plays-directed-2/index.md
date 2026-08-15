@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Tons Of Money (1986)"
 source: "http://careers.alanayckbourn.net/page4/page96/"
 order: 9999
 ---
-
-## Tons Of Money (1986)
 
 ### Production Details
 

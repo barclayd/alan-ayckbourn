@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Christmas V Mastermind (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page171/"
 order: 579
 ---
-
-## Christmas V Mastermind (1962)
 
 ### Production Details
 

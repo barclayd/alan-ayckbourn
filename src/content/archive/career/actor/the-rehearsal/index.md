@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Rehearsal (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page172/"
 order: 580
 ---
-
-## The Rehearsal (1963)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Absent Friends"
 source: "http://recordings.alanayckbourn.net/page0/page9/Media_Absent_Friends.html"
 order: 809
 ---
-
-### Absent Friends
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Absent Friends* in media other than the stage (such as TV, film and radio). To find out more about the play *Absent Friends*, visit the Plays section **[here](/plays/absent-friends)**.
 

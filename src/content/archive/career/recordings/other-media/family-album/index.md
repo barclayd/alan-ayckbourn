@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Family Album"
 source: "http://recordings.alanayckbourn.net/page0/page-6/"
 order: 821
 ---
-
-### Family Album
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Family Album* in media other than the stage (such as TV, film and radio). To find out more about the play *Family Album*, visit the Plays section **[here](/plays/family-album)**.
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "The Revengers' Comedies"
 source: "http://recordings.alanayckbourn.net/page0/page37/Media_Revengers_Comedies.html"
 order: 836
 ---
-
-### The Revengers' Comedies
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *The Revengers' Comedies* in media other than the stage (such as TV, film and radio). To find out more about the play *The Revengers' Comedies*, visit the Plays section **[here](/plays/the-revengers-comedies)**.
 

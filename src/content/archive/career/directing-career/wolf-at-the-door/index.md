@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Wolf At The Door (1989)"
 source: "http://careers.alanayckbourn.net/page4/page103/"
 order: 507
 ---
-
-## Wolf At The Door (1989)
 
 ### Production Details
 

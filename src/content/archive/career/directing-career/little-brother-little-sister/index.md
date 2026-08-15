@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Little Brother, Little Sister (1961)"
 source: "http://careers.alanayckbourn.net/page4/page53/"
 order: 466
 ---
-
-## Little Brother, Little Sister (1961)
 
 ### Production Details
 

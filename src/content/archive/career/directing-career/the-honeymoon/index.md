@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Figuring Things (1998)"
 source: "http://careers.alanayckbourn.net/page4/page44/"
 order: 419
 ---
-
-## Figuring Things (1998)
 
 ### Production Details
 

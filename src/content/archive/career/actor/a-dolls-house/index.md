@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "A Doll's House (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page163/"
 order: 568
 ---
-
-## A Doll's House (1962)
 
 ### Production Details
 
