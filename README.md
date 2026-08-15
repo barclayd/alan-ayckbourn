@@ -90,14 +90,15 @@ first paint.
 ## Measurement
 
 [Cloudflare Web Analytics](https://developers.cloudflare.com/web-analytics/) — cookieless,
-no identifier, nothing to consent to. Add the site in the Cloudflare dashboard under
-**Web Analytics → Add a site**, then set the site token as a build-time variable named
-`PUBLIC_CF_BEACON` in **Workers & Pages → alan-ayckbourn → Settings → Variables**. Unset,
-the beacon is not written at all, so local builds and forks send nothing.
+no identifier, nothing to consent to. The beacon sits at the foot of `Base.astro` with its
+site tag inline: the tag is public by design (it ships in the HTML of every page), so a
+build variable would be ceremony around a string anyone can read from view-source.
 
-It reports pageviews, paths, referrers, countries, device and browser. No query-string
-dimension, so campaign-style tagged links are invisible to it — Path is the only dimension
-a link can carry anything of its own in.
+It reports pageviews, paths, referrers, countries, device and browser, and it counts loads
+rather than people — nothing in it distinguishes one visitor from another. No query-string
+dimension either, so campaign-style tagged links are invisible to it; Path is the only
+dimension a link can carry anything of its own in. Local builds report too, under host
+`localhost`; the dashboard's Host filter separates them.
 
 `observability` in `wrangler.jsonc` covers the other half — Worker-side request logs.
 Nothing invokes a Worker today (the site is assets on the CDN), so it stays quiet until
