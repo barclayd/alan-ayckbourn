@@ -219,6 +219,13 @@ const spy = Boolean(merged) && id === root?.id;
 
     let current: string | null = null;
     let frame = 0;
+    /* Nothing is written to the URL until the reader has actually moved. The
+       first `update()` runs at the top of the document, so it used to answer
+       "no section" and replace the URL with the bare path — and a browser that
+       is still working its way towards `#reviews` drops that scroll the moment
+       the fragment goes. A link into the middle of a play landed at the top of
+       it. Now the first word on the subject is the reader's own. */
+    let scrolled = false;
 
     const update = () => {
       frame = 0;
@@ -287,16 +294,19 @@ const spy = Boolean(merged) && id === root?.id;
          refreshing puts them back in it. `replaceState` rather than `pushState`
          so Back still leaves the play in one press instead of walking up
          through every section of it. */
-      history.replaceState(
-        null,
-        '',
-        active ? `#${active}` : location.pathname,
-      );
+      if (scrolled) {
+        history.replaceState(
+          null,
+          '',
+          active ? `#${active}` : location.pathname,
+        );
+      }
     };
 
     addEventListener(
       'scroll',
       () => {
+        scrolled = true;
         frame ||= requestAnimationFrame(update);
       },
       { passive: true },
