@@ -265,14 +265,24 @@ const [stageWide, stageNarrow] = await Promise.all([
       {/*
         The archive's own current-production banner, kept as it was published.
         A point-in-time snapshot: replaced when the What's On feed is scraped.
+
+        The whole poster is the link — a banner announcing a run is a thing a
+        reader clicks, and What's On is where the dates and booking are. The
+        alt text names the production rather than the destination: it is the
+        poster's own words, and the heading above says what section it is.
       */}
-      <Image
-        src={onStage}
-        alt="How The Other Half Loves, a play by Alan Ayckbourn, at The Old Vic, 29 July to 19 September 2026."
-        widths={[600, 900, 1200]}
-        sizes="(min-width: 72rem) 68rem, 100vw"
-        class="mt-5 w-full rounded-sm"
-      />
+      <a
+        href="/whats-on"
+        class="mt-5 block transition-transform duration-500 ease-stage hover:-translate-y-1 focus-visible:-translate-y-1 focus-visible:outline-offset-4"
+      >
+        <Image
+          src={onStage}
+          alt="How The Other Half Loves, a play by Alan Ayckbourn, at The Old Vic, 29 July to 19 September 2026."
+          widths={[600, 900, 1200]}
+          sizes="(min-width: 72rem) 68rem, 100vw"
+          class="w-full rounded-sm"
+        />
+      </a>
     </div>
   </section>
 
