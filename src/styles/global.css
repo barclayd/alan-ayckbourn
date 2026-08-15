@@ -1,10 +1,24 @@
 @import "tailwindcss";
 
 /*
- * Theme model (decided in PLAN.md):
- *   Chrome — hero, nav, section landings — stays theatrically dark in BOTH
- *   themes, so the art direction is never diluted. The toggle swaps only the
- *   reading surface.
+ * Theme model:
+ *   Chrome — hero, nav, section landings — is the curtain, and a curtain looks
+ *   different with the house lights up. Light theme lights it: a deep, warm
+ *   oxblood rather than a neutral near-black, so the first screenful of a play
+ *   is still unmistakably a stage moment without being a black wall stapled to
+ *   a cream page. Dark theme takes the house lights down and it goes to black,
+ *   which is the one mode where near-black everywhere was always right.
+ *
+ *   Two things stay fixed on purpose. The poster's mat is a display case, not
+ *   the room — a frame does not warm up when the house lights come on. And the
+ *   modal scrim is a veil over someone's photographs, which wants neutral
+ *   darkness in any theme rather than a red cast on the edges of the picture.
+ *
+ *   Superseded: chrome used to be fixed near-black in BOTH themes (PLAN.md), on
+ *   the reasoning that a toggle should never dilute the art direction. In
+ *   practice it meant light mode opened on ~600px of black above the fold and
+ *   only became light below it. Saturation carries the drama here instead of
+ *   darkness.
  */
 @custom-variant dark (&:where(.dark, .dark *));
 
@@ -13,13 +27,14 @@
   --font-body: "Newsreader", Georgia, serif;
   --font-ui: "Inter", system-ui, sans-serif;
 
-  /* Chrome: fixed across both themes. */
-  --color-chrome: #0b0a09;
+  /* Chrome: flips with the theme via the vars below, except the two that don't. */
+  --color-chrome: var(--chrome);
   --color-chrome-raised: #171412;
-  --color-chrome-ink: #f5f0e6;
-  --color-chrome-muted: #a19a8e;
-  --color-chrome-rule: #2e2a26;
-  --color-chrome-accent: #e8564f;
+  --color-chrome-ink: var(--chrome-ink);
+  --color-chrome-muted: var(--chrome-muted);
+  --color-chrome-rule: var(--chrome-rule);
+  --color-chrome-accent: var(--chrome-accent);
+  --color-scrim: #0b0a09;
 
   /* Reading surface: flips with the theme via the vars below. */
   --color-surface: var(--surface);
@@ -28,7 +43,7 @@
   --color-muted: var(--muted);
   --color-rule: var(--rule);
   --color-accent: var(--accent);
-  /* Ink for text sitting ON the accent, not beside it. White reads 8.9:1 on the
+  /* Ink for text sitting ON the accent, not beside it. White reads 5.8:1 on the
      paper theme's deep red and only 3.6:1 on the charcoal theme's lifted one, so
      the dark theme flips to near-black instead of failing contrast. */
   --color-accent-ink: var(--accent-ink);
@@ -39,25 +54,39 @@
 }
 
 :root {
+  /* House lights up. Ink 14.6:1 on the curtain, muted 7.5:1, accent 5.8:1. */
+  --chrome: #3d1015;
+  --chrome-ink: #f7f1e6;
+  --chrome-muted: #c9a8a4;
+  --chrome-rule: #6b272e;
+  --chrome-accent: #ff6a5e;
+
   --surface: #faf7f0;
   --surface-raised: #f2ede2;
   --body: #14110f;
   --muted: #5c554c;
   --rule: #ddd5c7;
-  --accent: #c1272d; /* 6.2:1 on paper */
+  --accent: #c1272d; /* 5.5:1 on paper */
   --accent-ink: #fffaf4;
 
   color-scheme: light;
 }
 
 .dark {
+  /* House lights down. Ink 17.4:1, muted 7.1:1, accent 5.5:1. */
+  --chrome: #0b0a09;
+  --chrome-ink: #f5f0e6;
+  --chrome-muted: #a19a8e;
+  --chrome-rule: #2e2a26;
+  --chrome-accent: #e8564f;
+
   --surface: #1a1714;
   --surface-raised: #221e1a;
   --body: #ede6da;
   --muted: #a39a8d;
   --rule: #35302a;
   --accent: #e8564f; /* lifted for contrast on charcoal */
-  --accent-ink: #1a1714; /* 7.3:1 on the lifted accent, where white is 3.6:1 */
+  --accent-ink: #1a1714; /* 5.0:1 on the lifted accent, where white is 3.6:1 */
 
   color-scheme: dark;
 }
