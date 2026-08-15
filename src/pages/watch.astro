@@ -1,0 +1,410 @@
+---
+import channel from '@/data/youtube.json';
+import Base from '@/layouts/Base.astro';
+
+/**
+ * The archive's films: everything on Alan Ayckbourn's official YouTube channel,
+ * on one page, playing where it is listed.
+ *
+ * Set as the news page's dispatches are, and for the same reason — this is a
+ * chronological archive, so the date belongs in the gutter and the hairline
+ * running down the page is the timeline. A reader who has used News already
+ * knows how to read this.
+ *
+ * The one new thing is what a row does when you click it: the thumbnail is a
+ * button, and it is replaced in place by the player, full width, with the
+ * archivist's own description underneath. Nothing navigates and nothing opens
+ * over the top of the page. Only one plays at a time, so a second click stops
+ * the first rather than leaving two soundtracks running.
+ *
+ * No iframe until then. Fifty-three YouTube embeds would be fifty-three
+ * documents, several megabytes of script and a cookie each, on a page most
+ * visitors will scroll rather than watch.
+ */
+const videos = channel.videos;
+
+/** "46:29" — always minutes and seconds; the longest here is a 46-minute talk. */
+const seconds = (length: string) => {
+  const [m, s] = length.split(':').map(Number);
+  return m * 60 + s;
+};
+
+const hours = Math.round(
+  videos.reduce((total, video) => total + seconds(video.length), 0) / 3600,
+);
+
+const years = [...new Set(videos.map((video) => video.published.slice(0, 4)))];
+const byYear = years.map((year) => ({
+  year,
+  films: videos.filter((video) => video.published.startsWith(year)),
+}));
+
+const dayMonth = (iso: string) =>
+  new Date(iso).toLocaleDateString('en-GB', { day: '2-digit', month: 'short' });
+const longDate = (iso: string) =>
+  new Date(iso).toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+
+/* The archivist writes a paragraph on what the film is, then credits the music
+   and the production. Both are worth keeping, but only the first is worth
+   reading before you have decided to watch. */
+const paragraphs = (description: string) =>
+  description.split(/\n{2,}/).filter(Boolean);
+---
+
+<Base
+  title="Watch"
+  description={`${videos.length} films from Alan Ayckbourn's official YouTube channel — talks, slideshows and short documentaries by his archivist.`}
+  section="Watch"
+  indexed={false}
+>
+  <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
+    <div class="shell">
+      <p
+        class="animate-[rise-in_.6s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
+      >
+        The official channel
+      </p>
+      <h1
+        class="mt-4 animate-[rise-in_.7s_var(--ease-stage)_.06s_both] font-display text-[clamp(3rem,11vw,8rem)] uppercase leading-[0.88]"
+      >
+        Watch
+      </h1>
+      <p
+        class="mt-6 max-w-[48ch] animate-[rise-in_.7s_var(--ease-stage)_.12s_both] text-[1.15em] text-chrome-ink/90"
+      >
+        {videos.length} films made for the archive by Alan Ayckbourn&rsquo;s archivist,
+        Simon Murgatroyd &mdash; talks, slideshows and short documentaries,
+        some {hours} hours in all. Each one plays here on the page.
+      </p>
+      <p
+        class="mt-6 animate-[rise-in_.7s_var(--ease-stage)_.18s_both] font-ui text-[0.7rem] uppercase tracking-[0.16em]"
+      >
+        <a
+          href={channel.url}
+          rel="noopener"
+          class="border-chrome-accent border-b pb-1 text-chrome-muted transition-colors hover:text-chrome-ink"
+        >
+          @AlanAyckbournPlaywright on YouTube
+        </a>
+      </p>
+    </div>
+  </header>
+
+  <div class="shell py-14">
+    {
+      byYear.map(({ year, films }) => (
+        <section aria-labelledby={`y${year}`} class="mb-14 last:mb-0">
+          <h2
+            id={`y${year}`}
+            class="scroll-mt-32 border-rule border-b pb-2 font-display text-[clamp(2.5rem,7vw,4.5rem)] uppercase leading-[0.9] tabular-nums"
+          >
+            {year}
+          </h2>
+
+          <ol>
+            {films.map((film) => (
+              <li
+                class="film grid scroll-mt-20 grid-cols-[3.25rem_1fr] gap-x-4 sm:grid-cols-[5rem_1fr] sm:gap-x-6"
+                data-reveal
+              >
+                <time
+                  datetime={film.published}
+                  class="pt-5 text-right font-ui text-[0.7rem] uppercase leading-5 tracking-[0.1em] text-muted tabular-nums"
+                >
+                  {dayMonth(film.published)}
+                </time>
+
+                <div class="film-body border-rule border-l pt-5 pb-8 pl-5 sm:pl-7">
+                  <div class="film-grid">
+                    {/*
+                      The facade. A button rather than a link: it does something
+                      here rather than going somewhere.
+
+                      Kept out of the accessibility tree, because the title
+                      below it is the same button and reads better as one. That
+                      way each film is one control rather than two identically
+                      named ones, and tabbing the page is fifty-three stops
+                      rather than a hundred and six.
+                    */}
+                    <div class="film-media">
+                      <button
+                        type="button"
+                        data-play={film.id}
+                        data-title={film.title}
+                        aria-hidden="true"
+                        tabindex="-1"
+                        class="group relative block w-full cursor-pointer overflow-hidden rounded-sm outline outline-rule -outline-offset-1"
+                      >
+                        {/*
+                          hqdefault is the only size every video on the channel
+                          has, and it letterboxes the 16:9 frame into a 4:3 box.
+                          Cropping the bars back off recovers the real 480x270
+                          picture, which is sharper than the 320-wide thumbnail
+                          that would otherwise be the alternative.
+                        */}
+                        <img
+                          src={`https://i.ytimg.com/vi/${film.id}/hqdefault.jpg`}
+                          alt=""
+                          width="480"
+                          height="360"
+                          loading="lazy"
+                          decoding="async"
+                          class="aspect-video w-full bg-surface-raised object-cover transition-transform duration-500 ease-stage group-hover:scale-[1.03]"
+                        />
+                        <span class="absolute inset-0 grid place-items-center">
+                          <span class="grid size-11 place-items-center rounded-full bg-chrome/70 text-chrome-ink backdrop-blur-sm transition-colors duration-300 group-hover:bg-accent group-hover:text-accent-ink">
+                            <svg
+                              class="size-4 translate-x-px"
+                              viewBox="0 0 12 14"
+                              fill="currentColor"
+                              aria-hidden="true"
+                            >
+                              <path d="M0 0v14l12-7z" />
+                            </svg>
+                          </span>
+                        </span>
+                        <span class="absolute right-1.5 bottom-1.5 rounded-xs bg-chrome/80 px-1.5 py-0.5 font-ui text-[0.65rem] text-chrome-ink tabular-nums">
+                          {film.length}
+                        </span>
+                      </button>
+                    </div>
+
+                    <div class="min-w-0">
+                      <h3 class="font-display text-[clamp(1.15rem,2.4vw,1.5rem)] uppercase leading-[1.05] text-balance">
+                        <button
+                          type="button"
+                          data-play={film.id}
+                          data-title={film.title}
+                          aria-expanded="false"
+                          class="cursor-pointer text-left uppercase transition-colors hover:text-accent"
+                        >
+                          {film.title}
+                        </button>
+                      </h3>
+
+                      <div class="film-blurb mt-2 max-w-[68ch] text-[0.9em] text-muted">
+                        {paragraphs(film.description).map((line) => (
+                          <p>{line}</p>
+                        ))}
+                      </div>
+
+                      {/*
+                        Listed, the gutter has already given the date and the
+                        badge the running time, so this line would only say
+                        both again. Playing, it is the colophon under the film:
+                        when it was published, and where it lives.
+                      */}
+                      <p class="film-out mt-3 font-ui text-[0.62rem] uppercase tracking-[0.16em] text-muted">
+                        <time datetime={film.published}>
+                          {longDate(film.published)}
+                        </time>{' '}
+                        &middot;{' '}
+                        <a
+                          href={film.href}
+                          rel="noopener"
+                          class="transition-colors hover:text-accent"
+                        >
+                          Watch on YouTube
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))
+    }
+  </div>
+</Base>
+
+<style>
+  /*
+   * The timeline, exactly as the news page draws it: one hairline down the year
+   * with a marker per film, and the ends of the rule closed off.
+   */
+  .film-body {
+    position: relative;
+  }
+
+  .film-body::before {
+    content: "";
+    position: absolute;
+    top: 1.85rem;
+    left: -3px;
+    height: 5px;
+    width: 5px;
+    border-radius: 100px;
+    background-color: var(--color-rule);
+    transition: background-color 0.25s var(--ease-stage);
+  }
+
+  .film:hover .film-body::before,
+  .film:focus-within .film-body::before {
+    background-color: var(--color-accent);
+  }
+
+  .film:first-child .film-body {
+    border-image: linear-gradient(to bottom, transparent 1.85rem, var(--color-rule) 1.85rem)
+      1 / 0 0 0 1px;
+  }
+
+  .film:last-child .film-body {
+    border-image: linear-gradient(to bottom, var(--color-rule) calc(100% - 1.5rem), transparent calc(100% - 1.5rem))
+      1 / 0 0 0 1px;
+  }
+
+  /*
+   * A thumbnail beside its description while the film is listed; the player
+   * across the whole row once it is playing, with the description under it.
+   *
+   * 11rem because YouTube only keeps a 480-wide still for these, and a column
+   * wider than that starts to show it. The player is not a still and has no
+   * such ceiling, which is the other half of why it takes the full width.
+   */
+  .film-grid {
+    display: grid;
+    gap: 1.25rem;
+  }
+
+  @media (width >= 40rem) {
+    .film-grid {
+      grid-template-columns: 11rem 1fr;
+      gap: 1.5rem;
+    }
+  }
+
+  .film[data-playing] .film-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* `:global`, because the player is built by the script below and so never
+     carries the scoping attribute Astro adds to everything in the template. */
+  .film-media :global(iframe) {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 0;
+    border-radius: 2px;
+    animation: rise-in 0.5s var(--ease-stage) both;
+  }
+
+  .film[data-playing] .film-media button {
+    display: none;
+  }
+
+  /*
+   * Listed, a film shows the first line of what it is and no more — fifty-three
+   * full descriptions is a page nobody scrolls. Playing, it shows all of it,
+   * which is when the credits and the dates in them start to matter.
+   */
+  .film-blurb p {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+  }
+
+  /* Everything after the first paragraph is the credits. Selected by position
+     rather than by a class on the element, so this rule out-specifies the clamp
+     above it instead of losing to it. */
+  .film-blurb p + p,
+  .film-out {
+    display: none;
+  }
+
+  .film[data-playing] .film-blurb p {
+    display: block;
+  }
+
+  .film[data-playing] .film-blurb p + p {
+    margin-top: 0.75em;
+  }
+
+  .film[data-playing] .film-out {
+    display: revert;
+  }
+</style>
+
+<script>
+  /*
+   * Swaps a thumbnail for the player it stands in for.
+   *
+   * One delegated listener for the whole page, and one player at a time: a
+   * second click takes the first film's iframe out rather than leaving it
+   * playing off-screen. Removing the element is also the whole of stopping it —
+   * no postMessage, no player API, no script from YouTube on the page at all
+   * until somebody asks for one.
+   */
+  let playing: HTMLElement | null = null;
+
+  const stop = () => {
+    if (!playing) {
+      return;
+    }
+    playing.querySelector('iframe')?.remove();
+    playing
+      .querySelector('[aria-expanded]')
+      ?.setAttribute('aria-expanded', 'false');
+    delete playing.dataset.playing;
+    playing = null;
+  };
+
+  document.addEventListener('click', (event) => {
+    const button = (event.target as HTMLElement).closest<HTMLButtonElement>(
+      '[data-play]',
+    );
+    if (!button) {
+      return;
+    }
+
+    /* Either of the film's two buttons — the thumbnail or the title — and the
+       player always goes in the slot the thumbnail was in, not next to
+       whichever one was clicked. */
+    const film = button.closest<HTMLElement>('.film');
+    const media = film?.querySelector('.film-media');
+    if (!film || !media) {
+      return;
+    }
+
+    /* Clicking the film that is already playing puts it away again, so the row
+       folds back the way it opened and there is no separate close control to
+       find. */
+    const same = film === playing;
+    stop();
+    if (same) {
+      return;
+    }
+
+    const frame = document.createElement('iframe');
+    /* nocookie, so watching a talk about Ayckbourn does not follow anybody
+       around afterwards. */
+    frame.src = `https://www.youtube-nocookie.com/embed/${button.dataset.play}?autoplay=1&rel=0`;
+    frame.title = button.dataset.title ?? 'Video';
+    frame.allow =
+      'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    frame.allowFullscreen = true;
+    media.append(frame);
+
+    film.dataset.playing = '';
+    film
+      .querySelector('[aria-expanded]')
+      ?.setAttribute('aria-expanded', 'true');
+    playing = film;
+
+    /* The row has just grown from a thumbnail to a full-width player, so what
+       was under the cursor is no longer where the film is. Bringing the row up
+       to the top of the screen is what the click asked for. */
+    film.scrollIntoView({
+      behavior: matchMedia('(prefers-reduced-motion: reduce)').matches
+        ? 'auto'
+        : 'smooth',
+      block: 'start',
+    });
+  });
+</script>

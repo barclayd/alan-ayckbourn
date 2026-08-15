@@ -2,6 +2,9 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "alan-ayckbourn",
   "compatibility_date": "2026-08-01",
+  "observability": {
+    "enabled": false
+  },
   // Pure static site: no Worker script, just assets on the CDN. /contact
   // signposts the archive's own enquiries form rather than posting to one of
   // ours, so there is nothing here for a Worker to do.

@@ -10,6 +10,7 @@ const links = [
   { href: '/life', label: 'Life' },
   { href: '/career', label: 'Career' },
   { href: '/encyclopaedia', label: 'Encyclopaedia' },
+  { href: '/watch', label: 'Watch' },
 ];
 
 const path = Astro.url.pathname;
@@ -30,7 +31,9 @@ const isCurrent = (href: string) =>
     </a>
 
     <nav aria-label="Sections" class="ml-auto hidden lg:block">
-      <ul class="flex items-center gap-7">
+      {/* Seven sections only fit across 1024 on the tighter gap; above 1280
+          they get the room back. */}
+      <ul class="flex items-center gap-5 xl:gap-7">
         {
           links.map(({ href, label }) => (
             <li>

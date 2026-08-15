@@ -16,6 +16,8 @@
     "scrape:sample": "node scripts/scrape.mjs",
     "blog": "node scripts/blog.mjs",
     "blog:dry": "node scripts/blog.mjs --no-upload",
+    "social": "node scripts/social.mjs",
+    "social:dry": "node scripts/social.mjs --no-upload",
     "test": "node --test '**/*.test.mjs'",
     "links": "node scripts/links.mjs",
     "deploy": "bun run build && bun run links && wrangler deploy"
