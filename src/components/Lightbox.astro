@@ -52,6 +52,13 @@
         class="pointer-events-auto max-w-prose text-center font-ui text-xs text-chrome-muted empty:hidden"
       >
       </figcaption>
+
+      {/* "3 / 9" is the caption a reader sees; a slash is not a word, and
+          nothing at all was said when the arrow keys moved. The dialog's own
+          label says where we started and that the arrows work — it is read on
+          open, which is the only moment the offer is any use — and this says
+          where each press has got to. */}
+      <p class="sr-only" id="lightbox-said" aria-live="polite"></p>
     </figure>
 
     {/* The way out, said in the corner where a reader looks for it. `autofocus`
@@ -71,6 +78,7 @@
   const dialog = document.querySelector<HTMLDialogElement>('#lightbox');
   const image = dialog?.querySelector('img');
   const caption = dialog?.querySelector('figcaption');
+  const said = dialog?.querySelector('#lightbox-said');
 
   if (dialog && image && caption) {
     /*
@@ -82,6 +90,19 @@
       if (img.naturalWidth <= img.clientWidth) return;
       img.dataset.zoom = '';
       img.style.cursor = 'zoom-in';
+      /* The zoom cursor is an offer only a mouse can see. These images come out
+         of markdown, so there is no markup to wrap them in a button at build
+         time — the role and the tab stop are put on the image itself instead,
+         and the keydown below turns Enter and Space into the click the mouse
+         already had. Alt text stays the accessible name, with the offer added
+         to it, because "production photograph, 1974" is what the reader wants
+         to hear first and "enlarge" is what they want to hear next. */
+      img.tabIndex = 0;
+      img.setAttribute('role', 'button');
+      img.setAttribute(
+        'aria-label',
+        img.alt ? `${img.alt} — enlarge` : 'Enlarge image',
+      );
     };
 
     const candidates = document.querySelectorAll<HTMLImageElement>(
@@ -117,6 +138,17 @@
           : '';
       caption.textContent =
         group.length > 1 ? `${index + 1} / ${group.length}` : credit;
+
+      if (group.length < 2) {
+        dialog.setAttribute('aria-label', img.alt || 'Enlarged image');
+        return;
+      }
+      const where = `Picture ${index + 1} of ${group.length}`;
+      dialog.setAttribute(
+        'aria-label',
+        `${where}, enlarged. Left and right arrow keys move between pictures.`,
+      );
+      if (said) said.textContent = where;
     };
 
     document.addEventListener('click', (event) => {
@@ -131,6 +163,18 @@
         : [img];
       show(group.indexOf(img));
       dialog.showModal();
+    });
+
+    /* Space scrolls and Enter does nothing on an image, so both are turned into
+       the click above rather than a second copy of it. */
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== 'Enter' && event.key !== ' ') return;
+      const img = (event.target as HTMLElement).closest<HTMLImageElement>(
+        'img[data-zoom]',
+      );
+      if (!img) return;
+      event.preventDefault();
+      img.click();
     });
 
     /* Wraps, so the last picture's right arrow returns to the first rather

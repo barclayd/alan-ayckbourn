@@ -110,6 +110,15 @@
     text-rendering: optimizeLegibility;
   }
 
+  /* A button is a thing you press, and the pointer is how a screen says so.
+     The UA disagrees and hands buttons the same arrow as a paragraph, so it is
+     said once here rather than remembered on every button in the codebase —
+     which is a thing nine of them had stopped doing. */
+  button,
+  summary {
+    cursor: pointer;
+  }
+
   /* Visible focus everywhere — the readership is older and keyboard use matters. */
   :focus-visible {
     outline: 2px solid var(--color-accent);
@@ -117,9 +126,30 @@
     border-radius: 2px;
   }
 
+  /* Oxblood is dark enough that the accent all but disappears against it: the
+     ring reads 2.8:1 on the header, the footer and the section bands in light
+     mode, under the 3:1 a control's own outline has to clear. The palette
+     already keeps a lighter accent for exactly this ground. */
+  [class*="bg-chrome"] :focus-visible {
+    outline-color: var(--color-chrome-accent);
+  }
+
   ::selection {
     background-color: var(--color-accent);
     color: #fff;
+  }
+
+  /* Where a link leaves the archive. Matched on the href rather than on a `rel`
+     the scraped prose was never written with, so a publisher's credit in the
+     middle of a play page is marked the same way as one in the footer — and a
+     reader three thousand pages in knows before they click that Back is the
+     only way home. Not on a link wrapped round a picture, where the arrow would
+     land in the corner of a photograph. The empty alternative text keeps it out
+     of the accessible name: a screen reader already says "link". */
+  a[href^="http"]:not([href*="//alan-ayckbourn."]):not(:has(img, svg))::after {
+    content: "\00a0\2197" / "";
+    font-size: 0.78em;
+    opacity: 0.65;
   }
 }
 

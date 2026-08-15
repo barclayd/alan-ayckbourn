@@ -37,11 +37,17 @@ const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
         data-bar
         data-pagefind-ignore
       >
+        {/* No `aria-label`. It read "Sections", which is none of the words on
+            the button — "In this play", the stop the reader is at, and how far
+            in it is — so voice control had nothing to say to press it and a
+            screen reader named it something the screen never did. The button's
+            own contents are the label, and they were already the right one. */}
         <button
           type="button"
           popovertarget="section-list"
-          aria-label="Sections"
-          class="shell flex w-full cursor-pointer items-center gap-3 py-3 text-left"
+          aria-expanded="false"
+          id="section-list-trigger"
+          class="shell flex w-full items-center gap-3 py-3 text-left"
         >
           <span class="shrink-0 font-ui text-[0.6rem] uppercase tracking-[0.22em] text-accent">
             {eyebrow}
@@ -88,7 +94,7 @@ const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
             popovertarget="section-list"
             popovertargetaction="hide"
             aria-label="Close"
-            class="-mr-2 grid size-11 cursor-pointer place-items-center rounded-full text-chrome-muted"
+            class="-mr-2 grid size-11 place-items-center rounded-full text-chrome-muted"
           >
             <span aria-hidden="true" class="text-xl leading-none">
               &times;
@@ -103,6 +109,7 @@ const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
                 <a
                   href={`/${root.id}#${anchorOf(page.id)}`}
                   data-jump={anchorOf(page.id)}
+                  id={i === 0 ? 'section-list-lead' : undefined}
                   class="flex items-baseline gap-4 py-3.5"
                 >
                   <span class="w-6 shrink-0 font-ui text-[0.62rem] text-chrome-muted tabular-nums">
@@ -145,6 +152,32 @@ const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
    * covering scrolls underneath it. Hide it first, then let the jump happen.
    */
   const list = document.getElementById('section-list');
+  const trigger = document.getElementById('section-list-trigger');
+  const lead = document.getElementById('section-list-lead');
+
+  /*
+   * The same three gaps the mobile nav closes — aria-expanded, inert and focus
+   * — because this is the same thing: a panel that covers the whole screen but,
+   * unlike dialog.showModal(), leaves every link behind it in the tab order.
+   * See SiteHeader for the long version.
+   *
+   * The one difference is where it lives. The nav is already a child of <body>,
+   * so quarantining body's other children is enough; this list is rendered
+   * inside <main>, and inert would have swept up the list along with the page
+   * it is covering — a subtree cannot exempt itself from an inert ancestor. So
+   * it is hoisted to the body first. It is `position: fixed` either way, and
+   * declarative `popovertarget` keeps working if this script never runs.
+   */
+  if (list) document.body.append(list);
+
+  list?.addEventListener('toggle', (event) => {
+    const open = (event as ToggleEvent).newState === 'open';
+    trigger?.setAttribute('aria-expanded', String(open));
+    for (const el of document.body.children) {
+      if (el !== list) el.toggleAttribute('inert', open);
+    }
+    (open ? lead : trigger)?.focus();
+  });
 
   list?.addEventListener('click', (event) => {
     if ((event.target as HTMLElement).closest('a[data-jump]')) {

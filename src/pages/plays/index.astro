@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import PlayCard from '@/components/PlayCard.astro';
 import Base from '@/layouts/Base.astro';
+import { byYear, sortKey } from '@/lib/plays';
 import { itemList } from '@/lib/seo';
 
 /* Landing pages only — `plays/woman-in-mind`, not `plays/woman-in-mind/history`. */
@@ -9,16 +10,7 @@ const plays = await getCollection('archive', ({ id }) =>
   /^plays\/[^/]+$/.test(id),
 );
 
-/** Files "The Norman Conquests" under N, as a library would. */
-const sortKey = (title: string) => title.replace(/^(the|a|an)\s+/i, '');
-
-/* Chronological is the default order: it is the shape of a working life. */
-plays.sort(
-  (a, b) =>
-    (a.data.year ?? Number.POSITIVE_INFINITY) -
-      (b.data.year ?? Number.POSITIVE_INFINITY) ||
-    sortKey(a.data.title).localeCompare(sortKey(b.data.title)),
-);
+plays.sort(byYear);
 
 const decadeOf = (year?: number) =>
   year === undefined ? undefined : Math.floor(year / 10) * 10;
@@ -64,7 +56,7 @@ const decades = [
   <div
     class="sticky top-14 z-30 border-rule border-b bg-surface/95 py-3 backdrop-blur-sm"
   >
-    <div class="shell flex items-center gap-4">
+    <div class="shell flex items-center gap-5">
       {/*
         Hidden without JS: a sort button that cannot sort is worse than no
         button. Without JS the page is still the whole oeuvre in chronological
@@ -85,7 +77,7 @@ const decades = [
       */}
       <div
         id="play-controls"
-        class="flex min-w-0 flex-1 items-center gap-x-5 overflow-x-auto pb-0.5 [scrollbar-width:thin] max-sm:[mask-image:linear-gradient(to_right,black_calc(100%-2.5rem),transparent)]"
+        class="flex min-w-0 flex-1 items-center gap-x-5 overflow-x-auto pb-0.5 [scrollbar-width:thin] max-sm:[mask-image:linear-gradient(to_right,black_calc(100%-4.5rem),transparent)]"
       >
         <div
           class="flex shrink-0 items-center gap-1"
@@ -134,6 +126,10 @@ const decades = [
   </div>
 
   <section class="px-4 py-14">
+    {/* Between the h1 and 137 play titles at h3 there was nothing, so a reader
+        moving by heading fell straight from the page's name into the list with
+        no line to say what the list is. */}
+    <h2 class="sr-only">All plays</h2>
     <ul
       id="play-grid"
       class="shell grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5"
@@ -170,7 +166,6 @@ const decades = [
     color: var(--color-muted);
     padding: 0.4rem 0.7rem;
     border-radius: 100px;
-    cursor: pointer;
     transition:
       color 0.2s var(--ease-stage),
       background-color 0.2s var(--ease-stage);

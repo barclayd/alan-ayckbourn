@@ -4,6 +4,7 @@ import { getCollection, getEntry } from 'astro:content';
 import YearRail from '@/components/YearRail.astro';
 import bulletins from '@/data/news.json';
 import Base from '@/layouts/Base.astro';
+import { labelInHtml } from '@/lib/linktext';
 
 /**
  * The archive's living half: the archivist's noticeboard, then every dispatch
@@ -179,10 +180,13 @@ const noticeDate = (item: Bulletin) =>
                   )}
                 </h3>
 
+                {/* A notice is written as HTML in `news.json` rather than as
+                    markdown, so it misses the pass every other page gets — and
+                    it is where "click here" is written most often of all. */}
                 {item.detailHtml && (
                   <div
                     class="notice mt-3 max-w-[62ch] text-[0.85em] text-muted"
-                    set:html={item.detailHtml}
+                    set:html={labelInHtml(item.detailHtml)}
                   />
                 )}
               </div>
