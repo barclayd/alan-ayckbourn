@@ -5,14 +5,22 @@
  *
  * It expects the page to head each year's section with `id="y{year}"` and to
  * leave enough `scroll-mt` under the sticky header for the heading to clear it.
+ *
+ * Where a year is a page rather than a section — Pictures, whose captions run to
+ * two thousand words apiece — pass `base`, and the same rail becomes the
+ * navigation between those pages instead of anchors down one.
  */
 type Props = {
   years: { year: number | string; count: number }[];
   /** What the page is counting, for the total at the end of the rail. */
   label: string;
+  /** Set when each year is its own page: links go to `${base}/${year}`. */
+  base?: string;
+  /** The year being read, when the rail is paging rather than scrolling. */
+  current?: number | string;
 };
 
-const { years, label } = Astro.props;
+const { years, label, base, current } = Astro.props;
 const total = years.reduce((sum, { count }) => sum + count, 0);
 ---
 
@@ -34,7 +42,8 @@ const total = years.reduce((sum, { count }) => sum + count, 0);
         years.map(({ year, count }) => (
           <li class="shrink-0">
             <a
-              href={`#y${year}`}
+              href={base ? `${base}/${year}` : `#y${year}`}
+              aria-current={base ? String(year === current) : undefined}
               class="block rounded-full px-3 py-1.5 font-ui text-[0.7rem] uppercase tracking-[0.12em] text-muted tabular-nums transition-colors hover:bg-surface-raised hover:text-body aria-[current=true]:bg-body aria-[current=true]:text-surface"
             >
               {year}
