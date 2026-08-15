@@ -7,12 +7,22 @@
  */
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { bullets, keyFor, rewrite, runDates } from './blog.mjs';
+import { bullets, keyFor, rewrite, runDates } from './blog.ts';
 
 const empty = { images: new Map(), routes: new Map() };
 
+/**
+ * `bullets`, narrowed to the listings. Every test below but the last reads the
+ * fields of one, and a listing and a page introduction are not the same shape.
+ */
+const listings = (...args: Parameters<typeof bullets>) =>
+  bullets(...args) as Extract<
+    ReturnType<typeof bullets>[number],
+    { kind: 'item' }
+  >[];
+
 test('a listing yields title, venue, dates and the director note', () => {
-  const [item] = bullets(
+  const [item] = listings(
     `<p><strong>◦&nbsp;<strong><a href="https://sjt.uk.com/x">The Trial of Romeo Oscar</a></strong> </strong>at the Stephen Joseph Theatre, Scarborough (4 September &#8211; 3 October 2026)<em><br></em>Directed in-the-round by Alan Ayckbourn</p>`,
     empty,
   );
@@ -28,7 +38,7 @@ test('a title split across two anchors stays one title', () => {
   /* "Show & Tell" arrives as <a>Show</a> + <a> &amp; Tell</a>, wrapped in a
      <font> and a <u> from pasted text. Splitting on " at " in the text would
      cut it in the wrong place. */
-  const [item] = bullets(
+  const [item] = listings(
     `<p><strong>◦&nbsp;<font color="#2271b1"><a href="https://a.uk/"><span><u>Show</u></span></a></font><strong><a href="https://a.uk/"> &amp; Tell</a></strong> </strong>at the Jubilee Hall, Aldeburgh (10 &#8211; 15 August 2026)</p>`,
     empty,
   );
@@ -39,7 +49,7 @@ test('a title split across two anchors stays one title', () => {
 test('a listing with no dates still ends its venue at the break', () => {
   /* The streaming items carry no bracketed run, so nothing but the <br> marks
      where the venue stops and the description starts. */
-  const [item] = bullets(
+  const [item] = listings(
     `<p><strong>◦&nbsp;<strong>Absurd Person Singular</strong></strong> on BBC iPlayer<br>The acclaimed 1985 BBC adaptation of the classic play</p>`,
     empty,
   );
@@ -53,7 +63,7 @@ test('a listing with no dates still ends its venue at the break', () => {
 });
 
 test('a short bold line groups the items that follow it', () => {
-  const items = bullets(
+  const items = listings(
     `<p><strong>August 2026</strong></p><p><strong>◦&nbsp;One</strong> at A (1 August 2026)</p>` +
       `<p><strong>Streaming</strong></p><p><strong>◦&nbsp;Two</strong> at B (whenever)</p>`,
     empty,
@@ -68,7 +78,7 @@ test('a short bold line groups the items that follow it', () => {
 });
 
 test('a news bulletin keeps its date and its body', () => {
-  const [item] = bullets(
+  const [item] = listings(
     `<p><strong>◦&nbsp;Absurd Person Singular on BBC iPlayer (06/08/26)</strong><em><em><br></em></em>The 1985 BBC adaptation is now available. Click <a href="https://bbc.co.uk/x"><strong>here</strong></a>.</p>`,
     empty,
   );
@@ -83,7 +93,8 @@ test('the page introduction is not mistaken for a listing', () => {
     empty,
   );
   assert.equal(item.kind, 'intro');
-  assert.equal(item.title, undefined);
+  /* Nothing of a listing on it — no title to mistake for one. */
+  assert.deepEqual(Object.keys(item), ['kind', 'heading', 'html']);
 });
 
 test('a run is dated every way the listings write one', () => {
@@ -180,7 +191,12 @@ test('a mirrored image carries its dimensions, so nothing shifts', () => {
   const images = new Map([
     [
       'https://wp.example/x.jpg?w=400',
-      { url: 'https://r2.example/x.jpg', width: 400, height: 260 },
+      {
+        key: 'news/2026/x-w400.jpg',
+        url: 'https://r2.example/x.jpg',
+        width: 400,
+        height: 260,
+      },
     ],
   ]);
   const html = rewrite(

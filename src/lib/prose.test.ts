@@ -1,19 +1,38 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { isNote, rebuild, sourceOf } from './prose.mjs';
+import type { Element, ElementContent, Text } from 'hast';
+import { isNote, rebuild, sourceOf } from './prose.ts';
 
-const text = (value) => ({ type: 'text', value });
-const br = { type: 'element', tagName: 'br', properties: {}, children: [] };
-const el = (tagName, children) => ({
+const text = (value: string): Text => ({ type: 'text', value });
+const br: Element = {
+  type: 'element',
+  tagName: 'br',
+  properties: {},
+  children: [],
+};
+const el = (tagName: string, children: ElementContent[]): Element => ({
   type: 'element',
   tagName,
   properties: {},
   children,
 });
-const p = (children) => el('p', children);
+const p = (children: ElementContent[]) => el('p', children);
+
+/**
+ * These assertions walk a tree they have just built, by index. Narrowing every
+ * step back out of the hast union would bury what is being asserted, so the
+ * walk goes through one loose shape instead.
+ */
+type Node = {
+  tagName: string;
+  value: string;
+  properties: Record<string, unknown>;
+  children: Node[];
+};
+const built = (node: Element) => rebuild(node) as unknown as Node;
 
 test('a quotation becomes a blockquote, its source a footer', () => {
-  const out = rebuild(
+  const out = built(
     p([
       text('“Never look forward!”'),
       br,
@@ -22,7 +41,7 @@ test('a quotation becomes a blockquote, its source a footer', () => {
   );
   assert.equal(out.tagName, 'blockquote');
   const [year, quote, source] = out.children;
-  assert.deepEqual(year.children, [text('2019')]);
+  assert.deepEqual(year?.children, [text('2019')]);
   assert.equal(year.properties['aria-hidden'], 'true');
   assert.deepEqual(quote.children, [text('“Never look forward!”')]);
   assert.equal(source.tagName, 'footer');
@@ -32,7 +51,7 @@ test('a quotation becomes a blockquote, its source a footer', () => {
 });
 
 test('a quotation keeps its own line breaks and needs no source', () => {
-  const out = rebuild(p([text('"One."'), br, text('"Two."')]));
+  const out = built(p([text('"One."'), br, text('"Two."')]));
   assert.equal(out.tagName, 'blockquote');
   assert.equal(out.children.length, 1, 'no year, no footer');
   assert.deepEqual(out.children[0].children, [
@@ -43,29 +62,29 @@ test('a quotation keeps its own line breaks and needs no source', () => {
 });
 
 test('a source with no year hangs nothing in the gutter', () => {
-  const out = rebuild(p([text('"Yes."'), br, text('(Grinning At The Edge)')]));
+  const out = built(p([text('"Yes."'), br, text('(Grinning At The Edge)')]));
   assert.deepEqual(
-    out.children.map((c) => c.tagName),
+    out.children.map((c: Node) => c.tagName),
     ['p', 'footer'],
   );
 });
 
 test('a quotation merely ending on a parenthesis keeps it', () => {
-  const out = rebuild(p([text('"A play"'), br, text('"(and its sequel)"')]));
+  const out = built(p([text('"A play"'), br, text('"(and its sequel)"')]));
   assert.equal(out.children.length, 1);
 });
 
 test('a source names the last year in it', () => {
-  const { year } = sourceOf([
+  const cited = sourceOf([
     text('"x"'),
     br,
     text('(Modern Dramatists: Alan Ayckbourn, 1983)'),
   ]);
-  assert.equal(year, '1983');
+  assert.equal(cited?.year, '1983');
 });
 
 test('a cited extract that is not a quotation takes no dateline', () => {
-  const out = rebuild(
+  const out = built(
     p([
       text(
         'Must have Ayckbourn. Many dramatists have told me how much he has influenced them.',
@@ -76,14 +95,14 @@ test('a cited extract that is not a quotation takes no dateline', () => {
   );
   assert.deepEqual(out.properties.className, ['extract']);
   assert.deepEqual(
-    out.children.map((c) => c.tagName),
+    out.children.map((c: Node) => c.tagName),
     ['p', 'footer'],
   );
 });
 
 test('a parenthesis longer than the line it follows is not a source', () => {
   /* The archivist introducing an extract, not citing one. */
-  const out = rebuild(
+  const out = built(
     p([
       el('strong', [text('Ever Ever Land')]),
       text(' (by Michael Billington)'),
@@ -115,13 +134,13 @@ test('a wholly italic paragraph is a note, prose is not', () => {
 });
 
 test('a bold question before a break is a question and answer', () => {
-  const out = rebuild(
+  const out = built(
     p([el('strong', [text('Can I cut the play?')]), br, text('No.')]),
   );
   assert.deepEqual(out.properties.className, ['qa']);
   /* A bold label that is not a question is left alone. */
   assert.equal(
-    rebuild(p([el('strong', [text('Cast:')]), br, text('7m / 6f')])),
+    built(p([el('strong', [text('Cast:')]), br, text('7m / 6f')])),
     null,
   );
 });
@@ -130,11 +149,11 @@ test('a bold question before a break is a question and answer', () => {
    bold-led lines joined by hard breaks, and both used to render as one
    paragraph of bold-then-roman prose. */
 
-const lines = (...rows) =>
+const lines = (...rows: ElementContent[][]) =>
   p(rows.flatMap((row, i) => (i ? [br, ...row] : row)));
 
 test('a run of labelled lines is a data sheet', () => {
-  const out = rebuild(
+  const out = built(
     lines(
       [el('strong', [text('Venue:')]), text(' Birmingham Theatre Centre')],
       [el('strong', [text('Staging:')]), text(' Round')],
@@ -152,7 +171,7 @@ test('a run of labelled lines is a data sheet', () => {
 });
 
 test('a value on its own line stays with the label above it', () => {
-  const out = rebuild(
+  const out = built(
     lines(
       [el('strong', [text('Author:')]), text(' Willis Hall')],
       [el('strong', [text('Director:')])],
@@ -161,13 +180,13 @@ test('a value on its own line stays with the label above it', () => {
   );
   assert.equal(out.children.length, 2);
   assert.equal(
-    out.children[1].children[1].children.at(-1).value,
+    out.children[1].children[1].children.at(-1)?.value,
     'Alan Ayckbourn',
   );
 });
 
 test('two bold headings over bold-led lines is a table', () => {
-  const out = rebuild(
+  const out = built(
     lines(
       [
         el('strong', [text('Character')]),
@@ -190,7 +209,7 @@ test('two bold headings over bold-led lines is a table', () => {
 });
 
 test('credits above the cast heading are a sheet beside the table', () => {
-  const out = rebuild(
+  const out = built(
     lines(
       [el('strong', [text('Director')]), text(' Alan Ayckbourn')],
       [
@@ -205,11 +224,11 @@ test('credits above the cast heading are a sheet beside the table', () => {
   assert.deepEqual(record.properties.className, ['record']);
   assert.deepEqual(record.children[0].children[0].children, [text('Director')]);
   assert.equal(table.tagName, 'table');
-  assert.equal(table.children.at(-1).children.length, 1);
+  assert.equal(table.children.at(-1)?.children.length, 1);
 });
 
 test('a table that is not a cast gets no caption', () => {
-  const out = rebuild(
+  const out = built(
     lines(
       [el('strong', [text('Act 1')]), text(' '), el('strong', [text('Act 2')])],
       [el('strong', [text('Scene 1')]), text(' The kitchen')],
@@ -223,13 +242,13 @@ test('prose with a bold lead-in is left alone', () => {
   /* One labelled line is a sentence, not a sheet, and a paragraph whose lines
      do not all carry a label is prose with something emphasised in it. */
   assert.equal(
-    rebuild(
+    built(
       lines([el('strong', [text('Note:')]), text(' first performed in 1959')]),
     ),
     null,
   );
   assert.equal(
-    rebuild(
+    built(
       lines(
         [el('strong', [text('Petey')]), text(' David Campton')],
         [text('The play was toured that winter.')],

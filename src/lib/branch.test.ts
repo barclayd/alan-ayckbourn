@@ -7,10 +7,9 @@
  */
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { branch, labelOf, RAIL_MAX } from './branch.mjs';
+import { branch, labelOf, type Page, RAIL_MAX } from './branch.ts';
 
-/** @param {string} id @param {string} title @param {string} [body] */
-const page = (id, title, body) => ({
+const page = (id: string, title: string, body?: string): Page => ({
   id,
   body,
   data: { title, order: id.length },

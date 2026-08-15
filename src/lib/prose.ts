@@ -27,27 +27,40 @@
  * now.
  */
 
+import type { Element, ElementContent, Properties, Text } from 'hast';
+import type { HastPluginDefinition } from 'satteri';
+
+/** A label and what it labels, which is both a data sheet row and a table row. */
+type Row = { label: ElementContent[]; value: ElementContent[] };
+
 /** Visible text of a hast node. */
-function textOf(node) {
+function textOf(node: ElementContent): string {
   if (node.type === 'text') {
     return node.value;
   }
-  return textOfAll(node.children ?? []);
+  return node.type === 'element' ? textOfAll(node.children) : '';
 }
 
-const textOfAll = (nodes) => nodes.map(textOf).join('');
+const textOfAll = (nodes: ElementContent[]) => nodes.map(textOf).join('');
 
-const el = (tagName, properties, children = []) => ({
+const text = (value: string): Text => ({ type: 'text', value });
+
+const el = (
+  tagName: string,
+  properties: Properties,
+  children: ElementContent[] = [],
+): Element => ({
   type: 'element',
   tagName,
   properties,
   children,
 });
 
-const isBr = (node) => node.type === 'element' && node.tagName === 'br';
+const isBr = (node: ElementContent) =>
+  node.type === 'element' && node.tagName === 'br';
 
 /** Children after the last line break, and everything before it. */
-function splitLastLine(children) {
+function splitLastLine(children: ElementContent[]) {
   const at = children.findLastIndex(isBr);
   return at < 0
     ? { body: children, last: [] }
@@ -64,7 +77,7 @@ const YEAR = /\b(1[6-9]\d{2}|20\d{2})\b/g;
  * The source line of a quotation, unwrapped from its parentheses.
  * Returns null when the last line is not one.
  */
-export function sourceOf(children) {
+export function sourceOf(children: ElementContent[]) {
   const { body, last } = splitLastLine(children);
   const matched = SOURCE.exec(textOfAll(last).trim());
   if (body.length === 0 || !matched) {
@@ -75,20 +88,22 @@ export function sourceOf(children) {
      nodes deep the italics and links go — so they come off the first and last
      text nodes, wherever those are. */
   const inner = structuredClone(last);
-  const ends = [];
-  const findText = (nodes) => {
+  const ends: Text[] = [];
+  const findText = (nodes: ElementContent[]) => {
     for (const node of nodes) {
       if (node.type === 'text' && node.value.trim() !== '') {
         ends.push(node);
-      } else if (node.children) {
+      } else if (node.type === 'element') {
         findText(node.children);
       }
     }
   };
   findText(inner);
-  if (ends.length > 0) {
-    ends[0].value = ends[0].value.replace(/^\s*\(/, '');
-    ends.at(-1).value = ends.at(-1).value.replace(/\)\.?\s*$/, '');
+  const [first] = ends;
+  const tail = ends.at(-1);
+  if (first && tail) {
+    first.value = first.value.replace(/^\s*\(/, '');
+    tail.value = tail.value.replace(/\)\.?\s*$/, '');
   }
 
   /* The last year named, which for "Modern Dramatists: Alan Ayckbourn, 1983" is
@@ -98,9 +113,9 @@ export function sourceOf(children) {
 }
 
 /** Whether every word of a paragraph is italic — punctuation aside. */
-export function isNote(children) {
+export function isNote(children: ElementContent[]) {
   let sawItalic = false;
-  const walk = (nodes, inEm) => {
+  const walk = (nodes: ElementContent[], inEm: boolean): boolean => {
     for (const node of nodes) {
       if (node.type === 'text') {
         if (inEm) {
@@ -110,8 +125,8 @@ export function isNote(children) {
         } else if (/[\p{L}\p{N}]/u.test(node.value)) {
           return false;
         }
-      } else if (node.children) {
-        const em = inEm || (node.type === 'element' && node.tagName === 'em');
+      } else if (node.type === 'element') {
+        const em = inEm || node.tagName === 'em';
         if (!walk(node.children, em)) {
           return false;
         }
@@ -123,13 +138,13 @@ export function isNote(children) {
 }
 
 /** A paragraph's hard-break lines, without the newlines that joined them. */
-function linesOf(children) {
-  const lines = [[]];
+function linesOf(children: ElementContent[]) {
+  const lines: ElementContent[][] = [[]];
   for (const node of children) {
     if (isBr(node)) {
       lines.push([]);
     } else {
-      lines.at(-1).push(node);
+      lines.at(-1)?.push(node);
     }
   }
   return lines
@@ -142,11 +157,11 @@ function linesOf(children) {
     .filter((line) => line.length > 0);
 }
 
-const isStrong = (node) =>
+const isStrong = (node: ElementContent | undefined): node is Element =>
   node?.type === 'element' && node.tagName === 'strong';
 
 /** A line's bold lead and everything after it, or null if it has no lead. */
-function labelled(line) {
+function labelled(line: ElementContent[]): Row | null {
   const [first, ...rest] = line;
   if (!isStrong(first)) {
     return null;
@@ -168,22 +183,22 @@ function labelled(line) {
  * The colon is what marks a label, and it has to be there: a paragraph of bold
  * lead-ins without one is the cast list below, or prose.
  */
-function recordOf(lines) {
-  const rows = [];
+function recordOf(lines: ElementContent[][]) {
+  const rows: Row[] = [];
   for (const line of lines) {
     const pair = labelled(line);
-    const label = pair && textOfAll(pair.label).trim();
-    if (!label?.endsWith(':')) {
+    const label = pair ? textOfAll(pair.label).trim() : '';
+    if (!pair || !label.endsWith(':')) {
       /* A value the archivist put on its own line, under its label. Anything
          else — a line with no label above it — is not a data sheet. */
       if (rows.length === 0 || isStrong(line[0])) {
         return null;
       }
-      rows.at(-1).value.push({ type: 'text', value: ' ' }, ...line);
+      rows.at(-1)?.value.push(text(' '), ...line);
       continue;
     }
     rows.push({
-      label: [{ type: 'text', value: label.slice(0, -1) }],
+      label: [text(label.slice(0, -1))],
       value: pair.value,
     });
   }
@@ -199,7 +214,7 @@ function recordOf(lines) {
  * four separate cells and the sheet becomes a column of labels a hand's width
  * from a column of values.
  */
-const sheet = (rows) =>
+const sheet = (rows: Row[]) =>
   el(
     'dl',
     { className: ['record'] },
@@ -218,12 +233,12 @@ const sheet = (rows) =>
  * the twelve "Characters / Actors" pages, the two team sheets and the running
  * order set as "Act 1 / Act 2" through on the same path.
  */
-function tableOf(lines) {
+function tableOf(lines: ElementContent[][]) {
   /* The header is two bold words alone on their line, and it is not always the
      first line: half these pages credit the director or the company above the
      cast, in the same paragraph. Those credits are the data sheet's shape, so
      they are set as one and the table starts where the header is. */
-  const columnsOf = (line) => {
+  const columnsOf = (line: ElementContent[]) => {
     const bold = line.filter(
       (node) => node.type !== 'text' || node.value.trim(),
     );
@@ -235,13 +250,10 @@ function tableOf(lines) {
     return null;
   }
 
+  const isRow = (row: Row | null): row is Row => row !== null;
   const credits = lines.slice(0, at).map(labelled);
   const rows = lines.slice(at + 1).map(labelled);
-  if (
-    rows.length === 0 ||
-    rows.some((row) => row === null) ||
-    credits.some((row) => row === null)
-  ) {
+  if (rows.length === 0 || !rows.every(isRow) || !credits.every(isRow)) {
     return null;
   }
 
@@ -252,7 +264,7 @@ function tableOf(lines) {
   const isCast = /^actors?\b/i.test(right);
 
   const table = el('table', { className: ['cast'] }, [
-    ...(isCast ? [el('caption', {}, [{ type: 'text', value: 'Cast' }])] : []),
+    ...(isCast ? [el('caption', {}, [text('Cast')])] : []),
     el('thead', {}, [
       el('tr', {}, [
         el('th', { scope: 'col' }, columns[0].children),
@@ -279,7 +291,7 @@ function tableOf(lines) {
 }
 
 /** The question of a question and answer: bold, ending in "?", then a break. */
-function questionOf(children) {
+function questionOf(children: ElementContent[]) {
   const [first, second] = children;
   return (
     first?.type === 'element' &&
@@ -291,9 +303,9 @@ function questionOf(children) {
 }
 
 /** What a paragraph is rebuilt as, or null to leave it alone. */
-export function rebuild(node) {
-  const children = node.children ?? [];
-  const text = textOf(node).trimStart();
+export function rebuild(node: Element): Element | null {
+  const children = node.children;
+  const plain = textOf(node).trimStart();
   const cited = sourceOf(children);
 
   /* Before the quotations: both are runs of bold-led lines and neither can
@@ -309,13 +321,17 @@ export function rebuild(node) {
 
   /* Alan speaking. The quotation mark is what says so, and it is the only thing
      that does — the archive's review extracts are set exactly the same way. */
-  if (text.startsWith('"') || text.startsWith('“')) {
-    const { body, source, year } = cited ?? { body: children };
+  if (plain.startsWith('"') || plain.startsWith('“')) {
+    const { body, source, year } = cited ?? {
+      body: children,
+      source: null,
+      year: undefined,
+    };
     return el('blockquote', { className: ['quote'] }, [
       ...(year
         ? [
             el('span', { className: ['q-year'], 'aria-hidden': 'true' }, [
-              { type: 'text', value: year },
+              text(year),
             ]),
           ]
         : []),
@@ -358,7 +374,7 @@ export function rebuild(node) {
  * a quotation set in one has nowhere to hang its year; inside one, a paragraph
  * stays a paragraph.
  */
-export default function prosePlugin() {
+export default function prosePlugin(): HastPluginDefinition {
   return {
     name: 'ayckbourn-prose',
     element: {

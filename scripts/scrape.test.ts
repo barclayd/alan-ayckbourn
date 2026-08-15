@@ -3,7 +3,9 @@ import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { test } from 'node:test';
 import { load } from 'cheerio';
+import type { AnyNode } from 'domhandler';
 import {
+  type Block,
   blocksOf,
   clean,
   dropEmptyLabels,
@@ -12,9 +14,10 @@ import {
   hasCaption,
   isLabel,
   isPage,
+  type Links,
   normalise,
   render,
-} from './scrape.mjs';
+} from './scrape.ts';
 
 /*
  * The two judgements in the scraper that decide whether content survives, and
@@ -23,8 +26,8 @@ import {
  * page. ponytail: no framework — `node --test` runs this file as it is.
  */
 
-const h = (level) => ({ type: 'h', level, text: `h${level}` });
-const p = { type: 'p', text: 'prose' };
+const h = (level: number): Block => ({ type: 'h', level, text: `h${level}` });
+const p: Block = { type: 'p', text: 'prose' };
 
 test('a heading labelling nothing is dropped', () => {
   assert.deepEqual(dropEmptyLabels([h(2)]), []);
@@ -47,7 +50,7 @@ test('a subheading does not rescue the deeper heading above it', () => {
   assert.deepEqual(dropEmptyLabels([h(3), h(2), p]), [h(2), p]);
 });
 
-const bold = { type: 'p', text: '**Availability**' };
+const bold: Block = { type: 'p', text: '**Availability**' };
 
 test('a bold run is only a label when asked to be', () => {
   // In the default pass it is content, and it rescues the heading above it.
@@ -63,7 +66,12 @@ test('a bold run labelling content is kept', () => {
 });
 
 /** The data sheet as the archive writes it: bold label, value, two-space break. */
-const sheet = (...lines) => [{ type: 'p', text: lines.join('  \n') }];
+const sheet = (...lines: string[]): Block[] => [
+  { type: 'p', text: lines.join('  \n') },
+];
+
+/** The prose of a block, for the sheet tests: a data sheet is all prose. */
+const textOf = (block: Block) => (block.type === 'p' ? block.text : '');
 
 test('a bare Venue is qualified by the premiere above it', () => {
   const { facts } = extractFacts(
@@ -90,7 +98,7 @@ test('a second data sheet does not invent qualified keys', () => {
   assert.deepEqual(facts, { 'Play Number': '18', Published: 'No' });
   // The duplicate stays in the prose rather than becoming `Published Play Number`.
   assert.equal(blocks.length, 1);
-  assert.match(blocks[0].text, /^\*\*Play Number:\*\* 18$/);
+  assert.match(textOf(blocks[0]), /^\*\*Play Number:\*\* 18$/);
 });
 
 test('a banner in the data sheet stays in the prose', () => {
@@ -103,7 +111,7 @@ test('a banner in the data sheet stays in the prose', () => {
     sheet('**Play Number:** 9', `**How the Other Half Loves:** ${banner}`),
   );
   assert.deepEqual(facts, { 'Play Number': '9' });
-  assert.match(blocks[0].text, /How the Other Half Loves:\*\* \[!\[/);
+  assert.match(textOf(blocks[0]), /How the Other Half Loves:\*\* \[!\[/);
 });
 
 test('a fact following a premiere is not swallowed by it', () => {
@@ -153,30 +161,31 @@ test('pages and files are told apart', () => {
  * actor. The pairing is a judgement too — get it wrong and the site states,
  * confidently and in its own voice, that someone played the wrong part.
  */
-const column = (...lines) => `
+const column = (...lines: string[]) => `
   <div class="s3_column"><div class="text_stack">
     ${lines.join('<br>')}
   </div></div>`;
 
-const rowHtml = (left, right) =>
+const rowHtml = (left: string, right: string) =>
   `<div class="com_yourhead_stacks_two_columns_stack">
     <div class="s3_row">${left}${right}</div>
   </div>`;
 
-const row = (left, right) => markdown(rowHtml(left, right));
+const row = (left: string, right: string) => markdown(rowHtml(left, right));
 
 /** A table drawn inside one column of another: the third and fourth columns. */
-const nest = (left, right) =>
+const nest = (left: string, right: string) =>
   `<div class="s3_column">${rowHtml(left, right)}</div>`;
 
-function markdown(html) {
+function markdown(html: string) {
   const $ = load(`<div id="content">${html}</div>`);
-  const links = (href) => href;
-  links.image = (src) => src;
+  const links: Links = Object.assign((href: string) => href, {
+    image: (node: AnyNode) => $(node).attr('src') ?? '',
+  });
   return render(blocksOf($, clean($), links));
 }
 
-const b = (text) => `<span style="font-weight:bold; ">${text}</span>`;
+const b = (text: string) => `<span style="font-weight:bold; ">${text}</span>`;
 
 test('a label column is paired with its values', () => {
   assert.equal(
@@ -384,8 +393,8 @@ test('every alt description names an image that exists', () => {
   /* alt.json is written by hand against the images on disk, so a key that
      matches nothing is a description silently applying to no image — and the
      rename or re-scrape that orphaned it left some image undescribed. */
-  const names = new Set();
-  (function walk(dir) {
+  const names = new Set<string>();
+  (function walk(dir: string) {
     for (const entry of readdirSync(dir, { withFileTypes: true })) {
       if (entry.isDirectory()) {
         walk(join(dir, entry.name));
@@ -395,7 +404,7 @@ test('every alt description names an image that exists', () => {
     }
   })(new URL('../src/content/archive', import.meta.url).pathname);
 
-  const alt = JSON.parse(
+  const alt: Record<string, string> = JSON.parse(
     readFileSync(new URL('./alt.json', import.meta.url), 'utf8'),
   );
   assert.deepEqual(
@@ -415,7 +424,7 @@ test('a credit is not a description of the photograph', () => {
      one takes `alt=""` rather than repeating it. A caption that only credits the
      photographer describes nothing, though, so those images stay on the review
      list — 28 of them, or the chronology would have looked done. */
-  const page = (caption) =>
+  const page = (caption: string) =>
     `text\n\n![](./_images/stacks-image-abc.jpg)\n\n*${caption}*  \n*© Tony Bartholomew*\n`;
 
   assert.equal(
@@ -463,7 +472,7 @@ test('describing an image cannot turn a row of thumbnails into navigation', () =
      to its play. The alt text sits inside the link's own brackets, so measured
      as link text it decided whether the row was content — the row survived
      while the images had no descriptions and vanished when they got them. */
-  const row = (alt) => ({
+  const row = (alt: string): Block => ({
     type: 'p',
     text: [
       'bedroom-farce',
@@ -474,7 +483,8 @@ test('describing an image cannot turn a row of thumbnails into navigation', () =
       .map((play) => `[![${alt}](./_images/${play}.jpg)](/plays/${play})`)
       .join('    '),
   });
-  const kept = (block) => dropNavBlocks([block], 'The National Theatre').blocks;
+  const kept = (block: Block) =>
+    dropNavBlocks([block], 'The National Theatre').blocks;
   assert.deepEqual(kept(row('')), [row('')]);
   const described = row(
     'National Theatre poster: a buttoned pink headboard against a pink ground',
@@ -482,7 +492,7 @@ test('describing an image cannot turn a row of thumbnails into navigation', () =
   assert.deepEqual(kept(described), [described]);
   /* And the verdict the markup does earn still stands: one banner image wrapped
      in a link to somewhere off the archive is the promo strip, not content. */
-  const banner = (alt) => ({
+  const banner = (alt: string): Block => ({
     type: 'p',
     text: `[![${alt}](./_images/banner.png)](http://www.oldvictheatre.com/stage/other-half/)`,
   });
@@ -520,7 +530,7 @@ test('an index that labels its own rows is content, not sibling-nav', () => {
      list; on the link ratio alone they score 0.633 and 0.583, so the first was
      dropped and the second kept. The label rows are what the archive's indexes
      have and its navigation does not. */
-  const index = {
+  const index: Block = {
     type: 'p',
     text: [
       '**1959**',
@@ -535,7 +545,7 @@ test('an index that labels its own rows is content, not sibling-nav', () => {
   ]);
   /* The FAQ lists bold the links themselves, so bold alone would have rescued
      every one of them. They are still navigation. */
-  const faq = {
+  const faq: Block = {
     type: 'p',
     text: [
       '**○ [FAQs: Writing](../../styled-5/styled-12/BiographyFAQWriting.html)**',
@@ -546,7 +556,7 @@ test('an index that labels its own rows is content, not sibling-nav', () => {
   /* And the Related Pages box does have an unlinked label. What gives it away is
      the entry: an italic title and its suffix are two anchors on one destination,
      so the row points at a page rather than listing one. */
-  const related = {
+  const related: Block = {
     type: 'p',
     text: [
       '**Other Perspectives**',

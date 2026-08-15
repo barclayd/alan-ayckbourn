@@ -15,6 +15,29 @@
  * keeps the archivist's own words and links. Only the structure is new.
  */
 
+import type {
+  Element,
+  ElementContent,
+  Properties,
+  RootContent,
+  Text,
+} from 'hast';
+import type { HastPluginDefinition, HastVisitorContext } from 'satteri';
+
+/** What a line of a chronology turns out to be, once read. */
+type Line =
+  | {
+      kind: 'date';
+      label: string;
+      year: number;
+      href: string | undefined;
+      body: ElementContent[];
+    }
+  | { kind: 'event' | 'wrap' | 'label'; body: ElementContent[] };
+
+/** A date and everything filed under it. */
+type Dated = Extract<Line, { kind: 'date' }> & { events: ElementContent[][] };
+
 /* A date label is recognised by exclusion rather than by pattern: it must
    contain a year, and every other word in it must be one a date can contain.
    Matching a pattern instead lets "1952 (John & Peggy Stanton)" through, which
@@ -38,18 +61,18 @@ const ONLY_BULLET = /^[\s○◦•*]+$/;
 const LEADER = /^\*?[.…]{2,}\*?/;
 
 /** Visible text of a hast node, for reading a label. */
-function textOf(node) {
+function textOf(node: ElementContent): string {
   if (node.type === 'text') {
     return node.value;
   }
-  return (node.children ?? []).map(textOf).join('');
+  return node.type === 'element' ? node.children.map(textOf).join('') : '';
 }
 
 /**
  * The date a label states, or null if it does not state one.
  * `"○ 30 May 1985:"` → `{ label: '30 May 1985', year: 1985 }`
  */
-export function dateOf(raw) {
+export function dateOf(raw: string) {
   const label = raw
     .replace(BULLET, '')
     .replace(/:\s*$/, '')
@@ -89,7 +112,7 @@ export function dateOf(raw) {
  * "Prior to 1974" and "1958 – 1959" keep theirs rather than becoming "Prior
  * to" and "1958 –".
  */
-export function whenOf(label, year) {
+export function whenOf(label: string, year: number) {
   if (label === String(year)) {
     return '';
   }
@@ -99,41 +122,42 @@ export function whenOf(label, year) {
 }
 
 /** Drop edge whitespace from a run of hast children, and empty text nodes. */
-function trim(nodes) {
+function trim(nodes: ElementContent[]) {
   const out = nodes.slice();
   if (out[0]?.type === 'text') {
     out[0] = { ...out[0], value: out[0].value.replace(/^\s+/, '') };
   }
-  if (out.at(-1)?.type === 'text') {
-    const last = out.at(-1);
+  const last = out.at(-1);
+  if (last?.type === 'text') {
     out[out.length - 1] = { ...last, value: last.value.replace(/\s+$/, '') };
   }
   return out.filter((n) => n.type !== 'text' || n.value !== '');
 }
 
 /** A paragraph's children split on `<br>`: the archive writes a line per event. */
-function toLines(children) {
-  const lines = [[]];
+function toLines(children: ElementContent[]) {
+  const lines: ElementContent[][] = [[]];
   for (const child of children) {
     if (child.type === 'element' && child.tagName === 'br') {
       lines.push([]);
     } else {
-      lines.at(-1).push(child);
+      lines.at(-1)?.push(child);
     }
   }
   return lines.map(trim).filter((line) => line.length > 0);
 }
 
-const isBold = (node) =>
+const isBold = (node: ElementContent | undefined): node is Element =>
   node?.type === 'element' &&
   (node.tagName === 'strong' || node.tagName === 'b');
 
 /** The href a date label wears, when the archivist linked the year itself. */
-function linkOf(node) {
+function linkOf(node: ElementContent): string | undefined {
   if (node.type === 'element' && node.tagName === 'a') {
-    return node.properties?.href;
+    const { href } = node.properties;
+    return typeof href === 'string' ? href : undefined;
   }
-  for (const child of node.children ?? []) {
+  for (const child of node.type === 'element' ? node.children : []) {
     const href = linkOf(child);
     if (href) {
       return href;
@@ -146,7 +170,7 @@ function linkOf(node) {
  * What a line is: the start of a date, an event under one, a wrapped
  * continuation of the event above, or a label heading a section.
  */
-function readLine(line) {
+function readLine(line: ElementContent[]): Line {
   const [first, ...rest] = line;
 
   if (isBold(first)) {
@@ -162,7 +186,7 @@ function readLine(line) {
     }
     /* "**○ T**echnical rehearsals begin": on one page the bold ran a letter
        past the bullet. The mark is still the mark, so it still goes. */
-    const inner = first.children ?? [];
+    const inner = first.children;
     if (inner[0]?.type === 'text' && /^\s*[○◦•]/.test(inner[0].value)) {
       return {
         kind: 'event',
@@ -209,14 +233,18 @@ function readLine(line) {
   return { kind: 'event', body: trim(line) };
 }
 
-const el = (tagName, properties, children = []) => ({
+const el = (
+  tagName: string,
+  properties: Properties,
+  children: ElementContent[] = [],
+): Element => ({
   type: 'element',
   tagName,
   properties,
   children,
 });
 
-const text = (value) => ({ type: 'text', value });
+const text = (value: string): Text => ({ type: 'text', value });
 
 /**
  * A timeline's date groups banded by year.
@@ -225,13 +253,13 @@ const text = (value) => ({ type: 'text', value });
  * page — because in prose there is nowhere else to put it. Banded, the year is
  * stated once and each event carries only what is finer than it.
  */
-function toBands(dates) {
-  const bands = [];
+function toBands(dates: Dated[]) {
+  const bands: { year: number; dates: Dated[] }[] = [];
   for (const date of dates) {
     if (bands.at(-1)?.year !== date.year) {
       bands.push({ year: date.year, dates: [] });
     }
-    bands.at(-1).dates.push(date);
+    bands.at(-1)?.dates.push(date);
   }
   return bands;
 }
@@ -239,9 +267,9 @@ function toBands(dates) {
 /** Years between two bands, when enough passed to be worth saying. */
 const GAP_YEARS = 5;
 
-function render(dates, ids) {
+function render(dates: Dated[], ids: Set<string>) {
   const bands = toBands(dates);
-  const children = [];
+  const children: ElementContent[] = [];
 
   for (const [i, band] of bands.entries()) {
     const gap = i > 0 ? band.year - bands[i - 1].year : 0;
@@ -307,10 +335,13 @@ const MIN_DATES = 6;
  * the play chronologies put one entry in each of forty paragraphs; read a
  * paragraph at a time they would come out as forty timelines of one date.
  */
-function transform(children, ctx) {
-  const lines = new Map(
+function transform(children: RootContent[], ctx: HastVisitorContext) {
+  const isParagraph = (node: RootContent): node is Element =>
+    node.type === 'element' && node.tagName === 'p';
+
+  const lines = new Map<RootContent, Line[]>(
     children
-      .filter((node) => node.type === 'element' && node.tagName === 'p')
+      .filter(isParagraph)
       .map((node) => [node, toLines(node.children).map(readLine)]),
   );
 
@@ -326,12 +357,12 @@ function transform(children, ctx) {
   }
 
   /* Anchors are unique per page, not per run. */
-  const ids = new Set();
+  const ids = new Set<string>();
   /* The paragraphs of the open run, and what will stand in for them. */
-  let run = [];
-  let out = [];
+  let run: RootContent[] = [];
+  let out: ElementContent[] = [];
   /* Open date groups within that, flushed as one list when the dates stop. */
-  let dates = [];
+  let dates: Dated[] = [];
 
   const flushDates = () => {
     if (dates.length > 0) {
@@ -379,7 +410,7 @@ function transform(children, ctx) {
         flushDates();
         out.push(el('p', {}, line.body));
       } else if (line.kind === 'wrap' && open.events.length > 0) {
-        open.events.at(-1).push(text(' '), ...line.body);
+        open.events.at(-1)?.push(text(' '), ...line.body);
       } else {
         open.events.push(line.body);
       }
@@ -398,7 +429,7 @@ function transform(children, ctx) {
  * every later paragraph, including the ones this replaced, falls straight
  * through the flag.
  */
-export default function timelinePlugin() {
+export default function timelinePlugin(): HastPluginDefinition {
   return {
     name: 'ayckbourn-timeline',
     element: {

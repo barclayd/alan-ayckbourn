@@ -9,15 +9,15 @@
  * be clever about — and it runs over the whole site in under a second. The
  * script is its own check: it exits 1 with the offending pages listed.
  *
- * Usage: node scripts/links.mjs [dist]
+ * Usage: node scripts/links.ts [dist]
  */
 import { readdir, readFile, stat } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 
 const DIST = resolve(process.argv[2] ?? 'dist');
 
-const walk = async (dir) => {
-  const found = [];
+const walk = async (dir: string): Promise<string[]> => {
+  const found: string[] = [];
   for (const entry of await readdir(dir, { withFileTypes: true })) {
     const path = join(dir, entry.name);
     if (entry.isDirectory()) {
@@ -29,14 +29,14 @@ const walk = async (dir) => {
   return found;
 };
 
-const exists = async (path) =>
+const exists = async (path: string) =>
   await stat(path).then(
     (s) => s.isFile(),
     () => false,
   );
 
 /** A URL is served if the file is there, or `.html`, or an `index.html` under it. */
-const resolves = async (pathname) => {
+const resolves = async (pathname: string) => {
   const path = join(DIST, decodeURIComponent(pathname));
   return (
     (await exists(path)) ||
@@ -46,7 +46,8 @@ const resolves = async (pathname) => {
 };
 
 const pages = await walk(DIST);
-const targets = new Map(); // pathname -> pages linking to it
+/** pathname -> the pages linking to it. */
+const targets = new Map<string, string[]>();
 
 for (const page of pages) {
   const html = await readFile(page, 'utf8');
@@ -66,7 +67,7 @@ for (const page of pages) {
   }
 }
 
-const broken = [];
+const broken: [string, string[]][] = [];
 for (const [pathname, from] of targets) {
   if (!(await resolves(pathname))) {
     broken.push([pathname, from]);
