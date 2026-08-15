@@ -52,6 +52,13 @@
         class="pointer-events-auto max-w-prose text-center font-ui text-xs text-chrome-muted empty:hidden"
       >
       </figcaption>
+
+      {/* "3 / 9" is the caption a reader sees; a slash is not a word, and
+          nothing at all was said when the arrow keys moved. The dialog's own
+          label says where we started and that the arrows work — it is read on
+          open, which is the only moment the offer is any use — and this says
+          where each press has got to. */}
+      <p class="sr-only" id="lightbox-said" aria-live="polite"></p>
     </figure>
 
     {/* The way out, said in the corner where a reader looks for it. `autofocus`
@@ -71,6 +78,7 @@
   const dialog = document.querySelector<HTMLDialogElement>('#lightbox');
   const image = dialog?.querySelector('img');
   const caption = dialog?.querySelector('figcaption');
+  const said = dialog?.querySelector('#lightbox-said');
 
   if (dialog && image && caption) {
     /*
@@ -130,6 +138,17 @@
           : '';
       caption.textContent =
         group.length > 1 ? `${index + 1} / ${group.length}` : credit;
+
+      if (group.length < 2) {
+        dialog.setAttribute('aria-label', img.alt || 'Enlarged image');
+        return;
+      }
+      const where = `Picture ${index + 1} of ${group.length}`;
+      dialog.setAttribute(
+        'aria-label',
+        `${where}, enlarged. Left and right arrow keys move between pictures.`,
+      );
+      if (said) said.textContent = where;
     };
 
     document.addEventListener('click', (event) => {
