@@ -1,0 +1,476 @@
+---
+import Lightbox from '@/components/Lightbox.astro';
+import YearRail from '@/components/YearRail.astro';
+import feed from '@/data/instagram.json';
+import Base from '@/layouts/Base.astro';
+
+/**
+ * The archivist's photographs: 854 of them in 404 posts, as posted to Alan
+ * Ayckbourn's official Instagram since 2022.
+ *
+ * Set as plates rather than as a grid of squares. A grid is how Instagram
+ * itself shows this, and it is the wrong shape for it — these captions are
+ * written, often several hundred words, and half the pictures are a programme
+ * cover or a cast list that means nothing without the paragraph beside it. So
+ * one post per row, picture and caption side by side, in date order down the
+ * same rule the rest of the archive is hung on.
+ *
+ * All 404 on one page, like News and Watch. The pictures are lazy-loaded, so
+ * what that costs is markup, not bandwidth.
+ */
+const posts = feed.posts;
+
+const years = [...new Set(posts.map((post) => post.date.slice(0, 4)))];
+const byYear = years.map((year) => ({
+  year,
+  posts: posts.filter((post) => post.date.startsWith(year)),
+}));
+
+const dayMonth = (iso: string) =>
+  new Date(iso).toLocaleDateString('en-GB', { day: '2-digit', month: 'short' });
+const longDate = (iso: string) =>
+  new Date(iso).toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+
+/**
+ * The shape of the post's tallest picture.
+ *
+ * One box per post, sized so that nothing in it has to be cropped: a post whose
+ * pictures are all the same shape — which is nearly all of them — gets that
+ * shape exactly, and the few mixed carousels letterbox the wider ones rather
+ * than slicing the taller ones. It also stops the row changing height halfway
+ * through a swipe.
+ */
+const shapeOf = (pictures: { width: number; height: number }[]) =>
+  Math.min(...pictures.map(({ width, height }) => width / height)).toFixed(4);
+
+/**
+ * The caption, as the archivist laid it out, minus the tags.
+ *
+ * Nearly every caption signs off with a line of `@handles` and `#hashtags`.
+ * They are his words so they stay, but they are addressed to Instagram's
+ * search rather than to a reader, and left in the body they end each post on a
+ * paragraph of noise. Split off, they set as one quiet line under the rest.
+ */
+const isTags = (line: string) =>
+  /[@#]/.test(line) && line.split(/\s+/).every((word) => /^[@#]/.test(word));
+
+function caption(text: string) {
+  const lines = text
+    .split(/\n{2,}/)
+    .map((line) => line.trim())
+    .filter(Boolean);
+  const tags =
+    lines.length > 1 && isTags(lines.at(-1) ?? '') ? lines.pop() : '';
+  return { lines, tags };
+}
+
+/* The captions point at the archivist's own blog and at ticket pages as bare
+   URLs, which are dead text on a page that could just link them. */
+const escaped = (text: string) =>
+  text.replace(
+    /[&<>]/g,
+    (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[char] ?? char,
+  );
+
+const linked = (line: string) =>
+  escaped(line).replace(
+    /https?:\/\/[^\s<]+[^\s<.,)]/g,
+    (url) =>
+      `<a href="${url}" rel="noopener" class="underline decoration-accent underline-offset-[3px] transition-colors hover:text-accent">${url.replace(/^https?:\/\//, '')}</a>`,
+  );
+
+const pictures = posts.reduce((sum, post) => sum + post.pictures.length, 0);
+---
+
+<Base
+  title="Pictures"
+  description={`${pictures} photographs from Alan Ayckbourn's official Instagram — first nights, rehearsal rooms, programmes and the archive's own shelves.`}
+  section="Pictures"
+  indexed={false}
+>
+  <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
+    <div class="shell">
+      <p
+        class="animate-[rise-in_.6s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
+      >
+        The official feed
+      </p>
+      <h1
+        class="mt-4 animate-[rise-in_.7s_var(--ease-stage)_.06s_both] font-display text-[clamp(3rem,11vw,8rem)] uppercase leading-[0.88]"
+      >
+        Pictures
+      </h1>
+      <p
+        class="mt-6 max-w-[52ch] animate-[rise-in_.7s_var(--ease-stage)_.12s_both] text-[1.15em] text-chrome-ink/90"
+      >
+        {pictures} photographs posted since {years.at(-1)} by Alan Ayckbourn&rsquo;s
+        archivist &mdash; first nights and rehearsal rooms, posters, programmes
+        and the shelves they are kept on. Every caption is his.
+      </p>
+      <p
+        class="mt-8 animate-[rise-in_.7s_var(--ease-stage)_.18s_both] font-ui text-[0.7rem] uppercase tracking-[0.2em]"
+      >
+        <a
+          href={`https://www.instagram.com/${feed.handle}/`}
+          rel="noopener"
+          class="group inline-flex items-center gap-2 text-chrome-muted transition-colors hover:text-chrome-accent"
+        >
+          <span class="border-current border-b pb-1">@{feed.handle}</span>
+          <span
+            class="transition-transform duration-300 ease-stage group-hover:translate-x-1"
+            aria-hidden="true">&rarr;</span
+          >
+        </a>
+      </p>
+    </div>
+  </header>
+
+  <YearRail years={byYear.map((y) => ({ year: y.year, count: y.posts.length }))} label="posts" />
+
+  <div class="shell py-14">
+    {
+      byYear.map(({ year, posts: inYear }) => (
+        <section aria-labelledby={`y${year}`} class="mb-14 last:mb-0">
+          <h2
+            id={`y${year}`}
+            class="scroll-mt-32 border-rule border-b pb-2 font-display text-[clamp(2.5rem,7vw,4.5rem)] uppercase leading-[0.9] tabular-nums"
+          >
+            {year}
+          </h2>
+
+          <ol>
+            {inYear.map((post) => {
+              const { lines, tags } = caption(post.caption);
+              const many = post.pictures.length > 1;
+              return (
+                <li
+                  class="plate grid scroll-mt-20 grid-cols-[3.25rem_1fr] gap-x-4 sm:grid-cols-[5rem_1fr] sm:gap-x-6"
+                  data-reveal
+                >
+                  <time
+                    datetime={post.date}
+                    class="pt-5 text-right font-ui text-[0.7rem] uppercase leading-5 tracking-[0.1em] text-muted tabular-nums"
+                  >
+                    {dayMonth(post.date)}
+                  </time>
+
+                  <div class="plate-body border-rule border-l pt-5 pb-12 pl-5 sm:pl-7">
+                    <figure class="plate-grid">
+                      {/*
+                        The strip is the whole carousel: a scroll-snapping row
+                        of full-width slides. Native scrolling, so a swipe, a
+                        trackpad, a shift-wheel and the arrow keys all work
+                        without being taught to — the buttons are for a mouse,
+                        which is the one input that has no gesture for sideways.
+                      */}
+                      <div class="plate-media group relative">
+                        <div
+                          class="plate-strip bg-surface-raised"
+                          data-zoom-group
+                          style={`aspect-ratio:${shapeOf(post.pictures)}`}
+                          tabindex="0"
+                          role={many ? 'group' : undefined}
+                          aria-label={
+                            many
+                              ? `${post.pictures.length} pictures, ${longDate(post.date)}`
+                              : undefined
+                          }
+                        >
+                          {post.pictures.map((picture) => (
+                            <img
+                              src={picture.src}
+                              width={picture.width}
+                              height={picture.height}
+                              /* The caption is right there beside it and says
+                                 what these are; Instagram supplied no alt text
+                                 of its own, and inventing one would be worse
+                                 than the figure this already sits in. */
+                              alt=""
+                              loading="lazy"
+                              decoding="async"
+                              data-zoomable
+                            />
+                          ))}
+                        </div>
+
+                        {many && (
+                          <Fragment>
+                            <p
+                              class="pointer-events-none absolute top-2 right-2 rounded-full bg-chrome/75 px-2 py-0.5 font-ui text-[0.62rem] text-chrome-ink tabular-nums backdrop-blur-sm"
+                              aria-hidden="true"
+                            >
+                              <span data-at>1</span>/{post.pictures.length}
+                            </p>
+                            <button
+                              type="button"
+                              data-step="-1"
+                              aria-label="Previous picture"
+                              class="plate-step left-2"
+                            >
+                              &#8249;
+                            </button>
+                            <button
+                              type="button"
+                              data-step="1"
+                              aria-label="Next picture"
+                              class="plate-step right-2"
+                            >
+                              &#8250;
+                            </button>
+                          </Fragment>
+                        )}
+                      </div>
+
+                      <figcaption class="plate-words min-w-0">
+                        {lines.map((line) => (
+                          <p set:html={linked(line)} />
+                        ))}
+
+                        {tags && (
+                          <p class="plate-tags">{tags}</p>
+                        )}
+
+                        <p class="plate-meta">
+                          <time datetime={post.date}>{longDate(post.date)}</time>{' '}
+                          &middot;{' '}
+                          <a
+                            href={post.href}
+                            rel="noopener"
+                            class="transition-colors hover:text-accent"
+                          >
+                            View on Instagram
+                          </a>
+                        </p>
+                      </figcaption>
+                    </figure>
+                  </div>
+                </li>
+              );
+            })}
+          </ol>
+        </section>
+      ))
+    }
+  </div>
+
+  <Lightbox />
+</Base>
+
+<style>
+  /*
+   * The dateline, the same one News and Watch hang on: one hairline down the
+   * page with a marker per entry. The marker sits on the rule rather than
+   * beside it, so it is positioned against the border it interrupts.
+   */
+  .plate-body {
+    position: relative;
+  }
+
+  .plate-body::before {
+    content: "";
+    position: absolute;
+    top: 1.85rem;
+    left: -3px;
+    height: 5px;
+    width: 5px;
+    border-radius: 100px;
+    background-color: var(--color-rule);
+    transition: background-color 0.25s var(--ease-stage);
+  }
+
+  .plate:hover .plate-body::before,
+  .plate:focus-within .plate-body::before {
+    background-color: var(--color-accent);
+  }
+
+  /* The rule is continuous through the year, so the ends need closing off. */
+  .plate:first-child .plate-body {
+    border-image: linear-gradient(to bottom, transparent 1.85rem, var(--color-rule) 1.85rem)
+      1 / 0 0 0 1px;
+  }
+
+  .plate:last-child .plate-body {
+    border-image: linear-gradient(to bottom, var(--color-rule) calc(100% - 1.5rem), transparent calc(100% - 1.5rem))
+      1 / 0 0 0 1px;
+  }
+
+  .plate-grid {
+    display: grid;
+    gap: 1.25rem;
+  }
+
+  /* Picture beside caption only once both can hold a sensible measure. Below
+     that they stack, which is also the order they are read in. */
+  @media (width >= 64rem) {
+    .plate-grid {
+      grid-template-columns: minmax(0, 25rem) 1fr;
+      gap: 2.5rem;
+      align-items: start;
+    }
+
+    /* The captions run to two thousand words in places, and a picture pinned
+       to the top of one is out of sight by the paragraph that explains it. It
+       stays with the reading instead, as far as its own post goes and no
+       further. */
+    .plate-media {
+      position: sticky;
+      top: 6rem;
+    }
+  }
+
+  .plate-strip {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    border-radius: 2px;
+    outline: 1px solid var(--color-rule);
+    outline-offset: -1px;
+  }
+
+  .plate-strip::-webkit-scrollbar {
+    display: none;
+  }
+
+  .plate-strip img {
+    flex: 0 0 100%;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    scroll-snap-align: center;
+    cursor: zoom-in;
+  }
+
+  /* Sideways, for the one input that cannot swipe. Kept off the picture until
+     the pointer or the keyboard is actually on this post. */
+  .plate-step {
+    position: absolute;
+    top: 50%;
+    display: grid;
+    height: 2.25rem;
+    width: 2.25rem;
+    translate: 0 -50%;
+    place-items: center;
+    border-radius: 100px;
+    background-color: color-mix(in srgb, var(--color-chrome) 70%, transparent);
+    color: var(--color-chrome-ink);
+    font-family: var(--font-ui);
+    font-size: 1.25rem;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0;
+    transition:
+      opacity 0.25s var(--ease-stage),
+      background-color 0.25s var(--ease-stage);
+  }
+
+  .plate-media:hover .plate-step,
+  .plate-media:focus-within .plate-step {
+    opacity: 1;
+  }
+
+  .plate-step:hover {
+    background-color: var(--color-accent);
+  }
+
+  @media (hover: none) {
+    .plate-step {
+      display: none;
+    }
+  }
+
+  .plate-words p {
+    max-width: 62ch;
+    color: var(--color-muted);
+    font-size: 0.95em;
+  }
+
+  .plate-words p + p {
+    margin-top: 0.7em;
+  }
+
+  /* The handles and hashtags: present, but stepped back out of the reading.
+     Left in the case they were typed in — an @handle is a name, and setting
+     a column of them in capitals makes them harder to read, not quieter. */
+  .plate-tags {
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    line-height: 1.8;
+    opacity: 0.5;
+    word-spacing: 0.2em;
+  }
+
+  .plate-meta {
+    margin-top: 1.25rem;
+    font-family: var(--font-ui);
+    font-size: 0.62rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+</style>
+
+<script>
+  /*
+   * The carousels. One listener each for the whole page rather than one per
+   * strip — there are 189 of them, and a `scroll` handler bound 189 times is
+   * 189 chances to leak.
+   */
+  const stripOf = (element: Element | null) =>
+    element?.closest('.plate-media')?.querySelector<HTMLElement>('.plate-strip');
+
+  /**
+   * Where a step lands, wrapping round both ends so nine pictures do not finish
+   * on a dead button. The pixel of slack absorbs a fractional slide width,
+   * which stops a hair short of `last` and would otherwise wrap a step early.
+   *
+   * A wrap is cut rather than scrolled: gliding smoothly back across all nine
+   * pictures to reach the first one is a blur, and it takes over a second.
+   */
+  function step(from: number, by: number, last: number) {
+    const to = from + by;
+    if (to < -1) {
+      return { left: last, jump: true };
+    }
+    return to > last + 1 ? { left: 0, jump: true } : { left: to, jump: false };
+  }
+
+  /* `scroll` does not bubble, so it is caught on the way down instead. */
+  document.addEventListener(
+    'scroll',
+    (event) => {
+      const strip = event.target as HTMLElement;
+      if (!strip.classList?.contains('plate-strip')) {
+        return;
+      }
+      const at = strip.parentElement?.querySelector('[data-at]');
+      if (at) {
+        at.textContent = String(
+          Math.round(strip.scrollLeft / strip.clientWidth) + 1,
+        );
+      }
+    },
+    { capture: true, passive: true },
+  );
+
+  document.addEventListener('click', (event) => {
+    const button = (event.target as HTMLElement).closest<HTMLButtonElement>(
+      '[data-step]',
+    );
+    const strip = stripOf(button);
+    if (!button || !strip) {
+      return;
+    }
+    const { left, jump } = step(
+      strip.scrollLeft,
+      Number(button.dataset.step) * strip.clientWidth,
+      strip.scrollWidth - strip.clientWidth,
+    );
+    const still =
+      jump || matchMedia('(prefers-reduced-motion: reduce)').matches;
+    strip.scrollTo({ left, behavior: still ? 'auto' : 'smooth' });
+  });
+</script>

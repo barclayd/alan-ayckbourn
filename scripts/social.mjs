@@ -89,11 +89,15 @@ const json = async (key, fetcher) => JSON.parse(await cached(key, fetcher));
 /**
  * Every post, newest first, twelve at a time.
  *
- * The profile page's own JSON gives the account id and the first twelve, but
- * its posts carry no carousel children — a twelve-picture post arrives as one
- * cover image. The private-looking `/api/v1/feed/user/` endpoint the app calls
- * gives both the children and the cursor, so that is the one used throughout
- * and the profile call is only for the id.
+ * The profile page's own JSON gives the first twelve, but its posts carry no
+ * carousel children — a twelve-picture post arrives as one cover image. The
+ * `/api/v1/feed/user/` endpoint the app calls gives both the children and the
+ * cursor, so that is the one used throughout and the profile call is only for
+ * the post count the progress line counts towards.
+ *
+ * Addressed by handle rather than by account id: the id route answers 401
+ * "Please wait a few minutes" to anyone not logged in, and the handle route,
+ * which is what the profile grid itself calls, does not.
  */
 async function instagramPosts() {
   const profile = await json('profile.json', async () => {
@@ -107,28 +111,34 @@ async function instagramPosts() {
     return res.text();
   });
 
-  const user = profile.data.user;
-  const total = user.edge_owner_to_timeline_media.count;
+  const total = profile.data.user.edge_owner_to_timeline_media.count;
   const items = [];
   let cursor = '';
 
   for (let page = 0; ; page++) {
     const body = await json(`feed/${page}.json`, async () => {
-      /* Politeness, and the only thing standing between this and a rate limit.
-         It runs 34 times, once, so a second a page costs nothing. */
-      await sleep(1000);
       const url = new URL(
-        `https://www.instagram.com/api/v1/feed/user/${user.id}/`,
+        `https://www.instagram.com/api/v1/feed/user/${HANDLE}/username/`,
       );
       url.searchParams.set('count', '12');
       if (cursor) {
         url.searchParams.set('max_id', cursor);
       }
-      const res = await fetch(url, { headers: IG_HEADERS });
-      if (!res.ok) {
-        throw new Error(`feed page ${page}: ${res.status}`);
+
+      /* Thirty-four pages is enough to trip a rate limit, and the answer when
+         it trips is "please wait a few minutes" — so wait, doubling, rather
+         than give up thirty pages in and start again from nothing. */
+      for (let attempt = 0; ; attempt++) {
+        await sleep(1000 * 2 ** attempt);
+        const res = await fetch(url, { headers: IG_HEADERS });
+        if (res.ok) {
+          return res.text();
+        }
+        if (attempt === 6) {
+          throw new Error(`feed page ${page}: ${res.status}`);
+        }
+        process.stdout.write(`\n  instagram: ${res.status}, waiting\n`);
       }
-      return res.text();
     });
 
     items.push(...(body.items ?? []));

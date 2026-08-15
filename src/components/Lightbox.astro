@@ -1,8 +1,14 @@
 ---
 /**
- * Opens an archive image at its own size. 422 of the 1,184 images are wider than
- * the reading measure and arrive downscaled — production photographs, cast
+ * Opens an image at its own size. 422 of the archive's 1,184 images are wider
+ * than the reading measure and arrive downscaled — production photographs, cast
  * lists, programme pages — and those are exactly the ones worth a closer look.
+ * So are the Instagram plates, which are 1400px shown at four hundred.
+ *
+ * Takes any image inside `.prose-archive`, and any image marked `data-zoomable`
+ * elsewhere. Wrapping a set of them in `data-zoom-group` puts the arrow keys
+ * between them, so a nine-picture carousel is read without closing the dialog
+ * nine times.
  *
  * ponytail: <dialog> is the whole thing. Escape to close, focus trapped, the
  * backdrop and the return of focus all native. No library, no focus manager.
@@ -79,29 +85,58 @@
     };
 
     const candidates = document.querySelectorAll<HTMLImageElement>(
-      '.prose-archive img',
+      '.prose-archive img, img[data-zoomable]',
     );
     for (const img of candidates) {
       if (img.complete) offer(img);
       else img.addEventListener('load', () => offer(img), { once: true });
     }
 
-    document.addEventListener('click', (event) => {
-      const img = (event.target as HTMLElement).closest<HTMLImageElement>(
-        '.prose-archive img[data-zoom]',
-      );
-      if (!img) return;
+    /** The pictures the arrow keys move between, and where in them we are. */
+    let group: HTMLImageElement[] = [];
+    let at = 0;
 
+    const show = (index: number) => {
+      const img = group[index];
+      if (!img) return;
+      at = index;
       image.src = img.currentSrc || img.src;
       image.alt = img.alt;
       /* The archive writes its credits as an italic paragraph under the image
-         ("© Tony Bartholomew"), which is the caption it never marked up. */
+         ("© Tony Bartholomew"), which is the caption it never marked up. A
+         grouped picture has its caption on the page behind the dialog, so all
+         it needs saying is which of them this is. */
       const next = img.closest('p')?.nextElementSibling;
-      caption.textContent =
+      const credit =
         next?.matches('p:has(em)') && !next.querySelector('img')
           ? (next.textContent?.trim() ?? '')
           : '';
+      caption.textContent =
+        group.length > 1 ? `${index + 1} / ${group.length}` : credit;
+    };
+
+    document.addEventListener('click', (event) => {
+      const img = (event.target as HTMLElement).closest<HTMLImageElement>(
+        'img[data-zoom]',
+      );
+      if (!img) return;
+
+      const owner = img.closest('[data-zoom-group]');
+      group = owner
+        ? [...owner.querySelectorAll<HTMLImageElement>('img[data-zoom]')]
+        : [img];
+      show(group.indexOf(img));
       dialog.showModal();
+    });
+
+    /* Wraps, so the last picture's right arrow returns to the first rather
+       than doing nothing. The dialog has focus, so this only ever fires while
+       it is open. */
+    dialog.addEventListener('keydown', (event) => {
+      const step = { ArrowLeft: -1, ArrowRight: 1 }[event.key];
+      if (!step || group.length < 2) return;
+      event.preventDefault();
+      show((at + step + group.length) % group.length);
     });
   }
 </script>
