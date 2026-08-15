@@ -141,5 +141,54 @@ const fullTitle =
         for (const el of revealed) io.observe(el);
       }
     </script>
+
+    <!--
+      The poster morph. A play's artwork is linked from four places — the plays
+      grid, the front page, the call board and the noticeboard — and in each of
+      them the play page it opens shows the same picture. Naming it on the way
+      out lets the browser carry that one image across instead of fading one out
+      while an identical one fades in.
+
+      Here rather than in PlayCard, where it started: three of the four call
+      sites are not cards, and a listener copied into each of them is three
+      places to forget. ponytail: one delegated listener for the whole site.
+    -->
+    <script>
+      document.addEventListener('click', (event) => {
+        const link = (event.target as HTMLElement).closest('a');
+        if (!link) return;
+
+        /*
+         * The poster this link is on its way to: the one inside the link, or —
+         * where the call board gives a listing a picture and a title as two
+         * separate links — the one beside it in the same row pointing at the
+         * same play.
+         */
+        const beside = [
+          ...(link
+            .closest('li')
+            ?.querySelectorAll<HTMLAnchorElement>('a:has([data-poster])') ?? []),
+        ].find((sibling) => sibling.href === link.href);
+
+        const poster =
+          link.querySelector<HTMLElement>('[data-poster]') ??
+          beside?.querySelector<HTMLElement>('[data-poster]');
+
+        /* A view-transition-name must be unique in its document, so only the
+           clicked one is named — 150 named posters would each become a
+           transition group and the browser would animate 149 nobody clicked. */
+        if (poster) poster.style.viewTransitionName = 'play-poster';
+      });
+
+      /* Coming back restores the page from the bfcache with the name still set,
+         which would strand the next transition. */
+      addEventListener('pageshow', () => {
+        for (const el of document.querySelectorAll<HTMLElement>(
+          '[data-poster]',
+        )) {
+          el.style.viewTransitionName = '';
+        }
+      });
+    </script>
   </body>
 </html>

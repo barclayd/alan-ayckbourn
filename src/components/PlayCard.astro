@@ -66,31 +66,3 @@ const venue = facts?.['World Premiere Venue'] ?? facts?.Venue;
     {year}{venue && <> &middot; {venue.split(',')[0]}</>}
   </p>
 </a>
-
-<script>
-  /*
-   * The clicked poster carries the transition name into the play page, where the
-   * hero poster answers to it — so the artwork travels and grows instead of one
-   * fading out while another fades in.
-   *
-   * Only the clicked one. A view-transition-name must be unique in its document
-   * and 150 named posters would each become a transition group of its own, so
-   * the browser would animate 149 elements nobody is looking at.
-   * ponytail: one delegated listener for the whole grid — Astro bundles a
-   * component's script once per page however many times the card is rendered.
-   */
-  document.addEventListener('click', (event) => {
-    const poster = (event.target as HTMLElement)
-      .closest('a')
-      ?.querySelector<HTMLElement>('[data-poster]');
-    if (poster) poster.style.viewTransitionName = 'play-poster';
-  });
-
-  /* Coming back from the play page restores this document from the bfcache with
-     the name still set, which would strand the next transition. */
-  addEventListener('pageshow', () => {
-    for (const el of document.querySelectorAll<HTMLElement>('[data-poster]')) {
-      el.style.viewTransitionName = '';
-    }
-  });
-</script>
