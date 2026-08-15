@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***The Revengers' Comedies* quote**  
-"The greatest feeling in the world, Henrybell. Revenge. Pure, unadulterated revenge. Not weedy little jealousy. Not some piddling little envy. But good, old fashioned, bloodcurdling revenge."  
-**The Revengers' Comedies**
+"The greatest feeling in the world, Henrybell. Revenge. Pure, unadulterated revenge. Not weedy little jealousy. Not some piddling little envy. But good, old fashioned, bloodcurdling revenge."

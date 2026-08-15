@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Neighbourhood Watch* quote**  
-"There is someone here for you! Speaking out for you! Fighting your corner. And that man is here, standing in front of you today! Thank you and bless you all!"  
-**Neighbourhood Watch**
+"There is someone here for you! Speaking out for you! Fighting your corner. And that man is here, standing in front of you today! Thank you and bless you all!"

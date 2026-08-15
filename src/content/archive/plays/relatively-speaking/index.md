@@ -21,8 +21,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Relatively Speaking* quote**  
-"I can't say I'm very taken with this marmalade."  
-**Relatively Speaking**
+"I can't say I'm very taken with this marmalade."

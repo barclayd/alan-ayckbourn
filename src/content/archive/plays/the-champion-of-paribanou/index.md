@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***The Champion of Paribanou* quote**  
-"Ahmed, I'll tell you one thing. If another tries to take you from me, I will kill her, I swear it. You are my blood twin and no-one will ever part us. Ever. I'll die first."  
-**The Champion of Paribanou**
+"Ahmed, I'll tell you one thing. If another tries to take you from me, I will kill her, I swear it. You are my blood twin and no-one will ever part us. Ever. I'll die first."

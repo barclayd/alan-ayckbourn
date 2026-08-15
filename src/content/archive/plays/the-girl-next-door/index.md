@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***The Girl Next Door* quote**  
-"The one consolation I had amidst all this miserable current crisis with this wretched virus... The one thing I kept telling myself was, well, at least it’ll keep my wretched brother at a safe social distance from female temptation... Only for you to end up falling in love with someone seventy-eight years away…"  
-**The Girl Next Door**
+"The one consolation I had amidst all this miserable current crisis with this wretched virus... The one thing I kept telling myself was, well, at least it’ll keep my wretched brother at a safe social distance from female temptation... Only for you to end up falling in love with someone seventy-eight years away…"

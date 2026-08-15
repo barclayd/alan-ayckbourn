@@ -17,8 +17,4 @@ facts:
   Professional: "Not available for production"
 ---
 
-**Availability**
-
-**Dad's Tale Quote**  
-*"It’s so easy for you, isn’t it? Just a few pounds here and a few pounds there and everyone’s happy. You think this is just one big joke, having no money? Just another Christmas game - like Postman’s Knock. If you knew what it was like, you’d think again."*  
-**The Square Cat**
+*"It’s so easy for you, isn’t it? Just a few pounds here and a few pounds there and everyone’s happy. You think this is just one big joke, having no money? Just another Christmas game - like Postman’s Knock. If you knew what it was like, you’d think again."*

@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***GamePlan* quote**  
-*"Do you honestly think I've had any sleep? With a dead body in my room? I had to undress him, that was bad enough."*  
-**GamePlan**
+*"Do you honestly think I've had any sleep? With a dead body in my room? I had to undress him, that was bad enough."*

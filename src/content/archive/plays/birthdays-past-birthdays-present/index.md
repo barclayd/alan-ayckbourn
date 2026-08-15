@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/clients/sir-alan-ayckbourn/)."
 ---
 
-**Availability**
-
-***Birthdays Past, Birthdays Present* Quote**  
-"What the fuck’s theoretical sex? There’s no such thing. You’re either doing it or you’re not."  
-**The Girl Next Door**
+"What the fuck’s theoretical sex? There’s no such thing. You’re either doing it or you’re not."

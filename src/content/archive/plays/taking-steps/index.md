@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Taking Steps* quote**  
-"And make no mistake, I have influence. Not in all quarters maybe, but many. Let's just say, I could make life very difficult for you if you ever wanted to get into hardware."  
-**Taking Steps**
+"And make no mistake, I have influence. Not in all quarters maybe, but many. Let's just say, I could make life very difficult for you if you ever wanted to get into hardware."

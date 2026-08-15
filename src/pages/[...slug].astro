@@ -319,7 +319,10 @@ const showContents = printsOwnIndex([...labels.values()]);
 
       {
         hasBody && (
-          <div class="prose-archive" data-reveal>
+          <div
+            class:list={['prose-archive', isPlay && 'prose-epigraph']}
+            data-reveal
+          >
             <Content />
           </div>
         )

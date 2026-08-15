@@ -16,5 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-***Miss Yesterday* quote**  
 *"You've got to be what you are, Tammy. And that's hard because people don't often see you for what you are. They see you as someone they'd like you to be. Want you to be."*

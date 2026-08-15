@@ -15,8 +15,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Life of Riley* quote**  
-"Why George? Why the hell did it have to be George? It's always the people who are full of life that go first, have you noticed? The miserable bastards live for ever, don't they?"  
-**Life of Riley**
+"Why George? Why the hell did it have to be George? It's always the people who are full of life that go first, have you noticed? The miserable bastards live for ever, don't they?"

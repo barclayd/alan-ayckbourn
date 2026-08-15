@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Whenever* quote**  
-"Emily, you are just in time to see Bob off on another remarkable journey. What we have here is the prototype Temporal Displacement Vehicle. Or to put it in common parlance, a Time Machine."  
-**Whenever**
+"Emily, you are just in time to see Bob off on another remarkable journey. What we have here is the prototype Temporal Displacement Vehicle. Or to put it in common parlance, a Time Machine."

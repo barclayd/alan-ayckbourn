@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Life & Beth* quote**  
-"I'm trying to tell you, Gordon. I'm all right. I had the dreadful shock of losing you and for a week or two - I was beside myself with grief, I admit it… But I'm gradually getting over it, love… I'm coming to terms with it, you see. With being alone. Listen I hate to say this to your face, it sounds so terrible, but I really don't need you, Gordon, not any more…."  
-**Life & Beth**
+"I'm trying to tell you, Gordon. I'm all right. I had the dreadful shock of losing you and for a week or two - I was beside myself with grief, I admit it… But I'm gradually getting over it, love… I'm coming to terms with it, you see. With being alone. Listen I hate to say this to your face, it sounds so terrible, but I really don't need you, Gordon, not any more…."

@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Better Off Dead* quote**  
-"Because people in real life are generally irritating and unpredictable and ultimately disappointing. Unlike my characters who bloody well behave themselves and do as they're told. Most of them. Most of the time."  
-**Better Off Dead**
+"Because people in real life are generally irritating and unpredictable and ultimately disappointing. Unlike my characters who bloody well behave themselves and do as they're told. Most of them. Most of the time."

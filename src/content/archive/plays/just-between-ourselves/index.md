@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Just Between Ourselves* quote**  
-"It's just, I think I need help, Dennis."  
-**Just Between Ourselves**
+"It's just, I think I need help, Dennis."

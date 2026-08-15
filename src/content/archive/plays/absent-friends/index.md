@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Absent Friends* quote**  
-"I said thank you very much. That was as exciting as being made love to by a sack of clammy cement and would he kindly drive me home."  
-**Absent Friends**
+"I said thank you very much. That was as exciting as being made love to by a sack of clammy cement and would he kindly drive me home."

@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Woman in Mind* quote**  
-"December bee? Choose 'un. December choosey. December bee?"  
-**Woman in Mind**
+"December bee? Choose 'un. December choosey. December bee?"

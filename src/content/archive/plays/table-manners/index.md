@@ -26,10 +26,6 @@ facts:
 **London Premiere (*Round And Round The Garden*):** 6 June 1974  
 **Venue:** Greenwich Theatre
 
-**Availability**
-
-***The Norman Conquests* quote**  
-"Is that wrong of me? To want to see you happy?"  
-**The Norman Conquests**
+"Is that wrong of me? To want to see you happy?"
 
 *The Norman Conquests section of the website is supported by Geofferson with the Table Manners pages supported by Valerie Stack Dodge.*

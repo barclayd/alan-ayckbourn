@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Family Album* quote**  
-"Because at the end of it, let’s face it, she’ll leave university, having cost us a small fortune, she’ll promptly get a job in Woolworths and marry the first good-looking chap to walk in and buy a Mars bar. Complete waste of time and money."  
-**Family Album**
+"Because at the end of it, let’s face it, she’ll leave university, having cost us a small fortune, she’ll promptly get a job in Woolworths and marry the first good-looking chap to walk in and buy a Mars bar. Complete waste of time and money."

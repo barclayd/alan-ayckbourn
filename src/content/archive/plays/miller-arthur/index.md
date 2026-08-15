@@ -14,5 +14,4 @@ facts:
 
 *A View From The Bridge* is one of Arthur Miller's most famous plays, first presented in 1955 as a one-act verse drama before being revised in 1956 to a more traditional two-act prose play.
 
-In 1987, Alan Ayckbourn directed the play at the National Theatre, London, with a cast led by Michael Gambon. The award-winning and highly acclaimed production cemented Alan's reputation as a director and also drew praise from the author himself.  
-**A View From The Bridge**
+In 1987, Alan Ayckbourn directed the play at the National Theatre, London, with a cast led by Michael Gambon. The award-winning and highly acclaimed production cemented Alan's reputation as a director and also drew praise from the author himself.

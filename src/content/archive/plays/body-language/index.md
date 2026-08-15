@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Body Language* quote**  
-"We'd better agree on a few things. The first is that we don't fight each other. Because if you try and hit me, you're only hitting you. And vice versa. You see? We're going to have to be friends. Or at the very least, not enemies. We're literally part of each other now."  
-**Body Language**
+"We'd better agree on a few things. The first is that we don't fight each other. Because if you try and hit me, you're only hitting you. And vice versa. You see? We're going to have to be friends. Or at the very least, not enemies. We're literally part of each other now."

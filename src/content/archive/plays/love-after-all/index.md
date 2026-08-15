@@ -17,8 +17,4 @@ facts:
   Professional: "Not available for production"
 ---
 
-**Availability**
-
-***Love After All* Quote**  
-"Minta - what shall I wear? I haven't got any abduction clothes."  
-**Love After All**
+"Minta - what shall I wear? I haven't got any abduction clothes."

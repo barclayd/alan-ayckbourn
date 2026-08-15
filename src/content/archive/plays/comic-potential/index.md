@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Comic Potential* quote**  
-"You think these things can produce comedy? You're joking. Oh, they can do funny things - if you tell them. But that's not comedy. That's just being funny. But comedy - you want to know about comedy?"  
-**Comic Potential**
+"You think these things can produce comedy? You're joking. Oh, they can do funny things - if you tell them. But that's not comedy. That's just being funny. But comedy - you want to know about comedy?"

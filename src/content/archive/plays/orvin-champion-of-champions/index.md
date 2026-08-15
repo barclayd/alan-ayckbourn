@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Orvin - Champion of Champion* Quotes**  
-"I'm an ordinary bloke. I'm a squire. I'm not a hero. My name isn't Ulmar. It's Orvin. I'm scared. I can't fight. I don't like him at all. I'm not too keen on her, and I'm in love with this one."  
-**Orvin - Champion of Champions**
+"I'm an ordinary bloke. I'm a squire. I'm not a hero. My name isn't Ulmar. It's Orvin. I'm scared. I can't fight. I don't like him at all. I'm not too keen on her, and I'm in love with this one."
