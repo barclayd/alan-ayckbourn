@@ -178,9 +178,13 @@ const beacon = '2c00b113806842f59760032deb9adb21';
     {/* `data-pagefind-body` scopes the index to the page's own content. Without
         it every page matched "Ayckbourn", "Murgatroyd" and every nav label,
         because the header and footer are on all 2,459 of them. */}
+    {/* `tabindex="-1"` is what makes the skip link skip: without it the browser
+        scrolls to <main> but leaves focus in the header, so the next Tab walks
+        back through the nav the reader has just asked to be let past. */}
     <main
       id="main"
-      class="flex-1"
+      tabindex="-1"
+      class="flex-1 focus:outline-none"
       data-pagefind-body={indexed ? true : undefined}
       data-pagefind-filter={section && `Section:${section}`}
       data-pagefind-meta={where && `trail:${where}`}

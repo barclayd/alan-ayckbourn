@@ -126,6 +126,10 @@ const decades = [
   </div>
 
   <section class="px-4 py-14">
+    {/* Between the h1 and 137 play titles at h3 there was nothing, so a reader
+        moving by heading fell straight from the page's name into the list with
+        no line to say what the list is. */}
+    <h2 class="sr-only">All plays</h2>
     <ul
       id="play-grid"
       class="shell grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-5"
@@ -162,7 +166,6 @@ const decades = [
     color: var(--color-muted);
     padding: 0.4rem 0.7rem;
     border-radius: 100px;
-    cursor: pointer;
     transition:
       color 0.2s var(--ease-stage),
       background-color 0.2s var(--ease-stage);
