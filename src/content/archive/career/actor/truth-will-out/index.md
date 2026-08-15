@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Truth Will Out (2023)"
 source: "http://careers.alanayckbourn.net/styled-3/page-114/"
 order: 598
 ---
-
-## Truth Will Out (2023)
 
 ### Production Details - Rehearsed Reading (2023)
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Life of Riley"
 source: "http://recordings.alanayckbourn.net/page0/page42/Media_Life_Of_Riley.html"
 order: 829
 ---
-
-### Life of Riley
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Life of Riley* in media other than the stage (such as TV, film and radio). To find out more about the play *Life of Riley*, visit the Plays section **[here](/plays/life-of-riley)**.
 

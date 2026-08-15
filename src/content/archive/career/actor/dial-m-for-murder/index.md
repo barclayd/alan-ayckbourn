@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Dial M For Murder (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page134/"
 order: 541
 ---
-
-## Dial M For Murder (1958)
 
 ### Production Details
 

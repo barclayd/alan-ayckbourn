@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Joking Apart"
 source: "http://recordings.alanayckbourn.net/page0/page35/Media_Joking_Apart.html"
 order: 827
 ---
-
-### Joking Apart
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Joking Apart* in media other than the stage (such as TV, film and radio). To find out more about the play *Joking Apart*, visit the Plays section **[here](/plays/joking-apart)**.
 

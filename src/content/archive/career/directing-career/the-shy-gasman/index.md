@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Shy Gasman (1970)"
 source: "http://careers.alanayckbourn.net/page4/page86/"
 order: 489
 ---
-
-## The Shy Gasman (1970)
 
 ### Production Details
 

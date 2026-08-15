@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Intimate Exchanges"
 source: "http://recordings.alanayckbourn.net/page0/page34/Media_Intimate_Exchanges.html"
 order: 825
 ---
-
-### Intimate Exchanges
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Intimate Exchanges* in media other than the stage (such as TV, film and radio). To find out more about the play *Intimate Exchanges*, visit the Plays section **[here](/plays/intimate-exchanges)**.
 

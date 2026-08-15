@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Corn Is Green (1956)"
 source: "http://careers.alanayckbourn.net/styled-3/page118/"
 order: 374
 ---
-
-## The Corn Is Green (1956)
 
 ### Production Details
 

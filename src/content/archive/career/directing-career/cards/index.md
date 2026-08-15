@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Cards (1976)"
 source: "http://careers.alanayckbourn.net/page4/page35/"
 order: 445
 ---
-
-## Cards (1976)
 
 ### Production Details
 

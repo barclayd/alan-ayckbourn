@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Eden End (1988)"
 source: "http://careers.alanayckbourn.net/page4/page42/"
 order: 456
 ---
-
-## Eden End (1988)
 
 ### Production Details
 

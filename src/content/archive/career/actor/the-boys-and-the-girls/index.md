@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Boys And The Girls (1961)"
 source: "http://careers.alanayckbourn.net/styled-3/page159/"
 order: 565
 ---
-
-## The Boys And The Girls (1961)
 
 ### Production Details
 

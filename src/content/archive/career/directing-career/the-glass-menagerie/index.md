@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Glass Menagerie (1963)"
 source: "http://careers.alanayckbourn.net/page4/page209/"
 order: 459
 ---
-
-## The Glass Menagerie (1963)
 
 ### Production Details
 

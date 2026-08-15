@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Dining Room (1984)"
 source: "http://careers.alanayckbourn.net/page4/page76/"
 order: 454
 ---
-
-## The Dining Room (1984)
 
 ### Production Details
 

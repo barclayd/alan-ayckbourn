@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Whenever"
 source: "http://recordings.alanayckbourn.net/page0/page40/Media_Whenever.html"
 order: 844
 ---
-
-### Whenever
 
 This page contains details of recordings and adaptations of Alan Ayckbourn and Denis King's musical *Whenever* in media other than the stage (such as TV, film and radio). To find out more about the play *Whenever*, visit the Plays section **[here](/plays/whenever)**.
 

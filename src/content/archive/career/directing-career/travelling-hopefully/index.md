@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Travelling Hopefully (1978)"
 source: "http://careers.alanayckbourn.net/page4/page97/"
 order: 499
 ---
-
-## Travelling Hopefully (1978)
 
 ### Production Details
 

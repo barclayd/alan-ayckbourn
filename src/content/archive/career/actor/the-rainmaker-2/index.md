@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Rainmaker (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page211/"
 order: 578
 ---
-
-## The Rainmaker (1962)
 
 ### Production Details
 

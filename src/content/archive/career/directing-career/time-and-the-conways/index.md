@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Time And The Conways (1980)"
 source: "http://careers.alanayckbourn.net/page4/page91/"
 order: 495
 ---
-
-## Time And The Conways (1980)
 
 ### Production Details
 

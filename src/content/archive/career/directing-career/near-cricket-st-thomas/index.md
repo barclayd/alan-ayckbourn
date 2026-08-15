@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Near Cricket St Thomas, 1919 (1997)"
 source: "http://careers.alanayckbourn.net/page4/page57/"
 order: 474
 ---
-
-## Near Cricket St Thomas, 1919 (1997)
 
 ### Production Details
 

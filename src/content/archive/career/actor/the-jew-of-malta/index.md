@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Jew Of Malta (1964)"
 source: "http://careers.alanayckbourn.net/styled-3/page185/"
 order: 593
 ---
-
-## The Jew Of Malta (1964)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "A Doll's House (1998)"
 source: "http://careers.alanayckbourn.net/page4/page16/"
 order: 455
 ---
-
-## A Doll's House (1998)
 
 ### Production Details
 

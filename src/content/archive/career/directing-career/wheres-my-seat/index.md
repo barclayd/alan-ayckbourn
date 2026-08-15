@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Angels In Love (1975)"
 source: "http://careers.alanayckbourn.net/page4/page23/"
 order: 425
 ---
-
-## Angels In Love (1975)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Time & Time Again"
 source: "http://recordings.alanayckbourn.net/page0/page30/Media_Time_And.html"
 order: 842
 ---
-
-### Time & Time Again
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *Time & Time Again* in media other than the stage (such as TV, film and radio). To find out more about the play *Time & Time Again*, visit the Plays section **[here](/plays/time-and-time-again)**.
 

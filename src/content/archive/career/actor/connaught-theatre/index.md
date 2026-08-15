@@ -1,5 +1,5 @@
 ---
-title: "Acting at Worthing, Leatherhead and Oxford"
+title: "Connaught Theatre, Worthing"
 source: "http://careers.alanayckbourn.net/styled-3/page-7/"
 order: 322
 ---

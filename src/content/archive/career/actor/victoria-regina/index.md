@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Victoria Regina (1961)"
 source: "http://careers.alanayckbourn.net/styled-3/page154/"
 order: 560
 ---
-
-## Victoria Regina (1961)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "They're Playing Our Song (1997)"
 source: "http://careers.alanayckbourn.net/page4/page89/"
 order: 492
 ---
-
-## They're Playing Our Song (1997)
 
 ### Production Details
 

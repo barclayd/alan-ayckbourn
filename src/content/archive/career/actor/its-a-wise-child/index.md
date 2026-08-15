@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "It's A Wise Child (1956)"
 source: "http://careers.alanayckbourn.net/styled-3/page119/"
 order: 527
 ---
-
-## It's A Wise Child (1956)
 
 ### Production Details
 

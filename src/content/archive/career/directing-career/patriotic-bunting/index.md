@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Patriotic Bunting (1978)"
 source: "http://careers.alanayckbourn.net/page4/page60/"
 order: 479
 ---
-
-## Patriotic Bunting (1978)
 
 ### Production Details
 

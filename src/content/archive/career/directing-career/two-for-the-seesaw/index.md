@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Two For The Seesaw (1961)"
 source: "http://careers.alanayckbourn.net/page4/page98/"
 order: 500
 ---
-
-## Two For The Seesaw (1961)
 
 ### Production Details
 

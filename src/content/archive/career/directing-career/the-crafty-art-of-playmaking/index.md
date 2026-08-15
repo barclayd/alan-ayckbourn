@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Conversations With My Father (1995)"
 source: "http://careers.alanayckbourn.net/page4/page37/"
 order: 416
 ---
-
-## Conversations With My Father (1995)
 
 ### Production Details
 

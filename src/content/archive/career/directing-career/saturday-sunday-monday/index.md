@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Saturday, Sunday, Monday (1982)"
 source: "http://careers.alanayckbourn.net/page4/page64/"
 order: 487
 ---
-
-## Saturday, Sunday, Monday (1982)
 
 ### Production Details
 

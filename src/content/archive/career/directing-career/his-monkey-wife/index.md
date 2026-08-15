@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "His Monkey Wife (1984)"
 source: "http://careers.alanayckbourn.net/page4/page48/"
 order: 461
 ---
-
-## His Monkey Wife (1984)
 
 ### Production Details
 

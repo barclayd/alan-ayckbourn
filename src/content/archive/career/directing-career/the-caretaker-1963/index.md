@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Caretaker (1962)"
 source: "http://careers.alanayckbourn.net/page4/page210/"
 order: 447
 ---
-
-## The Caretaker (1962)
 
 ### Production Details
 

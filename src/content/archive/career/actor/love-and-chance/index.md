@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Love & Chance (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page135/"
 order: 542
 ---
-
-## Love & Chance (1958)
 
 ### Production Details
 

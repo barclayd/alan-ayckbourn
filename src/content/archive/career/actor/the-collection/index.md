@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Collection (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page181/"
 order: 589
 ---
-
-## The Collection (1963)
 
 ### Production Details
 

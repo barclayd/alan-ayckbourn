@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Out Of The Flying Pan (1961)"
 source: "http://careers.alanayckbourn.net/page4/page108/"
 order: 510
 ---
-
-## Out Of The Flying Pan (1961)
 
 ### Production Details
 

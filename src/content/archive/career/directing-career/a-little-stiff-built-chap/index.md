@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "A Little Stiff Built Chap (1969)"
 source: "http://careers.alanayckbourn.net/page4/page17/"
 order: 467
 ---
-
-## A Little Stiff Built Chap (1969)
 
 ### Production Details
 

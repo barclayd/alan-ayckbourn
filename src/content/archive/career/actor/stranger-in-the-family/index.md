@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Stranger In The Family (1961)"
 source: "http://careers.alanayckbourn.net/styled-3/page157/"
 order: 563
 ---
-
-## Stranger In The Family (1961)
 
 ### Production Details
 

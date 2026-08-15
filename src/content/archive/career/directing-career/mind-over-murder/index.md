@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Fool To Yourself (1997)"
 source: "http://careers.alanayckbourn.net/page4/page45/"
 order: 420
 ---
-
-## Fool To Yourself (1997)
 
 ### Production Details
 

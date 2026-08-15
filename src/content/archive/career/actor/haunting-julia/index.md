@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Haunting Julia (2020)"
 source: "http://careers.alanayckbourn.net/styled-3/page-91/"
 order: 597
 ---
-
-## Haunting Julia (2020)
 
 ### Production Details
 

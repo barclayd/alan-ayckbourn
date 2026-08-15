@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Rainbow Machine (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page176/"
 order: 584
 ---
-
-## The Rainbow Machine (1963)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "O'Flaherty V.C. (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page208/"
 order: 575
 ---
-
-## O'Flaherty V.C. (1962)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Caretaker (1976)"
 source: "http://careers.alanayckbourn.net/page4/page72/"
 order: 448
 ---
-
-## The Caretaker (1976)
 
 ### Production Details
 

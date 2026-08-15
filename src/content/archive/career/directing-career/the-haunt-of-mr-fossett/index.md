@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Haunt Of Mr Fossett (1988)"
 source: "http://careers.alanayckbourn.net/page4/page77/"
 order: 460
 ---
-
-## The Haunt Of Mr Fossett (1988)
 
 ### Production Details
 

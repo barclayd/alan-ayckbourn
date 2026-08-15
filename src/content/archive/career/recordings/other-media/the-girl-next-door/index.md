@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "The Girl Next Door"
 source: "http://recordings.alanayckbourn.net/page0/page-5/"
 order: 822
 ---
-
-### The Girl Next Door
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *The Girl Next Door* in media other than the stage (such as TV, film and radio). To find out more about the play *The Girl Next Door*, visit the Plays section **[here](/plays/the-girl-next-door)**.
 

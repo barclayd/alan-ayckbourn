@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Service Not Included"
 source: "http://recordings.alanayckbourn.net/page0/page29/Media_Service_Not.html"
 order: 839
 ---
-
-### Service Not Included
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's screenplay *Service Not Included* in media other than the stage (such as TV, film and radio). To find out more about *Service Not Included*, visit the Plays section **[here](/plays/service-not-included)**.
 

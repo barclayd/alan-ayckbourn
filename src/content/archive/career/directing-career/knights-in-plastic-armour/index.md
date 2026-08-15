@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Knights In Plastic Armour (1999)"
 source: "http://careers.alanayckbourn.net/page4/page50/"
 order: 463
 ---
-
-## Knights In Plastic Armour (1999)
 
 ### Production Details
 

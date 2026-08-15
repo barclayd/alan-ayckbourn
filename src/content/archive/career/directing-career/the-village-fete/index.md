@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Village Fête (1991)"
 source: "http://careers.alanayckbourn.net/page4/page87/"
 order: 503
 ---
-
-## The Village Fête (1991)
 
 ### Production Details
 

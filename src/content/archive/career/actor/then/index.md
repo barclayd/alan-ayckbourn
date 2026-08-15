@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Then… (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page145/"
 order: 549
 ---
-
-## Then… (1960)
 
 ### Production Details
 

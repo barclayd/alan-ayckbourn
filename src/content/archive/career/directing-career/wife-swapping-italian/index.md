@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Wife Swapping - Italian Style (1970)"
 source: "http://careers.alanayckbourn.net/page4/page101/"
 order: 504
 ---
-
-## Wife Swapping - Italian Style (1970)
 
 ### Production Details
 

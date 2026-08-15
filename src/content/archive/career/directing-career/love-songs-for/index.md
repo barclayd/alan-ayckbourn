@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Love Songs For Shopkeepers (1998)"
 source: "http://careers.alanayckbourn.net/page4/page105/"
 order: 469
 ---
-
-## Love Songs For Shopkeepers (1998)
 
 ### Production Details
 

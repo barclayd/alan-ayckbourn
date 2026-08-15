@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Carmilla (1972)"
 source: "http://careers.alanayckbourn.net/page4/page33/"
 order: 449
 ---
-
-## Carmilla (1972)
 
 ### Production Details
 

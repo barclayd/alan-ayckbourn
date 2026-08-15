@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Romeo & Juliet (1955)"
 source: "http://careers.alanayckbourn.net/styled-3/page115/"
 order: 326
 ---
-
-## Romeo & Juliet (1955)
 
 ### Production Details
 

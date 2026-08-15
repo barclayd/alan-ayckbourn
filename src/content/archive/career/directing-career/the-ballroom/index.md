@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Ballroom (1988)"
 source: "http://careers.alanayckbourn.net/page4/page67/"
 order: 436
 ---
-
-## The Ballroom (1988)
 
 ### Production Details
 

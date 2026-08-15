@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Mating Season (1963)"
 source: "http://careers.alanayckbourn.net/page4/page78/"
 order: 471
 ---
-
-## The Mating Season (1963)
 
 ### Production Details
 

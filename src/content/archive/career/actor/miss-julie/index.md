@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Miss Julie (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page177/"
 order: 585
 ---
-
-## Miss Julie (1963)
 
 ### Production Details
 

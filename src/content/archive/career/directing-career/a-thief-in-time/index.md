@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "A Thief In Time (1962)"
 source: "http://careers.alanayckbourn.net/page4/page19/"
 order: 493
 ---
-
-## A Thief In Time (1962)
 
 ### Production Details
 

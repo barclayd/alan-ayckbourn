@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Ark (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page150/"
 order: 556
 ---
-
-## The Ark (1960)
 
 ### Production Details
 

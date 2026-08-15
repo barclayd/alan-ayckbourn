@@ -1,5 +1,5 @@
 ---
-title: "Acting With Donald Wolfit"
+title: "Resources"
 source: "http://careers.alanayckbourn.net/styled-3/page-6/"
 order: 328
 ---

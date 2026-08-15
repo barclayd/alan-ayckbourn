@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "A Cut In The Rates"
 source: "http://recordings.alanayckbourn.net/page0/page21/Media_Cut_In.html"
 order: 818
 ---
-
-### A Cut In The Rates
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's one-act play *A Cut In The Rates* in media other than the stage (such as TV, film and radio). To find out more about the play *A Cut In The Rates*, visit the Plays section **[here](/plays/a-cut-in-the-rates)**.
 

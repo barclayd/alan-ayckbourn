@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "At The End Of The Day (1983)"
 source: "http://careers.alanayckbourn.net/page4/page24/"
 order: 434
 ---
-
-## At The End Of The Day (1983)
 
 ### Production Details
 

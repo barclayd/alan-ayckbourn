@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Augustus Carp Esq. (1991)"
 source: "http://careers.alanayckbourn.net/page4/page25/"
 order: 421
 ---
-
-## Augustus Carp Esq. (1991)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Doctor And The Devils (1964)"
 source: "http://careers.alanayckbourn.net/styled-3/page186/"
 order: 594
 ---
-
-## The Doctor And The Devils (1964)
 
 ### Production Details
 

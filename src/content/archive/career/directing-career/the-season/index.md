@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Stars (1976)"
 source: "http://careers.alanayckbourn.net/page4/page34/"
 order: 417
 ---
-
-## Stars (1976)
 
 ### Production Details
 

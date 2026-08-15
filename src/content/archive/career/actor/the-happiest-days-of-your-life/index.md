@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Happiest Days Of Your Life (1957)"
 source: "http://careers.alanayckbourn.net/styled-3/page121/"
 order: 531
 ---
-
-## The Happiest Days Of Your Life (1957)
 
 ### Production Details
 

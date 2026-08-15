@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Before Your Very Eyes (1983)"
 source: "http://careers.alanayckbourn.net/page4/page28/"
 order: 437
 ---
-
-## Before Your Very Eyes (1983)
 
 ### Production Details
 

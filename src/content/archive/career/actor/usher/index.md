@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Usher (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page166/"
 order: 571
 ---
-
-## Usher (1962)
 
 ### Production Details
 

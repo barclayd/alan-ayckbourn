@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Pygmalion (1977)"
 source: "http://careers.alanayckbourn.net/page4/page61/"
 order: 480
 ---
-
-## Pygmalion (1977)
 
 ### Production Details
 

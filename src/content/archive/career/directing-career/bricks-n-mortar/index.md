@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Bricks 'n' Mortar (1984)"
 source: "http://careers.alanayckbourn.net/page4/page31/"
 order: 442
 ---
-
-## Bricks 'n' Mortar (1984)
 
 ### Production Details
 

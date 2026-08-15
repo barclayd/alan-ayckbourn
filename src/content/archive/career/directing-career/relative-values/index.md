@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Dynamic Death-Defying Leap Of Timothy Satupon The Great (1969)"
 source: "http://careers.alanayckbourn.net/page4/page40/"
 order: 418
 ---
-
-## The Dynamic Death-Defying Leap Of Timothy Satupon The Great (1969)
 
 ### Production Details
 

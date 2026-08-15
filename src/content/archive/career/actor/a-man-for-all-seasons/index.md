@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "A Man For All Seasons (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page175/"
 order: 583
 ---
-
-## A Man For All Seasons (1963)
 
 ### Production Details
 

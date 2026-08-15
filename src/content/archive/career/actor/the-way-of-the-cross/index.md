@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Way of the Cross (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page-111/"
 order: 551
 ---
-
-## The Way of the Cross (1960)
 
 ### Production Details
 

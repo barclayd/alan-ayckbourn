@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "An Inspector Calls (1957)"
 source: "http://careers.alanayckbourn.net/styled-3/page125/"
 order: 375
 ---
-
-## An Inspector Calls (1957)
 
 ### Production Details
 

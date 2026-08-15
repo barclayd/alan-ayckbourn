@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "She Stoops To Conquer (1957)"
 source: "http://careers.alanayckbourn.net/styled-3/page124/"
 order: 529
 ---
-
-## She Stoops To Conquer (1957)
 
 ### Production Details
 

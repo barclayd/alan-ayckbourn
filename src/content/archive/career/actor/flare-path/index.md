@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Flare Path (1957)"
 source: "http://careers.alanayckbourn.net/styled-3/page120/"
 order: 530
 ---
-
-## Flare Path (1957)
 
 ### Production Details
 

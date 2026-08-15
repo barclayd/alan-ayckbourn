@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Miss Julie (1963)"
 source: "http://careers.alanayckbourn.net/page4/page55/"
 order: 472
 ---
-
-## Miss Julie (1963)
 
 ### Production Details
 

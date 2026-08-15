@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Two For The Seesaw (1963)"
 source: "http://careers.alanayckbourn.net/styled-3/page179/"
 order: 587
 ---
-
-## Two For The Seesaw (1963)
 
 ### Production Details
 

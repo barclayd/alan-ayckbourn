@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Sleuth (1977)"
 source: "http://careers.alanayckbourn.net/page4/page65/"
 order: 490
 ---
-
-## Sleuth (1977)
 
 ### Production Details
 

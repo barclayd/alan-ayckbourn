@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Love After All (1960)"
 source: "http://careers.alanayckbourn.net/styled-3/page149/"
 order: 555
 ---
-
-## Love After All (1960)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Squaring The Circle (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page139/"
 order: 545
 ---
-
-## Squaring The Circle (1958)
 
 ### Production Details
 

@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "A Small Family Business"
 source: "http://recordings.alanayckbourn.net/page0/page38/Media_Small_Family.html"
 order: 840
 ---
-
-### A Small Family Business
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *A Small Family Business* in media other than the stage (such as TV, film and radio). To find out more about the play *A Small Family Business*, visit the Plays section **[here](/plays/a-small-family-business)**.
 

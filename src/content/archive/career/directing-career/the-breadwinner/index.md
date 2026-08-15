@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Breadwinner (1974)"
 source: "http://careers.alanayckbourn.net/page4/page69/"
 order: 440
 ---
-
-## The Breadwinner (1974)
 
 ### Production Details
 

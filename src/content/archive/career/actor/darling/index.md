@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Darling (1958)"
 source: "http://careers.alanayckbourn.net/styled-3/page130/"
 order: 537
 ---
-
-## Darling (1958)
 
 ### Production Details
 

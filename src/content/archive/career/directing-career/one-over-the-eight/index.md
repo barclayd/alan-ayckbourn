@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "One Over The Eight (1992)"
 source: "http://careers.alanayckbourn.net/page4/page58/"
 order: 476
 ---
-
-## One Over The Eight (1992)
 
 ### Production Details
 

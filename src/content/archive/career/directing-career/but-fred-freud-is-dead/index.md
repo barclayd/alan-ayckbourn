@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "But Fred Freud Is Dead (1974)"
 source: "http://careers.alanayckbourn.net/page4/page32/"
 order: 444
 ---
-
-## But Fred Freud Is Dead (1974)
 
 ### Production Details
 

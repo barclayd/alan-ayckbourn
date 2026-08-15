@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Macbeth (1956)"
 source: "http://careers.alanayckbourn.net/styled-3/page116/"
 order: 327
 ---
-
-## Macbeth (1956)
 
 ### Production Details
 

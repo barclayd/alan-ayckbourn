@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Abiding Passions (1990)"
 source: "http://careers.alanayckbourn.net/page4/page21/"
 order: 424
 ---
-
-## Abiding Passions (1990)
 
 ### Production Details
 

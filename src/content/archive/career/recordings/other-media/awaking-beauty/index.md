@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "Awaking Beauty"
 source: "http://recordings.alanayckbourn.net/page0/page45/Media_Awaking_Beauty.html"
 order: 812
 ---
-
-### Awaking Beauty
 
 This page contains details of recordings and adaptations of Alan Ayckbourn & Denis King's musical *Awaking Beauty* in media other than the stage (such as TV, film and radio). To find out more about *Awaking Beauty*, visit the Plays section **[here](/plays/awaking-beauty)**.
 

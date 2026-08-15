@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Mutatis Mutandis (1961)"
 source: "http://careers.alanayckbourn.net/page4/page107/"
 order: 509
 ---
-
-## Mutatis Mutandis (1961)
 
 ### Production Details
 

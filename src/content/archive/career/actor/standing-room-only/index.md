@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "Standing Room Only (1961)"
 source: "http://careers.alanayckbourn.net/styled-3/page156/"
 order: 562
 ---
-
-## Standing Room Only (1961)
 
 ### Production Details
 

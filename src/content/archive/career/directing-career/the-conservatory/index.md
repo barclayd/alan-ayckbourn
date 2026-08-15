@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "The Conservatory (1981)"
 source: "http://careers.alanayckbourn.net/page4/page74/"
 order: 451
 ---
-
-## The Conservatory (1981)
 
 ### Production Details
 

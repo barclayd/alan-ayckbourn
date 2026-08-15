@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Uncle Vanya (1972)"
 source: "http://careers.alanayckbourn.net/page4/page100/"
 order: 502
 ---
-
-## Uncle Vanya (1972)
 
 ### Production Details
 

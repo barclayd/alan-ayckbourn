@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Away From It All (1974)"
 source: "http://careers.alanayckbourn.net/page4/page26/"
 order: 422
 ---
-
-## Away From It All (1974)
 
 ### Production Details
 

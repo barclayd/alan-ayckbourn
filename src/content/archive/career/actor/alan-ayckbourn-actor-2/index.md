@@ -1,10 +1,8 @@
 ---
-title: "Actor"
+title: "The Caretaker (1962)"
 source: "http://careers.alanayckbourn.net/styled-3/page-113/"
 order: 9999
 ---
-
-## The Caretaker (1962)
 
 ### Production Details
 

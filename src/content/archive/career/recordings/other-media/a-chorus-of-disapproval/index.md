@@ -1,10 +1,8 @@
 ---
-title: "Ayckbourn Play Recordings & Adaptations"
+title: "A Chorus of Disapproval"
 source: "http://recordings.alanayckbourn.net/page0/page43/Media_Chorus_Of.html"
 order: 815
 ---
-
-### A Chorus of Disapproval
 
 This page contains details of recordings and adaptations of Alan Ayckbourn's play *A Chorus of Disapproval* in media other than the stage (such as TV, film and radio). To find out more about the play *A Chorus of Disapproval*, visit the Plays section **[here](/plays/a-chorus-of-disapproval)**.
 

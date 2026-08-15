@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Tom, Dick & Harry (1972)"
 source: "http://careers.alanayckbourn.net/page4/page94/"
 order: 498
 ---
-
-## Tom, Dick & Harry (1972)
 
 ### Production Details
 

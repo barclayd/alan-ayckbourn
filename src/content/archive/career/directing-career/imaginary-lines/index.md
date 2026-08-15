@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Imaginary Lines (1985)"
 source: "http://careers.alanayckbourn.net/page4/page49/"
 order: 462
 ---
-
-## Imaginary Lines (1985)
 
 ### Production Details
 

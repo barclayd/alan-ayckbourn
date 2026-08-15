@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "Last Of The Red Hot Lovers (1984)"
 source: "http://careers.alanayckbourn.net/page4/page51/"
 order: 464
 ---
-
-## Last Of The Red Hot Lovers (1984)
 
 ### Production Details
 

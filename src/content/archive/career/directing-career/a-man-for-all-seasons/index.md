@@ -1,10 +1,8 @@
 ---
-title: "Plays Directed"
+title: "A Man For All Seasons (1977)"
 source: "http://careers.alanayckbourn.net/page4/page18/"
 order: 470
 ---
-
-## A Man For All Seasons (1977)
 
 ### Production Details
 
