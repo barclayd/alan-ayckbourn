@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import PlayCard from '@/components/PlayCard.astro';
 import Base from '@/layouts/Base.astro';
+import { itemList } from '@/lib/seo';
 
 /* Landing pages only — `plays/woman-in-mind`, not `plays/woman-in-mind/history`. */
 const plays = await getCollection('archive', ({ id }) =>
@@ -31,6 +32,12 @@ const decades = [
   title="The Plays"
   description={`All ${plays.length} of Alan Ayckbourn's works for the stage, with premieres, casts, synopses and production histories.`}
   indexed={false}
+  pageType="CollectionPage"
+  jsonLd={itemList(
+    Astro.site,
+    'The plays of Alan Ayckbourn, in order of first performance',
+    plays.map((play) => ({ name: play.data.title, href: `/${play.id}` })),
+  )}
 >
   <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
     <div class="shell">

@@ -79,6 +79,11 @@ const boardUpdated = longDate(new Date(bulletins.updated));
    "2023" or, once, "Farcebook". His words, so his line. */
 const noticeDate = (item: Bulletin) =>
   item.posted ? longDate(new Date(item.posted)) : item.when;
+
+/* ponytail: a CollectionPage and no ItemList. All 469 dispatches as list items
+   would be 45KB of JSON describing links that are already in the HTML directly
+   above it — and each of the 469 carries its own Article node on its own page,
+   which is where a reader and a parser both arrive. */
 ---
 
 <Base
@@ -86,6 +91,7 @@ const noticeDate = (item: Bulletin) =>
   description={`${posts.length} dispatches from Alan Ayckbourn's archive since 2019, and the current noticeboard.`}
   section="News"
   indexed={false}
+  pageType="CollectionPage"
 >
   <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
     <div class="shell">

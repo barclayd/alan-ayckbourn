@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import listings from '@/data/whats-on.json';
 import Base from '@/layouts/Base.astro';
+import { abs } from '@/lib/seo';
 
 /**
  * The call board: which Ayckbourn productions are on, and where.
@@ -147,6 +148,33 @@ const spell = [
 const count = (n: number, one: string, many = `${one}s`) =>
   `${spell[n] ?? n} ${n === 1 ? one : many}`;
 const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
+
+/*
+ * The listings as TheaterEvents: a performance of a play, at a place, on
+ * dates, with the box office as its url.
+ *
+ * Only the ones with a first night. A third of the board is either open-ended
+ * ("Until 19 September") or has no dates at all — streaming, a standing
+ * exhibition — and an event without a startDate is not an event any reader of
+ * this can use. Better to describe eleven listings correctly than fourteen
+ * with a guessed date on three of them.
+ */
+const events = items
+  .filter((item) => item.from)
+  .map((item) => ({
+    '@type': 'TheaterEvent',
+    name: item.title,
+    startDate: item.from,
+    ...(item.to && { endDate: item.to }),
+    location: { '@type': 'Place', name: item.where },
+    ...(item.href && { url: item.href }),
+    workPerformed: {
+      '@type': 'Play',
+      name: item.title,
+      author: { '@id': abs(Astro.site, '/#alan') },
+      ...(item.play && { url: abs(Astro.site, item.play) }),
+    },
+  }));
 ---
 
 <Base
@@ -154,6 +182,8 @@ const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
   description={`Ayckbourn productions on stage now and announced: ${items.length} listings, updated ${updated}.`}
   section="What's On"
   indexed={false}
+  pageType="CollectionPage"
+  jsonLd={events}
 >
   <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
     <div class="shell">

@@ -7,6 +7,7 @@ import SectionNav from '@/components/SectionNav.astro';
 import SectionRail from '@/components/SectionRail.astro';
 import Base from '@/layouts/Base.astro';
 import { branchOf, labelOf, printsOwnIndex } from '@/lib/section';
+import { abs, breadcrumb } from '@/lib/seo';
 
 /**
  * Every page of the archive except the handful with a page of their own. One
@@ -145,6 +146,33 @@ const isRail =
    page is for. "Contents" rather than "In this section", which is the name the
    list of the section's other pages already goes by a centimetre above it. */
 const showContents = printsOwnIndex([...labels.values()]);
+
+/*
+ * The trail as data, and — on a play landing — the play itself.
+ *
+ * `Play` rather than `CreativeWork`: a play is a script that exists apart from
+ * any performance of it, which is exactly the distinction this archive keeps
+ * (the landing page is the work; its production history is a page of its own).
+ * No `image`: the artwork these pages carry is a 175px poster scan, below the
+ * size any consumer of this will accept, and an upscaled one is worse than
+ * none.
+ */
+const nodes: Record<string, unknown>[] = [
+  breadcrumb(Astro.site, [...trail, { href: Astro.url.pathname, title }]),
+];
+
+if (isPlay) {
+  nodes.push({
+    '@type': 'Play',
+    '@id': `${abs(Astro.site, Astro.url.pathname)}#play`,
+    name: entry.data.title,
+    url: abs(Astro.site, Astro.url.pathname),
+    author: { '@id': abs(Astro.site, '/#alan') },
+    inLanguage: 'en-GB',
+    ...(synopsis && { description }),
+    ...(year && { datePublished: String(year) }),
+  });
+}
 ---
 
 <Base
@@ -152,6 +180,8 @@ const showContents = printsOwnIndex([...labels.values()]);
   description={description}
   section={section}
   where={where}
+  pageType={entry.id === 'welcome' ? 'AboutPage' : 'WebPage'}
+  jsonLd={nodes}
 >
   {
     isPlay ? (

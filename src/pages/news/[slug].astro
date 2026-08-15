@@ -2,6 +2,7 @@
 import { Image } from 'astro:assets';
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import Base from '@/layouts/Base.astro';
+import { ARCHIVIST, abs, breadcrumb } from '@/lib/seo';
 
 /**
  * A single dispatch. Neighbours come from getStaticPaths because only it holds
@@ -54,6 +55,28 @@ const longDate = date.toLocaleDateString('en-GB', {
   month: 'long',
   year: 'numeric',
 });
+
+/*
+ * A dispatch is an article, and it is the archivist's article: he wrote it, we
+ * are reproducing it, and `isBasedOn` points at the post it came from. The hero
+ * is the one picture on this site that is already a real photograph at a real
+ * size, so where a post has one it is the article's image.
+ */
+const article = {
+  '@type': 'Article',
+  '@id': `${abs(Astro.site, Astro.url.pathname)}#article`,
+  headline: post.data.title,
+  description: excerpt,
+  datePublished: date.toISOString(),
+  author: ARCHIVIST,
+  isBasedOn: source,
+  mainEntityOfPage: { '@id': `${abs(Astro.site, Astro.url.pathname)}#webpage` },
+  inLanguage: 'en-GB',
+  ...(post.data.categories.length > 0 && {
+    keywords: post.data.categories.join(', '),
+  }),
+  ...(hero && { image: hero }),
+};
 ---
 
 <Base
@@ -61,6 +84,14 @@ const longDate = date.toLocaleDateString('en-GB', {
   description={excerpt.slice(0, 200)}
   section="News"
   where={`News › ${date.getFullYear()}`}
+  published={date}
+  jsonLd={[
+    article,
+    breadcrumb(Astro.site, [
+      { href: '/news', title: 'News' },
+      { href: Astro.url.pathname, title: post.data.title },
+    ]),
+  ]}
 >
   <header class="bg-chrome pt-12 pb-14 text-chrome-ink">
     <div class="shell">
