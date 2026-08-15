@@ -2,35 +2,98 @@
 import Base from '@/layouts/Base.astro';
 
 /**
- * The footer links "Contact" from all 2,458 pages, so the route has to exist.
+ * The stage door.
  *
- * ponytail: no form. This is an unofficial design concept, and a form here would
- * post to an inbox that is not the archive's — while the archive's own enquiries
- * form still works and is where every "contact us" link in the content already
- * points. Signposting the real address is both less code and the honest answer.
- * The Worker-backed form the plan describes goes in the day there is somewhere
- * for it to send: a recipient address, a mail provider key, Turnstile keys.
+ * The page used to be three links in a narrow column, on the reasoning that a
+ * concept site has no inbox and a form here would be a lie. That reasoning was
+ * right about the inbox and wrong about the page: an enquiry to an archive is
+ * rarely for the archive. Rights are the agent's, tickets are the theatre's,
+ * and only the research is the archivist's — and a visitor cannot know that
+ * before they have said what they want.
+ *
+ * So the form asks that first, and the panel beside it names who answers. The
+ * submit sends nothing and says so; what it does instead is hand the draft back
+ * to be copied, because the next thing that person has to do is paste it into
+ * somebody's real form.
+ *
+ * ponytail: the routing is `:has()` on the checked radio — no state, no script.
+ * The only JS on the page is the submit and the copy.
  */
-const routes = [
+const about = [
   {
-    href: 'http://www.alanayckbourn.net/contact-form/Contacts.php',
-    label: 'The official enquiries form',
+    id: 'play',
+    chip: 'A play',
+    who: 'Simon Murgatroyd',
+    role: 'Alan Ayckbourn’s archivist',
     blurb:
-      'Questions about the plays, the research, performing rights, images and permissions. Answered by Alan Ayckbourn’s archivist.',
+      'Two decades of research stand behind every page here, and all of it is his. Questions about the plays, the productions and the history go to him.',
+    links: [
+      {
+        href: 'http://www.alanayckbourn.net/contact-form/Contacts.php',
+        label: 'The official enquiries form',
+      },
+    ],
   },
   {
-    href: 'https://www.sjt.uk.com',
-    label: 'Stephen Joseph Theatre',
+    id: 'rights',
+    chip: 'Performing rights',
+    who: 'Casarotto Ramsay',
+    role: 'Agents for Alan Ayckbourn',
     blurb:
-      'Tickets, current productions and the theatre in Scarborough where most of these plays opened.',
+      'Licences to perform, professional and amateur. Many amateur titles in the UK are handled by Concord Theatricals instead; each play’s own page says which.',
+    links: [
+      {
+        href: 'http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/',
+        label: 'Casarotto Ramsay',
+      },
+      {
+        href: 'http://www.concordtheatricals.co.uk/',
+        label: 'Concord Theatricals',
+      },
+    ],
   },
   {
-    href: 'https://www.alanayckbourn.net',
-    label: 'The official website',
+    id: 'images',
+    chip: 'Images & permissions',
+    who: 'Simon Murgatroyd',
+    role: 'Alan Ayckbourn’s archivist',
     blurb:
-      'Two decades of scholarship by Simon Murgatroyd, and the source of every word in this archive.',
+      'Every photograph in the archive belongs to someone — a theatre, a photographer, or Haydonning Ltd. He can tell you which, and who to ask.',
+    links: [
+      {
+        href: 'http://www.alanayckbourn.net/contact-form/Contacts.php',
+        label: 'The official enquiries form',
+      },
+    ],
+  },
+  {
+    id: 'tickets',
+    chip: 'Tickets',
+    who: 'Stephen Joseph Theatre',
+    role: 'Scarborough',
+    blurb:
+      'The theatre where most of these plays opened, and where Alan ran the company for thirty-seven years. Current productions and the box office.',
+    links: [{ href: 'https://www.sjt.uk.com', label: 'sjt.uk.com' }],
+  },
+  {
+    id: 'other',
+    chip: 'Something else',
+    who: 'Simon Murgatroyd',
+    role: 'Alan Ayckbourn’s archivist',
+    blurb:
+      'Anything the archive itself might answer. He has been fielding these since 2003.',
+    links: [
+      {
+        href: 'http://www.alanayckbourn.net',
+        label: 'alanayckbourn.net',
+      },
+    ],
   },
 ];
+
+const label = 'font-ui text-[0.68rem] uppercase tracking-[0.18em] text-muted';
+const field =
+  'mt-2.5 w-full border-rule border-b bg-transparent pb-2.5 font-body text-base text-body outline-none transition-colors placeholder:text-muted/60 focus:border-accent focus-visible:outline-none';
 ---
 
 <Base
@@ -38,56 +101,310 @@ const routes = [
   description="Where to send an enquiry about the work of Sir Alan Ayckbourn."
   indexed={false}
 >
-  <div class="mx-auto max-w-3xl px-4 pt-16 pb-24 sm:px-6">
-    <p
-      class="font-ui text-[0.7rem] uppercase tracking-[0.2em] text-accent"
-      data-reveal
-    >
-      Enquiries
-    </p>
-    <h1
-      class="mt-4 font-display text-[clamp(2.5rem,7vw,4.5rem)] uppercase leading-[0.9]"
-      data-reveal
-    >
-      Contact
-    </h1>
-    <p class="mt-5 max-w-[54ch] text-muted" data-reveal>
-      This site is an unofficial design concept, not the archive itself &mdash; so
-      enquiries are best sent to the people who wrote it.
-    </p>
+  <div class="shell pt-16 pb-24">
+    <header class="max-w-[46rem]">
+      {/* The eyebrow carries the word the footer links, so a reader who clicked
+          "Contact" lands on it; the heading gets to be the theatre's own name
+          for the door people knock on. */}
+      <p class={`${label} text-accent`} data-reveal>Contact</p>
+      <h1
+        class="mt-4 font-display text-[clamp(2.5rem,8vw,5.5rem)] uppercase leading-[0.88]"
+        data-reveal
+      >
+        Stage door
+      </h1>
+      <p class="mt-6 text-[1.15rem] leading-relaxed text-muted" data-reveal>
+        Say what you need and this page will name the person who can answer it.
+        At an archive that is rarely the archivist &mdash; the rights belong to
+        an agent and the tickets to a theatre.
+      </p>
+    </header>
 
-    <ul class="mt-12">
-      {
-        routes.map((route) => (
-          <li data-reveal>
-            <a
-              href={route.href}
-              rel="external"
-              class="group flex flex-col gap-2 border-rule border-t pt-4 pb-6 transition-colors hover:border-accent"
+    {/*
+      The panel sits inside the form because that is what makes the routing a
+      selector rather than a script: `form:has(:checked)` can only reach it
+      from a shared ancestor, and the form is the honest one.
+    */}
+    <form
+      id="enquiry"
+      class="mt-14 grid gap-x-16 gap-y-12 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)]"
+    >
+      {/* The question governs the whole page, so it spans it. It also puts the
+          panel that answers it second in source order, which on a phone is the
+          difference between choosing and seeing what the choice did. */}
+      <fieldset class="min-w-0 lg:col-span-2" data-reveal>
+        <legend class={label}>What is it about?</legend>
+        <div class="mt-4 flex flex-wrap gap-2">
+          {
+            about.map((item, i) => (
+              <label class="cursor-pointer">
+                <input
+                  type="radio"
+                  name="about"
+                  value={item.id}
+                  checked={i === 0}
+                  class="peer sr-only"
+                />
+                {/* Hover moves the rule only. Colouring the text on hover too
+                    would have to beat `peer-checked` in the cascade, and a chip
+                    that pales when you point at it is worse than one that does
+                    nothing. */}
+                <span class="block border border-rule px-4 py-2.5 font-ui text-[0.7rem] uppercase tracking-[0.12em] text-body transition-colors hover:border-accent peer-checked:border-accent peer-checked:bg-accent peer-checked:text-accent-ink peer-focus-visible:outline-2 peer-focus-visible:outline-accent peer-focus-visible:outline-offset-2">
+                  {item.chip}
+                </span>
+              </label>
+            ))
+          }
+        </div>
+      </fieldset>
+
+      <aside
+        class="min-w-0 lg:col-start-2 lg:row-start-2 lg:sticky lg:top-24 lg:self-start"
+        data-reveal
+      >
+        <p class={label}>Who answers this</p>
+        {
+          about.map((item) => (
+            <div
+              class="dest mt-4 border-accent border-t-2 bg-surface-raised p-7"
+              data-for={item.id}
             >
-              <span class="flex items-baseline gap-3">
-                <span class="font-display text-xl uppercase leading-none transition-colors group-hover:text-accent">
-                  {route.label}
-                </span>
-                <span
-                  aria-hidden="true"
-                  class="ml-auto font-ui text-muted transition-transform group-hover:translate-x-1"
-                >
-                  &rarr;
-                </span>
-              </span>
-              <span class="max-w-[52ch] text-sm text-muted">{route.blurb}</span>
-            </a>
-          </li>
-        ))
-      }
-    </ul>
+              <p class="font-display text-[1.75rem] uppercase leading-none">
+                {item.who}
+              </p>
+              <p class="mt-2 font-ui text-[0.72rem] uppercase tracking-[0.14em] text-muted">
+                {item.role}
+              </p>
+              <p class="mt-5 text-[0.98rem] leading-relaxed text-muted">
+                {item.blurb}
+              </p>
+              <ul class="mt-6 grid gap-2.5">
+                {item.links.map((link) => (
+                  <li>
+                    <a
+                      href={link.href}
+                      rel="external"
+                      class="group inline-flex items-baseline gap-2 font-ui text-[0.78rem] transition-colors hover:text-accent"
+                    >
+                      <span class="underline decoration-accent decoration-1 underline-offset-[0.22em]">
+                        {link.label}
+                      </span>
+                      <span
+                        aria-hidden="true"
+                        class="transition-transform group-hover:translate-x-1"
+                      >
+                        &rarr;
+                      </span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))
+        }
+      </aside>
 
-    {/* The archive's own privacy page promises to collect nothing. Worth saying
-        on the one page a visitor might expect to be asked for something. */}
-    <p class="mt-10 max-w-[54ch] text-sm text-muted" data-reveal>
-      This concept asks nothing of you and stores nothing: no accounts, no
-      analytics, no cookies.
+      <div class="min-w-0 lg:col-start-1 lg:row-start-2" id="fields">
+        <div class="grid gap-9 sm:grid-cols-2" data-reveal>
+          <label class="block">
+            <span class={label}>Your name</span>
+            <input
+              type="text"
+              name="name"
+              required
+              autocomplete="name"
+              class={field}
+            />
+          </label>
+          <label class="block">
+            <span class={label}>Your email</span>
+            <input
+              type="email"
+              name="email"
+              required
+              autocomplete="email"
+              class={field}
+            />
+          </label>
+        </div>
+
+        <label class="mt-9 block" data-reveal>
+          <span class={label}>Subject</span>
+          <input
+            type="text"
+            name="subject"
+            required
+            placeholder="Amateur rights for a school production of Confusions"
+            class={field}
+          />
+        </label>
+
+        <label class="mt-9 block" data-reveal>
+          <span class={label}>Your enquiry</span>
+          {/* `field-sizing` grows the box as it fills, natively — but it also
+              shrinks an empty one to a single line, which is why the height it
+              opens at is stated. `rows` is the fallback where it is
+              unsupported. */}
+          <textarea
+            name="message"
+            required
+            rows="6"
+            class={`${field} min-h-40 resize-y leading-relaxed [field-sizing:content]`}
+          ></textarea>
+        </label>
+
+        <div
+          class="mt-10 flex flex-wrap items-center gap-x-6 gap-y-3"
+          data-reveal
+        >
+          <button
+            type="submit"
+            class="group inline-flex items-center gap-3 bg-accent px-7 py-3.5 font-ui text-[0.72rem] uppercase tracking-[0.18em] text-accent-ink transition-transform duration-300 ease-stage hover:-translate-y-0.5"
+          >
+            Send enquiry
+            <span
+              aria-hidden="true"
+              class="transition-transform duration-300 ease-stage group-hover:translate-x-1"
+            >
+              &rarr;
+            </span>
+          </button>
+          <p class="font-ui text-xs text-muted">
+            This concept has no inbox. Nothing you type here is stored or sent.
+          </p>
+        </div>
+      </div>
+
+      {/* Takes the fields' place in the grid rather than the page's, so the
+          address it tells you to write to is still on screen beside it. Not a
+          dialog: there is nothing to dismiss, and a modal would cover the one
+          thing worth reading. */}
+      <section
+        id="sent"
+        hidden
+        tabindex="-1"
+        class="min-w-0 border-accent border-t-2 pt-8 outline-none lg:col-start-1 lg:row-start-2"
+      >
+        <h2
+          class="font-display text-[clamp(1.75rem,4vw,2.5rem)] uppercase leading-none"
+        >
+          Your enquiry is ready
+        </h2>
+        {/* Says the true thing first and still leaves somewhere to go. A
+            headline reading "Nothing was sent" is just as honest and lands as
+            a failure, which this is not: the page has done its half. */}
+        <p class="mt-5 max-w-[46ch] text-muted">
+          This concept has no inbox, so nothing left the page &mdash; but what
+          you wrote is still here. Copy it and take it to the address this page
+          named for you.
+        </p>
+        <div class="mt-8 flex flex-wrap gap-4">
+          <button
+            type="button"
+            id="copy-enquiry"
+            class="bg-accent px-7 py-3.5 font-ui text-[0.72rem] uppercase tracking-[0.18em] text-accent-ink"
+          >
+            Copy your enquiry
+          </button>
+          <button
+            type="button"
+            id="reset-enquiry"
+            class="border border-rule px-7 py-3.5 font-ui text-[0.72rem] uppercase tracking-[0.18em] transition-colors hover:border-accent hover:text-accent"
+          >
+            Write another
+          </button>
+        </div>
+      </section>
+    </form>
+
+    {/* Under everything rather than in the panel: on a phone the panel comes
+        before the fields, and a note about what the site does not collect read
+        as an instruction to the form below it. */}
+    <p
+      class="mt-16 max-w-[46rem] border-rule border-t pt-6 text-sm text-muted"
+      data-reveal
+    >
+      This site is an unofficial design concept, not the archive itself. It asks
+      nothing of you and stores nothing: no accounts, no cookies.
     </p>
+
   </div>
 </Base>
+
+<style>
+  /*
+   * The routing. One rule per destination rather than a script holding state:
+   * the radio already is the state, and `:has()` reads it.
+   */
+  .dest {
+    display: none;
+  }
+
+  #enquiry:has([value="play"]:checked) [data-for="play"],
+  #enquiry:has([value="rights"]:checked) [data-for="rights"],
+  #enquiry:has([value="images"]:checked) [data-for="images"],
+  #enquiry:has([value="tickets"]:checked) [data-for="tickets"],
+  #enquiry:has([value="other"]:checked) [data-for="other"] {
+    display: block;
+    /* The site's own entrance, borrowed: a change of answer should arrive the
+       way a new section does, not blink. */
+    animation: rise-in 0.4s var(--ease-stage) both;
+  }
+
+  #sent:not([hidden]) {
+    animation: rise-in 0.5s var(--ease-stage) both;
+  }
+</style>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>('#enquiry');
+  const fields = document.querySelector<HTMLElement>('#fields');
+  const sent = document.querySelector<HTMLElement>('#sent');
+  const copy = document.querySelector<HTMLButtonElement>('#copy-enquiry');
+  const again = document.querySelector<HTMLButtonElement>('#reset-enquiry');
+
+  if (form && fields && sent && copy && again) {
+    /** What a person would paste into somebody's real form. */
+    const draft = () => {
+      const values = new FormData(form);
+      const get = (name: string) => String(values.get(name) ?? '').trim();
+      return `Subject: ${get('subject')}\nFrom: ${get('name')} <${get('email')}>\n\n${get('message')}\n`;
+    };
+
+    let text = '';
+
+    /* `novalidate` is off, so the browser has already refused anything empty or
+       malformed by the time this runs — the required fields and the email type
+       are the whole of the validation. */
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      text = draft();
+      fields.hidden = true;
+      sent.hidden = false;
+      /* Focus follows the change, or a keyboard user is left on a button that
+         no longer exists and a screen reader announces nothing. */
+      sent.focus();
+    });
+
+    copy.addEventListener('click', async () => {
+      /* Clipboard access can be refused — an insecure origin, a permission
+         prompt declined. Saying so beats a button that silently did nothing. */
+      try {
+        await navigator.clipboard.writeText(text);
+        copy.textContent = 'Copied';
+      } catch {
+        copy.textContent = 'Copying was blocked — select and copy instead';
+      }
+      setTimeout(() => {
+        copy.textContent = 'Copy your enquiry';
+      }, 2500);
+    });
+
+    again.addEventListener('click', () => {
+      form.reset();
+      sent.hidden = true;
+      fields.hidden = false;
+      form.querySelector<HTMLInputElement>('input[name="name"]')?.focus();
+    });
+  }
+</script>
