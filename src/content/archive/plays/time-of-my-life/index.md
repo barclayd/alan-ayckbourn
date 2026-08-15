@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Time Of My Life* quote**  
-"Nevertheless - you know, in life, you get moments - just occasionally which you can positively identify as being among the happy moments. They come up occasionally, even take you by surprise, and sometimes you're so busy worrying about tomorrow or thinking about yesterday that you tend to miss out on them altogether."  
-**Time Of My Life**
+"Nevertheless - you know, in life, you get moments - just occasionally which you can positively identify as being among the happy moments. They come up occasionally, even take you by surprise, and sometimes you're so busy worrying about tomorrow or thinking about yesterday that you tend to miss out on them altogether."

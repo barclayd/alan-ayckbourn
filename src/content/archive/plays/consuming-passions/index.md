@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Consuming Passions* Quote**  
-"What on earth’s the matter with these people? He took absolutely no notice of me. Like I didn’t even exist... You can see me. Can’t you? You two? You can see me? Can’t you?"  
-**Consuming Passions**
+"What on earth’s the matter with these people? He took absolutely no notice of me. Like I didn’t even exist... You can see me. Can’t you? You two? You can see me? Can’t you?"

@@ -20,11 +20,7 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***How The Other Half Loves* quote**  
-"It's difficult for him. He's never been wrong before, you see."  
-**How The Other Half Loves: Upcoming Productions**  
+"It's difficult for him. He's never been wrong before, you see."
 **The Old Vic, London:** 29 July - 19 September 2026  
 Full details and bookings **[here](http://www.oldvictheatre.com/stage/other-half/)**  
 [![How The Other Half Loves, a play by Alan Ayckbourn, at The Old Vic, 29 July to 19 September 2026](./_images/stacks-image-19d2a2b-1200x262.png)](http://www.oldvictheatre.com/stage/other-half/)

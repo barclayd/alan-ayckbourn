@@ -23,6 +23,4 @@ facts:
 
 **Availability (play)**
 
-***The Boy Who Fell Into A Book* quote**  
-"How can I go to sleep in the middle of a story?"  
-**The Boy Who Fell Into A Book**
+"How can I go to sleep in the middle of a story?"

@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Mr A's Amazing Maze Plays* quote**  
-"I knew a girl once, she shouted so loudly she lost her voice altogether. You wouldn't want that to happen to you, would you?"  
-**Mr A's Amazing Maze Plays**
+"I knew a girl once, she shouted so loudly she lost her voice altogether. You wouldn't want that to happen to you, would you?"

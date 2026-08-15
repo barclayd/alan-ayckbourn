@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Intimate Exchanges* quote**  
-"Look, I don't want to hurt your feelings again unnecessarily, Celia, but there are a whole load of more important reasons than you and your mother, why a man should turn to drink, I can tell you."  
-**Intimate Exchanges**
+"Look, I don't want to hurt your feelings again unnecessarily, Celia, but there are a whole load of more important reasons than you and your mother, why a man should turn to drink, I can tell you."

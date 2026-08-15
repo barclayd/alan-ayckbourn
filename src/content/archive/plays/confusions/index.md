@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Confusions* quote**  
-*"Haven't you done enough? How do you think it feels to hear the news that my fiancee is pregnant by another man? Isn't that bad enough? But when you publicly announce it over four acres of field… in front of my Cubs…."*  
-**Confusions**
+*"Haven't you done enough? How do you think it feels to hear the news that my fiancee is pregnant by another man? Isn't that bad enough? But when you publicly announce it over four acres of field… in front of my Cubs…."*

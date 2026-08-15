@@ -16,8 +16,4 @@ facts:
   Professional: "Not available for production."
 ---
 
-**Availability**
-
-***A Word From Our Sponsor* quote**  
-"Oh, Harry. Oh, my dear sweet Harry. What have you done? What have you done to us?"  
-**A Word From Our Sponsor**
+"Oh, Harry. Oh, my dear sweet Harry. What have you done? What have you done to us?"

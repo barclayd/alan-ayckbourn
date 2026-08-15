@@ -40,5 +40,4 @@ facts:
 **Published:** No  
 **Other Media:** Television; Radio; Original cast recording
 
-**Availability (*By Jeeves* only)**  
-**Jeeves / By Jeeves**
+**Availability (*By Jeeves* only)**

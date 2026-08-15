@@ -19,8 +19,4 @@ facts:
 **Callisto#7 Premiere:** 4 December 1999  
 **Venue:** Stephen Joseph Theatre, Scarborough
 
-**Availability**
-
-***Callisto#7* Quote**  
-"That is the other development that I wanted to bring to your attention, Jem. The creature is not in the airlock."  
-**Callisto 5 / #7**
+"That is the other development that I wanted to bring to your attention, Jem. The creature is not in the airlock."

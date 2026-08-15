@@ -370,6 +370,20 @@
     margin-top: 1.6em;
   }
 
+  /*
+   * A page with no dateline anywhere on it. Four hundred of the archive's
+   * quotations name no year — a line of a play, a remark with no interview
+   * behind it — and every one of them was still indented past a gutter held
+   * open for a date that never came. Asked of the page rather than of the
+   * quotation, so the one undated quote on a page of forty dated ones still
+   * lines up with them: the gutter goes only where there is nothing to hang.
+   */
+  &:not(:has(.q-year)) blockquote.quote {
+    display: block;
+    /* The reading measure, as every other block on the page takes it. */
+    max-width: 45.75rem;
+  }
+
   /* The source, with the parentheses the archivist wrote around it taken off:
      they were the only mark saying "this is where it comes from", and standing
      apart in the UI face under the quotation says it better. */
@@ -815,6 +829,58 @@
       padding-top: 0;
       margin-bottom: 0.3em;
       text-align: left;
+    }
+  }
+}
+
+/*
+ * The line of the play, on a play's own page.
+ *
+ * The original site gave each play's front page a box with the play's best
+ * line in it. The scrape flattened the box into three bold labels and the line
+ * — "Availability", the play's name, "*Play* quote" — stacked a line break
+ * apart at the reading size, so the label of an empty panel, the title already
+ * set four inches high above it, and the line itself all arrived at the same
+ * weight and within a few pixels of the same size. The labels are gone from
+ * the markdown now; this is what is left to do for the line.
+ *
+ * It is the only thing on most of these pages that is not a premiere date or a
+ * rights address, and it is the play speaking rather than the archive, so it
+ * is set to a size it can be heard at. Only on a play landing: the same shape
+ * on a history or an article page is a citation inside an essay, and 1.45em of
+ * it mid-paragraph would be a shout.
+ */
+@utility prose-epigraph {
+  /* One and no other, with no date to hang: a quotes page runs twenty down a
+     column and they are a chronology, not twenty epigraphs. */
+  &:not(:has(.q-year)) > blockquote.quote:only-of-type {
+    /* Air on both sides. Ten of these pages carry a section under the line, and
+       the archive's h3 is a small UI-face label — set a centimetre below the
+       epigraph it read as its caption rather than the next thing on the page. */
+    margin-block: 3em 2em;
+    font-size: 1.45em;
+    line-height: 1.4;
+    text-wrap: balance;
+  }
+
+  /* The section marker the h2s carry, so the one ornament here is one the
+     archive already uses rather than a device invented for a single page. */
+  &:not(:has(.q-year)) > blockquote.quote:only-of-type::before {
+    content: "";
+    display: block;
+    width: 2.5rem;
+    height: 2px;
+    margin-bottom: 1.1rem;
+    background-color: var(--color-accent);
+  }
+
+  /* On a phone the measure is the screen, so the size has to come off it: the
+     longest of these lines runs seventy words and at the desktop size it filled
+     the whole viewport at five words a line. */
+  @media (width < 40rem) {
+    &:not(:has(.q-year)) > blockquote.quote:only-of-type {
+      font-size: 1.2em;
+      line-height: 1.45;
     }
   }
 }

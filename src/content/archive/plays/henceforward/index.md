@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Henceforward…* quote**  
-"I want to say - what I want to say is - well, I want to say - Love. Really."  
-**Henceforward…**
+"I want to say - what I want to say is - well, I want to say - Love. Really."

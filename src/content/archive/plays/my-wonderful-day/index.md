@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***My Wonderful Day* quote**  
-"Reading. Broadens your mind. Ruins your eyesight but broadens your mind. I regret never reading. I never read as a kid. My Dad used to say to me, for God's sake, son, stop leaping about, sit down and read a good book. But I never did, never took heed of him. Now look at me, perfect twenty-twenty vision and ignorant as buggery."  
-**My Wonderful Day**
+"Reading. Broadens your mind. Ruins your eyesight but broadens your mind. I regret never reading. I never read as a kid. My Dad used to say to me, for God's sake, son, stop leaping about, sit down and read a good book. But I never did, never took heed of him. Now look at me, perfect twenty-twenty vision and ignorant as buggery."

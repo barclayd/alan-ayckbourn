@@ -20,8 +20,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/clients/sir-alan-ayckbourn/)"
 ---
 
-**Availability**
-
-***Way Upstream* quote**  
-"On any boat, there can only be one skipper. OK? One guy who gives the orders. All right? It has to be that way otherwise it's bedlam. Like it was just now. Now, I don't mind taking the job, I don't mind the responsibility but I must have your support. OK? Make sense? OK?"  
-**Way Upstream**
+"On any boat, there can only be one skipper. OK? One guy who gives the orders. All right? It has to be that way otherwise it's bedlam. Like it was just now. Now, I don't mind taking the job, I don't mind the responsibility but I must have your support. OK? Make sense? OK?"

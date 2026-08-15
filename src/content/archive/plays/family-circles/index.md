@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Family Circles* quote**  
-"We all marry the wrong people."  
-**Family Circles**
+"We all marry the wrong people."

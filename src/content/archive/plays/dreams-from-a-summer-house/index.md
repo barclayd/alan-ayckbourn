@@ -16,8 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**
-
-***Dreams From A Summer House* quote**  
-"Never, never fall in love unless it's absolutely unavoidable. And never, never, never fall in love with the idea of love itself."  
-**Dreams From A Summer House**
+"Never, never fall in love unless it's absolutely unavoidable. And never, never, never fall in love with the idea of love itself."

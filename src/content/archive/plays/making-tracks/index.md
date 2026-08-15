@@ -20,8 +20,4 @@ facts:
   Rog: "Phil Spector."
 ---
 
-**Availability**
-
-***Making Tracks* quote**  
-**Stan:** He used to do that. Never could hear a word on any of his records. He sold millions.  
-**Making Tracks**
+**Stan:** He used to do that. Never could hear a word on any of his records. He sold millions.

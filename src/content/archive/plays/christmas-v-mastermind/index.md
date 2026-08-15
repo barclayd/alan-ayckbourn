@@ -16,8 +16,4 @@ facts:
   Professional: "Not available for production"
 ---
 
-**Availability**
-
-***Christmas V Mastermind* quote**  
-"Father Christmas's a bit old, you see. So he gets funny ideas. Some of his staff have been with him for five hundred years and he reckons some of them are getting stagnant. So we have community-singing in the canteen and dancing classes for unskilled labour…."  
-**Christmas V Mastermind**
+"Father Christmas's a bit old, you see. So he gets funny ideas. Some of his staff have been with him for five hundred years and he reckons some of them are getting stagnant. So we have community-singing in the canteen and dancing classes for unskilled labour…."

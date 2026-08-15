@@ -16,7 +16,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)."
 ---
 
-**Availability**  
-**Welcome to the Family**  
-***Welcome to the Family* quote**  
 "It’s hardly going to come up in conversation, is it? You’re not suddenly going to come out with, 'Talking of air crashes…' are you? And even if you do, they’ll think you’re mad anyway. Sara the Psychic Schoolgirl. "

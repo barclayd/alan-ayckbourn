@@ -18,8 +18,4 @@ facts:
   Professional: "Apply to [Casarotto Ramsay](http://www.casarotto.co.uk/client/sir-alan-ayckbourn-11716/)"
 ---
 
-**Availability**
-
-***Joking Apart* quote**  
-“May I say just one thing? As friends, be careful of them. I'll say nothing more. Beware. That's all.”  
-**Joking Apart**
+“May I say just one thing? As friends, be careful of them. I'll say nothing more. Beware. That's all.”

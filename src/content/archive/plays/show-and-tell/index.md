@@ -16,7 +16,4 @@ facts:
   Amateur: "Not currently available for amateur performance."
 ---
 
-**Availability**  
-**Show & Tell**  
-***Show & Tell* quote**  
 "No, it’s the moment when those two, actor and audience, meet, that’s when the magic happens. And every single performance, depending on what goes on in that meeting, creates an entirely different magic. God knows why. Same show, different magic. Now, if for some reason, one of those key elements is absent, namely the audience itself, then what’s the bloody point?"
