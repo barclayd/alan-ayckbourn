@@ -238,15 +238,18 @@ const [stageWide, stageNarrow] = await Promise.all([
       </div>
 
       {/* The strip the archive closes its own front page with: twelve portraits
-          of one life, in order. Held at its published width — 900px is all
-          there is of it, and upscaling a photograph is worse than a gap. */}
+          of one life, in order. Run to the full measure, squaring off the
+          column the portrait above it sets. 900px is all there is of it, so
+          past about 1100 it is scaling up — which a strip of grainy monochrome
+          thumbnails wears far better than a photograph would, and better than
+          stopping short of the edge everything else lines up to. */}
       <figure class="mt-16" data-reveal>
         <Image
           src={twelvePortraits}
           alt="A strip of twelve black-and-white portraits of Alan Ayckbourn across his life, from a young actor with a clarinet, a guitar and monkey-mask make-up, through the doorway of the Library Theatre under a &quot;THE ROUND&quot; sign, to old age"
           widths={[900]}
-          sizes="(min-width: 60rem) 56.25rem, 100vw"
-          class="w-full max-w-[56.25rem] rounded-sm"
+          sizes="(min-width: 72rem) 68rem, 100vw"
+          class="w-full rounded-sm"
         />
         <figcaption class="mt-3 font-ui text-xs text-muted">
           Twelve portraits, one working life
