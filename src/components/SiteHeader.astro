@@ -1,4 +1,5 @@
 ---
+import whatsOn from '@/data/whats-on.json';
 import ThemeToggle from './ThemeToggle.astro';
 
 /* What's On first: it is the only part of the archive that changes, and it is
@@ -17,6 +18,55 @@ const links = [
 const path = Astro.url.pathname;
 const isCurrent = (href: string) =>
   path === href || path.startsWith(`${href}/`);
+
+/* The one figure on the mobile panel worth fetching rather than typing: a run
+   closes and another opens between deploys, so the count on the lead link is
+   read off the same feed the call board itself renders from. Everything else
+   below is the archivist's own published figure — the ninety-two plays the
+   homepage hero already quotes, the "469" and "since 2019" the news page's own
+   comment gives its 469 posts, and so on — stated once rather than fetched
+   twice, for the same reason the homepage hardcodes 92 instead of counting a
+   collection: two numbers claiming to be "the plays" is worse than one. */
+const onNow = whatsOn.items.filter((item) => item.kind === 'item').length;
+
+/* Three groupings a visitor actually has in mind, not eight names in a list:
+   what he wrote, who he is, and what else the archive holds besides text. */
+const groups = [
+  {
+    label: 'The Work',
+    items: [
+      { href: '/plays', label: 'Plays', hint: '92 plays, since 1959' },
+      {
+        href: '/encyclopaedia',
+        label: 'Encyclopaedia',
+        hint: 'Alphabetical entries on the plays, people and dates',
+      },
+    ],
+  },
+  {
+    label: 'The Life',
+    items: [
+      { href: '/life', label: 'Life', hint: 'Biography and chronology' },
+      {
+        href: '/career',
+        label: 'Career',
+        hint: 'Playwright, director, artistic director',
+      },
+    ],
+  },
+  {
+    label: 'Elsewhere',
+    items: [
+      { href: '/news', label: 'News', hint: '469 dispatches since 2019' },
+      { href: '/watch', label: 'Watch', hint: '53 films' },
+      {
+        href: '/pictures',
+        label: 'Pictures',
+        hint: '854 photographs since 2022',
+      },
+    ],
+  },
+];
 ---
 
 <header
@@ -79,43 +129,295 @@ const isCurrent = (href: string) =>
 
       <ThemeToggle />
 
-      {/* ponytail: <details> is the whole mobile menu — no JS, keyboard and AT
-          support for free. Swap for a dialog only if it needs to trap focus. */}
-      <details class="group lg:hidden">
-        <summary
-          class="grid size-9 cursor-pointer list-none place-items-center rounded-full text-chrome-muted [&::-webkit-details-marker]:hidden"
-          aria-label="Sections"
-        >
-          {/* Both bars share one grid cell so they are concentric — open, they
-              only need to unshift and rotate to meet as a cross. */}
-          <span
-            class="col-start-1 row-start-1 h-px w-4 -translate-y-[3px] bg-current transition-[translate,rotate] duration-300 ease-stage group-open:translate-y-0 group-open:rotate-45"
-          ></span>
-          <span
-            class="col-start-1 row-start-1 h-px w-4 translate-y-[3px] bg-current transition-[translate,rotate] duration-300 ease-stage group-open:translate-y-0 group-open:-rotate-45"
-          ></span>
-        </summary>
-        <nav
-          aria-label="Sections"
-          class="absolute inset-x-0 top-14 origin-top animate-[drop-in_.35s_var(--ease-stage)_both] border-chrome-rule/70 border-b bg-chrome"
-        >
-          <ul class="shell py-2">
-            {
-              links.map(({ href, label }) => (
-                <li class="border-chrome-rule/50 border-b last:border-0">
-                  <a
-                    href={href}
-                    aria-current={isCurrent(href) ? 'page' : undefined}
-                    class="block py-3.5 font-ui text-sm uppercase tracking-[0.18em] text-chrome-muted aria-[current=page]:text-chrome-accent"
-                  >
-                    {label}
-                  </a>
-                </li>
-              ))
-            }
-          </ul>
-        </nav>
-      </details>
+      {/* Popover rather than <details>: a panel this size wants top-layer
+          stacking, light-dismiss and Esc, which is what popovertarget buys
+          for free. The bars still meet as a cross open — see the stylesheet
+          below, keyed off :popover-open instead of an [open] attribute now. */}
+      <button
+        type="button"
+        id="mobile-nav-trigger"
+        popovertarget="mobile-nav"
+        aria-expanded="false"
+        aria-controls="mobile-nav"
+        aria-label="Sections"
+        class="grid size-11 cursor-pointer place-items-center rounded-full text-chrome-muted lg:hidden"
+      >
+        <span
+          class="burger-bar-a col-start-1 row-start-1 h-px w-4 -translate-y-[3px] bg-current transition-[translate,rotate] duration-300 ease-stage"
+        ></span>
+        <span
+          class="burger-bar-b col-start-1 row-start-1 h-px w-4 translate-y-[3px] bg-current transition-[translate,rotate] duration-300 ease-stage"
+        ></span>
+      </button>
     </div>
   </div>
 </header>
+
+{/*
+  The full-screen panel. A sibling of the header rather than nested inside it:
+  once open it makes the rest of the document `inert` (see the script below),
+  and a container cannot be excused from its own quarantine.
+
+  It is styled to cover the header rather than sit under it — same `bg-chrome`,
+  a top row at the same `h-14` with the trigger's position mirrored by a close
+  button. The curtain does not rise beside the proscenium; it rises to fill it,
+  so the header should read as having grown to fill the screen, not as a bar
+  with a second, separate surface stacked on it.
+*/}
+<div
+  id="mobile-nav"
+  popover="auto"
+  class="fixed inset-0 m-0 flex h-dvh w-full max-w-none flex-col bg-chrome text-chrome-ink lg:hidden"
+>
+  <div
+    class="shell flex h-14 shrink-0 items-center justify-between border-chrome-rule/70 border-b"
+  >
+    <p
+      class="font-display text-[clamp(0.95rem,4.2vw,1.125rem)] uppercase leading-none tracking-wide"
+    >
+      Sir Alan Ayckbourn
+    </p>
+    <button
+      type="button"
+      popovertarget="mobile-nav"
+      popovertargetaction="hide"
+      aria-label="Close menu"
+      class="grid size-11 place-items-center rounded-full text-chrome-muted transition-colors hover:text-chrome-ink"
+    >
+      <svg
+        class="size-[1.15rem]"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linecap="round"
+        aria-hidden="true"
+      >
+        <path d="M6 6l12 12M18 6 6 18"></path>
+      </svg>
+    </button>
+  </div>
+
+  {/* Ten destinations will not fit a phone screen at a size worth reading,
+      so the panel scrolls — but only just. The spacing below is set so that
+      the last row is cut by the bottom edge rather than sitting cleanly
+      below it: a half-row is the only honest way to say there is more, and a
+      menu that ends flush at the fold reads as a menu that has ended. */}
+  <nav aria-label="Sections" class="shell flex-1 overflow-y-auto py-5">
+    {/* The lead: not one of eight equal rows but the reason most visitors
+        opened this panel at all, sized the way a play's own title is sized on
+        its landing page rather than the way a nav link is. */}
+    <a
+      href="/whats-on"
+      id="mobile-nav-lead"
+      aria-current={isCurrent('/whats-on') ? 'page' : undefined}
+      class="group block border-chrome-rule/50 border-b pb-5"
+    >
+      <span
+        class="font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
+      >
+        On now
+      </span>
+      <span
+        class="mt-2 block font-display text-[clamp(2.25rem,12vw,3rem)] uppercase leading-[0.9] transition-colors group-hover:text-chrome-accent"
+      >
+        What&rsquo;s On
+      </span>
+      <span
+        class="mt-3 flex items-center gap-2 font-ui text-chrome-muted text-xs uppercase tracking-[0.15em]"
+      >
+        {onNow} production{onNow === 1 ? '' : 's'} currently listed
+        <span
+          aria-hidden="true"
+          class="transition-transform duration-300 ease-stage group-hover:translate-x-1"
+        >
+          &rarr;
+        </span>
+      </span>
+    </a>
+
+    {/* Search, promoted off the icon strip and into the panel it shares its
+        content with — the other way in when the reader has a name in mind
+        rather than a section. Styled as the field it becomes: the header's
+        own icon-only link is this same href, and SearchPalette's document
+        listener is what turns either one into the ⌘K dialog rather than a
+        page load. */}
+    <a
+      href="/search"
+      aria-current={isCurrent('/search') ? 'page' : undefined}
+      class="mt-6 flex items-center gap-3 rounded-full border border-chrome-rule/60 px-5 py-3.5 text-chrome-muted transition-colors hover:border-chrome-accent hover:text-chrome-ink"
+    >
+      <svg
+        class="size-[1.1rem] shrink-0"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linecap="round"
+        aria-hidden="true"
+      >
+        <circle cx="10.6" cy="10.6" r="6.4"></circle>
+        <path d="m15.4 15.4 4.2 4.2"></path>
+      </svg>
+      <span class="font-ui text-sm">Search the archive</span>
+    </a>
+
+    {
+      groups.map((group) => (
+        <div class="mt-5">
+          <p class="font-ui text-[0.68rem] text-chrome-muted uppercase tracking-[0.2em]">
+            {group.label}
+          </p>
+          <ul class="mt-3 divide-y divide-chrome-rule/40 border-chrome-rule/40 border-t">
+            {group.items.map((item) => (
+              <li>
+                <a
+                  href={item.href}
+                  aria-current={isCurrent(item.href) ? 'page' : undefined}
+                  class="group flex items-center justify-between gap-4 py-3 aria-[current=page]:text-chrome-accent"
+                >
+                  <span>
+                    <span class="block font-display text-xl uppercase leading-none transition-colors group-hover:text-chrome-accent">
+                      {item.label}
+                    </span>
+                    <span class="mt-1 block font-ui text-chrome-muted text-xs">
+                      {item.hint}
+                    </span>
+                  </span>
+                  <span
+                    aria-hidden="true"
+                    class="font-display text-chrome-muted text-lg transition-transform group-hover:translate-x-1"
+                  >
+                    &rarr;
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+  </nav>
+</div>
+
+<script>
+  /*
+   * The two platform gaps a popovertarget button doesn't close by itself.
+   *
+   * First, aria-expanded: some browsers reflect a popover's state onto its
+   * invoker automatically and some don't yet, so it is set here rather than
+   * trusted to arrive for free.
+   *
+   * Second, inert: showPopover() gives light-dismiss and top-layer stacking,
+   * but — unlike dialog.showModal() — it does not take the rest of the
+   * document out of the tab order. That is fine for a small dropdown; it is a
+   * real bug for a panel that visually covers the header and main behind it,
+   * where a sighted keyboard user could otherwise tab focus onto a link they
+   * cannot see. Everything at the body's top level except the panel itself is
+   * quarantined for as long as it is open.
+   *
+   * Third, focus itself: a plain `autofocus` attribute on the lead link tried
+   * to claim it the moment the page loaded, not the moment the panel opened —
+   * Chrome honours autofocus inside a closed, `display: none` popover, so the
+   * skip link's own tab stop was getting stolen on every page before anyone
+   * had touched the trigger. Moving the same focus() into the toggle handler
+   * fixes both problems with one line: it fires once, and only on open.
+   *
+   * And on the way back out, focus has to be put where the browser would have
+   * put it. A popover normally returns focus to its invoker on close, but the
+   * invoker is inside the header this panel has just spent its whole life
+   * quarantining, and focus cannot return to an inert element — so it was
+   * being left on a link inside a `display: none` panel, which drops a
+   * keyboard user back at the top of the document. The inert sweep above runs
+   * first, which is what makes the trigger focusable again in time.
+   */
+  const nav = document.getElementById('mobile-nav');
+  const trigger = document.getElementById('mobile-nav-trigger');
+  const lead = document.getElementById('mobile-nav-lead');
+
+  nav?.addEventListener('toggle', (event) => {
+    const open = (event as ToggleEvent).newState === 'open';
+    trigger?.setAttribute('aria-expanded', String(open));
+    for (const el of document.body.children) {
+      if (el !== nav) el.toggleAttribute('inert', open);
+    }
+    (open ? lead : trigger)?.focus();
+  });
+
+  /* Search is the one link in here that never navigates: SearchPalette's own
+     document-level listener intercepts a click on `a[href="/search"]` and
+     opens the ⌘K dialog instead of loading a page. Left alone, that leaves
+     this panel open behind it — two top-layer surfaces stacked, two scrims.
+     Closing first is harmless on every other link, which is about to unload
+     the page anyway. */
+  nav?.addEventListener('click', (event) => {
+    if ((event.target as HTMLElement).closest('a')) nav.hidePopover();
+  });
+</script>
+
+<style>
+  /*
+   * The curtain rising, not a drawer sliding in: the same clip-path a page
+   * itself rises with under ::view-transition-new(root) in global.css,
+   * borrowed here for a menu. `overlay` and `display` are what let a
+   * `display: none` element transition at all — both are discrete properties,
+   * so both need `allow-discrete` or the browser has nothing to interpolate
+   * and simply snaps.
+   */
+  #mobile-nav {
+    clip-path: inset(100% 0 0 0);
+    opacity: 0;
+  }
+
+  #mobile-nav:popover-open {
+    clip-path: inset(0 0 0 0);
+    opacity: 1;
+  }
+
+  #mobile-nav::backdrop {
+    background-color: var(--color-scrim);
+    opacity: 0;
+  }
+
+  #mobile-nav:popover-open::backdrop {
+    opacity: 0.75;
+  }
+
+  /* Every transition the panel has lives inside this query, rather than
+     alongside a reduced-motion override elsewhere: with no transition
+     property at all, the open and closed states above still apply, they just
+     apply instantly, which is the correct reduced-motion behaviour rather
+     than an animation with its duration zeroed out. */
+  @media (prefers-reduced-motion: no-preference) {
+    #mobile-nav,
+    #mobile-nav::backdrop {
+      transition:
+        clip-path 0.5s var(--ease-stage),
+        opacity 0.4s var(--ease-stage),
+        overlay 0.5s var(--ease-stage) allow-discrete,
+        display 0.5s var(--ease-stage) allow-discrete;
+    }
+
+    @starting-style {
+      #mobile-nav:popover-open,
+      #mobile-nav:popover-open::backdrop {
+        clip-path: inset(100% 0 0 0);
+        opacity: 0;
+      }
+    }
+  }
+
+  /* The trigger's two bars, concentric in one grid cell so they need only
+     unshift and rotate to meet as a cross — kept off Tailwind's `group-open:`
+     variant, which asks for an `[open]` attribute no element here carries any
+     more. */
+  body:has(#mobile-nav:popover-open) .burger-bar-a {
+    translate: 0 0;
+    rotate: 45deg;
+  }
+
+  body:has(#mobile-nav:popover-open) .burger-bar-b {
+    translate: 0 0;
+    rotate: -45deg;
+  }
+</style>
