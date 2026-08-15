@@ -4,6 +4,7 @@ import SearchPalette from '@/components/SearchPalette.astro';
 import SiteFooter from '@/components/SiteFooter.astro';
 import SiteHeader from '@/components/SiteHeader.astro';
 import SiteNotice from '@/components/SiteNotice.astro';
+import { ldJson, SITE_NAME, siteGraph } from '@/lib/seo';
 import '@/styles/global.css';
 
 type Props = {
@@ -19,6 +20,12 @@ type Props = {
    * has one, so dropping it is the whole opt-out.
    */
   indexed?: boolean;
+  /** schema.org type for this page's own node: `CollectionPage`, `ContactPage`. */
+  pageType?: string;
+  /** This page's structured data, appended to the site's two standing nodes. */
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  /** Set by anything with a publication date; makes the page an OG article. */
+  published?: Date;
 };
 
 const {
@@ -27,10 +34,41 @@ const {
   section,
   where,
   indexed = true,
+  pageType = 'WebPage',
+  jsonLd = [],
+  published,
 } = Astro.props;
 
 const fullTitle =
   title === 'Alan Ayckbourn' ? title : `${title} — Alan Ayckbourn`;
+
+const canonical = new URL(Astro.url.pathname, Astro.site);
+
+/*
+ * One card for the whole site, not one per page.
+ *
+ * Per-page artwork was the obvious version and the wrong one: the only
+ * pictures this archive holds at share-card size are news heroes, and a third
+ * of those are the blog's own square logo — everything else is a 175px poster
+ * scan or a 350px thumbnail, which a link preview would either refuse or
+ * upscale into a smear. A designed card that says what the site is beats a
+ * blurred stamp of a programme cover, on every page.
+ */
+const card = new URL('/og.jpg', Astro.site);
+
+const graph = [
+  ...siteGraph(Astro.site),
+  {
+    '@type': pageType,
+    '@id': `${canonical.href}#webpage`,
+    url: canonical.href,
+    name: fullTitle,
+    description,
+    isPartOf: { '@id': new URL('/#website', Astro.site).href },
+    inLanguage: 'en-GB',
+  },
+  ...(Array.isArray(jsonLd) ? jsonLd : [jsonLd]),
+];
 
 /*
  * Cloudflare Web Analytics: pageviews, paths, referrers and countries, with no
@@ -56,7 +94,40 @@ const beacon = '2c00b113806842f59760032deb9adb21';
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <meta name="robots" content="noindex, nofollow" />
-    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <link rel="canonical" href={canonical} />
+
+    {/* The link preview, which on a site nobody may index is the whole of what
+        this metadata is for: this archive is sent to people, and what arrives
+        in a mail client or a message thread is built from these six lines. */}
+    <meta property="og:type" content={published ? 'article' : 'website'} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={card} />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Sir Alan Ayckbourn — ninety-two plays across sixty-seven years"
+    />
+    {
+      published && (
+        <meta
+          property="article:published_time"
+          content={published.toISOString()}
+        />
+      )
+    }
+    {/* The only twitter: tag worth writing. Every other one — title,
+        description, image — falls back to the og: tag of the same name, so a
+        second copy of all four is four lines that can disagree with each
+        other. This one has no og: equivalent and picks the large card. */}
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <script type="application/ld+json" is:inline set:html={ldJson(graph)} />
     {/* The original site's own icon: a black-and-white portrait of Alan, in the
         three sizes it publishes, each cut for the size it is shown at. Declared
         so no browser falls back to requesting /favicon.ico, which would 404 on

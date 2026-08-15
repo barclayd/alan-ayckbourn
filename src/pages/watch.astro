@@ -1,6 +1,7 @@
 ---
 import channel from '@/data/youtube.json';
 import Base from '@/layouts/Base.astro';
+import { itemList } from '@/lib/seo';
 
 /**
  * The archive's films: everything on Alan Ayckbourn's official YouTube channel,
@@ -53,6 +54,23 @@ const longDate = (iso: string) =>
    reading before you have decided to watch. */
 const paragraphs = (description: string) =>
   description.split(/\n{2,}/).filter(Boolean);
+
+/*
+ * The films as a list, and not as fifty-three VideoObjects.
+ *
+ * The rich version was written first and measured: with descriptions,
+ * durations, thumbnails and embed URLs it came to 42KB of JSON on a page whose
+ * first paint was already the latest on the site, and it cost a point and a
+ * half of Lighthouse on a phone across three runs each way — where the same
+ * treatment on /plays cost nothing. A list of what is here, pointing at where
+ * each film actually lives, says the true thing at a seventh of the size. The
+ * full description of a YouTube video is YouTube's to publish, and it does.
+ */
+const films = itemList(
+  Astro.site,
+  `Films from Alan Ayckbourn's official YouTube channel`,
+  videos.map((video) => ({ name: video.title, href: video.href })),
+);
 ---
 
 <Base
@@ -60,6 +78,8 @@ const paragraphs = (description: string) =>
   description={`${videos.length} films from Alan Ayckbourn's official YouTube channel — talks, slideshows and short documentaries by his archivist.`}
   section="Watch"
   indexed={false}
+  pageType="CollectionPage"
+  jsonLd={films}
 >
   <header class="bg-chrome pt-20 pb-16 text-chrome-ink">
     <div class="shell">

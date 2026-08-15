@@ -1,0 +1,164 @@
+---
+import { Font, getImage } from 'astro:assets';
+import stageSrc from '@/assets/stage-in-the-round-wide.webp';
+
+/**
+ * The share card, at the size every link preview crops to: 1200 × 630.
+ *
+ * A page rather than a drawing, so it can be re-cut when a fact on it changes:
+ * load it at 1200 × 630, screenshot it, and save the result as `public/og.jpg`.
+ * It is the one image a recipient sees before deciding whether to click, so it
+ * carries whose archive this is, how large, and whose research built it.
+ *
+ * ponytail: no satori, no @vercel/og, no canvas. The browser that renders every
+ * other page of this site can render this one, and it already has the fonts.
+ * Tokens are written out rather than imported from global.css — pulling the
+ * whole stylesheet in for six colours would put Tailwind on a page that ships
+ * no classes.
+ */
+const stage = await getImage({ src: stageSrc, width: 1200, quality: 82 });
+---
+
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <title>Share card</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <Font cssVariable="--font-display" preload />
+    <Font cssVariable="--font-body" preload />
+    <Font cssVariable="--font-ui" preload />
+    <style>
+      :root {
+        /* The light theme's chrome: house lights up, curtain down. Near-black
+           would be the safer card and the wrong one — this arrives in a mail
+           client beside a hundred other previews, and oxblood is the colour
+           this site owns. */
+        --chrome: #3d1015;
+        --ink: #f7f1e6;
+        --muted: #c9a8a4;
+        --rule: #6b272e;
+      }
+      * {
+        margin: 0;
+        box-sizing: border-box;
+      }
+      body {
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 68px 72px 56px;
+        background: var(--chrome);
+        color: var(--ink);
+        font-family: var(--font-ui);
+      }
+      /* The same photograph the site opens on, under the same two scrims: the
+         sideways one so the type keeps its contrast on the left and the round
+         is still a room on the right, the upward one because the floor is
+         brightest exactly where the smallest line sits. */
+      .stage {
+        position: absolute;
+        /* Past the frame, because a blur feathers the edges of its own image
+           and a soft border on a card is a rendering fault, not a vignette. */
+        inset: -3%;
+        width: 106%;
+        height: 106%;
+        object-fit: cover;
+        object-position: 50% 62%;
+        opacity: 0.45;
+        filter: blur(2.5px);
+      }
+      .scrim {
+        position: absolute;
+        inset: 0;
+      }
+      .scrim-side {
+        background: linear-gradient(
+          to right,
+          color-mix(in srgb, var(--chrome) 93%, transparent),
+          color-mix(in srgb, var(--chrome) 66%, transparent) 55%,
+          color-mix(in srgb, var(--chrome) 30%, transparent)
+        );
+      }
+      .scrim-up {
+        background: linear-gradient(
+          to top,
+          var(--chrome),
+          color-mix(in srgb, var(--chrome) 25%, transparent) 45%,
+          transparent
+        );
+      }
+      header,
+      .bill,
+      footer {
+        position: relative;
+      }
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+      }
+      .label {
+        font-size: 17px;
+        font-weight: 500;
+        letter-spacing: 0.25em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      h1 {
+        font-family: var(--font-display);
+        font-weight: 400;
+        font-size: 150px;
+        line-height: 0.9;
+        letter-spacing: 0.005em;
+        text-transform: uppercase;
+      }
+      .standfirst {
+        margin-top: 26px;
+        font-family: var(--font-body);
+        font-style: italic;
+        font-size: 34px;
+        line-height: 1.25;
+        color: var(--ink);
+      }
+      footer {
+        display: flex;
+        justify-content: space-between;
+        gap: 32px;
+        border-top: 1px solid var(--rule);
+        padding-top: 22px;
+      }
+      /* Tabular so the span reads as a run of dates rather than as words. */
+      .span {
+        font-variant-numeric: tabular-nums;
+      }
+    </style>
+  </head>
+  <body>
+    <img class="stage" src={stage.src} alt="" />
+    <div class="scrim scrim-side"></div>
+    <div class="scrim scrim-up"></div>
+
+    <header>
+      <p class="label">Playwright &middot; Director &middot; Scarborough</p>
+    </header>
+
+    <div class="bill">
+      <h1>Sir Alan<br />Ayckbourn</h1>
+      <p class="standfirst">
+        Ninety-two plays across sixty-seven years, and the archive that keeps
+        them.
+      </p>
+    </div>
+
+    <footer>
+      <p class="label span">1959 &mdash; 2026</p>
+      <p class="label">92 plays</p>
+      <p class="label">Research by Simon Murgatroyd</p>
+    </footer>
+  </body>
+</html>
