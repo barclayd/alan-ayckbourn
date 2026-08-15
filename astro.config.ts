@@ -3,6 +3,8 @@
 import { satteri } from '@astrojs/markdown-satteri';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig, fontProviders } from 'astro/config';
+import headingPlugin from './src/lib/headings.ts';
+import linkTextPlugin from './src/lib/linktext.ts';
 import prosePlugin from './src/lib/prose.ts';
 import timelinePlugin from './src/lib/timeline.ts';
 
@@ -30,13 +32,19 @@ export default defineConfig({
      the formats a browser would rather have. Nothing else is fetched from it,
      so this is not a general licence to hotlink. */
   image: { domains: ['pub-4c23c36058c0491eaa4d6d55c25b33de.r2.dev'] },
-  /* Astro's own processor, with two plugins added. Both read structure back out
-     of prose the original site had no styles to express: chronologies as
-     timelines, and quotations, archivist's notes and questions as themselves.
+  /* Astro's own processor, with four plugins added. All four read structure
+     back out of prose the original site had no styles to express: chronologies
+     as timelines, quotations and archivist's notes and questions as themselves,
+     subheads at the rank they actually hold rather than the one the old
+     software styled, and the sentence a link called "here" is the end of.
      Timeline first — it claims whole runs of paragraphs, and a paragraph it has
-     rebuilt into a timeline is no longer a paragraph for prose to look at. */
+     rebuilt into a timeline is no longer a paragraph for prose to look at. Link
+     text after both, so it reads the prose in its final shape. Headings are
+     independent of all three: none of them touches one. */
   markdown: {
-    processor: satteri({ hastPlugins: [timelinePlugin, prosePlugin] }),
+    processor: satteri({
+      hastPlugins: [timelinePlugin, prosePlugin, linkTextPlugin, headingPlugin],
+    }),
   },
   /*
    * `optimizedFallbacks: false` on every family: it makes Astro fetch a font
