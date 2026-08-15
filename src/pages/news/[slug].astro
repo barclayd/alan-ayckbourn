@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import Base from '@/layouts/Base.astro';
 
@@ -37,6 +38,15 @@ const neighbours = [
   { post: older, label: 'Older' },
 ].filter((n): n is { post: CollectionEntry<'news'>; label: string } =>
   Boolean(n.post),
+);
+
+/* The lead picture is capped at 26rem tall inside a 72rem shell, so no version
+   of it above ~1100px is ever displayed, however big the blog's original is.
+   Three steps below that so a phone is not sent a desktop file — collapsing to
+   one when the original is already a thumbnail, which most of them are. */
+const heroCap = Math.min(heroWidth ?? 0, 1100);
+const heroWidths = [400, 800, heroCap].filter(
+  (w, i, all) => w <= heroCap && all.indexOf(w) === i,
 );
 
 const longDate = date.toLocaleDateString('en-GB', {
@@ -86,15 +96,19 @@ const longDate = date.toLocaleDateString('en-GB', {
     {
       /* The featured image, where there is one: 153 of the 469 posts have one,
          and a third of the blog's are its own square logo, so it is a lead
-         picture when it exists rather than a slot the layout depends on.
-         Explicit dimensions because R2 serves it directly — there is no Astro
-         pipeline on a remote file, and no size means the text jumps. */
+         picture when it exists rather than a slot the layout depends on. It is
+         the largest thing above the fold, so it loads eagerly and at priority
+         — everything else on the page is text. */
       hero && (
-        <img
+        <Image
           src={hero}
           alt=""
           width={heroWidth}
           height={heroHeight}
+          widths={heroWidths}
+          sizes={`(min-width: 45rem) ${heroCap}px, 100vw`}
+          loading="eager"
+          fetchpriority="high"
           class="mb-12 max-h-[26rem] w-auto max-w-full rounded-sm outline outline-rule -outline-offset-1"
         />
       )

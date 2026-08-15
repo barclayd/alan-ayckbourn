@@ -66,8 +66,13 @@ const beacon = '2c00b113806842f59760032deb9adb21';
     <link rel="icon" href="/favicon-64.png" type="image/png" sizes="64x64" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 
+    {/* Only the upright body face is preloaded: the italic is a second 65KB
+        file, larger than the roman, and it sets the odd play title rather than
+        any paragraph — preloading it doubled the font payload on the critical
+        path to buy nothing above the fold. It still loads, just on its own
+        schedule. */}
     <Font cssVariable="--font-display" preload />
-    <Font cssVariable="--font-body" preload />
+    <Font cssVariable="--font-body" preload={[{ style: 'normal' }]} />
     <Font cssVariable="--font-ui" />
 
     <!-- Applied before first paint so the chosen theme never flashes, and so a
@@ -120,11 +125,19 @@ const beacon = '2c00b113806842f59760032deb9adb21';
       fallback: same result, one code path, works on every browser we support.
       ponytail: if this ever needs scrub-linked motion, that's when view()
       timelines earn their second code path.
-    -->
-    <script>
-      const revealed = document.querySelectorAll('[data-reveal]');
 
-      if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      Inline, and not a bundled module, because the CSS gate below holds every
+      marked element at opacity 0 until this runs — and on most pages the first
+      paragraph under the hero is marked. A deferred module put half a second
+      between the page painting and its largest text becoming visible, which is
+      exactly half a second of Largest Contentful Paint. Inline it runs as the
+      parser reaches it, so the first screenful is never held back.
+    -->
+    <script is:inline>
+      const revealed = document.querySelectorAll('[data-reveal]');
+      const still = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+      if (still) {
         for (const el of revealed) el.removeAttribute('data-reveal');
       } else {
         const io = new IntersectionObserver(
@@ -141,7 +154,7 @@ const beacon = '2c00b113806842f59760032deb9adb21';
             let n = 0;
             for (const { target, isIntersecting } of entries) {
               if (!isIntersecting) continue;
-              (target as HTMLElement).style.setProperty(
+              target.style.setProperty(
                 '--reveal-delay',
                 `${Math.min(n++, 6) * 0.05}s`,
               );
@@ -153,7 +166,17 @@ const beacon = '2c00b113806842f59760032deb9adb21';
              than 12% after — the difference between fading in and being late. */
           { rootMargin: '0px 0px 15% 0px' },
         );
-        for (const el of revealed) io.observe(el);
+        /* Nothing in the first screenful was scrolled to, so nothing there
+           fades in on arrival — it is simply the page, and it drops the gate
+           rather than transitioning through it. Reveal-on-scroll for content
+           nobody has scrolled to yet only delays the reading. */
+        for (const el of revealed) {
+          if (el.getBoundingClientRect().top < innerHeight) {
+            el.removeAttribute('data-reveal');
+          } else {
+            io.observe(el);
+          }
+        }
       }
     </script>
 

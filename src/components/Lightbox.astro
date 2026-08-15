@@ -100,7 +100,11 @@
       const img = group[index];
       if (!img) return;
       at = index;
-      image.src = img.currentSrc || img.src;
+      /* `data-full` where the page deliberately shows a downscaled copy — the
+         Instagram plates are set at four hundred pixels and shipped at four
+         hundred, so `currentSrc` there is a thumbnail. Enlarging a thumbnail is
+         the one thing this dialog exists not to do. */
+      image.src = img.dataset.full || img.currentSrc || img.src;
       image.alt = img.alt;
       /* The archive writes its credits as an italic paragraph under the image
          ("© Tony Bartholomew"), which is the caption it never marked up. A
