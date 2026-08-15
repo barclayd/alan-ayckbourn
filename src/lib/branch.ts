@@ -139,3 +139,10 @@ export function branch(all: Page[], id: string) {
  */
 export const isCurrent = (id: string, candidate: string) =>
   id === candidate || id.startsWith(`${candidate}/`);
+
+/**
+ * What a section is called once it is a stop on its parent's page rather than a
+ * page of its own. The folder name, which is unique among its siblings and is
+ * already the slug the reader saw in the address bar.
+ */
+export const anchorOf = (id: string) => id.slice(id.lastIndexOf('/') + 1);
