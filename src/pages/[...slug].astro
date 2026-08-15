@@ -443,8 +443,19 @@ if (isPlay) {
       }
 
       {
+        /* Each stop is named, so it is a landmark a screen reader can jump
+           between. That carries the spine the heading ranks used to: the
+           archive's subheads are re-ranked to the page each still has of its
+           own — see `headings.ts` — which on a merged page leaves a section's
+           own subheads level with the band introducing them. Nineteen stops
+           are worth finding without reading past them. */
         sections.map((section, i) => (
-          <section id={section.anchor} class="section-stop" data-stop>
+          <section
+            id={section.anchor}
+            class="section-stop"
+            aria-label={section.label}
+            data-stop
+          >
             {/* The stop announces itself the way the play's own head does, in the
                 same oxblood and the same face — so the scroll reads as a sequence
                 of title cards rather than one unbroken column of grey. */}

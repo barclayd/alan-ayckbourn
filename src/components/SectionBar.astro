@@ -37,10 +37,14 @@ const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
         data-bar
         data-pagefind-ignore
       >
+        {/* No `aria-label`. It read "Sections", which is none of the words on
+            the button — "In this play", the stop the reader is at, and how far
+            in it is — so voice control had nothing to say to press it and a
+            screen reader named it something the screen never did. The button's
+            own contents are the label, and they were already the right one. */}
         <button
           type="button"
           popovertarget="section-list"
-          aria-label="Sections"
           aria-expanded="false"
           id="section-list-trigger"
           class="shell flex w-full items-center gap-3 py-3 text-left"
