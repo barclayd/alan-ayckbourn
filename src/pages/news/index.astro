@@ -271,11 +271,16 @@ const noticeDate = (item: Bulletin) =>
                             {post.data.excerpt}
                           </p>
                           {post.data.hero && (
-                            <img
+                            /* 144px on screen, so 288 covers a retina phone and
+                               nothing wider is worth the bytes — the blog's own
+                               copies run to 1800px. */
+                            <Image
                               src={post.data.hero}
                               alt=""
                               width={post.data.heroWidth}
                               height={post.data.heroHeight}
+                              widths={[Math.min(post.data.heroWidth ?? 288, 288)]}
+                              sizes="144px"
                               loading="lazy"
                               decoding="async"
                               class="w-36 shrink-0 rounded-sm outline outline-rule -outline-offset-1 sm:ml-auto"

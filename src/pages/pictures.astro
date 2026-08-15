@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import Lightbox from '@/components/Lightbox.astro';
 import YearRail from '@/components/YearRail.astro';
 import feed from '@/data/instagram.json';
@@ -84,6 +85,21 @@ const linked = (line: string) =>
   );
 
 const pictures = posts.reduce((sum, post) => sum + post.pictures.length, 0);
+
+/*
+ * Instagram hands these over at 1080px and the plate sets them at 400. Shipping
+ * the original meant the first picture on the page — which is what the reader
+ * sees first, so it is what the score is measured on — arrived as 200KB for a
+ * 291px box. Two widths: 400 for the desktop column, 800 for a retina phone.
+ *
+ * The full-size file is not thrown away. Every plate keeps it in `data-full`,
+ * and the lightbox opens that rather than the copy on the page, so a picture
+ * looked at closely is still the picture the archivist posted.
+ */
+const PLATE_WIDTHS = [400, 800];
+
+/* The one picture above the fold: everything else waits to be scrolled to. */
+const first = posts[0];
 ---
 
 <Base
@@ -180,19 +196,23 @@ const pictures = posts.reduce((sum, post) => sum + post.pictures.length, 0);
                               : undefined
                           }
                         >
-                          {post.pictures.map((picture) => (
-                            <img
+                          {post.pictures.map((picture, index) => (
+                            <Image
                               src={picture.src}
                               width={picture.width}
                               height={picture.height}
+                              widths={PLATE_WIDTHS}
+                              sizes="(min-width: 64rem) 25rem, 100vw"
                               /* The caption is right there beside it and says
                                  what these are; Instagram supplied no alt text
                                  of its own, and inventing one would be worse
                                  than the figure this already sits in. */
                               alt=""
-                              loading="lazy"
+                              loading={post === first && index === 0 ? 'eager' : 'lazy'}
+                              fetchpriority={post === first && index === 0 ? 'high' : undefined}
                               decoding="async"
                               data-zoomable
+                              data-full={picture.src}
                             />
                           ))}
                         </div>
@@ -266,6 +286,19 @@ const pictures = posts.reduce((sum, post) => sum + post.pictures.length, 0);
    * page with a marker per entry. The marker sits on the rule rather than
    * beside it, so it is positioned against the border it interrupts.
    */
+  /*
+   * 404 plates is 8,300 elements, and the browser was laying out and styling
+   * every one of them before it painted the first — a third of a second of a
+   * phone's main thread spent on posts from 2022. Off-screen plates are skipped
+   * until they are scrolled near; `auto` on the intrinsic size means each one
+   * remembers its real height once measured, which matters here because these
+   * captions run from a line to two thousand words.
+   */
+  .plate {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 32rem;
+  }
+
   .plate-body {
     position: relative;
   }

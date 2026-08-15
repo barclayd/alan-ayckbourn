@@ -23,9 +23,13 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --font-display: "Anton", "Arial Narrow", sans-serif;
-  --font-body: "Newsreader", Georgia, serif;
-  --font-ui: "Inter", system-ui, sans-serif;
+  /* Names only. Astro's <Font> overrides all three with its own hashed family
+     plus the `fallbacks` declared in astro.config.ts, from an unlayered <style>
+     that outranks this whole layer — so a fallback list written here would
+     never be read. These exist to make Tailwind emit font-display/body/ui. */
+  --font-display: "Anton";
+  --font-body: "Newsreader";
+  --font-ui: "Inter";
 
   /* Chrome: flips with the theme via the vars below, except the two that don't. */
   --color-chrome: var(--chrome);

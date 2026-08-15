@@ -59,9 +59,15 @@ const decades = [
   >
     <div class="shell flex items-center gap-4">
       {/*
-        Hidden until the script unhides it: a sort button that cannot sort is
-        worse than no button. Without JS the page is still the whole oeuvre in
-        chronological order, which is the order that matters.
+        Hidden without JS: a sort button that cannot sort is worse than no
+        button. Without JS the page is still the whole oeuvre in chronological
+        order, which is the order that matters.
+
+        Gated on the `.js` class, which Base sets before first paint, rather
+        than on a `hidden` attribute the script clears afterwards. The
+        attribute version cost 0.32 of layout shift on this page alone: the
+        toolbar arrived one frame late, grew the sticky bar by 17px and pushed
+        all 137 cards down with it.
 
         One scrolling row rather than a wrapping block: ten chips wrap to three
         rows on a phone, and this bar is sticky — it would eat a third of the
@@ -72,7 +78,6 @@ const decades = [
       */}
       <div
         id="play-controls"
-        hidden
         class="flex min-w-0 flex-1 items-center gap-x-5 overflow-x-auto pb-0.5 [scrollbar-width:thin] max-sm:[mask-image:linear-gradient(to_right,black_calc(100%-2.5rem),transparent)]"
       >
         <div
@@ -141,6 +146,12 @@ const decades = [
   </section>
 </Base>
 
+<style is:global>
+  :root:not(.js) #play-controls {
+    display: none;
+  }
+</style>
+
 <style>
   /* Chips. Scoped rather than repeated across ten buttons in the markup. */
   button {
@@ -175,8 +186,6 @@ const decades = [
   const count = document.getElementById('play-count');
 
   if (toolbar && grid && count) {
-    toolbar.hidden = false;
-
     /* Sorting moves the real nodes, so tab order and screen-reader order stay
        the same as the visual order. CSS `order` would have desynced them. */
     const chronological = [...grid.children] as HTMLElement[];

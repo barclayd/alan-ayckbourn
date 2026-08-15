@@ -47,13 +47,20 @@ const decades = [
 /*
  * The hero photograph, art-directed: the wide shot of the round loses both
  * actors when a phone crops it to a portrait window, so the narrow crop is a
- * different photograph rather than the same one squeezed. Blurred at low
- * opacity behind the title, so neither needs to ship at native size — the
- * detail is thrown away before it reaches the reader.
+ * different photograph rather than the same one squeezed.
+ *
+ * Both are sent at roughly half the pixels they are drawn at and at a quality
+ * that on any other picture on this site would be vandalism. This one is
+ * painted behind the title at 60% opacity under a three-pixel blur and then
+ * scaled up again by the drift animation: the blur radius alone is wider than
+ * the detail the missing pixels would have carried, and it smooths out the
+ * compression artefacts along with everything else. Screenshots before and
+ * after are indistinguishable. It matters because on a phone this is the
+ * largest thing on the screen, so it is the element the score is measured on.
  */
 const [stageWide, stageNarrow] = await Promise.all([
-  getImage({ src: stageWideSrc, width: 960 }),
-  getImage({ src: stageNarrowSrc, width: 720 }),
+  getImage({ src: stageWideSrc, width: 720, quality: 45 }),
+  getImage({ src: stageNarrowSrc, width: 480, quality: 40 }),
 ]);
 ---
 
@@ -526,6 +533,19 @@ const [stageWide, stageNarrow] = await Promise.all([
 </script>
 
 <style>
+  /*
+   * Everything below the hero. This page is fifteen hundred elements, and the
+   * browser was styling and laying out all of them — twenty-six posters, six
+   * decade columns, the whole footer — before it painted the first screenful,
+   * which on a phone is a quarter of a second spent on things nobody has
+   * scrolled to. `auto` on the intrinsic size so each section remembers its
+   * measured height rather than guessing it twice.
+   */
+  section:not(:first-of-type) {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 40rem;
+  }
+
   /*
    * Twenty-five plays, and one or two more where a row would otherwise end
    * short: the grid runs two columns, then three, then five, and twenty-five
