@@ -1,5 +1,5 @@
 ---
-import { branchOf, isCurrent } from '@/lib/section';
+import { anchorOf, branchOf, isCurrent, printsOwnIndex } from '@/lib/section';
 
 /**
  * The section as a right-hand column, from `lg` up.
@@ -18,6 +18,25 @@ type Props = { id: string };
 
 const { id } = Astro.props;
 const { root, pages, nested } = await branchOf(id);
+
+/*
+ * Where a stop lives now. The head of the branch carries its sections in the
+ * page itself, so the rail points into it rather than away from it — and it
+ * points there from the sub-pages too, which is what turns the column from a
+ * list of destinations into a timeline of one continuous read.
+ *
+ * The catalogues are the exception, and it is the same exception the rail has
+ * always made: a page that lays out its own hundred children was never merged,
+ * so there is nothing on it to anchor to.
+ */
+const merged = root && !printsOwnIndex(pages.map((page) => page.label));
+const hrefFor = (pageId: string) =>
+  merged ? `/${root.id}#${anchorOf(pageId)}` : `/${pageId}`;
+
+/* On the head itself the stops are on this page and the marker tracks the
+   scroll. On a sub-page — where a search result or an old link lands — there is
+   nothing to track, so the rail marks the page the reader is on, as it did. */
+const spy = Boolean(merged) && id === root?.id;
 ---
 
 {
@@ -46,15 +65,37 @@ const { root, pages, nested } = await branchOf(id);
           </a>
         )}
 
-        <ul class="mt-5 border-rule border-l">
+        <ul
+          class="relative mt-5 border-rule border-l"
+          data-rail={spy || undefined}
+        >
+          {spy && (
+            <>
+              {/* The read so far, filled in behind the marker: the same hairline
+                  the column already stands on, in accent, drawn to the stop the
+                  reader is in. It is the one thing on the page that says how
+                  much of a play is left. */}
+              <span aria-hidden="true" class="rail-fill" />
+              {/* One marker that travels, rather than a tick that appears and
+                  disappears in fourteen places — the eye follows a thing that
+                  moves and only counts a thing that blinks. */}
+              <span aria-hidden="true" class="rail-marker" />
+            </>
+          )}
+
           {pages.map((page) => (
             <li>
               {/* Current page marked by a short accent rule pushed through the
                   column's own hairline — a bookmark tab in a page edge, and the
-                  same short-rule idiom that sits above the h2s. */}
+                  same short-rule idiom that sits above the h2s. On a merged page
+                  the travelling marker draws that tick instead, so the static
+                  one stands down. */}
               <a
-                href={`/${page.id}`}
-                aria-current={isCurrent(id, page.id) ? 'page' : undefined}
+                href={hrefFor(page.id)}
+                data-anchor={spy ? anchorOf(page.id) : undefined}
+                aria-current={
+                  !spy && isCurrent(id, page.id) ? 'page' : undefined
+                }
                 class="relative block py-2 pl-4 font-ui text-[0.78rem] leading-snug text-muted transition-colors before:absolute before:top-[0.95rem] before:-left-[0.4rem] before:hidden before:h-px before:w-[1.1rem] before:bg-accent hover:text-body aria-[current]:text-body aria-[current]:before:block"
               >
                 {page.label}
@@ -87,3 +128,179 @@ const { root, pages, nested } = await branchOf(id);
     </nav>
   )
 }
+
+<style>
+  /* Both sit on the column's own hairline, one pixel left of the list edge. */
+  .rail-fill,
+  .rail-marker {
+    position: absolute;
+    background: var(--color-accent);
+    pointer-events: none;
+  }
+
+  /* The per-link tick stands down where the travelling marker draws it: two
+     accent rules on the same stop is the bug the marker was meant to remove.
+     The `aria-current` colour change stays — that is what a screen reader and a
+     skimming eye both use. */
+  [data-rail] a::before {
+    display: none;
+  }
+
+  .rail-fill {
+    top: 0;
+    left: -1px;
+    width: 1px;
+    height: var(--rail-fill, 0);
+  }
+
+  /* The tick that crosses the rule, as on a current page — but there is one of
+     it and it moves. Hidden until the reader is actually inside a stop, so the
+     head of the page is not falsely marked as its first section. */
+  .rail-marker {
+    top: 0.95rem;
+    left: -0.4rem;
+    width: 1.1rem;
+    height: 1px;
+    translate: 0 var(--rail-y, 0);
+    opacity: 0;
+  }
+
+  [data-rail]:not([data-idle]) .rail-marker {
+    opacity: 1;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .rail-fill {
+      transition: height 0.5s var(--ease-stage);
+    }
+
+    .rail-marker {
+      transition:
+        translate 0.5s var(--ease-stage),
+        opacity 0.3s var(--ease-stage);
+    }
+  }
+</style>
+
+<script>
+  /*
+   * The rail as a scroll-spy over the stops built into the page.
+   *
+   * A scroll listener rather than an IntersectionObserver: what is wanted is
+   * "the last stop the reader has passed", and with sections taller than the
+   * viewport that is a question about positions, not about intersections — an
+   * observer answers it only through a band of rootMargin that goes quiet
+   * whenever a short final section never reaches the band. Sixteen rects behind
+   * a frame guard is cheaper than getting that wrong.
+   */
+  const rail = document.querySelector<HTMLElement>('[data-rail]');
+  const stops = [...document.querySelectorAll<HTMLElement>('[data-stop]')];
+
+  if (rail && stops.length > 0) {
+    const links = new Map(
+      stops.map((stop) => [
+        stop.id,
+        rail.querySelector<HTMLAnchorElement>(`a[data-anchor="${stop.id}"]`),
+      ]),
+    );
+
+    /* The rail's phone-sized half — see SectionBar. It asks the same question
+       the rail does, so it is answered once here rather than by a second
+       listener reading the same rects a frame later. */
+    const bar = document.querySelector<HTMLElement>('[data-bar]');
+    const barLabel = bar?.querySelector<HTMLElement>('[data-bar-label]');
+    const barCount = bar?.querySelector<HTMLElement>('[data-bar-count]');
+    const jumps = new Map(
+      stops.map((stop) => [
+        stop.id,
+        document.querySelector<HTMLAnchorElement>(`a[data-jump="${stop.id}"]`),
+      ]),
+    );
+
+    let current: string | null = null;
+    let frame = 0;
+
+    const update = () => {
+      frame = 0;
+
+      /* The reading line, two-fifths down the screen: a stop counts as the one
+         you are in once its band has climbed above the place you are reading,
+         not when it first appears at the bottom edge. */
+      const line = window.innerHeight * 0.4;
+      let active = '';
+      for (const stop of stops) {
+        if (stop.getBoundingClientRect().top <= line) {
+          active = stop.id;
+        }
+      }
+
+      if (active === current) {
+        return;
+      }
+      current = active;
+
+      for (const [id, link] of links) {
+        if (id === active) {
+          link?.setAttribute('aria-current', 'location');
+        } else {
+          link?.removeAttribute('aria-current');
+        }
+        const jump = jumps.get(id);
+        if (id === active) {
+          jump?.setAttribute('aria-current', 'location');
+        } else {
+          jump?.removeAttribute('aria-current');
+        }
+      }
+
+      const link = links.get(active);
+      if (link) {
+        rail.style.setProperty('--rail-y', `${link.offsetTop}px`);
+        rail.style.setProperty(
+          '--rail-fill',
+          `${link.offsetTop + link.offsetHeight}px`,
+        );
+      }
+      rail.toggleAttribute('data-idle', !active);
+
+      const index = stops.findIndex((stop) => stop.id === active);
+      if (bar) {
+        /* Before the first stop the bar says what the page holds; inside one it
+           says which. Nothing invents a name for the head of the page. */
+        if (barLabel) {
+          barLabel.textContent =
+            index < 0
+              ? `${stops.length} sections`
+              : (link?.textContent?.trim() ?? '');
+        }
+        if (barCount) {
+          barCount.textContent =
+            index < 0 ? '' : `${index + 1} / ${stops.length}`;
+        }
+        bar.style.setProperty(
+          '--bar-progress',
+          `${((index + 1) / stops.length) * 100}%`,
+        );
+      }
+
+      /* Silently, and by hash: the reader can copy what they are reading, and
+         refreshing puts them back in it. `replaceState` rather than `pushState`
+         so Back still leaves the play in one press instead of walking up
+         through every section of it. */
+      history.replaceState(
+        null,
+        '',
+        active ? `#${active}` : location.pathname,
+      );
+    };
+
+    addEventListener(
+      'scroll',
+      () => {
+        frame ||= requestAnimationFrame(update);
+      },
+      { passive: true },
+    );
+    update();
+  }
+</script>

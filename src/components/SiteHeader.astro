@@ -167,7 +167,7 @@ const groups = [
 <div
   id="mobile-nav"
   popover="auto"
-  class="fixed inset-0 m-0 flex h-dvh w-full max-w-none flex-col bg-chrome text-chrome-ink lg:hidden"
+  class="fixed inset-0 m-0 h-dvh w-full max-w-none flex-col bg-chrome text-chrome-ink lg:hidden"
 >
   <div
     class="shell flex h-14 shrink-0 items-center justify-between border-chrome-rule/70 border-b"
@@ -369,7 +369,14 @@ const groups = [
     opacity: 0;
   }
 
+  /* `display` belongs to the popover, not to a utility class: an author
+     `display: flex` beats the UA's `[popover]:not(:popover-open)` rule whatever
+     its specificity, which left the closed menu invisible but still laid out —
+     every link in the tab order, behind an opacity of zero. Setting it on the
+     open state only hands the closed state back to the platform, and it is what
+     gives the `display` transition below something to interpolate. */
   #mobile-nav:popover-open {
+    display: flex;
     clip-path: inset(0 0 0 0);
     opacity: 1;
   }

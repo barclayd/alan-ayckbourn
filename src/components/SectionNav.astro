@@ -1,5 +1,5 @@
 ---
-import { branchOf, isCurrent } from '@/lib/section';
+import { anchorOf, branchOf, isCurrent, printsOwnIndex } from '@/lib/section';
 
 /**
  * The same section list on phones and tablets, folded into a disclosure under
@@ -15,6 +15,14 @@ type Props = { id: string };
 
 const { id } = Astro.props;
 const { root, pages, nested } = await branchOf(id);
+
+/* Where a stop lives now — the head of the branch carries its sections in the
+   page itself, so this list points into it, exactly as the rail does. Kept in
+   step with SectionRail on purpose: the two are one list in two presentations,
+   and a reader who rotates the phone should not find them disagreeing. */
+const merged = root && !printsOwnIndex(pages.map((page) => page.label));
+const hrefFor = (pageId: string) =>
+  merged ? `/${root.id}#${anchorOf(pageId)}` : `/${pageId}`;
 ---
 
 {
@@ -63,7 +71,7 @@ const { root, pages, nested } = await branchOf(id);
           {pages.map((page) => (
             <li>
               <a
-                href={`/${page.id}`}
+                href={hrefFor(page.id)}
                 aria-current={isCurrent(id, page.id) ? 'page' : undefined}
                 class="relative block py-2 pl-4 font-ui text-[0.85rem] leading-snug text-muted transition-colors before:absolute before:top-[1rem] before:-left-[0.4rem] before:hidden before:h-px before:w-[1.1rem] before:bg-accent aria-[current]:text-body aria-[current]:before:block"
               >

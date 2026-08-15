@@ -3,10 +3,17 @@ import { Image } from 'astro:assets';
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import Facts from '@/components/Facts.astro';
 import Lightbox from '@/components/Lightbox.astro';
+import SectionBar from '@/components/SectionBar.astro';
 import SectionNav from '@/components/SectionNav.astro';
 import SectionRail from '@/components/SectionRail.astro';
 import Base from '@/layouts/Base.astro';
-import { branchOf, labelOf, printsOwnIndex } from '@/lib/section';
+import {
+  anchorOf,
+  branchOf,
+  labelOf,
+  printsOwnIndex,
+  RAIL_MAX,
+} from '@/lib/section';
 import { abs, breadcrumb } from '@/lib/seo';
 
 /**
@@ -34,15 +41,31 @@ export async function getStaticPaths() {
     childrenOf.set(parent, [...(childrenOf.get(parent) ?? []), entry]);
   }
 
+  const kidsOf = (id: string) =>
+    (childrenOf.get(id) ?? [])
+      .filter((child) => !owned.has(child.id))
+      .sort((a, b) => a.data.order - b.data.order);
+
   return all
     .filter((entry) => !owned.has(entry.id))
     .map((entry) => ({
       params: { slug: routeOf(entry.id) },
       props: {
         entry,
-        children: (childrenOf.get(entry.id) ?? [])
-          .filter((child) => !owned.has(child.id))
-          .sort((a, b) => a.data.order - b.data.order),
+        children: kidsOf(entry.id),
+        /* A section merged into this page keeps its own children as links —
+           Articles is one stop on the scroll and nine pieces underneath it, and
+           the rail only carries the stops. Built here for the same reason the
+           trail is: only getStaticPaths holds the whole collection. */
+        under: Object.fromEntries(
+          kidsOf(entry.id).map((child) => [
+            child.id,
+            kidsOf(child.id).map((kid) => ({
+              id: kid.id,
+              label: labelOf(kid, child.data.title),
+            })),
+          ]),
+        ),
         /* Ancestors, nearest last. Built here because only getStaticPaths holds
            the whole collection; the page itself sees one entry. */
         trail: entry.id
@@ -58,10 +81,11 @@ export async function getStaticPaths() {
 type Props = {
   entry: CollectionEntry<'archive'>;
   children: CollectionEntry<'archive'>[];
+  under: Record<string, { id: string; label: string }[]>;
   trail: { href: string; title?: string }[];
 };
 
-const { entry, children, trail } = Astro.props;
+const { entry, children, under, trail } = Astro.props;
 const { year, poster, facts } = entry.data;
 const { Content } = await render(entry);
 
@@ -89,7 +113,7 @@ const playNumber = facts?.['Play Number'];
  * a column for the rail, and a reserved column with nothing in it would narrow
  * the prose for nothing.
  */
-const { pages: siblings } = await branchOf(entry.id);
+const { root, pages: siblings } = await branchOf(entry.id);
 const showNav = siblings.length > 0;
 
 /* A play landing is often nothing but its data sheet once the facts are lifted
@@ -146,6 +170,40 @@ const isRail =
    page is for. "Contents" rather than "In this section", which is the name the
    list of the section's other pages already goes by a centimetre above it. */
 const showContents = printsOwnIndex([...labels.values()]);
+
+/*
+ * The section as one scroll.
+ *
+ * On the head of a branch — a play, or `life`, or `career` — the pages the rail
+ * lists are built into the page itself rather than linked out of it, so a reader
+ * who came for the history keeps going into the synopsis without deciding to.
+ * The rail becomes a scroll-spy over what is already here.
+ *
+ * Rail level only. What hangs below a stop stays a page of its own and is linked
+ * at the foot of its section: Absurd Person Singular is sixteen stops, and one
+ * of them is nine articles that are nobody's idea of a single scroll.
+ *
+ * Every one of these pages also stays where it was. Nothing 404s, no redirect
+ * table, and Pagefind goes on returning the sub-page rather than collapsing
+ * 1,900 results into 155 — which is why the prose here is `data-pagefind-ignore`
+ * and the sub-page keeps the index entry.
+ */
+const sections =
+  root?.id === entry.id && !showContents
+    ? await Promise.all(
+        children.map(async (child) => {
+          const kids = under[child.id] ?? [];
+          return {
+            anchor: anchorOf(child.id),
+            label: labels.get(child.id) ?? child.data.title,
+            /* A catalogue lists itself — see `printsOwnIndex`, which draws the
+               same line for the rail. Anything shorter is worth naming here. */
+            under: kids.length > RAIL_MAX ? [] : kids,
+            Content: (await render(child)).Content,
+          };
+        }),
+      )
+    : [];
 
 /*
  * The trail as data, and — on a play landing — the play itself.
@@ -264,7 +322,16 @@ if (isPlay) {
     )
   }
 
-  {showNav && <SectionNav id={entry.id} />}
+  {
+    /* The merged page tracks a scroll, so its phone-sized nav is the bar that
+       tracks it too; every other page keeps the disclosure. */
+    showNav &&
+      (sections.length > 0 ? (
+        <SectionBar id={entry.id} />
+      ) : (
+        <SectionNav id={entry.id} />
+      ))
+  }
 
   {/* Two columns from `lg`: the reading measure keeps its own width on the left
       and the section list takes the right edge, so a wide screen holds a page of
@@ -360,6 +427,63 @@ if (isPlay) {
           </div>
         )
       }
+
+      {
+        sections.map((section, i) => (
+          <section id={section.anchor} class="section-stop" data-stop>
+            {/* The stop announces itself the way the play's own head does, in the
+                same oxblood and the same face — so the scroll reads as a sequence
+                of title cards rather than one unbroken column of grey. */}
+            <div class="section-band">
+              <p
+                class="font-ui text-[0.62rem] uppercase tracking-[0.28em] text-chrome-muted tabular-nums"
+              >
+                {String(i + 1).padStart(2, '0')} / {String(sections.length).padStart(2, '0')}
+              </p>
+              <h2
+                class="mt-2 font-display text-[clamp(1.75rem,6vw,2.75rem)] uppercase leading-[0.95]"
+              >
+                {section.label}
+              </h2>
+            </div>
+
+            {/* Ignored by the index, not by the reader: this same prose is still
+                its own page, and that is the page a search should land on. */}
+            <div class="prose-archive mt-9" data-pagefind-ignore>
+              <section.Content />
+            </div>
+
+            {section.under.length > 0 && (
+              <nav
+                aria-label={`Pages in ${section.label}`}
+                class="mt-9"
+                data-pagefind-ignore
+              >
+                <ul class="border-rule border-t">
+                  {section.under.map((kid) => (
+                    <li>
+                      <a
+                        href={`/${kid.id}`}
+                        class="group flex items-baseline gap-4 border-rule border-b py-3.5 transition-colors hover:border-accent"
+                      >
+                        <span class="font-ui text-[0.85rem] leading-snug transition-colors group-hover:text-accent">
+                          {kid.label}
+                        </span>
+                        <span
+                          aria-hidden="true"
+                          class="ml-auto text-muted transition-transform duration-300 ease-stage group-hover:translate-x-1"
+                        >
+                          &rarr;
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+            )}
+          </section>
+        ))
+      }
     </div>
 
     {showNav && <SectionRail id={entry.id} />}
@@ -367,3 +491,45 @@ if (isPlay) {
 
   <Lightbox />
 </Base>
+
+<style>
+  /* Clear of both sticky bars, so an anchor lands under the chrome rather than
+     behind it. The phone carries the section bar as well as the header. */
+  .section-stop {
+    scroll-margin-top: 6.5rem;
+  }
+
+  @media (width >= 64rem) {
+    .section-stop {
+      scroll-margin-top: 5rem;
+    }
+  }
+
+  /*
+   * Edge to edge on a phone, where the shell's own padding is the only thing
+   * between the band and the screen. From `lg` it squares up with the column
+   * instead: the rail is sitting beside it, and a band running under the rail
+   * would be a band running under the thing that points at it.
+   */
+  .section-band {
+    margin-top: 4.5rem;
+    margin-inline: calc(var(--spacing) * -4);
+    padding: 2.5rem calc(var(--spacing) * 4);
+    background: var(--color-chrome);
+    color: var(--color-chrome-ink);
+  }
+
+  @media (width >= 40rem) {
+    .section-band {
+      margin-inline: calc(var(--spacing) * -6);
+      padding-inline: calc(var(--spacing) * 6);
+    }
+  }
+
+  @media (width >= 64rem) {
+    .section-band {
+      margin-inline: 0;
+      padding-inline: 2rem;
+    }
+  }
+</style>

@@ -1,0 +1,154 @@
+---
+import { anchorOf, branchOf } from '@/lib/section';
+
+/**
+ * Where the reader is, on a phone.
+ *
+ * The right-hand rail is a desktop thing — it needs a column of screen nobody
+ * has at 390px. But the page it points at is now the whole play, and a reader
+ * eight thousand words into it on a phone has no rail, no scrollbar worth
+ * reading and no way to tell whether the next thing is the synopsis or the last
+ * of the reviews. So the rail's two jobs come down to a bar: name the stop, and
+ * show how far in it is.
+ *
+ * The list itself opens as a full-screen popover — the same one the site nav
+ * uses, for the same reason. A section list is a place you go to leave, and a
+ * dropdown that shows four of fourteen makes leaving a scroll inside a scroll.
+ *
+ * Rendered only on a merged page, where there are stops for it to track; the
+ * sub-pages keep the disclosure in SectionNav.
+ */
+type Props = { id: string };
+
+const { id } = Astro.props;
+const { root, pages } = await branchOf(id);
+
+/* A play's sections and a life's are not the same kind of thing to a reader. */
+const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
+---
+
+{
+  root && pages.length > 0 && (
+    <>
+      {/* `top-14` is the site header's own height — see SiteHeader. */}
+      <nav
+        aria-label={`${root.data.title} sections`}
+        class="sticky top-14 z-30 border-rule border-b bg-surface/95 backdrop-blur-sm lg:hidden"
+        data-bar
+        data-pagefind-ignore
+      >
+        <button
+          type="button"
+          popovertarget="section-list"
+          aria-label="Sections"
+          class="shell flex w-full cursor-pointer items-center gap-3 py-3 text-left"
+        >
+          <span class="shrink-0 font-ui text-[0.6rem] uppercase tracking-[0.22em] text-accent">
+            {eyebrow}
+          </span>
+          {/* Set here so the bar reads correctly before the spy has run, and
+              before the page has been scrolled at all. */}
+          <span
+            class="truncate font-ui text-[0.8rem] leading-none"
+            data-bar-label
+          >
+            {pages.length} sections
+          </span>
+          <span
+            class="ml-auto shrink-0 font-ui text-[0.7rem] text-muted leading-none tabular-nums"
+            data-bar-count
+          />
+          <span
+            aria-hidden="true"
+            class="shrink-0 font-ui text-[0.7rem] text-muted leading-none"
+          >
+            &#9662;
+          </span>
+        </button>
+
+        {/* The read so far, on the bar's own bottom rule. */}
+        <span
+          aria-hidden="true"
+          class="-mb-px block h-px w-[var(--bar-progress,0)] bg-accent transition-[width] duration-500 ease-stage motion-reduce:transition-none"
+        />
+      </nav>
+
+      <div
+        id="section-list"
+        popover="auto"
+        data-pagefind-ignore
+        class="fixed inset-0 m-0 h-dvh w-full max-w-none flex-col bg-chrome text-chrome-ink lg:hidden"
+      >
+        <div class="shell flex h-14 shrink-0 items-center justify-between">
+          <p class="font-ui text-[0.62rem] uppercase tracking-[0.22em] text-chrome-muted">
+            {root.data.title}
+          </p>
+          <button
+            type="button"
+            popovertarget="section-list"
+            popovertargetaction="hide"
+            aria-label="Close"
+            class="-mr-2 grid size-11 cursor-pointer place-items-center rounded-full text-chrome-muted"
+          >
+            <span aria-hidden="true" class="text-xl leading-none">
+              &times;
+            </span>
+          </button>
+        </div>
+
+        <div class="shell flex-1 overflow-y-auto pb-8">
+          <ol class="divide-y divide-chrome-rule/50">
+            {pages.map((page, i) => (
+              <li>
+                <a
+                  href={`/${root.id}#${anchorOf(page.id)}`}
+                  data-jump={anchorOf(page.id)}
+                  class="flex items-baseline gap-4 py-3.5"
+                >
+                  <span class="w-6 shrink-0 font-ui text-[0.62rem] text-chrome-muted tabular-nums">
+                    {String(i + 1).padStart(2, '0')}
+                  </span>
+                  <span class="font-display text-lg uppercase leading-tight">
+                    {page.label}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </div>
+    </>
+  )
+}
+
+<style>
+  /* `display` belongs to the popover, not to a utility class: an author
+     `display: flex` beats the UA's `[popover]:not(:popover-open)` rule whatever
+     its specificity, and a closed list that is merely invisible is still a
+     screenful of links in the tab order. So it is set here, on the open state
+     only, and closed falls back to the platform's `display: none`. */
+  #section-list:popover-open {
+    display: flex;
+  }
+
+  /* The stop the reader is in, marked in the open list too — set by the same
+     spy that moves the rail's marker. */
+  #section-list a[aria-current] {
+    color: var(--color-chrome-accent);
+  }
+</style>
+
+<script>
+  /*
+   * Closing the list is the popover's own job everywhere except here: the links
+   * are same-page anchors, and a popover does not close when the page it is
+   * covering scrolls underneath it. Hide it first, then let the jump happen.
+   */
+  const list = document.getElementById('section-list');
+
+  list?.addEventListener('click', (event) => {
+    if ((event.target as HTMLElement).closest('a[data-jump]')) {
+      list.hidePopover();
+    }
+  });
+</script>
