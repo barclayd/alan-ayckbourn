@@ -177,6 +177,7 @@ const showContents = printsOwnIndex([...labels.values()]);
                 widths={[poster.width]}
                 sizes={`${poster.width}px`}
                 style={morph}
+                data-pagefind-meta="image[src]"
                 class="max-w-full rounded-[1px] shadow-2xl shadow-black/50"
               />
             </div>
@@ -185,6 +186,7 @@ const showContents = printsOwnIndex([...labels.values()]);
           <div class:list={[!poster && 'sm:col-span-2']}>
             <p
               class="animate-[rise-in_.6s_var(--ease-stage)_both] font-ui text-[0.7rem] uppercase tracking-[0.25em] text-chrome-muted"
+              data-pagefind-meta={year && `year:${year}`}
             >
               {playNumber ? `Play ${playNumber}` : 'The Archive'}
               {year && <span class="tabular-nums"> &middot; {year}</span>}
@@ -197,6 +199,7 @@ const showContents = printsOwnIndex([...labels.values()]);
             {synopsis && (
               <p
                 class="mt-6 max-w-[54ch] animate-[rise-in_.7s_var(--ease-stage)_.12s_both] text-chrome-muted"
+                data-pagefind-meta="synopsis"
                 set:html={synopsis.replace(/\*([^*]+)\*/g, '<em>$1</em>')}
               />
             )}

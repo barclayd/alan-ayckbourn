@@ -71,6 +71,20 @@ const { autofocus = false, id } = Astro.props;
   >
   </div>
 
+  {/* The works the query names, ahead of the writing about them. A play is the
+      only thing in the archive with a face — the poster the original site
+      published — so this is also the one place a result can be looked at rather
+      than read. Empty and hidden until a query names one. */}
+  <section data-search-featured class="mt-6" aria-labelledby={`${id}-works`} hidden>
+    <h2
+      id={`${id}-works`}
+      class="font-ui text-[0.65rem] uppercase tracking-[0.2em] text-accent"
+    >
+      From the plays
+    </h2>
+    <ol data-search-works class="mt-3 grid gap-2.5"></ol>
+  </section>
+
   <p
     data-search-status
     class="mt-6 font-ui text-xs uppercase tracking-[0.18em] text-muted"
@@ -98,6 +112,7 @@ const { autofocus = false, id } = Astro.props;
   type Result = {
     url: string;
     excerpt: string;
+    /** `title` and `trail` on every page; `image` and `year` on a play landing. */
     meta: Record<string, string>;
   };
   type Pagefind = {
@@ -142,8 +157,49 @@ const { autofocus = false, id } = Astro.props;
    */
   const FETCH = LIMIT * 4;
 
+  /** At most four works showcased: five is a shelf, and the answer is usually one. */
+  const WORKS = 4;
+
   const escape = (s: string) =>
     s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+  /** Comparable text: case, punctuation and the archive's ’ all fall away. */
+  const normal = (s: string) =>
+    s
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim();
+
+  /** A play's own page, not one of the fourteen underneath it. */
+  const isPlay = (url: string) => /^\/plays\/[^/]+\/?$/.test(url);
+
+  /*
+   * How well a result answers the question, applied on top of Pagefind's own
+   * ranking. BM25 reads a 200-word dispatch as denser than a play's page, so
+   * "How The Other Half Loves" returned a 2019 column about the play first and
+   * the play second. Two rules, both about titles rather than word counts: a
+   * page titled with the question is the answer to it, and where the work and
+   * the writing about the work are both titled that, the work comes first.
+   *
+   * Everything scoring 0 keeps the order Pagefind gave it — Array#sort is
+   * stable, so this promotes rather than re-ranks.
+   */
+  const rank = (r: Result, query: string) => {
+    const title = normal(r.meta.title ?? '');
+    const named = title.startsWith(query)
+      ? title === query
+        ? 3
+        : 2
+      : title.includes(query)
+        ? 1
+        : 0;
+    return named * 2 + (isPlay(r.url) ? 1 : 0);
+  };
+
+  /* A named play, whatever else matched. `jeeves` names `By Jeeves` without
+     opening it, so a title that merely contains the query still counts. */
+  const isWork = (r: Result, query: string) =>
+    isPlay(r.url) && rank(r, query) >= 3;
 
   function mount(root: HTMLElement) {
     const form = root.querySelector<HTMLFormElement>('[data-search-form]');
@@ -151,13 +207,69 @@ const { autofocus = false, id } = Astro.props;
     const facets = root.querySelector<HTMLElement>('[data-search-filters]');
     const status = root.querySelector<HTMLElement>('[data-search-status]');
     const list = root.querySelector<HTMLOListElement>('[data-search-results]');
-    if (!(form && input && facets && status && list)) return;
+    const shelf = root.querySelector<HTMLElement>('[data-search-featured]');
+    const works = root.querySelector<HTMLOListElement>('[data-search-works]');
+    if (!(form && input && facets && status && list && shelf && works)) return;
 
     let section: string | null = null;
     let timer: number;
     /* Every search is async and the user keeps typing, so a slow earlier query
        must not paint over a faster later one. */
     let latest = 0;
+
+    /*
+     * A showcased play: the poster on its mat, as the plays grid sets it, and
+     * the title in the display face beside it. `data-poster` is what the site's
+     * poster morph reads — the artwork travels from here into the page it opens
+     * rather than fading out under an identical copy fading in.
+     *
+     * The mat carries the year where no poster survives, which is what a card
+     * in the grid does: 92 plays, and not all of them were ever illustrated.
+     */
+    const workCard = (r: Result) => `<li>
+      <a href="${route(r.url)}" class="group grid grid-cols-[4rem_1fr] items-center gap-4 rounded-sm border border-rule bg-surface-raised p-3 transition-colors duration-300 hover:border-accent focus-visible:outline-offset-4 sm:grid-cols-[5rem_1fr] sm:gap-5 sm:p-4">
+        <span class="grid h-20 place-items-center rounded-[2px] bg-chrome-raised p-2 sm:h-24">
+          ${
+            r.meta.image
+              ? `<img src="${escape(r.meta.image)}" alt="" loading="lazy" data-poster
+                   class="max-h-full max-w-full rounded-[1px] shadow-lg shadow-black/40 transition-transform duration-500 ease-stage group-hover:-translate-y-0.5 group-hover:rotate-[1.2deg]" />`
+              : `<span aria-hidden="true" class="font-display text-2xl tabular-nums text-chrome-ink/25">${escape(r.meta.year ?? '—')}</span>`
+          }
+        </span>
+        <span class="min-w-0">
+          <span class="block font-display text-lg uppercase leading-tight transition-colors group-hover:text-accent sm:text-2xl">
+            ${escape(r.meta.title ?? 'Untitled')}
+          </span>
+          ${
+            r.meta.year
+              ? `<span class="mt-1 block font-ui text-[0.7rem] uppercase tracking-[0.15em] tabular-nums text-muted">${escape(r.meta.year)}</span>`
+              : ''
+          }
+          ${
+            /* The archive's own one-line pitch, two lines at most: the card is
+               a shelf edge, not the play's page. */
+            r.meta.synopsis
+              /* No `block`: `line-clamp` needs the `-webkit-box` display it sets. */
+              ? `<span class="mt-1.5 line-clamp-2 max-w-[52ch] text-sm leading-snug text-muted">${escape(r.meta.synopsis)}</span>`
+              : ''
+          }
+        </span>
+      </a>
+    </li>`;
+
+    const row = (r: Result) => `<li>
+      <a href="${route(r.url)}" class="group block py-5 focus-visible:outline-offset-4">
+        ${
+          r.meta.trail
+            ? `<p class="font-ui text-[0.65rem] uppercase tracking-[0.18em] text-muted">${escape(r.meta.trail)}</p>`
+            : ''
+        }
+        <p class="mt-1 font-display text-xl uppercase leading-tight transition-colors group-hover:text-accent">
+          ${escape(r.meta.title ?? 'Untitled')}
+        </p>
+        <p class="mt-1.5 max-w-[70ch] text-sm leading-relaxed text-muted">${r.excerpt}</p>
+      </a>
+    </li>`;
 
     const render = (results: Result[], total: number, query: string) => {
       status.textContent = total
@@ -174,40 +286,37 @@ const { autofocus = false, id } = Astro.props;
        * for all several hundred matches to find out how many are distinct.
        */
       const seen = new Set<string>();
-      list.innerHTML = results
-        .filter((r) => {
-          const key = `${r.meta.trail}|${r.meta.title}`;
-          if (seen.has(key)) {
-            return false;
-          }
-          seen.add(key);
-          return true;
-        })
+      const found = results.filter((r) => {
+        const key = `${r.meta.trail}|${r.meta.title}`;
+        if (seen.has(key)) {
+          return false;
+        }
+        seen.add(key);
+        return true;
+      });
+
+      const q = normal(query);
+      const ranked = found.sort((a, b) => rank(b, q) - rank(a, q));
+      const shown = ranked.filter((r) => isWork(r, q)).slice(0, WORKS);
+
+      shelf.hidden = shown.length === 0;
+      works.innerHTML = shown.map(workCard).join('');
+      /* The showcased plays are not repeated in the list below it. */
+      list.innerHTML = ranked
+        .filter((r) => !shown.includes(r))
         .slice(0, LIMIT)
-        .map(
-          (r) => `<li>
-            <a href="${route(r.url)}" class="group block py-5 focus-visible:outline-offset-4">
-              ${
-                r.meta.trail
-                  ? `<p class="font-ui text-[0.65rem] uppercase tracking-[0.18em] text-muted">${escape(r.meta.trail)}</p>`
-                  : ''
-              }
-              <p class="mt-1 font-display text-xl uppercase leading-tight transition-colors group-hover:text-accent">
-                ${escape(r.meta.title ?? 'Untitled')}
-              </p>
-              <p class="mt-1.5 max-w-[70ch] text-sm leading-relaxed text-muted">${r.excerpt}</p>
-            </a>
-          </li>`,
-        )
+        .map(row)
         .join('');
     };
 
-    const run = async () => {
+    const run = async (animate = false) => {
       const query = input.value.trim();
       const token = ++latest;
 
       if (!query) {
         list.innerHTML = '';
+        works.innerHTML = '';
+        shelf.hidden = true;
         facets.hidden = true;
         status.textContent = '';
         return;
@@ -232,11 +341,23 @@ const { autofocus = false, id } = Astro.props;
       );
       if (token !== latest) return;
 
-      render(results, search.results.length, query);
-      /* `totalFilters`, not `filters`: the latter reports 0 for every section the
-         chosen filter excludes, so the row would collapse to one pill the moment
-         a section was picked — no way to switch, no way back to everything. */
-      drawFacets(search.totalFilters.Section ?? {});
+      const paint = () => {
+        render(results, search.results.length, query);
+        /* `totalFilters`, not `filters`: the latter reports 0 for every section
+           the chosen filter excludes, so the row would collapse to one pill the
+           moment a section was picked — no way to switch, no way back to
+           everything. */
+        drawFacets(search.totalFilters.Section ?? {});
+      };
+
+      /* Choosing a section rebuilds the whole list at once, which without this
+         is a flicker. Typing does not: a cross-fade on every keystroke is the
+         list arriving late, over and over. */
+      if (animate && document.startViewTransition) {
+        document.startViewTransition(paint);
+      } else {
+        paint();
+      }
     };
 
     const drawFacets = (counts: Record<string, number>) => {
@@ -273,7 +394,7 @@ const { autofocus = false, id } = Astro.props;
       );
       if (!pill) return;
       section = pill.dataset.facet || null;
-      run();
+      run(true);
     });
 
     /*
@@ -283,7 +404,13 @@ const { autofocus = false, id } = Astro.props;
      */
     root.addEventListener('keydown', (event) => {
       if (event.key !== 'ArrowDown' && event.key !== 'ArrowUp') return;
-      const links = [...list.querySelectorAll<HTMLAnchorElement>('a')];
+      /* Both lists, in document order: the showcased plays are the first thing
+         the down arrow should reach, because they are the first thing shown. */
+      const links = [
+        ...root.querySelectorAll<HTMLAnchorElement>(
+          '[data-search-works] a, [data-search-results] a',
+        ),
+      ];
       if (!links.length) return;
       event.preventDefault();
       const at = links.indexOf(document.activeElement as HTMLAnchorElement);
