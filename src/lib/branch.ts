@@ -1,12 +1,18 @@
 /**
  * Which pages the section list shows, and what to call them.
  *
- * Plain JavaScript so the rules can be tested against fixtures — `siblings.ts`
- * is the wrapper that hands them the collection.
- *
- * @typedef {{ id: string, body?: string, data: { title: string, order: number } }} Page
- * @typedef {{ id: string, label: string }} Link
+ * Kept apart from the collection so the rules can be tested against fixtures —
+ * `section.ts` is the wrapper that hands them the real thing.
  */
+
+/** As much of an archive entry as any of these rules looks at. */
+export type Page = {
+  id: string;
+  body?: string;
+  data: { title: string; order: number };
+};
+
+export type Link = { id: string; label: string };
 
 /**
  * The most pages the section list will carry.
@@ -32,10 +38,9 @@ export const RAIL_MAX = 20;
  * is somebody's actual title ("Stephen Joseph: The Man Who Inspired Alan
  * Ayckbourn") and is left alone.
  *
- * @param {Page} entry
- * @param {string} [parent] the parent page's title
+ * `parent` is the parent page's title.
  */
-export const labelOf = (entry, parent) => {
+export const labelOf = (entry: Page, parent?: string) => {
   const title = entry.data.title;
   if (!parent) {
     return title;
@@ -56,19 +61,15 @@ export const labelOf = (entry, parent) => {
  *
  * Asked of the same labels in both places, so a page's children are listed once
  * and in one shape.
- *
- * @param {string[]} labels
  */
-export const printsOwnIndex = (labels) =>
+export const printsOwnIndex = (labels: string[]) =>
   labels.length > RAIL_MAX ||
   (labels.length > 6 && labels.every((label) => label.length <= 5));
 
 /**
  * The pages filed one level under `id`, in the archive's own order.
- * @param {Page[]} all
- * @param {string} id
  */
-const under = (all, id) =>
+const under = (all: Page[], id: string) =>
   all
     .filter(
       (entry) =>
@@ -77,12 +78,7 @@ const under = (all, id) =>
     )
     .sort((a, b) => a.data.order - b.data.order);
 
-/**
- * @param {Page[]} all
- * @param {string} id
- * @returns {Link[]}
- */
-const linksTo = (all, id) => {
+const linksTo = (all: Page[], id: string): Link[] => {
   const parent = all.find((entry) => entry.id === id)?.data.title;
   return under(all, id).map((entry) => ({
     id: entry.id,
@@ -104,11 +100,8 @@ const linksTo = (all, id) => {
  * the right-hand column", and what they mean by it is that page's children. A
  * column of siblings alone would leave every one of those sentences pointing at
  * the wrong list.
- *
- * @param {Page[]} all
- * @param {string} id
  */
-export function branch(all, id) {
+export function branch(all: Page[], id: string) {
   const segments = id.split('/');
 
   /* A play is its own section — `plays/woman-in-mind` has fourteen pages under
@@ -125,7 +118,7 @@ export function branch(all, id) {
      centimetre apart says nothing the once did not. A leaf directly under the
      head is already in `pages` for the same reason, so it opens nothing and
      falls back to the section around it. */
-  let nested = /** @type {Link[]} */ ([]);
+  let nested: Link[] = [];
   if (id !== rootId) {
     if (own.length > 0) {
       nested = printsOwnIndex(own.map((link) => link.label)) ? [] : own;
@@ -143,8 +136,6 @@ export function branch(all, id) {
 
 /**
  * True for the page itself and for anything filed beneath it.
- * @param {string} id
- * @param {string} candidate
  */
-export const isCurrent = (id, candidate) =>
+export const isCurrent = (id: string, candidate: string) =>
   id === candidate || id.startsWith(`${candidate}/`);

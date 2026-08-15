@@ -129,7 +129,7 @@ play / decade / section. A genuine upgrade on the current search, which mostly p
 Deliberately: real content early, so no design work happens against lorem ipsum.
 
 ### Phase 1 — Scraper + thin slice
-`scripts/scrape.mjs` (Node, `cheerio` + `turndown` with custom rules):
+`scripts/scrape.ts` (Node, `cheerio` + `turndown` with custom rules):
 1. Discover subdomains from the plays index → fetch each `sitemap.xml`.
 2. Per page: extract `#content`, strip Stacks wrapper divs and inline styles.
 3. Normalise: `<br><br>` → paragraphs, `font-weight:bold` spans → `**strong**`, keep `em` and links.

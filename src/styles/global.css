@@ -743,7 +743,7 @@
   }
 
   /*
-   * Timelines, from the chronology pages src/lib/timeline.mjs rebuilds.
+   * Timelines, from the chronology pages src/lib/timeline.ts rebuilds.
    *
    * The dateline hangs outside the measure, which is what a chronology wants: the
    * years run down their own margin and the entries keep a full line. It can,

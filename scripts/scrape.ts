@@ -4,9 +4,9 @@
  * content-collection Markdown.
  *
  * Usage:
- *   node scripts/scrape.mjs                 # sample: 5 plays + Life + Career
- *   node scripts/scrape.mjs --all           # every play subdomain
- *   node scripts/scrape.mjs --sites=biography,relativelyspeaking
+ *   node scripts/scrape.ts                 # sample: 5 plays + Life + Career
+ *   node scripts/scrape.ts --all           # every play subdomain
+ *   node scripts/scrape.ts --sites=biography,relativelyspeaking
  *
  * Every fetch is cached under .cache/scrape/ and rate-limited: this hits
  * someone else's Apache box, so scrape once and iterate on the cache.
@@ -14,7 +14,9 @@
 
 import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
+import type { Cheerio, CheerioAPI } from 'cheerio';
 import { load } from 'cheerio';
+import type { AnyNode } from 'domhandler';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const CACHE = join(ROOT, '.cache/scrape');
@@ -37,12 +39,12 @@ const DOMAIN = 'alanayckbourn.net';
  * — correct for the site's chrome and for anything the archive captions itself
  * (see `hasCaption`), and `imagesWithoutAlt` names whatever else is waiting.
  */
-const ALT = JSON.parse(
+const ALT: Record<string, string> = JSON.parse(
   await readFile(new URL('./alt.json', import.meta.url), 'utf8'),
 );
 
 /** `[` and `]` end the alt text in `![...](src)`; nothing else in it is special. */
-const altFor = (src) =>
+const altFor = (src: string) =>
   (ALT[src.slice(src.lastIndexOf('/') + 1)] ?? '').replace(
     /([[\]\\])/g,
     '\\$1',
@@ -66,7 +68,7 @@ const CREDIT_ONLY =
  * Checked against the finished markdown rather than the source DOM, so a
  * caption the block filtering dropped cannot be claimed as a description.
  */
-const hasCaption = (body, name) => {
+const hasCaption = (body: string, name: string) => {
   const lines = body.split('\n');
   const at = lines.findIndex((line) => line.includes(name));
   const next =
@@ -81,7 +83,7 @@ const hasCaption = (body, name) => {
 };
 
 // Subdomains that are sections of the main site rather than plays.
-const SECTION_SITES = {
+const SECTION_SITES: Record<string, string> = {
   biography: 'life',
   careers: 'career',
   encyclopedia: 'encyclopaedia',
@@ -91,7 +93,7 @@ const SECTION_SITES = {
 
 // Sites the plays index never lists, reached only by following links from
 // inside the archive. `advocates` alone is 83 pages of advocacy writing.
-const EXTRA_SITES = {
+const EXTRA_SITES: Record<string, string> = {
   advocates: 'career/advocates',
   recordings: 'career/recordings',
   artisticdirector: 'career/artistic-director',
@@ -109,7 +111,7 @@ const EXTRA_SITES = {
  * because two plays really are one site, and each play still needs its own
  * place on the index.
  */
-const HOST_ALIASES = {
+const HOST_ALIASES: Record<string, string> = {
   interviews: 'research',
   sevendeadlyvirtues: 'the7deadlyvirtues',
 };
@@ -126,7 +128,7 @@ const HOST_ALIASES = {
  * A heading correction, not a content one: each replacement is a phrase the
  * archive uses for that page's own subject elsewhere on the site.
  */
-const TITLE_FIXES = {
+const TITLE_FIXES: Record<string, string> = {
   'http://advocates.alanayckbourn.net/': 'Advocates',
   'http://recordings.alanayckbourn.net/':
     'Recordings & Adaptations in Other Media',
@@ -144,18 +146,26 @@ const SAMPLE_PLAYS = [
 ];
 
 const args = process.argv.slice(2);
-const flag = (name) =>
+const flag = (name: string) =>
   args.find((a) => a.startsWith(`--${name}=`))?.split('=')[1];
 
 /* ------------------------------------------------------------------ fetching */
 
 let lastFetch = 0;
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 /** Subdomains have no valid TLS cert — only www serves https. */
-const httpUrl = (u) => u.replace(/^https:\/\/(?!www\.)/, 'http://');
+const httpUrl = (u: string) => u.replace(/^https:\/\/(?!www\.)/, 'http://');
 
-async function fetchCached(url, { binary = false } = {}) {
+async function fetchCached(url: string): Promise<string>;
+async function fetchCached(
+  url: string,
+  options: { binary: true },
+): Promise<Buffer>;
+async function fetchCached(
+  url: string,
+  { binary = false } = {},
+): Promise<string | Buffer> {
   const u = new URL(httpUrl(url));
   const path = join(
     CACHE,
@@ -163,7 +173,7 @@ async function fetchCached(url, { binary = false } = {}) {
     u.pathname.endsWith('/') ? `${u.pathname}index` : u.pathname,
   );
   try {
-    return await readFile(path, binary ? null : 'utf8');
+    return binary ? await readFile(path) : await readFile(path, 'utf8');
   } catch {
     // not cached yet
   }
@@ -194,7 +204,7 @@ async function fetchCached(url, { binary = false } = {}) {
 
 /* -------------------------------------------------------------- url → route */
 
-const slugify = (s) =>
+const slugify = (s: string) =>
   s
     .normalize('NFKD')
     .replace(/[\u0300-\u036f\u2018\u2019\u201c\u201d'"]/g, '')
@@ -212,7 +222,7 @@ const slugify = (s) =>
  * the decoded name Astro hunts for disagree and the build dies over a file
  * sitting right there. One spelling in both places.
  */
-const fileName = (url) => {
+const fileName = (url: string) => {
   const raw = decodeURIComponent(url.split('/').pop() ?? '');
   const dot = raw.lastIndexOf('.');
   const ext = dot > 0 ? raw.slice(dot).toLowerCase() : '';
@@ -220,8 +230,8 @@ const fileName = (url) => {
 };
 
 /** Strips query/hash and normalises to a trailing-slash-or-file path. */
-function normalise(href, base) {
-  let u;
+function normalise(href: string, base?: string) {
+  let u: URL;
   try {
     u = new URL(href, base);
   } catch {
@@ -243,10 +253,10 @@ function normalise(href, base) {
   return u.toString();
 }
 
-const escapeRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-const hostOf = (url) => new URL(url).hostname;
-const subdomain = (host) => host.replace(`.${DOMAIN}`, '');
-const isInternal = (url) => hostOf(url).endsWith(DOMAIN);
+const escapeRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const hostOf = (url: string) => new URL(url).hostname;
+const subdomain = (host: string) => host.replace(`.${DOMAIN}`, '');
+const isInternal = (url: string) => hostOf(url).endsWith(DOMAIN);
 
 /** The old PHP mailer's four wrappers: general, copyright, memories, one spare. */
 const CONTACT_FORM = /(^|\/)contact-form(-\d+)?\//;
@@ -268,7 +278,7 @@ const DOCUMENT = /\.(pdf|docx?|rtf|zip)$/i;
  * Please don't fill this in" — four times over. Anything without an extension is
  * a directory, which is how most of the site is published.
  */
-const isPage = (url) => {
+const isPage = (url: string) => {
   const u = new URL(url);
   if (CONTACT_FORM.test(u.pathname)) {
     return false;
@@ -278,7 +288,7 @@ const isPage = (url) => {
 };
 
 /** The containing directory of a page URL, or null at the site root. */
-function parentOf(url) {
+function parentOf(url: string) {
   const u = new URL(url);
   const parts = u.pathname.split('/').filter(Boolean);
   if (!parts.length) {
@@ -289,7 +299,7 @@ function parentOf(url) {
 }
 
 /** Path segments of a page URL, dropping the trailing filename's extension. */
-function segments(url) {
+function segments(url: string) {
   const parts = new URL(url).pathname.split('/').filter(Boolean);
   const last = parts.at(-1);
   if (last?.includes('.')) {
@@ -338,6 +348,9 @@ const SHEET_LINE = /^[○◦•\s]*[A-Z][A-Za-z'’ ]{1,28}:\s+\S/;
  */
 const PROSE = /[a-z0-9)'"’”][.!?][)'"’”]?\s+[A-Z(‘“'"]/;
 
+/** One line of a column, flagged if every word of it is bold. */
+type Line = { text: string; bold: boolean };
+
 /**
  * A column's `<br>`-separated lines, each flagged if all of its text is bold.
  * Read before clean() rewrites them, so bold is still a style on a <span>.
@@ -346,14 +359,20 @@ const PROSE = /[a-z0-9)'"’”][.!?][)'"’”]?\s+[A-Z(‘“'"]/;
  * row: that is what lets a three-column table pair its outer column against
  * the two inner ones.
  */
-function brLines($, column, { blanks = false } = {}) {
-  const lines = [{ text: '', bold: true }];
-  const walk = (node, bold) => {
+function brLines(
+  $: CheerioAPI,
+  column: AnyNode | undefined,
+  { blanks = false } = {},
+): Line[] {
+  const lines: Line[] = [{ text: '', bold: true }];
+  /** The line still being filled. Always there: the list starts with one. */
+  const open = () => lines[lines.length - 1];
+  const walk = (node: AnyNode | undefined, bold: boolean) => {
     for (const n of $(node).contents().toArray()) {
       if (n.type === 'text') {
-        lines.at(-1).text += n.data;
+        open().text += n.data;
         if (n.data.trim()) {
-          lines.at(-1).bold &&= bold;
+          open().bold &&= bold;
         }
       } else if (n.type === 'tag' && n.tagName === 'br') {
         lines.push({ text: '', bold: true });
@@ -374,8 +393,8 @@ function brLines($, column, { blanks = false } = {}) {
         const rows = Math.max(labels.length, values.length);
         for (let i = 0; i < rows; i++) {
           if (labels[i]) {
-            lines.at(-1).text += labels[i].text;
-            lines.at(-1).bold &&= labels[i].bold;
+            open().text += labels[i].text;
+            open().bold &&= labels[i].bold;
           }
           if (i < rows - 1) {
             lines.push({ text: '', bold: true });
@@ -406,7 +425,7 @@ function brLines($, column, { blanks = false } = {}) {
 }
 
 /** Drops the empty entries at both ends of a list, keeping the interior ones. */
-function trimBlanks(list, textOf) {
+function trimBlanks<T>(list: T[], textOf: (item: T) => string) {
   let start = 0;
   let end = list.length;
   while (start < end && !textOf(list[start])) {
@@ -423,7 +442,7 @@ function trimBlanks(list, textOf) {
  * child, since the break a previous pass added sits inside the wrapper, not
  * beside it — and a second break would read as a paragraph split.
  */
-function endsWithBreak($, el) {
+function endsWithBreak($: CheerioAPI, el: AnyNode): boolean {
   const last = $(el)
     .contents()
     .toArray()
@@ -438,7 +457,7 @@ function endsWithBreak($, el) {
   return last.type === 'tag' && endsWithBreak($, last);
 }
 
-function clean($) {
+function clean($: CheerioAPI) {
   const content = $('#content');
   content
     .find('script, style, noscript, .contentSpacer, .clear, .clearer')
@@ -661,16 +680,16 @@ const LINE_BREAK = /((?:<br>\s*)+)/;
  * marker on the next, which is nineteen years of the careers timeline in a
  * single unclosed bold run.
  */
-function emphasise(inner, marker) {
+function emphasise(inner: string, marker: string): string {
   if (LINE_BREAK.test(inner)) {
     return inner
       .split(LINE_BREAK)
       .map((part, i) => (i % 2 ? part : emphasise(part, marker)))
       .join('');
   }
-  const [, before, text, after] = inner.match(
-    /^((?:\s|<br>)*)([\s\S]*?)((?:\s|<br>)*)$/,
-  );
+  /* Everything is optional in it, so it matches; the defaults are for TypeScript. */
+  const [, before = '', text = '', after = ''] =
+    inner.match(/^((?:\s|<br>)*)([\s\S]*?)((?:\s|<br>)*)$/) ?? [];
   // Italicising a lone full stop is meaningless and produces `****` collisions.
   if (!text.trim() || /^[\s.,;:!?'"()‘’“”–—-]+$/.test(text)) {
     return inner;
@@ -678,7 +697,7 @@ function emphasise(inner, marker) {
   return `${before}${marker}${text}${marker}${after}`;
 }
 
-const escapeMd = (text) =>
+const escapeMd = (text: string) =>
   text
     .replace(/[\u00a0\u2007\u202f\u2028\u2029]/g, ' ')
     .replace(/\s+/g, ' ')
@@ -693,10 +712,20 @@ const escapeMd = (text) =>
 const CELL = '<td>';
 
 /**
+ * Where a link or an image in the source points once it is ours: the route to
+ * write, or null for a link to drop. `image` takes the element rather than its
+ * src, because `data-described` decides whether the image is on the review list.
+ */
+type Links = {
+  (href: string): string | null;
+  image: (node: AnyNode) => string;
+};
+
+/**
  * The rows of a table clean() found drawn as two columns — one array of cells
  * per row.
  */
-function zipRows($, node, links) {
+function zipRows($: CheerioAPI, node: AnyNode, links: Links) {
   /* A table whose columns line up on their blank lines, not on their content:
      see the `padded` branch in clean(). Dropping the blanks there would shift
      every row after the first gap. */
@@ -722,7 +751,7 @@ function zipRows($, node, links) {
  * for columns: `**label** value`. It reads down a phone, which two columns of
  * names never did, and the bold carries the key.
  */
-const pairLine = (cells) =>
+const pairLine = (cells: string[]) =>
   cells
     .map((cell, i) =>
       i || !cell || cell.includes('**') ? cell : `**${cell}**`,
@@ -731,7 +760,7 @@ const pairLine = (cells) =>
     .join(' ');
 
 /** Serialises one node, keeping `<br>` as a marker for the block split. */
-function inlineNode($, n, links) {
+function inlineNode($: CheerioAPI, n: AnyNode, links: Links): string {
   if (n.type === 'text') {
     return escapeMd(n.data);
   }
@@ -800,7 +829,7 @@ function inlineNode($, n, links) {
 }
 
 /** Serialises a node's children. */
-function inlineMd($, node, links) {
+function inlineMd($: CheerioAPI, node: AnyNode | undefined, links: Links) {
   return $(node)
     .contents()
     .toArray()
@@ -809,7 +838,7 @@ function inlineMd($, node, links) {
 }
 
 /** `<br><br>` is how Stacks writes a paragraph break; a single one is a line break. */
-function splitParagraphs(run) {
+function splitParagraphs(run: string) {
   return run
     .split(PARA_BREAK)
     .filter((_p, i) => i % 2 === 0)
@@ -823,6 +852,21 @@ function splitParagraphs(run) {
     .filter(Boolean);
 }
 
+/** A block of the finished page: what `blocksOf` reads and `render` writes. */
+type Block =
+  | { type: 'p'; text: string; sheet?: boolean }
+  | { type: 'h'; level: number; text: string }
+  | { type: 'img'; src: string }
+  | { type: 'list'; ordered: boolean; items: string[] }
+  | { type: 'table'; rows: string[][] }
+  | { type: 'aside'; blocks: Block[] };
+
+/** `block.type === kind`, as something the array methods can narrow with. */
+const is =
+  <K extends Block['type']>(kind: K) =>
+  (block: Block): block is Extract<Block, { type: K }> =>
+    block.type === kind;
+
 /**
  * The header row of a multi-column table, where the archive drew it as its own
  * layout row: `Play` / `Author` / `Venue` / `Year` arrive as four headings
@@ -834,21 +878,25 @@ function splitParagraphs(run) {
  * promote its first row of data to the header. There is no such table in the
  * archive — all 29 have one or the other.
  */
-function withHeader(blocks, rows, width) {
+function withHeader(blocks: Block[], rows: string[][], width: number) {
   const head = rows[0].filter(Boolean);
   if (head.length && head.every((cell) => cell.includes('**'))) {
     return rows;
   }
   const above = blocks.slice(-width);
-  if (above.length < width || !above.every((b) => b.type === 'h')) {
+  if (above.length < width || !above.every(is('h'))) {
     return rows;
   }
   blocks.length -= width;
   return [above.map((b) => b.text), ...rows];
 }
 
-function blocksOf($, root, links) {
-  const blocks = [];
+function blocksOf(
+  $: CheerioAPI,
+  root: AnyNode | Cheerio<AnyNode>,
+  links: Links,
+): Block[] {
+  const blocks: Block[] = [];
   let run = '';
   const flush = () => {
     for (const text of splitParagraphs(run)) {
@@ -935,9 +983,9 @@ function blocksOf($, root, links) {
  * to decide whether the block survives, so the alt comes out and the image
  * stays: the verdict is the one the archive's own markup earns.
  */
-const bareAlts = (text) => text.replace(/!\[[^\]]*\]\(/g, '![](');
+const bareAlts = (text: string) => text.replace(/!\[[^\]]*\]\(/g, '![](');
 
-const linkText = (text) =>
+const linkText = (text: string) =>
   (text.match(/\[[^\]]*\]\([^)]*\)/g) || []).join('').replace(/\([^)]*\)/g, '')
     .length;
 
@@ -956,7 +1004,7 @@ const linkText = (text) =>
  * paragraph: `**A**` and its twelve plays, then `**B**` and its nine. Asking for
  * two rescued the year chronology and left twenty-six letters on the floor.
  */
-const hasLabelRow = (text) =>
+const hasLabelRow = (text: string) =>
   text
     .split('  \n')
     .some(
@@ -971,7 +1019,7 @@ const hasLabelRow = (text) =>
  * entry, so the row points somewhere rather than saying something, and the box
  * is navigation however it is labelled. An index entry links its title once.
  */
-const pointsTwiceAtOnePage = (text) =>
+const pointsTwiceAtOnePage = (text: string) =>
   text.split('  \n').some((row) => {
     const hrefs = [...row.matchAll(/\]\(([^)]*)\)/g)].map(([, href]) => href);
     return new Set(hrefs).size < hrefs.length;
@@ -986,7 +1034,7 @@ const pointsTwiceAtOnePage = (text) =>
  * prints 1959–1990 and 1991–present as two paragraphs of the same list, and they
  * score 0.633 and 0.583, so the first went and the second stayed.
  */
-const isNavBlock = (block) => {
+const isNavBlock = (block: Block) => {
   if (block.type !== 'p' || block.sheet) {
     return false;
   }
@@ -1023,7 +1071,8 @@ const BOILERPLATE =
 const OLD_CHROME =
   /^(to navigate|click on the links|for [^.]{0,60}click on the links)[^.]*\b(bar above|links above|right[- ]hand[- ]?column|column below|at the right|to the right)\b[^.]*\.$/i;
 
-const plain = (s) => s.replace(/[\\*]/g, '').replace(/\s+/g, ' ').trim();
+const plain = (s: string) =>
+  s.replace(/[\\*]/g, '').replace(/\s+/g, ' ').trim();
 
 /**
  * A heading, or a paragraph of nothing but bold runs — the pull-out boxes title
@@ -1034,7 +1083,7 @@ const plain = (s) => s.replace(/[\\*]/g, '').replace(/\s+/g, ' ').trim();
  * `**In-Depth**` over `**Click on a button**` in one paragraph, and read as
  * content that box outlived the buttons it was talking about.
  */
-const isLabel = (block) => {
+const isLabel = (block: Block) => {
   if (block.type === 'h') {
     return true;
   }
@@ -1067,10 +1116,13 @@ const isLabel = (block) => {
  * the same way — `**Availability**` on a play landing titled the two lines that
  * are now facts, and stood alone as the page's entire body.
  */
-function dropEmptyLabels(blocks, counts = (b) => b.type === 'h') {
+function dropEmptyLabels(
+  blocks: Block[],
+  counts: (block: Block) => boolean = (b) => b.type === 'h',
+) {
   /* A bold run titles only what directly follows it — it never spans a heading
      the way an h2 spans an h3 — so it ranks below every heading level. */
-  const rank = (block) => (block.type === 'h' ? block.level : 7);
+  const rank = (block: Block) => (block.type === 'h' ? block.level : 7);
   return blocks.filter((block, i) => {
     if (!counts(block)) {
       return true;
@@ -1087,8 +1139,8 @@ function dropEmptyLabels(blocks, counts = (b) => b.type === 'h') {
   });
 }
 
-function dropNavBlocks(blocks, title) {
-  const kept = [];
+function dropNavBlocks(blocks: Block[], title: string) {
+  const kept: Block[] = [];
   let dropped = 0;
   let credits = 0;
   for (let block of blocks) {
@@ -1155,9 +1207,9 @@ function dropNavBlocks(blocks, title) {
  * A GFM table. `|` is escaped only here: it means nothing anywhere else in this
  * output, and inside a table it ends the cell.
  */
-function renderTable(rows) {
+function renderTable(rows: string[][]) {
   const width = Math.max(...rows.map((cells) => cells.length));
-  const line = (cells) =>
+  const line = (cells: string[]) =>
     `| ${Array.from({ length: width }, (_, i) =>
       (cells[i] || '').replace(/\|/g, '\\|'),
     ).join(' | ')} |`;
@@ -1170,7 +1222,7 @@ function renderTable(rows) {
   ].join('\n');
 }
 
-function render(blocks, depth = 0) {
+function render(blocks: Block[], depth = 0): string {
   return blocks
     .map((b) => {
       if (b.type === 'h') {
@@ -1210,20 +1262,20 @@ const FACT_LINE = /^\*\*([A-Z][A-Za-z'/ ]{1,30}?):?\*\*:?\s*(.+)$/;
 /** An image, on its own or wrapped in a link, and nothing else. */
 const IMAGE_ONLY = /^\[?!\[[^\]]*\]\([^)]*\)(\]\([^)]*\))?$/;
 
-function extractFacts(blocks) {
-  const facts = {};
-  const kept = [];
+function extractFacts(blocks: Block[]) {
+  const facts: Record<string, string> = {};
+  const kept: Block[] = [];
   let previous = '';
   for (const block of blocks) {
     if (block.type !== 'p') {
       kept.push(block);
       continue;
     }
-    const rest = [];
+    const rest: string[] = [];
     for (const line of block.text.split('  \n')) {
       const m = line.match(FACT_LINE);
       const value = m?.[2]?.replace(/\*\*/g, '').trim();
-      if (!value) {
+      if (!m || !value) {
         rest.push(line);
         continue;
       }
@@ -1274,11 +1326,11 @@ function extractFacts(blocks) {
 
 /* -------------------------------------------------------------------- crawl */
 
-async function sitemap(host) {
+async function sitemap(host: string) {
   const xml = await fetchCached(`http://${host}/sitemap.xml`);
   return [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)]
-    .map((m) => normalise(m[1].trim(), `http://${host}/`))
-    .filter((u) => u && hostOf(u) === host && isPage(u));
+    .flatMap((m) => normalise(m[1].trim(), `http://${host}/`) ?? [])
+    .filter((u) => hostOf(u) === host && isPage(u));
 }
 
 /**
@@ -1290,14 +1342,17 @@ async function sitemap(host) {
  * longer exists, and a dozen hosts serve no sitemap at all. Where the sitemap
  * yields nothing for the host itself, its own navigation still does.
  */
-async function crawlFrom(host, { max = 400 } = {}) {
+async function crawlFrom(host: string, { max = 400 } = {}) {
   const root = `http://${host}/`;
   const seen = new Set([root]);
   const queue = [root];
 
-  while (queue.length && seen.size < max) {
+  while (seen.size < max) {
     const url = queue.shift();
-    let $;
+    if (!url) {
+      break;
+    }
+    let $: CheerioAPI;
     try {
       $ = load(await fetchCached(url));
     } catch {
@@ -1321,7 +1376,7 @@ async function crawlFrom(host, { max = 400 } = {}) {
 }
 
 /** Sitemap where it is usable, the host's own links where it is not. */
-async function discoverUrls(host) {
+async function discoverUrls(host: string) {
   const fromSitemap = await sitemap(host).catch(() => []);
   return fromSitemap.length ? fromSitemap : crawlFrom(host);
 }
@@ -1329,7 +1384,10 @@ async function discoverUrls(host) {
 async function discoverPlays() {
   const html = await fetchCached(`http://plays.${DOMAIN}/`);
   const $ = load(html);
-  const plays = new Map();
+  const plays = new Map<
+    string,
+    { name: string; slug: string; order: number }
+  >();
   $('#content a').each((_, el) => {
     const href = normalise($(el).attr('href') || '', `http://plays.${DOMAIN}/`);
     const name = $(el).text().trim();
@@ -1351,6 +1409,10 @@ async function discoverPlays() {
   });
   return plays;
 }
+
+/** What went wrong, as the report records it: the message, never the stack. */
+const messageOf = (err: unknown) =>
+  err instanceof Error ? err.message : String(err);
 
 function main() {
   return run().catch((err) => {
@@ -1379,13 +1441,13 @@ async function run() {
       ];
 
   /** Subdomain → link text that first pointed at it, for hosts no index lists. */
-  const discovered = new Map();
+  const discovered = new Map<string, string>();
 
   /** Route prefixes already claimed, so an alias host cannot overwrite a real one. */
-  const claimed = new Map();
+  const claimed = new Map<string, string>();
 
   /** host → route prefix, e.g. `plays/absurd-person-singular`. */
-  const prefixOf = (host) => {
+  const prefixOf = (host: string) => {
     const sub = subdomain(host);
     if (host === DOMAIN || sub === 'www') {
       return '';
@@ -1399,12 +1461,13 @@ async function run() {
     if (sub in EXTRA_SITES) {
       return EXTRA_SITES[sub];
     }
-    if (plays.has(sub)) {
-      return `plays/${plays.get(sub).slug}`;
+    const play = plays.get(sub);
+    if (play) {
+      return `plays/${play.slug}`;
     }
-    const companion = sub.replace(/^writing/, '');
-    if (sub.startsWith('writing') && plays.has(companion)) {
-      return `plays/${plays.get(companion).slug}/writing`;
+    const companion = plays.get(sub.replace(/^writing/, ''));
+    if (sub.startsWith('writing') && companion) {
+      return `plays/${companion.slug}/writing`;
     }
     /*
      * A host found only by following a link. Everything reached this way has
@@ -1421,9 +1484,14 @@ async function run() {
 
   // Pass 1: fetch every page, collect anchor text per URL so slugs come from
   // labels ("History") rather than the meaningless URLs ("styled/page-10/").
-  const pages = new Map();
-  const labels = new Map();
-  const failures = [];
+  const pages = new Map<
+    string,
+    { host: string; $: CheerioAPI; title: string }
+  >();
+  const labels = new Map<string, { text: string; order: number }>();
+  /** Anything that could not be fetched or filed, as the report lists it. */
+  const failures: ({ error: string } & ({ host: string } | { url: string }))[] =
+    [];
 
   /*
    * The plays index lists the plays and nothing else, but the archive links
@@ -1453,11 +1521,11 @@ async function run() {
       continue;
     }
     claimed.set(prefix, host);
-    let urls;
+    let urls: string[];
     try {
       urls = await discoverUrls(host);
     } catch (err) {
-      failures.push({ host, error: `discover: ${err.message}` });
+      failures.push({ host, error: `discover: ${messageOf(err)}` });
       continue;
     }
     process.stdout.write(`${host}: ${urls.length} pages `);
@@ -1465,7 +1533,8 @@ async function run() {
       try {
         const html = await fetchCached(url);
         const $ = load(html);
-        pages.set(url, { host, $ });
+        /* Titled below, once every page is in and the routes can be built. */
+        pages.set(url, { host, $, title: '' });
         $('#content a, #navcontainer a').each((_, el) => {
           const target = normalise($(el).attr('href') || '', url);
           const text = $(el).text().trim();
@@ -1499,7 +1568,7 @@ async function run() {
           }
         });
       } catch (err) {
-        failures.push({ url, error: err.message });
+        failures.push({ url, error: messageOf(err) });
       }
     }
     crawled.push(host);
@@ -1510,16 +1579,17 @@ async function run() {
   // Pass 2: every crawled URL gets its new route, so links can be rewritten.
   // Routes are built parent-first so the old hierarchy survives even though the
   // intermediate directories ("page-80/") are meaningless.
-  const routes = new Map();
-  const taken = new Set();
-  const depth = (url) => segments(url).length;
-  const isFile = (url) => new URL(url).pathname.split('/').at(-1).includes('.');
+  const routes = new Map<string, string>();
+  const taken = new Set<string>();
+  const depth = (url: string) => segments(url).length;
+  const isFile = (url: string) =>
+    (new URL(url).pathname.split('/').pop() ?? '').includes('.');
 
   // Section landings are often published as a file inside the section directory
   // (`styled/BBC.html`) while the directory itself is never crawled. Where a
   // directory has exactly one such file, it stands in for the directory — else
   // every page below it loses its place in the hierarchy.
-  const files = new Map();
+  const files = new Map<string, string[]>();
   for (const url of pages.keys()) {
     const parent = parentOf(url);
     if (parent && isFile(url) && !pages.has(parent)) {
@@ -1529,10 +1599,10 @@ async function run() {
   const landingOf = new Map(
     [...files]
       .filter(([, urls]) => urls.length === 1)
-      .map(([dir, urls]) => [dir, urls[0]]),
+      .map(([dir, urls]): [string, string] => [dir, urls[0]]),
   );
 
-  const baseOf = (url) => {
+  const baseOf = (url: string): string => {
     /*
      * `/index.html` *is* the host root, not a page inside it. Left to the parent
      * walk below, the root directory looks like an ancestor we never crawled and
@@ -1540,12 +1610,10 @@ async function run() {
      * RolePlay at `plays/roleplay/roleplay`, one level below the route that
      * twenty-two pages across the archive link to.
      */
-    if (segments(url).length === 0) {
-      return prefixOf(hostOf(url));
-    }
-    let parent = parentOf(url);
+    let parent = segments(url).length ? parentOf(url) : null;
     if (!parent) {
-      return prefixOf(hostOf(url));
+      /* Never null: a host with no route had all of its pages skipped above. */
+      return prefixOf(hostOf(url)) ?? '';
     }
     if (!pages.has(parent) && landingOf.get(parent) !== url) {
       parent = landingOf.get(parent) ?? parent;
@@ -1558,11 +1626,10 @@ async function run() {
     return [baseOf(parent), label && slugify(label)].filter(Boolean).join('/');
   };
 
-  const order = [...pages.keys()].sort(
-    (a, b) => depth(a) - depth(b) || Number(isFile(b)) - Number(isFile(a)),
+  const order = [...pages].sort(
+    ([a], [b]) => depth(a) - depth(b) || Number(isFile(b)) - Number(isFile(a)),
   );
-  for (const url of order) {
-    const page = pages.get(url);
+  for (const [url, page] of order) {
     page.title =
       TITLE_FIXES[url] ?? page.$('#content h1').first().text().trim();
     const base = baseOf(url);
@@ -1606,9 +1673,9 @@ async function run() {
   }
 
   /** Uncrawled plays still resolve — to the play's landing page, not a 404. */
-  const uncrawled = new Set();
+  const uncrawled = new Set<string>();
   const written = new Set(routes.values());
-  const routeFor = (url) => {
+  const routeFor = (url: string) => {
     if (routes.has(url)) {
       return `/${routes.get(url)}`;
     }
@@ -1636,7 +1703,7 @@ async function run() {
   /* name → source URL for every downloadable document linked from anywhere in
      the archive. One map for the whole run: the research PDFs are linked from
      several pages each and only need fetching once. */
-  const documents = new Map();
+  const documents = new Map<string, string>();
 
   const report = {
     scrapedAt: new Date().toISOString().slice(0, 10),
@@ -1647,13 +1714,16 @@ async function run() {
     files: 0,
     navBlocksDropped: 0,
     boilerplateBlocksDropped: 0,
-    untitled: [],
-    emptyPages: [],
-    unresolvedLinks: [],
+    untitled: [] as string[],
+    emptyPages: [] as string[],
+    unresolvedLinks: [] as { from: string; to: string }[],
     /* The images `alt.json` does not describe yet, by page, so the remainder can
        be worked through rather than counted. */
-    imagesWithoutAlt: [],
+    imagesWithoutAlt: [] as string[],
     failures,
+    /* Filled in at the end, once every host has been either read or written off. */
+    uncrawledHosts: [] as string[],
+    danglingHosts: [] as string[],
   };
 
   /*
@@ -1667,76 +1737,81 @@ async function run() {
   }
 
   for (const [url, page] of pages) {
-    const route = routes.get(url);
+    const route = routes.get(url) ?? '';
     const dir = join(OUT, route);
     const $ = page.$;
-    const pending = [];
+    /** Every image the page mentioned, before the filtering decides which stay. */
+    const pending: { abs: string; name: string; described: boolean }[] = [];
 
-    const links = (href) => {
-      const target = normalise(href, url);
-      if (!target) {
-        return href.startsWith('mailto:') || href.startsWith('tel:')
-          ? href
-          : null;
-      }
-      /*
-       * A file on the archive's own domain — the six research documents it
-       * publishes as PDFs — is not a page and has no route. Mirrored into
-       * `public/resources/` and served from here: the documents are part of the
-       * content, and left pointing at the original they would be the one thing
-       * on the site that stops working the day the old host goes away.
-       */
-      if (isInternal(target) && DOCUMENT.test(target)) {
-        const name = fileName(target);
-        documents.set(name, target);
-        return `/resources/${name}`;
-      }
-      /* Anything else that is not a page keeps its absolute URL — except the old
+    const links: Links = Object.assign(
+      (href: string) => {
+        const target = normalise(href, url);
+        if (!target) {
+          return href.startsWith('mailto:') || href.startsWith('tel:')
+            ? href
+            : null;
+        }
+        /*
+         * A file on the archive's own domain — the six research documents it
+         * publishes as PDFs — is not a page and has no route. Mirrored into
+         * `public/resources/` and served from here: the documents are part of the
+         * content, and left pointing at the original they would be the one thing
+         * on the site that stops working the day the old host goes away.
+         */
+        if (isInternal(target) && DOCUMENT.test(target)) {
+          const name = fileName(target);
+          documents.set(name, target);
+          return `/resources/${name}`;
+        }
+        /* Anything else that is not a page keeps its absolute URL — except the old
          mailer, whose four wrappers `routeFor` sends to our contact page. */
-      if (
-        !isInternal(target) ||
-        (!isPage(target) && !CONTACT_FORM.test(new URL(target).pathname))
-      ) {
-        return target;
-      }
-      const to = routeFor(target);
-      if (!to) {
-        report.unresolvedLinks.push({ from: url, to: target });
-      }
-      return to || target;
-    };
-    // Takes the element, not its src: `data-described` decides the review list.
-    links.image = (node) => {
-      const src = $(node).attr('src');
-      // The original publishes a handful of `src="(null)"` images. Drop them.
-      if (!src || src.includes('(null)')) {
-        return '';
-      }
-      const abs = normalise(src, url);
-      if (!abs) {
-        return src;
-      }
-      const found = pending.find((p) => p.abs === abs);
-      if (found) {
-        return `./_images/${found.name}`;
-      }
-      const base = fileName(abs);
-      const dot = base.lastIndexOf('.');
-      let name = base;
-      // Two unlike images can slug alike; the second must not silently win.
-      for (let n = 2; pending.some((p) => p.name === name); n++) {
-        name =
-          dot > 0
-            ? `${base.slice(0, dot)}-${n}${base.slice(dot)}`
-            : `${base}-${n}`;
-      }
-      pending.push({
-        abs,
-        name,
-        described: $(node).attr('data-described') !== undefined,
-      });
-      return `./_images/${name}`;
-    };
+        if (
+          !isInternal(target) ||
+          (!isPage(target) && !CONTACT_FORM.test(new URL(target).pathname))
+        ) {
+          return target;
+        }
+        const to = routeFor(target);
+        if (!to) {
+          report.unresolvedLinks.push({ from: url, to: target });
+        }
+        return to || target;
+      },
+      {
+        // Takes the element, not its src: `data-described` decides the review list.
+        image: (node: AnyNode) => {
+          const src = $(node).attr('src');
+          // The original publishes a handful of `src="(null)"` images. Drop them.
+          if (!src || src.includes('(null)')) {
+            return '';
+          }
+          const abs = normalise(src, url);
+          if (!abs) {
+            return src;
+          }
+          const found = pending.find((p) => p.abs === abs);
+          if (found) {
+            return `./_images/${found.name}`;
+          }
+          const base = fileName(abs);
+          const dot = base.lastIndexOf('.');
+          let name = base;
+          // Two unlike images can slug alike; the second must not silently win.
+          for (let n = 2; pending.some((p) => p.name === name); n++) {
+            name =
+              dot > 0
+                ? `${base.slice(0, dot)}-${n}${base.slice(dot)}`
+                : `${base}-${n}`;
+          }
+          pending.push({
+            abs,
+            name,
+            described: $(node).attr('data-described') !== undefined,
+          });
+          return `./_images/${name}`;
+        },
+      },
+    );
 
     const content = clean($);
     const raw = blocksOf($, content, links);
@@ -1768,7 +1843,10 @@ async function run() {
         .replace(/\s*\(\d{4}\)\s*$/, '')
         .replace(
           new RegExp(
-            `^(${[playName, 'Alan Ayckbourn'].filter(Boolean).map(escapeRe).join('|')}):\\s*`,
+            `^(${[playName, 'Alan Ayckbourn']
+              .filter((name) => name !== undefined)
+              .map(escapeRe)
+              .join('|')}):\\s*`,
             'i',
           ),
           '',
@@ -1782,11 +1860,11 @@ async function run() {
 
     const play = route.startsWith('plays/') ? route.split('/')[1] : undefined;
     const year = page.title.match(/\((\d{4})\)/)?.[1];
-    const poster = isPlayIndex
-      ? blocks.find((b) => b.type === 'img')?.src
-      : undefined;
+    const poster = isPlayIndex ? blocks.find(is('img'))?.src : undefined;
     const body = render(
-      poster ? blocks.filter((b) => b.src !== poster) : blocks,
+      poster
+        ? blocks.filter((b) => b.type !== 'img' || b.src !== poster)
+        : blocks,
     );
 
     /*
@@ -1832,7 +1910,7 @@ async function run() {
           report.imagesWithoutAlt.push(`${route || '.'}/${name}`);
         }
       } catch (err) {
-        failures.push({ url: abs, error: err.message });
+        failures.push({ url: abs, error: messageOf(err) });
       }
     }
 
@@ -1859,7 +1937,7 @@ async function run() {
       await writeFile(join(FILES, name), bytes);
       report.files++;
     } catch (err) {
-      failures.push({ url: abs, error: err.message });
+      failures.push({ url: abs, error: messageOf(err) });
     }
   }
 
@@ -1893,8 +1971,8 @@ async function run() {
 }
 
 /* ponytail: hand-rolled YAML — frontmatter is flat strings/numbers only. */
-function yaml(obj, indent = '') {
-  const scalar = (v) =>
+function yaml(obj: object, indent = ''): string {
+  const scalar = (v: unknown) =>
     typeof v === 'number' ? String(v) : `"${String(v).replace(/"/g, '\\"')}"`;
   const lines = Object.entries(obj).map(([k, v]) =>
     v && typeof v === 'object'
@@ -1904,10 +1982,11 @@ function yaml(obj, indent = '') {
   return indent ? lines.join('\n') : `---\n${lines.join('\n')}\n---\n`;
 }
 
-if (process.argv[1].endsWith('scrape.mjs')) {
+if (process.argv[1].endsWith('scrape.ts')) {
   await main();
 }
 
+export type { Block, Links };
 export {
   blocksOf,
   brLines,

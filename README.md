@@ -42,7 +42,7 @@ bun run dev
 
 ## Scraping
 
-The original site is RapidWeaver + Stacks 5 static HTML. `scripts/scrape.mjs` walks each
+The original site is RapidWeaver + Stacks 5 static HTML. `scripts/scrape.ts` walks each
 subdomain's sitemap, strips the Stacks wrapper soup, and writes one Markdown file per page
 into `src/content/archive/<route>/index.md` — plus the page's images alongside it in
 `_images/`, so Astro optimises them as relative markdown images.

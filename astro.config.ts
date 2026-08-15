@@ -3,8 +3,8 @@
 import { satteri } from '@astrojs/markdown-satteri';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig, fontProviders } from 'astro/config';
-import prosePlugin from './src/lib/prose.mjs';
-import timelinePlugin from './src/lib/timeline.mjs';
+import prosePlugin from './src/lib/prose.ts';
+import timelinePlugin from './src/lib/timeline.ts';
 
 export default defineConfig({
   site: 'https://alanayckbourn.pages.dev',

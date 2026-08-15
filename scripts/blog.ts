@@ -9,8 +9,8 @@
  * and featured images, no parsing of somebody's theme.
  *
  * Usage:
- *   node scripts/blog.mjs                 # posts + pages, images to R2
- *   node scripts/blog.mjs --no-upload     # skip R2 (offline / iterating)
+ *   node scripts/blog.ts                 # posts + pages, images to R2
+ *   node scripts/blog.ts --no-upload     # skip R2 (offline / iterating)
  *
  * Everything fetched is cached under .cache/blog/, and uploaded object keys are
  * remembered in .cache/blog/uploaded.json — re-runs cost one API call per page
@@ -23,9 +23,37 @@ import { dirname, join } from 'node:path';
 import { promisify } from 'node:util';
 import { load } from 'cheerio';
 import sharp from 'sharp';
-import { slugify } from './scrape.mjs';
+import { slugify } from './scrape.ts';
 
 const run = promisify(execFile);
+
+/* Whatever WordPress sent back. The REST payload is somebody else's and the
+   `_fields` list decides most of its shape, so it is read defensively rather
+   than described here as fact. */
+// biome-ignore lint/suspicious/noExplicitAny: third-party JSON, shape not ours
+type Wp = any;
+
+/** One image, as this script mirrors it. */
+type Media = Awaited<ReturnType<typeof media>>;
+
+/** One line of a curated page, as the listings and news pages read them. */
+type Listing =
+  | { kind: 'intro'; heading: null; html: string }
+  | {
+      kind: 'item';
+      heading: string | null;
+      title: string;
+      where: string;
+      when: string;
+      from?: string;
+      to?: string;
+      posted?: string;
+      revised?: boolean;
+      detail: string;
+      detailHtml: string;
+      href: string | null;
+      html: string;
+    };
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const CACHE = join(ROOT, '.cache/blog');
@@ -47,7 +75,7 @@ const UPLOAD_CONCURRENCY = 8;
 const upload = !process.argv.includes('--no-upload');
 
 /** WordPress writes typographic punctuation as entities even in JSON fields. */
-const decode = (s) =>
+const decode = (s: string) =>
   s
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
     .replace(/&amp;/g, '&')
@@ -59,12 +87,25 @@ const decode = (s) =>
     .replace(/&hellip;/g, '…')
     .replace(/&(?:mdash|ndash);/g, '—');
 
-const text = (html) => decode(html.replace(/<[^>]+>/g, '')).trim();
+const text = (html: string) => decode(html.replace(/<[^>]+>/g, '')).trim();
 
-async function cached(key, fetcher, { binary = false } = {}) {
+async function cached(
+  key: string,
+  fetcher: () => Promise<string>,
+): Promise<string>;
+async function cached(
+  key: string,
+  fetcher: () => Promise<Buffer>,
+  options: { binary: true },
+): Promise<Buffer>;
+async function cached(
+  key: string,
+  fetcher: () => Promise<string | Buffer>,
+  { binary = false } = {},
+) {
   const path = join(CACHE, key);
   try {
-    return await readFile(path, binary ? null : 'utf8');
+    return binary ? await readFile(path) : await readFile(path, 'utf8');
   } catch {
     // not cached yet
   }
@@ -74,7 +115,7 @@ async function cached(key, fetcher, { binary = false } = {}) {
   return body;
 }
 
-const api = async (path, key) =>
+const api = async (path: string, key: string) =>
   JSON.parse(
     await cached(key, async () => {
       const res = await fetch(`${API}/${path}`);
@@ -91,9 +132,9 @@ const api = async (path, key) =>
  * the content is its own routing table, so the two scrapers cannot disagree.
  */
 async function routeMap() {
-  const routes = new Map();
-  const titles = new Map();
-  const walk = async (dir, trail = '') => {
+  const routes = new Map<string, string>();
+  const titles = new Map<string, string>();
+  const walk = async (dir: string, trail = '') => {
     for (const entry of await readdir(dir, { withFileTypes: true })) {
       if (entry.isDirectory() && entry.name !== '_images') {
         await walk(join(dir, entry.name), `${trail}/${entry.name}`);
@@ -126,10 +167,10 @@ async function routeMap() {
  * The key keeps the `?w=` variant, because two posts citing the same photograph
  * at 400px and 750px are two different files.
  */
-const keyFor = (url) => {
+const keyFor = (url: string) => {
   const { pathname, searchParams } = new URL(url);
   const year = pathname.match(/\/(\d{4})\/\d{2}\//)?.[1] ?? 'undated';
-  const raw = decodeURIComponent(pathname.split('/').pop());
+  const raw = decodeURIComponent(pathname.split('/').pop() ?? '');
   const dot = raw.lastIndexOf('.');
   const width = searchParams.get('w');
   const ext = dot > 0 ? raw.slice(dot).toLowerCase() : '.jpg';
@@ -138,7 +179,7 @@ const keyFor = (url) => {
 };
 
 /** Dimensions come off the bytes we already hold: `<img>` without them shifts. */
-async function media(url) {
+async function media(url: string) {
   const key = keyFor(url);
   const bytes = await cached(
     `media/${key}`,
@@ -155,8 +196,8 @@ async function media(url) {
   return { key, url: `${R2}/${key}`, width, height };
 }
 
-async function uploadAll(keys) {
-  const done = new Set(
+async function uploadAll(keys: string[]) {
+  const done: Set<string> = new Set(
     JSON.parse(await cached('uploaded.json', async () => '[]')),
   );
   const pending = keys.filter((k) => !done.has(k));
@@ -201,12 +242,18 @@ const NOISE =
  * blocks — `<p>`, `<figure>`, `<blockquote>` — and `.prose-archive` styles
  * elements, not Markdown, so a converter would be a round trip to nowhere.
  */
-function rewrite(html, { images, routes }) {
+function rewrite(
+  html: string,
+  {
+    images,
+    routes,
+  }: { images: Map<string, Media>; routes: Map<string, string> },
+) {
   const $ = load(html, null, false);
 
   $('img').each((_, el) => {
     const img = $(el);
-    const found = images.get(img.attr('src'));
+    const found = images.get(img.attr('src') ?? '');
     for (const name of Object.keys(el.attribs)) {
       if (NOISE.test(name)) {
         img.removeAttr(name);
@@ -246,10 +293,12 @@ function rewrite(html, { images, routes }) {
 
   /* `<font color>` from pasted text, and WordPress's habit of nesting a bold
      inside a bold: both are noise that survives into the text otherwise. */
-  $('font, span').each((_, el) => $(el).replaceWith($(el).html() ?? ''));
-  $('strong strong, em em').each((_, el) =>
-    $(el).replaceWith($(el).html() ?? ''),
-  );
+  $('font, span').each((_, el) => {
+    $(el).replaceWith($(el).html() ?? '');
+  });
+  $('strong strong, em em').each((_, el) => {
+    $(el).replaceWith($(el).html() ?? '');
+  });
   $('[class]').removeAttr('class');
   $('[id]').removeAttr('id');
   /* The blog's own footer furniture, which means nothing on our pages. */
@@ -289,13 +338,16 @@ const TOKEN = /\b(\d{1,2})\b|\b([A-Za-z]{3,9})\.?(?:\s+(\d{4}))?/g;
  * `on` is the date the listings page was last updated: the page looks forward,
  * so a month written without a year means its next occurrence.
  */
-function runDates(when = '', on) {
-  const days = [];
-  const months = [];
+function runDates(when = '', on?: Date) {
+  const days: { day: number; at: number }[] = [];
+  const months: { month: number; year: number | undefined; at: number }[] = [];
   for (const match of when.replace(TIME, ' ').matchAll(TOKEN)) {
     const [, day, name, year] = match;
     if (day !== undefined) {
       days.push({ day: Number(day), at: match.index });
+      continue;
+    }
+    if (name === undefined) {
       continue;
     }
     const month = MONTHS.findIndex((m) =>
@@ -314,25 +366,27 @@ function runDates(when = '', on) {
     return {};
   }
 
-  const stated = months.at(-1).year ?? on?.getUTCFullYear();
+  /* Both are there: a run with no day or no month has already returned. */
+  const lastDay = days[days.length - 1];
+  const lastMonth = months[months.length - 1];
+
+  const stated = lastMonth.year ?? on?.getUTCFullYear();
   if (!stated) {
     return {};
   }
-  const iso = ({ day, at }, shift) => {
-    const owner = months.find((m) => m.at > at) ?? months.at(-1);
+  const iso = ({ day, at }: { day: number; at: number }, shift: number) => {
+    const owner = months.find((m) => m.at > at) ?? lastMonth;
     const year = (owner.year ?? stated) + shift;
     return `${year}-${String(owner.month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
   };
   /* An inferred year that puts the last night in the past means the next one:
      "11 September" listed in August 2026 is 2026, listed in October is 2027. */
-  const inferred = months.at(-1).year === undefined;
+  const inferred = lastMonth.year === undefined;
   const shift =
-    inferred && on && iso(days.at(-1), 0) < on.toISOString().slice(0, 10)
-      ? 1
-      : 0;
+    inferred && on && iso(lastDay, 0) < on.toISOString().slice(0, 10) ? 1 : 0;
 
   const first = iso(days[0], shift);
-  const last = iso(days.at(-1), shift);
+  const last = iso(lastDay, shift);
   if (days.length > 1) {
     return { from: first, to: last };
   }
@@ -367,10 +421,21 @@ function posted(when = '') {
  * so the pages can be built as listings — cards with a date, a venue and a
  * link — instead of a wall of bullets.
  */
-function bullets(html, { images, routes, on }) {
+function bullets(
+  html: string,
+  {
+    images,
+    routes,
+    on,
+  }: {
+    images: Map<string, Media>;
+    routes: Map<string, string>;
+    on?: Date;
+  },
+) {
   const $ = load(html, null, false);
-  const items = [];
-  let heading = null;
+  const items: Listing[] = [];
+  let heading: string | null = null;
 
   for (const el of $('p, h1, h2, h3, figure').toArray()) {
     const node = $(el);
@@ -449,12 +514,17 @@ function bullets(html, { images, routes, on }) {
 
 async function main() {
   const { routes, titles } = await routeMap();
-  const report = { posts: 0, images: 0, uploaded: 0, failures: [] };
+  const report = {
+    posts: 0,
+    images: 0,
+    uploaded: 0,
+    failures: [] as { url: string; error: string }[],
+  };
 
   /* 469 posts, five calls. `_fields` keeps the cached JSON to what we use. */
   const fields =
     'id,date,slug,title,content,excerpt,categories,jetpack_featured_media_url,link';
-  const posts = [];
+  const posts: Wp[] = [];
   for (let page = 1; ; page++) {
     const batch = await api(
       `posts?per_page=100&page=${page}&_fields=${fields}`,
@@ -466,33 +536,35 @@ async function main() {
     }
   }
 
-  const categories = new Map(
+  const categories = new Map<number, string>(
     (
       await api(
         'categories?per_page=100&_fields=id,slug,name',
         'categories.json',
       )
-    ).map((c) => [c.id, decode(c.name)]),
+    ).map((c: Wp): [number, string] => [c.id, decode(c.name)]),
   );
 
   const pages = Object.fromEntries(
     await Promise.all(
-      ['news', 'whats-on'].map(async (slug) => [
-        slug,
-        (
-          await api(
-            `pages?slug=${slug}&_fields=content,modified`,
-            `page-${slug}.json`,
-          )
-        )[0],
-      ]),
+      ['news', 'whats-on'].map(
+        async (slug): Promise<[string, Wp]> => [
+          slug,
+          (
+            await api(
+              `pages?slug=${slug}&_fields=content,modified`,
+              `page-${slug}.json`,
+            )
+          )[0],
+        ],
+      ),
     ),
   );
 
   /* Every image on the blog, fetched once and keyed by the URL the markup uses
      so `rewrite` can look it up. */
-  const sources = new Set();
-  const collect = (html) => {
+  const sources = new Set<string>();
+  const collect = (html: string) => {
     for (const [, src] of html.matchAll(/<img[^>]+src="([^"]+)"/g)) {
       sources.add(src);
     }
@@ -507,12 +579,13 @@ async function main() {
     collect(page.content.rendered);
   }
 
-  const images = new Map();
+  const images = new Map<string, Media>();
   for (const src of sources) {
     try {
       images.set(src, await media(src));
     } catch (err) {
-      report.failures.push({ url: src, error: err.message });
+      const error = err instanceof Error ? err.message : String(err);
+      report.failures.push({ url: src, error });
     }
   }
   report.images = images.size;
@@ -533,7 +606,7 @@ async function main() {
         .replace(/\s*Continue reading.*$/, '')
         .replace(/\s*\[…]\s*$/, '…'),
       categories: post.categories
-        .map((id) => categories.get(id))
+        .map((id: number) => categories.get(id))
         .filter(Boolean),
       source: post.link,
       ...(hero
@@ -568,8 +641,11 @@ async function main() {
        production is on rather than by month, where the second copy would sit
        directly under the first. The month heading of the earlier one wins. */
     .filter((item) => {
+      if (item.kind !== 'item') {
+        return true;
+      }
       const key = `${item.title}|${item.where}|${item.when}`;
-      return item.kind !== 'item' || (!seen.has(key) && seen.add(key));
+      return !seen.has(key) && seen.add(key);
     });
   await mkdir(DATA, { recursive: true });
   await writeFile(
@@ -626,8 +702,8 @@ async function main() {
 
 /* ponytail: same hand-rolled YAML as the HTML scraper, plus flow arrays for the
    category list — nothing here nests deeper than that. */
-function yaml(obj) {
-  const scalar = (v) =>
+function yaml(obj: Record<string, unknown>) {
+  const scalar = (v: unknown) =>
     typeof v === 'number' ? String(v) : `"${String(v).replace(/"/g, '\\"')}"`;
   return `---\n${Object.entries(obj)
     .map(([k, v]) =>
@@ -638,7 +714,7 @@ function yaml(obj) {
     .join('\n')}\n---\n`;
 }
 
-if (process.argv[1].endsWith('blog.mjs')) {
+if (process.argv[1].endsWith('blog.ts')) {
   await main();
 }
 

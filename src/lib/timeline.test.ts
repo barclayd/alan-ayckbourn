@@ -13,24 +13,25 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
 import * as cheerio from 'cheerio';
-import { markdownToHtml } from 'satteri';
-import timelinePlugin, { dateOf, whenOf } from './timeline.mjs';
+import { type MarkdownToHtmlResult, markdownToHtml } from 'satteri';
+import timelinePlugin, { dateOf, whenOf } from './timeline.ts';
 
 /**
  * One paragraph, written the way the archive writes them: an entry per line,
  * separated by markdown's two-space hard break. Spelt out rather than typed at
  * the end of each line, where it is invisible and a formatter would eat it.
  */
-const para = (...lines) => lines.join('  \n');
+const para = (...lines: string[]) => lines.join('  \n');
 
 /** Markdown in, a queryable document out. Each argument is one paragraph. */
-const run = (...paras) => {
-  /* Synchronous: Sätteri only returns a promise when a plugin is async. */
+const run = (...paras: string[]) => {
+  /* Synchronous: Sätteri only returns a promise when a plugin is async, and
+     the return type cannot say so from the options alone. */
   const { html } = markdownToHtml(paras.join('\n\n'), {
     hastPlugins: [timelinePlugin],
-  });
+  }) as unknown as MarkdownToHtmlResult;
   const $ = cheerio.load(html, null, false);
-  const all = (selector) =>
+  const all = (selector: string) =>
     $(selector)
       .map((_, node) => $(node).text().trim())
       .get();

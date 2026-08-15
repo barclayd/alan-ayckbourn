@@ -4,7 +4,7 @@ import { glob } from 'astro/loaders';
 /**
  * Every scraped page of the original site, keyed by its new route:
  * `plays/absurd-person-singular/history`, `life/school-days`, `career/actor`.
- * Written by `scripts/scrape.mjs` — hand-editable afterwards, which is the point.
+ * Written by `scripts/scrape.ts` — hand-editable afterwards, which is the point.
  */
 const archive = defineCollection({
   loader: glob({
@@ -39,7 +39,7 @@ const archive = defineCollection({
 
 /**
  * The blog behind the original site's three `<iframe>`s: 469 posts from 2019 to
- * this week. Written by `scripts/blog.mjs` from the WordPress REST API.
+ * this week. Written by `scripts/blog.ts` from the WordPress REST API.
  *
  * Hero images live in R2, not `_images/`, so they are plain URLs with the
  * dimensions carried alongside — there is no Astro pipeline on a remote file

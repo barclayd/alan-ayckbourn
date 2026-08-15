@@ -20,10 +20,10 @@
  * `i.ytimg.com/vi/{id}/hqdefault.jpg` is permanent — so those stay hotlinked.
  *
  * Usage:
- *   node scripts/social.mjs                # both feeds, images to R2
- *   node scripts/social.mjs --no-upload    # skip R2 (offline / iterating)
- *   node scripts/social.mjs --instagram    # one feed only
- *   node scripts/social.mjs --youtube
+ *   node scripts/social.ts                # both feeds, images to R2
+ *   node scripts/social.ts --no-upload    # skip R2 (offline / iterating)
+ *   node scripts/social.ts --instagram    # one feed only
+ *   node scripts/social.ts --youtube
  *
  * Everything fetched is cached under .cache/social/, so a re-run costs nothing.
  */
@@ -35,6 +35,12 @@ import { promisify } from 'node:util';
 import sharp from 'sharp';
 
 const run = promisify(execFile);
+
+/* Whatever the two front-ends sent back. Neither payload is ours, neither is
+   documented and both change without notice, so they are read defensively
+   rather than described here as fact. */
+// biome-ignore lint/suspicious/noExplicitAny: third-party JSON, shape not ours
+type Feed = any;
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const CACHE = join(ROOT, '.cache/social');
@@ -67,13 +73,13 @@ const IG_HEADERS = {
 const upload = !process.argv.includes('--no-upload');
 const only = process.argv.find((a) => a === '--instagram' || a === '--youtube');
 
-const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
 /** Fetches once, then never again: the cache is the record of what was pulled. */
-async function cached(key, fetcher, { binary = false } = {}) {
+async function cached(key: string, fetcher: () => Promise<string>) {
   const path = join(CACHE, key);
   try {
-    return await readFile(path, binary ? null : 'utf8');
+    return await readFile(path, 'utf8');
   } catch {
     const body = await fetcher();
     await mkdir(dirname(path), { recursive: true });
@@ -82,7 +88,8 @@ async function cached(key, fetcher, { binary = false } = {}) {
   }
 }
 
-const json = async (key, fetcher) => JSON.parse(await cached(key, fetcher));
+const json = async (key: string, fetcher: () => Promise<string>) =>
+  JSON.parse(await cached(key, fetcher));
 
 /* ------------------------------------------------------------- instagram --- */
 
@@ -112,7 +119,7 @@ async function instagramPosts() {
   });
 
   const total = profile.data.user.edge_owner_to_timeline_media.count;
-  const items = [];
+  const items: Feed[] = [];
   let cursor = '';
 
   for (let page = 0; ; page++) {
@@ -154,7 +161,7 @@ async function instagramPosts() {
 }
 
 /** The largest version Instagram offers of one image. */
-const largest = (candidates) =>
+const largest = (candidates: Feed[]) =>
   [...candidates].sort((a, b) => b.width - a.width)[0];
 
 /**
@@ -164,8 +171,8 @@ const largest = (candidates) =>
  * business re-hosting somebody's video, and a still with the caption under it
  * is what the rest of the page already is.
  */
-function picturesOf(item) {
-  const children = item.carousel_media ?? [item];
+function picturesOf(item: Feed) {
+  const children: Feed[] = item.carousel_media ?? [item];
   return children.map((child) => {
     const image = largest(child.image_versions2.candidates);
     return {
@@ -202,9 +209,11 @@ async function youtubeVideos() {
 
   const key = html.match(/"INNERTUBE_API_KEY":"([^"]+)"/)?.[1];
   const version = html.match(/"clientVersion":"([\d.]+)"/)?.[1];
-  const pages = [
-    JSON.parse(html.match(/var ytInitialData = (\{.+?\});<\/script>/s)[1]),
-  ];
+  const initial = html.match(/var ytInitialData = (\{.+?\});<\/script>/s)?.[1];
+  if (!initial) {
+    throw new Error('channel: no ytInitialData');
+  }
+  const pages: Feed[] = [JSON.parse(initial)];
   let token = html.match(/"continuationCommand":\{"token":"([^"]+)"/)?.[1];
 
   for (let page = 0; token; page++) {
@@ -236,8 +245,8 @@ async function youtubeVideos() {
      Walking for the shape rather than the path: the videos tab keeps moving its
      grid between `richGridRenderer` and `reloadContinuationItemsCommand`, and
      every one of them holds the same lockups inside. */
-  const found = new Map();
-  const walk = (node) => {
+  const found = new Map<string, Feed>();
+  const walk = (node: Feed) => {
     if (Array.isArray(node)) {
       return node.forEach(walk);
     }
@@ -260,16 +269,16 @@ async function youtubeVideos() {
  * The four things a lockup says about a video, dug out of the view models it
  * says them in. Everything else in there is a menu.
  */
-function read(lockup) {
+function read(lockup: Feed) {
   const meta = lockup.metadata.lockupMetadataViewModel;
   const parts =
     meta.metadata?.contentMetadataViewModel?.metadataRows?.[0]?.metadataParts ??
     [];
   const badge = lockup.contentImage?.thumbnailViewModel?.overlays
     ?.flatMap(
-      (overlay) => overlay.thumbnailBottomOverlayViewModel?.badges ?? [],
+      (overlay: Feed) => overlay.thumbnailBottomOverlayViewModel?.badges ?? [],
     )
-    .find((b) => b.thumbnailBadgeViewModel?.text);
+    .find((b: Feed) => b.thumbnailBadgeViewModel?.text);
   return {
     id: lockup.contentId,
     title: meta.title?.content ?? '',
@@ -290,7 +299,7 @@ function read(lockup) {
  * usually a paragraph saying what the talk was and when it was given, and is
  * the whole reason the page is worth reading rather than just watching.
  */
-async function youtubeDetail(id) {
+async function youtubeDetail(id: string) {
   const html = await cached(`watch/${id}.html`, async () => {
     const res = await fetch(`https://www.youtube.com/watch?v=${id}`, {
       headers: { 'user-agent': UA },
@@ -319,11 +328,9 @@ async function youtubeDetail(id) {
  * this is a ceiling rather than an upscale. WebP because these are photographs
  * of photographs and nobody is going to print one.
  */
-async function store(url) {
-  const key = `instagram/${new URL(url).pathname
-    .split('/')
-    .pop()
-    .replace(/\.[^.]+$/, '')}.webp`;
+async function store(url: string) {
+  const name = new URL(url).pathname.split('/').pop() ?? '';
+  const key = `instagram/${name.replace(/\.[^.]+$/, '')}.webp`;
   const file = join(CACHE, 'media', key);
   const meta = await json(`meta/${key}.json`, async () => {
     const res = await fetch(url, { headers: { 'user-agent': UA } });
@@ -341,8 +348,8 @@ async function store(url) {
   return { key, url: `${R2}/${key}`, ...meta };
 }
 
-async function uploadAll(keys) {
-  const done = new Set(
+async function uploadAll(keys: string[]) {
+  const done: Set<string> = new Set(
     JSON.parse(await cached('uploaded.json', async () => '[]')),
   );
   const pending = keys.filter((key) => !done.has(key));
