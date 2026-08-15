@@ -1,5 +1,6 @@
 ---
-import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+import { getCollection, getEntry } from 'astro:content';
 import bulletins from '@/data/news.json';
 import Base from '@/layouts/Base.astro';
 
@@ -49,6 +50,10 @@ const EXPANDED = 6;
 type Bulletin = {
   kind: string;
   title?: string;
+  /** Slug of the play the notice is about, where it is about one. Hand-set in
+      `news.json`: matching the titles would guess, and three of the archive's
+      play pages are all called "The Norman Conquests". */
+  play?: string;
   when?: string;
   posted?: string;
   revised?: boolean;
@@ -56,10 +61,23 @@ type Bulletin = {
   href?: string | null;
 };
 
-const board = (bulletins.items as Bulletin[])
-  .filter((item) => item.kind === 'item' && item.title)
-  .sort((a, b) => (b.posted ?? '').localeCompare(a.posted ?? ''));
+const board = await Promise.all(
+  (bulletins.items as Bulletin[])
+    .filter((item) => item.kind === 'item' && item.title)
+    .sort((a, b) => (b.posted ?? '').localeCompare(a.posted ?? ''))
+    .map(async (item) => ({
+      item,
+      play: item.play
+        ? await getEntry('archive', `plays/${item.play}`)
+        : undefined,
+    })),
+);
 const boardUpdated = longDate(new Date(bulletins.updated));
+
+/* The oldest five notices predate the archivist's dated format and carry only
+   "2023" or, once, "Farcebook". His words, so his line. */
+const noticeDate = (item: Bulletin) =>
+  item.posted ? longDate(new Date(item.posted)) : item.when;
 ---
 
 <Base
@@ -94,16 +112,24 @@ const boardUpdated = longDate(new Date(bulletins.updated));
     The noticeboard: the archivist's own front page, in his order. Short,
     dated, sometimes revised — closer to a notice pinned up by the stage door
     than to an article, so it is set as one.
+
+    Open, not folded away. There are fifteen of these and each is a sentence or
+    three whose point is the link at the end of it; a title alone tells you
+    neither what happened nor where to go, so folding them hid the only part
+    that was any use. It also put a full reading-size paragraph under a
+    UI-sized label, which read as a caption above its own body text.
   */}
   <section
     aria-labelledby="noticeboard"
     class="border-rule border-b bg-surface-raised py-14"
   >
     <div class="shell">
-      <div class="flex items-baseline gap-4 border-rule border-b pb-3">
+      <div
+        class="flex flex-wrap items-baseline gap-x-5 gap-y-1 border-rule border-b pb-4"
+      >
         <h2
           id="noticeboard"
-          class="font-display text-[1.6rem] uppercase leading-none"
+          class="font-display text-[clamp(1.9rem,4.5vw,2.75rem)] uppercase leading-none"
         >
           Noticeboard
         </h2>
@@ -114,51 +140,71 @@ const boardUpdated = longDate(new Date(bulletins.updated));
         </p>
       </div>
 
-      <ul class="mt-2">
+      <ul>
         {
-          board.map((item) => (
+          board.map(({ item, play }) => (
             <li
-              class="border-rule/60 border-b last:border-0"
+              class="grid gap-x-10 gap-y-5 border-rule/60 border-b py-8 last:border-0 sm:grid-cols-[minmax(0,62ch)_auto] sm:justify-start"
               data-reveal
             >
-              <details class="group">
-                <summary
-                  class="flex cursor-pointer list-none items-baseline gap-4 py-4 [&::-webkit-details-marker]:hidden"
-                >
-                  <span class="min-w-0 flex-1">
-                    <span class="font-ui text-[0.95rem] font-medium transition-colors group-hover:text-accent">
-                      {item.title}
-                    </span>
-                    {item.revised && (
-                      <span class="ml-2 font-ui text-[0.6rem] uppercase tracking-[0.14em] text-muted">
-                        Updated
-                      </span>
-                    )}
-                  </span>
-                  {item.posted && (
-                    <time
-                      datetime={item.posted}
-                      class="shrink-0 font-ui text-[0.7rem] uppercase tracking-[0.1em] text-muted tabular-nums"
-                    >
-                      {dayMonth(new Date(item.posted))}
-                    </time>
+              <div class="min-w-0">
+                <p class="font-ui text-[0.68rem] uppercase tracking-[0.16em] text-muted">
+                  {item.posted ? (
+                    <time datetime={item.posted}>{noticeDate(item)}</time>
+                  ) : (
+                    noticeDate(item)
                   )}
-                  {/* The only affordance a summary needs, and it doubles as
-                      the open/closed state. */}
-                  <span
-                    aria-hidden="true"
-                    class="shrink-0 font-ui text-sm text-accent transition-transform duration-300 ease-stage group-open:rotate-45"
-                  >
-                    +
-                  </span>
-                </summary>
+                  {item.revised && (
+                    <span class="text-accent"> &mdash; updated</span>
+                  )}
+                </p>
+
+                <h3 class="mt-2 font-display text-[clamp(1.35rem,2.6vw,1.75rem)] uppercase leading-[1.05] text-balance">
+                  {item.href ? (
+                    <a
+                      href={item.href}
+                      class="transition-colors hover:text-accent"
+                    >
+                      {item.title}
+                    </a>
+                  ) : (
+                    item.title
+                  )}
+                </h3>
+
                 {item.detailHtml && (
                   <div
-                    class="prose-archive pb-5 text-[0.95em]"
+                    class="notice mt-3 max-w-[62ch] text-[0.85em] text-muted"
                     set:html={item.detailHtml}
                   />
                 )}
-              </details>
+              </div>
+
+              {/* The play it is about, where it is about one — five of the
+                  fifteen. No mat and no placeholder for the other ten: an
+                  empty frame reads as a picture that failed to load, and a
+                  notice about a book or an award has no poster to show. */}
+              {play?.data.poster && (
+                <a href={`/${play.id}`} class="group block w-32">
+                  {/* Posters run from square to double-height — the Norman
+                      Conquests sheet is all three plays stacked. A common
+                      height with the artwork sitting on it keeps the column
+                      even without cropping anybody's design. */}
+                  <div class="flex h-[11rem] items-end justify-center">
+                    <Image
+                      src={play.data.poster}
+                      alt=""
+                      widths={[128, 256]}
+                      sizes="8rem"
+                      class="max-h-full w-auto rounded-sm outline outline-rule -outline-offset-1 transition-transform duration-500 ease-stage group-hover:-translate-y-1 group-focus-visible:-translate-y-1"
+                    />
+                  </div>
+                  <span class="mt-3 block font-ui text-[0.6rem] uppercase leading-tight tracking-[0.14em] text-muted transition-colors group-hover:text-accent">
+                    {play.data.title}
+                    {play.data.year && <> &middot; {play.data.year}</>}
+                  </span>
+                </a>
+              )}
             </li>
           ))
         }
@@ -290,6 +336,26 @@ const boardUpdated = longDate(new Date(bulletins.updated));
 </Base>
 
 <style>
+  /*
+   * A notice is one paragraph of the archivist's own HTML, so it is styled here
+   * rather than given `prose-archive` — that utility opens a page at 1.2em,
+   * which is what set a notice above the headline it belongs to.
+   */
+  .notice :global(p + p) {
+    margin-top: 0.75em;
+  }
+
+  .notice :global(a) {
+    text-decoration: underline;
+    text-decoration-color: var(--color-accent);
+    text-underline-offset: 3px;
+    transition: color 0.25s var(--ease-stage);
+  }
+
+  .notice :global(a:hover) {
+    color: var(--color-body);
+  }
+
   /*
    * The dateline. One hairline down the page with a marker per dispatch — the
    * same vocabulary the run rule on What's On uses, because both are time drawn
