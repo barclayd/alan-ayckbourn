@@ -74,9 +74,16 @@ didn't cover. That list is the input to the full scrape.
 
 ## Theme model
 
-Chrome — hero, nav, section landings — stays theatrically dark in **both** themes so the
-art direction is never diluted. The light/dark toggle swaps only the reading surface:
-paper `#FAF7F0` / ink `#14110F` in light, charcoal `#1A1714` / bone `#EDE6DA` in dark.
+Two groups. The **reading surface** is paper `#FAF7F0` / ink `#14110F` in light, charcoal
+`#1A1714` / bone `#EDE6DA` in dark. **Chrome** — hero, nav, section landings — is the
+curtain, and a curtain looks different with the house lights up: oxblood `#3D1015` in
+light, near-black `#0B0A09` in dark. Saturation carries the drama in light mode rather
+than darkness, which is why light no longer opens on a black wall above the fold.
+
+Two colours stay fixed across both themes on purpose: the poster mat `#171412` (a display
+case, not the room) and the modal scrim `#0B0A09` (a veil over someone's photographs wants
+neutral darkness, not a red cast).
+
 Defaults to system preference, with a manual override in `localStorage` applied before
 first paint.
 
