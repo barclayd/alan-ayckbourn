@@ -2,8 +2,12 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "alan-ayckbourn",
   "compatibility_date": "2026-08-01",
+  // Worker-side logs. Nothing invokes a Worker today — every request is served
+  // straight off the asset CDN, so this stays quiet until there is a script to
+  // log. On for the day there is one; the visitor-side numbers come from the
+  // Cloudflare Web Analytics beacon in `Base.astro` instead.
   "observability": {
-    "enabled": false
+    "enabled": true
   },
   // Pure static site: no Worker script, just assets on the CDN. /contact
   // signposts the archive's own enquiries form rather than posting to one of

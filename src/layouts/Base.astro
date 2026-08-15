@@ -31,6 +31,17 @@ const {
 
 const fullTitle =
   title === 'Alan Ayckbourn' ? title : `${title} — Alan Ayckbourn`;
+
+/*
+ * Cloudflare Web Analytics: pageviews, paths, referrers and countries, with no
+ * cookie, no identifier and nothing to consent to — which is the only kind of
+ * measurement worth putting on someone else's archive.
+ *
+ * The token is a site ID from the Cloudflare dashboard, not a secret, but it is
+ * per-deployment, so it comes from the environment rather than the repo. Unset
+ * — every local build, every fork — and the beacon is simply not written.
+ */
+const beacon = import.meta.env.PUBLIC_CF_BEACON;
 ---
 
 <!doctype html>
@@ -190,5 +201,16 @@ const fullTitle =
         }
       });
     </script>
+
+    {
+      beacon && (
+        <script
+          is:inline
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon={JSON.stringify({ token: beacon })}
+        />
+      )
+    }
   </body>
 </html>
