@@ -35,13 +35,17 @@ const fullTitle =
 /*
  * Cloudflare Web Analytics: pageviews, paths, referrers and countries, with no
  * cookie, no identifier and nothing to consent to — which is the only kind of
- * measurement worth putting on someone else's archive.
+ * measurement worth putting on someone else's archive. It counts loads, not
+ * people: nothing here can tell one visitor from another, or a returning one
+ * from a new one.
  *
- * The token is a site ID from the Cloudflare dashboard, not a secret, but it is
- * per-deployment, so it comes from the environment rather than the repo. Unset
- * — every local build, every fork — and the beacon is simply not written.
+ * In the repo rather than the environment because the site tag is not a secret
+ * — it ships in the HTML of every page and is readable from view-source, so a
+ * build variable would be ceremony around a public string. A local build sends
+ * too; those land under host `localhost` and the dashboard's Host filter is
+ * what separates them.
  */
-const beacon = import.meta.env.PUBLIC_CF_BEACON;
+const beacon = '2c00b113806842f59760032deb9adb21';
 ---
 
 <!doctype html>
@@ -202,15 +206,11 @@ const beacon = import.meta.env.PUBLIC_CF_BEACON;
       });
     </script>
 
-    {
-      beacon && (
-        <script
-          is:inline
-          defer
-          src="https://static.cloudflareinsights.com/beacon.min.js"
-          data-cf-beacon={JSON.stringify({ token: beacon })}
-        />
-      )
-    }
+    <script
+      is:inline
+      type="module"
+      src="https://static.cloudflareinsights.com/beacon.min.js"
+      data-cf-beacon={JSON.stringify({ token: beacon })}
+    />
   </body>
 </html>
