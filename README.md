@@ -95,12 +95,9 @@ no identifier, nothing to consent to. Add the site in the Cloudflare dashboard u
 `PUBLIC_CF_BEACON` in **Workers & Pages → alan-ayckbourn → Settings → Variables**. Unset,
 the beacon is not written at all, so local builds and forks send nothing.
 
-It reports pageviews, referrers, countries and **Path** — and Path is the only dimension
-we can put anything of our own into; there is no query-string dimension. So the pages
-under `/hello/<name>` are the entry doors for the few people the concept is being shown
-to: `/hello/simon` turning up in Top Pages means that link was opened. It identifies the
-link, never the person — anyone it is forwarded to counts the same. Add a recipient by
-adding a line to `GUESTS` in `src/pages/hello/[who].astro`.
+It reports pageviews, paths, referrers, countries, device and browser. No query-string
+dimension, so campaign-style tagged links are invisible to it — Path is the only dimension
+a link can carry anything of its own in.
 
 `observability` in `wrangler.jsonc` covers the other half — Worker-side request logs.
 Nothing invokes a Worker today (the site is assets on the CDN), so it stays quiet until
