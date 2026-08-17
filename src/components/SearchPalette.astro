@@ -10,16 +10,17 @@ import Search from './Search.astro';
  * of focus are native. The only script here is the shortcut and the intercept.
  *
  * `mx-auto` below because Tailwind's preflight zeroes the `margin: auto` a
- * dialog centres itself with, which parks the panel against the left edge.
- * (Noted here rather than in the tag: Astro reads anything inside a tag as a
- * prop, comment or not.)
+ * dialog centres itself with, which parks the panel against the left edge — and
+ * against the top edge, which on a phone is behind the status bar, hence the
+ * `mt` at both sizes. (Noted here rather than in the tag: Astro reads anything
+ * inside a tag as a prop, comment or not.)
  */
 ---
 
 <dialog
   id="palette"
   aria-label="Search the archive"
-  class="mx-auto w-[min(46rem,calc(100vw-1.5rem))] rounded-sm border border-rule bg-surface p-0 text-body shadow-2xl shadow-black/40 backdrop:bg-scrim/80 backdrop:backdrop-blur-sm sm:mt-[12vh]"
+  class="mx-auto mt-[6vh] w-[min(46rem,calc(100vw-1.5rem))] rounded-sm border border-rule bg-surface p-0 text-body shadow-2xl shadow-black/40 backdrop:bg-scrim/80 backdrop:backdrop-blur-sm sm:mt-[12vh]"
 >
   <div class="max-h-[min(70dvh,44rem)] overflow-y-auto p-5 sm:p-7">
     <Search id="palette-q" autofocus />
