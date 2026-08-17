@@ -73,6 +73,16 @@
   --accent: #c1272d; /* 5.5:1 on paper */
   --accent-ink: #fffaf4;
 
+  /* The mark on a link that leaves the archive: a stroke to the north-east and
+     the corner of an arrowhead at its tip. Worn as a mask, so it takes the
+     colour of the words it follows and needs no second copy for the dark.
+
+     Every quote and space percent-encoded. The minifier drops the quotes from
+     around a url(), and an unquoted one may hold neither — it came out as
+     `url(data:…<svg xmlns=\"…)`, which leans on escapes being honoured inside
+     a url token. Encoded, there is nothing left in it to strip. */
+  --mark-external: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2010%2010%22%20fill=%22none%22%20stroke=%22%23000%22%20stroke-width=%221.3%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M2.7%207.3%207.3%202.7M4.2%202.7h3.1v3.1%22/%3E%3C/svg%3E);
+
   color-scheme: light;
 }
 
@@ -144,12 +154,25 @@
      middle of a play page is marked the same way as one in the footer — and a
      reader three thousand pages in knows before they click that Back is the
      only way home. Not on a link wrapped round a picture, where the arrow would
-     land in the corner of a photograph. The empty alternative text keeps it out
-     of the accessible name: a screen reader already says "link". */
+     land in the corner of a photograph.
+
+     Drawn rather than typed. As the character U+2197 it was a glyph no text
+     font on iOS has, so the fallback chain reached Apple Colour Emoji and the
+     mark came out as a blue-boxed emoji arrow at the end of every outbound
+     link. A mask rather than a background keeps it the colour of the words it
+     follows, in either theme. Empty content and no whitespace either side, so
+     it stays out of the accessible name — a screen reader already says
+     "link" — and cannot be left behind on a line of its own. */
   a[href^="http"]:not([href*="//alan-ayckbourn."]):not(:has(img, svg))::after {
-    content: "\00a0\2197" / "";
-    font-size: 0.78em;
+    content: "";
+    display: inline-block;
+    width: 0.62em;
+    height: 0.62em;
+    margin-inline-start: 0.3em;
+    background-color: currentColor;
     opacity: 0.65;
+    -webkit-mask: var(--mark-external) center / contain no-repeat;
+    mask: var(--mark-external) center / contain no-repeat;
   }
 }
 
