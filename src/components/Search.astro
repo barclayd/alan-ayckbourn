@@ -23,19 +23,22 @@ const { autofocus = false, id } = Astro.props;
       script cancels the submit and searches in place. */}
   <form role="search" action="/search" method="get" data-search-form>
     <label class="sr-only" for={id}>Search the archive</label>
-    <div class="flex items-center gap-3 border-rule border-b pb-3">
-      <svg
-        class="size-5 shrink-0 text-muted"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="1.6"
-        stroke-linecap="round"
-        aria-hidden="true"
-      >
-        <circle cx="10.6" cy="10.6" r="6.4"></circle>
-        <path d="m15.4 15.4 4.2 4.2"></path>
-      </svg>
+    {/*
+      The box office window: a slot with the accent key at the right of it,
+      rather than words on a hairline. On a phone a bottom rule reads as nothing
+      to tap, and the field it underlined was three quarters of the row wide —
+      "PLAYS, PEOPLE, PRODU…" was as much of the invitation as fitted next to the
+      word Search. One magnifier now, on the thing that acts rather than beside
+      the thing that waits, which is where the room came from.
+
+      The focus ring is off the input and on the slot: two pixels of ink round
+      the whole window instead of an accent rectangle drawn round the text, which
+      at this size was a red box in the middle of the panel. `input:focus-visible`
+      rather than `focus-within`, so the key keeps its own ring when tabbed to.
+    */}
+    <div
+      class="flex items-center gap-2 rounded-sm border border-rule bg-surface-raised p-1.5 pl-3.5 transition-colors duration-300 has-[input:focus-visible]:border-body has-[input:focus-visible]:ring-1 has-[input:focus-visible]:ring-body sm:gap-3 sm:pl-4"
+    >
       <input
         type="search"
         id={id}
@@ -45,14 +48,32 @@ const { autofocus = false, id } = Astro.props;
         spellcheck="false"
         enterkeyhint="search"
         placeholder="Plays, people, productions&hellip;"
-        class="w-full bg-transparent font-display text-2xl uppercase tracking-wide placeholder:text-muted [&::-webkit-search-cancel-button]:hidden sm:text-3xl"
+        class="min-w-0 flex-1 bg-transparent font-display text-xl uppercase tracking-wide placeholder:text-muted focus-visible:outline-none [&::-webkit-search-cancel-button]:hidden sm:text-3xl"
       />
-      {/* Native clear buttons vary; a submit keeps the no-JS path honest. */}
+      {/* Native clear buttons vary; a submit keeps the no-JS path honest.
+
+          The key's own focus ring is ink rather than the accent it is painted in:
+          red on red reads as a glow. And only the background transitions —
+          `transition-colors` would take the ring's colour with it, fading it up
+          from currentColor over 300ms, which starts a keyboard user off with an
+          almost-white outline on a cream field. */}
       <button
         type="submit"
-        class="shrink-0 font-ui text-[0.7rem] uppercase tracking-[0.2em] text-muted transition-colors hover:text-accent"
+        class="grid size-11 shrink-0 place-items-center rounded-[2px] bg-accent text-accent-ink transition-[background-color] duration-300 hover:bg-body focus-visible:outline-body sm:size-12"
       >
-        Search
+        <svg
+          class="size-5"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <circle cx="10.6" cy="10.6" r="6.4"></circle>
+          <path d="m15.4 15.4 4.2 4.2"></path>
+        </svg>
+        <span class="sr-only">Search</span>
       </button>
     </div>
   </form>
@@ -231,8 +252,13 @@ const { autofocus = false, id } = Astro.props;
         <span class="grid h-20 place-items-center rounded-[2px] bg-chrome-raised p-2 sm:h-24">
           ${
             r.meta.image
+              /* A height in rem rather than `max-h-full`, the way PlayCard sets
+                 its posters: a percentage max-height on a grid item resolves
+                 against a track the browser treats as indefinite while it sizes
+                 it, so a 175×426 poster came out 117px tall in an 80px case and
+                 hung out of the bottom of the card. */
               ? `<img src="${escape(r.meta.image)}" alt="" loading="lazy" data-poster
-                   class="max-h-full max-w-full rounded-[1px] shadow-lg shadow-black/40 transition-transform duration-500 ease-stage group-hover:-translate-y-0.5 group-hover:rotate-[1.2deg]" />`
+                   class="max-h-16 max-w-full rounded-[1px] shadow-lg shadow-black/40 transition-transform duration-500 ease-stage group-hover:-translate-y-0.5 group-hover:rotate-[1.2deg] sm:max-h-20" />`
               : `<span aria-hidden="true" class="font-display text-2xl tabular-nums text-chrome-ink/25">${escape(r.meta.year ?? '—')}</span>`
           }
         </span>
