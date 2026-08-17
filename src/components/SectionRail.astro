@@ -208,12 +208,18 @@ const spy = Boolean(merged) && id === root?.id;
        the rail does, so it is answered once here rather than by a second
        listener reading the same rects a frame later. */
     const bar = document.querySelector<HTMLElement>('[data-bar]');
-    const barLabel = bar?.querySelector<HTMLElement>('[data-bar-label]');
     const barCount = bar?.querySelector<HTMLElement>('[data-bar-count]');
+    const strip = bar?.querySelector<HTMLElement>('[data-bar-strip]');
+    /* Every copy, not the first one: the same stop is a link twice over — once in
+       the bar's sideways row, once in the list the bar's button opens. */
     const jumps = new Map(
       stops.map((stop) => [
         stop.id,
-        document.querySelector<HTMLAnchorElement>(`a[data-jump="${stop.id}"]`),
+        [
+          ...document.querySelectorAll<HTMLAnchorElement>(
+            `a[data-jump="${stop.id}"]`,
+          ),
+        ],
       ]),
     );
 
@@ -252,11 +258,12 @@ const spy = Boolean(merged) && id === root?.id;
         } else {
           link?.removeAttribute('aria-current');
         }
-        const jump = jumps.get(id);
-        if (id === active) {
-          jump?.setAttribute('aria-current', 'location');
-        } else {
-          jump?.removeAttribute('aria-current');
+        for (const jump of jumps.get(id) ?? []) {
+          if (id === active) {
+            jump.setAttribute('aria-current', 'location');
+          } else {
+            jump.removeAttribute('aria-current');
+          }
         }
       }
 
@@ -272,17 +279,32 @@ const spy = Boolean(merged) && id === root?.id;
 
       const index = stops.findIndex((stop) => stop.id === active);
       if (bar) {
-        /* Before the first stop the bar says what the page holds; inside one it
-           says which. Nothing invents a name for the head of the page. */
-        if (barLabel) {
-          barLabel.textContent =
-            index < 0
-              ? `${stops.length} sections`
-              : (link?.textContent?.trim() ?? '');
-        }
         if (barCount) {
+          /* Before the first stop there is no fraction to show, only a total. */
           barCount.textContent =
-            index < 0 ? '' : `${index + 1} / ${stops.length}`;
+            index < 0 ? `${stops.length}` : `${index + 1} / ${stops.length}`;
+        }
+        /*
+         * The row carries the stop being read into the middle of itself, so what
+         * is behind and what is next are both on screen. Measured rather than
+         * `scrollIntoView`: that would scroll the page as well as the row, and a
+         * spy that fights the reader's own scroll is worse than no marker.
+         *
+         * `scrollBy` off two rects rather than `scrollLeft` off `offsetLeft`,
+         * which is measured from the sticky nav and would be out by the gutter.
+         */
+        const chip = active
+          ? strip?.querySelector<HTMLElement>(`a[data-jump="${active}"]`)
+          : null;
+        if (strip && chip) {
+          const box = chip.getBoundingClientRect();
+          const row = strip.getBoundingClientRect();
+          strip.scrollBy({
+            left: box.left + box.width / 2 - (row.left + row.width / 2),
+            behavior: matchMedia('(prefers-reduced-motion: reduce)').matches
+              ? 'auto'
+              : 'smooth',
+          });
         }
         bar.style.setProperty(
           '--bar-progress',
