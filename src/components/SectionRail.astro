@@ -325,6 +325,49 @@ const spy = Boolean(merged) && id === root?.id;
       }
     };
 
+    /*
+     * A jump into this page used to land short of what it aimed at. The stops
+     * carry `content-visibility: auto` with a 1200px guess against their name
+     * (see [...slug].astro), and a guess is what the browser measures the page
+     * by when it works out where a fragment stops — three of them under-read
+     * above `#synopsis` left it 6,673px below where the reader was put, which
+     * is the middle of a different section.
+     *
+     * So the guessing ends before the first jump does, and it stays ended:
+     * handing the skipping back would collapse everything above the reader,
+     * which is the same jump again in the other direction.
+     */
+    const settle = () => {
+      for (const stop of stops) stop.style.contentVisibility = 'visible';
+    };
+
+    /* On arrival the browser has already stopped somewhere, so the landing is
+       taken again once the sections are their own height. */
+    const landing = stops.find((stop) => stop.id === location.hash.slice(1));
+    if (landing) {
+      settle();
+      landing.scrollIntoView({ behavior: 'instant' });
+    }
+
+    /* Captured, so the sections are laid out before the browser reads them to
+       find the fragment it was clicked for. Every jump on the page is a link to
+       a hash on it, wherever the link itself lives — the bar's row, the list it
+       opens, the rail, or the prose. */
+    addEventListener(
+      'click',
+      (event) => {
+        const link = (event.target as HTMLElement)?.closest?.('a[href*="#"]');
+        if (
+          link instanceof HTMLAnchorElement &&
+          link.pathname === location.pathname &&
+          stops.some((stop) => stop.id === link.hash.slice(1))
+        ) {
+          settle();
+        }
+      },
+      true,
+    );
+
     addEventListener(
       'scroll',
       () => {

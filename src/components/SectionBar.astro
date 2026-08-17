@@ -188,6 +188,9 @@ const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
    */
   if (list) document.body.append(list);
 
+  /* The stop the reader picked on the way out, if they picked one. */
+  let jumped: HTMLElement | null = null;
+
   list?.addEventListener('toggle', (event) => {
     const open = (event as ToggleEvent).newState === 'open';
     trigger?.setAttribute('aria-expanded', String(open));
@@ -195,11 +198,22 @@ const eyebrow = id.startsWith('plays/') ? 'In this play' : 'In this section';
       if (el !== list) el.toggleAttribute('inert', open);
     }
     (open ? lead : trigger)?.focus();
+    /*
+     * And then the jump, a second time, because handing focus back cancelled
+     * the first one: the link sets the page scrolling, this handler runs a task
+     * later, and a focus() is a scroll of its own. Picking a section out of the
+     * list left the reader within forty pixels of where they opened it.
+     */
+    jumped?.scrollIntoView({ behavior: 'instant' });
+    jumped = null;
   });
 
   list?.addEventListener('click', (event) => {
-    if ((event.target as HTMLElement).closest('a[data-jump]')) {
-      list.hidePopover();
-    }
+    const jump = (event.target as HTMLElement).closest<HTMLAnchorElement>(
+      'a[data-jump]',
+    );
+    if (!jump) return;
+    jumped = document.getElementById(jump.hash.slice(1));
+    list.hidePopover();
   });
 </script>
